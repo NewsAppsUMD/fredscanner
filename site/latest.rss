@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 May 2024 23:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 23:15:03 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:02 pm</title>
+      <description>4300 BLOCK REELS MILL RD Radio: 9C Units: E232</description>
+      <guid isPermaLink="false">2024-05-23 19:02:00</guid>
+      <pubDate>Thu, 23 May 2024 19:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:01 pm</title>
+      <description>2300 BLOCK PLEASANT VIEW RD Radio: 9C Units: BR145, E201</description>
+      <guid isPermaLink="false">2024-05-23 19:01:00</guid>
+      <pubDate>Thu, 23 May 2024 19:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:57 pm</title>
       <description>ADAMSTOWN RD / NEW DESIGN RD Radio: 9C Units: BR205, FS14</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, H MART Radio: 9C Units: E11, TW4</description>
       <guid isPermaLink="false">2024-05-22 09:57:00</guid>
       <pubDate>Wed, 22 May 2024 09:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 7:58 am</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A318, ALS31, PE311, EMS901</description>
-      <guid isPermaLink="false">2024-05-22 07:58:00</guid>
-      <pubDate>Wed, 22 May 2024 07:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:23 am</title>
-      <description>100 BLOCK STEINER WAY Radio: 9C Units: E31, TW4</description>
-      <guid isPermaLink="false">2024-05-22 07:23:00</guid>
-      <pubDate>Wed, 22 May 2024 07:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
