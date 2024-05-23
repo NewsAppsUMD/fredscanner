@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Latest alerts from fredscanner.com</title>
+    <link>https://github.com/NewsAppsUMD/fredscanner</link>
+    <description>An unofficial feed created by Derek Willis.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Thu, 23 May 2024 18:30:07 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 2:00 pm</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS Radio: 9C Units: E11, TW4</description>
+      <guid isPermaLink="false">2024-05-23 14:00:00</guid>
+      <pubDate>Thu, 23 May 2024 14:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK: 1:09 pm</title>
+      <description>6800 BLOCK WHISTLING SWAN WAY Radio: 9D Units: A159, ALS2, E152, EMS902</description>
+      <guid isPermaLink="false">2024-05-23 13:09:00</guid>
+      <pubDate>Thu, 23 May 2024 13:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TEST CALL: 12:44 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: E31, PE23, TW4</description>
+      <guid isPermaLink="false">2024-05-23 12:44:00</guid>
+      <pubDate>Thu, 23 May 2024 12:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TEST CALL: 12:43 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: E31, PE23</description>
+      <guid isPermaLink="false">2024-05-23 12:43:00</guid>
+      <pubDate>Thu, 23 May 2024 12:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:44 am</title>
+      <description>7300 BLOCK BURKITTSVILLE RD, HOLY FAMILY CATHOLIC CHURCH Units: E72, T5</description>
+      <guid isPermaLink="false">2024-05-23 11:44:00</guid>
+      <pubDate>Thu, 23 May 2024 11:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:43 am</title>
+      <description>100 BLOCK N MARKET ST, FREDERICK DELIGHTS Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2024-05-23 10:43:00</guid>
+      <pubDate>Thu, 23 May 2024 10:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:46 am</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Units: E291</description>
+      <guid isPermaLink="false">2024-05-23 09:46:00</guid>
+      <pubDate>Thu, 23 May 2024 09:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:21 am</title>
+      <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2024-05-23 09:21:00</guid>
+      <pubDate>Thu, 23 May 2024 09:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:10 am</title>
+      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Units: A39, E31</description>
+      <guid isPermaLink="false">2024-05-23 08:10:00</guid>
+      <pubDate>Thu, 23 May 2024 08:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:39 am</title>
+      <description>OLD NATIONAL PIKE / GREEN VALLEY RD Units: EMS901</description>
+      <guid isPermaLink="false">2024-05-23 00:39:00</guid>
+      <pubDate>Thu, 23 May 2024 00:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:36 am</title>
+      <description>OLD NATIONAL PIKE / GREEN VALLEY RD Units: A159, E152</description>
+      <guid isPermaLink="false">2024-05-23 00:36:00</guid>
+      <pubDate>Thu, 23 May 2024 00:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 10:46 pm</title>
+      <description>I270SB / RT109 Units: E232</description>
+      <guid isPermaLink="false">2024-05-22 22:46:00</guid>
+      <pubDate>Wed, 22 May 2024 22:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:08 pm</title>
+      <description>600 BLOCK FRANCIS SCOTT KEY HIGHWAY Units: EK114</description>
+      <guid isPermaLink="false">2024-05-22 21:08:00</guid>
+      <pubDate>Wed, 22 May 2024 21:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:05 pm</title>
+      <description>600 BLOCK FRANCIS SCOTT KEY HIGHWAY Units: E91, E132, E162, K9, EK134</description>
+      <guid isPermaLink="false">2024-05-22 21:05:00</guid>
+      <pubDate>Wed, 22 May 2024 21:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:55 pm</title>
+      <description>RT340WB / I70, RT340WB / I70 Radio: 9D Units: E11, R2, A19, PE23, EMS901</description>
+      <guid isPermaLink="false">2024-05-22 19:55:00</guid>
+      <pubDate>Wed, 22 May 2024 19:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:24 pm</title>
+      <description>I70WB / RT355, I70WB / RT355 Radio: 9C Units: E31, E23</description>
+      <guid isPermaLink="false">2024-05-22 19:24:00</guid>
+      <pubDate>Wed, 22 May 2024 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 6:18 pm</title>
+      <description>100 BLOCK TOWN CENTER DR Units: T5</description>
+      <guid isPermaLink="false">2024-05-22 18:18:00</guid>
+      <pubDate>Wed, 22 May 2024 18:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
+      <description>FINGERBOARD RD / PENN SHOP RD Units: E251</description>
+      <guid isPermaLink="false">2024-05-22 17:58:00</guid>
+      <pubDate>Wed, 22 May 2024 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:54 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL Radio: 9C Units: PE311, TW4</description>
+      <guid isPermaLink="false">2024-05-22 17:54:00</guid>
+      <pubDate>Wed, 22 May 2024 17:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 5:39 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: E152, E331, TW4</description>
+      <guid isPermaLink="false">2024-05-22 17:39:00</guid>
+      <pubDate>Wed, 22 May 2024 17:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:28 pm</title>
+      <description>4400 BLOCK REELS MILL RD, IFO Radio: 9B Units: A239, E232</description>
+      <guid isPermaLink="false">2024-05-22 17:28:00</guid>
+      <pubDate>Wed, 22 May 2024 17:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:29 pm</title>
+      <description>100 BLOCK E B ST Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2024-05-22 16:29:00</guid>
+      <pubDate>Wed, 22 May 2024 16:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:26 pm</title>
+      <description>100 BLOCK E B ST Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2024-05-22 16:26:00</guid>
+      <pubDate>Wed, 22 May 2024 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:56 pm</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, STATE HIGHWAY ADMINISTRATION Radio: 9C Units: PE311, TW4</description>
+      <guid isPermaLink="false">2024-05-22 15:56:00</guid>
+      <pubDate>Wed, 22 May 2024 15:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 3:22 pm</title>
+      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: E31, PE23, TW4, FS03</description>
+      <guid isPermaLink="false">2024-05-22 15:22:00</guid>
+      <pubDate>Wed, 22 May 2024 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:45 pm</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E291, Q11, EK224</description>
+      <guid isPermaLink="false">2024-05-22 13:45:00</guid>
+      <pubDate>Wed, 22 May 2024 13:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:37 pm</title>
+      <description>13300 BLOCK OLD NATIONAL PIKE Radio: 9D Units: CMD15</description>
+      <guid isPermaLink="false">2024-05-22 13:37:00</guid>
+      <pubDate>Wed, 22 May 2024 13:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:35 pm</title>
+      <description>13300 BLOCK OLD NATIONAL PIKE Radio: 9D Units: K17, K23</description>
+      <guid isPermaLink="false">2024-05-22 13:35:00</guid>
+      <pubDate>Wed, 22 May 2024 13:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:29 pm</title>
+      <description>13300 BLOCK OLD NATIONAL PIKE Radio: 9D Units: E152, E251, E331, PE23, R15, K33, BC901, SAF901, CCK1</description>
+      <guid isPermaLink="false">2024-05-22 13:29:00</guid>
+      <pubDate>Wed, 22 May 2024 13:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 1:27 pm</title>
+      <description>38800 BLOCK IRISH CORNER RD Units: RE52, T5, A196</description>
+      <guid isPermaLink="false">2024-05-22 13:27:00</guid>
+      <pubDate>Wed, 22 May 2024 13:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:15 pm</title>
+      <description>S MARKET ST / NEW DESIGN RD Radio: 9B Units: A38, E31</description>
+      <guid isPermaLink="false">2024-05-22 13:15:00</guid>
+      <pubDate>Wed, 22 May 2024 13:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:10 pm</title>
+      <description>WILLOWDALE DR / KEY PKWY Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2024-05-22 13:10:00</guid>
+      <pubDate>Wed, 22 May 2024 13:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TEST CALL: 12:53 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: PE311, E331</description>
+      <guid isPermaLink="false">2024-05-22 12:53:00</guid>
+      <pubDate>Wed, 22 May 2024 12:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TEST CALL: 12:48 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: E31, TW4, PE23</description>
+      <guid isPermaLink="false">2024-05-22 12:48:00</guid>
+      <pubDate>Wed, 22 May 2024 12:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:10 pm</title>
+      <description>NEW DESIGN RD / ARBOR DR Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2024-05-22 12:10:00</guid>
+      <pubDate>Wed, 22 May 2024 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 11:11 am</title>
+      <description>WOODSBORO PIKE / LIBERTY RD Units: CMD11</description>
+      <guid isPermaLink="false">2024-05-22 11:11:00</guid>
+      <pubDate>Wed, 22 May 2024 11:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 11:10 am</title>
+      <description>WOODSBORO PIKE / LIBERTY RD Units: BC902</description>
+      <guid isPermaLink="false">2024-05-22 11:10:00</guid>
+      <pubDate>Wed, 22 May 2024 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 11:08 am</title>
+      <description>WOODSBORO PIKE / LIBERTY RD Units: Q11</description>
+      <guid isPermaLink="false">2024-05-22 11:08:00</guid>
+      <pubDate>Wed, 22 May 2024 11:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 11:08 am</title>
+      <description>WOODSBORO PIKE / LIBERTY RD Units: E111, PE23, R2, RE171, A249, A29, A18, A318, ALS2</description>
+      <guid isPermaLink="false">2024-05-22 11:08:00</guid>
+      <pubDate>Wed, 22 May 2024 11:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:57 am</title>
+      <description>1000 BLOCK W PATRICK ST, H MART Radio: 9C Units: E11, TW4</description>
+      <guid isPermaLink="false">2024-05-22 09:57:00</guid>
+      <pubDate>Wed, 22 May 2024 09:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:58 am</title>
+      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A318, ALS31, PE311, EMS901</description>
+      <guid isPermaLink="false">2024-05-22 07:58:00</guid>
+      <pubDate>Wed, 22 May 2024 07:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:23 am</title>
+      <description>100 BLOCK STEINER WAY Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2024-05-22 07:23:00</guid>
+      <pubDate>Wed, 22 May 2024 07:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:20 am</title>
+      <description>RT15NB / RT550, RT15NB / RT77 Radio: 9C Units: E102</description>
+      <guid isPermaLink="false">2024-05-22 07:20:00</guid>
+      <pubDate>Wed, 22 May 2024 07:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:50 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK #5900 BLOCK Radio: 9C Units: E31, TW4, FS33</description>
+      <guid isPermaLink="false">2024-05-22 06:50:00</guid>
+      <pubDate>Wed, 22 May 2024 06:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:53 am</title>
+      <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Units: RE74</description>
+      <guid isPermaLink="false">2024-05-22 02:53:00</guid>
+      <pubDate>Wed, 22 May 2024 02:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:51 am</title>
+      <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Units: E72, E121, R8, A89</description>
+      <guid isPermaLink="false">2024-05-22 02:51:00</guid>
+      <pubDate>Wed, 22 May 2024 02:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:41 am</title>
+      <description>1500 BLOCK LAUREL WOOD WAY Radio: 9C Units: E291</description>
+      <guid isPermaLink="false">2024-05-22 01:41:00</guid>
+      <pubDate>Wed, 22 May 2024 01:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 8:39 pm</title>
+      <description>600 BLOCK HIMES AVE, Apt/Unit:104, OVERLOOK APTS Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2024-05-21 20:39:00</guid>
+      <pubDate>Tue, 21 May 2024 20:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:39 pm</title>
+      <description>10000 BLOCK PRESTWICH TER Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2024-05-21 20:39:00</guid>
+      <pubDate>Tue, 21 May 2024 20:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 7:52 pm</title>
+      <description>GAS HOUSE PIKE / SANANDREW DR Units: EMS902</description>
+      <guid isPermaLink="false">2024-05-21 19:52:00</guid>
+      <pubDate>Tue, 21 May 2024 19:52:00 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
