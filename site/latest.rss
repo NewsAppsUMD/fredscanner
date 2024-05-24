@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 15:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:41:18 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 11:38 am</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9D Units: CMD6</description>
+      <guid isPermaLink="false">2024-05-24 11:38:00</guid>
+      <pubDate>Fri, 24 May 2024 11:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 11:34 am</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9D Units: EK64</description>
+      <guid isPermaLink="false">2024-05-24 11:34:00</guid>
+      <pubDate>Fri, 24 May 2024 11:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 11:32 am</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9D Units: BC902</description>
+      <guid isPermaLink="false">2024-05-24 11:32:00</guid>
+      <pubDate>Fri, 24 May 2024 11:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 11:30 am</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9D Units: A69, ALS30, E61, EMS902</description>
+      <guid isPermaLink="false">2024-05-24 11:30:00</guid>
+      <pubDate>Fri, 24 May 2024 11:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 11:00 am</title>
       <description>MONOCACY BLVD / E SOUTH ST Radio: 9C Units: BC901</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK TOWN CENTER DR Units: T5</description>
       <guid isPermaLink="false">2024-05-22 18:18:00</guid>
       <pubDate>Wed, 22 May 2024 18:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
-      <description>FINGERBOARD RD / PENN SHOP RD Units: E251</description>
-      <guid isPermaLink="false">2024-05-22 17:58:00</guid>
-      <pubDate>Wed, 22 May 2024 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:54 pm</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL Radio: 9C Units: PE311, TW4</description>
-      <guid isPermaLink="false">2024-05-22 17:54:00</guid>
-      <pubDate>Wed, 22 May 2024 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 5:39 pm</title>
-      <description>100 BLOCK W MAIN ST Radio: 9C Units: E152, E331, TW4</description>
-      <guid isPermaLink="false">2024-05-22 17:39:00</guid>
-      <pubDate>Wed, 22 May 2024 17:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:28 pm</title>
-      <description>4400 BLOCK REELS MILL RD, IFO Radio: 9B Units: A239, E232</description>
-      <guid isPermaLink="false">2024-05-22 17:28:00</guid>
-      <pubDate>Wed, 22 May 2024 17:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
