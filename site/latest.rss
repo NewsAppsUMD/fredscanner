@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 22:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 22:14:17 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 6:02 pm</title>
+      <description>5700 BLOCK KENT DR Units: R15</description>
+      <guid isPermaLink="false">2024-05-24 18:02:00</guid>
+      <pubDate>Fri, 24 May 2024 18:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ATV ACCIDENT: 6:00 pm</title>
+      <description>5700 BLOCK KENT DR Units: E251, RE171, A259, ALS2, BC901, EMS900, FS15</description>
+      <guid isPermaLink="false">2024-05-24 18:00:00</guid>
+      <pubDate>Fri, 24 May 2024 18:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 5:52 pm</title>
       <description>I70WB / 38MM, BYPASSED TO: STATION 8,301 MAIN ST,MYERSVILLE Units: E82</description>
@@ -294,18 +306,6 @@
       <description>4700 BLOCK TUSCARORA RD Radio: 9C Units: BR285</description>
       <guid isPermaLink="false">2024-05-23 19:52:00</guid>
       <pubDate>Thu, 23 May 2024 19:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 pm</title>
-      <description>1500 BLOCK W PATRICK ST, SEVEN ELEVEN OLD CAMP Radio: 9B Units: E121</description>
-      <guid isPermaLink="false">2024-05-23 19:46:00</guid>
-      <pubDate>Thu, 23 May 2024 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:02 pm</title>
-      <description>4300 BLOCK REELS MILL RD Radio: 9C Units: E232</description>
-      <guid isPermaLink="false">2024-05-23 19:02:00</guid>
-      <pubDate>Thu, 23 May 2024 19:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
