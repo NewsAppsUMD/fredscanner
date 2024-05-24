@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 May 2024 00:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 00:26:05 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:06 pm</title>
+      <description>6700 BLOCK MANOR WOODS RD Units: E141</description>
+      <guid isPermaLink="false">2024-05-23 20:06:00</guid>
+      <pubDate>Thu, 23 May 2024 20:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:03 pm</title>
       <description>6700 BLOCK MANOR WOODS RD Units: BR145, FS14</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / ARBOR DR Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2024-05-22 12:10:00</guid>
       <pubDate>Wed, 22 May 2024 12:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 11:11 am</title>
-      <description>WOODSBORO PIKE / LIBERTY RD Units: CMD11</description>
-      <guid isPermaLink="false">2024-05-22 11:11:00</guid>
-      <pubDate>Wed, 22 May 2024 11:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
