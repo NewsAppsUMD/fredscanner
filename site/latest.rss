@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 02:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 02:19:01 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:10 pm</title>
+      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2024-05-24 22:10:00</guid>
+      <pubDate>Fri, 24 May 2024 22:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:53 pm</title>
       <description>100 BLOCK WAVERLEY DR, Apt/Unit:201, ELMWOOD TERRACE APTS Radio: 9C Units: E11, TW4</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK MANOR WOODS RD Units: E141</description>
       <guid isPermaLink="false">2024-05-23 20:06:00</guid>
       <pubDate>Thu, 23 May 2024 20:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:03 pm</title>
-      <description>6700 BLOCK MANOR WOODS RD Units: BR145, FS14</description>
-      <guid isPermaLink="false">2024-05-23 20:03:00</guid>
-      <pubDate>Thu, 23 May 2024 20:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
