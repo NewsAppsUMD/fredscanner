@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 May 2024 23:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 00:06:46 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:03 pm</title>
+      <description>NEW DESIGN RD / OLAND RD Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2024-05-25 20:03:00</guid>
+      <pubDate>Sat, 25 May 2024 20:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 8:01 pm</title>
+      <description>12500 BLOCK WOLFSVILLE RD Units: BR216</description>
+      <guid isPermaLink="false">2024-05-25 20:01:00</guid>
+      <pubDate>Sat, 25 May 2024 20:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:51 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE)(MYERSVILLE), I70WB / REST AREA Radio: 9D Units: RE74</description>
+      <guid isPermaLink="false">2024-05-25 19:51:00</guid>
+      <pubDate>Sat, 25 May 2024 19:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:50 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE)(MYERSVILLE), I70WB / REST AREA Radio: 9D Units: E72</description>
+      <guid isPermaLink="false">2024-05-25 19:50:00</guid>
+      <pubDate>Sat, 25 May 2024 19:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:48 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE)(MYERSVILLE), I70WB / REST AREA Radio: 9D Units: R8</description>
+      <guid isPermaLink="false">2024-05-25 19:48:00</guid>
+      <pubDate>Sat, 25 May 2024 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:44 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE)(MYERSVILLE), I70WB / REST AREA Radio: 9D Units: E82, A89, A78, ALS8, BC901, EMS902, FS08</description>
@@ -276,36 +306,6 @@
       <description>MEETING HOUSE RD / WOLFSVILLE RD Units: BR85</description>
       <guid isPermaLink="false">2024-05-24 14:01:00</guid>
       <pubDate>Fri, 24 May 2024 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:56 pm</title>
-      <description>MEETING HOUSE RD / WOLFSVILLE RD Units: BR216</description>
-      <guid isPermaLink="false">2024-05-24 13:56:00</guid>
-      <pubDate>Fri, 24 May 2024 13:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:42 pm</title>
-      <description>3900 BLOCK SWEET BRIAR LN Units: CMD23</description>
-      <guid isPermaLink="false">2024-05-24 13:42:00</guid>
-      <pubDate>Fri, 24 May 2024 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:35 pm</title>
-      <description>3900 BLOCK SWEET BRIAR LN Units: E232, E251</description>
-      <guid isPermaLink="false">2024-05-24 13:35:00</guid>
-      <pubDate>Fri, 24 May 2024 13:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 11:41 am</title>
-      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E102</description>
-      <guid isPermaLink="false">2024-05-24 11:41:00</guid>
-      <pubDate>Fri, 24 May 2024 11:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:38 am</title>
-      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9D Units: CMD6</description>
-      <guid isPermaLink="false">2024-05-24 11:38:00</guid>
-      <pubDate>Fri, 24 May 2024 11:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
