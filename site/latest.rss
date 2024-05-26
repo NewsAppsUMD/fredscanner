@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 May 2024 22:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 22:41:24 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:30 pm</title>
+      <description>PINE BLUFF RD / EAGLES NEST RD Units: E31</description>
+      <guid isPermaLink="false">2024-05-26 18:30:00</guid>
+      <pubDate>Sun, 26 May 2024 18:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:20 pm</title>
       <description>REICHS FORD RD / MONOCACY RIVER Radio: 9C Units: E31</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK KENT DR Units: R15</description>
       <guid isPermaLink="false">2024-05-24 18:02:00</guid>
       <pubDate>Fri, 24 May 2024 18:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 6:00 pm</title>
-      <description>5700 BLOCK KENT DR Units: E251, RE171, A259, ALS2, BC901, EMS900, FS15</description>
-      <guid isPermaLink="false">2024-05-24 18:00:00</guid>
-      <pubDate>Fri, 24 May 2024 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
