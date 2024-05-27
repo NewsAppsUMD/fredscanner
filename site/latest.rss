@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 21:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 21:41:16 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 5:37 pm</title>
+      <description>5200 BLOCK BAMBURG CT Units: TW4</description>
+      <guid isPermaLink="false">2024-05-27 17:37:00</guid>
+      <pubDate>Mon, 27 May 2024 17:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 5:30 pm</title>
+      <description>5200 BLOCK BAMBURG CT Units: E311, E31, PE23, E12, E501, R2, TW4, A38, ALS2, BC902, SAF901, FS31</description>
+      <guid isPermaLink="false">2024-05-27 17:30:00</guid>
+      <pubDate>Mon, 27 May 2024 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:26 pm</title>
       <description>1000 BLOCK REAGANS RD Radio: 9C Units: E291</description>
@@ -294,18 +306,6 @@
       <description>WOODSBORO PIKE / DAYSVILLE RD Radio: 9D Units: CMD11</description>
       <guid isPermaLink="false">2024-05-26 11:17:00</guid>
       <pubDate>Sun, 26 May 2024 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:13 am</title>
-      <description>DAYSVILLE AVE / WOODSBORO PIKE Radio: 9D Units: E111, R2, A249, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2024-05-26 11:13:00</guid>
-      <pubDate>Sun, 26 May 2024 11:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:51 am</title>
-      <description>GREEN VALLEY RD / FINGERBOARD RD, WILCOMS INN Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2024-05-26 10:51:00</guid>
-      <pubDate>Sun, 26 May 2024 10:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
