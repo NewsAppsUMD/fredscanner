@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 04:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 04:25:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:22 am</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: K33</description>
+      <guid isPermaLink="false">2024-05-27 00:22:00</guid>
+      <pubDate>Mon, 27 May 2024 00:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:22 am</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: E152</description>
+      <guid isPermaLink="false">2024-05-27 00:22:00</guid>
+      <pubDate>Mon, 27 May 2024 00:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:10 am</title>
       <description>7900 BLOCK BLACK RD Units: K9</description>
@@ -294,18 +306,6 @@
       <description>7800 BLOCK WORMANS MILL RD, BEHIND Radio: 9C Units: PE23, BR16, FS29</description>
       <guid isPermaLink="false">2024-05-25 15:39:00</guid>
       <pubDate>Sat, 25 May 2024 15:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 1:45 pm</title>
-      <description>100 BLOCK E GREEN ST, MIDDLETOWN LIBRARY Radio: 9C Units: RE74</description>
-      <guid isPermaLink="false">2024-05-25 13:45:00</guid>
-      <pubDate>Sat, 25 May 2024 13:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 9:31 am</title>
-      <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD Radio: 9C Units: E82, E11</description>
-      <guid isPermaLink="false">2024-05-25 09:31:00</guid>
-      <pubDate>Sat, 25 May 2024 09:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
