@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 22:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:53 pm</title>
+      <description>5400 BLOCK SHOOKSTOWN RD, Apt/Unit:HTTPS://A91.IO/ZRE90 Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2024-05-27 18:53:00</guid>
+      <pubDate>Mon, 27 May 2024 18:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:39 pm</title>
       <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Radio: CCA1 Units: E132</description>
@@ -300,12 +306,6 @@
       <description>6300 BLOCK NEW HAVEN CT Radio: 9C Units: E311, TW4</description>
       <guid isPermaLink="false">2024-05-26 12:14:00</guid>
       <pubDate>Sun, 26 May 2024 12:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:07 pm</title>
-      <description>BLACK ANKLE RD / TALBOT RUN RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2024-05-26 12:07:00</guid>
-      <pubDate>Sun, 26 May 2024 12:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
