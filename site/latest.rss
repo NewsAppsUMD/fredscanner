@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 04:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 04:33:09 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:24 am</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: E121, A38, K1</description>
+      <guid isPermaLink="false">2024-05-27 00:24:00</guid>
+      <pubDate>Mon, 27 May 2024 00:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:22 am</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: K33</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK SOLAR DR Radio: 9D Units: E111, E162, E291, Q11, BR116, A249, BR96, BC902, SAF901</description>
       <guid isPermaLink="false">2024-05-25 16:14:00</guid>
       <pubDate>Sat, 25 May 2024 16:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRAIN FIRE INVESTIGATION: 3:39 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, BEHIND Radio: 9C Units: PE23, BR16, FS29</description>
-      <guid isPermaLink="false">2024-05-25 15:39:00</guid>
-      <pubDate>Sat, 25 May 2024 15:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
