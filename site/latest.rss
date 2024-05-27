@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 21:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 21:24:10 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:20 pm</title>
+      <description>I70WB / 64MM, I70WB / 64MM Units: CMD15</description>
+      <guid isPermaLink="false">2024-05-27 17:20:00</guid>
+      <pubDate>Mon, 27 May 2024 17:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:12 pm</title>
+      <description>I70WB / 64MM, I70WB / 64MM Units: E331, R15, A339, EMS902, FS15</description>
+      <guid isPermaLink="false">2024-05-27 17:12:00</guid>
+      <pubDate>Mon, 27 May 2024 17:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:28 pm</title>
       <description>VALLEY SIDE DR / AMBER DR Radio: 9C Units: PE23, FS29</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Radio: 9C Units: E12, TW4</description>
       <guid isPermaLink="false">2024-05-26 09:58:00</guid>
       <pubDate>Sun, 26 May 2024 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>400 BLOCK PROSPECT BLVD, BEST WESTERN HOTEL Radio: 9C Units: E31, TW4</description>
-      <guid isPermaLink="false">2024-05-26 09:48:00</guid>
-      <pubDate>Sun, 26 May 2024 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING: 3:37 am</title>
-      <description>200 BLOCK E CHURCH ST Radio: 9B Units: E31, BC901, EMS902</description>
-      <guid isPermaLink="false">2024-05-26 03:37:00</guid>
-      <pubDate>Sun, 26 May 2024 03:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
