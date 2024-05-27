@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 May 2024 06:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:37:18 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 2:27 am</title>
+      <description>W PATRICK ST / HILLCREST DR Units: A19, ALS4, E12, EMS901</description>
+      <guid isPermaLink="false">2024-05-27 02:27:00</guid>
+      <pubDate>Mon, 27 May 2024 02:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 1:56 am</title>
       <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Units: ACE22</description>
@@ -300,12 +306,6 @@
       <description>WILLIAM HOUCK AREA, WILLIAM HOUCK AREA Units: CMD10</description>
       <guid isPermaLink="false">2024-05-25 18:59:00</guid>
       <pubDate>Sat, 25 May 2024 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 6:51 pm</title>
-      <description>WILLIAM HOUCK AREA, WILLIAM HOUCK AREA Units: U13</description>
-      <guid isPermaLink="false">2024-05-25 18:51:00</guid>
-      <pubDate>Sat, 25 May 2024 18:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
