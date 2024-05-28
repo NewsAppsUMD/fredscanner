@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 14:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 14:41:24 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:31 am</title>
+      <description>MD HEIGHTS RED TRAIL / SANDY HOOK RD Units: RE52</description>
+      <guid isPermaLink="false">2024-05-28 10:31:00</guid>
+      <pubDate>Tue, 28 May 2024 10:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 10:25 am</title>
       <description>100 BLOCK COUNCIL DR, EASTERN MOBILITY COMPANY Radio: 9D Units: E162</description>
@@ -300,12 +306,6 @@
       <description>BUTTERFLY LN / S MCCAIN DR Radio: 9C Units: E12</description>
       <guid isPermaLink="false">2024-05-26 22:43:00</guid>
       <pubDate>Sun, 26 May 2024 22:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:05 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: PE23, E31, R2, A29, A39</description>
-      <guid isPermaLink="false">2024-05-26 20:05:00</guid>
-      <pubDate>Sun, 26 May 2024 20:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
