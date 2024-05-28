@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 16:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 16:51:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
+      <description>N EAST ST / N MARKET ST Radio: 9B Units: A29, PE23</description>
+      <guid isPermaLink="false">2024-05-28 12:47:00</guid>
+      <pubDate>Tue, 28 May 2024 12:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:22 am</title>
       <description>9400 BLOCK FROSTOWN RD, IAO Radio: 9C Units: E82</description>
@@ -298,12 +304,6 @@
     <item>
       <title>HOUSE FIRE: 12:03 am</title>
       <description>7900 BLOCK BLACK RD Units: TTF, EK224, EK134</description>
-      <guid isPermaLink="false">2024-05-27 00:03:00</guid>
-      <pubDate>Mon, 27 May 2024 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:03 am</title>
-      <description>7900 BLOCK BLACK RD Units: CMD10</description>
       <guid isPermaLink="false">2024-05-27 00:03:00</guid>
       <pubDate>Mon, 27 May 2024 00:03:00 -0400</pubDate>
     </item>
