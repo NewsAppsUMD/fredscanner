@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 00:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 01:15:27 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:05 pm</title>
+      <description>10100 BLOCK HAMBURG RD Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2024-05-27 21:05:00</guid>
+      <pubDate>Mon, 27 May 2024 21:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:02 pm</title>
+      <description>10100 BLOCK HAMBURG RD Radio: 9C Units: BR85, FS29</description>
+      <guid isPermaLink="false">2024-05-27 21:02:00</guid>
+      <pubDate>Mon, 27 May 2024 21:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:15 pm</title>
       <description>5200 BLOCK PRESIDENTS CT, WINE DISTRICTS Radio: 9C Units: PE311, TW4</description>
@@ -294,18 +306,6 @@
       <description>7800 BLOCK WORMANS MILL RD, WEGMANS Radio: 9C Units: PE23, FS29</description>
       <guid isPermaLink="false">2024-05-26 13:36:00</guid>
       <pubDate>Sun, 26 May 2024 13:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:16 pm</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9D Units: A239, ALS23, E232, EMS901</description>
-      <guid isPermaLink="false">2024-05-26 13:16:00</guid>
-      <pubDate>Sun, 26 May 2024 13:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:21 pm</title>
-      <description>3200 BLOCK HYDE PARK CT Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2024-05-26 12:21:00</guid>
-      <pubDate>Sun, 26 May 2024 12:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
