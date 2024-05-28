@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 15:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:14:28 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:10 am</title>
+      <description>300 BLOCK BAUGHMANS LN, DREAMERS COVE APTS Radio: 9C Units: E12</description>
+      <guid isPermaLink="false">2024-05-28 11:10:00</guid>
+      <pubDate>Tue, 28 May 2024 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:08 am</title>
+      <description>11100 BLOCK BALDWIN RD W Units: E152, TW4</description>
+      <guid isPermaLink="false">2024-05-28 11:08:00</guid>
+      <pubDate>Tue, 28 May 2024 11:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:31 am</title>
       <description>MD HEIGHTS RED TRAIL / SANDY HOOK RD Units: RE52</description>
@@ -294,18 +306,6 @@
       <description>7900 BLOCK BLACK RD Units: K22</description>
       <guid isPermaLink="false">2024-05-26 23:59:00</guid>
       <pubDate>Sun, 26 May 2024 23:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:54 pm</title>
-      <description>7900 BLOCK BLACK RD Units: E102, E61, E132, E221, E162, R10, R6, K10, EK64, EK224, A309, ALS30, BC902, BC901</description>
-      <guid isPermaLink="false">2024-05-26 23:54:00</guid>
-      <pubDate>Sun, 26 May 2024 23:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:43 pm</title>
-      <description>BUTTERFLY LN / S MCCAIN DR Radio: 9C Units: E12</description>
-      <guid isPermaLink="false">2024-05-26 22:43:00</guid>
-      <pubDate>Sun, 26 May 2024 22:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
