@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 17:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 17:31:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
+      <description>YELLOW SPRINGS RD / YANKEELAND AVE Radio: 9B Units: A18, E12</description>
+      <guid isPermaLink="false">2024-05-28 13:27:00</guid>
+      <pubDate>Tue, 28 May 2024 13:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:10 pm</title>
       <description>RT75 / ARTIE KEMP RD, RT75 / ARTIE KEMP RD Radio: 9B Units: A159</description>
@@ -298,12 +304,6 @@
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:22 am</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: K33</description>
-      <guid isPermaLink="false">2024-05-27 00:22:00</guid>
-      <pubDate>Mon, 27 May 2024 00:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:22 am</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: E152</description>
       <guid isPermaLink="false">2024-05-27 00:22:00</guid>
       <pubDate>Mon, 27 May 2024 00:22:00 -0400</pubDate>
     </item>
