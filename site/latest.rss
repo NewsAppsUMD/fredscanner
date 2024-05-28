@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 14:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 14:31:52 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 10:25 am</title>
+      <description>100 BLOCK COUNCIL DR, EASTERN MOBILITY COMPANY Radio: 9D Units: E162</description>
+      <guid isPermaLink="false">2024-05-28 10:25:00</guid>
+      <pubDate>Tue, 28 May 2024 10:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 10:16 am</title>
       <description>100 BLOCK COUNCIL DR, EASTERN MOBILITY COMPANY Radio: 9D Units: CMD16</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: PE23, E31, R2, A29, A39</description>
       <guid isPermaLink="false">2024-05-26 20:05:00</guid>
       <pubDate>Sun, 26 May 2024 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:46 pm</title>
-      <description>7200 BLOCK(7500) BLK BLUE MOUNTAIN RD Units: BR106</description>
-      <guid isPermaLink="false">2024-05-26 19:46:00</guid>
-      <pubDate>Sun, 26 May 2024 19:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
