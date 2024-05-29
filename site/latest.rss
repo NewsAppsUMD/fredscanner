@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 May 2024 23:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:07:19 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:04 pm</title>
+      <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2024-05-28 20:04:00</guid>
+      <pubDate>Tue, 28 May 2024 20:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:53 pm</title>
+      <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: E311, TW4</description>
+      <guid isPermaLink="false">2024-05-28 19:53:00</guid>
+      <pubDate>Tue, 28 May 2024 19:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:42 pm</title>
       <description>RT340WB / RT67 Units: A197, ALS20, RE52</description>
@@ -294,18 +306,6 @@
       <description>I70EB / HARMONY RD, I70EB / 39MM Units: E72, E121, R8, A89</description>
       <guid isPermaLink="false">2024-05-27 06:09:00</guid>
       <pubDate>Mon, 27 May 2024 06:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 2:27 am</title>
-      <description>W PATRICK ST / HILLCREST DR Units: A19, ALS4, E12, EMS901</description>
-      <guid isPermaLink="false">2024-05-27 02:27:00</guid>
-      <pubDate>Mon, 27 May 2024 02:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 1:56 am</title>
-      <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Units: ACE22</description>
-      <guid isPermaLink="false">2024-05-27 01:56:00</guid>
-      <pubDate>Mon, 27 May 2024 01:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
