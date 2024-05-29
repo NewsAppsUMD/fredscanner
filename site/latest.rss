@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 12:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 12:47:23 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 8:37 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, MONOCACY VALLEY MONTESSORI SCHOOL Units: A299, ALS29, E291, EMS902</description>
+      <guid isPermaLink="false">2024-05-29 08:37:00</guid>
+      <pubDate>Wed, 29 May 2024 08:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:24 am</title>
       <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>10100 BLOCK HAMBURG RD Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2024-05-27 21:05:00</guid>
       <pubDate>Mon, 27 May 2024 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:02 pm</title>
-      <description>10100 BLOCK HAMBURG RD Radio: 9C Units: BR85, FS29</description>
-      <guid isPermaLink="false">2024-05-27 21:02:00</guid>
-      <pubDate>Mon, 27 May 2024 21:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
