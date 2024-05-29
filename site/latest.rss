@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 10:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 10:14:57 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:11 am</title>
+      <description>JASON MILL HIGHWAY / MYERSVILLE RD Units: E281</description>
+      <guid isPermaLink="false">2024-05-29 06:11:00</guid>
+      <pubDate>Wed, 29 May 2024 06:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:02 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Units: PE23, TW4</description>
+      <guid isPermaLink="false">2024-05-29 06:02:00</guid>
+      <pubDate>Wed, 29 May 2024 06:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:26 am</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: A159</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK MILL AVE Radio: CCA7 Units: E61</description>
       <guid isPermaLink="false">2024-05-27 18:24:00</guid>
       <pubDate>Mon, 27 May 2024 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:37 pm</title>
-      <description>5200 BLOCK BAMBURG CT Units: TW4</description>
-      <guid isPermaLink="false">2024-05-27 17:37:00</guid>
-      <pubDate>Mon, 27 May 2024 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:30 pm</title>
-      <description>5200 BLOCK BAMBURG CT Units: E311, E31, PE23, E12, E501, R2, TW4, A38, ALS2, BC902, SAF901, FS31</description>
-      <guid isPermaLink="false">2024-05-27 17:30:00</guid>
-      <pubDate>Mon, 27 May 2024 17:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
