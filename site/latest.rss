@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 14:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 14:31:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E291, Q11, EK224</description>
+      <guid isPermaLink="false">2024-05-29 10:23:00</guid>
+      <pubDate>Wed, 29 May 2024 10:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:58 am</title>
       <description>JEFFERSON PIKE / PIONEER CIR Radio: 9B Units: R14</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E31, PE23, R2, A39, A29</description>
       <guid isPermaLink="false">2024-05-28 10:14:00</guid>
       <pubDate>Tue, 28 May 2024 10:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 10:11 am</title>
-      <description>100 BLOCK COUNCIL DR, EASTERN MOBILITY COMPANY Radio: 9D Units: E91, E111, RE171, HM33, E121, A169, A179, ALS29, BC901, SAF901, EMS902</description>
-      <guid isPermaLink="false">2024-05-28 10:11:00</guid>
-      <pubDate>Tue, 28 May 2024 10:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
