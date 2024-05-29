@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 00:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 00:27:01 +0000</lastBuildDate>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 8:10 pm</title>
+      <description>RT340WB / ELMER RD, RT340WB / ELMER RD Radio: 9C Units: K1</description>
+      <guid isPermaLink="false">2024-05-28 20:10:00</guid>
+      <pubDate>Tue, 28 May 2024 20:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:07 pm</title>
+      <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2024-05-28 20:07:00</guid>
+      <pubDate>Tue, 28 May 2024 20:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 8:07 pm</title>
+      <description>RT340WB / ELMER RD, RT340WB / ELMER RD Radio: 9C Units: E201, EK204, BR205</description>
+      <guid isPermaLink="false">2024-05-28 20:07:00</guid>
+      <pubDate>Tue, 28 May 2024 20:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:04 pm</title>
       <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: BR55</description>
@@ -288,24 +306,6 @@
       <description>11900 BLOCK SOUTH ST Units: E172, RE171, A179</description>
       <guid isPermaLink="false">2024-05-27 07:59:00</guid>
       <pubDate>Mon, 27 May 2024 07:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:21 am</title>
-      <description>1600 BLOCK SHOOKSTOWN RD Units: E12</description>
-      <guid isPermaLink="false">2024-05-27 07:21:00</guid>
-      <pubDate>Mon, 27 May 2024 07:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:11 am</title>
-      <description>I70EB / HARMONY RD, I70EB / 39MM Units: RE74</description>
-      <guid isPermaLink="false">2024-05-27 06:11:00</guid>
-      <pubDate>Mon, 27 May 2024 06:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:09 am</title>
-      <description>I70EB / HARMONY RD, I70EB / 39MM Units: E72, E121, R8, A89</description>
-      <guid isPermaLink="false">2024-05-27 06:09:00</guid>
-      <pubDate>Mon, 27 May 2024 06:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
