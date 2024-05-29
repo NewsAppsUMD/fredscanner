@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 18:26:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 18:33:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:30 pm</title>
+      <description>RT75 / RT26, RT75 / RT26 Radio: 9D Units: E172, RE171, A179, ALS17, BC902, EMS902</description>
+      <guid isPermaLink="false">2024-05-29 14:30:00</guid>
+      <pubDate>Wed, 29 May 2024 14:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:50 pm</title>
       <description>1600 BLOCK MISTY MEADOW CIR, THE FRED APARTMENTS Radio: 9C Units: E12</description>
@@ -300,12 +306,6 @@
       <description>N EAST ST / N MARKET ST Radio: 9B Units: A29, PE23</description>
       <guid isPermaLink="false">2024-05-28 12:47:00</guid>
       <pubDate>Tue, 28 May 2024 12:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:22 am</title>
-      <description>9400 BLOCK FROSTOWN RD, IAO Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2024-05-28 11:22:00</guid>
-      <pubDate>Tue, 28 May 2024 11:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
