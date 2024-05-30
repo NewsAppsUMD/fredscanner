@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 May 2024 23:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 00:06:48 +0000</lastBuildDate>
+    <item>
+      <title>STRUCTURAL COLLAPSE: 7:59 pm</title>
+      <description>100 BLOCK SANDY SPRING CT 4, Apt/Unit:4 Radio: 9D Units: CMD10</description>
+      <guid isPermaLink="false">2024-05-29 19:59:00</guid>
+      <pubDate>Wed, 29 May 2024 19:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>STRUCTURAL COLLAPSE: 7:56 pm</title>
+      <description>100 BLOCK SANDY SPRING CT 4, Apt/Unit:4 Radio: 9D Units: E102, E61, R10, Q11, HM33, TR29, A309, A68, ALS30, BC902, SAF901, EMS902, FS10</description>
+      <guid isPermaLink="false">2024-05-29 19:56:00</guid>
+      <pubDate>Wed, 29 May 2024 19:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:02 pm</title>
       <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9B Units: A39, E31</description>
@@ -294,18 +306,6 @@
       <description>6100 BLOCK STONECAT CT Units: E331, FS15</description>
       <guid isPermaLink="false">2024-05-28 18:41:00</guid>
       <pubDate>Tue, 28 May 2024 18:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:17 pm</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / BLENTLINGER RD Units: E121</description>
-      <guid isPermaLink="false">2024-05-28 15:17:00</guid>
-      <pubDate>Tue, 28 May 2024 15:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:59 pm</title>
-      <description>100 BLOCK E FOURTH ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2024-05-28 14:59:00</guid>
-      <pubDate>Tue, 28 May 2024 14:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
