@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 May 2024 09:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 09:41:28 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:35 am</title>
+      <description>10500 BLOCK COOK BROTHERS RD Units: R2</description>
+      <guid isPermaLink="false">2024-05-30 05:35:00</guid>
+      <pubDate>Thu, 30 May 2024 05:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:29 am</title>
+      <description>10500 BLOCK COOK BROTHERS RD Units: E251, E232, E152, E331, E31, R15, TW4, K23, K33, A259, ALS23, BC901, BC902, SAF901, FS23</description>
+      <guid isPermaLink="false">2024-05-30 05:29:00</guid>
+      <pubDate>Thu, 30 May 2024 05:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:29 am</title>
+      <description>10500 BLOCK COOK BROTHERS RD Units: E251, E232, E152, E331, E31, R15, TW4, K23, K33, A259, ALS23, BC901, BC902, SAF901, FS23</description>
+      <guid isPermaLink="false">2024-05-30 05:29:00</guid>
+      <pubDate>Thu, 30 May 2024 05:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:41 am</title>
       <description>RT340WB / RT180 (PETERSVILLE), RT340WB / RT180 Radio: 9B Units: E201, A209</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: RE52</description>
       <guid isPermaLink="false">2024-05-28 20:07:00</guid>
       <pubDate>Tue, 28 May 2024 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 8:07 pm</title>
-      <description>RT340WB / ELMER RD, RT340WB / ELMER RD Radio: 9C Units: E201, EK204, BR205</description>
-      <guid isPermaLink="false">2024-05-28 20:07:00</guid>
-      <pubDate>Tue, 28 May 2024 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:04 pm</title>
-      <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2024-05-28 20:04:00</guid>
-      <pubDate>Tue, 28 May 2024 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:53 pm</title>
-      <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: E311, TW4</description>
-      <guid isPermaLink="false">2024-05-28 19:53:00</guid>
-      <pubDate>Tue, 28 May 2024 19:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
