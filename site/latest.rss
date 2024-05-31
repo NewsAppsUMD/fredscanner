@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 May 2024 21:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 21:23:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:19 pm</title>
+      <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, RT340WB / JEFFERSON TECHNOLOGY BLVD Radio: 9B Units: A18, E12</description>
+      <guid isPermaLink="false">2024-05-31 17:19:00</guid>
+      <pubDate>Fri, 31 May 2024 17:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 4:37 pm</title>
       <description>NEW DESIGN RD / FOXCROFT DR Radio: 9B Units: R2</description>
@@ -300,12 +306,6 @@
       <description>NINTH AVE / E B ST Radio: 9C Units: BR55</description>
       <guid isPermaLink="false">2024-05-30 08:43:00</guid>
       <pubDate>Thu, 30 May 2024 08:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:55 am</title>
-      <description>1200 BLOCK BAKER PL S, RESIDENCES AT THE MANOR Radio: 9C Units: TW4</description>
-      <guid isPermaLink="false">2024-05-30 07:55:00</guid>
-      <pubDate>Thu, 30 May 2024 07:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
