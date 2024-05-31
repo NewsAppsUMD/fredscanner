@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 May 2024 19:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 19:51:30 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 3:43 pm</title>
+      <description>100 BLOCK CRUM RD Radio: 9C Units: E111, E162, Q11</description>
+      <guid isPermaLink="false">2024-05-31 15:43:00</guid>
+      <pubDate>Fri, 31 May 2024 15:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 3:41 pm</title>
+      <description>POTOMAC RIVER / FOUR LOCKS Units: DSU15</description>
+      <guid isPermaLink="false">2024-05-31 15:41:00</guid>
+      <pubDate>Fri, 31 May 2024 15:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 2:39 pm</title>
       <description>POTOMAC RIVER / HORSESHOE BEND Units: BT28</description>
@@ -294,18 +306,6 @@
       <description>11200 BLOCK PANORAMA DR Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2024-05-30 06:18:00</guid>
       <pubDate>Thu, 30 May 2024 06:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:35 am</title>
-      <description>10500 BLOCK COOK BROTHERS RD Units: R2</description>
-      <guid isPermaLink="false">2024-05-30 05:35:00</guid>
-      <pubDate>Thu, 30 May 2024 05:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:29 am</title>
-      <description>10500 BLOCK COOK BROTHERS RD Units: E251, E232, E152, E331, E31, R15, TW4, K23, K33, A259, ALS23, BC901, BC902, SAF901, FS23</description>
-      <guid isPermaLink="false">2024-05-30 05:29:00</guid>
-      <pubDate>Thu, 30 May 2024 05:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
