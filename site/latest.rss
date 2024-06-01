@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Jun 2024 17:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 17:31:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 1:25 pm</title>
+      <description>8500 BLOCK GAMBRILL PARK RD, HIGH KNOB AREA GAMBRILL STATE PARK Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2024-06-01 13:25:00</guid>
+      <pubDate>Sat, 01 Jun 2024 13:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:24 pm</title>
+      <description>I70WB / MOUNT TABOR RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: E72, R8, A89, ALS8, EMS901</description>
+      <guid isPermaLink="false">2024-06-01 13:24:00</guid>
+      <pubDate>Sat, 01 Jun 2024 13:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 11:55 am</title>
       <description>E CHURCH ST / MONOCACY BLVD Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>3000 BLOCK BUCKEYSTOWN PIKE, BISHOP CLAGGETT CENTER Units: E141</description>
       <guid isPermaLink="false">2024-05-31 08:56:00</guid>
       <pubDate>Fri, 31 May 2024 08:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:29 am</title>
-      <description>RT15NB / RAMP RT15NB TO S JEFFERSON ST, RT15NB / RAMP RT15NB TO S JEFFERSON ST Units: E31, E12, R2, A39, A18</description>
-      <guid isPermaLink="false">2024-05-31 08:29:00</guid>
-      <pubDate>Fri, 31 May 2024 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:34 am</title>
-      <description>8000 BLOCK OPOSSUMTOWN PIKE, MONOCACY MIDDLE SCHOOL Units: E291</description>
-      <guid isPermaLink="false">2024-05-31 07:34:00</guid>
-      <pubDate>Fri, 31 May 2024 07:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
