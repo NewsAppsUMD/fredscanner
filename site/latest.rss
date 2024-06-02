@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jun 2024 19:13:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 19:21:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:16 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, CHURCH OF THE REDEEMER Radio: 9C Units: PE311, TW4</description>
+      <guid isPermaLink="false">2024-06-02 15:16:00</guid>
+      <pubDate>Sun, 02 Jun 2024 15:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:54 pm</title>
       <description>1000 BLOCK HEATHER RIDGE DR, COUNTRY HILL APTS BLDG A Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / FOXCROFT DR Radio: 9B Units: A319, ALS31, PE311, EMS901</description>
       <guid isPermaLink="false">2024-05-31 16:35:00</guid>
       <pubDate>Fri, 31 May 2024 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:43 pm</title>
-      <description>100 BLOCK CRUM RD Radio: 9C Units: E111, E162, Q11</description>
-      <guid isPermaLink="false">2024-05-31 15:43:00</guid>
-      <pubDate>Fri, 31 May 2024 15:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
