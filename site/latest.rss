@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Jun 2024 19:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 20:02:05 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:58 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
+      <guid isPermaLink="false">2024-06-02 15:58:00</guid>
+      <pubDate>Sun, 02 Jun 2024 15:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:54 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK64</description>
+      <guid isPermaLink="false">2024-06-02 15:54:00</guid>
+      <pubDate>Sun, 02 Jun 2024 15:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 3:52 pm</title>
+      <description>9200 BLOCK BESSIE CLEMSON RD Units: E251</description>
+      <guid isPermaLink="false">2024-06-02 15:52:00</guid>
+      <pubDate>Sun, 02 Jun 2024 15:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:49 pm</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: K22</description>
@@ -288,24 +306,6 @@
       <description>25600 BLOCK FREDERICK RD, CHRISTIAN CEMETARY Units: R15</description>
       <guid isPermaLink="false">2024-05-31 22:25:00</guid>
       <pubDate>Fri, 31 May 2024 22:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:23 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9D Units: CMD8</description>
-      <guid isPermaLink="false">2024-05-31 22:23:00</guid>
-      <pubDate>Fri, 31 May 2024 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:15 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9D Units: E121, E72, R8, A18, A89, ALS8, BC902, EMS901</description>
-      <guid isPermaLink="false">2024-05-31 22:15:00</guid>
-      <pubDate>Fri, 31 May 2024 22:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:50 pm</title>
-      <description>6000 BLOCK MOUNT PHILLIP RD Radio: 9D Units: E121, R20, ALS20, BC902, EMS901</description>
-      <guid isPermaLink="false">2024-05-31 21:50:00</guid>
-      <pubDate>Fri, 31 May 2024 21:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
