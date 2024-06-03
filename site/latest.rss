@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 21:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 22:02:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:53 pm</title>
+      <description>10800 BLOCK OLD NATIONAL PIKE Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2024-06-03 17:53:00</guid>
+      <pubDate>Mon, 03 Jun 2024 17:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:53 pm</title>
       <description>7900 BLOCK HOLLOW RD Radio: 9B Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>EAGLEBAY DR / MAIN ST Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2024-06-02 15:22:00</guid>
       <pubDate>Sun, 02 Jun 2024 15:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:16 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, CHURCH OF THE REDEEMER Radio: 9C Units: PE311, TW4</description>
-      <guid isPermaLink="false">2024-06-02 15:16:00</guid>
-      <pubDate>Sun, 02 Jun 2024 15:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
