@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Jun 2024 17:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 17:31:27 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 1:23 pm</title>
+      <description>100 BLOCK LAUREN CT Radio: 9D Units: E11, E31, PE23, E501, E121, R2, TW4, A18, ALS4, BC902, SAF901</description>
+      <guid isPermaLink="false">2024-06-03 13:23:00</guid>
+      <pubDate>Mon, 03 Jun 2024 13:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:20 am</title>
       <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9D Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK HEATHER RIDGE DR, Apt/Unit:111, COUNTRY HILL APTS BLDG B Radio: 9C Units: R2</description>
       <guid isPermaLink="false">2024-06-01 20:24:00</guid>
       <pubDate>Sat, 01 Jun 2024 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 8:22 pm</title>
-      <description>1000 BLOCK HEATHER RIDGE DR, Apt/Unit:111, COUNTRY HILL APTS BLDG B Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2024-06-01 20:22:00</guid>
-      <pubDate>Sat, 01 Jun 2024 20:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
