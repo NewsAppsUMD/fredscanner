@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 15:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 16:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:53 am</title>
+      <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: CMD10</description>
+      <guid isPermaLink="false">2024-06-04 11:53:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:51 am</title>
+      <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: E102</description>
+      <guid isPermaLink="false">2024-06-04 11:51:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:49 am</title>
+      <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: E101, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2024-06-04 11:49:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:48 am</title>
       <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: R10</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK POTOMAC ST Units: E82</description>
       <guid isPermaLink="false">2024-06-02 17:07:00</guid>
       <pubDate>Sun, 02 Jun 2024 17:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:03 pm</title>
-      <description>BLANDWOOD WAY / STARMOUNT CT Radio: 9C Units: Q11</description>
-      <guid isPermaLink="false">2024-06-02 17:03:00</guid>
-      <pubDate>Sun, 02 Jun 2024 17:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:00 pm</title>
-      <description>BLANDWOOD WAY / STARMOUNT CT Radio: 9C Units: BR116, FS15</description>
-      <guid isPermaLink="false">2024-06-02 17:00:00</guid>
-      <pubDate>Sun, 02 Jun 2024 17:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 4:29 pm</title>
-      <description>1700 BLOCK HILLMEADE SQ Units: CMD29</description>
-      <guid isPermaLink="false">2024-06-02 16:29:00</guid>
-      <pubDate>Sun, 02 Jun 2024 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
