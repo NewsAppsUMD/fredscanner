@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 20:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 20:14:31 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 4:09 pm</title>
+      <description>300 BLOCK S SETON AVE, EMMITSBURG ELEMENTARY SCHOOL Radio: 9C Units: R10</description>
+      <guid isPermaLink="false">2024-06-04 16:09:00</guid>
+      <pubDate>Tue, 04 Jun 2024 16:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 4:07 pm</title>
+      <description>300 BLOCK S SETON AVE, EMMITSBURG ELEMENTARY SCHOOL Radio: 9C Units: E61, E132, TW6, ACE232</description>
+      <guid isPermaLink="false">2024-06-04 16:07:00</guid>
+      <pubDate>Tue, 04 Jun 2024 16:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:55 pm</title>
       <description>MONTEREY LN / BUCHANAN TRL E Units: TW6, R10</description>
@@ -294,18 +306,6 @@
       <description>7300 BLOCK COUNTRYSIDE DR Units: K23, K22</description>
       <guid isPermaLink="false">2024-06-03 10:06:00</guid>
       <pubDate>Mon, 03 Jun 2024 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:58 am</title>
-      <description>7300 BLOCK COUNTRYSIDE DR Units: K33, EK114</description>
-      <guid isPermaLink="false">2024-06-03 09:58:00</guid>
-      <pubDate>Mon, 03 Jun 2024 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:54 am</title>
-      <description>7300 BLOCK COUNTRYSIDE DR Units: RID, E501, R2, A209, W7</description>
-      <guid isPermaLink="false">2024-06-03 09:54:00</guid>
-      <pubDate>Mon, 03 Jun 2024 09:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
