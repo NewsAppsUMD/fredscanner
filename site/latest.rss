@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 15:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 15:51:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:48 am</title>
+      <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: R10</description>
+      <guid isPermaLink="false">2024-06-04 11:48:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:46 am</title>
+      <description>RT15SB / CUNNINGHAM FALLS PARK RD, RT15SB / CUNNINGHAM FALLS PARK RD Units: A309, A229, E102</description>
+      <guid isPermaLink="false">2024-06-04 11:46:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:22 am</title>
       <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK HILLMEADE SQ Units: CMD29</description>
       <guid isPermaLink="false">2024-06-02 16:29:00</guid>
       <pubDate>Sun, 02 Jun 2024 16:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 4:18 pm</title>
-      <description>1700 BLOCK HILLMEADE SQ Units: E291, PE23</description>
-      <guid isPermaLink="false">2024-06-02 16:18:00</guid>
-      <pubDate>Sun, 02 Jun 2024 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:17 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL Units: E31, TW4</description>
-      <guid isPermaLink="false">2024-06-02 16:17:00</guid>
-      <pubDate>Sun, 02 Jun 2024 16:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
