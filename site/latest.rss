@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 19:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 19:41:36 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:32 pm</title>
+      <description>8500 BLOCK WOODVILLE RD Radio: 9D Units: E172, E162, E152, R15, Q11, K17, A179, ALS17, BC901, BC902, SAF901, FS17, CCK14</description>
+      <guid isPermaLink="false">2024-06-04 15:32:00</guid>
+      <pubDate>Tue, 04 Jun 2024 15:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 3:09 pm</title>
       <description>I70WB/37MM Units: E82</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / ROSEMONT AVE(ROSEMONT AVE), RT15SB / ROSEMONT AVE Units: A259</description>
       <guid isPermaLink="false">2024-06-03 08:00:00</guid>
       <pubDate>Mon, 03 Jun 2024 08:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:58 am</title>
-      <description>RT15SB / ROSEMONT AVE(ROSEMONT AVE), RT15SB / ROSEMONT AVE Units: PE23, E31, R2, A29, A39</description>
-      <guid isPermaLink="false">2024-06-03 07:58:00</guid>
-      <pubDate>Mon, 03 Jun 2024 07:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
