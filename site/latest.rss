@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 05:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 05:14:53 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 1:09 am</title>
+      <description>100 BLOCK CARLISLE ST Units: TW6</description>
+      <guid isPermaLink="false">2024-06-04 01:09:00</guid>
+      <pubDate>Tue, 04 Jun 2024 01:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:20 pm</title>
       <description>11000 BLOCK PLEASANT WALK RD Units: E82</description>
@@ -300,12 +306,6 @@
       <description>9200 BLOCK BESSIE CLEMSON RD Units: RE171, EK134</description>
       <guid isPermaLink="false">2024-06-02 15:37:00</guid>
       <pubDate>Sun, 02 Jun 2024 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 3:32 pm</title>
-      <description>9200 BLOCK BESSIE CLEMSON RD Units: TTF, EK114, K33, W17, CCK1, CCK14</description>
-      <guid isPermaLink="false">2024-06-02 15:32:00</guid>
-      <pubDate>Sun, 02 Jun 2024 15:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
