@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Jun 2024 15:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 15:24:28 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:22 am</title>
+      <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2024-06-04 11:22:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:17 am</title>
+      <description>5600 BLOCK SPECTRUM DR, OLIVE GARDEN RESTAURANT Radio: 9C Units: PE311, TW4</description>
+      <guid isPermaLink="false">2024-06-04 11:17:00</guid>
+      <pubDate>Tue, 04 Jun 2024 11:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:03 am</title>
       <description>100 BLOCK BLK RAMP RT15SB TO S JEFFERSON ST RAMP Units: PE311, E31, R2, A319, A318</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL Units: E31, TW4</description>
       <guid isPermaLink="false">2024-06-02 16:17:00</guid>
       <pubDate>Sun, 02 Jun 2024 16:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:12 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9C Units: E121, E82</description>
-      <guid isPermaLink="false">2024-06-02 16:12:00</guid>
-      <pubDate>Sun, 02 Jun 2024 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:09 pm</title>
-      <description>5000 BLOCK CAMELBACK LN Radio: 9C Units: E201</description>
-      <guid isPermaLink="false">2024-06-02 16:09:00</guid>
-      <pubDate>Sun, 02 Jun 2024 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
