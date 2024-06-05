@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 19:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 19:14:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
+      <description>THOMAS JOHNSON CT / THOMAS JOHNSON DR Radio: 9B Units: A299, E291, FS29</description>
+      <guid isPermaLink="false">2024-06-05 15:02:00</guid>
+      <pubDate>Wed, 05 Jun 2024 15:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
       <description>EAGLEHEAD DR / PECKING STONE ST Radio: 9B Units: A339, E331, FS15</description>
@@ -300,12 +306,6 @@
       <description>I70EB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Units: E121, E31, R2, A39</description>
       <guid isPermaLink="false">2024-06-04 03:45:00</guid>
       <pubDate>Tue, 04 Jun 2024 03:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 1:09 am</title>
-      <description>100 BLOCK CARLISLE ST Units: TW6</description>
-      <guid isPermaLink="false">2024-06-04 01:09:00</guid>
-      <pubDate>Tue, 04 Jun 2024 01:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
