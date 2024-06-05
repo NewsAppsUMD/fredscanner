@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 13:41:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 13:51:38 +0000</lastBuildDate>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 9:39 am</title>
+      <description>7700 BLOCK DOLLYHYDE RD Units: E172, K17, BR176</description>
+      <guid isPermaLink="false">2024-06-05 09:39:00</guid>
+      <pubDate>Wed, 05 Jun 2024 09:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>TEST CALL: 9:37 am</title>
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: EMS900</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK HOLLOW RD Radio: 9B Units: RE74</description>
       <guid isPermaLink="false">2024-06-03 16:53:00</guid>
       <pubDate>Mon, 03 Jun 2024 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:32 pm</title>
-      <description>6600 BLOCK COLDSTREAM DR Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2024-06-03 16:32:00</guid>
-      <pubDate>Mon, 03 Jun 2024 16:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
