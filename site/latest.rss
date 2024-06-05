@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Jun 2024 18:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 18:41:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
+      <description>EAGLEHEAD DR / PECKING STONE ST Radio: 9B Units: A339, E331, FS15</description>
+      <guid isPermaLink="false">2024-06-05 14:35:00</guid>
+      <pubDate>Wed, 05 Jun 2024 14:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:54 pm</title>
       <description>6500 BLOCK FOXVILLE RD, IAO Radio: 9B Units: A307, R10</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK CARLISLE ST Units: TW6</description>
       <guid isPermaLink="false">2024-06-04 01:09:00</guid>
       <pubDate>Tue, 04 Jun 2024 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:20 pm</title>
-      <description>11000 BLOCK PLEASANT WALK RD Units: E82</description>
-      <guid isPermaLink="false">2024-06-03 22:20:00</guid>
-      <pubDate>Mon, 03 Jun 2024 22:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
