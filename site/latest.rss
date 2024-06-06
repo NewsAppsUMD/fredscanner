@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Jun 2024 01:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 01:42:17 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:35 pm</title>
+      <description>9600 BLOCK WOODLAND RD Radio: 9C Units: E111, FS15</description>
+      <guid isPermaLink="false">2024-06-05 21:35:00</guid>
+      <pubDate>Wed, 05 Jun 2024 21:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:17 pm</title>
+      <description>OLD NATIONAL PIKE / JESSE SMITH RD Radio: 9B Units: E152</description>
+      <guid isPermaLink="false">2024-06-05 21:17:00</guid>
+      <pubDate>Wed, 05 Jun 2024 21:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:14 pm</title>
+      <description>OLD NATIONAL PIKE / JESSE SMITH RD Radio: 9B Units: A159, R15</description>
+      <guid isPermaLink="false">2024-06-05 21:14:00</guid>
+      <pubDate>Wed, 05 Jun 2024 21:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:05 pm</title>
       <description>BUTTERFLY LN / MOUNT PHILLIP RD Radio: 9B Units: E121</description>
@@ -288,24 +306,6 @@
       <description>5600 BLOCK SPECTRUM DR, OLIVE GARDEN RESTAURANT Radio: 9C Units: PE311, TW4</description>
       <guid isPermaLink="false">2024-06-04 11:17:00</guid>
       <pubDate>Tue, 04 Jun 2024 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:03 am</title>
-      <description>100 BLOCK BLK RAMP RT15SB TO S JEFFERSON ST RAMP Units: PE311, E31, R2, A319, A318</description>
-      <guid isPermaLink="false">2024-06-04 11:03:00</guid>
-      <pubDate>Tue, 04 Jun 2024 11:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:57 am</title>
-      <description>9200 BLOCK BEALLS FARM RD Units: E231, E251</description>
-      <guid isPermaLink="false">2024-06-04 08:57:00</guid>
-      <pubDate>Tue, 04 Jun 2024 08:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:03 am</title>
-      <description>BOYERS MILL RD / OLD NATIONAL PIKE Radio: 9B Units: A158, FS15</description>
-      <guid isPermaLink="false">2024-06-04 06:03:00</guid>
-      <pubDate>Tue, 04 Jun 2024 06:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
