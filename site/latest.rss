@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 13:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 13:26:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:21 am</title>
+      <description>HARPERS FERRY RD / JEFFERSON PIKE Units: RE52, ALS20, R20, A196</description>
+      <guid isPermaLink="false">2024-06-07 09:21:00</guid>
+      <pubDate>Fri, 07 Jun 2024 09:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:09 am</title>
       <description>500 BLOCK W MAIN ST Radio: 9B Units: 9B, A69, R6</description>
@@ -300,12 +306,6 @@
       <description>THOMAS JOHNSON CT / THOMAS JOHNSON DR Radio: 9B Units: A299, E291, FS29</description>
       <guid isPermaLink="false">2024-06-05 15:02:00</guid>
       <pubDate>Wed, 05 Jun 2024 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
-      <description>EAGLEHEAD DR / PECKING STONE ST Radio: 9B Units: A339, E331, FS15</description>
-      <guid isPermaLink="false">2024-06-05 14:35:00</guid>
-      <pubDate>Wed, 05 Jun 2024 14:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
