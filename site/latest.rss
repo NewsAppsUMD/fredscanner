@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 17:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 17:14:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:11 pm</title>
+      <description>I70EB / RT15-340, I70EB / RT15-340 Radio: 9D Units: E121, E31, R2, A129, A39, ALS4, BC903, 9D, SAF901, EMS902</description>
+      <guid isPermaLink="false">2024-06-07 13:11:00</guid>
+      <pubDate>Fri, 07 Jun 2024 13:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:10 pm</title>
+      <description>I70EB / RT15-340, I70EB / RT15-340 Radio: 9D Units: E121, E31, R2, A129, A39, ALS4, BC903, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-06-07 13:10:00</guid>
+      <pubDate>Fri, 07 Jun 2024 13:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 11:26 am</title>
       <description>4200 BLOCK CHESNUT HILL RD Units: K5</description>
@@ -294,18 +306,6 @@
       <description>REICHS FORD RD / RAMP I70EB TO REICHS FORD RD RAMP Units: A39, E31</description>
       <guid isPermaLink="false">2024-06-06 04:51:00</guid>
       <pubDate>Thu, 06 Jun 2024 04:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:40 am</title>
-      <description>12700 BLOCK CATOCTIN HOLLOW RD, IFO Units: E102</description>
-      <guid isPermaLink="false">2024-06-06 04:40:00</guid>
-      <pubDate>Thu, 06 Jun 2024 04:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:21 am</title>
-      <description>5100 BLOCK CONSTITUTION ST Units: PE311</description>
-      <guid isPermaLink="false">2024-06-06 03:21:00</guid>
-      <pubDate>Thu, 06 Jun 2024 03:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
