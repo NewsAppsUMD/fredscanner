@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Jun 2024 02:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 02:24:20 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 10:09 pm</title>
+      <description>300 BLOCK PROSPECT BLVD, Bldg:B, FIELDPOINTE APARTMENTS LL: 39.40145741, -77.42078916Radio: 9C Units: TW4, 9C, E31, PE23</description>
+      <guid isPermaLink="false">2024-06-06 22:09:00</guid>
+      <pubDate>Thu, 06 Jun 2024 22:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:30 pm</title>
       <description>7100 BLOCK LADD CIR LL: 39.38716282, -77.42085133  Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: EMS900</description>
       <guid isPermaLink="false">2024-06-05 09:37:00</guid>
       <pubDate>Wed, 05 Jun 2024 09:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:05 am</title>
-      <description>1600 BLOCK NELSON ST Units: E501, TW4</description>
-      <guid isPermaLink="false">2024-06-05 09:05:00</guid>
-      <pubDate>Wed, 05 Jun 2024 09:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
