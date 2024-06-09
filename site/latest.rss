@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 16:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 16:41:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:38 pm</title>
+      <description>OLAND RD / BUCKEYSTOWN PIKE Radio: 9D Units: 9D, A149, EMS901, FS14, E141, ALS31</description>
+      <guid isPermaLink="false">2024-06-09 12:38:00</guid>
+      <pubDate>Sun, 09 Jun 2024 12:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:34 pm</title>
+      <description>OLAND RD / BUCKEYSTOWN PIKE Radio: 9B Units: A149, R14, 9B</description>
+      <guid isPermaLink="false">2024-06-09 12:34:00</guid>
+      <pubDate>Sun, 09 Jun 2024 12:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 11:13 am</title>
       <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Units: E82, WCE162</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / POWELL RD, RT15SB / POWELL RD Radio: 9D Units: EMS902, 9D, ALS30, A249, PE23, E102, HTRP3, ALS29, CMD22, E291, R10, A229, SOBC900, BC902, A307</description>
       <guid isPermaLink="false">2024-06-07 10:30:00</guid>
       <pubDate>Fri, 07 Jun 2024 10:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:28 am</title>
-      <description>RT15SB / POWELL RD, RT15SB / POWELL RD Radio: 9D Units: EMS902, 9D, ALS30, E102, ALS29, CMD22, E291, R10, A229, SOBC900, BC902, A307</description>
-      <guid isPermaLink="false">2024-06-07 10:28:00</guid>
-      <pubDate>Fri, 07 Jun 2024 10:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:17 am</title>
-      <description>RT15SB / POWELL RD, RT15SB / POWELL RD Radio: 9D Units: EMS902, 9D, ALS30, E221, E291, R10, A229, BC902</description>
-      <guid isPermaLink="false">2024-06-07 10:17:00</guid>
-      <pubDate>Fri, 07 Jun 2024 10:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
