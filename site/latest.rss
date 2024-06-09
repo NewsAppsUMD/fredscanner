@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 02:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 02:32:45 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 10:22 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: 9C, E141</description>
+      <guid isPermaLink="false">2024-06-08 22:22:00</guid>
+      <pubDate>Sat, 08 Jun 2024 22:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 10:20 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: BR145, 9C</description>
+      <guid isPermaLink="false">2024-06-08 22:20:00</guid>
+      <pubDate>Sat, 08 Jun 2024 22:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 9:42 pm</title>
       <description>WORTHINGTON BLVD / FINGERBOARD RD Radio: 9D Units: E231, TT23, R15, A239, ALS23, BC901, 9D, EMS901</description>
@@ -294,18 +306,6 @@
       <description>RHODE ISLAND CT / VERMONT CT LL: 39.41189522, -77.39986564Radio: 9C Units: BR35, 9C</description>
       <guid isPermaLink="false">2024-06-06 22:53:00</guid>
       <pubDate>Thu, 06 Jun 2024 22:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 10:09 pm</title>
-      <description>300 BLOCK PROSPECT BLVD, Bldg:B, FIELDPOINTE APARTMENTS LL: 39.40145741, -77.42078916Radio: 9C Units: TW4, 9C, E31, PE23</description>
-      <guid isPermaLink="false">2024-06-06 22:09:00</guid>
-      <pubDate>Thu, 06 Jun 2024 22:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:30 pm</title>
-      <description>7100 BLOCK LADD CIR LL: 39.38716282, -77.42085133  Units: PE311</description>
-      <guid isPermaLink="false">2024-06-06 21:30:00</guid>
-      <pubDate>Thu, 06 Jun 2024 21:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
