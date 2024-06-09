@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Jun 2024 05:24:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 05:31:29 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:23 am</title>
+      <description>2400 BLOCK HUNTERS CHASE CT Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2024-06-09 01:23:00</guid>
+      <pubDate>Sun, 09 Jun 2024 01:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 10:48 pm</title>
       <description>5600 BLOCK SINGLETREE DR Radio: 9C Units: E31, PE311, TW4, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD LL: 39.44415869, -77.50064942Radio: 9B Units: E72, A89, 9B, E121, R8, A18</description>
       <guid isPermaLink="false">2024-06-07 00:19:00</guid>
       <pubDate>Fri, 07 Jun 2024 00:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 10:54 pm</title>
-      <description>RHODE ISLAND CT / VERMONT CT LL: 39.41189522, -77.39986564Radio: 9C Units: 9C, E31</description>
-      <guid isPermaLink="false">2024-06-06 22:54:00</guid>
-      <pubDate>Thu, 06 Jun 2024 22:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
