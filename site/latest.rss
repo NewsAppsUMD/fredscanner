@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 21:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 21:14:23 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 5:01 pm</title>
+      <description>1400 BLOCK KEY PKWY, Bldg:B, Apt/Unit:D, HUNTERS GLEN APTS Radio: 9D Units: E121, E31, E501, PE23, TW4, T50, A18, ALS4, BC903, BC902, 9D, R2, SAF901, E11</description>
+      <guid isPermaLink="false">2024-06-11 17:01:00</guid>
+      <pubDate>Tue, 11 Jun 2024 17:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:54 pm</title>
       <description>URBANA PIKE / LOWES LN Radio: 9B Units: PE311, 9B, A319</description>
@@ -300,12 +306,6 @@
       <description>OLAND RD / BUCKEYSTOWN PIKE Radio: 9D Units: 9D, A149, EMS901, FS14, E141, ALS31</description>
       <guid isPermaLink="false">2024-06-09 12:38:00</guid>
       <pubDate>Sun, 09 Jun 2024 12:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:34 pm</title>
-      <description>OLAND RD / BUCKEYSTOWN PIKE Radio: 9B Units: A149, R14, 9B</description>
-      <guid isPermaLink="false">2024-06-09 12:34:00</guid>
-      <pubDate>Sun, 09 Jun 2024 12:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
