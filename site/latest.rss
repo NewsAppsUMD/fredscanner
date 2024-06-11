@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 15:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 16:02:16 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 11:59 am</title>
+      <description>800 BLOCK WATERFORD DR Units: E11</description>
+      <guid isPermaLink="false">2024-06-11 11:59:00</guid>
+      <pubDate>Tue, 11 Jun 2024 11:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>TEST CALL: 11:17 am</title>
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: EMS900, OPSDC900</description>
@@ -300,12 +306,6 @@
       <description>PETERSVILLE RD / C&amp;O CANAL TOWPATH Units: BTSU19, BT28, E51, BT19</description>
       <guid isPermaLink="false">2024-06-09 02:08:00</guid>
       <pubDate>Sun, 09 Jun 2024 02:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:23 am</title>
-      <description>2400 BLOCK HUNTERS CHASE CT Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2024-06-09 01:23:00</guid>
-      <pubDate>Sun, 09 Jun 2024 01:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
