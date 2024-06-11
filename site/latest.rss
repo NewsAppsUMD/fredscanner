@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 17:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 17:51:27 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 1:42 pm</title>
+      <description>I270SB / 24MM, I270SB / 24MM Radio: 9C Units: 9C, PE735, PRE709, E231</description>
+      <guid isPermaLink="false">2024-06-11 13:42:00</guid>
+      <pubDate>Tue, 11 Jun 2024 13:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 1:40 pm</title>
+      <description>I270SB / 24MM, I270SB / 24MM Radio: 9C Units: 9C, BR235, PE735</description>
+      <guid isPermaLink="false">2024-06-11 13:40:00</guid>
+      <pubDate>Tue, 11 Jun 2024 13:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 11:59 am</title>
       <description>800 BLOCK WATERFORD DR Units: E11</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: PE311, 9C</description>
       <guid isPermaLink="false">2024-06-09 08:32:00</guid>
       <pubDate>Sun, 09 Jun 2024 08:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:44 am</title>
-      <description>6500 BLOCK SPRINGWATER CT, HAMPTON COURT CONDOS Radio: 9C Units: E331, 9C, TW4</description>
-      <guid isPermaLink="false">2024-06-09 03:44:00</guid>
-      <pubDate>Sun, 09 Jun 2024 03:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:08 am</title>
-      <description>PETERSVILLE RD / C&amp;O CANAL TOWPATH Units: BTSU19, BT28, E51, BT19</description>
-      <guid isPermaLink="false">2024-06-09 02:08:00</guid>
-      <pubDate>Sun, 09 Jun 2024 02:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
