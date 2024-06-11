@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Jun 2024 15:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 15:24:32 +0000</lastBuildDate>
+    <item>
+      <title>TEST CALL: 11:17 am</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: EMS900, OPSDC900</description>
+      <guid isPermaLink="false">2024-06-11 11:17:00</guid>
+      <pubDate>Tue, 11 Jun 2024 11:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:56 am</title>
       <description>15100 BLOCK LIBERTY RD, ELK RUN VINEYARDS Radio: 9C Units: 9C, E172</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK HUNTERS CHASE CT Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-06-09 01:23:00</guid>
       <pubDate>Sun, 09 Jun 2024 01:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 10:48 pm</title>
-      <description>5600 BLOCK SINGLETREE DR Radio: 9C Units: E31, PE311, TW4, 9C</description>
-      <guid isPermaLink="false">2024-06-08 22:48:00</guid>
-      <pubDate>Sat, 08 Jun 2024 22:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
