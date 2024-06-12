@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Jun 2024 13:26:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 13:32:19 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 9:38 pm</title>
+      <description>4600 BLOCK WEDGEWOOD BLVD Radio: 9C Units: PE311, 9C</description>
+      <guid isPermaLink="false">2024-06-12 21:38:00</guid>
+      <pubDate>Wed, 12 Jun 2024 21:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:40 am</title>
+      <description>MONOCACY BLVD / RAMP I70WB TO MONOCACY BLVD RAMP Radio: 9B Units: 9B, A38, E31</description>
+      <guid isPermaLink="false">2024-06-12 08:40:00</guid>
+      <pubDate>Wed, 12 Jun 2024 08:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:02 am</title>
+      <description>4700 BLOCK S REYBURN CT Units: E251</description>
+      <guid isPermaLink="false">2024-06-12 00:02:00</guid>
+      <pubDate>Wed, 12 Jun 2024 00:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 5:01 pm</title>
       <description>1400 BLOCK KEY PKWY, Bldg:B, Apt/Unit:D, HUNTERS GLEN APTS Radio: 9D Units: E121, E31, E501, PE23, TW4, T50, A18, ALS4, BC903, BC902, 9D, R2, SAF901, E11</description>
@@ -288,24 +306,6 @@
       <description>MONOCACY BLVD / E PATRICK ST Units: A38, E31</description>
       <guid isPermaLink="false">2024-06-09 15:01:00</guid>
       <pubDate>Sun, 09 Jun 2024 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:34 pm</title>
-      <description>100 BLOCK FREDERICK RD, CRISWELL JEEP / DODGE/ RAM Units: E102, FS10</description>
-      <guid isPermaLink="false">2024-06-09 13:34:00</guid>
-      <pubDate>Sun, 09 Jun 2024 13:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 1:07 pm</title>
-      <description>100 BLOCK HARPERS WAY Radio: 9C Units: PE23, 9C, E291, T50</description>
-      <guid isPermaLink="false">2024-06-09 13:07:00</guid>
-      <pubDate>Sun, 09 Jun 2024 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:38 pm</title>
-      <description>OLAND RD / BUCKEYSTOWN PIKE Radio: 9D Units: 9D, A149, EMS901, FS14, E141, ALS31</description>
-      <guid isPermaLink="false">2024-06-09 12:38:00</guid>
-      <pubDate>Sun, 09 Jun 2024 12:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
