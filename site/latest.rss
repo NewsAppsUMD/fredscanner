@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 16:44:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 16:51:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:49 pm</title>
+      <description>5400 BLOCK URBANA PIKE, TARGET Radio: 9B Units: A319, PE311, 9B</description>
+      <guid isPermaLink="false">2024-06-13 12:49:00</guid>
+      <pubDate>Thu, 13 Jun 2024 12:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 12:39 pm</title>
       <description>900 BLOCK BLUELEAF CT, Apt/Unit:B Radio: 9C Units: PE23, 9C</description>
@@ -300,12 +306,6 @@
       <description>16500 BLOCK OLD EMMITSBURG RD Radio: 9D Units: EK64, 9D, EMS902, A68, ALS30, BC902, R6</description>
       <guid isPermaLink="false">2024-06-10 01:18:00</guid>
       <pubDate>Mon, 10 Jun 2024 01:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:13 am</title>
-      <description>16500 BLOCK OLD EMMITSBURG RD Units: EMS902, A68, ALS30, BC902, E61, R6</description>
-      <guid isPermaLink="false">2024-06-10 01:13:00</guid>
-      <pubDate>Mon, 10 Jun 2024 01:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
