@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 02:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 03:02:21 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:57 pm</title>
+      <description>RT80 / PRICES DISTILLERY RD, RT80 / PRICES DISTILLERY RD Radio: 9B Units: A259, E251, 9B</description>
+      <guid isPermaLink="false">2024-06-12 22:57:00</guid>
+      <pubDate>Wed, 12 Jun 2024 22:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:42 pm</title>
       <description>11400 BLOCK CRICKENBERGER RD Radio: 9C Units: 9C, BR156</description>
@@ -300,12 +306,6 @@
       <description>I70EB / EXIT 62 (RT75)(RT75), I70EB / EXIT 62 Radio: 9D Units: C17C, CMD15, C15B, SAF901, E152, E331, RE171, A159, A339, ALS17, BC901, 9D, E172, EMS902</description>
       <guid isPermaLink="false">2024-06-09 17:01:00</guid>
       <pubDate>Sun, 09 Jun 2024 17:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:52 pm</title>
-      <description>I70WB / EXIT 62 (RT75), I70WB / EXIT 62 Radio: 9D Units: E152, E331, RE171, A158, A339, ALS17, BC901, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-06-09 16:52:00</guid>
-      <pubDate>Sun, 09 Jun 2024 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
