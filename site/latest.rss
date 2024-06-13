@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 11:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 11:31:34 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 7:27 am</title>
+      <description>I70EB / 37MM Units: A89, E82, ALS8</description>
+      <guid isPermaLink="false">2024-06-13 07:27:00</guid>
+      <pubDate>Thu, 13 Jun 2024 07:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:57 pm</title>
       <description>RT80 / PRICES DISTILLERY RD, RT80 / PRICES DISTILLERY RD Radio: 9B Units: A259, E251, 9B</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SOUTH ST Radio: 9I Units: A38, ALS2, TW4, EMS901, 9I</description>
       <guid isPermaLink="false">2024-06-09 17:08:00</guid>
       <pubDate>Sun, 09 Jun 2024 17:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:01 pm</title>
-      <description>I70EB / EXIT 62 (RT75)(RT75), I70EB / EXIT 62 Radio: 9D Units: C17C, CMD15, C15B, SAF901, E152, E331, RE171, A159, A339, ALS17, BC901, 9D, E172, EMS902</description>
-      <guid isPermaLink="false">2024-06-09 17:01:00</guid>
-      <pubDate>Sun, 09 Jun 2024 17:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
