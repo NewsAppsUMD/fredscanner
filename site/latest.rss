@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 10:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 10:14:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:06 am</title>
+      <description>100 BLOCK W MAIN ST Units: E152, A158</description>
+      <guid isPermaLink="false">2024-06-14 06:06:00</guid>
+      <pubDate>Fri, 14 Jun 2024 06:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:31 am</title>
       <description>600 BLOCK SOLAREX CT, ASTRA ZENECA #600 BLOCK CENTERPARK PROFESSIONAL CENTER Radio: 9C Units: TW1, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK BRADLEY CT, Apt/Unit:E, BUCKINGHAM CONDOS #5 Units: TW1, PE311, E31</description>
       <guid isPermaLink="false">2024-06-10 18:41:00</guid>
       <pubDate>Mon, 10 Jun 2024 18:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:11 pm</title>
-      <description>BOYERS MILL RD / PINEHURST DR Units: A158, R15, ALS17, E152, EMS902</description>
-      <guid isPermaLink="false">2024-06-10 18:11:00</guid>
-      <pubDate>Mon, 10 Jun 2024 18:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
