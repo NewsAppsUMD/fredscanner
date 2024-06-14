@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 08:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 08:42:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:31 am</title>
+      <description>600 BLOCK SOLAREX CT, ASTRA ZENECA #600 BLOCK CENTERPARK PROFESSIONAL CENTER Radio: 9C Units: TW1, 9C, PE311</description>
+      <guid isPermaLink="false">2024-06-14 04:31:00</guid>
+      <pubDate>Fri, 14 Jun 2024 04:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:00 am</title>
       <description>SCHIFFERSTADT BLVD / MOHICAN DR Radio: 9B Units: 9B, A29, PE23</description>
@@ -300,12 +306,6 @@
       <description>BOYERS MILL RD / PINEHURST DR Units: A158, R15, ALS17, E152, EMS902</description>
       <guid isPermaLink="false">2024-06-10 18:11:00</guid>
       <pubDate>Mon, 10 Jun 2024 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:09 pm</title>
-      <description>BOYERS MILL RD / PINEHURST DR Units: A158, R15</description>
-      <guid isPermaLink="false">2024-06-10 18:09:00</guid>
-      <pubDate>Mon, 10 Jun 2024 18:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
