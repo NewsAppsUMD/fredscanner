@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 20:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 20:23:55 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 4:19 pm</title>
+      <description>800 BLOCK N MARKET ST, Bldg:A, Apt/Unit:8 Units: PE23</description>
+      <guid isPermaLink="false">2024-06-14 16:19:00</guid>
+      <pubDate>Fri, 14 Jun 2024 16:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
       <description>600 BLOCK E MAIN ST Radio: 9B Units: A309, E102, 9B</description>
@@ -300,12 +306,6 @@
       <description>RT15 / FRANKLINVILLE RD, RT15 / FRANKLINVILLE RD Radio: 9B Units: A309, 9B, E102, R10</description>
       <guid isPermaLink="false">2024-06-11 14:34:00</guid>
       <pubDate>Tue, 11 Jun 2024 14:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:32 pm</title>
-      <description>RT15 / FRANKLINVILLE RD, RT15 / FRANKLINVILLE RD Radio: 9B Units: A309, 9B, R10</description>
-      <guid isPermaLink="false">2024-06-11 14:32:00</guid>
-      <pubDate>Tue, 11 Jun 2024 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
