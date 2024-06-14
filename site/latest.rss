@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 18:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 18:51:22 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:46 pm</title>
+      <description>POTOMAC AVE / CLAY ST Radio: 9D Units: E610, E201, E51, E612, R20, FS28, 9D, E141, T5, Q28, A610, ALS20, BC901, BC903</description>
+      <guid isPermaLink="false">2024-06-14 14:46:00</guid>
+      <pubDate>Fri, 14 Jun 2024 14:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
       <description>NEW WINDSOR RD / CLEMSONVILLE RD Radio: 9B Units: A179, 9B, RE171</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: EMS900, OPSDC900</description>
       <guid isPermaLink="false">2024-06-11 11:17:00</guid>
       <pubDate>Tue, 11 Jun 2024 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 10:56 am</title>
-      <description>15100 BLOCK LIBERTY RD, ELK RUN VINEYARDS Radio: 9C Units: 9C, E172</description>
-      <guid isPermaLink="false">2024-06-11 10:56:00</guid>
-      <pubDate>Tue, 11 Jun 2024 10:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
