@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 16:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 16:14:55 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 12:11 pm</title>
+      <description>14700 BLOCK WILLIAMSPORT PIKE Units: TR29</description>
+      <guid isPermaLink="false">2024-06-14 12:11:00</guid>
+      <pubDate>Fri, 14 Jun 2024 12:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:10 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, Bldg:CABIN 3, SHORESH DAY CAMP Radio: 9C Units: 9C, TW4, E141</description>
+      <guid isPermaLink="false">2024-06-14 12:10:00</guid>
+      <pubDate>Fri, 14 Jun 2024 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:07 pm</title>
+      <description>100 BLOCK HILLCREST DR, LATINO MARKET Radio: 9B Units: TW4, 9B, A19</description>
+      <guid isPermaLink="false">2024-06-14 12:07:00</guid>
+      <pubDate>Fri, 14 Jun 2024 12:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:05 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, Bldg:CABIN 3, SHORESH DAY CAMP Radio: 9C Units: TW1, 9C, E141</description>
+      <guid isPermaLink="false">2024-06-14 12:05:00</guid>
+      <pubDate>Fri, 14 Jun 2024 12:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:17 am</title>
       <description>I70WB / 38MM Units: ALS8, R8, A89</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK S VIRGINIA AVE Radio: 9C Units: BR55, 9C</description>
       <guid isPermaLink="false">2024-06-11 07:22:00</guid>
       <pubDate>Tue, 11 Jun 2024 07:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:19 am</title>
-      <description>100 BLOCK WOLFSVILLE RD Radio: 9C Units: BR85, 9C</description>
-      <guid isPermaLink="false">2024-06-11 04:19:00</guid>
-      <pubDate>Tue, 11 Jun 2024 04:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:15 pm</title>
-      <description>I70EB / EXIT 68, I70EB / EXIT 68 Units: R15</description>
-      <guid isPermaLink="false">2024-06-10 22:15:00</guid>
-      <pubDate>Mon, 10 Jun 2024 22:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:12 pm</title>
-      <description>I70EB / EXIT 68 Units: E152, BC901, EMS901, C15, HCE41, CCR1, A158, CCA18</description>
-      <guid isPermaLink="false">2024-06-10 22:12:00</guid>
-      <pubDate>Mon, 10 Jun 2024 22:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:09 pm</title>
-      <description>I70EB / EXIT 68 Units: E152, HCE41, CCR1, A158, CCA18</description>
-      <guid isPermaLink="false">2024-06-10 22:09:00</guid>
-      <pubDate>Mon, 10 Jun 2024 22:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
