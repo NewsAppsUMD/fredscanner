@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Jun 2024 19:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 19:51:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:42 pm</title>
+      <description>100 BLOCKBLK S MARKET ST, Apt/Unit:FREDERICK FLOOR1 TR1 Radio: 9B Units: SAF901, E31, BC901, A38, 9B</description>
+      <guid isPermaLink="false">2024-06-14 15:42:00</guid>
+      <pubDate>Fri, 14 Jun 2024 15:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:39 pm</title>
       <description>100 BLOCKBLK S MARKET ST, Apt/Unit:FREDERICK FLOOR1 TR1 Radio: 9B Units: E31, A38, 9B</description>
@@ -300,12 +306,6 @@
       <description>RT15 / FRANKLINVILLE RD, RT15 / FRANKLINVILLE RD Radio: 9B Units: A309, E102, 9B</description>
       <guid isPermaLink="false">2024-06-11 14:31:00</guid>
       <pubDate>Tue, 11 Jun 2024 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:02 pm</title>
-      <description>3900 BLOCK TURF CT N Radio: 9C Units: E251, 9C</description>
-      <guid isPermaLink="false">2024-06-11 14:02:00</guid>
-      <pubDate>Tue, 11 Jun 2024 14:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
