@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Jun 2024 23:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 00:06:38 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 7:56 pm</title>
+      <description>100 BLOCK WATER ST, Apt/Unit:2 Units: E102</description>
+      <guid isPermaLink="false">2024-06-13 19:56:00</guid>
+      <pubDate>Thu, 13 Jun 2024 19:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 6:22 pm</title>
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9D Units: E72, R8, A129, E121, WCA752, ALS8, BC903, EMS901, 9D</description>
@@ -300,12 +306,6 @@
       <description>MOUNTVILLE RD / BALLENGER CREEK PIKE Radio: 9C Units: 9C, E141</description>
       <guid isPermaLink="false">2024-06-10 17:21:00</guid>
       <pubDate>Mon, 10 Jun 2024 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:20 pm</title>
-      <description>MOUNTVILLE RD / BALLENGER CREEK PIKE Radio: 9C Units: BR145, 9C</description>
-      <guid isPermaLink="false">2024-06-10 17:20:00</guid>
-      <pubDate>Mon, 10 Jun 2024 17:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
