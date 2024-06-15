@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 14:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 15:02:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:59 am</title>
+      <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: E331, 9C, TW4, FS15</description>
+      <guid isPermaLink="false">2024-06-15 10:59:00</guid>
+      <pubDate>Sat, 15 Jun 2024 10:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 10:53 am</title>
+      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Units: FS08, E72, WCE162</description>
+      <guid isPermaLink="false">2024-06-15 10:53:00</guid>
+      <pubDate>Sat, 15 Jun 2024 10:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:50 am</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9D Units: E121, E72, R8, A129, A89, ALS8, BC901, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-06-15 10:50:00</guid>
+      <pubDate>Sat, 15 Jun 2024 10:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:53 am</title>
       <description>3400 BLOCK WINMOOR DR Radio: 9C Units: 9C, E251</description>
@@ -288,24 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: R8, A89, ALS8, A129, RE74, E121</description>
       <guid isPermaLink="false">2024-06-13 11:39:00</guid>
       <pubDate>Thu, 13 Jun 2024 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:31 am</title>
-      <description>700 BLOCK E SOUTH ST, AMVETS POST 2 FREDERICK Units: BR35</description>
-      <guid isPermaLink="false">2024-06-13 11:31:00</guid>
-      <pubDate>Thu, 13 Jun 2024 11:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TEST CALL: 10:31 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: E11, E31, TW4, E501</description>
-      <guid isPermaLink="false">2024-06-13 10:31:00</guid>
-      <pubDate>Thu, 13 Jun 2024 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:01 am</title>
-      <description>6500 BLOCK SPRINGWATER CT 8203, Apt/Unit:8203 Units: E31, FS33</description>
-      <guid isPermaLink="false">2024-06-13 10:01:00</guid>
-      <pubDate>Thu, 13 Jun 2024 10:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
