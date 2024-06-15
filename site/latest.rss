@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 22:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 22:14:34 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:59 pm</title>
+      <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E232, 9C</description>
+      <guid isPermaLink="false">2024-06-15 17:59:00</guid>
+      <pubDate>Sat, 15 Jun 2024 17:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 5:13 pm</title>
       <description>15300 BLOCK SABILLASVILLE RD, IAO Units: A309, ALS30, E102, EMS902</description>
@@ -300,12 +306,6 @@
       <description>APPROX LOC:15S BTWN RT 40 ON RAMP &amp; RT 15-340W OFF RAMP HWY Radio: 9B Units: A29, 9B, R2, A18, E11, PE23</description>
       <guid isPermaLink="false">2024-06-13 21:03:00</guid>
       <pubDate>Thu, 13 Jun 2024 21:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:56 pm</title>
-      <description>100 BLOCK WATER ST, Apt/Unit:2 Units: E102</description>
-      <guid isPermaLink="false">2024-06-13 19:56:00</guid>
-      <pubDate>Thu, 13 Jun 2024 19:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
