@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 08:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 08:51:28 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 4:48 am</title>
+      <description>1800 BLOCK S MAIN ST Units: R15</description>
+      <guid isPermaLink="false">2024-06-15 04:48:00</guid>
+      <pubDate>Sat, 15 Jun 2024 04:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:01 am</title>
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E102</description>
@@ -300,12 +306,6 @@
       <description>8000 BLOCK SIXES BRIDGE RD Units: SU13</description>
       <guid isPermaLink="false">2024-06-13 09:49:00</guid>
       <pubDate>Thu, 13 Jun 2024 09:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:53 am</title>
-      <description>10300 BLOCK REINDEER TRL Radio: 9B Units: 9B, E152</description>
-      <guid isPermaLink="false">2024-06-13 08:53:00</guid>
-      <pubDate>Thu, 13 Jun 2024 08:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
