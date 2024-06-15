@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 16:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 16:26:26 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:18 pm</title>
+      <description>1100 BLOCK W PATRICK ST, AUTOZONE GOLDEN MILE Units: A18, E11</description>
+      <guid isPermaLink="false">2024-06-15 12:18:00</guid>
+      <pubDate>Sat, 15 Jun 2024 12:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 11:54 am</title>
       <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: EK64, 9D</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK URBANA PIKE, TARGET Radio: 9B Units: A319, PE311, 9B</description>
       <guid isPermaLink="false">2024-06-13 12:49:00</guid>
       <pubDate>Thu, 13 Jun 2024 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:39 pm</title>
-      <description>900 BLOCK BLUELEAF CT, Apt/Unit:B Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-06-13 12:39:00</guid>
-      <pubDate>Thu, 13 Jun 2024 12:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
