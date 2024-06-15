@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 06:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:51:37 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 2:47 am</title>
+      <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, Q11, TT23, CCE12, E152, HCE41, PE713</description>
+      <guid isPermaLink="false">2024-06-15 02:47:00</guid>
+      <pubDate>Sat, 15 Jun 2024 02:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 2:44 am</title>
+      <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, TT23, CCE12, E152, HCE41, PE713</description>
+      <guid isPermaLink="false">2024-06-15 02:44:00</guid>
+      <pubDate>Sat, 15 Jun 2024 02:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 2:41 am</title>
+      <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, CCE12, E152, HCE41, PE713</description>
+      <guid isPermaLink="false">2024-06-15 02:41:00</guid>
+      <pubDate>Sat, 15 Jun 2024 02:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:58 am</title>
       <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY Radio: 9C Units: T50, E11, 9C</description>
@@ -288,24 +306,6 @@
       <description>BUCKEYSTOWN PIKE / URBANA PIKE Radio: 9C Units: E31, 9C</description>
       <guid isPermaLink="false">2024-06-13 08:17:00</guid>
       <pubDate>Thu, 13 Jun 2024 08:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:44 am</title>
-      <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-06-13 07:44:00</guid>
-      <pubDate>Thu, 13 Jun 2024 07:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:27 am</title>
-      <description>I70EB / 37MM Units: A89, E82, ALS8</description>
-      <guid isPermaLink="false">2024-06-13 07:27:00</guid>
-      <pubDate>Thu, 13 Jun 2024 07:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:57 pm</title>
-      <description>RT80 / PRICES DISTILLERY RD, RT80 / PRICES DISTILLERY RD Radio: 9B Units: A259, E251, 9B</description>
-      <guid isPermaLink="false">2024-06-12 22:57:00</guid>
-      <pubDate>Wed, 12 Jun 2024 22:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
