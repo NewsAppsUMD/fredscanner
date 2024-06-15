@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 18:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 18:26:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:23 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:A, Apt/Unit:302, ELMWOOD TERRACE APTS Units: E11, TW1</description>
+      <guid isPermaLink="false">2024-06-15 14:23:00</guid>
+      <pubDate>Sat, 15 Jun 2024 14:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:10 pm</title>
       <description>1500 BLOCK ANDOVER LN Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK S CLIFTON RD Radio: 9D Units: EMS902, 9D, SAF901, R2, E121, A129, ALS4, BC903, C7</description>
       <guid isPermaLink="false">2024-06-13 14:47:00</guid>
       <pubDate>Thu, 13 Jun 2024 14:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:44 pm</title>
-      <description>6700 BLOCK S CLIFTON RD Radio: 9D Units: EMS902, 9D, E121, RE74, A129, ALS4, BC903</description>
-      <guid isPermaLink="false">2024-06-13 14:44:00</guid>
-      <pubDate>Thu, 13 Jun 2024 14:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
