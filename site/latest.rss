@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 07:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 07:14:38 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:01 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E102</description>
+      <guid isPermaLink="false">2024-06-15 03:01:00</guid>
+      <pubDate>Sat, 15 Jun 2024 03:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 2:50 am</title>
       <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, CCA18, CCM19, BC901, SAF901, 9D, Q11, TT23, CCC01, CCE12, E152, HCE41, PE713, CMD15</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK REINDEER TRL Radio: 9B Units: 9B, E152</description>
       <guid isPermaLink="false">2024-06-13 08:53:00</guid>
       <pubDate>Thu, 13 Jun 2024 08:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 8:19 am</title>
-      <description>BUCKEYSTOWN PIKE / URBANA PIKE Radio: 9C Units: 9C, PE311</description>
-      <guid isPermaLink="false">2024-06-13 08:19:00</guid>
-      <pubDate>Thu, 13 Jun 2024 08:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
