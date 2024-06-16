@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jun 2024 01:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 02:17:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:59 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD Units: TW4, PE311</description>
+      <guid isPermaLink="false">2024-06-15 21:59:00</guid>
+      <pubDate>Sat, 15 Jun 2024 21:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:01 pm</title>
       <description>6500 BLOCK BUFFALO RD Radio: 9C Units: CCBR15, 9C, BR156</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK SOLAREX CT, ASTRA ZENECA #600 BLOCK CENTERPARK PROFESSIONAL CENTER Radio: 9C Units: TW1, 9C, PE311</description>
       <guid isPermaLink="false">2024-06-14 04:31:00</guid>
       <pubDate>Fri, 14 Jun 2024 04:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:00 am</title>
-      <description>SCHIFFERSTADT BLVD / MOHICAN DR Radio: 9B Units: 9B, A29, PE23</description>
-      <guid isPermaLink="false">2024-06-14 04:00:00</guid>
-      <pubDate>Fri, 14 Jun 2024 04:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
