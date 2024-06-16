@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jun 2024 17:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 18:02:09 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:56 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: EK204</description>
+      <guid isPermaLink="false">2024-06-16 13:56:00</guid>
+      <pubDate>Sun, 16 Jun 2024 13:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:43 pm</title>
       <description>13000 BLOCK MONTEREY LANE, FRANKIN CO 4 Units: E31</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
       <description>RT15NB / MOUNTVILLE RD, RT15SB / MOUNTVILLE RD Radio: 9B Units: A209, E201, 9B</description>
-      <guid isPermaLink="false">2024-06-14 15:02:00</guid>
-      <pubDate>Fri, 14 Jun 2024 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 3:02 pm</title>
-      <description>5400 BLOCK URBANA PIKE, TARGET Radio: 9C Units: PE311, 9C</description>
       <guid isPermaLink="false">2024-06-14 15:02:00</guid>
       <pubDate>Fri, 14 Jun 2024 15:02:00 -0400</pubDate>
     </item>
