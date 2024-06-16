@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jun 2024 23:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 00:07:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:05 pm</title>
+      <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD Radio: 9B Units: PE23, E291, R2, A29, A299, 9B</description>
+      <guid isPermaLink="false">2024-06-15 20:05:00</guid>
+      <pubDate>Sat, 15 Jun 2024 20:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:59 pm</title>
       <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E232, 9C</description>
@@ -300,12 +306,6 @@
       <description>11700 BLOCK FINGERBOARD RD, Bldg:3, GREEN VALLEY PLAZA Radio: 9C Units: E251, TT23, 9C</description>
       <guid isPermaLink="false">2024-06-13 22:24:00</guid>
       <pubDate>Thu, 13 Jun 2024 22:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:03 pm</title>
-      <description>APPROX LOC:15S BTWN RT 40 ON RAMP &amp; RT 15-340W OFF RAMP HWY Radio: 9B Units: A29, 9B, R2, A18, E11, PE23</description>
-      <guid isPermaLink="false">2024-06-13 21:03:00</guid>
-      <pubDate>Thu, 13 Jun 2024 21:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
