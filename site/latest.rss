@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jun 2024 22:25:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 22:32:51 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:22 pm</title>
+      <description>5500 BLOCK UPPER MILL TER N Units: E31, PE23, E11, E331, R2, TW4, TW1, A38, ALS4, BC901, BC902, SAF901, PE311, FS31</description>
+      <guid isPermaLink="false">2024-06-16 18:22:00</guid>
+      <pubDate>Sun, 16 Jun 2024 18:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:30 pm</title>
       <description>RT340EB / 11MM, RT340EB / 11MM Units: E201, E31, R20, A209, A19</description>
@@ -300,12 +306,6 @@
       <description>7500 BLOCK SOMERSET TER Units: E11</description>
       <guid isPermaLink="false">2024-06-14 21:55:00</guid>
       <pubDate>Fri, 14 Jun 2024 21:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
-      <description>BOWERS RD / ROCK CREEK DR Radio: 9B Units: E11, 9B, A19</description>
-      <guid isPermaLink="false">2024-06-14 17:05:00</guid>
-      <pubDate>Fri, 14 Jun 2024 17:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
