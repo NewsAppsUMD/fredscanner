@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Jun 2024 14:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 15:01:55 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:57 am</title>
+      <description>4700 BLOCK ARCADIA DR Radio: 9C Units: TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-16 10:57:00</guid>
+      <pubDate>Sun, 16 Jun 2024 10:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:51 am</title>
+      <description>OLD NATIONAL PIKE / N CLIFTON RD Radio: 9B Units: A129, E121, 9B</description>
+      <guid isPermaLink="false">2024-06-16 10:51:00</guid>
+      <pubDate>Sun, 16 Jun 2024 10:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:24 am</title>
       <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: PE311, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HILLCREST DR, LATINO MARKET Radio: 9B Units: TRNBC900, 9B, A19</description>
       <guid isPermaLink="false">2024-06-14 12:16:00</guid>
       <pubDate>Fri, 14 Jun 2024 12:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:16 pm</title>
-      <description>8200 BLOCK FOREST STREAM CLUB RD Units: SU13</description>
-      <guid isPermaLink="false">2024-06-14 12:16:00</guid>
-      <pubDate>Fri, 14 Jun 2024 12:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:11 pm</title>
-      <description>14700 BLOCK WILLIAMSPORT PIKE Units: TR29</description>
-      <guid isPermaLink="false">2024-06-14 12:11:00</guid>
-      <pubDate>Fri, 14 Jun 2024 12:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
