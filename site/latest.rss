@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jun 2024 16:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 16:15:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:09 pm</title>
+      <description>600 BLOCK N BENTZ ST Radio: 9C Units: PE23, TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-17 12:09:00</guid>
+      <pubDate>Mon, 17 Jun 2024 12:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 11:49 am</title>
       <description>ROCKY SPRINGS RD / ETZLER RD Radio: 9C Units: K1, BR16, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK S MAIN ST Units: R15</description>
       <guid isPermaLink="false">2024-06-15 04:48:00</guid>
       <pubDate>Sat, 15 Jun 2024 04:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:01 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: E102</description>
-      <guid isPermaLink="false">2024-06-15 03:01:00</guid>
-      <pubDate>Sat, 15 Jun 2024 03:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
