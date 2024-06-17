@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jun 2024 01:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:51:03 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 9:46 pm</title>
+      <description>25300 BLOCK BURNT HILL RD Units: E251, TT23, K23</description>
+      <guid isPermaLink="false">2024-06-16 21:46:00</guid>
+      <pubDate>Sun, 16 Jun 2024 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 9:24 pm</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Radio: 9D Units: E232, 9D</description>
+      <guid isPermaLink="false">2024-06-16 21:24:00</guid>
+      <pubDate>Sun, 16 Jun 2024 21:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 8:32 pm</title>
       <description>I70EB / RT75, I70EB / RT75 Radio: 9D Units: E331, BC901, E152, R15, A339, A259, ALS2, EMS902, 9D</description>
@@ -294,18 +306,6 @@
       <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY Radio: 9C Units: T50, E11, 9C</description>
       <guid isPermaLink="false">2024-06-15 01:58:00</guid>
       <pubDate>Sat, 15 Jun 2024 01:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:42 am</title>
-      <description>100 BLOCK BLK RAMP RT85 TO I27100 BLOCKNB RAMP Radio: 9B Units: E232, E11, 9B, R2, A239, A18</description>
-      <guid isPermaLink="false">2024-06-15 01:42:00</guid>
-      <pubDate>Sat, 15 Jun 2024 01:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:09 am</title>
-      <description>1300 BLOCK BUCKEYSTOWN PIKE Units: A149, R14</description>
-      <guid isPermaLink="false">2024-06-15 00:09:00</guid>
-      <pubDate>Sat, 15 Jun 2024 00:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
