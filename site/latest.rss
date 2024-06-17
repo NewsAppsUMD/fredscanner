@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jun 2024 08:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 09:14:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:00 am</title>
+      <description>100 BLOCK PARK CT Radio: 9B Units: C11B, 9B, Q11, E162, FS11, E111, A249, A169</description>
+      <guid isPermaLink="false">2024-06-17 05:00:00</guid>
+      <pubDate>Mon, 17 Jun 2024 05:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:55 am</title>
+      <description>100 BLOCK PARK CT Radio: 9B Units: 9B, E111, A249, A169</description>
+      <guid isPermaLink="false">2024-06-17 04:55:00</guid>
+      <pubDate>Mon, 17 Jun 2024 04:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:10 pm</title>
       <description>HAMBURG RD / FISHING CREEK RD, AT THE GATE Radio: 9C Units: R8, 9C</description>
@@ -294,18 +306,6 @@
       <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, Q11, TT23, CCE12, E152, HCE41, PE713</description>
       <guid isPermaLink="false">2024-06-15 02:47:00</guid>
       <pubDate>Sat, 15 Jun 2024 02:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 2:44 am</title>
-      <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, TT23, CCE12, E152, HCE41, PE713</description>
-      <guid isPermaLink="false">2024-06-15 02:44:00</guid>
-      <pubDate>Sat, 15 Jun 2024 02:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 2:41 am</title>
-      <description>6800 BLOCK BUFFALO RD Radio: 9D Units: E251, R15, HCT3, CCR12, CCA18, CCM19, BC901, SAF901, 9D, CCE12, E152, HCE41, PE713</description>
-      <guid isPermaLink="false">2024-06-15 02:41:00</guid>
-      <pubDate>Sat, 15 Jun 2024 02:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
