@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Jun 2024 16:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 16:35:42 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:33 pm</title>
+      <description>300 BLOCK CENTER ST Units: E31, PE23, T50, A38, ALS4, BC903, BC902, SAF901, E501, E291, E331, R2, TW4</description>
+      <guid isPermaLink="false">2024-06-17 12:33:00</guid>
+      <pubDate>Mon, 17 Jun 2024 12:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 12:14 pm</title>
       <description>5600 BLOCK ETZLER RD, TUSCARORA ARCHERS Radio: 9C Units: K1, BR16, BR35, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9D Units: E121, E72, R8, A129, A89, ALS8, BC901, EMS901, 9D</description>
       <guid isPermaLink="false">2024-06-15 10:50:00</guid>
       <pubDate>Sat, 15 Jun 2024 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:53 am</title>
-      <description>3400 BLOCK WINMOOR DR Radio: 9C Units: 9C, E251</description>
-      <guid isPermaLink="false">2024-06-15 09:53:00</guid>
-      <pubDate>Sat, 15 Jun 2024 09:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
