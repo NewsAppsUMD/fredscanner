@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 10:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 10:33:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:26 am</title>
+      <description>4600 BLOCK LIME KILN RD Radio: 9B Units: A319, PE311, 9B</description>
+      <guid isPermaLink="false">2024-06-18 06:26:00</guid>
+      <pubDate>Tue, 18 Jun 2024 06:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:40 pm</title>
       <description>RT15SB / OLD FREDERICK RD (HANSONVILLE), RT15SB / OLD FREDERICK RD Units: E291</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD Radio: 9B Units: PE23, E291, R2, A29, A299, 9B</description>
       <guid isPermaLink="false">2024-06-15 20:05:00</guid>
       <pubDate>Sat, 15 Jun 2024 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:59 pm</title>
-      <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E232, 9C</description>
-      <guid isPermaLink="false">2024-06-15 17:59:00</guid>
-      <pubDate>Sat, 15 Jun 2024 17:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
