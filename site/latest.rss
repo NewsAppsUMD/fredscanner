@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 21:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 21:41:31 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:29 pm</title>
+      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: R2, A299, PE23, A38, E31</description>
+      <guid isPermaLink="false">2024-06-18 17:29:00</guid>
+      <pubDate>Tue, 18 Jun 2024 17:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 2:56 pm</title>
       <description>800 BLOCK MOTTER AVE Radio: 9C Units: R2, 9C</description>
@@ -300,12 +306,6 @@
       <description>6300 BLOCK WALCOTT LN Radio: 9C Units: PE311, 9C</description>
       <guid isPermaLink="false">2024-06-16 05:13:00</guid>
       <pubDate>Sun, 16 Jun 2024 05:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:36 am</title>
-      <description>100 BLOCK W MAIN ST Radio: 9B Units: R15, 9B, A158</description>
-      <guid isPermaLink="false">2024-06-16 04:36:00</guid>
-      <pubDate>Sun, 16 Jun 2024 04:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
