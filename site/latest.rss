@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 18:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 19:02:04 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 2:56 pm</title>
+      <description>800 BLOCK MOTTER AVE Radio: 9C Units: R2, 9C</description>
+      <guid isPermaLink="false">2024-06-18 14:56:00</guid>
+      <pubDate>Tue, 18 Jun 2024 14:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
       <description>1000 BLOCK W PATRICK ST Radio: 9B Units: A18, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9B Units: R15, 9B, A158</description>
       <guid isPermaLink="false">2024-06-16 04:36:00</guid>
       <pubDate>Sun, 16 Jun 2024 04:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:02 pm</title>
-      <description>S GLADE RD / GRANTHAM CT Radio: 9B Units: 9B, E111, A247, A169</description>
-      <guid isPermaLink="false">2024-06-15 23:02:00</guid>
-      <pubDate>Sat, 15 Jun 2024 23:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
