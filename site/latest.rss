@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Jun 2024 23:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 23:14:53 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 7:09 pm</title>
+      <description>100 BLOCK E MAIN ST Radio: 9C Units: E72, 9C</description>
+      <guid isPermaLink="false">2024-06-18 19:09:00</guid>
+      <pubDate>Tue, 18 Jun 2024 19:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
       <description>KEY PKWY / BAUGHMANS LN Radio: 9B Units: A19, 9B, E11</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: PE311, FS23, 9C</description>
       <guid isPermaLink="false">2024-06-16 08:24:00</guid>
       <pubDate>Sun, 16 Jun 2024 08:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:45 am</title>
-      <description>2200 BLOCK BATTERY CT Radio: 9C Units: E291, 9C</description>
-      <guid isPermaLink="false">2024-06-16 07:45:00</guid>
-      <pubDate>Sun, 16 Jun 2024 07:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
