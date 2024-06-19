@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 22:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 22:41:33 +0000</lastBuildDate>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 6:35 pm</title>
+      <description>14700 BLOCK OLD FREDERICK RD Radio: 9C Units: K10, BR136, 9C, E132</description>
+      <guid isPermaLink="false">2024-06-19 18:35:00</guid>
+      <pubDate>Wed, 19 Jun 2024 18:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:53 pm</title>
       <description>LIBERTY RD / WOODSBORO PIKE Radio: 9B Units: A169, E162, 9B</description>
@@ -300,12 +306,6 @@
       <description>ROCKY SPRINGS RD / ETZLER RD Radio: 9C Units: K1, BR16, 9C, E291</description>
       <guid isPermaLink="false">2024-06-17 11:49:00</guid>
       <pubDate>Mon, 17 Jun 2024 11:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:170, RED CROSS FREDERICK Radio: 9C Units: E291, T50, 9C</description>
-      <guid isPermaLink="false">2024-06-17 10:12:00</guid>
-      <pubDate>Mon, 17 Jun 2024 10:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
