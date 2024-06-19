@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 19:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 19:21:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:15 pm</title>
+      <description>RT40A / MARYLAND AVE, RT40A / MARYLAND AVE Radio: 9B Units: A78, E72, FS12, 9B</description>
+      <guid isPermaLink="false">2024-06-19 15:15:00</guid>
+      <pubDate>Wed, 19 Jun 2024 15:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
       <description>500 BLOCK N EAST ST, EAST STREET PLAZA Radio: 9B Units: A29, E121, 9B</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK UPPER MILL TER N Units: E31, PE23, E11, E331, R2, TW4, TW1, A38, ALS4, BC901, BC902, SAF901, PE311, FS31</description>
       <guid isPermaLink="false">2024-06-16 18:22:00</guid>
       <pubDate>Sun, 16 Jun 2024 18:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:30 pm</title>
-      <description>RT340EB / 11MM, RT340EB / 11MM Units: E201, E31, R20, A209, A19</description>
-      <guid isPermaLink="false">2024-06-16 17:30:00</guid>
-      <pubDate>Sun, 16 Jun 2024 17:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
