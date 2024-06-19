@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 17:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 17:14:41 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 1:00 pm</title>
+      <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE Units: R10, EK64, E132, WCE71, E102, TR29, EMSUTV30, A309, WCM791, E212, BC902, SAF901, EMS902, FS10</description>
+      <guid isPermaLink="false">2024-06-19 13:00:00</guid>
+      <pubDate>Wed, 19 Jun 2024 13:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:24 pm</title>
       <description>1200 BLOCK APOLLO DR Radio: 9C Units: E291, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK HIGH STREET, CARROLL STATION 10 Units: E162</description>
       <guid isPermaLink="false">2024-06-16 13:25:00</guid>
       <pubDate>Sun, 16 Jun 2024 13:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:14 pm</title>
-      <description>RT340EB / LANDER RD, RT340EB / LANDER RD Radio: 9D Units: E201, E11, R20, A209, A18, ALS2, BC902, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-06-16 13:14:00</guid>
-      <pubDate>Sun, 16 Jun 2024 13:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
