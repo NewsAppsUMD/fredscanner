@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Jun 2024 19:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 19:14:18 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
+      <description>500 BLOCK N EAST ST, EAST STREET PLAZA Radio: 9B Units: A29, E121, 9B</description>
+      <guid isPermaLink="false">2024-06-19 15:05:00</guid>
+      <pubDate>Wed, 19 Jun 2024 15:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:37 pm</title>
       <description>6100 BLOCK FIELDCREST DR Radio: 9C Units: 9C, E152, FS33</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / 11MM, RT340EB / 11MM Units: E201, E31, R20, A209, A19</description>
       <guid isPermaLink="false">2024-06-16 17:30:00</guid>
       <pubDate>Sun, 16 Jun 2024 17:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:41 pm</title>
-      <description>RT15NB / RT140 Radio: 9B Units: A69, R6, 9B</description>
-      <guid isPermaLink="false">2024-06-16 16:41:00</guid>
-      <pubDate>Sun, 16 Jun 2024 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
