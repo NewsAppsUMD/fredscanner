@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 02:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 02:22:17 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:17 pm</title>
+      <description>MONOCACY BLVD / LAUREL WOOD WAY Radio: 9B Units: A299, 9B, E291</description>
+      <guid isPermaLink="false">2024-06-19 22:17:00</guid>
+      <pubDate>Wed, 19 Jun 2024 22:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:44 pm</title>
       <description>8900 BLOCK MOUNT TABOR RD Radio: 9C Units: E82, 9C, C7, K7, A78</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK CENTER ST Units: E31, PE23, T50, A38, ALS4, BC903, BC902, SAF901, E501, E291, E331, R2, TW4</description>
       <guid isPermaLink="false">2024-06-17 12:33:00</guid>
       <pubDate>Mon, 17 Jun 2024 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 12:14 pm</title>
-      <description>5600 BLOCK ETZLER RD, TUSCARORA ARCHERS Radio: 9C Units: K1, BR16, BR35, 9C, E291</description>
-      <guid isPermaLink="false">2024-06-17 12:14:00</guid>
-      <pubDate>Mon, 17 Jun 2024 12:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
