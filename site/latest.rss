@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 10:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 10:41:29 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:35 am</title>
+      <description>3500 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:STE 5, FREEDOM CENTER Radio: 9C Units: E141, PE311, TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-20 06:35:00</guid>
+      <pubDate>Thu, 20 Jun 2024 06:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:46 am</title>
       <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:200, CREEKSIDE AT TASKERS CHANCE Radio: 9C Units: E11, TW4, 9C</description>
@@ -300,12 +306,6 @@
       <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: A29, PE23, 9B</description>
       <guid isPermaLink="false">2024-06-17 14:43:00</guid>
       <pubDate>Mon, 17 Jun 2024 14:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:35 pm</title>
-      <description>9100 BLOCK FINGERBOARD RD, ROYAL FARMS Radio: 9C Units: E232, A239, 9C</description>
-      <guid isPermaLink="false">2024-06-17 12:35:00</guid>
-      <pubDate>Mon, 17 Jun 2024 12:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
