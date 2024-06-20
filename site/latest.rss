@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 07:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 07:41:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:28 am</title>
+      <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-06-20 03:28:00</guid>
+      <pubDate>Thu, 20 Jun 2024 03:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:17 pm</title>
       <description>MONOCACY BLVD / LAUREL WOOD WAY Radio: 9B Units: A299, 9B, E291</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK CENTER ST Units: E11, E31, PE23, T50, A38, ALS4, BC903, BC902, SAF901, E501, E291, E331, R2, TW4</description>
       <guid isPermaLink="false">2024-06-17 12:35:00</guid>
       <pubDate>Mon, 17 Jun 2024 12:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:33 pm</title>
-      <description>300 BLOCK CENTER ST Units: E31, PE23, T50, A38, ALS4, BC903, BC902, SAF901, E501, E291, E331, R2, TW4</description>
-      <guid isPermaLink="false">2024-06-17 12:33:00</guid>
-      <pubDate>Mon, 17 Jun 2024 12:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
