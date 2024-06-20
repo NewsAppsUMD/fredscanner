@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jun 2024 07:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 07:51:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:46 am</title>
+      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:200, CREEKSIDE AT TASKERS CHANCE Radio: 9C Units: E11, TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-20 03:46:00</guid>
+      <pubDate>Thu, 20 Jun 2024 03:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:28 am</title>
       <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, 9C</description>
@@ -298,12 +304,6 @@
     <item>
       <title>SERVICE CALL: 12:35 pm</title>
       <description>9100 BLOCK FINGERBOARD RD, ROYAL FARMS Radio: 9C Units: E232, A239, 9C</description>
-      <guid isPermaLink="false">2024-06-17 12:35:00</guid>
-      <pubDate>Mon, 17 Jun 2024 12:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:35 pm</title>
-      <description>300 BLOCK CENTER ST Units: E11, E31, PE23, T50, A38, ALS4, BC903, BC902, SAF901, E501, E291, E331, R2, TW4</description>
       <guid isPermaLink="false">2024-06-17 12:35:00</guid>
       <pubDate>Mon, 17 Jun 2024 12:35:00 -0400</pubDate>
     </item>
