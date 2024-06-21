@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 11:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 11:41:30 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 7:36 am</title>
+      <description>2400 BLOCK OSPREY WAY, Apt/Unit:C, INDIGO PHYSIOTHERAPY Radio: 9C Units: E291, PE23, R2, 9C</description>
+      <guid isPermaLink="false">2024-06-21 07:36:00</guid>
+      <pubDate>Fri, 21 Jun 2024 07:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:00 am</title>
       <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: TW1, E201, 9C</description>
@@ -300,12 +306,6 @@
       <description>KEY PKWY / BAUGHMANS LN Radio: 9B Units: A19, 9B, E11</description>
       <guid isPermaLink="false">2024-06-18 18:31:00</guid>
       <pubDate>Tue, 18 Jun 2024 18:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:43 pm</title>
-      <description>6900 BLOCK REPRESENTATION LN Radio: 9C Units: PE311, 9C</description>
-      <guid isPermaLink="false">2024-06-18 17:43:00</guid>
-      <pubDate>Tue, 18 Jun 2024 17:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
