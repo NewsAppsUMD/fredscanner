@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 09:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 10:14:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:00 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: TW1, E201, 9C</description>
+      <guid isPermaLink="false">2024-06-21 06:00:00</guid>
+      <pubDate>Fri, 21 Jun 2024 06:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:41 am</title>
+      <description>9100 BLOCK KENWAY LN Radio: 9C Units: E232, 9C</description>
+      <guid isPermaLink="false">2024-06-21 05:41:00</guid>
+      <pubDate>Fri, 21 Jun 2024 05:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:30 am</title>
       <description>14600 BLOCK CARS MILL RD, STATION HC013 - GLENWOOD Units: K33, E152, E251</description>
@@ -294,18 +306,6 @@
       <description>6900 BLOCK REPRESENTATION LN Radio: 9C Units: PE311, 9C</description>
       <guid isPermaLink="false">2024-06-18 17:43:00</guid>
       <pubDate>Tue, 18 Jun 2024 17:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:29 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: R2, A299, PE23, A38, E31</description>
-      <guid isPermaLink="false">2024-06-18 17:29:00</guid>
-      <pubDate>Tue, 18 Jun 2024 17:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 2:56 pm</title>
-      <description>800 BLOCK MOTTER AVE Radio: 9C Units: R2, 9C</description>
-      <guid isPermaLink="false">2024-06-18 14:56:00</guid>
-      <pubDate>Tue, 18 Jun 2024 14:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
