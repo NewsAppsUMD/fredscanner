@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jun 2024 20:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 20:41:33 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:37 pm</title>
+      <description>100 BLOCK(8212) BLK SIXES BRIDGE RD Units: EK134, E91, TW6, E162, K9, EK64</description>
+      <guid isPermaLink="false">2024-06-21 16:37:00</guid>
+      <pubDate>Fri, 21 Jun 2024 16:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 4:32 pm</title>
+      <description>100 BLOCK(8212) BLK SIXES BRIDGE RD Units: E91, E162, K9, EK64</description>
+      <guid isPermaLink="false">2024-06-21 16:32:00</guid>
+      <pubDate>Fri, 21 Jun 2024 16:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 4:00 pm</title>
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Units: E11, E291, R2, A19, A29, PE23, EMS902</description>
@@ -294,18 +306,6 @@
       <description>6100 BLOCK FIELDCREST DR Radio: 9C Units: 9C, E152, FS33</description>
       <guid isPermaLink="false">2024-06-19 13:37:00</guid>
       <pubDate>Wed, 19 Jun 2024 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:33 pm</title>
-      <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE MEMORIAL HALL Radio: 9C Units: TT23, 9C, E121</description>
-      <guid isPermaLink="false">2024-06-19 13:33:00</guid>
-      <pubDate>Wed, 19 Jun 2024 13:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:32 pm</title>
-      <description>1500 BLOCK CAREY PL Radio: 9I Units: E291, Q11, EMS901, W2, PE311, BC903, 9I, SAF901, CAN1, CMD2, RID2, A38, ALS2, A19, PE23, E31, E501, E11, E111, R2, TW4, T50, BC901</description>
-      <guid isPermaLink="false">2024-06-19 13:32:00</guid>
-      <pubDate>Wed, 19 Jun 2024 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
