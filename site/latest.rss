@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 04:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 05:03:01 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:54 am</title>
+      <description>500 BLOCK E POTOMAC ST Radio: 9D Units: BC901, WCEK8, R20, T5, C20, C5B, A197, ALS20, BC903, E51, E612, Q28, E201, JCRE1, SAF901, E141, RE74, 9D, A196</description>
+      <guid isPermaLink="false">2024-06-22 00:54:00</guid>
+      <pubDate>Sat, 22 Jun 2024 00:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:43 am</title>
       <description>500 BLOCK E POTOMAC ST Radio: 9D Units: BC901, WCEK8, R20, T5, A198, A197, ALS20, BC903, E51, E612, Q28, E201, JCRE1, SAF901, 9D</description>
@@ -300,12 +306,6 @@
       <description>3200 BLOCK HYDE PARK CT Radio: 9C Units: E141, 9C</description>
       <guid isPermaLink="false">2024-06-19 17:13:00</guid>
       <pubDate>Wed, 19 Jun 2024 17:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:09 pm</title>
-      <description>I70 / EXIT 62 (RT75), I70 / EXIT 62 Radio: 9C Units: E152, 9C, E331</description>
-      <guid isPermaLink="false">2024-06-19 17:09:00</guid>
-      <pubDate>Wed, 19 Jun 2024 17:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
