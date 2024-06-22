@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 04:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 04:31:56 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:13 am</title>
+      <description>500 BLOCK N EAST ST, Apt/Unit:LST STORE IN LEFT, SEVEN ELEVEN Radio: 9D Units: PE23, E31, E11, PE311, R2, TW4, T50, 9D, CMD2, A29, SAF901, E501, ALS2, BC902, BC901</description>
+      <guid isPermaLink="false">2024-06-22 00:13:00</guid>
+      <pubDate>Sat, 22 Jun 2024 00:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:06 am</title>
       <description>500 BLOCK N EAST ST, Apt/Unit:LST STORE IN LEFT, SEVEN ELEVEN Units: PE23, E31, E11, PE311, R2, TW4, T50, A29, SAF901, FS02, E501, ALS2, BC902, BC901</description>
@@ -300,12 +306,6 @@
       <description>11600 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: 9C, BR176</description>
       <guid isPermaLink="false">2024-06-19 16:46:00</guid>
       <pubDate>Wed, 19 Jun 2024 16:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:04 pm</title>
-      <description>5700 BLOCK BUCKEYSTOWN PIKE, BURGER KING EVERGREEN Radio: 9C Units: BR35, 9C, FS31</description>
-      <guid isPermaLink="false">2024-06-19 16:04:00</guid>
-      <pubDate>Wed, 19 Jun 2024 16:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
