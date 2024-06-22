@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Jun 2024 01:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 02:21:10 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 9:42 pm</title>
+      <description>9700 BLOCK BLANDWOOD WAY Units: E111, E331, Q11, R15</description>
+      <guid isPermaLink="false">2024-06-21 21:42:00</guid>
+      <pubDate>Fri, 21 Jun 2024 21:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 9:38 pm</title>
       <description>9700 BLOCK BLANDWOOD WAY Units: FS15, E111, E331, Q11</description>
@@ -300,12 +306,6 @@
       <description>RT40A / MARYLAND AVE, RT40A / MARYLAND AVE Radio: 9B Units: A78, E72, FS12, 9B</description>
       <guid isPermaLink="false">2024-06-19 15:15:00</guid>
       <pubDate>Wed, 19 Jun 2024 15:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
-      <description>500 BLOCK N EAST ST, EAST STREET PLAZA Radio: 9B Units: A29, E121, 9B</description>
-      <guid isPermaLink="false">2024-06-19 15:05:00</guid>
-      <pubDate>Wed, 19 Jun 2024 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
