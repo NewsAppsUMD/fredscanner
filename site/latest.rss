@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Jun 2024 16:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 17:01:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:54 pm</title>
+      <description>200 BLOCK FREDERICK RD, MCDONALDS THURMONT Radio: 9B Units: E102, 9B, A309</description>
+      <guid isPermaLink="false">2024-06-23 12:54:00</guid>
+      <pubDate>Sun, 23 Jun 2024 12:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 11:33 am</title>
       <description>2400 BLOCK OSPREY WAY, HOMEGOODS Units: E291, E501, TW1</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK OSPREY WAY, Apt/Unit:C, INDIGO PHYSIOTHERAPY Radio: 9C Units: E291, PE23, R2, 9C</description>
       <guid isPermaLink="false">2024-06-21 07:36:00</guid>
       <pubDate>Fri, 21 Jun 2024 07:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:00 am</title>
-      <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: TW1, E201, 9C</description>
-      <guid isPermaLink="false">2024-06-21 06:00:00</guid>
-      <pubDate>Fri, 21 Jun 2024 06:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
