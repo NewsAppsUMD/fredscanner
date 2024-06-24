@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jun 2024 09:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 09:41:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:44 pm</title>
+      <description>I270NB / I70, I270NB / I70 Radio: 9B Units: PE311, E11, R2, A318, A18, 9B</description>
+      <guid isPermaLink="false">2024-06-24 23:44:00</guid>
+      <pubDate>Mon, 24 Jun 2024 23:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:33 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: TW1, 9C, PE311</description>
+      <guid isPermaLink="false">2024-06-24 22:33:00</guid>
+      <pubDate>Mon, 24 Jun 2024 22:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:33 pm</title>
+      <description>URBANA PIKE / STONE BARN DR Radio: 9D Units: TT23, R2, A239, ALS23, BC901, EMS901, 9D, E232</description>
+      <guid isPermaLink="false">2024-06-24 21:33:00</guid>
+      <pubDate>Mon, 24 Jun 2024 21:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:32 pm</title>
+      <description>6400 BLOCK JEFFERSON PIKE Radio: 9B Units: A318, PE311, 9B</description>
+      <guid isPermaLink="false">2024-06-24 21:32:00</guid>
+      <pubDate>Mon, 24 Jun 2024 21:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:04 pm</title>
+      <description>7200 BLOCK MCKINNEY CIR, PRO BUILD Radio: 9C Units: PE311, TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-24 21:04:00</guid>
+      <pubDate>Mon, 24 Jun 2024 21:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
+      <description>URBANA PIKE / TECHNOLOGY WAY Radio: 9B Units: A318, PE311, 9B</description>
+      <guid isPermaLink="false">2024-06-24 18:31:00</guid>
+      <pubDate>Mon, 24 Jun 2024 18:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:38 am</title>
+      <description>200 BLOCK MADISON ST, SUCCESS SCHOOL Radio: 9C Units: E31, TW4, 9C</description>
+      <guid isPermaLink="false">2024-06-24 05:38:00</guid>
+      <pubDate>Mon, 24 Jun 2024 05:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 2:06 pm</title>
       <description>1700 BLOCK SHOOKSTOWN RD Units: E11, HM33</description>
@@ -264,48 +306,6 @@
       <description>MONOCACY BLVD / CHRISTOPHERS XING Units: A299, PE23, E291, EMS902</description>
       <guid isPermaLink="false">2024-06-21 13:27:00</guid>
       <pubDate>Fri, 21 Jun 2024 13:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:57 pm</title>
-      <description>SANDY HOOK RD / RED BLAZE TRL Units: RE52</description>
-      <guid isPermaLink="false">2024-06-21 12:57:00</guid>
-      <pubDate>Fri, 21 Jun 2024 12:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:33 pm</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA #600 BLOCK Radio: 9C Units: TW1, 9C, PE311</description>
-      <guid isPermaLink="false">2024-06-21 12:33:00</guid>
-      <pubDate>Fri, 21 Jun 2024 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:25 am</title>
-      <description>SKYVIEW DR / LARSON LN, IAO Radio: 9C Units: E251, 9C</description>
-      <guid isPermaLink="false">2024-06-21 11:25:00</guid>
-      <pubDate>Fri, 21 Jun 2024 11:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:07 am</title>
-      <description>600 BLOCK W PATRICK ST Radio: 9C Units: 9C, BR35</description>
-      <guid isPermaLink="false">2024-06-21 11:07:00</guid>
-      <pubDate>Fri, 21 Jun 2024 11:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:42 am</title>
-      <description>BRAVEHEART WAY / BRAIDWOOD DR Units: TT23, E251, A259, ALS23, BC901, CAN1, SAF901, C23B, EMS902</description>
-      <guid isPermaLink="false">2024-06-21 10:42:00</guid>
-      <pubDate>Fri, 21 Jun 2024 10:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:07 am</title>
-      <description>BRAVEHEART DR / LONGHOPE LN Units: E251, A259, ALS23, BC901</description>
-      <guid isPermaLink="false">2024-06-21 10:07:00</guid>
-      <pubDate>Fri, 21 Jun 2024 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:35 am</title>
-      <description>2400 BLOCK THURSTON RD Radio: 9C Units: E232, 9C</description>
-      <guid isPermaLink="false">2024-06-21 09:35:00</guid>
-      <pubDate>Fri, 21 Jun 2024 09:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
