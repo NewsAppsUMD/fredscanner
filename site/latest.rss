@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 13:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 14:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:55 am</title>
+      <description>500 BLOCK CHAPEL ALY Radio: 9B Units: R2, 9B, A18, ALS31, PE311, A39</description>
+      <guid isPermaLink="false">2024-06-25 09:55:00</guid>
+      <pubDate>Tue, 25 Jun 2024 09:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:51 am</title>
+      <description>500 BLOCK CHAPEL ALY Radio: 9B Units: R2, 9B, A39</description>
+      <guid isPermaLink="false">2024-06-25 09:51:00</guid>
+      <pubDate>Tue, 25 Jun 2024 09:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:43 am</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, LINK LOGISTICS Radio: 9C Units: PE311, TW4, 9C</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK N EAST ST, Apt/Unit:LST STORE IN LEFT, SEVEN ELEVEN Units: PE23, E31, E11, PE311, R2, TW4, T50, A29, SAF901, FS02, E501, ALS2, BC902, BC901</description>
       <guid isPermaLink="false">2024-06-22 00:06:00</guid>
       <pubDate>Sat, 22 Jun 2024 00:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:28 pm</title>
-      <description>13000 BLOCK WASHINGTON TWNSHIP BLVD Units: R6, EK64</description>
-      <guid isPermaLink="false">2024-06-21 23:28:00</guid>
-      <pubDate>Fri, 21 Jun 2024 23:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:21 pm</title>
-      <description>13000 BLOCK WASHINGTON TWNSHIP BLVD Units: R6</description>
-      <guid isPermaLink="false">2024-06-21 23:21:00</guid>
-      <pubDate>Fri, 21 Jun 2024 23:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
