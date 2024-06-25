@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jun 2024 11:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 11:51:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
+      <description>I70EB / 37MM Radio: PS1 Units: E82, PS1</description>
+      <guid isPermaLink="false">2024-06-25 07:46:00</guid>
+      <pubDate>Tue, 25 Jun 2024 07:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:08 am</title>
       <description>6100 BLOCK FORD RD Radio: 9C Units: 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>9700 BLOCK BLANDWOOD WAY Units: FS15, E111, E331, Q11</description>
       <guid isPermaLink="false">2024-06-21 21:38:00</guid>
       <pubDate>Fri, 21 Jun 2024 21:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:37 pm</title>
-      <description>100 BLOCK(8212) BLK SIXES BRIDGE RD Units: EK134, E91, TW6, E162, K9, EK64</description>
-      <guid isPermaLink="false">2024-06-21 16:37:00</guid>
-      <pubDate>Fri, 21 Jun 2024 16:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
