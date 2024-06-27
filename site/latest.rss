@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 11:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 11:31:33 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 7:27 am</title>
+      <description>9100 BLOCK VANGUARD LN, URBAN GREEN APARTMENTS Units: E232, E251, TT23</description>
+      <guid isPermaLink="false">2024-06-27 07:27:00</guid>
+      <pubDate>Thu, 27 Jun 2024 07:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 7:07 am</title>
       <description>5300 BLOCK BUCKEYSTOWN PIKE, HAMPTON INN Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK BUCKEYSTOWN PIKE, ROGERS BUCKEYSTOWN MARKET Units: A149, E141</description>
       <guid isPermaLink="false">2024-06-25 18:17:00</guid>
       <pubDate>Tue, 25 Jun 2024 18:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
-      <description>URBANA PIKE / CENTENNIAL WAY, ADVANCE AUTO PARTS URBANA Radio: 9B Units: E232, A259, TT23, 9B</description>
-      <guid isPermaLink="false">2024-06-25 16:32:00</guid>
-      <pubDate>Tue, 25 Jun 2024 16:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
