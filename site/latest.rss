@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 22:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 22:14:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:11 pm</title>
+      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES BALLENGER CREEK CENTER Radio: 9C Units: PE311, TW1, 9C</description>
+      <guid isPermaLink="false">2024-06-27 18:11:00</guid>
+      <pubDate>Thu, 27 Jun 2024 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:59 pm</title>
       <description>WOODSBORO PIKE / ADVENTURE AVE Radio: 9B Units: E111, A299, 9B</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK N SETON AVE Units: ACE22, E132, CCE52, R6, CCLDR5, CCM58, ACE232, BC902, EK64, CCR5, A69, BC901, SAF901, E102</description>
       <guid isPermaLink="false">2024-06-26 12:40:00</guid>
       <pubDate>Wed, 26 Jun 2024 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:38 pm</title>
-      <description>300 BLOCK N SETON AVE Units: ACRE22, ACE22, E132, CCE52, R6, CCLDR5, CCM58, ACE232, BC902, EK64, CCR5, A69, BC901, SAF901, FS06</description>
-      <guid isPermaLink="false">2024-06-26 12:38:00</guid>
-      <pubDate>Wed, 26 Jun 2024 12:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
