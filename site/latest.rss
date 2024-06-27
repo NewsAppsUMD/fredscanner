@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 12:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:57:44 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 8:54 am</title>
+      <description>TUSCANNEY DR / WALNUT RIDGE CT Units: A18, ALS2, E11, EMS902</description>
+      <guid isPermaLink="false">2024-06-27 08:54:00</guid>
+      <pubDate>Thu, 27 Jun 2024 08:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 7:27 am</title>
       <description>9100 BLOCK VANGUARD LN, URBAN GREEN APARTMENTS Units: E232, E251, TT23</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK ROY SHAFER RD Units: E72</description>
       <guid isPermaLink="false">2024-06-25 19:03:00</guid>
       <pubDate>Tue, 25 Jun 2024 19:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:17 pm</title>
-      <description>3600 BLOCK BUCKEYSTOWN PIKE, ROGERS BUCKEYSTOWN MARKET Units: A149, E141</description>
-      <guid isPermaLink="false">2024-06-25 18:17:00</guid>
-      <pubDate>Tue, 25 Jun 2024 18:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
