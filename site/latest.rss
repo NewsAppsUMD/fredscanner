@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 01:17:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:44:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:41 pm</title>
+      <description>TOWER RD / MIDDLE POINT RD Units: BR216</description>
+      <guid isPermaLink="false">2024-06-26 21:41:00</guid>
+      <pubDate>Wed, 26 Jun 2024 21:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:39 pm</title>
+      <description>100 BLOCK E FOURTH ST Units: PE23</description>
+      <guid isPermaLink="false">2024-06-26 21:39:00</guid>
+      <pubDate>Wed, 26 Jun 2024 21:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:38 pm</title>
+      <description>15900 BLOCK FOXVILLE DEERFIELD RD Units: E102</description>
+      <guid isPermaLink="false">2024-06-26 21:38:00</guid>
+      <pubDate>Wed, 26 Jun 2024 21:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:08 pm</title>
       <description>8700 BLOCK MYERSVILLE RD, IAO Units: A89, R8, FS07</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK CHAPEL ALY Radio: 9B Units: R2, 9B, A39</description>
       <guid isPermaLink="false">2024-06-25 09:51:00</guid>
       <pubDate>Tue, 25 Jun 2024 09:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:43 am</title>
-      <description>4400 BLOCK GEORGIA PACIFIC BLVD, LINK LOGISTICS Radio: 9C Units: PE311, TW4, 9C</description>
-      <guid isPermaLink="false">2024-06-25 09:43:00</guid>
-      <pubDate>Tue, 25 Jun 2024 09:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:00 am</title>
-      <description>I70EB / 37MM Units: E82</description>
-      <guid isPermaLink="false">2024-06-25 08:00:00</guid>
-      <pubDate>Tue, 25 Jun 2024 08:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
-      <description>I70EB / 37MM Radio: PS1 Units: E82, PS1</description>
-      <guid isPermaLink="false">2024-06-25 07:46:00</guid>
-      <pubDate>Tue, 25 Jun 2024 07:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
