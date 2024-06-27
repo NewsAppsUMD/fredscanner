@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Jun 2024 19:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 19:51:19 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 3:41 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:24, WILLOWDALE CROSSING APTS Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2024-06-27 15:41:00</guid>
+      <pubDate>Thu, 27 Jun 2024 15:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK: 2:42 pm</title>
       <description>2500 BLOCK COACH HOUSE WAY, ECHO GLEN CONDOS Radio: 9D Units: A38, ALS29, E291, EMS902, 9D</description>
@@ -300,12 +306,6 @@
       <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Units: BR235, BR16, E232</description>
       <guid isPermaLink="false">2024-06-26 12:08:00</guid>
       <pubDate>Wed, 26 Jun 2024 12:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 12:06 pm</title>
-      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Units: BR235, BR16</description>
-      <guid isPermaLink="false">2024-06-26 12:06:00</guid>
-      <pubDate>Wed, 26 Jun 2024 12:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
