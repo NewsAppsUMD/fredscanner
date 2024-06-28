@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 20:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:51:26 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:48 pm</title>
+      <description>4100 BLOCK FLOWING SPRINGS RD Units: T5</description>
+      <guid isPermaLink="false">2024-06-28 16:48:00</guid>
+      <pubDate>Fri, 28 Jun 2024 16:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 4:17 pm</title>
       <description>OLD FREDERICK RD / HUNT CLUB RD Radio: 9C Units: 9C, BR226</description>
@@ -300,12 +306,6 @@
       <description>TOWER RD / MIDDLE POINT RD Units: BR216</description>
       <guid isPermaLink="false">2024-06-26 21:41:00</guid>
       <pubDate>Wed, 26 Jun 2024 21:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:39 pm</title>
-      <description>100 BLOCK E FOURTH ST Units: PE23</description>
-      <guid isPermaLink="false">2024-06-26 21:39:00</guid>
-      <pubDate>Wed, 26 Jun 2024 21:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
