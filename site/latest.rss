@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 20:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:23:33 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:17 pm</title>
+      <description>OLD FREDERICK RD / HUNT CLUB RD Radio: 9C Units: 9C, BR226</description>
+      <guid isPermaLink="false">2024-06-28 16:17:00</guid>
+      <pubDate>Fri, 28 Jun 2024 16:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:03 pm</title>
       <description>100 BLOCK E GREEN ST, MIDDLETOWN LIBRARY Radio: 9C Units: E72, TW1, 9C, E121</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E FOURTH ST Units: PE23</description>
       <guid isPermaLink="false">2024-06-26 21:39:00</guid>
       <pubDate>Wed, 26 Jun 2024 21:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:38 pm</title>
-      <description>15900 BLOCK FOXVILLE DEERFIELD RD Units: E102</description>
-      <guid isPermaLink="false">2024-06-26 21:38:00</guid>
-      <pubDate>Wed, 26 Jun 2024 21:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
