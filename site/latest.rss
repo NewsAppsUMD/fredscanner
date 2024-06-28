@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 18:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 19:02:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:00 pm</title>
+      <description>5700 BLOCK N MAYER DR Radio: 9C Units: 9C, E31</description>
+      <guid isPermaLink="false">2024-06-28 15:00:00</guid>
+      <pubDate>Fri, 28 Jun 2024 15:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:52 pm</title>
+      <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: E72</description>
+      <guid isPermaLink="false">2024-06-28 14:52:00</guid>
+      <pubDate>Fri, 28 Jun 2024 14:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:49 pm</title>
       <description>200 BLOCK DILL AVE, BANNER SCHOOL Units: PE23, TW1</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK SENECA DR Units: E11, E31, TW4</description>
       <guid isPermaLink="false">2024-06-26 18:40:00</guid>
       <pubDate>Wed, 26 Jun 2024 18:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 6:01 pm</title>
-      <description>6400 BLOCK DRESDEN PL Radio: 9D Units: PE23, R15, HM33, EMS902, 9D, E152, HM50, HMSU33, E121, A159, A39, ALS2, BC901, SAF901</description>
-      <guid isPermaLink="false">2024-06-26 18:01:00</guid>
-      <pubDate>Wed, 26 Jun 2024 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:19 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A318, PE311, 9B</description>
-      <guid isPermaLink="false">2024-06-26 16:19:00</guid>
-      <pubDate>Wed, 26 Jun 2024 16:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
