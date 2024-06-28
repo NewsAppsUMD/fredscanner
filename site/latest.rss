@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 15:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 15:14:34 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 11:00 am</title>
+      <description>RT75 / I70, RT75 / I70 Radio: 9C Units: E152, HM33, HMSU33, CCE12, 9C</description>
+      <guid isPermaLink="false">2024-06-28 11:00:00</guid>
+      <pubDate>Fri, 28 Jun 2024 11:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 am</title>
       <description>3300 BLOCK ECLIPSE DR Radio: 9C Units: FS28, E201, 9C</description>
@@ -300,12 +306,6 @@
       <description>13200 BLOCK JESSE SMITH RD Radio: 9C Units: CCE12, 9C, E251</description>
       <guid isPermaLink="false">2024-06-26 14:32:00</guid>
       <pubDate>Wed, 26 Jun 2024 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:46 pm</title>
-      <description>6600 BLOCK BROWNS QUARRY RD Units: BC902, BC901, SAF901, EK64, R10, FRE191, E102, CMD10, E162, E132, R6, K10, ACEK3, K22, FRE42, FRA48, FRT2, ALS30, FRE241, WCE71, ACE21, A309</description>
-      <guid isPermaLink="false">2024-06-26 13:46:00</guid>
-      <pubDate>Wed, 26 Jun 2024 13:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
