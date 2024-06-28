@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Jun 2024 00:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 00:26:34 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:05 pm</title>
+      <description>5500 BLOCK YOUNG FAMILY TRL W Radio: 9C Units: E141, 9C</description>
+      <guid isPermaLink="false">2024-06-27 20:05:00</guid>
+      <pubDate>Thu, 27 Jun 2024 20:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 6:42 pm</title>
       <description>1300 BLOCK W PATRICK ST, BOSCOV Radio: 9C Units: E31, PE23, TW4, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E MAIN ST Radio: 9C Units: 9C, E152, A159</description>
       <guid isPermaLink="false">2024-06-26 13:45:00</guid>
       <pubDate>Wed, 26 Jun 2024 13:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:39 pm</title>
-      <description>6600 BLOCK BROWNS QUARRY RD Units: BC902, BC901, SAF901, EK64, R10, FRE191, E102, ACRE3, FRE22, E132, R6, K10, ACEK3, K22, FRA47, FRE42, FRT2, ALS30, FRE241, WCE71, ACE21, Q11, A309</description>
-      <guid isPermaLink="false">2024-06-26 13:39:00</guid>
-      <pubDate>Wed, 26 Jun 2024 13:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
