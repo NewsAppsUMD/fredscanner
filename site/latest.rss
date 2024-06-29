@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Jun 2024 04:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 04:15:27 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:05 am</title>
+      <description>22700 BLOCK BLUE BANNER PL Radio: 7A4 Units: K23, 7A4</description>
+      <guid isPermaLink="false">2024-06-29 00:05:00</guid>
+      <pubDate>Sat, 29 Jun 2024 00:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:57 pm</title>
       <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Units: A239, E11, E232, R2, A18</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WYNFIELD CT Radio: 9C Units: E291, TW1, 9C</description>
       <guid isPermaLink="false">2024-06-27 06:17:00</guid>
       <pubDate>Thu, 27 Jun 2024 06:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:17 am</title>
-      <description>ROCKY RIDGE RD / DETOUR RD Radio: 9C Units: E91, EK134, 9C</description>
-      <guid isPermaLink="false">2024-06-27 01:17:00</guid>
-      <pubDate>Thu, 27 Jun 2024 01:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
