@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Jun 2024 15:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 15:31:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:24 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, ROY ROGERS FSK Radio: 9B Units: PE311, 9B, A318</description>
+      <guid isPermaLink="false">2024-06-29 11:24:00</guid>
+      <pubDate>Sat, 29 Jun 2024 11:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:26 am</title>
       <description>100 BLOCK CARROLL CREEK WAY, SOUTH MARKET CENTER Radio: 9C Units: E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>TUSCANNEY DR / WALNUT RIDGE CT Units: A18, ALS2, E11, EMS902</description>
       <guid isPermaLink="false">2024-06-27 08:54:00</guid>
       <pubDate>Thu, 27 Jun 2024 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 7:27 am</title>
-      <description>9100 BLOCK VANGUARD LN, URBAN GREEN APARTMENTS Units: E232, E251, TT23</description>
-      <guid isPermaLink="false">2024-06-27 07:27:00</guid>
-      <pubDate>Thu, 27 Jun 2024 07:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
