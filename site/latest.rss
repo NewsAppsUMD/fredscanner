@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 17:14:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 17:24:16 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 1:23 pm</title>
+      <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Radio: 9D Units: A69, ALS30, EK64, EMS902, 9D</description>
+      <guid isPermaLink="false">2024-06-30 13:23:00</guid>
+      <pubDate>Sun, 30 Jun 2024 13:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:18 pm</title>
+      <description>300 BLOCK SPRING BANK WAY Radio: 9C Units: E291, 9C</description>
+      <guid isPermaLink="false">2024-06-30 13:18:00</guid>
+      <pubDate>Sun, 30 Jun 2024 13:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 1:06 pm</title>
       <description>I70EB / 49MM, I70EB / 49MM Units: E121, E82</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CARROLL CREEK WAY, SOUTH MARKET CENTER Radio: 9C Units: E31, T4, 9C</description>
       <guid isPermaLink="false">2024-06-29 07:26:00</guid>
       <pubDate>Sat, 29 Jun 2024 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 4:35 am</title>
-      <description>2800 BLOCK DECATUR DR, GREEN HILL PARK Radio: 9C Units: 9C, E141, BR145</description>
-      <guid isPermaLink="false">2024-06-29 04:35:00</guid>
-      <pubDate>Sat, 29 Jun 2024 04:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:11 am</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: 9C, PE311, T4</description>
-      <guid isPermaLink="false">2024-06-29 03:11:00</guid>
-      <pubDate>Sat, 29 Jun 2024 03:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
