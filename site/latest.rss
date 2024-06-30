@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 02:18:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 02:34:41 +0000</lastBuildDate>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 10:25 pm</title>
+      <description>DOUBS RD / PLEASANT VIEW RD Radio: 91C Units: E141, K1, BR145, 91C</description>
+      <guid isPermaLink="false">2024-06-29 22:25:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 10:24 pm</title>
+      <description>10200 BLOCK ALLVIEW DR Units: E11, A38, EK114</description>
+      <guid isPermaLink="false">2024-06-29 22:24:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK: 10:22 pm</title>
+      <description>MONOCACY BLVD / BUCHEIMER RD, SERVICE GLASS INDUSTRIES Radio: 91D Units: A339, E331, EMS901, 91D, ALS4</description>
+      <guid isPermaLink="false">2024-06-29 22:22:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 10:20 pm</title>
+      <description>10200 BLOCK ALLVIEW DR Units: BR116, A299, FS11, E11</description>
+      <guid isPermaLink="false">2024-06-29 22:20:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:17 pm</title>
+      <description>100 BLOCK CARROLL CREEK WAY, MEXICAN RESTAURANT Radio: 9C Units: PE311, R3, TW1, 9C</description>
+      <guid isPermaLink="false">2024-06-29 22:17:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:16 pm</title>
+      <description>100 BLOCK CARROLL CREEK WAY, MEXICAN RESTAURANT Radio: 9C Units: PE311, TW1, 9C</description>
+      <guid isPermaLink="false">2024-06-29 22:16:00</guid>
+      <pubDate>Sat, 29 Jun 2024 22:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 10:15 pm</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38, RE74, EK204</description>
@@ -270,42 +306,6 @@
       <description>APPROX LOC:SUGARLOAF BLUE TRAIL Units: EMSUTV31, ALS23, E311, A239, E232, BC901, SAF901, EMS901, FS14, E31, R14, TR29</description>
       <guid isPermaLink="false">2024-06-28 11:53:00</guid>
       <pubDate>Fri, 28 Jun 2024 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 11:00 am</title>
-      <description>RT75 / I70, RT75 / I70 Radio: 9C Units: E152, HM33, HMSU33, CCE12, 9C</description>
-      <guid isPermaLink="false">2024-06-28 11:00:00</guid>
-      <pubDate>Fri, 28 Jun 2024 11:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 am</title>
-      <description>3300 BLOCK ECLIPSE DR Radio: 9C Units: FS28, E201, 9C</description>
-      <guid isPermaLink="false">2024-06-28 10:39:00</guid>
-      <pubDate>Fri, 28 Jun 2024 10:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:05 pm</title>
-      <description>5500 BLOCK YOUNG FAMILY TRL W Radio: 9C Units: E141, 9C</description>
-      <guid isPermaLink="false">2024-06-27 20:05:00</guid>
-      <pubDate>Thu, 27 Jun 2024 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:42 pm</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOV Radio: 9C Units: E31, PE23, TW4, 9C</description>
-      <guid isPermaLink="false">2024-06-27 18:42:00</guid>
-      <pubDate>Thu, 27 Jun 2024 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:33 pm</title>
-      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: EK134</description>
-      <guid isPermaLink="false">2024-06-27 18:33:00</guid>
-      <pubDate>Thu, 27 Jun 2024 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:27 pm</title>
-      <description>RT31 / WAKEFIELD VALLEY RD Units: BR175, BR176</description>
-      <guid isPermaLink="false">2024-06-27 18:27:00</guid>
-      <pubDate>Thu, 27 Jun 2024 18:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
