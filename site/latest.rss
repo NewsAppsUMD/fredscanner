@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 20:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 20:41:29 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:38 pm</title>
+      <description>URBANA PIKE / GENSTAR DR Radio: 9B Units: A318, 9B, R3</description>
+      <guid isPermaLink="false">2024-06-30 16:38:00</guid>
+      <pubDate>Sun, 30 Jun 2024 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:09 pm</title>
       <description>4700 BLOCK ARABY CHURCH RD Radio: 9C Units: FS23, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK MONOCACY BLVD, RIVERSIDE PARK Radio: 9C Units: E291, BR116, 9C</description>
       <guid isPermaLink="false">2024-06-29 19:48:00</guid>
       <pubDate>Sat, 29 Jun 2024 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
-      <description>9000 BLOCK GAMBRILL PARK RD Radio: 9B Units: A129, E121, 9B</description>
-      <guid isPermaLink="false">2024-06-29 17:27:00</guid>
-      <pubDate>Sat, 29 Jun 2024 17:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
