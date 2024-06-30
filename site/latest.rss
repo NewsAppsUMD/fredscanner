@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 14:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 14:51:36 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:44 am</title>
+      <description>2500 BLOCK BEAR DEN RD Units: E291</description>
+      <guid isPermaLink="false">2024-06-30 10:44:00</guid>
+      <pubDate>Sun, 30 Jun 2024 10:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:13 am</title>
       <description>10500 BLOCK GAS HOUSE PIKE Units: R15, A159</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK(351100 BLOCK) BLK HARNEY RD Units: EK64</description>
       <guid isPermaLink="false">2024-06-28 21:04:00</guid>
       <pubDate>Fri, 28 Jun 2024 21:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:19 pm</title>
-      <description>28600 BLOCK(28412) BLK CLARKSBURG RD Units: E251</description>
-      <guid isPermaLink="false">2024-06-28 20:19:00</guid>
-      <pubDate>Fri, 28 Jun 2024 20:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
