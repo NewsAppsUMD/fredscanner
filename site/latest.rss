@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 01:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 01:56:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:47 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:B, ELMWOOD TERRACE APTS Radio: 9C Units: T4, 9C, E11</description>
+      <guid isPermaLink="false">2024-06-29 21:47:00</guid>
+      <pubDate>Sat, 29 Jun 2024 21:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:45 pm</title>
+      <description>18600 BLOCK MT LOCKHILL, BYPASSED TO: STATION 5,1500 VOLUNTEER DR,BRUNSWICK Units: T5, RE52</description>
+      <guid isPermaLink="false">2024-06-29 21:45:00</guid>
+      <pubDate>Sat, 29 Jun 2024 21:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:42 pm</title>
+      <description>8300 BLOCK ROCKY RIDGE RD Radio: 9C Units: 9C, BR136</description>
+      <guid isPermaLink="false">2024-06-29 21:42:00</guid>
+      <pubDate>Sat, 29 Jun 2024 21:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:40 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:B, ELMWOOD TERRACE APTS Radio: 9C Units: T4, 9C, E11</description>
+      <guid isPermaLink="false">2024-06-29 21:40:00</guid>
+      <pubDate>Sat, 29 Jun 2024 21:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 8:54 pm</title>
       <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9D Units: BT16, BTSU15, BT28, 9D, CMD16, Q11, BT27, A169, A229, ALS30, SAF901, EMS902, BTSU28, E162, E91, R10, BT15, BC902, TR29, ALS29, TRNBC900</description>
@@ -282,30 +306,6 @@
       <description>7400 BLOCK MCKAIG RD, MORNINGSIDE INN Radio: 9C Units: BR175, FS11, 9C</description>
       <guid isPermaLink="false">2024-06-27 13:07:00</guid>
       <pubDate>Thu, 27 Jun 2024 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 12:47 pm</title>
-      <description>8500 BLOCK WALTER MARTZ RD Radio: 9C Units: BR35, E291, K1, EK114, E11, 9C</description>
-      <guid isPermaLink="false">2024-06-27 12:47:00</guid>
-      <pubDate>Thu, 27 Jun 2024 12:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 12:44 pm</title>
-      <description>8500 BLOCK WALTER MARTZ RD Radio: 9C Units: BR35, E291, K1, E11, 9C</description>
-      <guid isPermaLink="false">2024-06-27 12:44:00</guid>
-      <pubDate>Thu, 27 Jun 2024 12:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 12:41 pm</title>
-      <description>8500 BLOCK WALTER MARTZ RD Radio: 9C Units: E291, K1, BR16, 9C</description>
-      <guid isPermaLink="false">2024-06-27 12:41:00</guid>
-      <pubDate>Thu, 27 Jun 2024 12:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:07 pm</title>
-      <description>1300 BLOCK W PATRICK ST, FREDERICK TOWNE MALL Radio: 9C Units: E501, TW1, 9C</description>
-      <guid isPermaLink="false">2024-06-27 12:07:00</guid>
-      <pubDate>Thu, 27 Jun 2024 12:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
