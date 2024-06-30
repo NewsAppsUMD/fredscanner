@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 23:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 23:23:47 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 7:12 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, WALMART Radio: 9D Units: 9D, A299, ALS29, E291, EMS902</description>
+      <guid isPermaLink="false">2024-06-30 19:12:00</guid>
+      <pubDate>Sun, 30 Jun 2024 19:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:28 pm</title>
       <description>4200 BLOCK DELAUTER RD Radio: 9C Units: E82, E212, 9C</description>
@@ -300,12 +306,6 @@
       <description>8300 BLOCK ROCKY RIDGE RD Radio: 9C Units: 9C, BR136</description>
       <guid isPermaLink="false">2024-06-29 21:42:00</guid>
       <pubDate>Sat, 29 Jun 2024 21:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:40 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:B, ELMWOOD TERRACE APTS Radio: 9C Units: T4, 9C, E11</description>
-      <guid isPermaLink="false">2024-06-29 21:40:00</guid>
-      <pubDate>Sat, 29 Jun 2024 21:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
