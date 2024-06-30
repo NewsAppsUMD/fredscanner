@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Jun 2024 23:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 23:41:19 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
+      <description>2500 BLOCK MILL RACE RD Radio: 9C Units: 9C, E291</description>
+      <guid isPermaLink="false">2024-06-30 19:30:00</guid>
+      <pubDate>Sun, 30 Jun 2024 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK: 7:12 pm</title>
       <description>2400 BLOCK MONOCACY BLVD, WALMART Radio: 9D Units: 9D, A299, ALS29, E291, EMS902</description>
@@ -300,12 +306,6 @@
       <description>18600 BLOCK MT LOCKHILL, BYPASSED TO: STATION 5,1500 VOLUNTEER DR,BRUNSWICK Units: T5, RE52</description>
       <guid isPermaLink="false">2024-06-29 21:45:00</guid>
       <pubDate>Sat, 29 Jun 2024 21:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:42 pm</title>
-      <description>8300 BLOCK ROCKY RIDGE RD Radio: 9C Units: 9C, BR136</description>
-      <guid isPermaLink="false">2024-06-29 21:42:00</guid>
-      <pubDate>Sat, 29 Jun 2024 21:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
