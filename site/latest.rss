@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 01:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 01:42:51 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 9:05 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Bldg:F, Apt/Unit:302, WILLOWDALE CROSSING APARTMENTS Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2024-06-30 21:05:00</guid>
+      <pubDate>Sun, 30 Jun 2024 21:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:38 pm</title>
       <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Units: E72, WCE162, R8, A89, WCA756</description>
@@ -298,12 +304,6 @@
     <item>
       <title>BARN FIRE: 9:58 pm</title>
       <description>11400 BLOCK KEYMAR RD Radio: 9I Units: 9I, E172, CCE81, E133, CCE101, E111, CCR8, CCEK84, A179, ALS17, BC903, BC901, Q11, R24, K17, K9, E152</description>
-      <guid isPermaLink="false">2024-06-29 21:58:00</guid>
-      <pubDate>Sat, 29 Jun 2024 21:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:58 pm</title>
-      <description>6000 BLOCK JEFFERSON BLVD, VINDOBONA NURSING HOME Radio: 9C Units: E121, TW7, 9C</description>
       <guid isPermaLink="false">2024-06-29 21:58:00</guid>
       <pubDate>Sat, 29 Jun 2024 21:58:00 -0400</pubDate>
     </item>
