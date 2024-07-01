@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 02:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 02:48:15 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:36 pm</title>
+      <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, RID, BC901, A19, C7, A18, PE311, T50, E11, E121, T4, EMS902, 9C, W1, K7, E31, E501, E291, E72, R3, R2, EK114, CMD1, ALS4, BC902, SAF901, EK204</description>
+      <guid isPermaLink="false">2024-06-30 22:36:00</guid>
+      <pubDate>Sun, 30 Jun 2024 22:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:33 pm</title>
+      <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, BC901, A19, E11, E121, T4, K1, 9C, K7, E31, E501, E291, E72, R3, R2, EK114, CMD1, ALS4, BC902, SAF901, EK204</description>
+      <guid isPermaLink="false">2024-06-30 22:33:00</guid>
+      <pubDate>Sun, 30 Jun 2024 22:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:30 pm</title>
+      <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, BC901, E11, E121, T4, K1, 9C, K7, E31, E501, E291, E72, R3, R2, EK114, EK204, ALS4, A18, BC902, SAF901</description>
+      <guid isPermaLink="false">2024-06-30 22:30:00</guid>
+      <pubDate>Sun, 30 Jun 2024 22:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 10:26 pm</title>
       <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, E11, E121, T4, K1, 9C, K7</description>
@@ -288,24 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38, RE74</description>
       <guid isPermaLink="false">2024-06-29 22:11:00</guid>
       <pubDate>Sat, 29 Jun 2024 22:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:05 pm</title>
-      <description>11400 BLOCK KEYMAR RD Radio: 9I Units: 9I, C17, CCE102, E172, CCE81, E133, CMD17, E111, CCR8, CCEK84, A179, ALS17, BC903, BC901, R15, TTF, Q11, R24, K17, K9, E152, CCE52, EK134, CCEK54, W17, K22, R2, K10, BR175</description>
-      <guid isPermaLink="false">2024-06-29 22:05:00</guid>
-      <pubDate>Sat, 29 Jun 2024 22:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:05 pm</title>
-      <description>11400 BLOCK KEYMAR RD Radio: 9I Units: 9I, C17, CCE102, E172, CCE81, E133, CMD17, E111, CCR8, CCEK84, A179, ALS17, BC903, BC901, R15, TTF, Q11, R24, K17, K9, E152, CCE52, EK134, CCEK54, W17, K22, R2, K10</description>
-      <guid isPermaLink="false">2024-06-29 22:05:00</guid>
-      <pubDate>Sat, 29 Jun 2024 22:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:04 pm</title>
-      <description>100 BLOCK E CHURCH ST, EVANGELICAL LUTHERAN CHURCH Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-06-29 22:04:00</guid>
-      <pubDate>Sat, 29 Jun 2024 22:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
