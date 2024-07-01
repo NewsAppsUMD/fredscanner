@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 14:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 15:02:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:50 am</title>
+      <description>5200 BLOCK MOUNT ZION RD Units: A209, E201</description>
+      <guid isPermaLink="false">2024-07-01 10:50:00</guid>
+      <pubDate>Mon, 01 Jul 2024 10:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:22 am</title>
       <description>2500 BLOCK POTTING SHED LN Radio: 9C Units: PE23, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>11400 BLOCK KEYMAR RD Radio: 9I Units: 9I, C17, CCE102, E172, CCE81, E133, CMD17, E111, CCR8, CCEK84, A179, ALS17, BC903, BC901, R15, TTF, Q11, C900, R24, K17, K9, E152, CCE52, EK134, CCEK54, W17, K22, K33, CCK14, R2, K10, CAN1, BR175</description>
       <guid isPermaLink="false">2024-06-29 23:22:00</guid>
       <pubDate>Sat, 29 Jun 2024 23:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:20 pm</title>
-      <description>11400 BLOCK KEYMAR RD Radio: 9I Units: 9I, C17, CCE102, E172, CCE81, E133, CMD17, E111, CCR8, CCEK84, A179, ALS17, BC903, BC901, R15, TTF, Q11, C900, R24, K17, K9, E152, CCE52, EK134, CCEK54, W17, K22, R2, K10, CAN1, BR175</description>
-      <guid isPermaLink="false">2024-06-29 23:20:00</guid>
-      <pubDate>Sat, 29 Jun 2024 23:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
