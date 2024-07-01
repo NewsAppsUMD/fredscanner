@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 18:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 18:42:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:40 pm</title>
+      <description>200 BLOCK MONROE AVE, R W WARNER INC Radio: 9C Units: E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-07-01 14:40:00</guid>
+      <pubDate>Mon, 01 Jul 2024 14:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:05 pm</title>
       <description>100 BLOCK WATER ST Radio: 9D Units: R10, A309, ALS30, BC902, EMS901, 9D, E102</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND Units: TW1, E291</description>
       <guid isPermaLink="false">2024-06-30 00:27:00</guid>
       <pubDate>Sun, 30 Jun 2024 00:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 12:04 am</title>
-      <description>TACOMA ST / WOODLAND AVE Radio: 9C Units: E102, 9C</description>
-      <guid isPermaLink="false">2024-06-30 00:04:00</guid>
-      <pubDate>Sun, 30 Jun 2024 00:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
