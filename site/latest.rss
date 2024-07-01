@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jul 2024 02:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 02:55:36 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:53 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E102</description>
+      <guid isPermaLink="false">2024-06-30 22:53:00</guid>
+      <pubDate>Sun, 30 Jun 2024 22:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:36 pm</title>
       <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, RID, BC901, A19, C7, A18, PE311, T50, E11, E121, T4, EMS902, 9C, W1, K7, E31, E501, E291, E72, R3, R2, EK114, CMD1, ALS4, BC902, SAF901, EK204</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38, RE74, EK204</description>
       <guid isPermaLink="false">2024-06-29 22:15:00</guid>
       <pubDate>Sat, 29 Jun 2024 22:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:11 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38, RE74</description>
-      <guid isPermaLink="false">2024-06-29 22:11:00</guid>
-      <pubDate>Sat, 29 Jun 2024 22:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
