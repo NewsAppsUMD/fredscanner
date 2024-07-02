@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 12:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 12:47:31 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:44 am</title>
+      <description>RT40 / RT17, RT40 / RT17 Radio: 9B Units: R8, 9B, A89</description>
+      <guid isPermaLink="false">2024-07-02 08:44:00</guid>
+      <pubDate>Tue, 02 Jul 2024 08:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:38 am</title>
+      <description>100 BLOCK BLK RAMP RT55100 BLOCK TO RT15SB RAMP Radio: 9B Units: A309, E102, 9B</description>
+      <guid isPermaLink="false">2024-07-02 08:38:00</guid>
+      <pubDate>Tue, 02 Jul 2024 08:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:23 am</title>
       <description>300 BLOCK FRANKLIN ST, Bldg:E, MIDDLETOWN VALLEY APTS Radio: 9C Units: E72, TW1, 9C</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK SAWYER RD Radio: 9C Units: 9C, E152, R15, E331</description>
       <guid isPermaLink="false">2024-06-30 13:42:00</guid>
       <pubDate>Sun, 30 Jun 2024 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 1:23 pm</title>
-      <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Radio: 9D Units: A69, ALS30, EK64, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-06-30 13:23:00</guid>
-      <pubDate>Sun, 30 Jun 2024 13:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:18 pm</title>
-      <description>300 BLOCK SPRING BANK WAY Radio: 9C Units: E291, 9C</description>
-      <guid isPermaLink="false">2024-06-30 13:18:00</guid>
-      <pubDate>Sun, 30 Jun 2024 13:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
