@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 05:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 05:51:24 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:44 am</title>
+      <description>8400 BLOCK PROGRESS DR Radio: 9B Units: 9B, E291</description>
+      <guid isPermaLink="false">2024-07-02 01:44:00</guid>
+      <pubDate>Tue, 02 Jul 2024 01:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:58 am</title>
       <description>100 BLOCK CHALLENGER CT Radio: 9B Units: A248, E111, 9B</description>
@@ -300,12 +306,6 @@
       <description>OLD HAGERSTOWN RD / OLD NATIONAL PIKE Radio: 9C Units: BR75, 9C</description>
       <guid isPermaLink="false">2024-06-30 11:21:00</guid>
       <pubDate>Sun, 30 Jun 2024 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:44 am</title>
-      <description>2500 BLOCK BEAR DEN RD Units: E291</description>
-      <guid isPermaLink="false">2024-06-30 10:44:00</guid>
-      <pubDate>Sun, 30 Jun 2024 10:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
