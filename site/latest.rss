@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jul 2024 12:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 12:30:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:23 am</title>
+      <description>300 BLOCK FRANKLIN ST, Bldg:E, MIDDLETOWN VALLEY APTS Radio: 9C Units: E72, TW1, 9C</description>
+      <guid isPermaLink="false">2024-07-02 08:23:00</guid>
+      <pubDate>Tue, 02 Jul 2024 08:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:23 am</title>
       <description>2100 BLOCK RIVERWALK PL, Apt/Unit:UNIT 242, FAIRWAY VISTA APTS Radio: 9C Units: T4, PE23, 9C</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK SPRING BANK WAY Radio: 9C Units: E291, 9C</description>
       <guid isPermaLink="false">2024-06-30 13:18:00</guid>
       <pubDate>Sun, 30 Jun 2024 13:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 1:06 pm</title>
-      <description>I70EB / 49MM, I70EB / 49MM Units: E121, E82</description>
-      <guid isPermaLink="false">2024-06-30 13:06:00</guid>
-      <pubDate>Sun, 30 Jun 2024 13:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
