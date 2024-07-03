@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 17:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 17:24:07 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:17 pm</title>
+      <description>10500 BLOCK PUTMAN RD Units: BR226</description>
+      <guid isPermaLink="false">2024-07-03 13:17:00</guid>
+      <pubDate>Wed, 03 Jul 2024 13:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
       <description>100 BLOCK BLK 15N BTWN S JEFF ST ON RAMP &amp; W PATRICK ST OFF RAMP HWY, RT15NB / W PATRICK ST Units: E31, PE23, R3, A38, A29</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, BC901, E11, E121, T4, K1, 9C, K7, E31, E501, E291, E72, R3, R2, EK114, EK204, ALS4, A18, BC902, SAF901</description>
       <guid isPermaLink="false">2024-06-30 22:30:00</guid>
       <pubDate>Sun, 30 Jun 2024 22:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 10:26 pm</title>
-      <description>7300 BLOCK BROOKSIDE DR Radio: 9C Units: BC903, E11, E121, T4, K1, 9C, K7</description>
-      <guid isPermaLink="false">2024-06-30 22:26:00</guid>
-      <pubDate>Sun, 30 Jun 2024 22:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
