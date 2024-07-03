@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jul 2024 00:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 00:48:02 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:43 pm</title>
+      <description>9100 BLOCK LIBERTY KNOLLS CT Radio: 9C Units: E172, 9C</description>
+      <guid isPermaLink="false">2024-07-02 20:43:00</guid>
+      <pubDate>Tue, 02 Jul 2024 20:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:37 pm</title>
+      <description>CHRISTOPHERS XING / YELLOW SPRINGS RD Radio: 9C Units: E291, 9C</description>
+      <guid isPermaLink="false">2024-07-02 20:37:00</guid>
+      <pubDate>Tue, 02 Jul 2024 20:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 7:00 pm</title>
       <description>SKYLARK TRL / JACKS MOUNTAIN RD Units: R6, ALS30</description>
@@ -294,18 +306,6 @@
       <description>7000 BLOCK SUMMERFIELD DR Radio: 9C Units: R2, K1, E291, E501, 9C</description>
       <guid isPermaLink="false">2024-06-30 20:00:00</guid>
       <pubDate>Sun, 30 Jun 2024 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 7:56 pm</title>
-      <description>100 BLOCK BLK RAMP RT15-34100 BLOCK TO I7100 BLOCKWB RAMP Radio: 9D Units: E11, E232, R3, A19, A239, ALS2, 9D, EMS901</description>
-      <guid isPermaLink="false">2024-06-30 19:56:00</guid>
-      <pubDate>Sun, 30 Jun 2024 19:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
-      <description>2500 BLOCK MILL RACE RD Radio: 9C Units: 9C, E291</description>
-      <guid isPermaLink="false">2024-06-30 19:30:00</guid>
-      <pubDate>Sun, 30 Jun 2024 19:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
