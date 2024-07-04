@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 11:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 11:41:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:39 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: E201, 9C, TW1</description>
+      <guid isPermaLink="false">2024-07-04 07:39:00</guid>
+      <pubDate>Thu, 04 Jul 2024 07:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:35 am</title>
       <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E31, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MAIN ST, WOODSBORO BANK Radio: 9C Units: Q11, 9C</description>
       <guid isPermaLink="false">2024-07-01 20:15:00</guid>
       <pubDate>Mon, 01 Jul 2024 20:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:13 pm</title>
-      <description>BULLFROG RD / PUMPING STATION Units: A69, BR65, EK64</description>
-      <guid isPermaLink="false">2024-07-01 19:13:00</guid>
-      <pubDate>Mon, 01 Jul 2024 19:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
