@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 09:25:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 09:32:18 +0000</lastBuildDate>
+    <item>
+      <title>DUMPSTER FIRE: 5:25 am</title>
+      <description>THOROUGHBRED LN / ATLAS DR Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-07-04 05:25:00</guid>
+      <pubDate>Thu, 04 Jul 2024 05:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:59 am</title>
       <description>I270NB / 26MM, I270NB / 26MM Radio: 9C Units: E231, PRE709, 9C</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: FS31, A318, PE311</description>
       <guid isPermaLink="false">2024-07-01 17:55:00</guid>
       <pubDate>Mon, 01 Jul 2024 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:04 pm</title>
-      <description>ROHERSVILLE RD / FROG EYE RD Units: R20, T5</description>
-      <guid isPermaLink="false">2024-07-01 16:04:00</guid>
-      <pubDate>Mon, 01 Jul 2024 16:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
