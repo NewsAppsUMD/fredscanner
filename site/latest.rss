@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 00:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 01:17:28 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:15 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R2, 9C</description>
+      <guid isPermaLink="false">2024-07-03 21:15:00</guid>
+      <pubDate>Wed, 03 Jul 2024 21:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:27 pm</title>
       <description>NEW LONDON RD / CRICKENBERGER RD Radio: 9D Units: ALS17, E152, A159, EMS902, 9D</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WATER ST Radio: 9D Units: R10, A309, ALS30, BC902, EMS901, 9D, E102</description>
       <guid isPermaLink="false">2024-07-01 13:05:00</guid>
       <pubDate>Mon, 01 Jul 2024 13:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:18 pm</title>
-      <description>14300 BLOCK(14012) BLK BUCHANAN TRL E Units: EK64, R10</description>
-      <guid isPermaLink="false">2024-07-01 12:18:00</guid>
-      <pubDate>Mon, 01 Jul 2024 12:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
