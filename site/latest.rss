@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jul 2024 18:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 19:02:04 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 2:58 pm</title>
+      <description>700 BLOCK HEATHER RIDGE DR, Apt/Unit:E, AMBERTOWN CONDOS #700 BLOCK Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2024-07-04 14:58:00</guid>
+      <pubDate>Thu, 04 Jul 2024 14:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 2:13 pm</title>
       <description>RT340EB / LANDER RD, RT340EB / LANDER RD Units: BR205</description>
@@ -300,12 +306,6 @@
       <description>8300 BLOCK FINGERBOARD RD, WORTHINGTON MANOR GOLF COURSE Radio: 9C Units: E232, 9C</description>
       <guid isPermaLink="false">2024-07-02 11:55:00</guid>
       <pubDate>Tue, 02 Jul 2024 11:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:34 am</title>
-      <description>2700 BLOCK ADAMS ST, STATION 14 Units: E141</description>
-      <guid isPermaLink="false">2024-07-02 09:34:00</guid>
-      <pubDate>Tue, 02 Jul 2024 09:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
