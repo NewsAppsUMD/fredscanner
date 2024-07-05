@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jul 2024 11:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 11:41:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:35 am</title>
+      <description>4400 BLOCK GEORGIA PACIFIC BLVD, GAMMA MEDICAL SYSTEMS INC Units: TW1, E31</description>
+      <guid isPermaLink="false">2024-07-05 07:35:00</guid>
+      <pubDate>Fri, 05 Jul 2024 07:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:34 am</title>
+      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Units: T4, FS14, PE311</description>
+      <guid isPermaLink="false">2024-07-05 07:34:00</guid>
+      <pubDate>Fri, 05 Jul 2024 07:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:10 am</title>
       <description>1600 BLOCK MISTY MEADOW CIR Radio: 9C Units: E11, T50, 9C</description>
@@ -294,18 +306,6 @@
       <description>10500 BLOCK PUTMAN RD Units: BR226</description>
       <guid isPermaLink="false">2024-07-03 13:17:00</guid>
       <pubDate>Wed, 03 Jul 2024 13:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
-      <description>100 BLOCK BLK 15N BTWN S JEFF ST ON RAMP &amp; W PATRICK ST OFF RAMP HWY, RT15NB / W PATRICK ST Units: E31, PE23, R3, A38, A29</description>
-      <guid isPermaLink="false">2024-07-03 13:09:00</guid>
-      <pubDate>Wed, 03 Jul 2024 13:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:24 pm</title>
-      <description>9200 BLOCK GUE RD, Bypassed to: STATION 25,3939 GREEN VALLEY RD,IJAMSVILLE Units: A259</description>
-      <guid isPermaLink="false">2024-07-03 12:24:00</guid>
-      <pubDate>Wed, 03 Jul 2024 12:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
