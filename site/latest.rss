@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 22:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 22:31:48 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:24 pm</title>
+      <description>100 BLOCK BLK POTOMAC RIVER Units: ALS20, BT19, BT28, A197</description>
+      <guid isPermaLink="false">2024-07-06 18:24:00</guid>
+      <pubDate>Sat, 06 Jul 2024 18:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:23 pm</title>
+      <description>10500 BLOCK LAKERIDGE PL Units: E152, FS15</description>
+      <guid isPermaLink="false">2024-07-06 18:23:00</guid>
+      <pubDate>Sat, 06 Jul 2024 18:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:56 pm</title>
       <description>9300 BLOCK CHICORY CT Radio: 9C Units: E231, 9C</description>
@@ -294,18 +306,6 @@
       <description>700 BLOCK HEATHER RIDGE DR, Apt/Unit:E, AMBERTOWN CONDOS #700 BLOCK Radio: 9C Units: PE23, 9C</description>
       <guid isPermaLink="false">2024-07-04 14:58:00</guid>
       <pubDate>Thu, 04 Jul 2024 14:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:13 pm</title>
-      <description>RT340EB / LANDER RD, RT340EB / LANDER RD Units: BR205</description>
-      <guid isPermaLink="false">2024-07-04 14:13:00</guid>
-      <pubDate>Thu, 04 Jul 2024 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
-      <description>RT85 / RT355, RT85 / RT355 Radio: 9B Units: A38, E31, 9B</description>
-      <guid isPermaLink="false">2024-07-04 13:21:00</guid>
-      <pubDate>Thu, 04 Jul 2024 13:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
