@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 20:41:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 20:51:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:44 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: WCE162, E82</description>
+      <guid isPermaLink="false">2024-07-06 16:44:00</guid>
+      <pubDate>Sat, 06 Jul 2024 16:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:03 pm</title>
       <description>100 BLOCK W D ST Units: RE52</description>
@@ -300,12 +306,6 @@
       <description>SHOOKSTOWN RD / MONTEVUE LN Units: A19, E11</description>
       <guid isPermaLink="false">2024-07-04 13:13:00</guid>
       <pubDate>Thu, 04 Jul 2024 13:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:56 am</title>
-      <description>4900 BLOCK SUTHERLAND DR Units: PE311</description>
-      <guid isPermaLink="false">2024-07-04 11:56:00</guid>
-      <pubDate>Thu, 04 Jul 2024 11:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
