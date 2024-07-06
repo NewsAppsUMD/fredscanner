@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 13:14:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 13:23:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:16 am</title>
+      <description>7000 BLOCK BASSWOOD RD Radio: 9C Units: PE311, 9C</description>
+      <guid isPermaLink="false">2024-07-06 09:16:00</guid>
+      <pubDate>Sat, 06 Jul 2024 09:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 7:02 am</title>
       <description>10000 BLOCK WOLFSVILLE RD Radio: 9C Units: 9C, E82</description>
@@ -300,12 +306,6 @@
       <description>THOROUGHBRED LN / ATLAS DR Radio: 9C Units: E11, 9C</description>
       <guid isPermaLink="false">2024-07-04 05:25:00</guid>
       <pubDate>Thu, 04 Jul 2024 05:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:59 am</title>
-      <description>I270NB / 26MM, I270NB / 26MM Radio: 9C Units: E231, PRE709, 9C</description>
-      <guid isPermaLink="false">2024-07-04 03:59:00</guid>
-      <pubDate>Thu, 04 Jul 2024 03:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
