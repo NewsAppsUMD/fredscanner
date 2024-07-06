@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 07:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 07:14:02 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 3:10 am</title>
+      <description>400 BLOCK W PATRICK ST Units: A38, ALS4, T4, EMS901</description>
+      <guid isPermaLink="false">2024-07-06 03:10:00</guid>
+      <pubDate>Sat, 06 Jul 2024 03:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 2:26 am</title>
       <description>15400 BLOCK LIBERTY RD Units: CMD17, RE171, C17, EMS902, A179, ALS17</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R2, 9C</description>
       <guid isPermaLink="false">2024-07-03 21:15:00</guid>
       <pubDate>Wed, 03 Jul 2024 21:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:27 pm</title>
-      <description>NEW LONDON RD / CRICKENBERGER RD Radio: 9D Units: ALS17, E152, A159, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-07-03 18:27:00</guid>
-      <pubDate>Wed, 03 Jul 2024 18:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
