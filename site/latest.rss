@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 18:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 18:41:33 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:31 pm</title>
+      <description>12200 BLOCK COPPERMINE RD Units: K17, K9, CCEK84, C17C, C11, RE171, E162, E91, E152, CCE81, R15, Q11, CCR8, A179, ALS17, BC901, SAF901, EK114</description>
+      <guid isPermaLink="false">2024-07-06 14:31:00</guid>
+      <pubDate>Sat, 06 Jul 2024 14:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:21 pm</title>
       <description>12200 BLOCK COPPERMINE RD Units: K17, K9, CCEK84, RE171, E162, E91, E152, CCE81, E111, R15, Q11, CCR8, A179, ALS17, BC901, BC903, SAF901, FS17</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK YOUNKINS DR Radio: 9C Units: FS05, 9C, E201</description>
       <guid isPermaLink="false">2024-07-04 11:44:00</guid>
       <pubDate>Thu, 04 Jul 2024 11:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:02 am</title>
-      <description>200 BLOCK FREDERICK RD, MCDONALDS THURMONT Radio: 9D Units: A309, ALS30, E102, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-07-04 11:02:00</guid>
-      <pubDate>Thu, 04 Jul 2024 11:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
