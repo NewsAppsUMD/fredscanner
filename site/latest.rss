@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jul 2024 21:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:56 pm</title>
+      <description>9300 BLOCK CHICORY CT Radio: 9C Units: E231, 9C</description>
+      <guid isPermaLink="false">2024-07-06 17:56:00</guid>
+      <pubDate>Sat, 06 Jul 2024 17:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:44 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: WCE162, E82</description>
@@ -300,12 +306,6 @@
       <description>RT85 / RT355, RT85 / RT355 Radio: 9B Units: A38, E31, 9B</description>
       <guid isPermaLink="false">2024-07-04 13:21:00</guid>
       <pubDate>Thu, 04 Jul 2024 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:13 pm</title>
-      <description>SHOOKSTOWN RD / MONTEVUE LN Units: A19, E11</description>
-      <guid isPermaLink="false">2024-07-04 13:13:00</guid>
-      <pubDate>Thu, 04 Jul 2024 13:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
