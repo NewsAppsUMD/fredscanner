@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 01:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 02:19:39 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 10:06 pm</title>
+      <description>10500 BLOCK PUTMAN RD Units: EK224</description>
+      <guid isPermaLink="false">2024-07-06 22:06:00</guid>
+      <pubDate>Sat, 06 Jul 2024 22:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:03 pm</title>
+      <description>100 BLOCK S COURT ST, CITIZENS TRUCK CO Units: Q11, CCT1</description>
+      <guid isPermaLink="false">2024-07-06 22:03:00</guid>
+      <pubDate>Sat, 06 Jul 2024 22:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:55 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: R10</description>
+      <guid isPermaLink="false">2024-07-06 21:55:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:48 pm</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
@@ -288,24 +306,6 @@
       <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Units: T4, FS14, PE311</description>
       <guid isPermaLink="false">2024-07-05 07:34:00</guid>
       <pubDate>Fri, 05 Jul 2024 07:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:10 am</title>
-      <description>1600 BLOCK MISTY MEADOW CIR Radio: 9C Units: E11, T50, 9C</description>
-      <guid isPermaLink="false">2024-07-05 04:10:00</guid>
-      <pubDate>Fri, 05 Jul 2024 04:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING: 3:06 am</title>
-      <description>100 BLOCK E PATRICK ST, C BURR ARTZ LIBRARY Radio: 9D Units: A38, ALS4, R3, BC901, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-07-05 03:06:00</guid>
-      <pubDate>Fri, 05 Jul 2024 03:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 12:19 am</title>
-      <description>1400 BLOCK TANEY AVE, AMBER RIDGE MEDICAL CENTER Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-07-05 00:19:00</guid>
-      <pubDate>Fri, 05 Jul 2024 00:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
