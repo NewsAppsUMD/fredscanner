@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 00:52:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 01:28:32 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 9:22 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, CMD5, A196, C5, E72, E141, RID2, E121, RE74, A612, EMS901, W5, ALS20, BC903, E31, E626, E610, PE311, R3, R15, CAN1, PE23, E201, E281, WCEK8, R20, T5, JCRE1, R24, A197, BC902, SAF901, T4</description>
+      <guid isPermaLink="false">2024-07-06 21:22:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:20 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, A196, C5, E72, E141, RID2, E121, RE74, A612, EMS901, W5, ALS20, BC903, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
+      <guid isPermaLink="false">2024-07-06 21:20:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:18 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, A196, C5, E72, E141, ALS20, BC903, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
+      <guid isPermaLink="false">2024-07-06 21:18:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:17 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, A196, C5, ALS20, BC903, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
+      <guid isPermaLink="false">2024-07-06 21:17:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:16 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, A196, ALS20, BC903, RE52, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
+      <guid isPermaLink="false">2024-07-06 21:16:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:14 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, ALS20, BC903, RE52, E201, E281, WCEK8, R20, T5, JCRE1, A198, A197, BC902, SAF901, FS05</description>
+      <guid isPermaLink="false">2024-07-06 21:14:00</guid>
+      <pubDate>Sat, 06 Jul 2024 21:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:52 pm</title>
+      <description>RT77 / PARK CENTRAL RD, RT77 / PARK CENTRAL RD Radio: 9D Units: E102, R10, A309, ALS30, BC902, EMS902, 9D</description>
+      <guid isPermaLink="false">2024-07-06 20:52:00</guid>
+      <pubDate>Sat, 06 Jul 2024 20:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:56 pm</title>
       <description>1900 BLOCK JEFFERSON PIKE Radio: 9B Units: A197, RE52, 9B</description>
@@ -264,48 +306,6 @@
       <description>LANDSDALE BLVD / ED MCCLAIN RD Units: E251</description>
       <guid isPermaLink="false">2024-07-04 22:48:00</guid>
       <pubDate>Thu, 04 Jul 2024 22:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STABBING: 10:36 pm</title>
-      <description>1300 BLOCK SPLIT RAIL LN Radio: 9D Units: E11, BC903, EMS901, A19, ALS4, 9D</description>
-      <guid isPermaLink="false">2024-07-04 22:36:00</guid>
-      <pubDate>Thu, 04 Jul 2024 22:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:21 pm</title>
-      <description>6900 BLOCK RUNKLES RD Units: E152</description>
-      <guid isPermaLink="false">2024-07-04 22:21:00</guid>
-      <pubDate>Thu, 04 Jul 2024 22:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 9:54 pm</title>
-      <description>3400 BLOCK KEMPTOWN CHURCH RD, Bldg:B, KEMPTOWN PARK Radio: 9C Units: 9C, E251</description>
-      <guid isPermaLink="false">2024-07-04 21:54:00</guid>
-      <pubDate>Thu, 04 Jul 2024 21:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 5:44 pm</title>
-      <description>15500 BLOCK SABILLASVILLE RD Radio: 9C Units: E102, K10, BR65, 9C</description>
-      <guid isPermaLink="false">2024-07-04 17:44:00</guid>
-      <pubDate>Thu, 04 Jul 2024 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:32 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN Units: PE311, TW1</description>
-      <guid isPermaLink="false">2024-07-04 16:32:00</guid>
-      <pubDate>Thu, 04 Jul 2024 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:25 pm</title>
-      <description>CREAGERSTOWN RD / MONOCACY RIVER Radio: 9B Units: R10, ALS30, BC902, A169, EMS902, FS16, E162, 9B</description>
-      <guid isPermaLink="false">2024-07-04 16:25:00</guid>
-      <pubDate>Thu, 04 Jul 2024 16:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:23 pm</title>
-      <description>CREAGERSTOWN RD / MONOCACY RIVER Radio: 9B Units: A169, E162, 9B</description>
-      <guid isPermaLink="false">2024-07-04 16:23:00</guid>
-      <pubDate>Thu, 04 Jul 2024 16:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
