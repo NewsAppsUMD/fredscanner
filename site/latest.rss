@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 15:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 15:31:31 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:25 am</title>
+      <description>5900 BLOCK POOLE RD Units: K1, A209, ALS31, BC903, BC901, FS20, E201, E121, E72, E11, RE52, E51, R20, T4, RE74, EK204, K7</description>
+      <guid isPermaLink="false">2024-07-07 11:25:00</guid>
+      <pubDate>Sun, 07 Jul 2024 11:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE FUEL SPILL: 11:08 am</title>
       <description>E SOUTH ST / MONOCACY BLVD Radio: 9C Units: E31, PE23, HM33, HMSU33, BC902, SAF901, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK ALI DR Units: E121, R8, E72</description>
       <guid isPermaLink="false">2024-07-06 00:49:00</guid>
       <pubDate>Sat, 06 Jul 2024 00:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:51 pm</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: E231, R3, A709, A239, PRE709</description>
-      <guid isPermaLink="false">2024-07-05 20:51:00</guid>
-      <pubDate>Fri, 05 Jul 2024 20:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
