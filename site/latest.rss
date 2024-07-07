@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jul 2024 02:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 02:35:30 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:24 pm</title>
+      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: T50, R15, E612B, TW1, E51, CMD5, EK204, BC901, A196, C5, E72, E141, RID2, E121, A612, EMS901, W5, ALS20, BC903, E31, E626, PE311, R3, CAN1, PE23, VOLDC900, E201, E281, WCEK8, R20, T5, A197, BC902, SAF901, T4, A18, U5</description>
+      <guid isPermaLink="false">2024-07-06 22:24:00</guid>
+      <pubDate>Sat, 06 Jul 2024 22:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 10:06 pm</title>
       <description>10500 BLOCK PUTMAN RD Units: EK224</description>
@@ -300,12 +306,6 @@
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, GAMMA MEDICAL SYSTEMS INC Units: TW1, E31</description>
       <guid isPermaLink="false">2024-07-05 07:35:00</guid>
       <pubDate>Fri, 05 Jul 2024 07:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:34 am</title>
-      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Units: T4, FS14, PE311</description>
-      <guid isPermaLink="false">2024-07-05 07:34:00</guid>
-      <pubDate>Fri, 05 Jul 2024 07:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
