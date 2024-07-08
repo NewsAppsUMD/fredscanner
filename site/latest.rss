@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 00:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 01:28:23 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:12 pm</title>
+      <description>500 BLOCK N BENTZ ST Units: CMD2, C3B, PE23, E31, E501, E11, E291, T50, A38, BC901, SAF901, C3C, R3, T4, EMS902, ALS2, BC902</description>
+      <guid isPermaLink="false">2024-07-07 21:12:00</guid>
+      <pubDate>Sun, 07 Jul 2024 21:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:10 pm</title>
+      <description>500 BLOCK N BENTZ ST Units: PE23, E31, E501, E11, E291, T50, A38, BC901, SAF901, R3, T4, ALS2, BC902</description>
+      <guid isPermaLink="false">2024-07-07 21:10:00</guid>
+      <pubDate>Sun, 07 Jul 2024 21:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>SHOOTING: 8:26 pm</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:247, DAYS INN Radio: 9B Units: A318, PE311, BC901, EMS901, ALS31, 9B</description>
@@ -294,18 +306,6 @@
       <description>12200 BLOCK COPPERMINE RD Units: K17, K9, CCEK84, C17C, C11, RE171, E162, E91, E152, CCE81, R15, Q11, CCR8, A179, ALS17, BC901, SAF901, EK114</description>
       <guid isPermaLink="false">2024-07-06 14:31:00</guid>
       <pubDate>Sat, 06 Jul 2024 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:21 pm</title>
-      <description>12200 BLOCK COPPERMINE RD Units: K17, K9, CCEK84, RE171, E162, E91, E152, CCE81, E111, R15, Q11, CCR8, A179, ALS17, BC901, BC903, SAF901, FS17</description>
-      <guid isPermaLink="false">2024-07-06 14:21:00</guid>
-      <pubDate>Sat, 06 Jul 2024 14:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:45 pm</title>
-      <description>GREEN VALLEY RD / BROWNINGSVILLE RD Units: A259, E251</description>
-      <guid isPermaLink="false">2024-07-06 13:45:00</guid>
-      <pubDate>Sat, 06 Jul 2024 13:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
