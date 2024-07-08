@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 20:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 20:41:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:38 pm</title>
+      <description>RT15NB / LIBERTY RD, MID-MARYLAND MUSCULOSKELETAL INSTITUTE Radio: 9D Units: E111, A18, ALS2, BC902, R2, 9D, EMS902, FS29</description>
+      <guid isPermaLink="false">2024-07-08 16:38:00</guid>
+      <pubDate>Mon, 08 Jul 2024 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 4:26 pm</title>
       <description>8800 BLOCK URBANA CHURCH RD, URBANA CONVENIENCE SHOP Units: E231, HMSU33, HM33, E251</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, A196, ALS20, BC903, RE52, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
       <guid isPermaLink="false">2024-07-06 21:16:00</guid>
       <pubDate>Sat, 06 Jul 2024 21:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:14 pm</title>
-      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, ALS20, BC903, RE52, E201, E281, WCEK8, R20, T5, JCRE1, A198, A197, BC902, SAF901, FS05</description>
-      <guid isPermaLink="false">2024-07-06 21:14:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
