@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 11:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 11:14:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:07 am</title>
+      <description>1600 BLOCK BOWMANS FARM RD, MARYLAND MOTOR VEHICLE ADMINISTRATION Radio: 9C Units: E331, T4, 9C</description>
+      <guid isPermaLink="false">2024-07-08 07:07:00</guid>
+      <pubDate>Mon, 08 Jul 2024 07:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:47 am</title>
       <description>8400 BLOCK STAGECOACH CIR, WELLS FARGO HOME MORTGAGE Radio: 9C Units: E291, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W D ST Units: RE52</description>
       <guid isPermaLink="false">2024-07-06 15:03:00</guid>
       <pubDate>Sat, 06 Jul 2024 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:39 pm</title>
-      <description>RT26WB / WORMANS MILL RD, RT26EB / ROUTZAHN WAY Units: A29, PE23, A247</description>
-      <guid isPermaLink="false">2024-07-06 14:39:00</guid>
-      <pubDate>Sat, 06 Jul 2024 14:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
