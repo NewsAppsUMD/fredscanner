@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Jul 2024 21:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 21:25:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
+      <description>I70WB / RT180, I70WB / RT180 Radio: 9B Units: E31, A39, 9B</description>
+      <guid isPermaLink="false">2024-07-08 17:22:00</guid>
+      <pubDate>Mon, 08 Jul 2024 17:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:38 pm</title>
       <description>RT15NB / LIBERTY RD, MID-MARYLAND MUSCULOSKELETAL INSTITUTE Radio: 9D Units: E111, A18, ALS2, BC902, R2, 9D, EMS902, FS29</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, A196, C5, ALS20, BC903, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
       <guid isPermaLink="false">2024-07-06 21:17:00</guid>
       <pubDate>Sat, 06 Jul 2024 21:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:16 pm</title>
-      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, A196, ALS20, BC903, RE52, E201, E281, WCEK8, R20, T5, JCRE1, A197, BC902, SAF901, FS05</description>
-      <guid isPermaLink="false">2024-07-06 21:16:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
