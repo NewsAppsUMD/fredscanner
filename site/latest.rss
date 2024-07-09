@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 07:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 07:31:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:20 am</title>
+      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: E172, 9C</description>
+      <guid isPermaLink="false">2024-07-09 03:20:00</guid>
+      <pubDate>Tue, 09 Jul 2024 03:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:17 am</title>
       <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, 9C</description>
@@ -300,12 +306,6 @@
       <description>10500 BLOCK PUTMAN RD Units: EK224</description>
       <guid isPermaLink="false">2024-07-06 22:06:00</guid>
       <pubDate>Sat, 06 Jul 2024 22:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:03 pm</title>
-      <description>100 BLOCK S COURT ST, CITIZENS TRUCK CO Units: Q11, CCT1</description>
-      <guid isPermaLink="false">2024-07-06 22:03:00</guid>
-      <pubDate>Sat, 06 Jul 2024 22:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
