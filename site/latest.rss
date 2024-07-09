@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 20:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 20:15:07 +0000</lastBuildDate>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 4:08 pm</title>
+      <description>20700 BLOCK MOUTH OF MONOCACY RD Radio: 9C Units: BR285, BR145, PRE714, 9C, K714, E141, BC901</description>
+      <guid isPermaLink="false">2024-07-09 16:08:00</guid>
+      <pubDate>Tue, 09 Jul 2024 16:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 4:01 pm</title>
+      <description>20700 BLOCK MOUTH OF MONOCACY RD Radio: 9C Units: PRE714, 9C, K714, BR145</description>
+      <guid isPermaLink="false">2024-07-09 16:01:00</guid>
+      <pubDate>Tue, 09 Jul 2024 16:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:53 pm</title>
       <description>S MAIN ST / E RIDGEVILLE BLVD Units: R15</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK N BENTZ ST Units: PE23, E31, E501, E11, E291, T50, A38, BC901, SAF901, R3, T4, ALS2, BC902</description>
       <guid isPermaLink="false">2024-07-07 21:10:00</guid>
       <pubDate>Sun, 07 Jul 2024 21:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING: 8:26 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:247, DAYS INN Radio: 9B Units: A318, PE311, BC901, EMS901, ALS31, 9B</description>
-      <guid isPermaLink="false">2024-07-07 20:26:00</guid>
-      <pubDate>Sun, 07 Jul 2024 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:37 pm</title>
-      <description>11700 BLOCK WOODLAND WAY RD Units: FS21, E82</description>
-      <guid isPermaLink="false">2024-07-07 19:37:00</guid>
-      <pubDate>Sun, 07 Jul 2024 19:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
