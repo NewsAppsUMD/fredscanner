@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 00:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 00:27:03 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 8:17 pm</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, GAMBRILLS PHYSICAL THERAPY Radio: 9D Units: E31, E72, 9D, BR75</description>
+      <guid isPermaLink="false">2024-07-08 20:17:00</guid>
+      <pubDate>Mon, 08 Jul 2024 20:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 8:14 pm</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, GAMBRILLS PHYSICAL THERAPY Radio: 9D Units: E31, E72, 9D</description>
+      <guid isPermaLink="false">2024-07-08 20:14:00</guid>
+      <pubDate>Mon, 08 Jul 2024 20:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 8:09 pm</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, GAMBRILLS PHYSICAL THERAPY Radio: 9D Units: E72, FS12, 9D</description>
+      <guid isPermaLink="false">2024-07-08 20:09:00</guid>
+      <pubDate>Mon, 08 Jul 2024 20:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>HIGH ANGLE RESCUE: 7:46 pm</title>
       <description>8500 BLOCK GAMBRILL PARK RD, GAMBRILL STATE PARK NORTH FREDERICK OVERLOOK Radio: 9D Units: TW1, TR29, E121, E82, A129, A89, ALS8, BC902, SAF901, EMS901, 9D, RE74</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
       <guid isPermaLink="false">2024-07-06 21:48:00</guid>
       <pubDate>Sat, 06 Jul 2024 21:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:43 pm</title>
-      <description>STATION 20, STATION 20 Units: E111</description>
-      <guid isPermaLink="false">2024-07-06 21:43:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:39 pm</title>
-      <description>PRICES DISTILLARY / CLARKSBURG RD Units: TT23, K23, E251, E231</description>
-      <guid isPermaLink="false">2024-07-06 21:39:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:26 pm</title>
-      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: E612, TW1, E51, CMD5, EK204, A196, C5, E72, E141, RID2, E121, RE74, A612, EMS901, W5, ALS20, BC903, E31, E626, E610, PE311, R3, R15, CAN1, PE23, VOLDC900, E201, E281, WCEK8, R20, T5, JCRE1, R24, A197, BC902, SAF901, T4</description>
-      <guid isPermaLink="false">2024-07-06 21:26:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
