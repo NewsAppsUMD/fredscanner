@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 10:51:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 11:03:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:53 am</title>
+      <description>I70EB / 46MM, I70EB / 46MM Radio: 9B Units: E82, A89, A129, RE74, E121, 9B</description>
+      <guid isPermaLink="false">2024-07-09 06:53:00</guid>
+      <pubDate>Tue, 09 Jul 2024 06:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:50 am</title>
+      <description>I70WB / 46MM, I70EB / 46MM Radio: 9B Units: E82, A89, A129, E121, 9B</description>
+      <guid isPermaLink="false">2024-07-09 06:50:00</guid>
+      <pubDate>Tue, 09 Jul 2024 06:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:49 am</title>
       <description>I70WB / 46MM, I70EB / 46MM Radio: 9B Units: A129, E121, 9B</description>
@@ -294,18 +306,6 @@
       <description>6500 BLOCK WORSHAM CT Radio: 9C Units: TW1, 9C, PE311</description>
       <guid isPermaLink="false">2024-07-07 02:30:00</guid>
       <pubDate>Sun, 07 Jul 2024 02:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:54 pm</title>
-      <description>100 BLOCK E D ST, BRUNSWICK RESERVOIR Units: T50, E612B, TW1, E51, CMD5, EK204, A196, C5, E72, E141, RID2, E121, A612, EMS901, W5, ALS20, BC903, E31, E626, PE311, R3, CAN1, PE23, VOLDC900, E201, E281, WCEK8, R20, T5, R24, BC902, SAF901, T4, A18, U5</description>
-      <guid isPermaLink="false">2024-07-06 22:54:00</guid>
-      <pubDate>Sat, 06 Jul 2024 22:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:41 pm</title>
-      <description>I270NB / EXIT 26 (RT80), I270NB / EXIT 26 Units: TT23, R729, A259, ALS23, PRE714, C23, E231, BC901, EMS900, FS23, PRE709</description>
-      <guid isPermaLink="false">2024-07-06 22:41:00</guid>
-      <pubDate>Sat, 06 Jul 2024 22:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
