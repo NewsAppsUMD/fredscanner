@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 07:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 07:22:54 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:17 am</title>
+      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, 9C</description>
+      <guid isPermaLink="false">2024-07-09 03:17:00</guid>
+      <pubDate>Tue, 09 Jul 2024 03:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:32 pm</title>
       <description>1300 BLOCK MOTTER AVE, Apt/Unit:7, FREDERICK GREENES APTS Radio: 9C Units: R3, 9C, PE23, E501</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S COURT ST, CITIZENS TRUCK CO Units: Q11, CCT1</description>
       <guid isPermaLink="false">2024-07-06 22:03:00</guid>
       <pubDate>Sat, 06 Jul 2024 22:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:55 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: R10</description>
-      <guid isPermaLink="false">2024-07-06 21:55:00</guid>
-      <pubDate>Sat, 06 Jul 2024 21:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
