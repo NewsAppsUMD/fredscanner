@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 18:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:42:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
+      <description>6200 BLOCK WALLEYE PL Radio: 9C Units: E152, T4, 9C</description>
+      <guid isPermaLink="false">2024-07-09 14:35:00</guid>
+      <pubDate>Tue, 09 Jul 2024 14:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 2:09 pm</title>
       <description>1400 BLOCK RAMBLEWOOD DR, Apt/Unit:LT43 Radio: 9C Units: EK64, HM33, A69, ALS30, BC903, SAF901, 9C</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK COLERIDGE DR, Apt/Unit:1A, RIDGEVIEW CONDOS Radio: 9C Units: E11, T50, 9C</description>
       <guid isPermaLink="false">2024-07-07 16:58:00</guid>
       <pubDate>Sun, 07 Jul 2024 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:55 pm</title>
-      <description>8700 BLOCK YELLOW SPRINGS RD, Bldg:A Radio: 9C Units: E291, 9C</description>
-      <guid isPermaLink="false">2024-07-07 16:55:00</guid>
-      <pubDate>Sun, 07 Jul 2024 16:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
