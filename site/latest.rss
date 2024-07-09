@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 17:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 17:51:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:44 pm</title>
+      <description>100 BLOCK N MAIN ST, WOODSBORO BANK Radio: 9C Units: E162, Q11, 9C</description>
+      <guid isPermaLink="false">2024-07-09 13:44:00</guid>
+      <pubDate>Tue, 09 Jul 2024 13:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 12:08 pm</title>
       <description>100 BLOCK S MARKET ST Radio: 9C Units: R3, TT4, 9C</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK POOLE RD Units: K1, EK114, WCK6, R3, A209, ALS31, BC903, BC901, TTF, E201, E121, E72, C7, E11, SAF901, RE52, R20, T4, RE74, EK204, E281, K33, K7, PE23, K5, W20, CMD20</description>
       <guid isPermaLink="false">2024-07-07 11:35:00</guid>
       <pubDate>Sun, 07 Jul 2024 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:31 am</title>
-      <description>5900 BLOCK POOLE RD Units: K1, EK114, WCK6, A209, ALS31, BC903, BC901, TTF, E201, E121, E72, C7, E11, SAF901, RE52, E51, R20, T4, RE74, EK204, E281, K33, K7, PE23, K5, W20, CMD20</description>
-      <guid isPermaLink="false">2024-07-07 11:31:00</guid>
-      <pubDate>Sun, 07 Jul 2024 11:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
