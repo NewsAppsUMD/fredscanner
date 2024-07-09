@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 17:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 18:02:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:58 pm</title>
+      <description>3700 BLOCK SINGLETON TER Radio: 9C Units: E231, 9C, TT23</description>
+      <guid isPermaLink="false">2024-07-09 13:58:00</guid>
+      <pubDate>Tue, 09 Jul 2024 13:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:57 pm</title>
+      <description>3700 BLOCK SINGLETON TER Radio: 9C Units: E231, 9C</description>
+      <guid isPermaLink="false">2024-07-09 13:57:00</guid>
+      <pubDate>Tue, 09 Jul 2024 13:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:44 pm</title>
       <description>100 BLOCK N MAIN ST, WOODSBORO BANK Radio: 9C Units: E162, Q11, 9C</description>
@@ -294,18 +306,6 @@
       <description>I70EB / RT144 (FRED), I70EB / RT144 Radio: 9C Units: E31, E331, 9C</description>
       <guid isPermaLink="false">2024-07-07 14:15:00</guid>
       <pubDate>Sun, 07 Jul 2024 14:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:45 am</title>
-      <description>RT15 / HANSONVILLE RD (HANSONVILLE), RT15 / HANSONVILLE RD Radio: 9B Units: A248, E291, A229, 9B</description>
-      <guid isPermaLink="false">2024-07-07 11:45:00</guid>
-      <pubDate>Sun, 07 Jul 2024 11:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:35 am</title>
-      <description>5900 BLOCK POOLE RD Units: K1, EK114, WCK6, R3, A209, ALS31, BC903, BC901, TTF, E201, E121, E72, C7, E11, SAF901, RE52, R20, T4, RE74, EK204, E281, K33, K7, PE23, K5, W20, CMD20</description>
-      <guid isPermaLink="false">2024-07-07 11:35:00</guid>
-      <pubDate>Sun, 07 Jul 2024 11:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
