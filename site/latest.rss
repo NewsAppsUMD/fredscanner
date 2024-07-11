@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 20:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 20:23:53 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:15 pm</title>
+      <description>I70WB / 68MM, I70WB / 68MM Radio: 9C Units: CCBR15, 9C, E152, BR156</description>
+      <guid isPermaLink="false">2024-07-11 16:15:00</guid>
+      <pubDate>Thu, 11 Jul 2024 16:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 4:13 pm</title>
+      <description>I70WB / 68MM, I70WB / 68MM Radio: 9C Units: CCBR15, BR156, 9C</description>
+      <guid isPermaLink="false">2024-07-11 16:13:00</guid>
+      <pubDate>Thu, 11 Jul 2024 16:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 11:50 am</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Radio: 9D Units: RE171, FS17, 9D</description>
@@ -294,18 +306,6 @@
       <description>16800 BLOCK RAVEN ROCK RD Radio: 9D Units: WCE71, ACRE3, FRR19, FRE42, R10, FRA47, WCM791, BC902, EMS902, 9D</description>
       <guid isPermaLink="false">2024-07-09 07:38:00</guid>
       <pubDate>Tue, 09 Jul 2024 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:53 am</title>
-      <description>I70EB / 46MM, I70EB / 46MM Radio: 9B Units: E82, A89, A129, RE74, E121, 9B</description>
-      <guid isPermaLink="false">2024-07-09 06:53:00</guid>
-      <pubDate>Tue, 09 Jul 2024 06:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:50 am</title>
-      <description>I70WB / 46MM, I70EB / 46MM Radio: 9B Units: E82, A89, A129, E121, 9B</description>
-      <guid isPermaLink="false">2024-07-09 06:50:00</guid>
-      <pubDate>Tue, 09 Jul 2024 06:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
