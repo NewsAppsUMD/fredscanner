@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 12:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 13:08:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:05 am</title>
+      <description>8500 BLOCK PROGRESS DR, NATIONAL CANCER INSTITUTE Radio: 9C Units: FS29, 9C, E111, Q11</description>
+      <guid isPermaLink="false">2024-07-11 09:05:00</guid>
+      <pubDate>Thu, 11 Jul 2024 09:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:50 am</title>
       <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Radio: 9B Units: E251, FS15, 9B, E152, R15, A159</description>
@@ -300,12 +306,6 @@
       <description>RT140 / SILO HILL RD, RT140 / SILO HILL RD Radio: 9D Units: A69, ALS30, R6, 9D, EMS902</description>
       <guid isPermaLink="false">2024-07-09 05:55:00</guid>
       <pubDate>Tue, 09 Jul 2024 05:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:22 am</title>
-      <description>300 BLOCK PROSPECT BLVD, Bldg:A, Apt/Unit:A, CASCADES OF FREDERICK Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-07-09 04:22:00</guid>
-      <pubDate>Tue, 09 Jul 2024 04:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
