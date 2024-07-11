@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 09:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 10:02:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:50 am</title>
+      <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Radio: 9B Units: E251, FS15, 9B, E152, R15, A159</description>
+      <guid isPermaLink="false">2024-07-11 04:50:00</guid>
+      <pubDate>Thu, 11 Jul 2024 04:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:45 am</title>
+      <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Units: E152, R15, A159, FS15</description>
+      <guid isPermaLink="false">2024-07-11 04:45:00</guid>
+      <pubDate>Thu, 11 Jul 2024 04:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:38 am</title>
+      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: FS05, RE52, TW1, T5, 9C</description>
+      <guid isPermaLink="false">2024-07-11 02:38:00</guid>
+      <pubDate>Thu, 11 Jul 2024 02:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:32 am</title>
+      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: E51, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2024-07-11 02:32:00</guid>
+      <pubDate>Thu, 11 Jul 2024 02:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:29 am</title>
       <description>8400 BLOCK STAGECOACH CIR Radio: 9C Units: BR116, 9C, FS29</description>
@@ -282,30 +306,6 @@
       <description>300 BLOCK PROSPECT BLVD, Bldg:A, Apt/Unit:A, CASCADES OF FREDERICK Radio: 9C Units: E31, T4, 9C</description>
       <guid isPermaLink="false">2024-07-09 04:22:00</guid>
       <pubDate>Tue, 09 Jul 2024 04:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:18 am</title>
-      <description>RT85 / RAMP TO I270SB, RT85 / RAMP TO I270SB Radio: 9C Units: PE311, 9C</description>
-      <guid isPermaLink="false">2024-07-09 04:18:00</guid>
-      <pubDate>Tue, 09 Jul 2024 04:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:20 am</title>
-      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: E172, 9C</description>
-      <guid isPermaLink="false">2024-07-09 03:20:00</guid>
-      <pubDate>Tue, 09 Jul 2024 03:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:17 am</title>
-      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, 9C</description>
-      <guid isPermaLink="false">2024-07-09 03:17:00</guid>
-      <pubDate>Tue, 09 Jul 2024 03:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:32 pm</title>
-      <description>1300 BLOCK MOTTER AVE, Apt/Unit:7, FREDERICK GREENES APTS Radio: 9C Units: R3, 9C, PE23, E501</description>
-      <guid isPermaLink="false">2024-07-08 21:32:00</guid>
-      <pubDate>Mon, 08 Jul 2024 21:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
