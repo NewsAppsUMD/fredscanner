@@ -6,7 +6,79 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 01:47:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 02:11:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:07 pm</title>
+      <description>3000 BLOCK BALLENGER CREEK PIKE Radio: 9D Units: E281, R14, A149, ALS31, BC903, EMS901, FS14, 9D</description>
+      <guid isPermaLink="false">2024-07-10 22:07:00</guid>
+      <pubDate>Wed, 10 Jul 2024 22:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:51 pm</title>
+      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS #600 BLOCK Radio: 9C Units: 9C, E162, Q11, FS16</description>
+      <guid isPermaLink="false">2024-07-10 21:51:00</guid>
+      <pubDate>Wed, 10 Jul 2024 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:48 pm</title>
+      <description>2400 BLOCK OSPREY WAY, MCDONALDS MARKET SQUARE Radio: 9C Units: E111, TW1, FS29, 9C</description>
+      <guid isPermaLink="false">2024-07-10 19:48:00</guid>
+      <pubDate>Wed, 10 Jul 2024 19:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 7:43 pm</title>
+      <description>700 BLOCK PARK AVE, BRUNSWICK RESERVOIR Radio: 9C Units: FS05, 9C, BR55</description>
+      <guid isPermaLink="false">2024-07-10 19:43:00</guid>
+      <pubDate>Wed, 10 Jul 2024 19:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 7:18 pm</title>
+      <description>20300 BLOCK BASSWOOD LN Units: E51</description>
+      <guid isPermaLink="false">2024-07-10 19:18:00</guid>
+      <pubDate>Wed, 10 Jul 2024 19:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:06 pm</title>
+      <description>8400 BLOCK BALD EAGLE LN Radio: 9C Units: T4, 9C, E331</description>
+      <guid isPermaLink="false">2024-07-10 17:06:00</guid>
+      <pubDate>Wed, 10 Jul 2024 17:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:56 pm</title>
+      <description>400 BLOCK PROSPECT BLVD, BEST WESTERN HOTEL Radio: 9C Units: E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-07-10 12:56:00</guid>
+      <pubDate>Wed, 10 Jul 2024 12:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 11:59 am</title>
+      <description>SLATE LN / WILLOW TREE DR S Radio: 9C Units: 9C, E121</description>
+      <guid isPermaLink="false">2024-07-10 11:59:00</guid>
+      <pubDate>Wed, 10 Jul 2024 11:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:42 am</title>
+      <description>7900 BLOCK FINGERBOARD RD, Bldg:E, THE RANCH Radio: 9C Units: 9C, E231</description>
+      <guid isPermaLink="false">2024-07-10 10:42:00</guid>
+      <pubDate>Wed, 10 Jul 2024 10:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE FUEL SPILL: 10:35 am</title>
+      <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9C Units: HM50, E102, EK64, HMSU33, BC902, SAF901, 9C</description>
+      <guid isPermaLink="false">2024-07-10 10:35:00</guid>
+      <pubDate>Wed, 10 Jul 2024 10:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:41 am</title>
+      <description>4100 BLOCK OLD NATIONAL PIKE, Apt/Unit:11D Units: A159</description>
+      <guid isPermaLink="false">2024-07-10 09:41:00</guid>
+      <pubDate>Wed, 10 Jul 2024 09:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:46 am</title>
+      <description>1600 BLOCK BUCKEYSTOWN PIKE, THANKSGIVING FARMS Radio: 9B Units: A148, E141, 9B</description>
+      <guid isPermaLink="false">2024-07-10 08:46:00</guid>
+      <pubDate>Wed, 10 Jul 2024 08:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:06 am</title>
       <description>5800 BLOCK LITTLELEAF CT Radio: 9C Units: E153, 9C</description>
@@ -234,78 +306,6 @@
       <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, GAMBRILLS PHYSICAL THERAPY Radio: 9D Units: E31, E72, 9D</description>
       <guid isPermaLink="false">2024-07-08 20:14:00</guid>
       <pubDate>Mon, 08 Jul 2024 20:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 8:09 pm</title>
-      <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, GAMBRILLS PHYSICAL THERAPY Radio: 9D Units: E72, FS12, 9D</description>
-      <guid isPermaLink="false">2024-07-08 20:09:00</guid>
-      <pubDate>Mon, 08 Jul 2024 20:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HIGH ANGLE RESCUE: 7:46 pm</title>
-      <description>8500 BLOCK GAMBRILL PARK RD, GAMBRILL STATE PARK NORTH FREDERICK OVERLOOK Radio: 9D Units: TW1, TR29, E121, E82, A129, A89, ALS8, BC902, SAF901, EMS901, 9D, RE74</description>
-      <guid isPermaLink="false">2024-07-08 19:46:00</guid>
-      <pubDate>Mon, 08 Jul 2024 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
-      <description>SOUTH ST / WALNUT ST Radio: 9B Units: A179, RE171, 9B</description>
-      <guid isPermaLink="false">2024-07-08 19:24:00</guid>
-      <pubDate>Mon, 08 Jul 2024 19:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:52 pm</title>
-      <description>4400 BLOCK JEFFERSON PIKE Radio: 9C Units: BR205, 9C</description>
-      <guid isPermaLink="false">2024-07-08 18:52:00</guid>
-      <pubDate>Mon, 08 Jul 2024 18:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:15 pm</title>
-      <description>100 BLOCK GALLORETTE CT Radio: 9C Units: E111, 9C</description>
-      <guid isPermaLink="false">2024-07-08 18:15:00</guid>
-      <pubDate>Mon, 08 Jul 2024 18:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
-      <description>I70WB / RT180, I70WB / RT180 Radio: 9B Units: E31, A39, 9B</description>
-      <guid isPermaLink="false">2024-07-08 17:22:00</guid>
-      <pubDate>Mon, 08 Jul 2024 17:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:38 pm</title>
-      <description>RT15NB / LIBERTY RD, MID-MARYLAND MUSCULOSKELETAL INSTITUTE Radio: 9D Units: E111, A18, ALS2, BC902, R2, 9D, EMS902, FS29</description>
-      <guid isPermaLink="false">2024-07-08 16:38:00</guid>
-      <pubDate>Mon, 08 Jul 2024 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 4:26 pm</title>
-      <description>8800 BLOCK URBANA CHURCH RD, URBANA CONVENIENCE SHOP Units: E231, HMSU33, HM33, E251</description>
-      <guid isPermaLink="false">2024-07-08 16:26:00</guid>
-      <pubDate>Mon, 08 Jul 2024 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:03 pm</title>
-      <description>8800 BLOCK CLEMSONVILLE RD Units: RE171, A179</description>
-      <guid isPermaLink="false">2024-07-08 16:03:00</guid>
-      <pubDate>Mon, 08 Jul 2024 16:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 3:01 pm</title>
-      <description>RT340 / POTOMAC RIVER, Bypassed to: STATION 5,1500 VOLUNTEER DR,BRUNSWICK Units: A196, RE52</description>
-      <guid isPermaLink="false">2024-07-08 15:01:00</guid>
-      <pubDate>Mon, 08 Jul 2024 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:58 pm</title>
-      <description>EXECUTIVE WAY / WESTVIEW DR Units: PE311, R3, A319, BC903, EMS901</description>
-      <guid isPermaLink="false">2024-07-08 12:58:00</guid>
-      <pubDate>Mon, 08 Jul 2024 12:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:39 am</title>
-      <description>15100 BLOCK BLACK ANKLE RD Radio: 9C Units: CCBR145, FS17, 9C</description>
-      <guid isPermaLink="false">2024-07-08 11:39:00</guid>
-      <pubDate>Mon, 08 Jul 2024 11:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
