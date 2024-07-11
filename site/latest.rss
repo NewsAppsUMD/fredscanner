@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 21:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 21:24:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:20 pm</title>
+      <description>RT80 / BENNETT CREEK AVE, RT80 / BENNETT CREEK AVE Units: EMS901, E231, A339</description>
+      <guid isPermaLink="false">2024-07-11 17:20:00</guid>
+      <pubDate>Thu, 11 Jul 2024 17:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
       <description>11700 BLOCK ROWE CT Units: A259, E251, A159</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK FRANKLIN ST, STATION 7 Units: E72</description>
       <guid isPermaLink="false">2024-07-09 09:44:00</guid>
       <pubDate>Tue, 09 Jul 2024 09:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:17 am</title>
-      <description>100 BLOCK W ALL SAINTS ST Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-07-09 09:17:00</guid>
-      <pubDate>Tue, 09 Jul 2024 09:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
