@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 07:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 07:51:14 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:47 am</title>
+      <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E291, E221, 9C</description>
+      <guid isPermaLink="false">2024-07-12 03:47:00</guid>
+      <pubDate>Fri, 12 Jul 2024 03:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:41 am</title>
+      <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E221, FS22, 9C</description>
+      <guid isPermaLink="false">2024-07-12 03:41:00</guid>
+      <pubDate>Fri, 12 Jul 2024 03:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:14 am</title>
       <description>2700 BLOCK MONOCACY BLVD, CLERESTORY PARK Radio: 9C Units: E291, FS29, 9C</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK FRANKLIN ST, STATION 7 Units: FS07, E72</description>
       <guid isPermaLink="false">2024-07-09 14:05:00</guid>
       <pubDate>Tue, 09 Jul 2024 14:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:00 pm</title>
-      <description>6500 BLOCK WALCOTT LN Radio: 9C Units: T4, 9C, E311</description>
-      <guid isPermaLink="false">2024-07-09 14:00:00</guid>
-      <pubDate>Tue, 09 Jul 2024 14:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:58 pm</title>
-      <description>3700 BLOCK SINGLETON TER Radio: 9C Units: E231, 9C, TT23</description>
-      <guid isPermaLink="false">2024-07-09 13:58:00</guid>
-      <pubDate>Tue, 09 Jul 2024 13:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
