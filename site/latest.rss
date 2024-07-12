@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 21:51:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 22:02:19 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:00 pm</title>
+      <description>4300 BLOCK MOUNTVILLE RD Radio: 9C Units: E201, FS20, 9C</description>
+      <guid isPermaLink="false">2024-07-12 18:00:00</guid>
+      <pubDate>Fri, 12 Jul 2024 18:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 5:44 pm</title>
       <description>6300 BLOCK MOUNTAINDALE RD, Bldg:A Radio: 9C Units: K22, EK224, 9C, E291, E102, R10</description>
@@ -300,12 +306,6 @@
       <description>3000 BLOCK BALLENGER CREEK PIKE Radio: 9D Units: E281, R14, A149, ALS31, BC903, EMS901, FS14, 9D</description>
       <guid isPermaLink="false">2024-07-10 22:07:00</guid>
       <pubDate>Wed, 10 Jul 2024 22:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:51 pm</title>
-      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS #600 BLOCK Radio: 9C Units: 9C, E162, Q11, FS16</description>
-      <guid isPermaLink="false">2024-07-10 21:51:00</guid>
-      <pubDate>Wed, 10 Jul 2024 21:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
