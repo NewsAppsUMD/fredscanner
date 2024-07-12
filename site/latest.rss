@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 21:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 21:31:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:25 pm</title>
+      <description>N EAST ST / E FIFTH ST Radio: 9D Units: E31, EMS901, FS02, R2, A29, 9D, ALS4, BC901</description>
+      <guid isPermaLink="false">2024-07-12 17:25:00</guid>
+      <pubDate>Fri, 12 Jul 2024 17:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 5:17 pm</title>
       <description>1700 BLOCK EMORY ST Radio: 9C Units: 9C, E111</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK OSPREY WAY, MCDONALDS MARKET SQUARE Radio: 9C Units: E111, TW1, FS29, 9C</description>
       <guid isPermaLink="false">2024-07-10 19:48:00</guid>
       <pubDate>Wed, 10 Jul 2024 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:43 pm</title>
-      <description>700 BLOCK PARK AVE, BRUNSWICK RESERVOIR Radio: 9C Units: FS05, 9C, BR55</description>
-      <guid isPermaLink="false">2024-07-10 19:43:00</guid>
-      <pubDate>Wed, 10 Jul 2024 19:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
