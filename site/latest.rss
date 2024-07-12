@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 02:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 02:24:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:20 pm</title>
+      <description>S EAST ST / ROUNDABOUT, S EAST ST / ROUNDABOUT Units: A39, R3</description>
+      <guid isPermaLink="false">2024-07-11 22:20:00</guid>
+      <pubDate>Thu, 11 Jul 2024 22:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:26 pm</title>
       <description>RT15NB / RT26, RT15NB / RT26 Radio: 9B Units: A19, PE23, FS02, 9B</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9B Units: PE23, 9B</description>
       <guid isPermaLink="false">2024-07-09 11:59:00</guid>
       <pubDate>Tue, 09 Jul 2024 11:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:25 am</title>
-      <description>400 BLOCK FRANKLIN ST, STATION 7 Units: RE74</description>
-      <guid isPermaLink="false">2024-07-09 10:25:00</guid>
-      <pubDate>Tue, 09 Jul 2024 10:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
