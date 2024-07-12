@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 10:51:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 11:02:04 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:59 am</title>
+      <description>25300 BLOCK MILITARY RD Units: TW6</description>
+      <guid isPermaLink="false">2024-07-12 06:59:00</guid>
+      <pubDate>Fri, 12 Jul 2024 06:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:37 am</title>
       <description>I70WB / REST AREA (MOUNT AIRY), I70WB / REST AREA Units: CCM18, HCE41, E331, A339, A159, E152, R15, CCR1</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 52 (RT340), I70WB / EXIT 52 Radio: 9B Units: 9B, E31, A38</description>
       <guid isPermaLink="false">2024-07-09 15:24:00</guid>
       <pubDate>Tue, 09 Jul 2024 15:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
-      <description>6200 BLOCK WALLEYE PL Radio: 9C Units: E152, T4, 9C</description>
-      <guid isPermaLink="false">2024-07-09 14:35:00</guid>
-      <pubDate>Tue, 09 Jul 2024 14:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
