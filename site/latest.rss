@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 18:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 18:51:19 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:42 pm</title>
+      <description>W MAIN ST / N CHURCH ST Units: A229, R10, FS10, A309</description>
+      <guid isPermaLink="false">2024-07-12 14:42:00</guid>
+      <pubDate>Fri, 12 Jul 2024 14:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:41 pm</title>
       <description>W MAIN ST / N CHURCH ST Units: A309, FS10, A229, ALS30, E102, EMS902</description>
@@ -300,12 +306,6 @@
       <description>SLATE LN / WILLOW TREE DR S Radio: 9C Units: 9C, E121</description>
       <guid isPermaLink="false">2024-07-10 11:59:00</guid>
       <pubDate>Wed, 10 Jul 2024 11:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 10:42 am</title>
-      <description>7900 BLOCK FINGERBOARD RD, Bldg:E, THE RANCH Radio: 9C Units: 9C, E231</description>
-      <guid isPermaLink="false">2024-07-10 10:42:00</guid>
-      <pubDate>Wed, 10 Jul 2024 10:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
