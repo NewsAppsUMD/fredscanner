@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 16:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 16:42:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:39 pm</title>
+      <description>RT15SB / MOTTER AVE(MOTTER AVE), RT15SB / MOTTER AVE Units: E291, E11, R2, A299, A19, FS29</description>
+      <guid isPermaLink="false">2024-07-12 12:39:00</guid>
+      <pubDate>Fri, 12 Jul 2024 12:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:31 pm</title>
       <description>RT75 / ARLINGTON MILL RD, RT75 / ARLINGTON MILL RD Radio: 9D Units: 9D, RE171, A179, ALS17, BC902, EMS901, FS17, E152</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK MAIN ST Radio: 9C Units: E172, 9C</description>
       <guid isPermaLink="false">2024-07-09 17:53:00</guid>
       <pubDate>Tue, 09 Jul 2024 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:24 pm</title>
-      <description>14700 BLOCK HARRISVILLE RD Radio: 9B Units: 9B, EMS901, FS17, CCR1, CCM19</description>
-      <guid isPermaLink="false">2024-07-09 16:24:00</guid>
-      <pubDate>Tue, 09 Jul 2024 16:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
