@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 18:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 18:41:19 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 2:36 pm</title>
+      <description>10400 BLOCK HAMBURG RD, GAMBRILL STATE PARK HIGH KNOB Radio: 9D Units: EMSUTV50, A89, ALS8, 9D, A299, C7, U50, RE74, E11, EK224, E121, R8, TR29, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2024-07-13 14:36:00</guid>
+      <pubDate>Sat, 13 Jul 2024 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 2:24 pm</title>
       <description>10400 BLOCK HAMBURG RD, GAMBRILL STATE PARK HIGH KNOB Radio: 9D Units: EMSUTV50, A89, ALS8, E212, 9D, E11, E72, E121, R8, TR29, BC902, SAF901, EMS902, FS08</description>
@@ -300,12 +306,6 @@
       <description>RT80 / BENNETT CREEK AVE, RT80 / BENNETT CREEK AVE Units: EMS901, E231, A339</description>
       <guid isPermaLink="false">2024-07-11 17:20:00</guid>
       <pubDate>Thu, 11 Jul 2024 17:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
-      <description>11700 BLOCK ROWE CT Units: A259, E251, A159</description>
-      <guid isPermaLink="false">2024-07-11 16:47:00</guid>
-      <pubDate>Thu, 11 Jul 2024 16:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
