@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 16:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 16:14:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:05 pm</title>
+      <description>1400 BLOCK W PATRICK ST, POPEYES Radio: 9I Units: R3, A18, ALS2, BC903, 9I, E121</description>
+      <guid isPermaLink="false">2024-07-13 12:05:00</guid>
+      <pubDate>Sat, 13 Jul 2024 12:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 11:43 am</title>
       <description>500 BLOCK W MAIN ST Radio: 9D Units: A229, ALS30, A309, E102, EMS902, FS10, 9D</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 68MM, I70WB / 68MM Radio: 9C Units: CCBR15, BR156, 9C</description>
       <guid isPermaLink="false">2024-07-11 16:13:00</guid>
       <pubDate>Thu, 11 Jul 2024 16:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 11:50 am</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Radio: 9D Units: RE171, FS17, 9D</description>
-      <guid isPermaLink="false">2024-07-11 11:50:00</guid>
-      <pubDate>Thu, 11 Jul 2024 11:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
