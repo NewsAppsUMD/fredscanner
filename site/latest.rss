@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 05:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 05:25:00 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 1:17 am</title>
+      <description>1900 BLOCK FIELDSTONE WAY Radio: 9C Units: E501, E291, T50, FS29, 9C</description>
+      <guid isPermaLink="false">2024-07-13 01:17:00</guid>
+      <pubDate>Sat, 13 Jul 2024 01:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>STABBING: 11:50 pm</title>
       <description>6700 BLOCK JEFFERSON BLVD Radio: 9D Units: ALS20, E121, BC903, EMS901, FS12, A129, 9D</description>
@@ -300,12 +306,6 @@
       <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Units: E152, R15, A159, FS15</description>
       <guid isPermaLink="false">2024-07-11 04:45:00</guid>
       <pubDate>Thu, 11 Jul 2024 04:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:38 am</title>
-      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: FS05, RE52, TW1, T5, 9C</description>
-      <guid isPermaLink="false">2024-07-11 02:38:00</guid>
-      <pubDate>Thu, 11 Jul 2024 02:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
