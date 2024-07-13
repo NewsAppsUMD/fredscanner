@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 18:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 18:51:42 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 2:42 pm</title>
+      <description>10400 BLOCK HAMBURG RD, GAMBRILL STATE PARK HIGH KNOB Radio: 9D Units: EMSUTV50, A89, ALS8, SU21, 9D, A299, C7, U50, RE74, E11, PE23, EK224, CMD8, E121, R8, TR29, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2024-07-13 14:42:00</guid>
+      <pubDate>Sat, 13 Jul 2024 14:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 2:36 pm</title>
       <description>10400 BLOCK HAMBURG RD, GAMBRILL STATE PARK HIGH KNOB Radio: 9D Units: EMSUTV50, A89, ALS8, 9D, A299, C7, U50, RE74, E11, EK224, E121, R8, TR29, BC902, SAF901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / RT26, RT15NB / RT26 Radio: 9B Units: A19, PE23, FS02, 9B</description>
       <guid isPermaLink="false">2024-07-11 21:26:00</guid>
       <pubDate>Thu, 11 Jul 2024 21:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:20 pm</title>
-      <description>RT80 / BENNETT CREEK AVE, RT80 / BENNETT CREEK AVE Units: EMS901, E231, A339</description>
-      <guid isPermaLink="false">2024-07-11 17:20:00</guid>
-      <pubDate>Thu, 11 Jul 2024 17:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
