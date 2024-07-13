@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 20:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 20:41:22 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:35 pm</title>
+      <description>W NINTH ST / MOTTER AVE Radio: 9C Units: BR16, PE311, FS02, 9C</description>
+      <guid isPermaLink="false">2024-07-13 16:35:00</guid>
+      <pubDate>Sat, 13 Jul 2024 16:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:30 pm</title>
+      <description>10400 BLOCK HAMBURG RD Units: E121, EK224, E111, R8, TR29, EMSUTV50, A89, ALS8, E212, BC903, SAF901, EMS902, FS08</description>
+      <guid isPermaLink="false">2024-07-13 16:30:00</guid>
+      <pubDate>Sat, 13 Jul 2024 16:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 3:58 pm</title>
       <description>100 BLOCK STONEGATE DR Radio: 9C Units: BR205, BC903, PE23, 9C, BR16, BR125, BR35, BR75, C2C, T4, E31</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E291, E221, 9C</description>
       <guid isPermaLink="false">2024-07-12 03:47:00</guid>
       <pubDate>Fri, 12 Jul 2024 03:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:41 am</title>
-      <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E221, FS22, 9C</description>
-      <guid isPermaLink="false">2024-07-12 03:41:00</guid>
-      <pubDate>Fri, 12 Jul 2024 03:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:14 am</title>
-      <description>2700 BLOCK MONOCACY BLVD, CLERESTORY PARK Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-07-12 03:14:00</guid>
-      <pubDate>Fri, 12 Jul 2024 03:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
