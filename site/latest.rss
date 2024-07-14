@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jul 2024 02:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 02:34:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:24 pm</title>
+      <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Units: E291, E31, R2, A248, A29, FS29, ALS29</description>
+      <guid isPermaLink="false">2024-07-13 22:24:00</guid>
+      <pubDate>Sat, 13 Jul 2024 22:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:03 pm</title>
       <description>600 BLOCK ROSEMONT AVE Radio: 9C Units: E23, 9C, FS02</description>
@@ -300,12 +306,6 @@
       <description>I70WB / REST AREA (MOUNT AIRY), I70WB / REST AREA Units: CCM18, HCE41, E331, A339, A159, E152, R15, CCR1</description>
       <guid isPermaLink="false">2024-07-12 06:37:00</guid>
       <pubDate>Fri, 12 Jul 2024 06:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:16 am</title>
-      <description>7900 BLOCK REICHS FORD RD, T &amp; S CUSTOMIZING Units: A38, E31, FM903</description>
-      <guid isPermaLink="false">2024-07-12 06:16:00</guid>
-      <pubDate>Fri, 12 Jul 2024 06:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
