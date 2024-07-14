@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jul 2024 22:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 22:41:22 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:38 pm</title>
+      <description>11800 BLOCK WELLER HILL DR Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2024-07-14 18:38:00</guid>
+      <pubDate>Sun, 14 Jul 2024 18:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 6:35 pm</title>
+      <description>I70EB / E PATRICK ST, I70EB / E PATRICK ST Radio: 9C Units: E31, K33, FS33, 9C, PE311</description>
+      <guid isPermaLink="false">2024-07-14 18:35:00</guid>
+      <pubDate>Sun, 14 Jul 2024 18:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
       <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Units: RE52, A198</description>
@@ -294,18 +306,6 @@
       <description>W MAIN ST / N CHURCH ST Units: A229, R10, FS10, A309</description>
       <guid isPermaLink="false">2024-07-12 14:42:00</guid>
       <pubDate>Fri, 12 Jul 2024 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:41 pm</title>
-      <description>W MAIN ST / N CHURCH ST Units: A309, FS10, A229, ALS30, E102, EMS902</description>
-      <guid isPermaLink="false">2024-07-12 14:41:00</guid>
-      <pubDate>Fri, 12 Jul 2024 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:54 pm</title>
-      <description>5900 BLOCK ELMER DERR RD Radio: 9B Units: A319, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2024-07-12 13:54:00</guid>
-      <pubDate>Fri, 12 Jul 2024 13:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
