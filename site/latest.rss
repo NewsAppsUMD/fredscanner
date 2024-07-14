@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jul 2024 23:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 00:07:21 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:03 pm</title>
+      <description>600 BLOCK ROSEMONT AVE Radio: 9C Units: E23, 9C, FS02</description>
+      <guid isPermaLink="false">2024-07-13 20:03:00</guid>
+      <pubDate>Sat, 13 Jul 2024 20:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 7:37 pm</title>
       <description>100 BLOCK WAVERLEY DR, WAVERLEY CENTER Radio: 9D Units: A19, ALS2, 9D, E11, EMS902</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK REICHS FORD RD, T &amp; S CUSTOMIZING Units: A38, E31, FM903</description>
       <guid isPermaLink="false">2024-07-12 06:16:00</guid>
       <pubDate>Fri, 12 Jul 2024 06:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:56 am</title>
-      <description>JEFFERSON PIKE / PIONEER CIR Radio: 9C Units: FS20, 9C, BR205</description>
-      <guid isPermaLink="false">2024-07-12 05:56:00</guid>
-      <pubDate>Fri, 12 Jul 2024 05:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
