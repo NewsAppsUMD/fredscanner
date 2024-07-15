@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 15:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 15:51:34 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 11:46 am</title>
+      <description>5500 BLOCK SPECTRUM DR, M&amp;T BANK Radio: 9C Units: T4, FS31, 9C, E231, E11</description>
+      <guid isPermaLink="false">2024-07-15 11:46:00</guid>
+      <pubDate>Mon, 15 Jul 2024 11:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:03 am</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, GAS STATION / SAMS CLUB Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK YELLOW SPRINGS RD, Apt/Unit:STE 103, EDIBLE ARRANGEMENTS Radio: 9C Units: T50, E11, 9C, E501</description>
       <guid isPermaLink="false">2024-07-13 08:42:00</guid>
       <pubDate>Sat, 13 Jul 2024 08:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:11 am</title>
-      <description>7900 BLOCK PETERS RD, Bldg:E, Apt/Unit:SUITES A-B, MOUNT ANNA PRAYER CHURCH Radio: 9C Units: E231, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-07-13 08:11:00</guid>
-      <pubDate>Sat, 13 Jul 2024 08:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
