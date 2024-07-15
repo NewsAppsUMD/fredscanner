@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 16:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 16:26:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:16 pm</title>
+      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Units: E11, RE171, E291, A299, A19, FS29</description>
+      <guid isPermaLink="false">2024-07-15 12:16:00</guid>
+      <pubDate>Mon, 15 Jul 2024 12:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 11:46 am</title>
       <description>5500 BLOCK SPECTRUM DR, M&amp;T BANK Radio: 9C Units: T4, FS31, 9C, E231, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK CHARLESTON LN Radio: 9C Units: 9C, E11, E501, T50</description>
       <guid isPermaLink="false">2024-07-13 11:02:00</guid>
       <pubDate>Sat, 13 Jul 2024 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 8:42 am</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, Apt/Unit:STE 103, EDIBLE ARRANGEMENTS Radio: 9C Units: T50, E11, 9C, E501</description>
-      <guid isPermaLink="false">2024-07-13 08:42:00</guid>
-      <pubDate>Sat, 13 Jul 2024 08:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
