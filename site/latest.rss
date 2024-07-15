@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 15:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 15:15:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:03 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, GAS STATION / SAMS CLUB Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-07-15 11:03:00</guid>
+      <pubDate>Mon, 15 Jul 2024 11:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:07 am</title>
       <description>1200 BLOCK DUTCHMANS CREEK DR, Apt/Unit:F, WEIS MARKET BRUNSWICK Radio: 9C Units: RE52, TW1, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK PETERS RD, Bldg:E, Apt/Unit:SUITES A-B, MOUNT ANNA PRAYER CHURCH Radio: 9C Units: E231, TT23, FS23, 9C</description>
       <guid isPermaLink="false">2024-07-13 08:11:00</guid>
       <pubDate>Sat, 13 Jul 2024 08:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:17 am</title>
-      <description>1900 BLOCK FIELDSTONE WAY Radio: 9C Units: E501, E291, T50, FS29, 9C</description>
-      <guid isPermaLink="false">2024-07-13 01:17:00</guid>
-      <pubDate>Sat, 13 Jul 2024 01:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
