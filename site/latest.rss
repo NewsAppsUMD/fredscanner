@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 21:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 22:01:57 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:51 pm</title>
+      <description>MAIN ST / WALNUT ST Units: E172, FS17, A179</description>
+      <guid isPermaLink="false">2024-07-15 17:51:00</guid>
+      <pubDate>Mon, 15 Jul 2024 17:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:21 pm</title>
       <description>3000 BLOCK PALATINE DR Units: E291</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STONEGATE DR Radio: 9C Units: 9C, BR16, E31</description>
       <guid isPermaLink="false">2024-07-13 15:37:00</guid>
       <pubDate>Sat, 13 Jul 2024 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:25 pm</title>
-      <description>RT26 / MAPLEVILLE RD, RT26 / MAPLEVILLE RD Radio: 9C Units: E172, FS17, 9C</description>
-      <guid isPermaLink="false">2024-07-13 15:25:00</guid>
-      <pubDate>Sat, 13 Jul 2024 15:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
