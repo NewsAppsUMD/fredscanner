@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 19:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 19:31:35 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 3:28 pm</title>
+      <description>7500 BLOCK FRIENDS CREEK RD Units: BR65, FRE193</description>
+      <guid isPermaLink="false">2024-07-15 15:28:00</guid>
+      <pubDate>Mon, 15 Jul 2024 15:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 2:28 pm</title>
       <description>RT15SB / RT26, RT15SB / RT26 Units: E291, BR16, FS29</description>
@@ -300,12 +306,6 @@
       <description>10400 BLOCK HAMBURG RD, GAMBRILL STATE PARK HIGH KNOB Radio: 9D Units: EMSUTV50, A89, ALS8, E212, 9D, E11, E72, E121, R8, TR29, BC902, SAF901, EMS902, FS08</description>
       <guid isPermaLink="false">2024-07-13 14:24:00</guid>
       <pubDate>Sat, 13 Jul 2024 14:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:55 pm</title>
-      <description>600 BLOCK BARLOW GREENMOUNT RD Units: EK64, A69</description>
-      <guid isPermaLink="false">2024-07-13 13:55:00</guid>
-      <pubDate>Sat, 13 Jul 2024 13:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
