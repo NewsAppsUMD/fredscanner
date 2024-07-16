@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 08:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 08:42:16 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:34 am</title>
+      <description>3200 BLOCK THORNAPPLE DR Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2024-07-16 04:34:00</guid>
+      <pubDate>Tue, 16 Jul 2024 04:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 12:05 am</title>
       <description>4800 BLOCK FINNICAL WAY, Apt/Unit:203 Radio: 9C Units: PE311, E201, R14, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>10400 BLOCK HAMBURG RD Units: E121, EK224, E111, R8, TR29, EMSUTV50, A89, ALS8, E212, BC903, SAF901, EMS902, FS08</description>
       <guid isPermaLink="false">2024-07-13 16:30:00</guid>
       <pubDate>Sat, 13 Jul 2024 16:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:58 pm</title>
-      <description>100 BLOCK STONEGATE DR Radio: 9C Units: BR205, BC903, PE23, 9C, BR16, BR125, BR35, BR75, C2C, T4, E31</description>
-      <guid isPermaLink="false">2024-07-13 15:58:00</guid>
-      <pubDate>Sat, 13 Jul 2024 15:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
