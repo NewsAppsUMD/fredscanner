@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 04:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 04:15:19 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 12:05 am</title>
+      <description>4800 BLOCK FINNICAL WAY, Apt/Unit:203 Radio: 9C Units: PE311, E201, R14, FS31, 9C</description>
+      <guid isPermaLink="false">2024-07-16 00:05:00</guid>
+      <pubDate>Tue, 16 Jul 2024 00:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR OUTSIDE: 10:18 pm</title>
       <description>JIMTOWN RD / E MAIN ST Radio: 9C Units: 9C, E133, FS10</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STONEGATE DR Radio: 9C Units: BR205, BC903, PE23, 9C, BR16, BR125, BR35, BR75, C2C, T4, E31</description>
       <guid isPermaLink="false">2024-07-13 15:58:00</guid>
       <pubDate>Sat, 13 Jul 2024 15:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:55 pm</title>
-      <description>100 BLOCK STONEGATE DR Radio: 9C Units: BC903, PE23, 9C, BR16, BR125, BR35, BR75, C2C, T4, E31</description>
-      <guid isPermaLink="false">2024-07-13 15:55:00</guid>
-      <pubDate>Sat, 13 Jul 2024 15:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
