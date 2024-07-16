@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 22:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 22:51:31 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:45 pm</title>
+      <description>5700 BLOCK BARTONSVILLE RD Radio: 9D Units: E331, E31, R15, E152, PE23, PE311, E11, R3, T4, K33, K1, K23, A39, ALS2, BC902, BC901, SAF901, FS33, 9D</description>
+      <guid isPermaLink="false">2024-07-16 18:45:00</guid>
+      <pubDate>Tue, 16 Jul 2024 18:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
       <description>POINT OF ROCKS RD / FRY RD Units: E281, A209</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK FREDERICK RD, VITALLI'S PIZZA Radio: 9C Units: E102, FS10, 9C</description>
       <guid isPermaLink="false">2024-07-14 10:09:00</guid>
       <pubDate>Sun, 14 Jul 2024 10:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:23 am</title>
-      <description>15900 BLOCK FOXVILLE DEERFIELD RD Radio: 9B Units: A309, R10, FS10, 9B</description>
-      <guid isPermaLink="false">2024-07-14 09:23:00</guid>
-      <pubDate>Sun, 14 Jul 2024 09:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
