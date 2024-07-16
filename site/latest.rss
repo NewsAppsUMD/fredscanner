@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 14:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 14:25:14 +0000</lastBuildDate>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 10:20 am</title>
+      <description>700 BLOCK N WARFIELD DR Radio: 9C Units: E152, RE171, CCA18, 9C</description>
+      <guid isPermaLink="false">2024-07-16 10:20:00</guid>
+      <pubDate>Tue, 16 Jul 2024 10:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 6:30 am</title>
       <description>900 BLOCK JEFFERSON PIKE, IAO Radio: 9C Units: BR55, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, WAVERLEY CENTER Radio: 9D Units: A19, ALS2, 9D, E11, EMS902</description>
       <guid isPermaLink="false">2024-07-13 19:37:00</guid>
       <pubDate>Sat, 13 Jul 2024 19:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:35 pm</title>
-      <description>W NINTH ST / MOTTER AVE Radio: 9C Units: BR16, PE311, FS02, 9C</description>
-      <guid isPermaLink="false">2024-07-13 16:35:00</guid>
-      <pubDate>Sat, 13 Jul 2024 16:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
