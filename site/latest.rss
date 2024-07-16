@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 15:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 15:51:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:47 am</title>
+      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS Radio: 9C Units: E11, T50, 9C</description>
+      <guid isPermaLink="false">2024-07-16 11:47:00</guid>
+      <pubDate>Tue, 16 Jul 2024 11:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:41 am</title>
+      <description>MONOCACY BLVD / MONOCACY RIVER, Apt/Unit:FLR 1 - SPRINGER SUS Units: A39, PE23</description>
+      <guid isPermaLink="false">2024-07-16 11:41:00</guid>
+      <pubDate>Tue, 16 Jul 2024 11:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:31 am</title>
       <description>2500 BLOCK COLERIDGE DR, Bldg:7, RIDGEVIEW CONDOS Radio: 9C Units: E11, 9C, T50</description>
@@ -294,18 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER Units: R3, FS31, PE311, E31</description>
       <guid isPermaLink="false">2024-07-14 04:28:00</guid>
       <pubDate>Sun, 14 Jul 2024 04:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:04 pm</title>
-      <description>500 BLOCK CARROLL WALK AVE Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2024-07-13 23:04:00</guid>
-      <pubDate>Sat, 13 Jul 2024 23:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:24 pm</title>
-      <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Units: E291, E31, R2, A248, A29, FS29, ALS29</description>
-      <guid isPermaLink="false">2024-07-13 22:24:00</guid>
-      <pubDate>Sat, 13 Jul 2024 22:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
