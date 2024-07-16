@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 20:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 21:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
+      <description>POINT OF ROCKS RD / FRY RD Units: E281, A209</description>
+      <guid isPermaLink="false">2024-07-16 16:59:00</guid>
+      <pubDate>Tue, 16 Jul 2024 16:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:24 pm</title>
       <description>7300 BLOCK BURKITTSVILLE RD, HOLY FAMILY CATHOLIC CHURCH Radio: 9C Units: E72, T4, FS07, 9C</description>
@@ -300,12 +306,6 @@
       <description>15900 BLOCK FOXVILLE DEERFIELD RD Radio: 9B Units: A309, R10, FS10, 9B</description>
       <guid isPermaLink="false">2024-07-14 09:23:00</guid>
       <pubDate>Sun, 14 Jul 2024 09:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:09 am</title>
-      <description>15100 BLOCK FOXVILLE DEERFIELD RD, FOXVILLE RANGER STATION Units: E102, A309</description>
-      <guid isPermaLink="false">2024-07-14 09:09:00</guid>
-      <pubDate>Sun, 14 Jul 2024 09:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
