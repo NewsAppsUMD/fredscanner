@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 18:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 18:42:51 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:37 pm</title>
+      <description>100 BLOCK BLK W ALL SAINTS ST Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2024-07-16 14:37:00</guid>
+      <pubDate>Tue, 16 Jul 2024 14:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 2:36 pm</title>
+      <description>800 BLOCK E H ST Radio: 9C Units: 9C, T5, FS05, RE52, E51</description>
+      <guid isPermaLink="false">2024-07-16 14:36:00</guid>
+      <pubDate>Tue, 16 Jul 2024 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:47 am</title>
       <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS Radio: 9C Units: E11, T50, 9C</description>
@@ -294,18 +306,6 @@
       <description>5300 BLOCK BUCKEYSTOWN PIKE, HAMPTON INN Radio: 9C Units: 9C, PE311, T4, FS31</description>
       <guid isPermaLink="false">2024-07-14 06:38:00</guid>
       <pubDate>Sun, 14 Jul 2024 06:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:37 am</title>
-      <description>MOUNT ZION RD / JEFFERSON PIKE Radio: 9C Units: FS20, BR205, 9C</description>
-      <guid isPermaLink="false">2024-07-14 06:37:00</guid>
-      <pubDate>Sun, 14 Jul 2024 06:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:28 am</title>
-      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER Units: R3, FS31, PE311, E31</description>
-      <guid isPermaLink="false">2024-07-14 04:28:00</guid>
-      <pubDate>Sun, 14 Jul 2024 04:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
