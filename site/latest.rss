@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 10:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 10:41:34 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:30 am</title>
+      <description>900 BLOCK JEFFERSON PIKE, IAO Radio: 9C Units: BR55, FS05, 9C</description>
+      <guid isPermaLink="false">2024-07-16 06:30:00</guid>
+      <pubDate>Tue, 16 Jul 2024 06:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:34 am</title>
       <description>3200 BLOCK THORNAPPLE DR Radio: 9C Units: E231, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>W NINTH ST / MOTTER AVE Radio: 9C Units: BR16, PE311, FS02, 9C</description>
       <guid isPermaLink="false">2024-07-13 16:35:00</guid>
       <pubDate>Sat, 13 Jul 2024 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 4:30 pm</title>
-      <description>10400 BLOCK HAMBURG RD Units: E121, EK224, E111, R8, TR29, EMSUTV50, A89, ALS8, E212, BC903, SAF901, EMS902, FS08</description>
-      <guid isPermaLink="false">2024-07-13 16:30:00</guid>
-      <pubDate>Sat, 13 Jul 2024 16:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
