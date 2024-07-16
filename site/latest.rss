@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 23:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 00:06:49 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 7:57 pm</title>
+      <description>6900 BLOCK ROOKS CT, Apt/Unit:303, KINGSCREST APTS Radio: 9C Units: PE311, E31, 9C, T4, FS31</description>
+      <guid isPermaLink="false">2024-07-15 19:57:00</guid>
+      <pubDate>Mon, 15 Jul 2024 19:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:51 pm</title>
       <description>MAIN ST / WALNUT ST Units: E172, FS17, A179</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STONEGATE DR Radio: 9C Units: PE23, 9C, BR16, BR125, BR35, BR75, E31</description>
       <guid isPermaLink="false">2024-07-13 15:53:00</guid>
       <pubDate>Sat, 13 Jul 2024 15:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:37 pm</title>
-      <description>100 BLOCK STONEGATE DR Radio: 9C Units: 9C, BR16, E31</description>
-      <guid isPermaLink="false">2024-07-13 15:37:00</guid>
-      <pubDate>Sat, 13 Jul 2024 15:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
