@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 23:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 23:25:26 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:21 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E102</description>
+      <guid isPermaLink="false">2024-07-16 19:21:00</guid>
+      <pubDate>Tue, 16 Jul 2024 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:12 pm</title>
+      <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Units: RE52</description>
+      <guid isPermaLink="false">2024-07-16 19:12:00</guid>
+      <pubDate>Tue, 16 Jul 2024 19:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 7:08 pm</title>
       <description>5700 BLOCK BELLS LN Units: FS33, TW1</description>
@@ -294,18 +306,6 @@
       <description>I70EB / E PATRICK ST, I70EB / E PATRICK ST Radio: 9C Units: E31, K33, FS33, 9C, PE311</description>
       <guid isPermaLink="false">2024-07-14 18:35:00</guid>
       <pubDate>Sun, 14 Jul 2024 18:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
-      <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Units: RE52, A198</description>
-      <guid isPermaLink="false">2024-07-14 16:43:00</guid>
-      <pubDate>Sun, 14 Jul 2024 16:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:22 pm</title>
-      <description>2600 BLOCK CAULFIELD CT Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-07-14 14:22:00</guid>
-      <pubDate>Sun, 14 Jul 2024 14:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
