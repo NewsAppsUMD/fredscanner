@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jul 2024 02:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 02:30:43 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR OUTSIDE: 10:18 pm</title>
+      <description>JIMTOWN RD / E MAIN ST Radio: 9C Units: 9C, E133, FS10</description>
+      <guid isPermaLink="false">2024-07-15 22:18:00</guid>
+      <pubDate>Mon, 15 Jul 2024 22:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 7:57 pm</title>
       <description>6900 BLOCK ROOKS CT, Apt/Unit:303, KINGSCREST APTS Radio: 9C Units: PE311, E31, 9C, T4, FS31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STONEGATE DR Radio: 9C Units: BC903, PE23, 9C, BR16, BR125, BR35, BR75, C2C, T4, E31</description>
       <guid isPermaLink="false">2024-07-13 15:55:00</guid>
       <pubDate>Sat, 13 Jul 2024 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:53 pm</title>
-      <description>100 BLOCK STONEGATE DR Radio: 9C Units: PE23, 9C, BR16, BR125, BR35, BR75, E31</description>
-      <guid isPermaLink="false">2024-07-13 15:53:00</guid>
-      <pubDate>Sat, 13 Jul 2024 15:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
