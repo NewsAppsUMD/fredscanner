@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jul 2024 23:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 23:14:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:44 pm</title>
+      <description>S MCCAIN DR / HORIZON DR Units: E11, A19</description>
+      <guid isPermaLink="false">2024-07-17 17:44:00</guid>
+      <pubDate>Wed, 17 Jul 2024 17:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:24 pm</title>
+      <description>12900 BLOCK WOODSBORO PIKE Radio: 9C Units: FS09, 9C, BR96</description>
+      <guid isPermaLink="false">2024-07-17 17:24:00</guid>
+      <pubDate>Wed, 17 Jul 2024 17:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 5:24 pm</title>
+      <description>5200 BLOCK MUSSETTER RD Radio: 9C Units: BR156, FS15, E331, 9C</description>
+      <guid isPermaLink="false">2024-07-17 17:24:00</guid>
+      <pubDate>Wed, 17 Jul 2024 17:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:16 pm</title>
+      <description>4700 BLOCK BURKITTSVILLE RD, IAO Units: BR55, FS05</description>
+      <guid isPermaLink="false">2024-07-17 17:16:00</guid>
+      <pubDate>Wed, 17 Jul 2024 17:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 4:41 pm</title>
+      <description>100 BLOCK HARPERS WAY Radio: 9D Units: E31, A299, ALS2, BC901, SAF901, FS29, E23, E11, E111, T50, R3, E501, Q11, BC903, 9D</description>
+      <guid isPermaLink="false">2024-07-17 16:41:00</guid>
+      <pubDate>Wed, 17 Jul 2024 16:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:38 pm</title>
+      <description>8200 BLOCK LOOKOUT LN Radio: 9C Units: 9C, E291, FS29</description>
+      <guid isPermaLink="false">2024-07-17 16:38:00</guid>
+      <pubDate>Wed, 17 Jul 2024 16:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:01 pm</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E11, E72, R8, A19, A78, FS12</description>
+      <guid isPermaLink="false">2024-07-17 16:01:00</guid>
+      <pubDate>Wed, 17 Jul 2024 16:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:57 pm</title>
+      <description>I70EB / MOUNT PHILLIP RD, IAO Units: A129, A38, FS12, E31, E121, R3</description>
+      <guid isPermaLink="false">2024-07-17 15:57:00</guid>
+      <pubDate>Wed, 17 Jul 2024 15:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:18 am</title>
       <description>200 BLOCK S MARKET ST, Apt/Unit:3A Radio: 9C Units: E31, T4, 9C</description>
@@ -258,54 +306,6 @@
       <description>2700 BLOCK HILLSIDE CT Units: FS25, E251, PRE709, K709, TT23</description>
       <guid isPermaLink="false">2024-07-15 12:34:00</guid>
       <pubDate>Mon, 15 Jul 2024 12:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:16 pm</title>
-      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Units: E11, RE171, E291, A299, A19, FS29</description>
-      <guid isPermaLink="false">2024-07-15 12:16:00</guid>
-      <pubDate>Mon, 15 Jul 2024 12:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 11:46 am</title>
-      <description>5500 BLOCK SPECTRUM DR, M&amp;T BANK Radio: 9C Units: T4, FS31, 9C, E231, E11</description>
-      <guid isPermaLink="false">2024-07-15 11:46:00</guid>
-      <pubDate>Mon, 15 Jul 2024 11:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:03 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, GAS STATION / SAMS CLUB Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-07-15 11:03:00</guid>
-      <pubDate>Mon, 15 Jul 2024 11:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:07 am</title>
-      <description>1200 BLOCK DUTCHMANS CREEK DR, Apt/Unit:F, WEIS MARKET BRUNSWICK Radio: 9C Units: RE52, TW1, FS05, 9C</description>
-      <guid isPermaLink="false">2024-07-15 10:07:00</guid>
-      <pubDate>Mon, 15 Jul 2024 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:53 am</title>
-      <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD Units: A209, EK204</description>
-      <guid isPermaLink="false">2024-07-15 09:53:00</guid>
-      <pubDate>Mon, 15 Jul 2024 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:32 am</title>
-      <description>RT340WB / JEFFERSON PIKE (PETERSVILLE), RT340WB / JEFFERSON PIKE Units: A198, E201, FS20</description>
-      <guid isPermaLink="false">2024-07-15 08:32:00</guid>
-      <pubDate>Mon, 15 Jul 2024 08:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:28 am</title>
-      <description>100 BLOCK E SOUTH ST Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-07-15 08:28:00</guid>
-      <pubDate>Mon, 15 Jul 2024 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:28 am</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, H L HARTZ COMPANY Radio: 9C Units: T4, 9C, E31</description>
-      <guid isPermaLink="false">2024-07-15 04:28:00</guid>
-      <pubDate>Mon, 15 Jul 2024 04:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
