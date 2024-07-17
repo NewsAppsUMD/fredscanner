@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jul 2024 04:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 04:15:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:08 am</title>
+      <description>COPPERMINE RD / GREEN VALLEY RD Units: A179, E172</description>
+      <guid isPermaLink="false">2024-07-17 00:08:00</guid>
+      <pubDate>Wed, 17 Jul 2024 00:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:59 pm</title>
       <description>1300 BLOCK BAKER PL E, RESIDENCES AT THE MANOR Radio: 9B Units: A19, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK MOTTERS STATION RD, STATION 13 Units: EK204</description>
       <guid isPermaLink="false">2024-07-14 21:01:00</guid>
       <pubDate>Sun, 14 Jul 2024 21:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:59 pm</title>
-      <description>100 BLOCK THIRD ST, STATION 16 Units: K33</description>
-      <guid isPermaLink="false">2024-07-14 20:59:00</guid>
-      <pubDate>Sun, 14 Jul 2024 20:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
