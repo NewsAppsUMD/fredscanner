@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 22:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 22:25:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:13 pm</title>
+      <description>2500 BLOCK EMERSON DR Radio: 9C Units: E12, TW1, 9C</description>
+      <guid isPermaLink="false">2024-07-18 18:13:00</guid>
+      <pubDate>Thu, 18 Jul 2024 18:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:15 pm</title>
       <description>URBANA PIKE / THORNAPPLE DR Units: A259, E231</description>
@@ -300,12 +306,6 @@
       <description>POINT OF ROCKS RD / FRY RD Units: E281, A209</description>
       <guid isPermaLink="false">2024-07-16 16:59:00</guid>
       <pubDate>Tue, 16 Jul 2024 16:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:24 pm</title>
-      <description>7300 BLOCK BURKITTSVILLE RD, HOLY FAMILY CATHOLIC CHURCH Radio: 9C Units: E72, T4, FS07, 9C</description>
-      <guid isPermaLink="false">2024-07-16 15:24:00</guid>
-      <pubDate>Tue, 16 Jul 2024 15:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
