@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jul 2024 16:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 16:26:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:21 pm</title>
+      <description>8400 BLOCK PINE BLUFF RD Radio: 9C Units: 9C, PE311, T4</description>
+      <guid isPermaLink="false">2024-07-18 12:21:00</guid>
+      <pubDate>Thu, 18 Jul 2024 12:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 11:52 am</title>
       <description>100 BLOCK BLK RAMP RT15NB TO RT144EB RAMP Radio: 9D Units: SAF901, EMS902, A19, ALS4, BC902, 9D, E31, E11, R3, HM33, HM50, HMSU33, E121, A38</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK COLERIDGE DR, Bldg:7, RIDGEVIEW CONDOS Radio: 9C Units: E11, 9C, T50</description>
       <guid isPermaLink="false">2024-07-16 11:31:00</guid>
       <pubDate>Tue, 16 Jul 2024 11:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:47 am</title>
-      <description>500 BLOCK LEAHY CT, Apt/Unit:1J, BUCKINGHAM CONDOS #1 Units: TW1</description>
-      <guid isPermaLink="false">2024-07-16 10:47:00</guid>
-      <pubDate>Tue, 16 Jul 2024 10:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
