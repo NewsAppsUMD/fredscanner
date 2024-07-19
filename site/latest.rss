@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 20:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 21:01:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:53 pm</title>
+      <description>MONOCACY BLVD / S EAST ST Units: A39, E31</description>
+      <guid isPermaLink="false">2024-07-19 16:53:00</guid>
+      <pubDate>Fri, 19 Jul 2024 16:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 4:36 pm</title>
       <description>10400 BLOCK RUM SPRING RD Radio: 9C Units: FS21, 9C, BR216</description>
@@ -300,12 +306,6 @@
       <description>FIRE TOWER RD / MOTT RD Radio: 9I Units: E231, EMS900, FS23, PRE709, R15, A259, BC901, 9I</description>
       <guid isPermaLink="false">2024-07-17 20:57:00</guid>
       <pubDate>Wed, 17 Jul 2024 20:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:49 pm</title>
-      <description>RT15NB / RT77, RT15NB / RT77 Radio: 9D Units: E102, TW6, A307, ALS30, BC902, EMS902, FS10, 9D</description>
-      <guid isPermaLink="false">2024-07-17 20:49:00</guid>
-      <pubDate>Wed, 17 Jul 2024 20:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
