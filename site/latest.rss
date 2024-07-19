@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 19:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 19:41:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:33 pm</title>
+      <description>RT85 / RT80, RT85 / RT80 Units: A149, E141</description>
+      <guid isPermaLink="false">2024-07-19 15:33:00</guid>
+      <pubDate>Fri, 19 Jul 2024 15:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:18 pm</title>
       <description>100 BLOCK E G ST Radio: 9C Units: E51, FS05, 9C</description>
@@ -298,12 +304,6 @@
     <item>
       <title>OUTSIDE FIRE: 5:24 pm</title>
       <description>12900 BLOCK WOODSBORO PIKE Radio: 9C Units: FS09, 9C, BR96</description>
-      <guid isPermaLink="false">2024-07-17 17:24:00</guid>
-      <pubDate>Wed, 17 Jul 2024 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 5:24 pm</title>
-      <description>5200 BLOCK MUSSETTER RD Radio: 9C Units: BR156, FS15, E331, 9C</description>
       <guid isPermaLink="false">2024-07-17 17:24:00</guid>
       <pubDate>Wed, 17 Jul 2024 17:24:00 -0400</pubDate>
     </item>
