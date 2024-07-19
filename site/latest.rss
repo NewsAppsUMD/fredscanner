@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 13:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 13:41:41 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:33 am</title>
+      <description>100 BLOCK DEGRANGE ST, ALAN P LINTON SERVICE CENTER Radio: 9C Units: 9C, T4, E31</description>
+      <guid isPermaLink="false">2024-07-19 09:33:00</guid>
+      <pubDate>Fri, 19 Jul 2024 09:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 8:25 am</title>
       <description>2100 BLOCK WHITTIER DR, Bldg:B, SOMERFORD HOUSE Radio: 9C Units: E291, T50, 9C, E12</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK JEFFERSON PIKE Radio: 9C Units: BR205, 9C</description>
       <guid isPermaLink="false">2024-07-16 21:08:00</guid>
       <pubDate>Tue, 16 Jul 2024 21:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:05 pm</title>
-      <description>7200 BLOCK CRESTWOOD BLVD Units: PE311, A318</description>
-      <guid isPermaLink="false">2024-07-16 21:05:00</guid>
-      <pubDate>Tue, 16 Jul 2024 21:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
