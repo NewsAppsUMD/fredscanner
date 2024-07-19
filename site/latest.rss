@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 20:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 20:15:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:03 pm</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: A19, A89, FS12, E121, E72, R8</description>
+      <guid isPermaLink="false">2024-07-19 16:03:00</guid>
+      <pubDate>Fri, 19 Jul 2024 16:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:33 pm</title>
       <description>RT85 / RT80, RT85 / RT80 Units: A149, E141</description>
@@ -300,12 +306,6 @@
       <description>S MCCAIN DR / HORIZON DR Units: E11, A19</description>
       <guid isPermaLink="false">2024-07-17 17:44:00</guid>
       <pubDate>Wed, 17 Jul 2024 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:24 pm</title>
-      <description>12900 BLOCK WOODSBORO PIKE Radio: 9C Units: FS09, 9C, BR96</description>
-      <guid isPermaLink="false">2024-07-17 17:24:00</guid>
-      <pubDate>Wed, 17 Jul 2024 17:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
