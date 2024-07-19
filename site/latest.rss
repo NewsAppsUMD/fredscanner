@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 01:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 02:10:02 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 9:55 pm</title>
+      <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9C Units: E281, E141, 9C, C14B, BR285, BR145</description>
+      <guid isPermaLink="false">2024-07-18 21:55:00</guid>
+      <pubDate>Thu, 18 Jul 2024 21:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 9:46 pm</title>
+      <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9C Units: FS28, 9C, BR285</description>
+      <guid isPermaLink="false">2024-07-18 21:46:00</guid>
+      <pubDate>Thu, 18 Jul 2024 21:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:08 pm</title>
       <description>2100 BLOCK BEAR CREEK CT Units: R3, ALS2, BC902, SAF901, E12, E501, PE23, E291, E31, T50, T4, A29, BC903</description>
@@ -294,18 +306,6 @@
       <description>5700 BLOCK BELLS LN Units: FS33, TW1</description>
       <guid isPermaLink="false">2024-07-16 19:08:00</guid>
       <pubDate>Tue, 16 Jul 2024 19:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:54 pm</title>
-      <description>5700 BLOCK BARTONSVILLE RD Radio: 9D Units: EMS902, C3B, EK204, C4C, TT23, A38, EMS901, W33, E331, E31, R15, C23B, E152, PE23, PE311, E11, R3, T4, K33, K1, K23, A39, ALS2, A318, E251, CMD33, A159, RID3, BC902, BC901, SAF901, E231, 9D</description>
-      <guid isPermaLink="false">2024-07-16 18:54:00</guid>
-      <pubDate>Tue, 16 Jul 2024 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:52 pm</title>
-      <description>5700 BLOCK BARTONSVILLE RD Radio: 9D Units: C3B, EK204, C4C, TT23, A38, EMS901, W33, E331, E31, R15, C23B, E152, PE23, PE311, E11, R3, T4, K33, K1, K23, A39, ALS2, E251, RID3, BC902, BC901, SAF901, E231, 9D</description>
-      <guid isPermaLink="false">2024-07-16 18:52:00</guid>
-      <pubDate>Tue, 16 Jul 2024 18:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
