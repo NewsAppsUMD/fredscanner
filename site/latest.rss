@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jul 2024 04:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 04:15:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:03 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO I27100 BLOCKSB RAMP Radio: 9D Units: E31, R3, A318, A39, BC903, EMS901, FS31, PE311, 9D</description>
+      <guid isPermaLink="false">2024-07-19 00:03:00</guid>
+      <pubDate>Fri, 19 Jul 2024 00:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:55 pm</title>
       <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9C Units: E281, E141, 9C, C14B, BR285, BR145</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Units: RE52</description>
       <guid isPermaLink="false">2024-07-16 19:12:00</guid>
       <pubDate>Tue, 16 Jul 2024 19:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 7:08 pm</title>
-      <description>5700 BLOCK BELLS LN Units: FS33, TW1</description>
-      <guid isPermaLink="false">2024-07-16 19:08:00</guid>
-      <pubDate>Tue, 16 Jul 2024 19:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
