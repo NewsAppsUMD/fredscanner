@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jul 2024 23:14:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 23:23:13 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 7:19 pm</title>
+      <description>800 BLOCK BRUNSWICK ST Radio: 9C Units: E51, E612, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2024-07-20 19:19:00</guid>
+      <pubDate>Sat, 20 Jul 2024 19:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:13 pm</title>
+      <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, A259, C17C, CCA18</description>
+      <guid isPermaLink="false">2024-07-20 19:13:00</guid>
+      <pubDate>Sat, 20 Jul 2024 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:11 pm</title>
       <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, CCA18</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK EMERSON DR Radio: 9C Units: E12, TW1, 9C</description>
       <guid isPermaLink="false">2024-07-18 18:13:00</guid>
       <pubDate>Thu, 18 Jul 2024 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:15 pm</title>
-      <description>URBANA PIKE / THORNAPPLE DR Units: A259, E231</description>
-      <guid isPermaLink="false">2024-07-18 17:15:00</guid>
-      <pubDate>Thu, 18 Jul 2024 17:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 4:34 pm</title>
-      <description>11100 BLOCK ANGLEBERGER RD, SEVEN ELEVEN LEWISTOWN Radio: 9C Units: E102, E291, K22, HM33, HMSU33, FS22, 9C, EK224</description>
-      <guid isPermaLink="false">2024-07-18 16:34:00</guid>
-      <pubDate>Thu, 18 Jul 2024 16:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
