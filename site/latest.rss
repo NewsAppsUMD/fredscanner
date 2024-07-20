@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jul 2024 12:29:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 12:43:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 8:39 am</title>
+      <description>I70WB / RT340-15, I70WB / RT340-15 Units: E31, E82</description>
+      <guid isPermaLink="false">2024-07-20 08:39:00</guid>
+      <pubDate>Sat, 20 Jul 2024 08:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:52 am</title>
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: PE23, FS02, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N CARROLL ST Radio: 9C Units: E31, T4, 9C</description>
       <guid isPermaLink="false">2024-07-18 06:54:00</guid>
       <pubDate>Thu, 18 Jul 2024 06:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:42 am</title>
-      <description>3800 BLOCK JEFFERSON PIKE, ADRIENNES FLOWER DELIGHTS Radio: 9C Units: BR205, 9C</description>
-      <guid isPermaLink="false">2024-07-18 06:42:00</guid>
-      <pubDate>Thu, 18 Jul 2024 06:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
