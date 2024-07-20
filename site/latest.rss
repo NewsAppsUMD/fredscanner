@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jul 2024 20:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 20:41:29 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:33 pm</title>
+      <description>POOLE JONES RD / CHRISTOPHERS XING Radio: 9D Units: EMS902, FS29, 9D, A299, ALS29, E291</description>
+      <guid isPermaLink="false">2024-07-20 16:33:00</guid>
+      <pubDate>Sat, 20 Jul 2024 16:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 2:19 pm</title>
       <description>HOLLING DR / N EAST ST Units: FS02, PE23</description>
@@ -300,12 +306,6 @@
       <description>RT340 / POTOMAC RIVER BRIDGE Units: RE52, A198</description>
       <guid isPermaLink="false">2024-07-18 15:36:00</guid>
       <pubDate>Thu, 18 Jul 2024 15:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:44 pm</title>
-      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS #600 BLOCK Units: E162, Q11, FS16</description>
-      <guid isPermaLink="false">2024-07-18 14:44:00</guid>
-      <pubDate>Thu, 18 Jul 2024 14:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
