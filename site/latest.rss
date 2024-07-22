@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 09:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:02:02 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 5:54 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: PE23, E31, HM33, HMSU33, 9C</description>
+      <guid isPermaLink="false">2024-07-22 05:54:00</guid>
+      <pubDate>Mon, 22 Jul 2024 05:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>SHED / CONST TRAILER / OUTBUILDING FIRE: 3:23 am</title>
       <description>6100 BLOCK MIDDLEBURG RD Units: E91, E132, Q11</description>
@@ -300,12 +306,6 @@
       <description>RT85 / RT80, RT85 / RT80 Units: A149, E141</description>
       <guid isPermaLink="false">2024-07-19 15:33:00</guid>
       <pubDate>Fri, 19 Jul 2024 15:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:18 pm</title>
-      <description>100 BLOCK E G ST Radio: 9C Units: E51, FS05, 9C</description>
-      <guid isPermaLink="false">2024-07-19 15:18:00</guid>
-      <pubDate>Fri, 19 Jul 2024 15:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
