@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 23:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 23:51:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
+      <description>700 BLOCK W PATRICK ST Units: A38, T4</description>
+      <guid isPermaLink="false">2024-07-22 19:41:00</guid>
+      <pubDate>Mon, 22 Jul 2024 19:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:35 pm</title>
       <description>I270NB / RT80, I270NB / RT80 Units: PE311, TT23, R3, EMS901, E231, A39, ALS23, BC901, SAF901, PRE709, A239</description>
@@ -300,12 +306,6 @@
       <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, A259, C17C, CCA18</description>
       <guid isPermaLink="false">2024-07-20 19:13:00</guid>
       <pubDate>Sat, 20 Jul 2024 19:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:11 pm</title>
-      <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, CCA18</description>
-      <guid isPermaLink="false">2024-07-20 19:11:00</guid>
-      <pubDate>Sat, 20 Jul 2024 19:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
