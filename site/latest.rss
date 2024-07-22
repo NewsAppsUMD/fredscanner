@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 07:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 07:23:09 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 3:15 am</title>
+      <description>100 BLOCK(6131) BLK MIDDLEBURG RD Units: E91</description>
+      <guid isPermaLink="false">2024-07-22 03:15:00</guid>
+      <pubDate>Mon, 22 Jul 2024 03:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:41 pm</title>
       <description>100 BLOCK POPLAR AVE, R R DONNELLY CO Radio: 9C Units: TW6, FS10, 9C, E102</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RT17, I70WB / RT17 Radio: 9C Units: BR85, E82, FS08, 9C</description>
       <guid isPermaLink="false">2024-07-19 14:48:00</guid>
       <pubDate>Fri, 19 Jul 2024 14:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 2:36 pm</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, FOOD LION Radio: 9D Units: A19, ALS2, E12, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-07-19 14:36:00</guid>
-      <pubDate>Fri, 19 Jul 2024 14:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
