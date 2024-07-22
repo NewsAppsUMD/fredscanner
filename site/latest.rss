@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 23:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 23:41:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:35 pm</title>
+      <description>I270NB / RT80, I270NB / RT80 Units: PE311, TT23, R3, EMS901, E231, A39, ALS23, BC901, SAF901, PRE709, A239</description>
+      <guid isPermaLink="false">2024-07-22 19:35:00</guid>
+      <pubDate>Mon, 22 Jul 2024 19:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:33 pm</title>
+      <description>I270NB / RT80, I270NB / RT80 Units: PE311, TT23, R3, A259, A39, ALS23, BC901, EMS902, FS23, PRE709</description>
+      <guid isPermaLink="false">2024-07-22 19:33:00</guid>
+      <pubDate>Mon, 22 Jul 2024 19:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 6:30 pm</title>
       <description>1500 BLOCK TILCO DR, WONDER BOOK &amp; VIDEO Radio: 9C Units: 9C, E31, E331, R3</description>
@@ -294,18 +306,6 @@
       <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, CCA18</description>
       <guid isPermaLink="false">2024-07-20 19:11:00</guid>
       <pubDate>Sat, 20 Jul 2024 19:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:33 pm</title>
-      <description>POOLE JONES RD / CHRISTOPHERS XING Radio: 9D Units: EMS902, FS29, 9D, A299, ALS29, E291</description>
-      <guid isPermaLink="false">2024-07-20 16:33:00</guid>
-      <pubDate>Sat, 20 Jul 2024 16:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:19 pm</title>
-      <description>HOLLING DR / N EAST ST Units: FS02, PE23</description>
-      <guid isPermaLink="false">2024-07-20 14:19:00</guid>
-      <pubDate>Sat, 20 Jul 2024 14:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
