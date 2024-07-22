@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jul 2024 15:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 15:25:20 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:14 am</title>
+      <description>10600 BLOCK POWELL RD Units: E221, FS22, E291</description>
+      <guid isPermaLink="false">2024-07-22 11:14:00</guid>
+      <pubDate>Mon, 22 Jul 2024 11:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:38 am</title>
       <description>500 BLOCK SNOWSHILL ST Units: E291, E111, Q11, FS29</description>
@@ -300,12 +306,6 @@
       <description>12100 BLOCK PEN-MAR RD, STATION FC004 - BLUE RIDGE SUMMIT FIRE &amp; RESCUE STATION 2 Units: E61</description>
       <guid isPermaLink="false">2024-07-20 01:40:00</guid>
       <pubDate>Sat, 20 Jul 2024 01:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:40 am</title>
-      <description>CRUM RD / STAUFFER RD Radio: 9B Units: A248, E111, 9B</description>
-      <guid isPermaLink="false">2024-07-20 00:40:00</guid>
-      <pubDate>Sat, 20 Jul 2024 00:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
