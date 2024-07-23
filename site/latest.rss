@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 12:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:58:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:55 am</title>
+      <description>200 BLOCK E FOURTH ST, Apt/Unit:100 Radio: 9C Units: TW1, FS02, 9C, PE23</description>
+      <guid isPermaLink="false">2024-07-23 08:55:00</guid>
+      <pubDate>Tue, 23 Jul 2024 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK: 8:49 am</title>
+      <description>DEGRANGE ST / PHEBUS AVE Radio: 9D Units: ALS4, T4, A29, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-07-23 08:49:00</guid>
+      <pubDate>Tue, 23 Jul 2024 08:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
       <description>RT340 / RT15 (FREDERICK), RT340 / RT15 Units: E31, R3, A319, A39, FS31, PE311</description>
@@ -294,18 +306,6 @@
       <description>RT340WB / SAINT MARKS RD, RT340WB / SAINT MARKS RD Radio: 9C Units: E201, RE52, BR205, FS20, 9C</description>
       <guid isPermaLink="false">2024-07-21 14:01:00</guid>
       <pubDate>Sun, 21 Jul 2024 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:11 pm</title>
-      <description>I70EB / RT40A (BRADDOCK), I70EB / RT40A Units: E82, E121, FS08</description>
-      <guid isPermaLink="false">2024-07-21 13:11:00</guid>
-      <pubDate>Sun, 21 Jul 2024 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:48 am</title>
-      <description>DETRICK RD / OLD NATIONAL PIKE Units: A339, R15</description>
-      <guid isPermaLink="false">2024-07-21 11:48:00</guid>
-      <pubDate>Sun, 21 Jul 2024 11:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
