@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 00:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 01:19:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:11 pm</title>
+      <description>6400 BLOCK KELLY CT Units: PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2024-07-22 21:11:00</guid>
+      <pubDate>Mon, 22 Jul 2024 21:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
       <description>700 BLOCK W PATRICK ST Units: A38, T4</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK BRUNSWICK ST Radio: 9C Units: E51, E612, T5, FS05, 9C</description>
       <guid isPermaLink="false">2024-07-20 19:19:00</guid>
       <pubDate>Sat, 20 Jul 2024 19:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:13 pm</title>
-      <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Units: E172, A259, C17C, CCA18</description>
-      <guid isPermaLink="false">2024-07-20 19:13:00</guid>
-      <pubDate>Sat, 20 Jul 2024 19:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
