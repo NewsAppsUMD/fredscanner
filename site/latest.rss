@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 19:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 19:31:45 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:25 pm</title>
+      <description>4700 BLOCK MOUNT ZION RD Radio: 9C Units: E121, FS12, 9C</description>
+      <guid isPermaLink="false">2024-07-23 15:25:00</guid>
+      <pubDate>Tue, 23 Jul 2024 15:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:08 pm</title>
       <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: E11, 9B, A19</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK WEATHERBY CT, Apt/Unit:H Radio: 9D Units: PE23, TW1, T4, A318, ALS31, BC902, BC903, PE311, E31, E501, E201, CMD31, R3, 9D, C3B, SAF901, A39, EMS901, W31, RID, E291, T50</description>
       <guid isPermaLink="false">2024-07-21 22:26:00</guid>
       <pubDate>Sun, 21 Jul 2024 22:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:21 pm</title>
-      <description>6400 BLOCK WEATHERBY CT Units: PE23, TW1, T4, A318, ALS31, BC902, BC903, PE311, E31, E501, E201, R3, SAF901, FS31</description>
-      <guid isPermaLink="false">2024-07-21 22:21:00</guid>
-      <pubDate>Sun, 21 Jul 2024 22:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
