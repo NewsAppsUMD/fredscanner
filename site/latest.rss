@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 12:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 12:30:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
+      <description>RT340 / RT15 (FREDERICK), RT340 / RT15 Units: E31, R3, A319, A39, FS31, PE311</description>
+      <guid isPermaLink="false">2024-07-23 08:22:00</guid>
+      <pubDate>Tue, 23 Jul 2024 08:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:11 am</title>
       <description>1000 BLOCK MILL POND RD, Bldg:F Radio: 9C Units: E291, Q11, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>DETRICK RD / OLD NATIONAL PIKE Units: A339, R15</description>
       <guid isPermaLink="false">2024-07-21 11:48:00</guid>
       <pubDate>Sun, 21 Jul 2024 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:45 am</title>
-      <description>7800 BLOCK CHESTNUT GROVE RD Units: BR176, FS17</description>
-      <guid isPermaLink="false">2024-07-21 10:45:00</guid>
-      <pubDate>Sun, 21 Jul 2024 10:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
