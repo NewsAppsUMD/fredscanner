@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 01:47:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 02:11:17 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:06 pm</title>
+      <description>8600 BLOCK LOBLOLLY LN Units: FS23, BR235</description>
+      <guid isPermaLink="false">2024-07-22 22:06:00</guid>
+      <pubDate>Mon, 22 Jul 2024 22:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 9:38 pm</title>
       <description>100 BLOCK FOX ROCK DR Units: E82, E72, RE74, FS08</description>
@@ -300,12 +306,6 @@
       <description>7600 BLOCK COBLENTZ RD, MIDDLETOWN PARK Units: BC903, E72</description>
       <guid isPermaLink="false">2024-07-20 22:32:00</guid>
       <pubDate>Sat, 20 Jul 2024 22:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 7:25 pm</title>
-      <description>800 BLOCK BRUNSWICK ST Radio: 9C Units: RE52, E612, T5, 9C, TW1</description>
-      <guid isPermaLink="false">2024-07-20 19:25:00</guid>
-      <pubDate>Sat, 20 Jul 2024 19:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
