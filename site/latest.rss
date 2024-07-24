@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 12:48:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:58:11 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 8:57 am</title>
+      <description>100 BLOCK BLUE RIDGE AVE Radio: 9C Units: BR106, FS10, 9C</description>
+      <guid isPermaLink="false">2024-07-24 08:57:00</guid>
+      <pubDate>Wed, 24 Jul 2024 08:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 8:47 am</title>
+      <description>N MARKET ST / E THIRD ST Radio: 9D Units: ALS4, A39, R3, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-07-24 08:47:00</guid>
+      <pubDate>Wed, 24 Jul 2024 08:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Units: T4, E31</description>
@@ -294,18 +306,6 @@
       <description>I70EB / EXIT 62 (RT75), I70EB / EXIT 62 Units: E331, E251, R15, A339, A259, FS15</description>
       <guid isPermaLink="false">2024-07-22 13:13:00</guid>
       <pubDate>Mon, 22 Jul 2024 13:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:55 pm</title>
-      <description>200 BLOCK INTERSTATE CIR, FURGESON ENTERPRISES Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-07-22 12:55:00</guid>
-      <pubDate>Mon, 22 Jul 2024 12:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:14 am</title>
-      <description>10600 BLOCK POWELL RD Units: E221, FS22, E291</description>
-      <guid isPermaLink="false">2024-07-22 11:14:00</guid>
-      <pubDate>Mon, 22 Jul 2024 11:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
