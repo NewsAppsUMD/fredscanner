@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 12:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 12:48:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
+      <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Units: T4, E31</description>
+      <guid isPermaLink="false">2024-07-24 08:45:00</guid>
+      <pubDate>Wed, 24 Jul 2024 08:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:34 am</title>
+      <description>9800 BLOCK PEBBLE BEACH CT Radio: 9C Units: FS33, E331, 9C</description>
+      <guid isPermaLink="false">2024-07-24 08:34:00</guid>
+      <pubDate>Wed, 24 Jul 2024 08:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:32 am</title>
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9B Units: E121, FS12, A129, A89, E82, 9B</description>
@@ -294,18 +306,6 @@
       <description>10600 BLOCK POWELL RD Units: E221, FS22, E291</description>
       <guid isPermaLink="false">2024-07-22 11:14:00</guid>
       <pubDate>Mon, 22 Jul 2024 11:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:38 am</title>
-      <description>500 BLOCK SNOWSHILL ST Units: E291, E111, Q11, FS29</description>
-      <guid isPermaLink="false">2024-07-22 10:38:00</guid>
-      <pubDate>Mon, 22 Jul 2024 10:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:27 am</title>
-      <description>5800 BLOCK MARY LOU LN Radio: 9C Units: PE311, T50, 9C</description>
-      <guid isPermaLink="false">2024-07-22 10:27:00</guid>
-      <pubDate>Mon, 22 Jul 2024 10:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
