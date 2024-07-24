@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 09:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 09:41:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:40 am</title>
+      <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: T4, 9C, E31</description>
+      <guid isPermaLink="false">2024-07-24 05:40:00</guid>
+      <pubDate>Wed, 24 Jul 2024 05:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:19 am</title>
       <description>100 BLOCK BLK 7100 BLOCKE BTWN HOLLOW RD &amp; RIDGE RD HWY Radio: 9D Units: RE74, E121, A89, ALS8, R8, 9D, C7, HM33, BC903, EMS901, A129</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK MOTTER AVE 81, Apt/Unit:81 Radio: 9C Units: E31, T50, FS02, 9C</description>
       <guid isPermaLink="false">2024-07-22 09:57:00</guid>
       <pubDate>Mon, 22 Jul 2024 09:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:54 am</title>
-      <description>6500 BLOCK WALCOTT LN Radio: 9C Units: FS31, 9C, PE311, T4</description>
-      <guid isPermaLink="false">2024-07-22 09:54:00</guid>
-      <pubDate>Mon, 22 Jul 2024 09:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
