@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jul 2024 23:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:06:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:50 pm</title>
+      <description>SOUDER RD / BURKITTSVILLE RD Units: A198, T5</description>
+      <guid isPermaLink="false">2024-07-24 19:50:00</guid>
+      <pubDate>Wed, 24 Jul 2024 19:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:49 pm</title>
+      <description>1400 BLOCK N EAST ST Units: PE23, E11, E501, E291, R3, T4, FS02, T50, A38, ALS2, BC901, SAF901, E31</description>
+      <guid isPermaLink="false">2024-07-24 19:49:00</guid>
+      <pubDate>Wed, 24 Jul 2024 19:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:29 pm</title>
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO MT ZION RD RAMP Radio: 9B Units: A19, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK KELLY CT Units: PE311, TW1, FS31</description>
       <guid isPermaLink="false">2024-07-22 21:11:00</guid>
       <pubDate>Mon, 22 Jul 2024 21:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
-      <description>700 BLOCK W PATRICK ST Units: A38, T4</description>
-      <guid isPermaLink="false">2024-07-22 19:41:00</guid>
-      <pubDate>Mon, 22 Jul 2024 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:35 pm</title>
-      <description>I270NB / RT80, I270NB / RT80 Units: PE311, TT23, R3, EMS901, E231, A39, ALS23, BC901, SAF901, PRE709, A239</description>
-      <guid isPermaLink="false">2024-07-22 19:35:00</guid>
-      <pubDate>Mon, 22 Jul 2024 19:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
