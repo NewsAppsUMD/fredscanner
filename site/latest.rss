@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 20:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 20:41:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:39 pm</title>
+      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11, 9C</description>
+      <guid isPermaLink="false">2024-07-25 16:39:00</guid>
+      <pubDate>Thu, 25 Jul 2024 16:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:52 pm</title>
       <description>2400 BLOCK MERCHANT ST Units: Q11, FS29, E291</description>
@@ -300,12 +306,6 @@
       <description>DEGRANGE ST / PHEBUS AVE Radio: 9D Units: ALS4, T4, A29, EMS901, 9D</description>
       <guid isPermaLink="false">2024-07-23 08:49:00</guid>
       <pubDate>Tue, 23 Jul 2024 08:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
-      <description>RT340 / RT15 (FREDERICK), RT340 / RT15 Units: E31, R3, A319, A39, FS31, PE311</description>
-      <guid isPermaLink="false">2024-07-23 08:22:00</guid>
-      <pubDate>Tue, 23 Jul 2024 08:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
