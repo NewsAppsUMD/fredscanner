@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jul 2024 06:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 06:37:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 2:35 am</title>
+      <description>100 BLOCK THURMONT BLVD, KFC TACO BELL THURMONT Radio: 9C Units: E102, FS10, EK224, 9C</description>
+      <guid isPermaLink="false">2024-07-25 02:35:00</guid>
+      <pubDate>Thu, 25 Jul 2024 02:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 12:26 am</title>
       <description>1000 BLOCK W PATRICK ST, OUTBACK STEAKHOUSE Radio: 9C Units: R3, 9C</description>
@@ -300,12 +306,6 @@
       <description>8600 BLOCK LOBLOLLY LN Units: FS23, BR235</description>
       <guid isPermaLink="false">2024-07-22 22:06:00</guid>
       <pubDate>Mon, 22 Jul 2024 22:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 9:38 pm</title>
-      <description>100 BLOCK FOX ROCK DR Units: E82, E72, RE74, FS08</description>
-      <guid isPermaLink="false">2024-07-22 21:38:00</guid>
-      <pubDate>Mon, 22 Jul 2024 21:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
