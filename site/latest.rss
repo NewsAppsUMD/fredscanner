@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 18:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:02:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:49 pm</title>
+      <description>HILLCREST DR / REDFIELD CT Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2024-07-26 14:49:00</guid>
+      <pubDate>Fri, 26 Jul 2024 14:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:15 pm</title>
       <description>DELAUTER RD / RUM SPRING RD Radio: 9D Units: 9D, E121, R8, A89, ALS8, E212, BC903, EMS902, FS21</description>
@@ -300,12 +306,6 @@
       <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: A89, E82, FS08, 9B</description>
       <guid isPermaLink="false">2024-07-24 07:25:00</guid>
       <pubDate>Wed, 24 Jul 2024 07:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:40 am</title>
-      <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: T4, 9C, E31</description>
-      <guid isPermaLink="false">2024-07-24 05:40:00</guid>
-      <pubDate>Wed, 24 Jul 2024 05:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
