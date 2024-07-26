@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 21:14:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 21:23:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:14 pm</title>
+      <description>6200 BLOCK DAVINCI ST Radio: 9C Units: PE311, TW1, 9C</description>
+      <guid isPermaLink="false">2024-07-26 17:14:00</guid>
+      <pubDate>Fri, 26 Jul 2024 17:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 3:03 pm</title>
       <description>500 BLOCK PRIMUS CT Radio: 9C Units: TW1, 9C, T4, PE311, E31</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Units: T4, E31</description>
       <guid isPermaLink="false">2024-07-24 08:45:00</guid>
       <pubDate>Wed, 24 Jul 2024 08:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:34 am</title>
-      <description>9800 BLOCK PEBBLE BEACH CT Radio: 9C Units: FS33, E331, 9C</description>
-      <guid isPermaLink="false">2024-07-24 08:34:00</guid>
-      <pubDate>Wed, 24 Jul 2024 08:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
