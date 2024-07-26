@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 22:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 22:25:08 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:16 pm</title>
+      <description>3800 BLOCK BUSH CREEK DR Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2024-07-26 18:16:00</guid>
+      <pubDate>Fri, 26 Jul 2024 18:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:14 pm</title>
       <description>6200 BLOCK DAVINCI ST Radio: 9C Units: PE311, TW1, 9C</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E THIRD ST Radio: 9D Units: ALS4, A39, R3, EMS901, 9D</description>
       <guid isPermaLink="false">2024-07-24 08:47:00</guid>
       <pubDate>Wed, 24 Jul 2024 08:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
-      <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Units: T4, E31</description>
-      <guid isPermaLink="false">2024-07-24 08:45:00</guid>
-      <pubDate>Wed, 24 Jul 2024 08:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
