@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 16:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 16:27:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:15 pm</title>
+      <description>DELAUTER RD / RUM SPRING RD Radio: 9D Units: 9D, E121, R8, A89, ALS8, E212, BC903, EMS902, FS21</description>
+      <guid isPermaLink="false">2024-07-26 12:15:00</guid>
+      <pubDate>Fri, 26 Jul 2024 12:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:22 am</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, GAMMA MEDICAL SYSTEMS INC Radio: 9B Units: PE311, T4, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: T4, 9C, E31</description>
       <guid isPermaLink="false">2024-07-24 05:40:00</guid>
       <pubDate>Wed, 24 Jul 2024 05:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:19 am</title>
-      <description>100 BLOCK BLK 7100 BLOCKE BTWN HOLLOW RD &amp; RIDGE RD HWY Radio: 9D Units: RE74, E121, A89, ALS8, R8, 9D, C7, HM33, BC903, EMS901, A129</description>
-      <guid isPermaLink="false">2024-07-24 03:19:00</guid>
-      <pubDate>Wed, 24 Jul 2024 03:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
