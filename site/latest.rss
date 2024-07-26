@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 14:24:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 14:31:49 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:26 am</title>
+      <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: E111, FS29, 9C</description>
+      <guid isPermaLink="false">2024-07-26 10:26:00</guid>
+      <pubDate>Fri, 26 Jul 2024 10:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 10:13 am</title>
       <description>4600 BLOCK LANDER RD, JEFFERSON VOLUNTEER FIRE CO Units: EK114</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK 7100 BLOCKE BTWN HOLLOW RD &amp; RIDGE RD HWY Radio: 9D Units: RE74, E121, A89, ALS8, R8, 9D, BC903, EMS901, A129</description>
       <guid isPermaLink="false">2024-07-24 03:15:00</guid>
       <pubDate>Wed, 24 Jul 2024 03:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:12 am</title>
-      <description>100 BLOCK BLK 7100 BLOCKE BTWN HOLLOW RD &amp; RIDGE RD HWY Radio: 9D Units: FS08, E121, A89, ALS8, R8, 9D, BC903, EMS901, E72, A129</description>
-      <guid isPermaLink="false">2024-07-24 03:12:00</guid>
-      <pubDate>Wed, 24 Jul 2024 03:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
