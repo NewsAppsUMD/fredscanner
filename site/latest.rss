@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 13:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 13:41:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:37 am</title>
+      <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: A78, E141, T5, K7, A209, 9C, EK204, BC903, SAF901, RE74</description>
+      <guid isPermaLink="false">2024-07-26 09:37:00</guid>
+      <pubDate>Fri, 26 Jul 2024 09:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 9:31 am</title>
+      <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: E51, T5, K7, A209, 9C, EK204, E72, BC903, SAF901</description>
+      <guid isPermaLink="false">2024-07-26 09:31:00</guid>
+      <pubDate>Fri, 26 Jul 2024 09:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:26 am</title>
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E291, FS29, BC902, EMS902</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK JEFFERSON PIKE, PARK N RIDE BRUNSWICK Radio: 9C Units: FS05, 9C, BR55</description>
       <guid isPermaLink="false">2024-07-23 20:57:00</guid>
       <pubDate>Tue, 23 Jul 2024 20:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:33 pm</title>
-      <description>100 BLOCK E F ST Radio: 9C Units: BR55, 9C, FS05</description>
-      <guid isPermaLink="false">2024-07-23 18:33:00</guid>
-      <pubDate>Tue, 23 Jul 2024 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:52 pm</title>
-      <description>POINT OF ROCKS RD / BALLENGER CREEK PIKE Radio: 9B Units: E281, 9B, A149</description>
-      <guid isPermaLink="false">2024-07-23 17:52:00</guid>
-      <pubDate>Tue, 23 Jul 2024 17:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
