@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 09:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 09:14:50 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 5:04 am</title>
+      <description>1200 BLOCK AYNSLEY CT, Apt/Unit:CD, THE GROVE AT ALBAN Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-07-26 05:04:00</guid>
+      <pubDate>Fri, 26 Jul 2024 05:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 4:53 am</title>
       <description>RT26 / CHESTNUT GROVE RD, RT26 / CHESTNUT GROVE RD Radio: 9C Units: E172, FS17, 9C, E111, EK114</description>
@@ -300,12 +306,6 @@
       <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: E11, 9B, A19</description>
       <guid isPermaLink="false">2024-07-23 14:08:00</guid>
       <pubDate>Tue, 23 Jul 2024 14:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
-      <description>URBANA PIKE / BIG WOODS RD Units: E251, A259</description>
-      <guid isPermaLink="false">2024-07-23 11:39:00</guid>
-      <pubDate>Tue, 23 Jul 2024 11:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
