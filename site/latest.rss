@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 14:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 14:14:19 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:07 am</title>
+      <description>200 BLOCK BEASLEY DR, FORT DETRICK BLDG 200 BLOCK Radio: 9C Units: E11, E501, T50, 9C</description>
+      <guid isPermaLink="false">2024-07-26 10:07:00</guid>
+      <pubDate>Fri, 26 Jul 2024 10:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 10:00 am</title>
+      <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: A78, K7, 9C, EK204, BC903, HM33, RE74, U20, CMD20</description>
+      <guid isPermaLink="false">2024-07-26 10:00:00</guid>
+      <pubDate>Fri, 26 Jul 2024 10:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:37 am</title>
       <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: A78, E141, T5, K7, A209, 9C, EK204, BC903, SAF901, RE74</description>
@@ -294,18 +306,6 @@
       <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Radio: 9D Units: E121, A89, ALS8, R8, 9D, BC903, EMS901</description>
       <guid isPermaLink="false">2024-07-24 03:08:00</guid>
       <pubDate>Wed, 24 Jul 2024 03:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:56 pm</title>
-      <description>7600 BLOCK HAMPTON VALLEY RD, SUMMIT LAKE CAMP Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2024-07-23 21:56:00</guid>
-      <pubDate>Tue, 23 Jul 2024 21:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 8:57 pm</title>
-      <description>1000 BLOCK JEFFERSON PIKE, PARK N RIDE BRUNSWICK Radio: 9C Units: FS05, 9C, BR55</description>
-      <guid isPermaLink="false">2024-07-23 20:57:00</guid>
-      <pubDate>Tue, 23 Jul 2024 20:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
