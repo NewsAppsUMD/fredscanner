@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jul 2024 19:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:14:04 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 3:03 pm</title>
+      <description>500 BLOCK PRIMUS CT Radio: 9C Units: TW1, 9C, T4, PE311, E31</description>
+      <guid isPermaLink="false">2024-07-26 15:03:00</guid>
+      <pubDate>Fri, 26 Jul 2024 15:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 3:01 pm</title>
+      <description>500 BLOCK PRIMUS CT Radio: 9C Units: TW1, 9C, PE311, E31</description>
+      <guid isPermaLink="false">2024-07-26 15:01:00</guid>
+      <pubDate>Fri, 26 Jul 2024 15:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:49 pm</title>
       <description>HILLCREST DR / REDFIELD CT Radio: 9B Units: A19, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>9800 BLOCK PEBBLE BEACH CT Radio: 9C Units: FS33, E331, 9C</description>
       <guid isPermaLink="false">2024-07-24 08:34:00</guid>
       <pubDate>Wed, 24 Jul 2024 08:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:32 am</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9B Units: E121, FS12, A129, A89, E82, 9B</description>
-      <guid isPermaLink="false">2024-07-24 07:32:00</guid>
-      <pubDate>Wed, 24 Jul 2024 07:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:25 am</title>
-      <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: A89, E82, FS08, 9B</description>
-      <guid isPermaLink="false">2024-07-24 07:25:00</guid>
-      <pubDate>Wed, 24 Jul 2024 07:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
