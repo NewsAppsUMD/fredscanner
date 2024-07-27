@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 18:15:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 18:27:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:22 pm</title>
+      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A39, E31, ALS31</description>
+      <guid isPermaLink="false">2024-07-27 14:22:00</guid>
+      <pubDate>Sat, 27 Jul 2024 14:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:04 pm</title>
       <description>RT340 / POTOMAC RIVER Radio: PS1 Units: RE52, A196, PS1</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO MT ZION RD RAMP Radio: 9B Units: A19, E11, 9B</description>
       <guid isPermaLink="false">2024-07-24 18:29:00</guid>
       <pubDate>Wed, 24 Jul 2024 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:22 pm</title>
-      <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: E31, FS31, A318, 9B</description>
-      <guid isPermaLink="false">2024-07-24 15:22:00</guid>
-      <pubDate>Wed, 24 Jul 2024 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
