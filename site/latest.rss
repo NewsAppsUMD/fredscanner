@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 21:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 21:31:50 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:27 pm</title>
+      <description>8100 BLOCK OLD HAGERSTOWN RD Radio: 9D Units: A78, A89, ALS8, RE74, EMS902, 9D</description>
+      <guid isPermaLink="false">2024-07-27 17:27:00</guid>
+      <pubDate>Sat, 27 Jul 2024 17:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>ATV ACCIDENT: 3:49 pm</title>
       <description>12300 BLOCK LEGORE RD Radio: 9D Units: 9D, E91, RE171, A169, ALS17, BC902, EMS902, FS09</description>
@@ -300,12 +306,6 @@
       <description>SOUDER RD / BURKITTSVILLE RD Units: A198, T5</description>
       <guid isPermaLink="false">2024-07-24 19:50:00</guid>
       <pubDate>Wed, 24 Jul 2024 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:49 pm</title>
-      <description>1400 BLOCK N EAST ST Units: PE23, E11, E501, E291, R3, T4, FS02, T50, A38, ALS2, BC901, SAF901, E31</description>
-      <guid isPermaLink="false">2024-07-24 19:49:00</guid>
-      <pubDate>Wed, 24 Jul 2024 19:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
