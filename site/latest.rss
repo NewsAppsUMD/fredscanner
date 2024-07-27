@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 00:27:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 00:48:29 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 8:28 pm</title>
+      <description>6300 BLOCK SPRING RIDGE PKWY, SPRING RIDGE SENIOR APTS Units: E331</description>
+      <guid isPermaLink="false">2024-07-26 20:28:00</guid>
+      <pubDate>Fri, 26 Jul 2024 20:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 8:12 pm</title>
       <description>1800 BLOCK GREENSPRING PL, Apt/Unit:401 Units: E11, E31, BC903, SAF901, PE23, E291, R3, T50, T4, A19, ALS2, BC902, E501</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP I27100 BLOCKSB TO RT8100 BLOCK RAMP Radio: 9D Units: A239, ALS23, E231, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2024-07-24 10:06:00</guid>
       <pubDate>Wed, 24 Jul 2024 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:16 am</title>
-      <description>5300 BLOCK BALLENGER CREEK PIKE, TUSCARORA HIGH SCHOOL Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-07-24 09:16:00</guid>
-      <pubDate>Wed, 24 Jul 2024 09:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
