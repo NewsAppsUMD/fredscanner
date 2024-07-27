@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jul 2024 22:51:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 23:02:09 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 6:54 pm</title>
+      <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS Units: TW1</description>
+      <guid isPermaLink="false">2024-07-27 18:54:00</guid>
+      <pubDate>Sat, 27 Jul 2024 18:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:01 pm</title>
       <description>4900 BLOCK MACDONOUGH PL Units: A318, PE311</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THURMONT BLVD, KFC TACO BELL THURMONT Radio: 9C Units: E102, FS10, EK224, 9C</description>
       <guid isPermaLink="false">2024-07-25 02:35:00</guid>
       <pubDate>Thu, 25 Jul 2024 02:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:26 am</title>
-      <description>1000 BLOCK W PATRICK ST, OUTBACK STEAKHOUSE Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2024-07-25 00:26:00</guid>
-      <pubDate>Thu, 25 Jul 2024 00:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
