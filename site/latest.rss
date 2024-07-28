@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 10:51:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 11:02:11 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:59 am</title>
+      <description>4000 BLOCK PETERSVILLE RD Radio: 9B Units: FS05, A198, RE52, 9B</description>
+      <guid isPermaLink="false">2024-07-28 06:59:00</guid>
+      <pubDate>Sun, 28 Jul 2024 06:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:31 am</title>
       <description>500 BLOCK RAMBLING SUNSET CIR Units: E152</description>
@@ -300,12 +306,6 @@
       <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: E51, T5, K7, A209, 9C, EK204, E72, BC903, SAF901</description>
       <guid isPermaLink="false">2024-07-26 09:31:00</guid>
       <pubDate>Fri, 26 Jul 2024 09:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:26 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E291, FS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2024-07-26 09:26:00</guid>
-      <pubDate>Fri, 26 Jul 2024 09:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
