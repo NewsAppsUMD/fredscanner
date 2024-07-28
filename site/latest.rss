@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 07:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 07:41:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:34 am</title>
+      <description>OLD BOHN RD / WOODVILLE RD Units: CCA19, E152, CCE12</description>
+      <guid isPermaLink="false">2024-07-28 03:34:00</guid>
+      <pubDate>Sun, 28 Jul 2024 03:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:51 am</title>
       <description>I270NB / RT80, I270NB / RT80 Units: R3, A259, PRE709, PE311, TT23, A318, ALS23, BC901, EMS901, FS23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E291, FS29</description>
       <guid isPermaLink="false">2024-07-26 09:26:00</guid>
       <pubDate>Fri, 26 Jul 2024 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:13 am</title>
-      <description>I70EB / 45MM, I70EB / 45MM Radio: 9C Units: E82, E121, FS08, 9C</description>
-      <guid isPermaLink="false">2024-07-26 08:13:00</guid>
-      <pubDate>Fri, 26 Jul 2024 08:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
