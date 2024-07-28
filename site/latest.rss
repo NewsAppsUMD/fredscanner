@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 02:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 02:28:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:18 pm</title>
+      <description>KEY PKWY / BEL AIRE LN Units: E11, C1B, A39</description>
+      <guid isPermaLink="false">2024-07-27 22:18:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:17 pm</title>
+      <description>2200 BLOCK DENALI DR Units: ALS29, BC903, E291, A18, W1, C7, EMS901, E121, T4, K1, K7, EK204, A19, BC902, SAF901, PE23, PE311, E82, E201, R3, T50, EK224, C3B, RE74, K22, Q11</description>
+      <guid isPermaLink="false">2024-07-27 22:17:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATER RESCUE: 10:13 pm</title>
+      <description>MONOCACY RIVER / CREAGERSTOWN RD Units: E162, E91, R10, BC901, ALS30, TW6, BT15, BT28, A169, A229, EMS901, FS16</description>
+      <guid isPermaLink="false">2024-07-27 22:13:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:11 pm</title>
+      <description>2200 BLOCK DENALI DR Units: ALS29, BC903, C1B, E291, A18, W1, C7, EMS902, E121, T4, K1, K7, EK204, A19, BC902, SAF901, PE23, PE311, E82, E201, R3, T50, C3B, RE74, Q11</description>
+      <guid isPermaLink="false">2024-07-27 22:11:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:08 pm</title>
+      <description>KEMP LN / CAMPBELL HILL WAY Units: ALS29, BC903, E121, T4, K1, K7, EK204, A19, BC902, SAF901, PE23, PE311, E111, E82, E201, R3, T50</description>
+      <guid isPermaLink="false">2024-07-27 22:08:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:06 pm</title>
+      <description>100 BLOCK WHISKEY CREEK CIR Units: TW1, E11, E31, T4</description>
+      <guid isPermaLink="false">2024-07-27 22:06:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:05 pm</title>
+      <description>100 BLOCK WHISKEY CREEK CIR Units: E11, E31, T4</description>
+      <guid isPermaLink="false">2024-07-27 22:05:00</guid>
+      <pubDate>Sat, 27 Jul 2024 22:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:46 pm</title>
       <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Units: Q11, FS11, E111</description>
@@ -264,48 +306,6 @@
       <description>RT340 / 10MM, RT340 / 10MM Units: FS20, E201, E11, A209, A18, R20, ALS20, EMS901</description>
       <guid isPermaLink="false">2024-07-25 22:24:00</guid>
       <pubDate>Thu, 25 Jul 2024 22:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:46 pm</title>
-      <description>2000 BLOCK FAUNA DR Units: E291, FS29</description>
-      <guid isPermaLink="false">2024-07-25 20:46:00</guid>
-      <pubDate>Thu, 25 Jul 2024 20:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:10 pm</title>
-      <description>7200 BLOCK BALTIMORE NATIONAL PIKE Units: A129, E121</description>
-      <guid isPermaLink="false">2024-07-25 18:10:00</guid>
-      <pubDate>Thu, 25 Jul 2024 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 5:18 pm</title>
-      <description>1700 BLOCK GREENFIELD RD Radio: 9C Units: E141, E281, TT23, K23, 9C</description>
-      <guid isPermaLink="false">2024-07-25 17:18:00</guid>
-      <pubDate>Thu, 25 Jul 2024 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:39 pm</title>
-      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11, 9C</description>
-      <guid isPermaLink="false">2024-07-25 16:39:00</guid>
-      <pubDate>Thu, 25 Jul 2024 16:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:52 pm</title>
-      <description>2400 BLOCK MERCHANT ST Units: Q11, FS29, E291</description>
-      <guid isPermaLink="false">2024-07-25 13:52:00</guid>
-      <pubDate>Thu, 25 Jul 2024 13:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:22 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES Radio: 9B Units: BR35, FS31, 9B</description>
-      <guid isPermaLink="false">2024-07-25 13:22:00</guid>
-      <pubDate>Thu, 25 Jul 2024 13:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:14 pm</title>
-      <description>3400 BLOCK CAMPUS DR, YMCA URBANA Units: TT23, FS23</description>
-      <guid isPermaLink="false">2024-07-25 13:14:00</guid>
-      <pubDate>Thu, 25 Jul 2024 13:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
