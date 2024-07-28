@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 05:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 06:02:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:51 am</title>
+      <description>I270NB / RT80, I270NB / RT80 Units: R3, A259, PRE709, PE311, TT23, A318, ALS23, BC901, EMS901, FS23</description>
+      <guid isPermaLink="false">2024-07-28 01:51:00</guid>
+      <pubDate>Sun, 28 Jul 2024 01:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:46 pm</title>
       <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Units: E11, Q11, FS11, E111</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 45MM, I70EB / 45MM Radio: 9C Units: E82, E121, FS08, 9C</description>
       <guid isPermaLink="false">2024-07-26 08:13:00</guid>
       <pubDate>Fri, 26 Jul 2024 08:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 5:34 am</title>
-      <description>100 BLOCK HOLLING DR Radio: 9C Units: E31, R3, FS02, 9C, PE23</description>
-      <guid isPermaLink="false">2024-07-26 05:34:00</guid>
-      <pubDate>Fri, 26 Jul 2024 05:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
