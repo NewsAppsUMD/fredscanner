@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 12:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 12:15:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:04 am</title>
+      <description>5100 BLOCK PEGASUS CT, BUCKEYSTOWN PIKE OFFICE CENTER Radio: 9C Units: PE311, 9C, T4, FS31</description>
+      <guid isPermaLink="false">2024-07-28 08:04:00</guid>
+      <pubDate>Sun, 28 Jul 2024 08:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:00 am</title>
       <description>11500 BLOCK LIBERTY OAK DR Radio: 9C Units: FS17, 9C, E172</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK LANDER RD, JEFFERSON VOLUNTEER FIRE CO Units: EK114</description>
       <guid isPermaLink="false">2024-07-26 10:13:00</guid>
       <pubDate>Fri, 26 Jul 2024 10:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:07 am</title>
-      <description>200 BLOCK BEASLEY DR, FORT DETRICK BLDG 200 BLOCK Radio: 9C Units: E11, E501, T50, 9C</description>
-      <guid isPermaLink="false">2024-07-26 10:07:00</guid>
-      <pubDate>Fri, 26 Jul 2024 10:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
