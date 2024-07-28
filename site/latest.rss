@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 11:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 11:41:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:38 am</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: WCE3, R8, A129, A89, ALS8, BC903, EMS902, E121, WCE162, 9D, RE74, SAF901</description>
+      <guid isPermaLink="false">2024-07-28 07:38:00</guid>
+      <pubDate>Sun, 28 Jul 2024 07:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:33 am</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: R8, A129, A89, ALS8, BC903, EMS902, FS12, E121, WCE162, 9D</description>
+      <guid isPermaLink="false">2024-07-28 07:33:00</guid>
+      <pubDate>Sun, 28 Jul 2024 07:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:59 am</title>
       <description>4000 BLOCK PETERSVILLE RD Radio: 9B Units: FS05, A198, RE52, 9B</description>
@@ -294,18 +306,6 @@
       <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: A78, K7, 9C, EK204, BC903, HM33, RE74, U20, CMD20</description>
       <guid isPermaLink="false">2024-07-26 10:00:00</guid>
       <pubDate>Fri, 26 Jul 2024 10:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:37 am</title>
-      <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: A78, E141, T5, K7, A209, 9C, EK204, BC903, SAF901, RE74</description>
-      <guid isPermaLink="false">2024-07-26 09:37:00</guid>
-      <pubDate>Fri, 26 Jul 2024 09:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:31 am</title>
-      <description>2700 BLOCK POFFENBERGER RD, Bldg:A Radio: 9C Units: E51, T5, K7, A209, 9C, EK204, E72, BC903, SAF901</description>
-      <guid isPermaLink="false">2024-07-26 09:31:00</guid>
-      <pubDate>Fri, 26 Jul 2024 09:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
