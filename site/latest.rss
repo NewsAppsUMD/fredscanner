@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 03:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 03:51:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:46 pm</title>
+      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Units: E11, Q11, FS11, E111</description>
+      <guid isPermaLink="false">2024-07-27 23:46:00</guid>
+      <pubDate>Sat, 27 Jul 2024 23:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:41 pm</title>
+      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Units: Q11, FS11, E111</description>
+      <guid isPermaLink="false">2024-07-27 23:41:00</guid>
+      <pubDate>Sat, 27 Jul 2024 23:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:30 pm</title>
       <description>1800 BLOCK REED ROAD Units: RE52, T5, A196, ALS20, R20</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HOLLING DR Radio: 9C Units: E31, R3, FS02, 9C, PE23</description>
       <guid isPermaLink="false">2024-07-26 05:34:00</guid>
       <pubDate>Fri, 26 Jul 2024 05:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:04 am</title>
-      <description>1200 BLOCK AYNSLEY CT, Apt/Unit:CD, THE GROVE AT ALBAN Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-07-26 05:04:00</guid>
-      <pubDate>Fri, 26 Jul 2024 05:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 4:53 am</title>
-      <description>RT26 / CHESTNUT GROVE RD, RT26 / CHESTNUT GROVE RD Radio: 9C Units: E172, FS17, 9C, E111, EK114</description>
-      <guid isPermaLink="false">2024-07-26 04:53:00</guid>
-      <pubDate>Fri, 26 Jul 2024 04:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
