@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 09:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 09:41:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:31 am</title>
+      <description>500 BLOCK RAMBLING SUNSET CIR Units: E152</description>
+      <guid isPermaLink="false">2024-07-28 05:31:00</guid>
+      <pubDate>Sun, 28 Jul 2024 05:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:34 am</title>
       <description>OLD BOHN RD / WOODVILLE RD Units: CCA19, E152, CCE12</description>
@@ -298,12 +304,6 @@
     <item>
       <title>SERVICE CALL: 9:26 am</title>
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E291, FS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2024-07-26 09:26:00</guid>
-      <pubDate>Fri, 26 Jul 2024 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:26 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E291, FS29</description>
       <guid isPermaLink="false">2024-07-26 09:26:00</guid>
       <pubDate>Fri, 26 Jul 2024 09:26:00 -0400</pubDate>
     </item>
