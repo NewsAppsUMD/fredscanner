@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 21:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 21:14:32 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 5:05 pm</title>
+      <description>9500 BLOCK ROCKY RIDGE RD Radio: 9C Units: BR136, 9C, FS13</description>
+      <guid isPermaLink="false">2024-07-28 17:05:00</guid>
+      <pubDate>Sun, 28 Jul 2024 17:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 4:51 pm</title>
       <description>3300 BLOCK WORTHINGTON BLVD, CVS PHARMACY Radio: 9C Units: BR235, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK DAVINCI ST Radio: 9C Units: PE311, TW1, 9C</description>
       <guid isPermaLink="false">2024-07-26 17:14:00</guid>
       <pubDate>Fri, 26 Jul 2024 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 3:03 pm</title>
-      <description>500 BLOCK PRIMUS CT Radio: 9C Units: TW1, 9C, T4, PE311, E31</description>
-      <guid isPermaLink="false">2024-07-26 15:03:00</guid>
-      <pubDate>Fri, 26 Jul 2024 15:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
