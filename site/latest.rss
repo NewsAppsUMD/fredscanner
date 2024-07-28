@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jul 2024 17:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 18:02:16 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:50 pm</title>
+      <description>YEAGERTOWN RD / BOYERS MILL RD, QUARTER OF A MILE Radio: 9C Units: BR156, FS15, 9C</description>
+      <guid isPermaLink="false">2024-07-28 13:50:00</guid>
+      <pubDate>Sun, 28 Jul 2024 13:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:39 pm</title>
       <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>HILLCREST DR / REDFIELD CT Radio: 9B Units: A19, E11, 9B</description>
       <guid isPermaLink="false">2024-07-26 14:49:00</guid>
       <pubDate>Fri, 26 Jul 2024 14:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:15 pm</title>
-      <description>DELAUTER RD / RUM SPRING RD Radio: 9D Units: 9D, E121, R8, A89, ALS8, E212, BC903, EMS902, FS21</description>
-      <guid isPermaLink="false">2024-07-26 12:15:00</guid>
-      <pubDate>Fri, 26 Jul 2024 12:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
