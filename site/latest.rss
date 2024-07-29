@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 13:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 13:51:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:44 am</title>
+      <description>9600 BLOCK DOCTOR PERRY RD, SUGARLOAF BUSINESS CENTER Units: PRE709, TT23, FS23</description>
+      <guid isPermaLink="false">2024-07-29 09:44:00</guid>
+      <pubDate>Mon, 29 Jul 2024 09:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:40 am</title>
+      <description>APPROX LOC:RAMP MT ZION RD TO RT15-340EB RAMP Units: A209, E201</description>
+      <guid isPermaLink="false">2024-07-29 09:40:00</guid>
+      <pubDate>Mon, 29 Jul 2024 09:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:39 am</title>
       <description>APPROX LOC:RAMP MT ZION RD TO RT15-340EB RAMP Units: A209, E201</description>
@@ -294,18 +306,6 @@
       <description>6000 BLOCK JEFFERSON BLVD, VINDOBONA NURSING HOME Radio: 9C Units: 9C, T4, TW1, E121</description>
       <guid isPermaLink="false">2024-07-27 09:51:00</guid>
       <pubDate>Sat, 27 Jul 2024 09:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:50 am</title>
-      <description>6000 BLOCK JEFFERSON BLVD, VINDOBONA NURSING HOME Radio: 9C Units: FS12, 9C, TW1, E121</description>
-      <guid isPermaLink="false">2024-07-27 09:50:00</guid>
-      <pubDate>Sat, 27 Jul 2024 09:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:01 am</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:186, WESTVIEW URGENT CARE Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2024-07-27 08:01:00</guid>
-      <pubDate>Sat, 27 Jul 2024 08:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
