@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 20:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 20:31:31 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 4:25 pm</title>
+      <description>5800 BLOCK BALLENGER CREEK PIKE, WAWA Radio: 9D Units: ALS31, PE311, EMS901, FS31, 9D, A319</description>
+      <guid isPermaLink="false">2024-07-29 16:25:00</guid>
+      <pubDate>Mon, 29 Jul 2024 16:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:50 pm</title>
       <description>RT15 / BASFORD RD, RT15 / BASFORD RD Units: A209, E281</description>
@@ -300,12 +306,6 @@
       <description>2200 BLOCK BEAR DEN RD, Apt/Unit:204, PARK PLACE III WORMANS MILL Units: E111, E291, Q11, FS29</description>
       <guid isPermaLink="false">2024-07-27 21:21:00</guid>
       <pubDate>Sat, 27 Jul 2024 21:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:19 pm</title>
-      <description>5800 BLOCK BARTS WAY Units: E331, FS33</description>
-      <guid isPermaLink="false">2024-07-27 21:19:00</guid>
-      <pubDate>Sat, 27 Jul 2024 21:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
