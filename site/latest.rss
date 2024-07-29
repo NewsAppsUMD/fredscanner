@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 17:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 17:24:18 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 1:20 pm</title>
+      <description>1700 BLOCK WHEYFIELD DR Radio: 9C Units: FS11, 9C, E111</description>
+      <guid isPermaLink="false">2024-07-29 13:20:00</guid>
+      <pubDate>Mon, 29 Jul 2024 13:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:07 pm</title>
       <description>URBANA PIKE / GROVE RD Units: A39, E31</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS Units: TW1</description>
       <guid isPermaLink="false">2024-07-27 18:54:00</guid>
       <pubDate>Sat, 27 Jul 2024 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:01 pm</title>
-      <description>4900 BLOCK MACDONOUGH PL Units: A318, PE311</description>
-      <guid isPermaLink="false">2024-07-27 18:01:00</guid>
-      <pubDate>Sat, 27 Jul 2024 18:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
