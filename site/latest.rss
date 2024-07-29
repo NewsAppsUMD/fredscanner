@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jul 2024 05:51:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 06:02:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:52 am</title>
+      <description>10200 BLOCK SCULPIN ST Units: T4, FS15, E331</description>
+      <guid isPermaLink="false">2024-07-29 01:52:00</guid>
+      <pubDate>Mon, 29 Jul 2024 01:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:05 pm</title>
       <description>9500 BLOCK ROCKY RIDGE RD Radio: 9C Units: BR136, 9C, FS13</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK BUSH CREEK DR Radio: 9C Units: E231, FS23, 9C</description>
       <guid isPermaLink="false">2024-07-26 18:16:00</guid>
       <pubDate>Fri, 26 Jul 2024 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:14 pm</title>
-      <description>6200 BLOCK DAVINCI ST Radio: 9C Units: PE311, TW1, 9C</description>
-      <guid isPermaLink="false">2024-07-26 17:14:00</guid>
-      <pubDate>Fri, 26 Jul 2024 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
