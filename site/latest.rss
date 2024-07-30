@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 22:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 22:41:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:35 pm</title>
+      <description>100 BLOCK E SOUTH ST Units: E31, T4</description>
+      <guid isPermaLink="false">2024-07-30 18:35:00</guid>
+      <pubDate>Tue, 30 Jul 2024 18:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 5:24 pm</title>
       <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:M, HAMPTON COURT CONDOS Radio: 9C Units: FS33, 9C, R3, T4</description>
@@ -300,12 +306,6 @@
       <description>I270NB / RT80, I270NB / RT80 Units: R3, A259, PRE709, PE311, TT23, A318, ALS23, BC901, EMS901, FS23</description>
       <guid isPermaLink="false">2024-07-28 01:51:00</guid>
       <pubDate>Sun, 28 Jul 2024 01:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:46 pm</title>
-      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Units: E11, Q11, FS11, E111</description>
-      <guid isPermaLink="false">2024-07-27 23:46:00</guid>
-      <pubDate>Sat, 27 Jul 2024 23:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
