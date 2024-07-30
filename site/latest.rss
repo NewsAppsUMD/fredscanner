@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jul 2024 23:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 23:14:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:09 pm</title>
+      <description>1800 BLOCK MONOCACY VIEW CIR, Apt/Unit:A Units: FS11, E111, TW1</description>
+      <guid isPermaLink="false">2024-07-30 19:09:00</guid>
+      <pubDate>Tue, 30 Jul 2024 19:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 7:00 pm</title>
+      <description>WHEYFIELD DR / WILLOW GROVE ALY Units: FS11, BR116</description>
+      <guid isPermaLink="false">2024-07-30 19:00:00</guid>
+      <pubDate>Tue, 30 Jul 2024 19:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ALARM: 7:00 pm</title>
+      <description>1900 BLOCK N MARKET ST, Bldg:1162 Radio: 9C Units: 9C, BC950, Q11, HM50, PE23</description>
+      <guid isPermaLink="false">2024-07-30 19:00:00</guid>
+      <pubDate>Tue, 30 Jul 2024 19:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 6:59 pm</title>
+      <description>1900 BLOCK N MARKET ST, Bldg:1162 Radio: 9C Units: 9C, BC950, PE23</description>
+      <guid isPermaLink="false">2024-07-30 18:59:00</guid>
+      <pubDate>Tue, 30 Jul 2024 18:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:35 pm</title>
       <description>100 BLOCK E SOUTH ST Units: E31, T4</description>
@@ -282,30 +306,6 @@
       <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: R8, A129, A89, ALS8, BC903, EMS902, FS12, E121, WCE162, 9D</description>
       <guid isPermaLink="false">2024-07-28 07:33:00</guid>
       <pubDate>Sun, 28 Jul 2024 07:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:59 am</title>
-      <description>4000 BLOCK PETERSVILLE RD Radio: 9B Units: FS05, A198, RE52, 9B</description>
-      <guid isPermaLink="false">2024-07-28 06:59:00</guid>
-      <pubDate>Sun, 28 Jul 2024 06:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:31 am</title>
-      <description>500 BLOCK RAMBLING SUNSET CIR Units: E152</description>
-      <guid isPermaLink="false">2024-07-28 05:31:00</guid>
-      <pubDate>Sun, 28 Jul 2024 05:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:34 am</title>
-      <description>OLD BOHN RD / WOODVILLE RD Units: CCA19, E152, CCE12</description>
-      <guid isPermaLink="false">2024-07-28 03:34:00</guid>
-      <pubDate>Sun, 28 Jul 2024 03:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:51 am</title>
-      <description>I270NB / RT80, I270NB / RT80 Units: R3, A259, PRE709, PE311, TT23, A318, ALS23, BC901, EMS901, FS23</description>
-      <guid isPermaLink="false">2024-07-28 01:51:00</guid>
-      <pubDate>Sun, 28 Jul 2024 01:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
