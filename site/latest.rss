@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Jul 2024 19:41:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 19:51:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:40 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: E72, TW1, 9C</description>
+      <guid isPermaLink="false">2024-07-31 15:40:00</guid>
+      <pubDate>Wed, 31 Jul 2024 15:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:38 pm</title>
       <description>100 BLOCK THOMAS JOHNSON DR, PNC BANK Radio: 9C Units: E291, T50, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>YEAGERTOWN RD / BOYERS MILL RD, QUARTER OF A MILE Radio: 9C Units: BR156, FS15, 9C</description>
       <guid isPermaLink="false">2024-07-28 13:50:00</guid>
       <pubDate>Sun, 28 Jul 2024 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:39 pm</title>
-      <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231, FS23, 9C</description>
-      <guid isPermaLink="false">2024-07-28 13:39:00</guid>
-      <pubDate>Sun, 28 Jul 2024 13:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
