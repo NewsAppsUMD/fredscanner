@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 20:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 20:24:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
+      <description>I70WB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2024-08-01 16:12:00</guid>
+      <pubDate>Thu, 01 Aug 2024 16:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
       <description>400 BLOCK PROSPECT BLVD, Bldg:L, CORPORATE OHS Radio: 9C Units: 9C, E12, T4</description>
@@ -300,12 +306,6 @@
       <description>FISHING CREEK RD / HAMBURG RD Radio: 9I Units: E121, ALS8, E212, EMS902, RE74, E501, R8, EMSUTV50, A89, BC903, SAF901, 9I, E12, U50</description>
       <guid isPermaLink="false">2024-07-29 10:57:00</guid>
       <pubDate>Mon, 29 Jul 2024 10:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 10:51 am</title>
-      <description>FISHING CREEK RD / HAMBURG RD Radio: 9I Units: ALS8, E212, EMS902, RE74, E501, R8, EMSUTV50, A89, BC903, SAF901, 9I, E12</description>
-      <guid isPermaLink="false">2024-07-29 10:51:00</guid>
-      <pubDate>Mon, 29 Jul 2024 10:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
