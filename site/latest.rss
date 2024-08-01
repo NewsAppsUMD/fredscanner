@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 17:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 17:14:54 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 1:07 pm</title>
+      <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: 9C, E12, E291, T50</description>
+      <guid isPermaLink="false">2024-08-01 13:07:00</guid>
+      <pubDate>Thu, 01 Aug 2024 13:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:38 pm</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, IRON MOUNTAIN Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK N CLIFTON CT Units: E121, FS12</description>
       <guid isPermaLink="false">2024-07-29 09:54:00</guid>
       <pubDate>Mon, 29 Jul 2024 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:44 am</title>
-      <description>9600 BLOCK DOCTOR PERRY RD, SUGARLOAF BUSINESS CENTER Units: PRE709, TT23, FS23</description>
-      <guid isPermaLink="false">2024-07-29 09:44:00</guid>
-      <pubDate>Mon, 29 Jul 2024 09:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
