@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Aug 2024 01:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 01:43:00 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:36 pm</title>
+      <description>8500 BLOCK DOLLYHYDE RD, Apt/Unit:A Radio: 9C Units: 9C, E172, FS17</description>
+      <guid isPermaLink="false">2024-07-31 21:36:00</guid>
+      <pubDate>Wed, 31 Jul 2024 21:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:34 pm</title>
+      <description>LIBERTY RD / WORMANS MILL RD Radio: 9B Units: A249, E111, FS29, 9B, A248</description>
+      <guid isPermaLink="false">2024-07-31 21:34:00</guid>
+      <pubDate>Wed, 31 Jul 2024 21:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:23 pm</title>
       <description>14900 BLOCK SIXES BRIDGE RD Radio: 9C Units: E132, FS13, 9C</description>
@@ -294,18 +306,6 @@
       <description>10200 BLOCK SCULPIN ST Units: T4, FS15, E331</description>
       <guid isPermaLink="false">2024-07-29 01:52:00</guid>
       <pubDate>Mon, 29 Jul 2024 01:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:05 pm</title>
-      <description>9500 BLOCK ROCKY RIDGE RD Radio: 9C Units: BR136, 9C, FS13</description>
-      <guid isPermaLink="false">2024-07-28 17:05:00</guid>
-      <pubDate>Sun, 28 Jul 2024 17:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:51 pm</title>
-      <description>3300 BLOCK WORTHINGTON BLVD, CVS PHARMACY Radio: 9C Units: BR235, FS23, 9C</description>
-      <guid isPermaLink="false">2024-07-28 16:51:00</guid>
-      <pubDate>Sun, 28 Jul 2024 16:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
