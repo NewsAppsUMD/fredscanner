@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Aug 2024 21:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 22:02:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:57 pm</title>
+      <description>100 BLOCK FREDERICK HEALTH WAY, FREDERICK HEALTH VILLAGE Units: EMS902, ALS29, FS29, A299, E291</description>
+      <guid isPermaLink="false">2024-08-02 17:57:00</guid>
+      <pubDate>Fri, 02 Aug 2024 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:55 pm</title>
+      <description>100 BLOCK FREDERICK HEALTH WAY, FREDERICK HEALTH VILLAGE Units: A299, E291</description>
+      <guid isPermaLink="false">2024-08-02 17:55:00</guid>
+      <pubDate>Fri, 02 Aug 2024 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:49 pm</title>
+      <description>S JEFFERSON ST / JEFF ST BRIDGE @ RT15 HWY Units: E31, E12, R3, A39, A18</description>
+      <guid isPermaLink="false">2024-08-02 17:49:00</guid>
+      <pubDate>Fri, 02 Aug 2024 17:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
       <description>RT194 / RT550, RT194 / RT550 Units: A169, E162</description>
@@ -288,24 +306,6 @@
       <description>1100 BLOCK ORCHARD TER, Bldg:B, HILLCREST COMMONS Units: E12, T4</description>
       <guid isPermaLink="false">2024-07-30 21:38:00</guid>
       <pubDate>Tue, 30 Jul 2024 21:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:22 pm</title>
-      <description>13700 BLOCK BLYTHEDALE DR Units: CCE12, E152, R15, CCK1, FS15</description>
-      <guid isPermaLink="false">2024-07-30 19:22:00</guid>
-      <pubDate>Tue, 30 Jul 2024 19:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:09 pm</title>
-      <description>1800 BLOCK MONOCACY VIEW CIR, Apt/Unit:A Units: FS11, E111, TW1</description>
-      <guid isPermaLink="false">2024-07-30 19:09:00</guid>
-      <pubDate>Tue, 30 Jul 2024 19:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:00 pm</title>
-      <description>WHEYFIELD DR / WILLOW GROVE ALY Units: FS11, BR116</description>
-      <guid isPermaLink="false">2024-07-30 19:00:00</guid>
-      <pubDate>Tue, 30 Jul 2024 19:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
