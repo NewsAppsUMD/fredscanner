@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 12:54:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 13:02:37 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 8:54 am</title>
+      <description>GREEN VALLEY RD / BALDWIN RD Radio: 9D Units: E331, FS15, 9D</description>
+      <guid isPermaLink="false">2024-08-03 08:54:00</guid>
+      <pubDate>Sat, 03 Aug 2024 08:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:45 am</title>
       <description>GREEN VALLEY RD / BALDWIN RD Radio: 9D Units: A259, R15, ALS17, E152, EMS901, 9D</description>
@@ -300,12 +306,6 @@
       <description>10800 BLOCK GAMBRILL PARK RD Radio: 9C Units: E82, E212, FS21, 9C</description>
       <guid isPermaLink="false">2024-08-01 14:32:00</guid>
       <pubDate>Thu, 01 Aug 2024 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:07 pm</title>
-      <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: 9C, E12, E291, T50</description>
-      <guid isPermaLink="false">2024-08-01 13:07:00</guid>
-      <pubDate>Thu, 01 Aug 2024 13:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
