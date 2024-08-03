@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 16:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 17:02:08 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:49 pm</title>
+      <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD Units: PE23, FS02</description>
+      <guid isPermaLink="false">2024-08-03 12:49:00</guid>
+      <pubDate>Sat, 03 Aug 2024 12:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 11:44 am</title>
       <description>BILL MOXLEY RD / BARTHOLOWS RD Radio: 9D Units: A259, 9D, PE713, E251, EMS901</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 38MM Units: E82</description>
       <guid isPermaLink="false">2024-08-01 16:12:00</guid>
       <pubDate>Thu, 01 Aug 2024 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
-      <description>400 BLOCK PROSPECT BLVD, Bldg:L, CORPORATE OHS Radio: 9C Units: 9C, E12, T4</description>
-      <guid isPermaLink="false">2024-08-01 16:08:00</guid>
-      <pubDate>Thu, 01 Aug 2024 16:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
