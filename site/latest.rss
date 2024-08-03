@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 04:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 04:14:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:08 am</title>
+      <description>3300 BLOCK CENTENNIAL WAY, Bldg:5, URBAN GREEN APARTMENTS Radio: 9C Units: E231, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-08-03 00:08:00</guid>
+      <pubDate>Sat, 03 Aug 2024 00:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:18 pm</title>
       <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Units: TW1, FS20, E201</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9B Units: A319, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2024-08-01 12:05:00</guid>
       <pubDate>Thu, 01 Aug 2024 12:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:44 am</title>
-      <description>400 BLOCK PROSPECT BLVD, Bldg:C, Apt/Unit:50B, STREET SAFE Radio: 9C Units: BC902, SAF901, T4, 9C, HM33, HMSU33, A18, ALS4, BC901, E31, E12</description>
-      <guid isPermaLink="false">2024-08-01 11:44:00</guid>
-      <pubDate>Thu, 01 Aug 2024 11:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
