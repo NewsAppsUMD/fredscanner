@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 07:14:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 07:21:58 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:12 am</title>
+      <description>SOUDER RD / NINTH AVE Radio: 9B Units: R19, A198, A196, E51, FS05, 9B</description>
+      <guid isPermaLink="false">2024-08-03 03:12:00</guid>
+      <pubDate>Sat, 03 Aug 2024 03:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:08 am</title>
       <description>3300 BLOCK CENTENNIAL WAY, Bldg:5, URBAN GREEN APARTMENTS Radio: 9C Units: E231, TT23, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>11300 BLOCK DAYSVILLE RD Radio: 9C Units: BR176, FS17, 9C</description>
       <guid isPermaLink="false">2024-08-01 12:15:00</guid>
       <pubDate>Thu, 01 Aug 2024 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:05 pm</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9B Units: A319, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2024-08-01 12:05:00</guid>
-      <pubDate>Thu, 01 Aug 2024 12:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
