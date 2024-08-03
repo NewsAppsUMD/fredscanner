@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 21:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 21:14:23 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:10 pm</title>
+      <description>15200 BLOCK SHANNON DALE RD Units: T5, E51</description>
+      <guid isPermaLink="false">2024-08-03 17:10:00</guid>
+      <pubDate>Sat, 03 Aug 2024 17:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 5:02 pm</title>
+      <description>15200 BLOCK SHANNON DALE RD Units: T5</description>
+      <guid isPermaLink="false">2024-08-03 17:02:00</guid>
+      <pubDate>Sat, 03 Aug 2024 17:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:02 pm</title>
+      <description>5000 BLOCK DOUBS RD Units: BR145, FS14</description>
+      <guid isPermaLink="false">2024-08-03 17:02:00</guid>
+      <pubDate>Sat, 03 Aug 2024 17:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:34 pm</title>
       <description>2300 BLOCK PLEASANT VIEW RD Radio: 9C Units: FS14, E141, 9C</description>
@@ -288,24 +306,6 @@
       <description>13300 BLOCK MOSER RD Units: A169, E102</description>
       <guid isPermaLink="false">2024-08-01 23:10:00</guid>
       <pubDate>Thu, 01 Aug 2024 23:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:53 pm</title>
-      <description>YELLOW SPRINGS RD / STONE RIDGE DR Units: E12, A18</description>
-      <guid isPermaLink="false">2024-08-01 20:53:00</guid>
-      <pubDate>Thu, 01 Aug 2024 20:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:25 pm</title>
-      <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Units: A18, E12</description>
-      <guid isPermaLink="false">2024-08-01 20:25:00</guid>
-      <pubDate>Thu, 01 Aug 2024 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 7:31 pm</title>
-      <description>2000 BLOCK WOOD HOLLOW PL, Apt/Unit:107 Units: E12</description>
-      <guid isPermaLink="false">2024-08-01 19:31:00</guid>
-      <pubDate>Thu, 01 Aug 2024 19:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
