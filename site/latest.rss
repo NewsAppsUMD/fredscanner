@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Aug 2024 22:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 23:01:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:56 pm</title>
+      <description>5400 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MULTIPURPOSE Units: PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2024-08-04 18:56:00</guid>
+      <pubDate>Sun, 04 Aug 2024 18:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 6:43 pm</title>
       <description>300 BLOCK FIELDPOINTE BLVD, Bldg:B, Apt/Unit:102 Units: PE23, R3, A39, C3, HM33, E31, BC901</description>
@@ -300,12 +306,6 @@
       <description>NEW WINDSOR RD / CARROLL COUNTY LINE XING Units: CCE81, CCE102, RE171, CCM109, BC901, EMS902</description>
       <guid isPermaLink="false">2024-08-02 20:59:00</guid>
       <pubDate>Fri, 02 Aug 2024 20:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:54 pm</title>
-      <description>PLANTATION RD / LINGANORE RD Units: FS33, E331</description>
-      <guid isPermaLink="false">2024-08-02 19:54:00</guid>
-      <pubDate>Fri, 02 Aug 2024 19:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
