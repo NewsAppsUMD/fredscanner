@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Aug 2024 01:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 01:35:50 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 8:59 pm</title>
+      <description>10500 BLOCK GREEN VALLEY RD, J BAR W RANCH Radio: 9D Units: A179, FS17, 9D, ALS17, E172, EMS902</description>
+      <guid isPermaLink="false">2024-08-03 20:59:00</guid>
+      <pubDate>Sat, 03 Aug 2024 20:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:26 pm</title>
       <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9C Units: E61, TW6, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E FIFTH ST, LABORING SONS MEMORIAL PARK Radio: 9C Units: PE23, FS02, 9C</description>
       <guid isPermaLink="false">2024-08-02 08:54:00</guid>
       <pubDate>Fri, 02 Aug 2024 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING: 12:55 am</title>
-      <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL Radio: 9B Units: EMS901, ALS4, E31, A39, 9B</description>
-      <guid isPermaLink="false">2024-08-02 00:55:00</guid>
-      <pubDate>Fri, 02 Aug 2024 00:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
