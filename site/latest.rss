@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Aug 2024 22:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 22:41:35 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 6:38 pm</title>
+      <description>300 BLOCK FIELDPOINTE BLVD, Bldg:B, Apt/Unit:102 Units: PE23, R3, E31</description>
+      <guid isPermaLink="false">2024-08-04 18:38:00</guid>
+      <pubDate>Sun, 04 Aug 2024 18:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 6:24 pm</title>
       <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Units: A735, ALS23, E231, PRE709, TT23, R729, A239, BC902, EMS901, R3</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK HAMPTON PL Radio: 9C Units: E111, FS11, 9C</description>
       <guid isPermaLink="false">2024-08-02 18:50:00</guid>
       <pubDate>Fri, 02 Aug 2024 18:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:45 pm</title>
-      <description>I270NB / 29MM, I270NB / 29MM Units: FS23, E12, E231, R3, A239, A39</description>
-      <guid isPermaLink="false">2024-08-02 18:45:00</guid>
-      <pubDate>Fri, 02 Aug 2024 18:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
