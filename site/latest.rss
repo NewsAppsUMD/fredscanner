@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Aug 2024 18:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 19:02:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:50 pm</title>
+      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Radio: 9C Units: T50, 9C, E11</description>
+      <guid isPermaLink="false">2024-08-04 14:50:00</guid>
+      <pubDate>Sun, 04 Aug 2024 14:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHTNING STRIKE - OUTSIDE: 2:23 pm</title>
       <description>I70EB / 58MM, I70EB / 58MM Radio: 9C Units: E31, FS33, 9C, BR156</description>
@@ -300,12 +306,6 @@
       <description>MEADOWBROOKE DR / OPOSSUMTOWN PIKE, Apt/Unit:IAO, MIDDLE OF FIELD Radio: 9C Units: FS29, 9C, E291</description>
       <guid isPermaLink="false">2024-08-02 18:21:00</guid>
       <pubDate>Fri, 02 Aug 2024 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:57 pm</title>
-      <description>100 BLOCK FREDERICK HEALTH WAY, FREDERICK HEALTH VILLAGE Units: EMS902, ALS29, FS29, A299, E291</description>
-      <guid isPermaLink="false">2024-08-02 17:57:00</guid>
-      <pubDate>Fri, 02 Aug 2024 17:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
