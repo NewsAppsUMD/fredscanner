@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 16:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 16:51:30 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:42 pm</title>
+      <description>100 BLOCK E SIXTH ST Radio: 9B Units: E23, FS02, 9B</description>
+      <guid isPermaLink="false">2024-08-05 12:42:00</guid>
+      <pubDate>Mon, 05 Aug 2024 12:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:29 am</title>
       <description>100 BLOCK W POTOMAC ST, Apt/Unit:ST 102 Radio: 9C Units: E201, C5B, E612, T5, 9C</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK TARRINGTON CT Radio: 9C Units: TW1, 9C, PE311</description>
       <guid isPermaLink="false">2024-08-03 10:10:00</guid>
       <pubDate>Sat, 03 Aug 2024 10:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:32 am</title>
-      <description>500 BLOCK OLD STAGE RD Radio: 9C Units: E12, 9C</description>
-      <guid isPermaLink="false">2024-08-03 09:32:00</guid>
-      <pubDate>Sat, 03 Aug 2024 09:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
