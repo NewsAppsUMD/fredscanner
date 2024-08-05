@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 22:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 22:51:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:47 pm</title>
+      <description>OLD BARTHOLOWS RD / BARTHOLOWS RD Units: A259, E251</description>
+      <guid isPermaLink="false">2024-08-05 18:47:00</guid>
+      <pubDate>Mon, 05 Aug 2024 18:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:46 pm</title>
       <description>KEY PKWY / BEL AIRE LN Units: E11, A19</description>
@@ -300,12 +306,6 @@
       <description>2300 BLOCK PLEASANT VIEW RD Radio: 9C Units: FS14, E141, 9C</description>
       <guid isPermaLink="false">2024-08-03 15:34:00</guid>
       <pubDate>Sat, 03 Aug 2024 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:31 pm</title>
-      <description>5800 BLOCK ADAMSTOWN RD Radio: 9C Units: BR145, FS14, 9C</description>
-      <guid isPermaLink="false">2024-08-03 15:31:00</guid>
-      <pubDate>Sat, 03 Aug 2024 15:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
