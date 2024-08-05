@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Aug 2024 15:24:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 15:31:33 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:23 am</title>
+      <description>100 BLOCK W POTOMAC ST, Apt/Unit:ST 102 Radio: 9C Units: E612, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2024-08-05 11:23:00</guid>
+      <pubDate>Mon, 05 Aug 2024 11:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:52 am</title>
       <description>7100 BLOCK STARMOUNT CT Radio: 9C Units: 9C, FS15, E111</description>
@@ -300,12 +306,6 @@
       <description>GREEN VALLEY RD / BALDWIN RD Radio: 9D Units: E331, FS15, 9D</description>
       <guid isPermaLink="false">2024-08-03 08:54:00</guid>
       <pubDate>Sat, 03 Aug 2024 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:45 am</title>
-      <description>GREEN VALLEY RD / BALDWIN RD Radio: 9D Units: A259, R15, ALS17, E152, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-08-03 08:45:00</guid>
-      <pubDate>Sat, 03 Aug 2024 08:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
