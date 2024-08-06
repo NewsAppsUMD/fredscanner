@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 03:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 03:14:57 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:05 pm</title>
+      <description>12700 BLOCK DAVIS CT Units: E251, FS25</description>
+      <guid isPermaLink="false">2024-08-05 23:05:00</guid>
+      <pubDate>Mon, 05 Aug 2024 23:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 8:43 pm</title>
       <description>6900 BLOCK BRIGHTON CT, Apt/Unit:APT 105, KINGSCREST APTS Radio: 9D Units: A39, PE311, EMS901, FS31, 9D, ALS31</description>
@@ -298,12 +304,6 @@
     <item>
       <title>MUTUAL AID: 5:02 pm</title>
       <description>15200 BLOCK SHANNON DALE RD Units: T5</description>
-      <guid isPermaLink="false">2024-08-03 17:02:00</guid>
-      <pubDate>Sat, 03 Aug 2024 17:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:02 pm</title>
-      <description>5000 BLOCK DOUBS RD Units: BR145, FS14</description>
       <guid isPermaLink="false">2024-08-03 17:02:00</guid>
       <pubDate>Sat, 03 Aug 2024 17:02:00 -0400</pubDate>
     </item>
