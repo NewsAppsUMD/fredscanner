@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 10:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 11:01:47 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 6:52 am</title>
+      <description>5600 BLOCK GLENROCK DR Radio: 9C Units: E31, FS31, 9C</description>
+      <guid isPermaLink="false">2024-08-06 06:52:00</guid>
+      <pubDate>Tue, 06 Aug 2024 06:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 6:50 am</title>
+      <description>20900 BLOCK SAN MAR RD Radio: TAC1OPS Units: R8, TAC1OPS</description>
+      <guid isPermaLink="false">2024-08-06 06:50:00</guid>
+      <pubDate>Tue, 06 Aug 2024 06:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:23 am</title>
       <description>5600 BLOCK CRABAPPLE DR Radio: 9C Units: FS31, 9C, PE311</description>
@@ -294,18 +306,6 @@
       <description>10500 BLOCK GREEN VALLEY RD, J BAR W RANCH Radio: 9D Units: A179, FS17, 9D, ALS17, E172, EMS902</description>
       <guid isPermaLink="false">2024-08-03 20:59:00</guid>
       <pubDate>Sat, 03 Aug 2024 20:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:26 pm</title>
-      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2024-08-03 20:26:00</guid>
-      <pubDate>Sat, 03 Aug 2024 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 5:22 pm</title>
-      <description>3700 BLOCK SINGLETON TER Radio: 9C Units: E251, FS23, 9C, E231, TT23</description>
-      <guid isPermaLink="false">2024-08-03 17:22:00</guid>
-      <pubDate>Sat, 03 Aug 2024 17:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
