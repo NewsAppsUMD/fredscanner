@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 11:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 11:14:04 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:12 am</title>
+      <description>19800 BLOCK BEALLSVILLE RD Radio: 7A4 Units: E141, 7A4</description>
+      <guid isPermaLink="false">2024-08-06 07:12:00</guid>
+      <pubDate>Tue, 06 Aug 2024 07:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:08 am</title>
+      <description>9700 BLOCK KEYSVILLE RD, POTOMAC HEALTH CARE Radio: 9C Units: 9C, E61, TW6, FS06</description>
+      <guid isPermaLink="false">2024-08-06 07:08:00</guid>
+      <pubDate>Tue, 06 Aug 2024 07:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR OUTSIDE: 6:52 am</title>
       <description>5600 BLOCK GLENROCK DR Radio: 9C Units: E31, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E MAIN ST, TUSCANYS PIZZA Radio: 9C Units: E61, TW6, FS06, 9C</description>
       <guid isPermaLink="false">2024-08-04 01:31:00</guid>
       <pubDate>Sun, 04 Aug 2024 01:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:42 pm</title>
-      <description>3900 BLOCK SNOW LANE Radio: 6B Units: E51, 6B</description>
-      <guid isPermaLink="false">2024-08-03 22:42:00</guid>
-      <pubDate>Sat, 03 Aug 2024 22:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 8:59 pm</title>
-      <description>10500 BLOCK GREEN VALLEY RD, J BAR W RANCH Radio: 9D Units: A179, FS17, 9D, ALS17, E172, EMS902</description>
-      <guid isPermaLink="false">2024-08-03 20:59:00</guid>
-      <pubDate>Sat, 03 Aug 2024 20:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
