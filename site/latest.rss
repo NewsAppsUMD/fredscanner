@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Aug 2024 13:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 13:19:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:09 am</title>
+      <description>I70WB / QUINN RD, I70WB / QUINN RD Units: E331, E31, R15, A339, A38, FS33</description>
+      <guid isPermaLink="false">2024-08-06 09:09:00</guid>
+      <pubDate>Tue, 06 Aug 2024 09:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:43 am</title>
       <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD Radio: ACEMS2 Units: R6, ACEMS2</description>
@@ -300,12 +306,6 @@
       <description>PARK MILLS RD / URBANA PIKE Radio: 9C Units: E231, FS23, 9C</description>
       <guid isPermaLink="false">2024-08-04 10:14:00</guid>
       <pubDate>Sun, 04 Aug 2024 10:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:37 am</title>
-      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Radio: 9D Units: RE709, R3, A18, A239, ALS2, BC901, EMS901, E11, 9D</description>
-      <guid isPermaLink="false">2024-08-04 09:37:00</guid>
-      <pubDate>Sun, 04 Aug 2024 09:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
