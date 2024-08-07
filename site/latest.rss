@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 23:23:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 23:31:30 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 7:26 pm</title>
+      <description>13000 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: E172, FS15, 9C</description>
+      <guid isPermaLink="false">2024-08-07 19:26:00</guid>
+      <pubDate>Wed, 07 Aug 2024 19:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 6:55 pm</title>
       <description>I70WB / 52MM, I70WB / 52MM IAO Units: E31, PE311</description>
@@ -300,12 +306,6 @@
       <description>OLD BARTHOLOWS RD / BARTHOLOWS RD Units: A259, E251</description>
       <guid isPermaLink="false">2024-08-05 18:47:00</guid>
       <pubDate>Mon, 05 Aug 2024 18:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:46 pm</title>
-      <description>KEY PKWY / BEL AIRE LN Units: E11, A19</description>
-      <guid isPermaLink="false">2024-08-05 16:46:00</guid>
-      <pubDate>Mon, 05 Aug 2024 16:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
