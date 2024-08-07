@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 03:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 03:51:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:42 pm</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: FS23, EMS901, 9D, E231, E11, TT23, R3, A259, A18, ALS23, BC901</description>
+      <guid isPermaLink="false">2024-08-06 23:42:00</guid>
+      <pubDate>Tue, 06 Aug 2024 23:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 11:10 pm</title>
       <description>6100 BLOCK PINE CREST LN Units: E331, FS33, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Units: A735, ALS23, E231, PRE709, TT23, R729, A239, BC902, EMS901</description>
       <guid isPermaLink="false">2024-08-04 18:22:00</guid>
       <pubDate>Sun, 04 Aug 2024 18:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:44 pm</title>
-      <description>5900 BLOCK SHEPHERD LN Radio: 9C Units: E331, 9C, FS33</description>
-      <guid isPermaLink="false">2024-08-04 17:44:00</guid>
-      <pubDate>Sun, 04 Aug 2024 17:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
