@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 14:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 14:14:24 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:01 am</title>
+      <description>5400 BLOCK URBANA PIKE, CURLEAF Radio: 9C Units: R3, PE311, E31, 9C</description>
+      <guid isPermaLink="false">2024-08-07 10:01:00</guid>
+      <pubDate>Wed, 07 Aug 2024 10:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 9:57 am</title>
       <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: TW1, E111, EK114, E291, R24, C11, 9C</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK STARMOUNT CT Radio: 9C Units: 9C, FS15, E111</description>
       <guid isPermaLink="false">2024-08-05 10:52:00</guid>
       <pubDate>Mon, 05 Aug 2024 10:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:07 am</title>
-      <description>5200 BLOCK WESTVIEW DR, FAIRFIELD INN BY MARRIOTT Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-05 09:07:00</guid>
-      <pubDate>Mon, 05 Aug 2024 09:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
