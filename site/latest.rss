@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 14:51:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 15:02:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:57 am</title>
+      <description>8700 BLOCK ROCKY RIDGE RD Radio: 9C Units: E132, E102, R10, EK134, 9C</description>
+      <guid isPermaLink="false">2024-08-07 10:57:00</guid>
+      <pubDate>Wed, 07 Aug 2024 10:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 10:55 am</title>
+      <description>11200 BLOCK WOLFSVILLE RD Radio: 9C Units: E82, BR85, K21, BR216, E212, 9C</description>
+      <guid isPermaLink="false">2024-08-07 10:55:00</guid>
+      <pubDate>Wed, 07 Aug 2024 10:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 10:53 am</title>
+      <description>11200 BLOCK WOLFSVILLE RD Radio: 9C Units: E82, K21, BR216, E212, FS21, 9C</description>
+      <guid isPermaLink="false">2024-08-07 10:53:00</guid>
+      <pubDate>Wed, 07 Aug 2024 10:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:01 am</title>
       <description>5400 BLOCK URBANA PIKE, CURLEAF Radio: 9C Units: R3, PE311, E31, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK E SIXTH ST Radio: 9B Units: E23, FS02, 9B</description>
       <guid isPermaLink="false">2024-08-05 12:42:00</guid>
       <pubDate>Mon, 05 Aug 2024 12:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:29 am</title>
-      <description>100 BLOCK W POTOMAC ST, Apt/Unit:ST 102 Radio: 9C Units: E201, C5B, E612, T5, 9C</description>
-      <guid isPermaLink="false">2024-08-05 11:29:00</guid>
-      <pubDate>Mon, 05 Aug 2024 11:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:23 am</title>
-      <description>100 BLOCK W POTOMAC ST, Apt/Unit:ST 102 Radio: 9C Units: E612, T5, FS05, 9C</description>
-      <guid isPermaLink="false">2024-08-05 11:23:00</guid>
-      <pubDate>Mon, 05 Aug 2024 11:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:52 am</title>
-      <description>7100 BLOCK STARMOUNT CT Radio: 9C Units: 9C, FS15, E111</description>
-      <guid isPermaLink="false">2024-08-05 10:52:00</guid>
-      <pubDate>Mon, 05 Aug 2024 10:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
