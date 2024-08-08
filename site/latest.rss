@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 22:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 22:32:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:28 pm</title>
+      <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Radio: 9B Units: E331, HM33, 9B, A339</description>
+      <guid isPermaLink="false">2024-08-08 18:28:00</guid>
+      <pubDate>Thu, 08 Aug 2024 18:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:08 pm</title>
       <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Units: E152, R15, E331, A159, A339, FS15</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 25MM, I270SB / 25MM Radio: 9B Units: PRE709, 9B, E231, R3, A239, A735, TT23</description>
       <guid isPermaLink="false">2024-08-07 06:14:00</guid>
       <pubDate>Wed, 07 Aug 2024 06:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:12 am</title>
-      <description>I270SB / 25MM, I270SB / 25MM Radio: 9B Units: PRE709, 9B, FS23, E231, R3, A239, A735</description>
-      <guid isPermaLink="false">2024-08-07 06:12:00</guid>
-      <pubDate>Wed, 07 Aug 2024 06:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
