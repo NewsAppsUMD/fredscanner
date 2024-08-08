@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 12:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 12:16:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:03 am</title>
+      <description>RT80 / FLINT HILL RD, RT80 / FLINT HILL RD Units: A239, E231</description>
+      <guid isPermaLink="false">2024-08-08 08:03:00</guid>
+      <pubDate>Thu, 08 Aug 2024 08:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:57 am</title>
       <description>RT15 @ POR ROUNDABOUT HWY / POINT OF ROCKS RD Units: E281, A209, R14, ALS20, EMS901, FIREPOLICE</description>
@@ -300,12 +306,6 @@
       <description>3200 BLOCK BENNETT CREEK AVE, URBANA RETAIL Radio: 9C Units: TT23, FS23, 9C, E231</description>
       <guid isPermaLink="false">2024-08-06 15:27:00</guid>
       <pubDate>Tue, 06 Aug 2024 15:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:17 pm</title>
-      <description>7200 BLOCK MICHAELS MILL RD, BUCKEYSTOWN PARK Radio: 9C Units: BR235, 9C</description>
-      <guid isPermaLink="false">2024-08-06 14:17:00</guid>
-      <pubDate>Tue, 06 Aug 2024 14:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
