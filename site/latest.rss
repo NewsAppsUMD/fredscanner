@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 03:14:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 03:25:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:20 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:CC, ELMWOOD TERRACE APTS Units: E11, T4</description>
+      <guid isPermaLink="false">2024-08-07 23:20:00</guid>
+      <pubDate>Wed, 07 Aug 2024 23:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:16 pm</title>
+      <description>7600 BLOCK DEVILBISS BRIDGE RD, TRACTOR SUPPLY COMPANY Units: E291, Q11, E221, FS22</description>
+      <guid isPermaLink="false">2024-08-07 23:16:00</guid>
+      <pubDate>Wed, 07 Aug 2024 23:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:23 pm</title>
       <description>10900 BLOCK LOUIS DETRICK LN Units: E251, FS25</description>
@@ -294,18 +306,6 @@
       <description>19800 BLOCK BEALLSVILLE RD Radio: 7A4 Units: E141, 7A4</description>
       <guid isPermaLink="false">2024-08-06 07:12:00</guid>
       <pubDate>Tue, 06 Aug 2024 07:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:08 am</title>
-      <description>9700 BLOCK KEYSVILLE RD, POTOMAC HEALTH CARE Radio: 9C Units: 9C, E61, TW6, FS06</description>
-      <guid isPermaLink="false">2024-08-06 07:08:00</guid>
-      <pubDate>Tue, 06 Aug 2024 07:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR OUTSIDE: 6:52 am</title>
-      <description>5600 BLOCK GLENROCK DR Radio: 9C Units: E31, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-06 06:52:00</guid>
-      <pubDate>Tue, 06 Aug 2024 06:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
