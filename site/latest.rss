@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Aug 2024 11:51:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 12:02:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:57 am</title>
+      <description>RT15 @ POR ROUNDABOUT HWY / POINT OF ROCKS RD Units: E281, A209, R14, ALS20, EMS901, FIREPOLICE</description>
+      <guid isPermaLink="false">2024-08-08 07:57:00</guid>
+      <pubDate>Thu, 08 Aug 2024 07:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:52 am</title>
+      <description>I70WB / BUCKEYSTOWN PIKE, I70WB / BUCKEYSTOWN PIKE Units: E31, R3, A39, A38, E11</description>
+      <guid isPermaLink="false">2024-08-08 07:52:00</guid>
+      <pubDate>Thu, 08 Aug 2024 07:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 7:51 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R2, FS02, 9C</description>
+      <guid isPermaLink="false">2024-08-08 07:51:00</guid>
+      <pubDate>Thu, 08 Aug 2024 07:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:25 am</title>
       <description>100 BLOCK E PATRICK ST, C BURR ARTZ LIBRARY Radio: 9C Units: E31, 9C, T4</description>
@@ -288,24 +306,6 @@
       <description>7200 BLOCK MICHAELS MILL RD, BUCKEYSTOWN PARK Radio: 9C Units: BR235, 9C</description>
       <guid isPermaLink="false">2024-08-06 14:17:00</guid>
       <pubDate>Tue, 06 Aug 2024 14:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:15 pm</title>
-      <description>BUCKEYSTOWN PIKE / PAPRIKA CT Units: E141, FS14</description>
-      <guid isPermaLink="false">2024-08-06 14:15:00</guid>
-      <pubDate>Tue, 06 Aug 2024 14:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:14 pm</title>
-      <description>3400 BLOCK BUCKEYSTOWN PIKE, MAYNES TREE FARM Radio: 9C Units: FS14, BR145, 9C</description>
-      <guid isPermaLink="false">2024-08-06 14:14:00</guid>
-      <pubDate>Tue, 06 Aug 2024 14:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:52 am</title>
-      <description>I70WB / E PATRICK ST(RT144), I70WB / RT355 Units: E331, E31, R3, A339, A39, FS33</description>
-      <guid isPermaLink="false">2024-08-06 10:52:00</guid>
-      <pubDate>Tue, 06 Aug 2024 10:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
