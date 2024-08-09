@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Aug 2024 18:28:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 18:37:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:29 pm</title>
+      <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Units: R3, A39, A19, E33, E11</description>
+      <guid isPermaLink="false">2024-08-09 14:29:00</guid>
+      <pubDate>Fri, 09 Aug 2024 14:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 1:08 pm</title>
       <description>4600 BLOCK BARTHOLOWS RD Radio: 9C Units: E251, FS25, 9C</description>
@@ -300,12 +306,6 @@
       <description>DAYSVILLE RD / HARP RD Radio: 9C Units: FS17, 9C, BR176</description>
       <guid isPermaLink="false">2024-08-08 09:14:00</guid>
       <pubDate>Thu, 08 Aug 2024 09:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:55 am</title>
-      <description>4900 BLOCK EDGEWARE TER Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-08 08:55:00</guid>
-      <pubDate>Thu, 08 Aug 2024 08:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
