@@ -6,7 +6,67 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Aug 2024 13:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 13:20:01 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:56 am</title>
+      <description>6600 BLOCK EYLERS VALLEY FLINT RD Units: BR106, FS10</description>
+      <guid isPermaLink="false">2024-08-09 08:56:00</guid>
+      <pubDate>Fri, 09 Aug 2024 08:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:46 am</title>
+      <description>6400 BLOCK QUINN RD Radio: 9C Units: FS33, E33, 9C, T4</description>
+      <guid isPermaLink="false">2024-08-09 08:46:00</guid>
+      <pubDate>Fri, 09 Aug 2024 08:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:09 am</title>
+      <description>I70WB / 68MM, I70WB / 68MM Units: R15, E251, CCR1, A259, HCE41, CCA18</description>
+      <guid isPermaLink="false">2024-08-09 08:09:00</guid>
+      <pubDate>Fri, 09 Aug 2024 08:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:05 am</title>
+      <description>I70WB / 68MM, I70WB / 68MM Units: E251, CCR1, A259, HCE41, CCA18</description>
+      <guid isPermaLink="false">2024-08-09 08:05:00</guid>
+      <pubDate>Fri, 09 Aug 2024 08:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:53 am</title>
+      <description>4900 BLOCK JACK LINTON DR N Radio: 9C Units: PE311, TW1, FS31, 9C</description>
+      <guid isPermaLink="false">2024-08-09 07:53:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:51 am</title>
+      <description>FLINT HILL RD / PARK MILLS RD Radio: 9C Units: 9C, BR235, FS23</description>
+      <guid isPermaLink="false">2024-08-09 07:51:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:40 am</title>
+      <description>1000 BLOCK REAGANS RD Radio: 9C Units: 9C, E291, TW1, FS29</description>
+      <guid isPermaLink="false">2024-08-09 07:40:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:17 am</title>
+      <description>WOODVILLE RD / OLD NATIONAL PIKE Units: BR156, FS15</description>
+      <guid isPermaLink="false">2024-08-09 07:17:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 7:04 am</title>
+      <description>13700 BLOCK PRYOR RD Radio: 9C Units: BR106, FS10, 9C</description>
+      <guid isPermaLink="false">2024-08-09 07:04:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD OUTSIDE: 7:00 am</title>
+      <description>5200 BLOCK REELS MILL RD Radio: 9C Units: E331, 9C</description>
+      <guid isPermaLink="false">2024-08-09 07:00:00</guid>
+      <pubDate>Fri, 09 Aug 2024 07:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:19 am</title>
       <description>300 BLOCK N DELAWARE AVE Units: FS05, BR55</description>
@@ -246,66 +306,6 @@
       <description>8200 BLOCK BALL RD Radio: 9C Units: E231, FS23, 9C</description>
       <guid isPermaLink="false">2024-08-08 03:11:00</guid>
       <pubDate>Thu, 08 Aug 2024 03:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:14 am</title>
-      <description>5200 BLOCK WESTVIEW DR, RESIDENCE INN Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-08 00:14:00</guid>
-      <pubDate>Thu, 08 Aug 2024 00:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 12:13 am</title>
-      <description>400 BLOCK CARROLLTON DR Radio: 9C Units: 9C, E31</description>
-      <guid isPermaLink="false">2024-08-08 00:13:00</guid>
-      <pubDate>Thu, 08 Aug 2024 00:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:20 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:CC, ELMWOOD TERRACE APTS Units: E11, T4</description>
-      <guid isPermaLink="false">2024-08-07 23:20:00</guid>
-      <pubDate>Wed, 07 Aug 2024 23:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:16 pm</title>
-      <description>7600 BLOCK DEVILBISS BRIDGE RD, TRACTOR SUPPLY COMPANY Units: E291, Q11, E221, FS22</description>
-      <guid isPermaLink="false">2024-08-07 23:16:00</guid>
-      <pubDate>Wed, 07 Aug 2024 23:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:23 pm</title>
-      <description>10900 BLOCK LOUIS DETRICK LN Units: E251, FS25</description>
-      <guid isPermaLink="false">2024-08-07 22:23:00</guid>
-      <pubDate>Wed, 07 Aug 2024 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:04 pm</title>
-      <description>500 BLOCK HIGHLAND ST, HIGHLAND TECHNOLOGY PARK Units: PE23, T4</description>
-      <guid isPermaLink="false">2024-08-07 21:04:00</guid>
-      <pubDate>Wed, 07 Aug 2024 21:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:53 pm</title>
-      <description>I70EB / 40MM, I70EB / 40MM Radio: 9I Units: E72, R8, WCA751, ALS8, BC903, EMS902, FS08, WCE162, A89, 9I</description>
-      <guid isPermaLink="false">2024-08-07 20:53:00</guid>
-      <pubDate>Wed, 07 Aug 2024 20:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:51 pm</title>
-      <description>I70 / EXIT 52 (RT15-340), I70 / EXIT 52 Radio: 9D Units: E121, E31, FS12, 9D, R3, A129, A39, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2024-08-07 20:51:00</guid>
-      <pubDate>Wed, 07 Aug 2024 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 8:32 pm</title>
-      <description>E THIRD ST / CHAPEL ALY Units: ALS4, EMS902, E31, R3, A39</description>
-      <guid isPermaLink="false">2024-08-07 20:32:00</guid>
-      <pubDate>Wed, 07 Aug 2024 20:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:40 pm</title>
-      <description>100 BLOCK E PATRICK ST, C BURR ARTZ LIBRARY Units: E31, T4</description>
-      <guid isPermaLink="false">2024-08-07 19:40:00</guid>
-      <pubDate>Wed, 07 Aug 2024 19:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
