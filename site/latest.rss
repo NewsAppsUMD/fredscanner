@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Aug 2024 02:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 02:53:39 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 10:46 pm</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: TT23</description>
+      <guid isPermaLink="false">2024-08-09 22:46:00</guid>
+      <pubDate>Fri, 09 Aug 2024 22:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>SHOOTING: 10:29 pm</title>
       <description>3300 BLOCK GALENA DR, URBAN GREEN APARTMENTS OFFICE Units: A239, PRE709, E231, BC901, EMS900, FS23</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD Radio: 9C Units: E291, PE23, HM33, HMSU33, FS02, 9C</description>
       <guid isPermaLink="false">2024-08-09 01:21:00</guid>
       <pubDate>Fri, 09 Aug 2024 01:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 11:15 pm</title>
-      <description>700 BLOCK MOTTER AVE, Apt/Unit:307, CATOCTIN MANOR APTS Radio: 9C Units: PE23, 9C, FS02</description>
-      <guid isPermaLink="false">2024-08-08 23:15:00</guid>
-      <pubDate>Thu, 08 Aug 2024 23:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
