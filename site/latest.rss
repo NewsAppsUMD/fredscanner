@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Aug 2024 16:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 16:15:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:11 pm</title>
+      <description>2400 BLOCK ELLSWORTH WAY, Apt/Unit:3B, LAKE TREE CONDOS Radio: 9C Units: E11, T50, 9C</description>
+      <guid isPermaLink="false">2024-08-10 12:11:00</guid>
+      <pubDate>Sat, 10 Aug 2024 12:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:09 pm</title>
+      <description>500 BLOCK HIGHLAND ST, HIGHLAND TECHNOLOGY PARK Radio: 9C Units: T4, 9C, E33</description>
+      <guid isPermaLink="false">2024-08-10 12:09:00</guid>
+      <pubDate>Sat, 10 Aug 2024 12:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 11:25 am</title>
       <description>MAIN ST / WOODSBORO RD Units: ALS29, EMS902, E162, RE171, A169</description>
@@ -294,18 +306,6 @@
       <description>5200 BLOCK REELS MILL RD Radio: 9C Units: E331, 9C</description>
       <guid isPermaLink="false">2024-08-09 07:00:00</guid>
       <pubDate>Fri, 09 Aug 2024 07:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:19 am</title>
-      <description>300 BLOCK N DELAWARE AVE Units: FS05, BR55</description>
-      <guid isPermaLink="false">2024-08-09 06:19:00</guid>
-      <pubDate>Fri, 09 Aug 2024 06:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:02 am</title>
-      <description>200 BLOCK E MAIN ST Units: E51, T5, WCEK8, E72</description>
-      <guid isPermaLink="false">2024-08-09 06:02:00</guid>
-      <pubDate>Fri, 09 Aug 2024 06:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
