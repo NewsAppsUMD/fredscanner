@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Aug 2024 10:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 11:02:10 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 6:51 am</title>
+      <description>15100 BLOCK NEW WINDSOR RD Radio: 9C Units: CCE102, 9C, E172</description>
+      <guid isPermaLink="false">2024-08-10 06:51:00</guid>
+      <pubDate>Sat, 10 Aug 2024 06:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 5:06 am</title>
       <description>600 BLOCK PROSSER ST Radio: 9C Units: E152, E251, R15, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>8200 BLOCK WATER STREET RD Radio: 9C Units: BR176, 9C, FS17</description>
       <guid isPermaLink="false">2024-08-09 05:48:00</guid>
       <pubDate>Fri, 09 Aug 2024 05:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:56 am</title>
-      <description>7500 BLOCK BLK WOODVILLE RD Radio: 9C Units: BR175, FS17, 9C</description>
-      <guid isPermaLink="false">2024-08-09 04:56:00</guid>
-      <pubDate>Fri, 09 Aug 2024 04:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
