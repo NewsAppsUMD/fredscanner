@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Aug 2024 18:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 18:43:47 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 2:36 pm</title>
+      <description>7600 BLOCK COBLENTZ RD, MIDDLETOWN PARK Radio: 91D Units: 91D, E121</description>
+      <guid isPermaLink="false">2024-08-11 14:36:00</guid>
+      <pubDate>Sun, 11 Aug 2024 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 1:25 pm</title>
       <description>6100 BLOCK SPRING RIDGE PKWY, NEW YORK J&amp;P PIZZA Radio: 9C Units: E331, E33, R3, FS33, 9C</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, T4, 9C</description>
       <guid isPermaLink="false">2024-08-09 18:49:00</guid>
       <pubDate>Fri, 09 Aug 2024 18:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:15 pm</title>
-      <description>16300 BLOCK OLD EMMITSBURG RD, MCCAFERY HALL Radio: 9C Units: R6, FS06, 9C</description>
-      <guid isPermaLink="false">2024-08-09 18:15:00</guid>
-      <pubDate>Fri, 09 Aug 2024 18:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
