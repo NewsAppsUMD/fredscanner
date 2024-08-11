@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Aug 2024 16:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 17:02:01 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 12:56 pm</title>
+      <description>LAT: &lt;39.6047&gt; LONG: &lt;-77.57718&gt; Radio: 9D Units: TR29, WCEMSUTV75, WCA791, WCM792, WCE71, SAF901, 9D, EMS901, WCE3, WCE162, R8, SU21, E212, BC903, ALS29, WCE92, E102, WCE61</description>
+      <guid isPermaLink="false">2024-08-11 12:56:00</guid>
+      <pubDate>Sun, 11 Aug 2024 12:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 12:51 pm</title>
+      <description>7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-08-11 12:51:00</guid>
+      <pubDate>Sun, 11 Aug 2024 12:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 12:47 pm</title>
       <description>LAT: &lt;39.6047&gt; LONG: &lt;-77.57718&gt; Radio: 9D Units: TR29, WCEMSUTV75, WCA791, WCM792, WCE71, SAF901, EMS900, FS21, 9D, WCE3, WCE162, R8, SU21, E212, BC903</description>
@@ -294,18 +306,6 @@
       <description>TIMBER GREEN DR / URBANA PIKE Units: E231, A239</description>
       <guid isPermaLink="false">2024-08-09 18:14:00</guid>
       <pubDate>Fri, 09 Aug 2024 18:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:13 pm</title>
-      <description>5800 BLOCK OAKDALE SCHOOL RD, OAKDALE ELEMENTARY SCHOOL Radio: 9B Units: FS33, E331, T4, 9B</description>
-      <guid isPermaLink="false">2024-08-09 18:13:00</guid>
-      <pubDate>Fri, 09 Aug 2024 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:35 pm</title>
-      <description>BALLENGER CREEK PIKE / DOVER DR Radio: 9C Units: BR145, 9C, FS14</description>
-      <guid isPermaLink="false">2024-08-09 17:35:00</guid>
-      <pubDate>Fri, 09 Aug 2024 17:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
