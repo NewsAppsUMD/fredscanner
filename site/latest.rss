@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Aug 2024 00:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 01:00:28 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:44 pm</title>
+      <description>8300 BLOCK ROCKY RIDGE RD Units: TW6, R6, K10, EK134, A309, ALS30, BC901, E132, E162, E221, E91, E61, R10, BC902, SAF901, K22, E102, K9</description>
+      <guid isPermaLink="false">2024-08-10 20:44:00</guid>
+      <pubDate>Sat, 10 Aug 2024 20:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:42 pm</title>
+      <description>8300 BLOCK ROCKY RIDGE RD Units: TW6, R6, K10, EK134, A309, ALS30, BC901, E132, E162, E221, E91, E61, R10, BC902, SAF901, K22, E102, E111, E172</description>
+      <guid isPermaLink="false">2024-08-10 20:42:00</guid>
+      <pubDate>Sat, 10 Aug 2024 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:36 pm</title>
+      <description>8300 BLOCK ROCKY RIDGE RD Units: TW6, R6, K10, EK134, EK224, A309, ALS30, BC901, E132, E162, E221, E91, E61, R10, BC902, SAF901, E102</description>
+      <guid isPermaLink="false">2024-08-10 20:36:00</guid>
+      <pubDate>Sat, 10 Aug 2024 20:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:38 pm</title>
       <description>BUCKEYSTOWN PIKE / URBANA PIKE Units: A39, R3</description>
@@ -288,24 +306,6 @@
       <description>SCRAVEL RD / PLEASANT WALK RD Radio: 9C Units: 9C, BR216, FS08</description>
       <guid isPermaLink="false">2024-08-09 11:01:00</guid>
       <pubDate>Fri, 09 Aug 2024 11:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:46 am</title>
-      <description>3000 BLOCK FLINT HILL RD Radio: 9C Units: BR235, FS23, 9C</description>
-      <guid isPermaLink="false">2024-08-09 10:46:00</guid>
-      <pubDate>Fri, 09 Aug 2024 10:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:29 am</title>
-      <description>100 BLOCK E MAIN ST Units: E72, R20</description>
-      <guid isPermaLink="false">2024-08-09 10:29:00</guid>
-      <pubDate>Fri, 09 Aug 2024 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:09 am</title>
-      <description>6600 BLOCK PLANTATION RD Units: FS33, BR116</description>
-      <guid isPermaLink="false">2024-08-09 10:09:00</guid>
-      <pubDate>Fri, 09 Aug 2024 10:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
