@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 11:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 11:31:28 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:26 am</title>
+      <description>400 BLOCK MOHICAN DR, IFO Units: A28, PE23, FS02</description>
+      <guid isPermaLink="false">2024-08-12 07:26:00</guid>
+      <pubDate>Mon, 12 Aug 2024 07:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 4:34 am</title>
       <description>5500 BLOCK GOLDEN EAGLE RD Radio: 9C Units: E331, 9C</description>
@@ -300,12 +306,6 @@
       <description>15100 BLOCK NEW WINDSOR RD Radio: 9C Units: CCE102, 9C, E172, HM33, BC901</description>
       <guid isPermaLink="false">2024-08-10 07:01:00</guid>
       <pubDate>Sat, 10 Aug 2024 07:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 6:51 am</title>
-      <description>15100 BLOCK NEW WINDSOR RD Radio: 9C Units: CCE102, 9C, E172</description>
-      <guid isPermaLink="false">2024-08-10 06:51:00</guid>
-      <pubDate>Sat, 10 Aug 2024 06:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
