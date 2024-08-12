@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 22:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 22:51:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:45 pm</title>
+      <description>100 BLOCK FREDERICK RD, MOUNTAIN GATE RESTAURANT Radio: 9C Units: E102, TW6, FS10, 9C</description>
+      <guid isPermaLink="false">2024-08-12 18:45:00</guid>
+      <pubDate>Mon, 12 Aug 2024 18:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 5:50 pm</title>
       <description>3800 BLOCK POINT OF ROCKS RD Radio: 9C Units: E281, 9C, BR285, E201, BR205</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK WHITTIER DR, Bldg:A, SOMERFORD PLACE Radio: 9B Units: 9B, E11</description>
       <guid isPermaLink="false">2024-08-10 14:54:00</guid>
       <pubDate>Sat, 10 Aug 2024 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 2:34 pm</title>
-      <description>SHENANDOAH / RT340 Units: BT19, BT28</description>
-      <guid isPermaLink="false">2024-08-10 14:34:00</guid>
-      <pubDate>Sat, 10 Aug 2024 14:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
