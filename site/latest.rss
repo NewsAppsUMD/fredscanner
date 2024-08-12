@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Aug 2024 04:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 04:26:22 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 12:21 am</title>
+      <description>7700 BLOCK MARKER RD, Apt/Unit:F2 Radio: 9C Units: 9C, E72</description>
+      <guid isPermaLink="false">2024-08-12 00:21:00</guid>
+      <pubDate>Mon, 12 Aug 2024 00:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:04 pm</title>
       <description>W PATRICK ST / GROVE HILL RD, BY THE TRUIST BANK Units: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK PROSSER ST Radio: 9C Units: E152, E251, R15, FS15, 9C</description>
       <guid isPermaLink="false">2024-08-10 05:06:00</guid>
       <pubDate>Sat, 10 Aug 2024 05:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:28 am</title>
-      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS Radio: 9C Units: E111, Q11, FS11, 9C</description>
-      <guid isPermaLink="false">2024-08-10 02:28:00</guid>
-      <pubDate>Sat, 10 Aug 2024 02:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
