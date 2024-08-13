@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 13:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 13:41:28 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 9:38 am</title>
+      <description>SAINT JAMES PL / ALLINGTON MANOR CIR W Units: R3, A149, ALS31, EMS901, PE311</description>
+      <guid isPermaLink="false">2024-08-13 09:38:00</guid>
+      <pubDate>Tue, 13 Aug 2024 09:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 9:23 am</title>
       <description>12700 BLOCK WASHINGTON TOWNSHIP BLVD Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>6100 BLOCK SPRING RIDGE PKWY, NEW YORK J&amp;P PIZZA Radio: 9C Units: E331, E33, R3, FS33, 9C</description>
       <guid isPermaLink="false">2024-08-11 13:25:00</guid>
       <pubDate>Sun, 11 Aug 2024 13:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 12:56 pm</title>
-      <description>LAT: &lt;39.6047&gt; LONG: &lt;-77.57718&gt; Radio: 9D Units: TR29, WCEMSUTV75, WCA791, WCM792, WCE71, SAF901, 9D, EMS901, WCE3, WCE162, R8, SU21, E212, BC903, ALS29, WCE92, E102, WCE61</description>
-      <guid isPermaLink="false">2024-08-11 12:56:00</guid>
-      <pubDate>Sun, 11 Aug 2024 12:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
