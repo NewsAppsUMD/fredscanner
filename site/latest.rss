@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 13:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 13:51:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:39 am</title>
+      <description>2700 BLOCK PARK MILLS RD Units: E231, TT23, FS23</description>
+      <guid isPermaLink="false">2024-08-13 09:39:00</guid>
+      <pubDate>Tue, 13 Aug 2024 09:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 9:38 am</title>
       <description>SAINT JAMES PL / ALLINGTON MANOR CIR W Units: R3, A149, ALS31, EMS901, PE311</description>
@@ -300,12 +306,6 @@
       <description>7600 BLOCK COBLENTZ RD, MIDDLETOWN PARK Radio: 91D Units: 91D, E121</description>
       <guid isPermaLink="false">2024-08-11 14:36:00</guid>
       <pubDate>Sun, 11 Aug 2024 14:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:25 pm</title>
-      <description>6100 BLOCK SPRING RIDGE PKWY, NEW YORK J&amp;P PIZZA Radio: 9C Units: E331, E33, R3, FS33, 9C</description>
-      <guid isPermaLink="false">2024-08-11 13:25:00</guid>
-      <pubDate>Sun, 11 Aug 2024 13:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
