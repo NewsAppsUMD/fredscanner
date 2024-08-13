@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 08:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 08:15:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 4:11 am</title>
+      <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Units: E82, FS08, E72</description>
+      <guid isPermaLink="false">2024-08-13 04:11:00</guid>
+      <pubDate>Tue, 13 Aug 2024 04:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 3:31 am</title>
       <description>1000 BLOCK EASTBOURNE TER Units: A18, ALS2, BC902, BC903, SAF901, E11, E501, PE23, E33, E291, R3, T50, T4</description>
@@ -300,12 +306,6 @@
       <description>8300 BLOCK ROCKY RIDGE RD Units: TW6, R6, K10, EK134, EK224, A309, ALS30, BC901, E132, E162, E221, E91, E61, R10, BC902, SAF901, E102</description>
       <guid isPermaLink="false">2024-08-10 20:36:00</guid>
       <pubDate>Sat, 10 Aug 2024 20:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:38 pm</title>
-      <description>BUCKEYSTOWN PIKE / URBANA PIKE Units: A39, R3</description>
-      <guid isPermaLink="false">2024-08-10 19:38:00</guid>
-      <pubDate>Sat, 10 Aug 2024 19:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
