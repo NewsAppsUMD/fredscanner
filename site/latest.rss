@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 02:36:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 02:48:44 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:40 pm</title>
+      <description>9400 BLOCK CARRIAGE HILL ST Radio: 9C Units: TT23, FS23, 9C, E231, E251</description>
+      <guid isPermaLink="false">2024-08-12 22:40:00</guid>
+      <pubDate>Mon, 12 Aug 2024 22:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:11 pm</title>
       <description>7100 BLOCK KELLYS STORE RD Radio: 9C Units: FS10, 9C, K10, A309, BC902, SAF901, E102, E132, E162, TW6</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 27MM, I270SB / 27MM Radio: 9C Units: PE311, E231, FS31, 9C</description>
       <guid isPermaLink="false">2024-08-10 17:16:00</guid>
       <pubDate>Sat, 10 Aug 2024 17:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:49 pm</title>
-      <description>100 BLOCK W D ST Radio: 9C Units: E51, FS05, 9C</description>
-      <guid isPermaLink="false">2024-08-10 16:49:00</guid>
-      <pubDate>Sat, 10 Aug 2024 16:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
