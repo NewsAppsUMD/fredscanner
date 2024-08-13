@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 12:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 12:16:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
+      <description>OPOSSUMTOWN PIKE / THOMAS JOHNSON DR Units: A299, E291</description>
+      <guid isPermaLink="false">2024-08-13 08:08:00</guid>
+      <pubDate>Tue, 13 Aug 2024 08:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:56 am</title>
       <description>10000 BLOCK PEBBLE BEACH TER Units: FS33, E152</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES Radio: 9C Units: 9C, PE311, TW1, FS31</description>
       <guid isPermaLink="false">2024-08-11 09:53:00</guid>
       <pubDate>Sun, 11 Aug 2024 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:21 am</title>
-      <description>12900 BLOCK FALLING WATER CIRCLE Units: TT23</description>
-      <guid isPermaLink="false">2024-08-11 09:21:00</guid>
-      <pubDate>Sun, 11 Aug 2024 09:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
