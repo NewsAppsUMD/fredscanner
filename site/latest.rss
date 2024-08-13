@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 13:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 13:31:53 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:23 am</title>
+      <description>12700 BLOCK WASHINGTON TOWNSHIP BLVD Units: TW6</description>
+      <guid isPermaLink="false">2024-08-13 09:23:00</guid>
+      <pubDate>Tue, 13 Aug 2024 09:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:23 am</title>
+      <description>FINGERBOARD RD / URBANA PIKE Units: A239, E231</description>
+      <guid isPermaLink="false">2024-08-13 09:23:00</guid>
+      <pubDate>Tue, 13 Aug 2024 09:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:16 am</title>
       <description>600 BLOCK MAGNOLIA AVE Units: E12, R2, FS02</description>
@@ -294,18 +306,6 @@
       <description>LAT: &lt;39.6047&gt; LONG: &lt;-77.57718&gt; Radio: 9D Units: TR29, WCEMSUTV75, WCA791, WCM792, WCE71, SAF901, 9D, EMS901, WCE3, WCE162, R8, SU21, E212, BC903, ALS29, WCE92, E102, WCE61</description>
       <guid isPermaLink="false">2024-08-11 12:56:00</guid>
       <pubDate>Sun, 11 Aug 2024 12:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:51 pm</title>
-      <description>7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-11 12:51:00</guid>
-      <pubDate>Sun, 11 Aug 2024 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 12:47 pm</title>
-      <description>LAT: &lt;39.6047&gt; LONG: &lt;-77.57718&gt; Radio: 9D Units: TR29, WCEMSUTV75, WCA791, WCM792, WCE71, SAF901, EMS900, FS21, 9D, WCE3, WCE162, R8, SU21, E212, BC903</description>
-      <guid isPermaLink="false">2024-08-11 12:47:00</guid>
-      <pubDate>Sun, 11 Aug 2024 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
