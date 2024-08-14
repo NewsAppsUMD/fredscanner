@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:14:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:07 pm</title>
+      <description>25400 BLOCK OLD HUNDRED RD Radio: 9C Units: E231, PRE709, FS23, 9C</description>
+      <guid isPermaLink="false">2024-08-14 17:07:00</guid>
+      <pubDate>Wed, 14 Aug 2024 17:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:18 pm</title>
       <description>11000 BLOCK LIBERTY RD Radio: 9C Units: BR176, FS17, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Units: E82, FS08, E72</description>
       <guid isPermaLink="false">2024-08-13 04:11:00</guid>
       <pubDate>Tue, 13 Aug 2024 04:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:31 am</title>
-      <description>1000 BLOCK EASTBOURNE TER Units: A18, ALS2, BC902, BC903, SAF901, E11, E501, PE23, E33, E291, R3, T50, T4</description>
-      <guid isPermaLink="false">2024-08-13 03:31:00</guid>
-      <pubDate>Tue, 13 Aug 2024 03:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
