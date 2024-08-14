@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 00:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 01:21:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:09 pm</title>
+      <description>700 BLOCK CARROLL PKWY, Bldg:10, PARKVIEW APTS Radio: 9C Units: 9C, E12</description>
+      <guid isPermaLink="false">2024-08-13 21:09:00</guid>
+      <pubDate>Tue, 13 Aug 2024 21:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:08 pm</title>
       <description>RT15SB / PUTMAN RD(LEWISTOWN), RT15SB / PUTMAN RD Units: EK224, A229</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK PROVINCIAL PKWY Radio: 9C Units: ACE232, FS06, 9C, E61, E102, TW6</description>
       <guid isPermaLink="false">2024-08-12 16:51:00</guid>
       <pubDate>Mon, 12 Aug 2024 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:02 pm</title>
-      <description>9300 BLOCK PENROSE ST Radio: 9C Units: 9C, ALS23, BC901, E231, E251, TT23, HM33, HMSU33, A239, SAF901</description>
-      <guid isPermaLink="false">2024-08-12 14:02:00</guid>
-      <pubDate>Mon, 12 Aug 2024 14:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
