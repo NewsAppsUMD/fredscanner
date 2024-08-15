@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 22:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 22:14:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
+      <description>OLD ANNAPOLIS RD / CHESTNUT GROVE RD Units: E172, A179</description>
+      <guid isPermaLink="false">2024-08-15 18:11:00</guid>
+      <pubDate>Thu, 15 Aug 2024 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 3:16 pm</title>
       <description>3700 BLOCK STONE BARN DR Radio: 9C Units: TT23, FS23, 9C, E231, E251</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Units: A318, PE311</description>
       <guid isPermaLink="false">2024-08-13 10:54:00</guid>
       <pubDate>Tue, 13 Aug 2024 10:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:53 am</title>
-      <description>2400 BLOCK LAKESIDE DR Units: E12, E72, E291, E111, BC901, SAF901, A18, ALS29, BC903, E501, R3, TW1, T50</description>
-      <guid isPermaLink="false">2024-08-13 10:53:00</guid>
-      <pubDate>Tue, 13 Aug 2024 10:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
