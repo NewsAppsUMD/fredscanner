@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 18:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 18:28:25 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 2:14 pm</title>
+      <description>100 BLOCK CARROLL CREEK WAY, SOUTH MARKET CENTER Radio: 9C Units: R3, T4, 9C</description>
+      <guid isPermaLink="false">2024-08-15 14:14:00</guid>
+      <pubDate>Thu, 15 Aug 2024 14:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 11:30 am</title>
       <description>12500 BLOCK CATOCTIN FURNACE RD Radio: 9C Units: 9C, FS10, BR226</description>
@@ -298,12 +304,6 @@
     <item>
       <title>BUILDING FIRE: 9:23 am</title>
       <description>12700 BLOCK WASHINGTON TOWNSHIP BLVD Units: TW6</description>
-      <guid isPermaLink="false">2024-08-13 09:23:00</guid>
-      <pubDate>Tue, 13 Aug 2024 09:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:23 am</title>
-      <description>FINGERBOARD RD / URBANA PIKE Units: A239, E231</description>
       <guid isPermaLink="false">2024-08-13 09:23:00</guid>
       <pubDate>Tue, 13 Aug 2024 09:23:00 -0400</pubDate>
     </item>
