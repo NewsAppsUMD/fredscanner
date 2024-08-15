@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Aug 2024 12:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 12:59:01 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:50 am</title>
+      <description>SHOOKSTOWN RD / WILLOWDALE DR Radio: 9B Units: A19, E12, 9B</description>
+      <guid isPermaLink="false">2024-08-15 08:50:00</guid>
+      <pubDate>Thu, 15 Aug 2024 08:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:21 am</title>
       <description>SHOOKSTOWN RD / WILLOWDALE DR Units: E12, A19</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK COOPERS WAY Units: Q11</description>
       <guid isPermaLink="false">2024-08-13 09:06:00</guid>
       <pubDate>Tue, 13 Aug 2024 09:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:41 am</title>
-      <description>OPOSSUMTOWN PIKE / THOMAS JOHNSON DR Units: A299, E111, FS02</description>
-      <guid isPermaLink="false">2024-08-13 08:41:00</guid>
-      <pubDate>Tue, 13 Aug 2024 08:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
