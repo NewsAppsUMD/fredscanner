@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Aug 2024 22:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 22:41:44 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:35 pm</title>
+      <description>1700 BLOCK EAGLE ROCK LN Units: E12</description>
+      <guid isPermaLink="false">2024-08-16 18:35:00</guid>
+      <pubDate>Fri, 16 Aug 2024 18:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 4:19 pm</title>
       <description>6900 BLOCK SOVEREIGN PL Radio: 9C Units: 9C, PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK CARROLL PKWY, Bldg:10, PARKVIEW APTS Radio: 9C Units: 9C, E12</description>
       <guid isPermaLink="false">2024-08-13 21:09:00</guid>
       <pubDate>Tue, 13 Aug 2024 21:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:08 pm</title>
-      <description>RT15SB / PUTMAN RD(LEWISTOWN), RT15SB / PUTMAN RD Units: EK224, A229</description>
-      <guid isPermaLink="false">2024-08-13 20:08:00</guid>
-      <pubDate>Tue, 13 Aug 2024 20:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
