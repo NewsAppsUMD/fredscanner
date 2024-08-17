@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Aug 2024 21:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 21:14:06 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:05 pm</title>
+      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9B Units: A339, E331, FS33, 9B</description>
+      <guid isPermaLink="false">2024-08-17 17:05:00</guid>
+      <pubDate>Sat, 17 Aug 2024 17:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:37 pm</title>
       <description>1700 BLOCK CARRIAGE CT Radio: 9C Units: 9C, E291, FS29</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 62MM, I70EB / 62MM Radio: 9D Units: EMS901, FS33, A339, A159, ALS4, 9D, E331, E152, R15</description>
       <guid isPermaLink="false">2024-08-15 07:44:00</guid>
       <pubDate>Thu, 15 Aug 2024 07:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:14 am</title>
-      <description>100 BLOCK PORTER ST Radio: 9C Units: E501, E12, T50, BC950, 9C</description>
-      <guid isPermaLink="false">2024-08-15 04:14:00</guid>
-      <pubDate>Thu, 15 Aug 2024 04:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
