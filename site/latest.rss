@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Aug 2024 08:25:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 08:32:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:28 am</title>
+      <description>I70WB / 47MM, I70WB / 47MM Radio: 9D Units: E72, A89, ALS8, BC903, 9D, E121, R8, EMS901, FS12, A129</description>
+      <guid isPermaLink="false">2024-08-17 04:28:00</guid>
+      <pubDate>Sat, 17 Aug 2024 04:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK: 2:08 am</title>
       <description>N BENTZ ST / W SECOND ST Units: E23, EMS901, A38, ALS4</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / RAMP RT85 TO I270SB RAMP Units: PE311, A318</description>
       <guid isPermaLink="false">2024-08-14 17:23:00</guid>
       <pubDate>Wed, 14 Aug 2024 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:07 pm</title>
-      <description>25400 BLOCK OLD HUNDRED RD Radio: 9C Units: E231, PRE709, FS23, 9C</description>
-      <guid isPermaLink="false">2024-08-14 17:07:00</guid>
-      <pubDate>Wed, 14 Aug 2024 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
