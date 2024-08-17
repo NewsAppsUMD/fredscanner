@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Aug 2024 19:22:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 19:31:33 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:21 pm</title>
+      <description>I70WB / I270-RT15, I70WB / I270-RT15 Units: A38, R3, FS31</description>
+      <guid isPermaLink="false">2024-08-17 15:21:00</guid>
+      <pubDate>Sat, 17 Aug 2024 15:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 2:13 pm</title>
       <description>STADIUM DR / NEW DESIGN RD Units: ALS31, EMS901, A38, PE311, R3</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W CHURCH ST, ALL SAINTS EPISCOPAL CHURCH REAR BUILDING Radio: 9C Units: T4, 9C, PE23</description>
       <guid isPermaLink="false">2024-08-15 00:29:00</guid>
       <pubDate>Thu, 15 Aug 2024 00:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:23 am</title>
-      <description>5700 BLOCK CATOCTIN VISTA DR Units: E152, E251, E331, R3, K33, BC903, SAF901, R24, T4, K23, E172, E33, PE311, R15, CCT1, K17, CCK1, A159, CCM18, BC901, C15</description>
-      <guid isPermaLink="false">2024-08-15 00:23:00</guid>
-      <pubDate>Thu, 15 Aug 2024 00:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
