@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 02:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 02:31:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:13 pm</title>
+      <description>10600 BLOCK GREEN VALLEY RD Units: E172, A179</description>
+      <guid isPermaLink="false">2024-08-17 22:13:00</guid>
+      <pubDate>Sat, 17 Aug 2024 22:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 9:49 pm</title>
       <description>12400 BLOCK WOODSBORO PIKE Radio: 9D Units: E91, E162, EK134, E132, CCE81, CCR8, K9, SU9, SAF901, 9D, C11, Q11, CCM89, BC902, BC901, EK114, CCLDR5, CCEK84, K17, A169, E172, ALS17</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK E GREENLEAF DR Radio: 9C Units: E12, 9C</description>
       <guid isPermaLink="false">2024-08-15 15:04:00</guid>
       <pubDate>Thu, 15 Aug 2024 15:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 2:44 pm</title>
-      <description>I70EB / 59MM, I70EB / 59MM Radio: 9C Units: E331, FS33, 9C</description>
-      <guid isPermaLink="false">2024-08-15 14:44:00</guid>
-      <pubDate>Thu, 15 Aug 2024 14:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
