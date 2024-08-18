@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 12:30:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 12:48:08 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:35 am</title>
+      <description>100 BLOCK EVERHART LN Radio: 9C Units: 9C, E121</description>
+      <guid isPermaLink="false">2024-08-18 08:35:00</guid>
+      <pubDate>Sun, 18 Aug 2024 08:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:29 am</title>
+      <description>I70EB / 36MM Units: E82, A89</description>
+      <guid isPermaLink="false">2024-08-18 08:29:00</guid>
+      <pubDate>Sun, 18 Aug 2024 08:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:08 am</title>
       <description>8400 BLOCK BALD EAGLE LN Radio: 9C Units: E331, 9C</description>
@@ -294,18 +306,6 @@
       <description>8800 BLOCK URBANA CHURCH RD, DYNAMIC AUTOMOTIVE Radio: 9C Units: E251, T4, 9C</description>
       <guid isPermaLink="false">2024-08-16 09:37:00</guid>
       <pubDate>Fri, 16 Aug 2024 09:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:37 am</title>
-      <description>9000 BLOCK AMELUNG ST, URBANA LIBRARY &amp; SENIOR CENTER Radio: 9C Units: E231, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-08-16 09:37:00</guid>
-      <pubDate>Fri, 16 Aug 2024 09:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:44 am</title>
-      <description>5100 BLOCK PEGASUS CT, Apt/Unit:D Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-16 08:44:00</guid>
-      <pubDate>Fri, 16 Aug 2024 08:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
