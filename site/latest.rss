@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 18:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 18:15:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:05 pm</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:2, Apt/Unit:RM N117, COUNTRY MEADOWS OF FREDERICK #5597 Radio: 9C Units: E331, T4, FS33, 9C</description>
+      <guid isPermaLink="false">2024-08-18 14:05:00</guid>
+      <pubDate>Sun, 18 Aug 2024 14:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:27 pm</title>
       <description>300 BLOCK LANAFIELD CIR Units: BC903, R8, E82</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK EAGLE ROCK LN Units: E12</description>
       <guid isPermaLink="false">2024-08-16 18:35:00</guid>
       <pubDate>Fri, 16 Aug 2024 18:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 4:19 pm</title>
-      <description>6900 BLOCK SOVEREIGN PL Radio: 9C Units: 9C, PE311, FS31</description>
-      <guid isPermaLink="false">2024-08-16 16:19:00</guid>
-      <pubDate>Fri, 16 Aug 2024 16:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
