@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Aug 2024 03:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 03:41:26 +0000</lastBuildDate>
+    <item>
+      <title>SHED / CONST TRAILER / OUTBUILDING FIRE: 11:40 pm</title>
+      <description>9800 BLOCK ROCKY RIDGE RD Radio: 9C Units: SU13, A309, FS13, K9, 9C, E132, EK134, R10</description>
+      <guid isPermaLink="false">2024-08-17 23:40:00</guid>
+      <pubDate>Sat, 17 Aug 2024 23:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:26 pm</title>
       <description>6500 BLOCK HEMLOCK POINT RD Radio: 9C Units: Q11, FS15, 9C, E152</description>
@@ -300,12 +306,6 @@
       <description>OLD ANNAPOLIS RD / CHESTNUT GROVE RD Units: E172, A179</description>
       <guid isPermaLink="false">2024-08-15 18:11:00</guid>
       <pubDate>Thu, 15 Aug 2024 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:16 pm</title>
-      <description>3700 BLOCK STONE BARN DR Radio: 9C Units: TT23, FS23, 9C, E231, E251</description>
-      <guid isPermaLink="false">2024-08-15 15:16:00</guid>
-      <pubDate>Thu, 15 Aug 2024 15:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
