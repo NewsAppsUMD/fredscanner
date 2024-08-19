@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Aug 2024 00:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 01:28:37 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 9:12 pm</title>
+      <description>8000 BLOCK DAMASCUS RD Units: SAF901, E251</description>
+      <guid isPermaLink="false">2024-08-18 21:12:00</guid>
+      <pubDate>Sun, 18 Aug 2024 21:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:45 pm</title>
       <description>9500 BLOCK WARD PL Radio: 9C Units: E231, FS23, 9C, E251, TT23</description>
@@ -300,12 +306,6 @@
       <description>8500 BLOCK WOODVILLE RD Units: FS17, BR175</description>
       <guid isPermaLink="false">2024-08-16 20:13:00</guid>
       <pubDate>Fri, 16 Aug 2024 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:00 pm</title>
-      <description>2600 BLOCK MOSBY CT Units: E291, Q11, FS29</description>
-      <guid isPermaLink="false">2024-08-16 20:00:00</guid>
-      <pubDate>Fri, 16 Aug 2024 20:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
