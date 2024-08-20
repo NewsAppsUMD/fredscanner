@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 11:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 12:03:26 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:56 am</title>
+      <description>2000 BLOCK THURSTON RD Radio: 9D Units: 9D, R14, ALS23, EMS901, R3, A239, E231</description>
+      <guid isPermaLink="false">2024-08-20 07:56:00</guid>
+      <pubDate>Tue, 20 Aug 2024 07:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 7:55 am</title>
+      <description>2100 BLOCK SCARLETT WAY Units: R15</description>
+      <guid isPermaLink="false">2024-08-20 07:55:00</guid>
+      <pubDate>Tue, 20 Aug 2024 07:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:53 am</title>
+      <description>2000 BLOCK THURSTON RD Units: R14, ALS23, EMS901, FIREPOLICE, A239, E231</description>
+      <guid isPermaLink="false">2024-08-20 07:53:00</guid>
+      <pubDate>Tue, 20 Aug 2024 07:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:47 pm</title>
       <description>100 BLOCK E SEVENTH ST Units: A28, PE23</description>
@@ -288,24 +306,6 @@
       <description>1700 BLOCK CARRIAGE CT Radio: 9C Units: 9C, E291, FS29</description>
       <guid isPermaLink="false">2024-08-17 15:37:00</guid>
       <pubDate>Sat, 17 Aug 2024 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:21 pm</title>
-      <description>I70WB / I270-RT15, I70WB / I270-RT15 Units: A38, R3, FS31</description>
-      <guid isPermaLink="false">2024-08-17 15:21:00</guid>
-      <pubDate>Sat, 17 Aug 2024 15:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:13 pm</title>
-      <description>STADIUM DR / NEW DESIGN RD Units: ALS31, EMS901, A38, PE311, R3</description>
-      <guid isPermaLink="false">2024-08-17 14:13:00</guid>
-      <pubDate>Sat, 17 Aug 2024 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:12 pm</title>
-      <description>STADIUM DR / NEW DESIGN RD Units: A38, PE311</description>
-      <guid isPermaLink="false">2024-08-17 14:12:00</guid>
-      <pubDate>Sat, 17 Aug 2024 14:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
