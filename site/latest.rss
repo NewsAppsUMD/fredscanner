@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 22:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 22:41:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:36 pm</title>
+      <description>7900 BLOCK BLACK RD Radio: 9C Units: FS10, 9C, E102</description>
+      <guid isPermaLink="false">2024-08-20 18:36:00</guid>
+      <pubDate>Tue, 20 Aug 2024 18:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
       <description>RT15 / RT464, RT15 / RT464 Units: A209, E281</description>
@@ -300,12 +306,6 @@
       <description>12400 BLOCK WOODSBORO PIKE Radio: 9D Units: E91, E162, EK134, E132, CCE81, E111, CCR8, K9, SU9, SAF901, FS09, 9D, Q11, CCM89, BC902, BC901, CCLDR5, CCEK84, K17, A169</description>
       <guid isPermaLink="false">2024-08-17 21:43:00</guid>
       <pubDate>Sat, 17 Aug 2024 21:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:32 pm</title>
-      <description>SIXES BRIDGE RD / MONOCACY RIVER Radio: 9C Units: BR135, FS13, 9C</description>
-      <guid isPermaLink="false">2024-08-17 21:32:00</guid>
-      <pubDate>Sat, 17 Aug 2024 21:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
