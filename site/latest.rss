@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Aug 2024 20:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 20:51:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:43 pm</title>
+      <description>200 BLOCK S MAPLE AVE, 84 LUMBER BRUNSWICK Radio: 9C Units: E51, 9C, T5, FS05</description>
+      <guid isPermaLink="false">2024-08-20 16:43:00</guid>
+      <pubDate>Tue, 20 Aug 2024 16:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:25 pm</title>
       <description>E THIRTEENTH ST / N MARKET ST Radio: 9B Units: A28, PE23, FS02, 9B</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL Radio: 9C Units: FS31, 9C, T4, PE311</description>
       <guid isPermaLink="false">2024-08-17 19:39:00</guid>
       <pubDate>Sat, 17 Aug 2024 19:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:51 pm</title>
-      <description>3300 BLOCK FIREFLY LN, WOODLANDS AT URBANA Radio: 91C Units: E231, TT23, FS23, 91C</description>
-      <guid isPermaLink="false">2024-08-17 18:51:00</guid>
-      <pubDate>Sat, 17 Aug 2024 18:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
