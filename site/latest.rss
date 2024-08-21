@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 12:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 12:30:38 +0000</lastBuildDate>
+    <item>
+      <title>DETAIL: 8:27 am</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, E251, E281, E33, ALS2, E82, PE23, A307</description>
+      <guid isPermaLink="false">2024-08-21 08:27:00</guid>
+      <pubDate>Wed, 21 Aug 2024 08:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DETAIL: 8:23 am</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, E251, E33, ALS2, E82, PE23</description>
+      <guid isPermaLink="false">2024-08-21 08:23:00</guid>
+      <pubDate>Wed, 21 Aug 2024 08:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DETAIL: 8:14 am</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, E33, ALS2, E82, PE23</description>
+      <guid isPermaLink="false">2024-08-21 08:14:00</guid>
+      <pubDate>Wed, 21 Aug 2024 08:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>DETAIL: 8:06 am</title>
       <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, ALS2, E82, PE23</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK QUINN ORCHARD RD, Bldg:2, Apt/Unit:RM N117, COUNTRY MEADOWS OF FREDERICK #5597 Radio: 9C Units: E331, T4, FS33, 9C</description>
       <guid isPermaLink="false">2024-08-18 14:05:00</guid>
       <pubDate>Sun, 18 Aug 2024 14:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:27 pm</title>
-      <description>300 BLOCK LANAFIELD CIR Units: BC903, R8, E82</description>
-      <guid isPermaLink="false">2024-08-18 13:27:00</guid>
-      <pubDate>Sun, 18 Aug 2024 13:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:21 pm</title>
-      <description>300 BLOCK LANAFIELD CIR Units: E82</description>
-      <guid isPermaLink="false">2024-08-18 13:21:00</guid>
-      <pubDate>Sun, 18 Aug 2024 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 12:37 pm</title>
-      <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ BRUNSWICK Units: E51, E201, HM33, HMSU33, FS05</description>
-      <guid isPermaLink="false">2024-08-18 12:37:00</guid>
-      <pubDate>Sun, 18 Aug 2024 12:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
