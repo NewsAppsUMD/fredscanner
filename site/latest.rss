@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 00:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 00:28:09 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 8:11 pm</title>
+      <description>9100 BLOCK LONGS MILL RD Radio: 9C Units: 9C, BR106, BR135</description>
+      <guid isPermaLink="false">2024-08-20 20:11:00</guid>
+      <pubDate>Tue, 20 Aug 2024 20:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 8:06 pm</title>
+      <description>9100 BLOCK LONGS MILL RD Radio: 9C Units: 9C, FS13, BR135</description>
+      <guid isPermaLink="false">2024-08-20 20:06:00</guid>
+      <pubDate>Tue, 20 Aug 2024 20:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:11 pm</title>
       <description>I70WB / 38MM Units: A89, E82</description>
@@ -294,18 +306,6 @@
       <description>9800 BLOCK ROCKY RIDGE RD Radio: 9C Units: SU13, A309, FS13, K9, 9C, E132, EK134, R10</description>
       <guid isPermaLink="false">2024-08-17 23:40:00</guid>
       <pubDate>Sat, 17 Aug 2024 23:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:26 pm</title>
-      <description>6500 BLOCK HEMLOCK POINT RD Radio: 9C Units: Q11, FS15, 9C, E152</description>
-      <guid isPermaLink="false">2024-08-17 23:26:00</guid>
-      <pubDate>Sat, 17 Aug 2024 23:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:13 pm</title>
-      <description>10600 BLOCK GREEN VALLEY RD Units: E172, A179</description>
-      <guid isPermaLink="false">2024-08-17 22:13:00</guid>
-      <pubDate>Sat, 17 Aug 2024 22:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
