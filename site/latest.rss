@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 10:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:34:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:29 am</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, REGAL CINEMAS WESTVIEW STADIUM 16 Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-08-21 06:29:00</guid>
+      <pubDate>Wed, 21 Aug 2024 06:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:26 am</title>
+      <description>4400 BLOCK LEWIS MILL CT Radio: 9C Units: E201, FS20, 9C</description>
+      <guid isPermaLink="false">2024-08-21 06:26:00</guid>
+      <pubDate>Wed, 21 Aug 2024 06:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:56 pm</title>
       <description>8700 BLOCK WATER STREET RD Radio: 9C Units: 9C, FS11, BR116</description>
@@ -294,18 +306,6 @@
       <description>FOXVILLE RD / PARK CENTRAL RD, IAO Radio: 9D Units: E102, R10, A307, ALS30, EMS902, FS10, 9D</description>
       <guid isPermaLink="false">2024-08-18 06:25:00</guid>
       <pubDate>Sun, 18 Aug 2024 06:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:51 am</title>
-      <description>8200 BLOCK PEMBROOK CT Radio: 9C Units: FS33, 9C, E331</description>
-      <guid isPermaLink="false">2024-08-18 05:51:00</guid>
-      <pubDate>Sun, 18 Aug 2024 05:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:12 am</title>
-      <description>200 BLOCK MONROE AVE, R W WARNER INC Radio: 9C Units: E33, 9C, T4</description>
-      <guid isPermaLink="false">2024-08-18 03:12:00</guid>
-      <pubDate>Sun, 18 Aug 2024 03:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
