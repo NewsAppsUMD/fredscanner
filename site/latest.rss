@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 10:41:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:51:30 +0000</lastBuildDate>
+    <item>
+      <title>DETAIL: 6:45 am</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E72</description>
+      <guid isPermaLink="false">2024-08-21 06:45:00</guid>
+      <pubDate>Wed, 21 Aug 2024 06:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:29 am</title>
       <description>5200 BLOCK BUCKEYSTOWN PIKE, REGAL CINEMAS WESTVIEW STADIUM 16 Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>FOXVILLE RD / PARK CENTRAL RD, IAO Radio: 9D Units: E102, R10, A307, ALS30, EMS902, 9D, E221</description>
       <guid isPermaLink="false">2024-08-18 06:30:00</guid>
       <pubDate>Sun, 18 Aug 2024 06:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:25 am</title>
-      <description>FOXVILLE RD / PARK CENTRAL RD, IAO Radio: 9D Units: E102, R10, A307, ALS30, EMS902, FS10, 9D</description>
-      <guid isPermaLink="false">2024-08-18 06:25:00</guid>
-      <pubDate>Sun, 18 Aug 2024 06:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
