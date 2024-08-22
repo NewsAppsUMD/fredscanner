@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 11:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 12:03:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:55 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS MYERSVILLE Radio: 9C Units: E72, TW1, 9C</description>
+      <guid isPermaLink="false">2024-08-22 07:55:00</guid>
+      <pubDate>Thu, 22 Aug 2024 07:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:10 am</title>
       <description>700 BLOCK COUNTRY SQUIRE WAY Radio: 9C Units: FS15, E152, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT15 / RT464, RT15 / RT464 Units: A209, E281</description>
       <guid isPermaLink="false">2024-08-20 17:50:00</guid>
       <pubDate>Tue, 20 Aug 2024 17:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:24 pm</title>
-      <description>RT15NB / RAMP RT40 TO RT15NB, RT15NB / RAMP RT40 TO RT15NB Radio: 9B Units: E33, PE23, R3, A18, A28, 9B</description>
-      <guid isPermaLink="false">2024-08-20 17:24:00</guid>
-      <pubDate>Tue, 20 Aug 2024 17:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
