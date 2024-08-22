@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Aug 2024 22:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 22:42:31 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 6:39 pm</title>
+      <description>6200 BLOCK WOODVILLE RD, Bldg:A Units: CCR1, CCM19, EMS902, FS15, E152</description>
+      <guid isPermaLink="false">2024-08-22 18:39:00</guid>
+      <pubDate>Thu, 22 Aug 2024 18:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:16 pm</title>
       <description>1400 BLOCK BAKER PL W, RESIDENCES AT THE MANOR Units: E11, T4</description>
@@ -300,12 +306,6 @@
       <description>TANEYTOWN PIKE / HARNEY RD Units: A68, EK64</description>
       <guid isPermaLink="false">2024-08-21 06:55:00</guid>
       <pubDate>Wed, 21 Aug 2024 06:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DETAIL: 6:45 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E72</description>
-      <guid isPermaLink="false">2024-08-21 06:45:00</guid>
-      <pubDate>Wed, 21 Aug 2024 06:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
