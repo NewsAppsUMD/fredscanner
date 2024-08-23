@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 05:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 05:14:29 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:09 am</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9C Units: E172, 9C, FS17</description>
+      <guid isPermaLink="false">2024-08-23 01:09:00</guid>
+      <pubDate>Fri, 23 Aug 2024 01:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:01 am</title>
+      <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ Units: A196, E51</description>
+      <guid isPermaLink="false">2024-08-23 01:01:00</guid>
+      <pubDate>Fri, 23 Aug 2024 01:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK: 11:26 pm</title>
       <description>W SEVENTH ST / MOTTER AVE Units: PE23, R3, A28, EMS902</description>
@@ -294,18 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, E251, E33, ALS2, E82, PE23</description>
       <guid isPermaLink="false">2024-08-21 08:23:00</guid>
       <pubDate>Wed, 21 Aug 2024 08:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DETAIL: 8:14 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, E33, ALS2, E82, PE23</description>
-      <guid isPermaLink="false">2024-08-21 08:14:00</guid>
-      <pubDate>Wed, 21 Aug 2024 08:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DETAIL: 8:06 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: E172, ALS2, E82, PE23</description>
-      <guid isPermaLink="false">2024-08-21 08:06:00</guid>
-      <pubDate>Wed, 21 Aug 2024 08:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
