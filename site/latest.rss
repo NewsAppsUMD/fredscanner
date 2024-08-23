@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 13:51:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 14:02:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:00 am</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: BC903</description>
+      <guid isPermaLink="false">2024-08-23 10:00:00</guid>
+      <pubDate>Fri, 23 Aug 2024 10:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:55 am</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: BC903</description>
+      <guid isPermaLink="false">2024-08-23 09:55:00</guid>
+      <pubDate>Fri, 23 Aug 2024 09:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 9:54 am</title>
+      <description>I70WB / 47MM, I70WB / 47MM Units: FS12, E82, E121</description>
+      <guid isPermaLink="false">2024-08-23 09:54:00</guid>
+      <pubDate>Fri, 23 Aug 2024 09:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:07 am</title>
       <description>12500 BLOCK WOLFSVILLE RD Radio: 9C Units: BR216, 9C, BR85</description>
@@ -288,24 +306,6 @@
       <description>1400 BLOCK W PATRICK ST, POPEYES Units: A18, E11</description>
       <guid isPermaLink="false">2024-08-21 17:18:00</guid>
       <pubDate>Wed, 21 Aug 2024 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:56 pm</title>
-      <description>ARCADIA DR / MCKINNEY CIR Radio: 9D Units: EMS901, 9D, R3, A319, BC901, FS31, PE311</description>
-      <guid isPermaLink="false">2024-08-21 15:56:00</guid>
-      <pubDate>Wed, 21 Aug 2024 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:56 pm</title>
-      <description>RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST Radio: 9B Units: A39, T4, 9B</description>
-      <guid isPermaLink="false">2024-08-21 14:56:00</guid>
-      <pubDate>Wed, 21 Aug 2024 14:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 2:24 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, DAVITA DIALYSIS Radio: 9C Units: T50, FS29, E291, 9C</description>
-      <guid isPermaLink="false">2024-08-21 14:24:00</guid>
-      <pubDate>Wed, 21 Aug 2024 14:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
