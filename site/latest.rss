@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 21:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 21:14:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
+      <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Radio: 9B Units: A209, E201, 9B</description>
+      <guid isPermaLink="false">2024-08-23 17:05:00</guid>
+      <pubDate>Fri, 23 Aug 2024 17:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:52 pm</title>
       <description>1200 BLOCK STALEY AVE, STALEY FIELD Radio: 9B Units: A38, PE23, 9B</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11, FS29, 9C</description>
       <guid isPermaLink="false">2024-08-22 00:25:00</guid>
       <pubDate>Thu, 22 Aug 2024 00:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:12 am</title>
-      <description>3700 BLOCK SINGLETON TER Units: E231, TT23</description>
-      <guid isPermaLink="false">2024-08-22 00:12:00</guid>
-      <pubDate>Thu, 22 Aug 2024 00:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
