@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 22:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 22:25:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E31, PE23, R20, A38, A28</description>
+      <guid isPermaLink="false">2024-08-23 18:13:00</guid>
+      <pubDate>Fri, 23 Aug 2024 18:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 6:07 pm</title>
       <description>4200 BLOCK FRANCIS SCOTT KEY HWY Units: E61</description>
@@ -300,12 +306,6 @@
       <description>BOWMANS FARM RD / AIRPORT DR E Radio: 9B Units: 9B, A339, E331</description>
       <guid isPermaLink="false">2024-08-22 09:03:00</guid>
       <pubDate>Thu, 22 Aug 2024 09:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:55 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS MYERSVILLE Radio: 9C Units: E72, TW1, 9C</description>
-      <guid isPermaLink="false">2024-08-22 07:55:00</guid>
-      <pubDate>Thu, 22 Aug 2024 07:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
