@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 23:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 23:14:21 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:04 pm</title>
+      <description>700 BLOCK ANGELWING LN Radio: 9C Units: E121, E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-08-23 19:04:00</guid>
+      <pubDate>Fri, 23 Aug 2024 19:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E31, PE23, R20, A38, A28</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK WHITMORE LN Radio: 9C Units: E231, TT23, FS23, 9C, PRE709</description>
       <guid isPermaLink="false">2024-08-22 09:12:00</guid>
       <pubDate>Thu, 22 Aug 2024 09:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:03 am</title>
-      <description>BOWMANS FARM RD / AIRPORT DR E Radio: 9B Units: 9B, A339, E331</description>
-      <guid isPermaLink="false">2024-08-22 09:03:00</guid>
-      <pubDate>Thu, 22 Aug 2024 09:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
