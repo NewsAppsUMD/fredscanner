@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Aug 2024 23:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 23:51:26 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:43 pm</title>
+      <description>7700 BLOCK MARKER RD Radio: 9C Units: E72, 9C, E121</description>
+      <guid isPermaLink="false">2024-08-23 19:43:00</guid>
+      <pubDate>Fri, 23 Aug 2024 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:38 pm</title>
       <description>7700 BLOCK MARKER RD Radio: 9C Units: E72, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15NB TO S JEFFERSON ST RAMP, RT15NB / JEFFERSON PIKE Units: A39, R3</description>
       <guid isPermaLink="false">2024-08-22 14:20:00</guid>
       <pubDate>Thu, 22 Aug 2024 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:08 pm</title>
-      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Units: E72, A129, E121, R8, WCA756</description>
-      <guid isPermaLink="false">2024-08-22 14:08:00</guid>
-      <pubDate>Thu, 22 Aug 2024 14:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
