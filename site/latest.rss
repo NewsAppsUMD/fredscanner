@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Aug 2024 10:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 10:41:25 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:36 am</title>
+      <description>11000 BLOCK BALTIMORE NATIONAL PIKE PIKE, Bldg:B Radio: 9C Units: BR85, 9C</description>
+      <guid isPermaLink="false">2024-08-24 06:36:00</guid>
+      <pubDate>Sat, 24 Aug 2024 06:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 12:59 am</title>
       <description>2100 BLOCK RIVERWALK PL, Apt/Unit:211, FAIRWAY VISTA APTS Radio: 91C Units: 91C, PE23, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK WOODVILLE RD, Bldg:A Radio: 9D Units: CCR1, EMS902, CCM18, C15, BC901, RE171, E153, 9D</description>
       <guid isPermaLink="false">2024-08-22 18:44:00</guid>
       <pubDate>Thu, 22 Aug 2024 18:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 6:39 pm</title>
-      <description>6200 BLOCK WOODVILLE RD, Bldg:A Units: CCR1, CCM19, EMS902, FS15, E152</description>
-      <guid isPermaLink="false">2024-08-22 18:39:00</guid>
-      <pubDate>Thu, 22 Aug 2024 18:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
