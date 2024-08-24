@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Aug 2024 04:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 04:51:24 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 12:47 am</title>
+      <description>3200 BLOCK BAKER CIR, Apt/Unit:34, BUCKINGHAMS CHOICE Radio: 9C Units: E141, E231, 9C, TT23, FS14</description>
+      <guid isPermaLink="false">2024-08-24 00:47:00</guid>
+      <pubDate>Sat, 24 Aug 2024 00:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 8:47 pm</title>
       <description>100 BLOCK WILLOWDALE DR, Bldg:N, Apt/Unit:302, WILLOWDALE CROSSING APARTMENTS Radio: 9D Units: 9D, E11, E501, E31, PE23, A18, ALS4, BC903, BC902, T50, SAF901, E121, R24, T4</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK BAKER PL W, RESIDENCES AT THE MANOR Units: E11, T4</description>
       <guid isPermaLink="false">2024-08-22 18:16:00</guid>
       <pubDate>Thu, 22 Aug 2024 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 4:53 pm</title>
-      <description>9900 BLOCK WENTWORTH PL Units: E331, FS33</description>
-      <guid isPermaLink="false">2024-08-22 16:53:00</guid>
-      <pubDate>Thu, 22 Aug 2024 16:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
