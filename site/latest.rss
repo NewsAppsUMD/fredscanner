@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Aug 2024 14:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 14:24:41 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:19 am</title>
+      <description>100 BLOCK STEINER WAY Radio: 9C Units: 9C, T4</description>
+      <guid isPermaLink="false">2024-08-24 10:19:00</guid>
+      <pubDate>Sat, 24 Aug 2024 10:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:18 am</title>
       <description>400 BLOCK W SOUTH ST, Bldg:A Radio: 9C Units: E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S CARROLL ST, Bldg:11, MSD SHOCKLEY HOUSE Units: R3, E33</description>
       <guid isPermaLink="false">2024-08-22 19:28:00</guid>
       <pubDate>Thu, 22 Aug 2024 19:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:03 pm</title>
-      <description>100 BLOCK S CARROLL ST, Bldg:11, Apt/Unit:100, MSD SHOCKLEY HOUSE Units: E33</description>
-      <guid isPermaLink="false">2024-08-22 19:03:00</guid>
-      <pubDate>Thu, 22 Aug 2024 19:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
