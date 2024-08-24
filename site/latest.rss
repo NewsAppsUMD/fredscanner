@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Aug 2024 21:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 21:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:26 pm</title>
+      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9D Units: R10, A229, ALS30, BC902, EMS902, FS22, 9D, E221</description>
+      <guid isPermaLink="false">2024-08-24 17:26:00</guid>
+      <pubDate>Sat, 24 Aug 2024 17:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:18 pm</title>
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: E231, RE709, TT23, R3, A239, A259, ALS23, EMS901, A318, 9D, ALS31, PE311, C23B</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK LANDER CREEK DR Radio: 9C Units: E51, T5, FS05, 9C</description>
       <guid isPermaLink="false">2024-08-23 04:13:00</guid>
       <pubDate>Fri, 23 Aug 2024 04:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:09 am</title>
-      <description>10500 BLOCK LIBERTY RD Radio: 9C Units: E172, 9C, FS17</description>
-      <guid isPermaLink="false">2024-08-23 01:09:00</guid>
-      <pubDate>Fri, 23 Aug 2024 01:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
