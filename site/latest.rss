@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Aug 2024 03:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 03:51:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:47 pm</title>
+      <description>URBANA PIKE / FINGERBOARD RD Radio: 9D Units: E231, TT23, R3, A239, ALS23, BC901, EMS901, FS23, 9D</description>
+      <guid isPermaLink="false">2024-08-24 23:47:00</guid>
+      <pubDate>Sat, 24 Aug 2024 23:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:53 pm</title>
       <description>CONE BRANCH DR / GRAY FOX CT Radio: 9C Units: BR75, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Units: E231, TT23, PRE709, R3, A239, A735</description>
       <guid isPermaLink="false">2024-08-23 05:52:00</guid>
       <pubDate>Fri, 23 Aug 2024 05:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:51 am</title>
-      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Units: E231, PRE709, R3, A239, A735, FS23</description>
-      <guid isPermaLink="false">2024-08-23 05:51:00</guid>
-      <pubDate>Fri, 23 Aug 2024 05:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
