@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Aug 2024 09:14:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 09:24:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:16 am</title>
+      <description>1000 BLOCK HEATHER RIDGE DR, Bldg:B, COUNTRY HILL APTS BLDG B Radio: 9C Units: E291, FS02, 9C</description>
+      <guid isPermaLink="false">2024-08-25 05:16:00</guid>
+      <pubDate>Sun, 25 Aug 2024 05:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:19 am</title>
       <description>1000 BLOCK HEATHER RIDGE DR, Bldg:B, Apt/Unit:314, COUNTRY HILL APTS BLDG B Radio: 9C Units: E291, T50, FS02, 9C</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: E51, FS05</description>
       <guid isPermaLink="false">2024-08-23 07:44:00</guid>
       <pubDate>Fri, 23 Aug 2024 07:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:33 am</title>
-      <description>RT15SB / ANNANDALE RD, RT15SB / ANNANDALE RD Radio: 9C Units: 9C, E61, FS06</description>
-      <guid isPermaLink="false">2024-08-23 07:33:00</guid>
-      <pubDate>Fri, 23 Aug 2024 07:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
