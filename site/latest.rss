@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Aug 2024 20:26:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 20:33:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:27 pm</title>
+      <description>CARROLLTON DR / CENTER ST Units: C3B, R3, E31, ALS4, EMS901, A38</description>
+      <guid isPermaLink="false">2024-08-25 16:27:00</guid>
+      <pubDate>Sun, 25 Aug 2024 16:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
+      <description>CARROLLTON DR / CENTER ST Units: A38, E31</description>
+      <guid isPermaLink="false">2024-08-25 16:26:00</guid>
+      <pubDate>Sun, 25 Aug 2024 16:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:30 pm</title>
       <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: TW1, FS31, 9C, PE311</description>
@@ -294,18 +306,6 @@
       <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: BC903</description>
       <guid isPermaLink="false">2024-08-23 10:00:00</guid>
       <pubDate>Fri, 23 Aug 2024 10:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:55 am</title>
-      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: BC903</description>
-      <guid isPermaLink="false">2024-08-23 09:55:00</guid>
-      <pubDate>Fri, 23 Aug 2024 09:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 9:54 am</title>
-      <description>I70WB / 47MM, I70WB / 47MM Units: FS12, E82, E121</description>
-      <guid isPermaLink="false">2024-08-23 09:54:00</guid>
-      <pubDate>Fri, 23 Aug 2024 09:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
