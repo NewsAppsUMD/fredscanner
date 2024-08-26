@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 12:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:16:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:13 am</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: E111, A299, ALS2, R24, A229, ALS29, EMS902, E221</description>
+      <guid isPermaLink="false">2024-08-26 08:13:00</guid>
+      <pubDate>Mon, 26 Aug 2024 08:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:10 am</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: R24, A229, ALS29, EMS902, E221</description>
+      <guid isPermaLink="false">2024-08-26 08:10:00</guid>
+      <pubDate>Mon, 26 Aug 2024 08:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
       <description>1600 BLOCK ROSEMONT AVE, SHEETZ ROSEMONT Units: A18, E12</description>
@@ -294,18 +306,6 @@
       <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Radio: 9B Units: A209, E201, 9B</description>
       <guid isPermaLink="false">2024-08-23 17:05:00</guid>
       <pubDate>Fri, 23 Aug 2024 17:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:52 pm</title>
-      <description>1200 BLOCK STALEY AVE, STALEY FIELD Radio: 9B Units: A38, PE23, 9B</description>
-      <guid isPermaLink="false">2024-08-23 16:52:00</guid>
-      <pubDate>Fri, 23 Aug 2024 16:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 4:21 pm</title>
-      <description>5800 BLOCK IMPERIAL DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-08-23 16:21:00</guid>
-      <pubDate>Fri, 23 Aug 2024 16:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
