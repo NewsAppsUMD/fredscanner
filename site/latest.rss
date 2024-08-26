@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 10:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 11:01:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
+      <description>1600 BLOCK ROSEMONT AVE, SHEETZ ROSEMONT Units: A18, E12</description>
+      <guid isPermaLink="false">2024-08-26 06:56:00</guid>
+      <pubDate>Mon, 26 Aug 2024 06:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:55 am</title>
+      <description>TANEYTOWN PIKE / BAPTIST RD Units: R6, A68</description>
+      <guid isPermaLink="false">2024-08-26 06:55:00</guid>
+      <pubDate>Mon, 26 Aug 2024 06:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:52 am</title>
+      <description>11800 BLOCK HARP HILL RD Units: A89, E82</description>
+      <guid isPermaLink="false">2024-08-26 06:52:00</guid>
+      <pubDate>Mon, 26 Aug 2024 06:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:07 am</title>
       <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: A318, PE311, FS31</description>
@@ -288,24 +306,6 @@
       <description>5800 BLOCK IMPERIAL DR Radio: 9C Units: E11, 9C</description>
       <guid isPermaLink="false">2024-08-23 16:21:00</guid>
       <pubDate>Fri, 23 Aug 2024 16:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:18 pm</title>
-      <description>RT550 / CLYDE YOUNG RD, RT550 / CLYDE YOUNG RD Radio: 9D Units: E161, R10, A169, ALS30, EMS902, FIREPOLICE, 9D</description>
-      <guid isPermaLink="false">2024-08-23 16:18:00</guid>
-      <pubDate>Fri, 23 Aug 2024 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:11 pm</title>
-      <description>WHISKEY RD / DISTILLERY CT Units: A259, E251</description>
-      <guid isPermaLink="false">2024-08-23 15:11:00</guid>
-      <pubDate>Fri, 23 Aug 2024 15:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:05 pm</title>
-      <description>9000 BLOCK RIDGEFIELD DR, SPRING RIDGE ELEMENTARY SCHOOL Radio: 9C Units: 9C, E331, T4, FS33</description>
-      <guid isPermaLink="false">2024-08-23 15:05:00</guid>
-      <pubDate>Fri, 23 Aug 2024 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
