@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 20:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 20:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
+      <description>I70WB / 38MM Units: A89, E82</description>
+      <guid isPermaLink="false">2024-08-26 16:27:00</guid>
+      <pubDate>Mon, 26 Aug 2024 16:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:13 pm</title>
       <description>I270SB / 27MM, I270SB / 27MM Radio: 9C Units: PE311, E231, A239, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>4500 BLOCK COXEY BROWN RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS902, 9D</description>
       <guid isPermaLink="false">2024-08-23 19:28:00</guid>
       <pubDate>Fri, 23 Aug 2024 19:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 7:24 pm</title>
-      <description>37200 BLOCK JEFFERSON PK Units: E51, T5, ALS20, HM33, HMSU33, BC901, EK204</description>
-      <guid isPermaLink="false">2024-08-23 19:24:00</guid>
-      <pubDate>Fri, 23 Aug 2024 19:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
