@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 21:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 21:14:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:07 pm</title>
+      <description>5100 BLOCK CONTINENTAL DR Units: E31, FS31</description>
+      <guid isPermaLink="false">2024-08-26 17:07:00</guid>
+      <pubDate>Mon, 26 Aug 2024 17:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
       <description>I70WB / 38MM Units: A89, E82</description>
@@ -300,12 +306,6 @@
       <description>7700 BLOCK MARKER RD Radio: 9C Units: E72, 9C</description>
       <guid isPermaLink="false">2024-08-23 19:38:00</guid>
       <pubDate>Fri, 23 Aug 2024 19:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 7:28 pm</title>
-      <description>4500 BLOCK COXEY BROWN RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-08-23 19:28:00</guid>
-      <pubDate>Fri, 23 Aug 2024 19:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
