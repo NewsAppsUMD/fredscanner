@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Aug 2024 12:16:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:30:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:19 am</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: 9D, A249, A299, ALS2, CMD22, PE23, R24, A229, ALS29, EMS902, BC902, E221</description>
+      <guid isPermaLink="false">2024-08-26 08:19:00</guid>
+      <pubDate>Mon, 26 Aug 2024 08:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:16 am</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: 9D, A299, ALS2, R24, A229, ALS29, EMS902, BC902, E221</description>
+      <guid isPermaLink="false">2024-08-26 08:16:00</guid>
+      <pubDate>Mon, 26 Aug 2024 08:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:13 am</title>
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: E111, A299, ALS2, R24, A229, ALS29, EMS902, E221</description>
@@ -294,18 +306,6 @@
       <description>S BENTZ ST / W SOUTH ST Units: A38, R3</description>
       <guid isPermaLink="false">2024-08-23 17:53:00</guid>
       <pubDate>Fri, 23 Aug 2024 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:23 pm</title>
-      <description>1800 BLOCK MONOCACY BLVD, Bldg:107, BURN BOOT CAMP Radio: 9B Units: 9B, E111, A249</description>
-      <guid isPermaLink="false">2024-08-23 17:23:00</guid>
-      <pubDate>Fri, 23 Aug 2024 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
-      <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Radio: 9B Units: A209, E201, 9B</description>
-      <guid isPermaLink="false">2024-08-23 17:05:00</guid>
-      <pubDate>Fri, 23 Aug 2024 17:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
