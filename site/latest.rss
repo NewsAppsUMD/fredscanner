@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 11:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 11:14:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:02 am</title>
+      <description>1200 BLOCK W PATRICK ST, DOLLAR GENERAL FREDERICK SHOPPERS WORLD Radio: 9C Units: T4, 9C, E11</description>
+      <guid isPermaLink="false">2024-08-27 07:02:00</guid>
+      <pubDate>Tue, 27 Aug 2024 07:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:55 am</title>
       <description>100 BLOCK N MARKET ST, SONA BANK Radio: 9C Units: E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>9300 BLOCK GRAVEL HILL RD, Bldg:B, WOODSBORO VET Units: E161, R24, A169, ALS17, EMS902, FIREPOLICE</description>
       <guid isPermaLink="false">2024-08-24 14:16:00</guid>
       <pubDate>Sat, 24 Aug 2024 14:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:02 pm</title>
-      <description>11300 BLOCK RUSSELL RD Units: E51, K5</description>
-      <guid isPermaLink="false">2024-08-24 13:02:00</guid>
-      <pubDate>Sat, 24 Aug 2024 13:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
