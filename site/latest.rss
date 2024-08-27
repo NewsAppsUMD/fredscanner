@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 14:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 14:14:21 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:02 am</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E201</description>
+      <guid isPermaLink="false">2024-08-27 10:02:00</guid>
+      <pubDate>Tue, 27 Aug 2024 10:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 10:01 am</title>
+      <description>100 BLOCK N MARKET ST Units: RID2, E331, TW1, E111, RE74, A19, ALS31, SAF901, A28, EMS901, W3, VOLDC900, R24, C4C, TT23, CAN1, W2, MAU15, R3, EMS902, E152, A39, ALS23, E291, E31, PE23, E11, PE311, E501, T4, T50, BC901, BC903, FTF2, C900, CMD3, OPSDC900, BC902</description>
+      <guid isPermaLink="false">2024-08-27 10:01:00</guid>
+      <pubDate>Tue, 27 Aug 2024 10:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 10:01 am</title>
+      <description>100 BLOCK N MARKET ST Units: RID2, E331, TW1, E111, RE74, A19, ALS31, SAF901, A28, EMS901, W3, VOLDC900, R24, C4C, TT23, CAN1, W2, R3, EMS902, E152, A39, ALS23, E291, E31, PE23, E11, PE311, E501, T4, T50, BC901, BC903, FTF2, C900, CMD3, OPSDC900, BC902</description>
+      <guid isPermaLink="false">2024-08-27 10:01:00</guid>
+      <pubDate>Tue, 27 Aug 2024 10:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE - ENTRAPMENT: 9:58 am</title>
       <description>100 BLOCK N MARKET ST Units: RID2, E331, TW1, E111, RE74, A19, ALS31, SAF901, A28, EMS901, W3, VOLDC900, E201, R24, C4C, TT23, CAN1, W2, R3, EMS902, A39, ALS23, E291, E31, PE23, E11, PE311, E501, T4, T50, BC901, BC903, FTF2, C900, CMD3, OPSDC900, BC902</description>
@@ -288,24 +306,6 @@
       <description>CARROLLTON DR / CENTER ST Units: C3B, R3, E31, ALS4, EMS901, A38</description>
       <guid isPermaLink="false">2024-08-25 16:27:00</guid>
       <pubDate>Sun, 25 Aug 2024 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
-      <description>CARROLLTON DR / CENTER ST Units: A38, E31</description>
-      <guid isPermaLink="false">2024-08-25 16:26:00</guid>
-      <pubDate>Sun, 25 Aug 2024 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:30 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: TW1, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2024-08-25 14:30:00</guid>
-      <pubDate>Sun, 25 Aug 2024 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:27 pm</title>
-      <description>RT40 / CANADA HILL RD, RT40 / CANADA HILL RD Units: A89, R8</description>
-      <guid isPermaLink="false">2024-08-25 14:27:00</guid>
-      <pubDate>Sun, 25 Aug 2024 14:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
