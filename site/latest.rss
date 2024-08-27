@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 18:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:51:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:43 pm</title>
+      <description>APPROX LOC:W PATRICK ST Units: A19, E11</description>
+      <guid isPermaLink="false">2024-08-27 14:43:00</guid>
+      <pubDate>Tue, 27 Aug 2024 14:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:39 pm</title>
       <description>S BENTZ ST / GAITHER ALY Units: A38, E31</description>
@@ -300,12 +306,6 @@
       <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: A318, PE311, FS31</description>
       <guid isPermaLink="false">2024-08-26 01:07:00</guid>
       <pubDate>Mon, 26 Aug 2024 01:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 8:03 pm</title>
-      <description>9100 BLOCK BLOOMFIELD RD Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-08-25 20:03:00</guid>
-      <pubDate>Sun, 25 Aug 2024 20:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
