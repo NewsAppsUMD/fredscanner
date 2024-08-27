@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 16:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 16:27:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:20 pm</title>
+      <description>I270NB / RAILROAD, I270NB / RAILROAD Units: E231, E201, TT23, R20, A239, A18, FS23</description>
+      <guid isPermaLink="false">2024-08-27 12:20:00</guid>
+      <pubDate>Tue, 27 Aug 2024 12:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 10:02 am</title>
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E201</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK WALLEYE PL Radio: 9C Units: 9C, E331, T4, FS15</description>
       <guid isPermaLink="false">2024-08-25 17:44:00</guid>
       <pubDate>Sun, 25 Aug 2024 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:27 pm</title>
-      <description>CARROLLTON DR / CENTER ST Units: C3B, R3, E31, ALS4, EMS901, A38</description>
-      <guid isPermaLink="false">2024-08-25 16:27:00</guid>
-      <pubDate>Sun, 25 Aug 2024 16:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
