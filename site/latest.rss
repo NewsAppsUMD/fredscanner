@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Aug 2024 11:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 11:41:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 7:34 am</title>
+      <description>5300 BLOCK BALLENGER CREEK PIKE, TUSCARORA HIGH SCHOOL Radio: 9D Units: BC902, EMS901, FS31, A318, PE311, R3, 9D</description>
+      <guid isPermaLink="false">2024-08-27 07:34:00</guid>
+      <pubDate>Tue, 27 Aug 2024 07:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:02 am</title>
       <description>1200 BLOCK W PATRICK ST, DOLLAR GENERAL FREDERICK SHOPPERS WORLD Radio: 9C Units: T4, 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: E231, RE709, TT23, R3, A239, A259, ALS23, EMS901, FS23, BC902, 9D</description>
       <guid isPermaLink="false">2024-08-24 15:14:00</guid>
       <pubDate>Sat, 24 Aug 2024 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:16 pm</title>
-      <description>9300 BLOCK GRAVEL HILL RD, Bldg:B, WOODSBORO VET Units: E161, R24, A169, ALS17, EMS902, FIREPOLICE</description>
-      <guid isPermaLink="false">2024-08-24 14:16:00</guid>
-      <pubDate>Sat, 24 Aug 2024 14:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
