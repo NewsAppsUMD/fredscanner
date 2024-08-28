@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 00:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 01:28:36 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:08 pm</title>
+      <description>6000 BLOCK LEBEN DR Radio: 9C Units: PE311, 9C, E31, TW1</description>
+      <guid isPermaLink="false">2024-08-27 21:08:00</guid>
+      <pubDate>Tue, 27 Aug 2024 21:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:25 pm</title>
       <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, BC903, BC902, SAF901, C5, C20, E201, JCRE1, R19, ALS20, BC602, E612, R20, A196, E141</description>
@@ -300,12 +306,6 @@
       <description>REICHS FORD RD / RAILROAD XING, PAST THE LANDFIL ACROSS THE TRACKS AND ON THE BRIDGE Units: A339, E331</description>
       <guid isPermaLink="false">2024-08-26 09:36:00</guid>
       <pubDate>Mon, 26 Aug 2024 09:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:19 am</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: 9D, A249, A299, ALS2, CMD22, PE23, R24, A229, ALS29, EMS902, BC902, E221</description>
-      <guid isPermaLink="false">2024-08-26 08:19:00</guid>
-      <pubDate>Mon, 26 Aug 2024 08:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
