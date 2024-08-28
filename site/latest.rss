@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 12:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:50:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
+      <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Radio: 9C Units: 9C, T4, BC950, E501</description>
+      <guid isPermaLink="false">2024-08-28 08:38:00</guid>
+      <pubDate>Wed, 28 Aug 2024 08:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:26 am</title>
       <description>2500 BLOCK WATERSIDE DR, Apt/Unit:203, PARK PLACE II WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK CANADA GOOSE CT Units: FS31, PE311</description>
       <guid isPermaLink="false">2024-08-26 18:03:00</guid>
       <pubDate>Mon, 26 Aug 2024 18:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:07 pm</title>
-      <description>5100 BLOCK CONTINENTAL DR Units: E31, FS31</description>
-      <guid isPermaLink="false">2024-08-26 17:07:00</guid>
-      <pubDate>Mon, 26 Aug 2024 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
