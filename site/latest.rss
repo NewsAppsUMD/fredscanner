@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 17:32:21 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:28 pm</title>
+      <description>5600 BLOCK BROADMOOR TER N Radio: 9C Units: E331, FS33, 9C</description>
+      <guid isPermaLink="false">2024-08-28 13:28:00</guid>
+      <pubDate>Wed, 28 Aug 2024 13:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:08 am</title>
       <description>100 BLOCK FIONA WAY Radio: 9C Units: E51, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK EYLERS VALLEY FLINT RD Radio: 9C Units: E61, FRE193, K10, ACEK3, BR106, E102, 9C</description>
       <guid isPermaLink="false">2024-08-26 20:03:00</guid>
       <pubDate>Mon, 26 Aug 2024 20:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 7:53 pm</title>
-      <description>3000 BLOCK GREEN VALLEY RD, OUTSIDE UNLIMITED Radio: 9C Units: E231, E152, TT23, K23, A259, BC901, SAF901, E251, RE709, E153, E331, R3, TW735, K709, 9C, K33, ALS23, BC902, FS25</description>
-      <guid isPermaLink="false">2024-08-26 19:53:00</guid>
-      <pubDate>Mon, 26 Aug 2024 19:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
