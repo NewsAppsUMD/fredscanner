@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 00:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:28:32 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:25 pm</title>
+      <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, BC903, BC902, SAF901, C5, C20, E201, JCRE1, R19, ALS20, BC602, E612, R20, A196, E141</description>
+      <guid isPermaLink="false">2024-08-27 20:25:00</guid>
+      <pubDate>Tue, 27 Aug 2024 20:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:19 pm</title>
+      <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, FS05, BC903, BC902, SAF901, E201, JCRE1, R19, ALS20, E612, R20, A196</description>
+      <guid isPermaLink="false">2024-08-27 20:19:00</guid>
+      <pubDate>Tue, 27 Aug 2024 20:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:18 pm</title>
+      <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, FS05</description>
+      <guid isPermaLink="false">2024-08-27 20:18:00</guid>
+      <pubDate>Tue, 27 Aug 2024 20:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:09 pm</title>
+      <description>200 BLOCK W COLLEGE TER Radio: 9C Units: E31, T4, FS02, 9C, PE23</description>
+      <guid isPermaLink="false">2024-08-27 20:09:00</guid>
+      <pubDate>Tue, 27 Aug 2024 20:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:55 pm</title>
       <description>W ALL SAINTS ST / S COURT ST Units: A38, E31</description>
@@ -282,30 +306,6 @@
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: 9D, A249, A299, ALS2, CMD22, PE23, R24, A229, ALS29, EMS902, BC902, E221</description>
       <guid isPermaLink="false">2024-08-26 08:19:00</guid>
       <pubDate>Mon, 26 Aug 2024 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:16 am</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: 9D, A299, ALS2, R24, A229, ALS29, EMS902, BC902, E221</description>
-      <guid isPermaLink="false">2024-08-26 08:16:00</guid>
-      <pubDate>Mon, 26 Aug 2024 08:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:13 am</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: E111, A299, ALS2, R24, A229, ALS29, EMS902, E221</description>
-      <guid isPermaLink="false">2024-08-26 08:13:00</guid>
-      <pubDate>Mon, 26 Aug 2024 08:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:10 am</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: R24, A229, ALS29, EMS902, E221</description>
-      <guid isPermaLink="false">2024-08-26 08:10:00</guid>
-      <pubDate>Mon, 26 Aug 2024 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
-      <description>1600 BLOCK ROSEMONT AVE, SHEETZ ROSEMONT Units: A18, E12</description>
-      <guid isPermaLink="false">2024-08-26 06:56:00</guid>
-      <pubDate>Mon, 26 Aug 2024 06:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
