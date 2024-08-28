@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 13:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 13:15:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:02 am</title>
+      <description>1000 BLOCK CORRAL AREA CIR, Bldg:1068, NCI - BLDG 1000 BLOCK Radio: 9C Units: E501, T4, BC950, 9C</description>
+      <guid isPermaLink="false">2024-08-28 09:02:00</guid>
+      <pubDate>Wed, 28 Aug 2024 09:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
       <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Radio: 9C Units: 9C, T4, BC950, E501</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK DEPAUL ST, Apt/Unit:,, STATION 6 Units: E61, FS06, TW6</description>
       <guid isPermaLink="false">2024-08-26 18:32:00</guid>
       <pubDate>Mon, 26 Aug 2024 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:03 pm</title>
-      <description>6600 BLOCK CANADA GOOSE CT Units: FS31, PE311</description>
-      <guid isPermaLink="false">2024-08-26 18:03:00</guid>
-      <pubDate>Mon, 26 Aug 2024 18:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
