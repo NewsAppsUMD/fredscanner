@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 11:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 11:22:31 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:15 am</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9B Units: A89, R8, 9B</description>
+      <guid isPermaLink="false">2024-08-28 07:15:00</guid>
+      <pubDate>Wed, 28 Aug 2024 07:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:51 am</title>
       <description>10500 BLOCK LAKERIDGE PL Radio: 91D Units: E152, E331, E111, E251, Q11, E31, C15, E172, R3, A159, ALS17, BC901, BC902, SAF901, 91D, R24, CCR1</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 38MM Units: A89, E82</description>
       <guid isPermaLink="false">2024-08-26 16:27:00</guid>
       <pubDate>Mon, 26 Aug 2024 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:13 pm</title>
-      <description>I270SB / 27MM, I270SB / 27MM Radio: 9C Units: PE311, E231, A239, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-26 12:13:00</guid>
-      <pubDate>Mon, 26 Aug 2024 12:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
