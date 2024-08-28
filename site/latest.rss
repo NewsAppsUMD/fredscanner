@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 04:26:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 04:35:25 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:32 am</title>
+      <description>I70WB / 66MM, I70WB / 66MM Radio: 9B Units: CCR1, CCA18, 9B, CCC1, E152</description>
+      <guid isPermaLink="false">2024-08-28 00:32:00</guid>
+      <pubDate>Wed, 28 Aug 2024 00:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:50 pm</title>
       <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: Q11, 9C, PE23</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK WINCHESTER BLVD, WINCHESTER Radio: 9C Units: T4, FS20, 9C, E201</description>
       <guid isPermaLink="false">2024-08-26 11:18:00</guid>
       <pubDate>Mon, 26 Aug 2024 11:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:00 am</title>
-      <description>4400 BLOCK GEORGIA PACIFIC BLVD, IRON MOUNTAIN Radio: 9C Units: T4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2024-08-26 11:00:00</guid>
-      <pubDate>Mon, 26 Aug 2024 11:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
