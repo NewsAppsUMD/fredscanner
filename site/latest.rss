@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Aug 2024 07:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 07:31:44 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:28 am</title>
+      <description>10100 BLOCK MASSER RD Radio: 9C Units: E291, E221, 9C</description>
+      <guid isPermaLink="false">2024-08-28 03:28:00</guid>
+      <pubDate>Wed, 28 Aug 2024 03:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:23 am</title>
+      <description>10100 BLOCK MASSER RD Radio: 9C Units: E221, FS22, 9C</description>
+      <guid isPermaLink="false">2024-08-28 03:23:00</guid>
+      <pubDate>Wed, 28 Aug 2024 03:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:32 am</title>
       <description>I70WB / 66MM, I70WB / 66MM Radio: 9B Units: CCR1, CCA18, 9B, CCC1, E152</description>
@@ -294,18 +306,6 @@
       <description>CATOCTIN HOLLOW RD / RT15, CATOCTIN HOLLOW RD / RT15 Radio: 9D Units: E221, TR29, EMSUTV30, A308, A309, ALS30, 9D, R10, BC902, SAF901, EMS902, FS10, E102, E61</description>
       <guid isPermaLink="false">2024-08-26 11:42:00</guid>
       <pubDate>Mon, 26 Aug 2024 11:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:21 am</title>
-      <description>4800 BLOCK WINCHESTER BLVD, WINCHESTER Radio: 9C Units: T4, 9C, E201, T5</description>
-      <guid isPermaLink="false">2024-08-26 11:21:00</guid>
-      <pubDate>Mon, 26 Aug 2024 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:18 am</title>
-      <description>4800 BLOCK WINCHESTER BLVD, WINCHESTER Radio: 9C Units: T4, FS20, 9C, E201</description>
-      <guid isPermaLink="false">2024-08-26 11:18:00</guid>
-      <pubDate>Mon, 26 Aug 2024 11:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
