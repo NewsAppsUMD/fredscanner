@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 03:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 03:25:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:21 pm</title>
+      <description>1500 BLOCK OPOSSUMTOWN PIKE, JAMES M STOCKMAN CANCER INSTITUTE Units: PE23, T50, FS02</description>
+      <guid isPermaLink="false">2024-08-28 23:21:00</guid>
+      <pubDate>Wed, 28 Aug 2024 23:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 10:10 pm</title>
       <description>200 BLOCK MONROE AVE, R W WARNER INC Units: E31</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E201</description>
       <guid isPermaLink="false">2024-08-27 10:02:00</guid>
       <pubDate>Tue, 27 Aug 2024 10:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 10:01 am</title>
-      <description>100 BLOCK N MARKET ST Units: RID2, E331, TW1, E111, RE74, A19, ALS31, SAF901, A28, EMS901, W3, VOLDC900, R24, C4C, TT23, CAN1, W2, MAU15, R3, EMS902, E152, A39, ALS23, E291, E31, PE23, E11, PE311, E501, T4, T50, BC901, BC903, FTF2, C900, CMD3, OPSDC900, BC902</description>
-      <guid isPermaLink="false">2024-08-27 10:01:00</guid>
-      <pubDate>Tue, 27 Aug 2024 10:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
