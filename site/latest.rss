@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 13:15:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 13:27:09 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:15 am</title>
+      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Units: SAF901, E172, E152, R15, HM33, HM50, HMSU33, E121, A179, A158, ALS17, EMS901, FS17, BC901</description>
+      <guid isPermaLink="false">2024-08-29 09:15:00</guid>
+      <pubDate>Thu, 29 Aug 2024 09:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:21 am</title>
       <description>6400 BLOCK GREEN VALLEY RD Units: E152, A158</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111, Q11, FS11, 9C</description>
       <guid isPermaLink="false">2024-08-27 15:49:00</guid>
       <pubDate>Tue, 27 Aug 2024 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:43 pm</title>
-      <description>APPROX LOC:W PATRICK ST Units: A19, E11</description>
-      <guid isPermaLink="false">2024-08-27 14:43:00</guid>
-      <pubDate>Tue, 27 Aug 2024 14:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
