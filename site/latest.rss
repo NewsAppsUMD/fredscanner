@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 14:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 14:51:32 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 10:44 am</title>
+      <description>1800 BLOCK MONOCACY BLVD, RIVERSIDE PARK Units: U29, R24, Q11, TR29, BT15, A19, BC902, C11</description>
+      <guid isPermaLink="false">2024-08-29 10:44:00</guid>
+      <pubDate>Thu, 29 Aug 2024 10:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 10:40 am</title>
       <description>1800 BLOCK MONOCACY BLVD, RIVERSIDE PARK Units: E111, EMS902, E11, E501, R24, Q11, TR29, BT15, BT15B, A19, PE23, BC902, SAF901, FS29, BT29, A299</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, BC903, BC902, SAF901, C5, C20, E201, JCRE1, R19, ALS20, BC602, E612, R20, A196, E141</description>
       <guid isPermaLink="false">2024-08-27 20:25:00</guid>
       <pubDate>Tue, 27 Aug 2024 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:19 pm</title>
-      <description>100 BLOCK JENNIFER LYNNE DR Units: E51, E281, T5, FS05, BC903, BC902, SAF901, E201, JCRE1, R19, ALS20, E612, R20, A196</description>
-      <guid isPermaLink="false">2024-08-27 20:19:00</guid>
-      <pubDate>Tue, 27 Aug 2024 20:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
