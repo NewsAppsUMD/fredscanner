@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 19:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 19:22:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO I27100 BLOCKSB RAMP Units: E31, R3, A318, A39, FS31, PE311</description>
+      <guid isPermaLink="false">2024-08-29 15:13:00</guid>
+      <pubDate>Thu, 29 Aug 2024 15:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
       <description>ROSEMONT AVE / RT15, ROSEMONT AVE / RT15 Units: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>10100 BLOCK MASSER RD Radio: 9C Units: E291, E221, 9C</description>
       <guid isPermaLink="false">2024-08-28 03:28:00</guid>
       <pubDate>Wed, 28 Aug 2024 03:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:23 am</title>
-      <description>10100 BLOCK MASSER RD Radio: 9C Units: E221, FS22, 9C</description>
-      <guid isPermaLink="false">2024-08-28 03:23:00</guid>
-      <pubDate>Wed, 28 Aug 2024 03:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
