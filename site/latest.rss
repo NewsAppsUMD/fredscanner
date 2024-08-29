@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 17:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 17:31:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:27 pm</title>
+      <description>100 BLOCK E SECOND ST Radio: 9C Units: 9C, E31, T4</description>
+      <guid isPermaLink="false">2024-08-29 13:27:00</guid>
+      <pubDate>Thu, 29 Aug 2024 13:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:39 am</title>
       <description>SECOND AVE / E H ST Units: BR55, FS05</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 66MM, I70WB / 66MM Radio: 9B Units: CCR1, CCA18, 9B, CCC1, E152</description>
       <guid isPermaLink="false">2024-08-28 00:32:00</guid>
       <pubDate>Wed, 28 Aug 2024 00:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:50 pm</title>
-      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: Q11, 9C, PE23</description>
-      <guid isPermaLink="false">2024-08-27 21:50:00</guid>
-      <pubDate>Tue, 27 Aug 2024 21:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
