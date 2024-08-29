@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Aug 2024 22:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 22:25:47 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:21 pm</title>
+      <description>3300 BLOCK FLINT HILL RD Units: E231, E141, PE311, E31, E251, PE23, K709, A239, ALS23, BC901, BC903, SAF901, T4, K23, K33, C23, C14, R3, TT23, K1, C3B</description>
+      <guid isPermaLink="false">2024-08-29 18:21:00</guid>
+      <pubDate>Thu, 29 Aug 2024 18:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:18 pm</title>
+      <description>BALL RD / URBANA PIKE Radio: 9C Units: BR235, FS23, 9C</description>
+      <guid isPermaLink="false">2024-08-29 18:18:00</guid>
+      <pubDate>Thu, 29 Aug 2024 18:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:15 pm</title>
+      <description>3300 BLOCK FLINT HILL RD Units: E231, E141, PE311, E31, E251, PE23, K709, A239, ALS23, BC901, BC903, SAF901, FS23, T4, K23, K33, R3, TT23</description>
+      <guid isPermaLink="false">2024-08-29 18:15:00</guid>
+      <pubDate>Thu, 29 Aug 2024 18:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:34 pm</title>
       <description>100 BLOCK W POTOMAC ST Units: E51, T5, FS05</description>
@@ -288,24 +306,6 @@
       <description>2500 BLOCK WATERSIDE DR, Apt/Unit:203, PARK PLACE II WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29</description>
       <guid isPermaLink="false">2024-08-28 07:26:00</guid>
       <pubDate>Wed, 28 Aug 2024 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:15 am</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9B Units: A89, R8, 9B</description>
-      <guid isPermaLink="false">2024-08-28 07:15:00</guid>
-      <pubDate>Wed, 28 Aug 2024 07:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:51 am</title>
-      <description>10500 BLOCK LAKERIDGE PL Radio: 91D Units: E152, E331, E111, E251, Q11, E31, C15, E172, R3, A159, ALS17, BC901, BC902, SAF901, 91D, R24, CCR1</description>
-      <guid isPermaLink="false">2024-08-28 04:51:00</guid>
-      <pubDate>Wed, 28 Aug 2024 04:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:46 am</title>
-      <description>10500 BLOCK LAKERIDGE PL Radio: 91D Units: E152, E331, E111, E251, Q11, FS15, E172, R3, A159, ALS17, BC901, BC902, SAF901, 91D, R24</description>
-      <guid isPermaLink="false">2024-08-28 04:46:00</guid>
-      <pubDate>Wed, 28 Aug 2024 04:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
