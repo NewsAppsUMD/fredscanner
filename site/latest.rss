@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 06:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 06:15:47 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:02 am</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: E31</description>
+      <guid isPermaLink="false">2024-08-30 02:02:00</guid>
+      <pubDate>Fri, 30 Aug 2024 02:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:01 am</title>
+      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: A309, A68, A69, CAN1, E102, E132, E161, E172, E221, E61, E91, EK134, EK224, EMS901, EMS902, K22, K9, Q11, ALS30, R10, R6, TTF, RID2, FTF3, FRE193, ACE21, ACR1, ACT1, ACRE2, ACEK3, CCE52, CCEK54, CCR5, CCLDR5, CCD5, CCEK84, CCEK112, CCE111, WCEK7, WCQ27, K10, ACE232, ACEK23, CMD6, SAF901, BC901, BC902, ACMICU5441, ACE22, ACK22, C6, HTRP3, E501, TW6</description>
+      <guid isPermaLink="false">2024-08-30 02:01:00</guid>
+      <pubDate>Fri, 30 Aug 2024 02:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:41 am</title>
       <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: A309, A68, A69, CAN1, E102, E132, E161, E221, E61, E91, EK134, EK224, EMS901, EMS902, K22, K9, Q11, ALS30, R10, R6, TTF, RID2, FTF3, FRE193, ACE21, ACR1, ACT1, ACRE2, ACEK3, CCE52, CCEK54, CCR5, CCLDR5, CCD5, CCEK112, CCE111, K10, ACE232, ACEK23, CMD6, SAF901, BC901, BC902, ACMICU5441, ACE22, ACK22, C6, W10, W6, HTRP3, TW6</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: EK114</description>
       <guid isPermaLink="false">2024-08-29 09:54:00</guid>
       <pubDate>Thu, 29 Aug 2024 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:50 am</title>
-      <description>4000 BLOCK BALTIMORE NATIONAL PIKE Units: E251</description>
-      <guid isPermaLink="false">2024-08-29 09:50:00</guid>
-      <pubDate>Thu, 29 Aug 2024 09:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 9:15 am</title>
-      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Units: SAF901, E172, E152, R15, HM33, HM50, HMSU33, E121, A179, A158, ALS17, EMS901, FS17, BC901</description>
-      <guid isPermaLink="false">2024-08-29 09:15:00</guid>
-      <pubDate>Thu, 29 Aug 2024 09:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
