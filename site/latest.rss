@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 18:28:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 18:38:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:31 pm</title>
+      <description>13000 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: E152, RE171, A179, BC901, EMS901, ALS17, FS15, 9D</description>
+      <guid isPermaLink="false">2024-08-30 14:31:00</guid>
+      <pubDate>Fri, 30 Aug 2024 14:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:47 pm</title>
       <description>7800 BLOCK FINGERBOARD RD, Bldg:G, THE RANCH Radio: 9C Units: BR235, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK FLINT HILL RD Radio: 9D Units: RID3, E231, E141, PE311, E31, E251, PE23, K709, A239, ALS23, BC901, BC903, SAF901, CMD23, T4, K23, K33, E331, C23, C14, R3, TT23, PRE709, TW1, A149, EMS901, W23, K1, 9D, C3B</description>
       <guid isPermaLink="false">2024-08-29 18:29:00</guid>
       <pubDate>Thu, 29 Aug 2024 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:25 pm</title>
-      <description>3300 BLOCK FLINT HILL RD Units: E231, E141, PE311, E31, E251, PE23, K709, A239, ALS23, BC901, BC903, SAF901, T4, K23, K33, E331, C23, C14, R3, TT23, K1, C3B</description>
-      <guid isPermaLink="false">2024-08-29 18:25:00</guid>
-      <pubDate>Thu, 29 Aug 2024 18:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
