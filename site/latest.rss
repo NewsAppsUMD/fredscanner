@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 04:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 04:51:35 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:46 am</title>
+      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: CCE52, CCR5, A69, ACE232, EMS902, W6, ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, RID2, ACK22, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, A68</description>
+      <guid isPermaLink="false">2024-08-30 00:46:00</guid>
+      <pubDate>Fri, 30 Aug 2024 00:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:44 am</title>
+      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, ACT1, ACK22, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, A68</description>
+      <guid isPermaLink="false">2024-08-30 00:44:00</guid>
+      <pubDate>Fri, 30 Aug 2024 00:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:37 am</title>
       <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: ALS30, BC902, BC901, SAF901, FS06, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, EK224, A68</description>
@@ -294,18 +306,6 @@
       <description>1500 BLOCK OPOSSUMTOWN PIKE, JAMES M STOCKMAN CANCER INSTITUTE Units: PE23, T50, FS02</description>
       <guid isPermaLink="false">2024-08-28 23:21:00</guid>
       <pubDate>Wed, 28 Aug 2024 23:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 10:10 pm</title>
-      <description>200 BLOCK MONROE AVE, R W WARNER INC Units: E31</description>
-      <guid isPermaLink="false">2024-08-28 22:10:00</guid>
-      <pubDate>Wed, 28 Aug 2024 22:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:25 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-28 21:25:00</guid>
-      <pubDate>Wed, 28 Aug 2024 21:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
