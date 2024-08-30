@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Aug 2024 23:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 23:31:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 7:28 pm</title>
+      <description>8200 BLOCK BALTIMORE NATIONAL PIKE PIKE Radio: 9C Units: FS12, A129, 9C, E121</description>
+      <guid isPermaLink="false">2024-08-30 19:28:00</guid>
+      <pubDate>Fri, 30 Aug 2024 19:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 5:48 pm</title>
       <description>100 BLOCK CLARKE PL, Bldg:12, BUS LOOP MSD Radio: 9C Units: R3, 9C</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, RUBY TUESDAY FREDERICK CROSSING Radio: 9C Units: BT29, A39, FS31, 9C</description>
       <guid isPermaLink="false">2024-08-29 19:04:00</guid>
       <pubDate>Thu, 29 Aug 2024 19:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:01 pm</title>
-      <description>300 BLOCK N MAXWELL AVE Units: E111, A28</description>
-      <guid isPermaLink="false">2024-08-29 19:01:00</guid>
-      <pubDate>Thu, 29 Aug 2024 19:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
