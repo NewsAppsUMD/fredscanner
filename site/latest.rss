@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Aug 2024 18:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 18:15:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:12 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: HCE41, CCR1, A259, CCA18, E251, E152</description>
+      <guid isPermaLink="false">2024-08-31 14:12:00</guid>
+      <pubDate>Sat, 31 Aug 2024 14:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:09 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: HCE41, CCR1, A259, CCA18, FS15, E251</description>
+      <guid isPermaLink="false">2024-08-31 14:09:00</guid>
+      <pubDate>Sat, 31 Aug 2024 14:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:01 pm</title>
+      <description>I70WB / EXIT 62 (RT75), I70WB / EXIT 62 Units: A158, A339, FS15, E331, R15, E152</description>
+      <guid isPermaLink="false">2024-08-31 14:01:00</guid>
+      <pubDate>Sat, 31 Aug 2024 14:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:02 pm</title>
       <description>4600 BLOCK PLUM RD Radio: 9C Units: 9C, E251, TT23, FS25</description>
@@ -288,24 +306,6 @@
       <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: CCE52, CCR5, A69, ACE232, EMS902, W6, ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, RID2, ACK22, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, A68</description>
       <guid isPermaLink="false">2024-08-30 00:46:00</guid>
       <pubDate>Fri, 30 Aug 2024 00:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:44 am</title>
-      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, ACT1, ACK22, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, A68</description>
-      <guid isPermaLink="false">2024-08-30 00:44:00</guid>
-      <pubDate>Fri, 30 Aug 2024 00:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:37 am</title>
-      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: ALS30, BC902, BC901, SAF901, FS06, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, EK224, A68</description>
-      <guid isPermaLink="false">2024-08-30 00:37:00</guid>
-      <pubDate>Fri, 30 Aug 2024 00:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:47 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
-      <guid isPermaLink="false">2024-08-29 22:47:00</guid>
-      <pubDate>Thu, 29 Aug 2024 22:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
