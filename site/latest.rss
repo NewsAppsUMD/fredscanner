@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Aug 2024 01:58:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 02:23:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:14 pm</title>
+      <description>9700 BLOCK KEYSVILLE RD, MOUNTAIN MANOR REHAB Radio: 9C Units: E61, TW6, FS06, 9C</description>
+      <guid isPermaLink="false">2024-08-30 22:14:00</guid>
+      <pubDate>Fri, 30 Aug 2024 22:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:11 pm</title>
       <description>RT340WB / RT180 (FREDERICK), RT340WB / RT180 Units: A19, E11</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK ETTERBEEK ST Units: E152, FS15</description>
       <guid isPermaLink="false">2024-08-29 19:59:00</guid>
       <pubDate>Thu, 29 Aug 2024 19:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:58 pm</title>
-      <description>7400 BLOCK ROUND HILL RD Radio: 9C Units: E72, 9C, FS12</description>
-      <guid isPermaLink="false">2024-08-29 19:58:00</guid>
-      <pubDate>Thu, 29 Aug 2024 19:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
