@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Aug 2024 18:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 18:27:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:15 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: HCE41, CCR1, A259, CCM19, CCC1, E152, R15</description>
+      <guid isPermaLink="false">2024-08-31 14:15:00</guid>
+      <pubDate>Sat, 31 Aug 2024 14:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:12 pm</title>
       <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: HCE41, CCR1, A259, CCA18, E251, E152</description>
@@ -300,12 +306,6 @@
       <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: TTF, E161, CCE52, CCR5, A69, ACE232, EMS902, W6, EK224, CCEK112, CCEK54, K9, W10, ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, RID2, ACK22, CMD6, E61, EK134, E221, E132, E102, ACE22, R6, ACT1, TW6, CCLDR5, K10, ACEK23, A68</description>
       <guid isPermaLink="false">2024-08-30 00:49:00</guid>
       <pubDate>Fri, 30 Aug 2024 00:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:46 am</title>
-      <description>16100 BLOCK SAINT ANTHONY RD, SAINT ANTHONYS SHRINE PARISH CATHOLIC CHURCH Units: CCE52, CCR5, A69, ACE232, EMS902, W6, ALS30, BC902, BC901, SAF901, C6, K22, CCE111, E91, R10, RID2, ACK22, E61, EK134, E133, E221, E102, ACE22, R6, TW6, CCLDR5, K10, ACEK23, A68</description>
-      <guid isPermaLink="false">2024-08-30 00:46:00</guid>
-      <pubDate>Fri, 30 Aug 2024 00:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
