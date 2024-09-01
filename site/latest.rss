@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 23:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 23:14:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:10 pm</title>
+      <description>800 BLOCK HARVEST TER Radio: 9C Units: E152, E251, R15, FS15, 9C</description>
+      <guid isPermaLink="false">2024-09-01 19:10:00</guid>
+      <pubDate>Sun, 01 Sep 2024 19:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:51 pm</title>
       <description>800 BLOCK HEATHER RIDGE DR, Apt/Unit:8, AMBERTOWN CONDOS #800 BLOCK Radio: 9C Units: E291, 9C, T50, FS02</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK CORMORANT PL, THE RETREAT AT MARKET SQUARE Radio: 9C Units: E291, Q11, FS29, 9C</description>
       <guid isPermaLink="false">2024-08-30 16:38:00</guid>
       <pubDate>Fri, 30 Aug 2024 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:13 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-08-30 16:13:00</guid>
-      <pubDate>Fri, 30 Aug 2024 16:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
