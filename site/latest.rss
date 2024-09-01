@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Sep 2024 05:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 05:14:54 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:10 am</title>
+      <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: A37, R3, 9B</description>
+      <guid isPermaLink="false">2024-09-01 01:10:00</guid>
+      <pubDate>Sun, 01 Sep 2024 01:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:07 am</title>
+      <description>HARBAUGH VALLEY RD / WANYESBORO PK Radio: ACOPS2 Units: R6, ACOPS2</description>
+      <guid isPermaLink="false">2024-09-01 01:07:00</guid>
+      <pubDate>Sun, 01 Sep 2024 01:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 11:39 pm</title>
       <description>ENGLISH MUFFIN LN / NEW DESIGN RD Units: PE311, R3, A318, ALS31, EMS901</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E THIRD ST Units: PE23</description>
       <guid isPermaLink="false">2024-08-30 06:58:00</guid>
       <pubDate>Fri, 30 Aug 2024 06:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
-      <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Units: A239, A19, FS23, E231, E11, TT23, R3</description>
-      <guid isPermaLink="false">2024-08-30 06:56:00</guid>
-      <pubDate>Fri, 30 Aug 2024 06:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:54 am</title>
-      <description>100 BLOCK E THIRD ST Units: BR35</description>
-      <guid isPermaLink="false">2024-08-30 06:54:00</guid>
-      <pubDate>Fri, 30 Aug 2024 06:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
