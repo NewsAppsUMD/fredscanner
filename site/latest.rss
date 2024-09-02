@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Sep 2024 21:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 21:14:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:08 pm</title>
+      <description>100 BLOCK S CARROLL ST, Bldg:11, Apt/Unit:105, MSD SHOCKLEY HOUSE Radio: 9C Units: TW1, 9C, PE311</description>
+      <guid isPermaLink="false">2024-09-02 17:08:00</guid>
+      <pubDate>Mon, 02 Sep 2024 17:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:04 pm</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: TT23, R729, PRE709, E231, A735, A259</description>
+      <guid isPermaLink="false">2024-09-02 17:04:00</guid>
+      <pubDate>Mon, 02 Sep 2024 17:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 4:40 pm</title>
       <description>8100 BLOCK ROCKY RIDGE RD Units: E102, SAF901, K22, A309, ALS30, EK224, BC902, BC901, E132, E161, E91, E61, E111, R10, TW6, R6, K10, EK134</description>
@@ -294,18 +306,6 @@
       <description>W PATRICK ST / WILLOWDALE DR Units: A18, EMS901, E11, ALS2</description>
       <guid isPermaLink="false">2024-08-31 12:39:00</guid>
       <pubDate>Sat, 31 Aug 2024 12:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:38 pm</title>
-      <description>6600 BLOCK COMMODORE CT Radio: 9C Units: 9C, R15, E152, Q11</description>
-      <guid isPermaLink="false">2024-08-31 12:38:00</guid>
-      <pubDate>Sat, 31 Aug 2024 12:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:36 pm</title>
-      <description>6600 BLOCK COMMODORE CT Radio: 9C Units: FS15, 9C, E152, Q11</description>
-      <guid isPermaLink="false">2024-08-31 12:36:00</guid>
-      <pubDate>Sat, 31 Aug 2024 12:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
