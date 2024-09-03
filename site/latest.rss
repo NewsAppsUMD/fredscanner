@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 19:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:31:33 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:28 pm</title>
+      <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: 9C, E501, E11, E111, R3, A28, ALS2, BC902, E31, T4, CMD2, PE23, Q11, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-09-03 15:28:00</guid>
+      <pubDate>Tue, 03 Sep 2024 15:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:25 pm</title>
+      <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: FS02, 9C, E501, E11, E111, R3, TW1, A28, ALS2, BC902, E31, T4, PE23, Q11, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-09-03 15:25:00</guid>
+      <pubDate>Tue, 03 Sep 2024 15:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:23 pm</title>
+      <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: FS02, 9C, E501, E11, E111, R3, TW1, A28, ALS2, BC902, E31, T4, PE23, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-09-03 15:23:00</guid>
+      <pubDate>Tue, 03 Sep 2024 15:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
+      <description>IJAMSVILLE RD / OLD NATIONAL PIKE Units: A158, E331, A339</description>
+      <guid isPermaLink="false">2024-09-03 15:22:00</guid>
+      <pubDate>Tue, 03 Sep 2024 15:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 2:53 pm</title>
       <description>11900 BLOCK MAIN ST Radio: 9C Units: FS17, 9C, E172</description>
@@ -282,30 +306,6 @@
       <description>I70WB / WEIGH STATION (NEWM), I70WB / WEIGH STATION Radio: 9C Units: CCE12, E152, FS15, 9C</description>
       <guid isPermaLink="false">2024-09-01 13:11:00</guid>
       <pubDate>Sun, 01 Sep 2024 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:23 am</title>
-      <description>8200 BLOCK FOREST STREAM CLUB RD Units: SU13</description>
-      <guid isPermaLink="false">2024-09-01 10:23:00</guid>
-      <pubDate>Sun, 01 Sep 2024 10:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:55 am</title>
-      <description>1100 BLOCK FUTURITY ST Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-09-01 09:55:00</guid>
-      <pubDate>Sun, 01 Sep 2024 09:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 9:29 am</title>
-      <description>CATOCTIN HOLLOW RD / FOXVILLE RD, CELL TOWER ROADS &amp; TRAILS Units: EMS902, FS10, ALS30, E102, R10, A229</description>
-      <guid isPermaLink="false">2024-09-01 09:29:00</guid>
-      <pubDate>Sun, 01 Sep 2024 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:55 am</title>
-      <description>9400 BLOCK HOLLOW RD Units: E72, R8, A89, ALS8, EMS902</description>
-      <guid isPermaLink="false">2024-09-01 08:55:00</guid>
-      <pubDate>Sun, 01 Sep 2024 08:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
