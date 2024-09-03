@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 23:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 23:51:39 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:45 pm</title>
+      <description>200 BLOCK DIAMOND DR Radio: 9D Units: E111, E161, E91, E291, BC901, R24, Q11, R2, A248, ALS29, BC902, SAF901, FS11, 9D, E11</description>
+      <guid isPermaLink="false">2024-09-03 19:45:00</guid>
+      <pubDate>Tue, 03 Sep 2024 19:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:43 pm</title>
       <description>5700 BLOCK INDUSTRY LN Units: E31, A28</description>
@@ -300,12 +306,6 @@
       <description>SHOOKSTOWN RD / GAMBRILL PARK RD Radio: 9C Units: BR125, FS12, 9C</description>
       <guid isPermaLink="false">2024-09-01 16:22:00</guid>
       <pubDate>Sun, 01 Sep 2024 16:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:02 pm</title>
-      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2024-09-01 15:02:00</guid>
-      <pubDate>Sun, 01 Sep 2024 15:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
