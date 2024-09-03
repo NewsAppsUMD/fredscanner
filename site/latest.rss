@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 18:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:53 pm</title>
+      <description>11900 BLOCK MAIN ST Radio: 9C Units: FS17, 9C, E172</description>
+      <guid isPermaLink="false">2024-09-03 14:53:00</guid>
+      <pubDate>Tue, 03 Sep 2024 14:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:36 pm</title>
       <description>4900 BLOCK MUSSETTER RD Units: E152, FS15, A158</description>
@@ -300,12 +306,6 @@
       <description>9400 BLOCK HOLLOW RD Units: E72, R8, A89, ALS8, EMS902</description>
       <guid isPermaLink="false">2024-09-01 08:55:00</guid>
       <pubDate>Sun, 01 Sep 2024 08:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 6:06 am</title>
-      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-09-01 06:06:00</guid>
-      <pubDate>Sun, 01 Sep 2024 06:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
