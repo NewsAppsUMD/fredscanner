@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Sep 2024 19:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 20:02:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:58 pm</title>
+      <description>APPROX LOC:RAMP RT85 TO I70EB RAMP Units: A37, R3</description>
+      <guid isPermaLink="false">2024-09-03 15:58:00</guid>
+      <pubDate>Tue, 03 Sep 2024 15:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:28 pm</title>
       <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: 9C, E501, E11, E111, R3, A28, ALS2, BC902, E31, T4, CMD2, PE23, Q11, BC901, SAF901</description>
@@ -300,12 +306,6 @@
       <description>15000 BLOCK PARK CENTRAL RD, CAMP GREENTOP CATOCTIN MOUNTAIN PARK Radio: 9D Units: E102, FS10, 9D</description>
       <guid isPermaLink="false">2024-09-01 13:39:00</guid>
       <pubDate>Sun, 01 Sep 2024 13:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:11 pm</title>
-      <description>I70WB / WEIGH STATION (NEWM), I70WB / WEIGH STATION Radio: 9C Units: CCE12, E152, FS15, 9C</description>
-      <guid isPermaLink="false">2024-09-01 13:11:00</guid>
-      <pubDate>Sun, 01 Sep 2024 13:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
