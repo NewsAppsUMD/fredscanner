@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 00:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 00:29:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:07 pm</title>
+      <description>10800 BLOCK PITCH CIR Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2024-09-03 20:07:00</guid>
+      <pubDate>Tue, 03 Sep 2024 20:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:45 pm</title>
       <description>200 BLOCK DIAMOND DR Radio: 9D Units: E111, E161, E91, E291, BC901, R24, Q11, R2, A248, ALS29, BC902, SAF901, FS11, 9D, E11</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK HEATHER RIDGE DR, Apt/Unit:8, AMBERTOWN CONDOS #800 BLOCK Radio: 9C Units: E291, 9C, T50, FS02</description>
       <guid isPermaLink="false">2024-09-01 17:51:00</guid>
       <pubDate>Sun, 01 Sep 2024 17:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:22 pm</title>
-      <description>SHOOKSTOWN RD / GAMBRILL PARK RD Radio: 9C Units: BR125, FS12, 9C</description>
-      <guid isPermaLink="false">2024-09-01 16:22:00</guid>
-      <pubDate>Sun, 01 Sep 2024 16:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
