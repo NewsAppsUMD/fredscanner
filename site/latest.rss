@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Sep 2024 17:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 17:25:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 1:14 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-09-04 13:14:00</guid>
+      <pubDate>Wed, 04 Sep 2024 13:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 12:02 pm</title>
       <description>4600 BLOCK MOUNT ZION RD Radio: 9C Units: BR125, FS12, 9C</description>
@@ -300,12 +306,6 @@
       <description>PARK CENTRAL RD / FOXVILLE RD Units: E102, R10, A309, ALS30, EMS902, FS10</description>
       <guid isPermaLink="false">2024-09-02 15:02:00</guid>
       <pubDate>Mon, 02 Sep 2024 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:17 pm</title>
-      <description>100 BLOCK S GLADE RD(NEW), Apt/Unit:IAO, WALKERSVILLE LIBRARY Units: EK114, E161, E291, E91, E11, R24, T50, R2, A248, ALS2, BC902, SAF901, FS11, BC901</description>
-      <guid isPermaLink="false">2024-09-02 14:17:00</guid>
-      <pubDate>Mon, 02 Sep 2024 14:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
