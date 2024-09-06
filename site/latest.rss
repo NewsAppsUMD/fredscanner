@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 03:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:41:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:33 pm</title>
+      <description>200 BLOCK E EIGHTH ST Radio: 9C Units: PE23, R3, FS02, 9C, E31</description>
+      <guid isPermaLink="false">2024-09-05 23:33:00</guid>
+      <pubDate>Thu, 05 Sep 2024 23:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:11 pm</title>
       <description>600 BLOCK BLANDWOOD RD Units: T4, PE23, R3</description>
@@ -300,12 +306,6 @@
       <description>11900 BLOCK MAIN ST Radio: 9C Units: FS17, 9C, E172</description>
       <guid isPermaLink="false">2024-09-03 14:53:00</guid>
       <pubDate>Tue, 03 Sep 2024 14:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:36 pm</title>
-      <description>4900 BLOCK MUSSETTER RD Units: E152, FS15, A158</description>
-      <guid isPermaLink="false">2024-09-03 14:36:00</guid>
-      <pubDate>Tue, 03 Sep 2024 14:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
