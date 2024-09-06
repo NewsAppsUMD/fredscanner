@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 10:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 10:42:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:38 am</title>
+      <description>7400 BLOCK GUILFORD DR, WALMART Units: A318, PE311</description>
+      <guid isPermaLink="false">2024-09-06 06:38:00</guid>
+      <pubDate>Fri, 06 Sep 2024 06:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:07 am</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, GEORGIA PACIFIC Units: PE311, T4, FS31</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: FS02, 9C, E501, E11, E111, R3, TW1, A28, ALS2, BC902, E31, T4, PE23, BC901, SAF901</description>
       <guid isPermaLink="false">2024-09-03 15:23:00</guid>
       <pubDate>Tue, 03 Sep 2024 15:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
-      <description>IJAMSVILLE RD / OLD NATIONAL PIKE Units: A158, E331, A339</description>
-      <guid isPermaLink="false">2024-09-03 15:22:00</guid>
-      <pubDate>Tue, 03 Sep 2024 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
