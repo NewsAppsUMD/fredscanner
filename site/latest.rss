@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Sep 2024 21:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 21:14:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:10 pm</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: HTRP3, BC902, CMD29, EK224, W29, 9D, E291, A19, A18, A38, ALS2, ALS29, E111, EMS902, R2, A28</description>
+      <guid isPermaLink="false">2024-09-06 17:10:00</guid>
+      <pubDate>Fri, 06 Sep 2024 17:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:07 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: A159</description>
+      <guid isPermaLink="false">2024-09-06 17:07:00</guid>
+      <pubDate>Fri, 06 Sep 2024 17:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:01 pm</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: BC902, EK224, 9D, E291, EK114, ALS29, EMS902, R2, A28</description>
+      <guid isPermaLink="false">2024-09-06 17:01:00</guid>
+      <pubDate>Fri, 06 Sep 2024 17:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:57 pm</title>
       <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: E11, 9D, ALS29, BC901, EMS902, FS29, R2, A28</description>
@@ -288,24 +306,6 @@
       <description>3300 BLOCK GALENA DR, Bldg:7, URBAN GREEN APARTMENTS Units: E231, FS23, TT23</description>
       <guid isPermaLink="false">2024-09-04 04:43:00</guid>
       <pubDate>Wed, 04 Sep 2024 04:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:18 pm</title>
-      <description>15200 BLOCK SABILLASVILLE RD Units: E102, A68</description>
-      <guid isPermaLink="false">2024-09-03 23:18:00</guid>
-      <pubDate>Tue, 03 Sep 2024 23:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK: 10:34 pm</title>
-      <description>RT194 / W FREDERICK ST, RT194 / W FREDERICK ST Units: E111, R24, A248, ALS29, EMS902, FS11</description>
-      <guid isPermaLink="false">2024-09-03 22:34:00</guid>
-      <pubDate>Tue, 03 Sep 2024 22:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:07 pm</title>
-      <description>10800 BLOCK PITCH CIR Radio: 9C Units: E251, FS25, 9C</description>
-      <guid isPermaLink="false">2024-09-03 21:07:00</guid>
-      <pubDate>Tue, 03 Sep 2024 21:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
