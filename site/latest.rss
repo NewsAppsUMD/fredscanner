@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Sep 2024 12:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:55:59 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 8:43 am</title>
+      <description>1100 BLOCK LONG FARM CIR Units: T5</description>
+      <guid isPermaLink="false">2024-09-07 08:43:00</guid>
+      <pubDate>Sat, 07 Sep 2024 08:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:06 am</title>
       <description>800 BLOCK NEW DESIGN RD, NEW DESIGN WATER PLANT Radio: 9C Units: 9C, E141, TT23, FS14</description>
@@ -300,12 +306,6 @@
       <description>URBANA PIKE / BLACKBERRY DR, IAO Units: A259, E231</description>
       <guid isPermaLink="false">2024-09-04 15:32:00</guid>
       <pubDate>Wed, 04 Sep 2024 15:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:14 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-04 13:14:00</guid>
-      <pubDate>Wed, 04 Sep 2024 13:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
