@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 11:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 11:41:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:37 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Units: FS20, E201, TW1</description>
+      <guid isPermaLink="false">2024-09-08 07:37:00</guid>
+      <pubDate>Sun, 08 Sep 2024 07:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:31 am</title>
+      <description>RT340WB / 1MM Units: R19, A196, ALS20, E51</description>
+      <guid isPermaLink="false">2024-09-08 07:31:00</guid>
+      <pubDate>Sun, 08 Sep 2024 07:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:18 am</title>
       <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9B Units: E61, FS06, TW6, 9B</description>
@@ -294,18 +306,6 @@
       <description>LEWISDALE RD / GREEN VALLEY RD Radio: 9D Units: E231, R15, A239, PRE709, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2024-09-05 20:05:00</guid>
       <pubDate>Thu, 05 Sep 2024 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:29 pm</title>
-      <description>RT340WB / RT180 (FREDERICK), RT340WB / RT180 Units: A19, E11</description>
-      <guid isPermaLink="false">2024-09-05 18:29:00</guid>
-      <pubDate>Thu, 05 Sep 2024 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:17 pm</title>
-      <description>1000 BLOCK FRACIS SCOTT KEY HWY Units: SU9, K9</description>
-      <guid isPermaLink="false">2024-09-05 18:17:00</guid>
-      <pubDate>Thu, 05 Sep 2024 18:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
