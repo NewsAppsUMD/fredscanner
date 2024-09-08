@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Sep 2024 04:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 04:26:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:18 am</title>
+      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9B Units: E61, FS06, TW6, 9B</description>
+      <guid isPermaLink="false">2024-09-08 00:18:00</guid>
+      <pubDate>Sun, 08 Sep 2024 00:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:12 pm</title>
       <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9D Units: RE74, 9D, BC903, EMS901, WCE162, R8, A89, A78, ALS8</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK FRACIS SCOTT KEY HWY Units: SU9, K9</description>
       <guid isPermaLink="false">2024-09-05 18:17:00</guid>
       <pubDate>Thu, 05 Sep 2024 18:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:34 pm</title>
-      <description>FSK HWY / KEYSVILLE RD Units: E91, E132, E61</description>
-      <guid isPermaLink="false">2024-09-05 16:34:00</guid>
-      <pubDate>Thu, 05 Sep 2024 16:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
