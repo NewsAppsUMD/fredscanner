@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 11:41:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 11:51:29 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:41 am</title>
+      <description>1400 BLOCK HEATHER RIDGE CT Units: E501, E11, E291, PE23, E31, R3, T50, T4, A19, ALS29, BC902, SAF901, RID3, E111, Q11, A18, EMS902, W1, VOLAC900, BC901</description>
+      <guid isPermaLink="false">2024-09-09 07:41:00</guid>
+      <pubDate>Mon, 09 Sep 2024 07:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:36 am</title>
       <description>1400 BLOCK HEATHER RIDGE CT Units: E501, E11, E291, PE23, E31, R3, T50, T4, A19, ALS29, BC902, SAF901, BC901</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: HTRP3, BC902, CMD29, EK224, W29, 9D, E291, A19, A18, A38, ALS2, ALS29, E111, EMS902, R2, A28</description>
       <guid isPermaLink="false">2024-09-06 17:10:00</guid>
       <pubDate>Fri, 06 Sep 2024 17:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:07 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: A159</description>
-      <guid isPermaLink="false">2024-09-06 17:07:00</guid>
-      <pubDate>Fri, 06 Sep 2024 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
