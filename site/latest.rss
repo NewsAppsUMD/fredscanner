@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 21:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 21:14:51 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 5:03 pm</title>
+      <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: BR106, FS10, 9C</description>
+      <guid isPermaLink="false">2024-09-09 17:03:00</guid>
+      <pubDate>Mon, 09 Sep 2024 17:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:38 pm</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, SECU CREDIT UNION Units: FS31, A318, R3</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK LAKEVIEW DR Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-09-07 15:23:00</guid>
       <pubDate>Sat, 07 Sep 2024 15:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:27 pm</title>
-      <description>I70EB / MOUNT PHILLIP RD, I70EB / MOUNT PHILLIP RD Radio: 9D Units: E121, PE23, EMS901, FS12, 9D, E31, R3, A129, A37</description>
-      <guid isPermaLink="false">2024-09-07 12:27:00</guid>
-      <pubDate>Sat, 07 Sep 2024 12:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
