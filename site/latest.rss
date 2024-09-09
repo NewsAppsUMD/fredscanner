@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 13:44:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 13:51:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:44 am</title>
+      <description>100 BLOCK E PATRICK ST Radio: 9C Units: PE23, TW1, 9C</description>
+      <guid isPermaLink="false">2024-09-09 09:44:00</guid>
+      <pubDate>Mon, 09 Sep 2024 09:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:41 am</title>
       <description>700 BLOCK E PATRICK ST, Bldg:7, FREDERICK FAIRGROUNDS BLDG 7 - COMMERCIAL EXHIBIT Radio: 9C Units: E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9C Units: 9C, E102, FS10</description>
       <guid isPermaLink="false">2024-09-06 20:16:00</guid>
       <pubDate>Fri, 06 Sep 2024 20:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:18 pm</title>
-      <description>5000 BLOCK CROYDON TER Radio: 9I Units: E31, EMS901, FS31, 9I, R3, A319, ALS20</description>
-      <guid isPermaLink="false">2024-09-06 17:18:00</guid>
-      <pubDate>Fri, 06 Sep 2024 17:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
