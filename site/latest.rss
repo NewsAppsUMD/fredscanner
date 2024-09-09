@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 16:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 17:02:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:53 pm</title>
+      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: PE311, TW1, FS31, 9C</description>
+      <guid isPermaLink="false">2024-09-09 12:53:00</guid>
+      <pubDate>Mon, 09 Sep 2024 12:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 11:34 am</title>
       <description>EISENTOWN DR/WEST BROADWAY Units: T5</description>
@@ -300,12 +306,6 @@
       <description>11200 BLOCK HESSONG BRIDGE RD, IAO Radio: 9C Units: 9C, BR226, FS22</description>
       <guid isPermaLink="false">2024-09-07 05:03:00</guid>
       <pubDate>Sat, 07 Sep 2024 05:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:53 am</title>
-      <description>RT26 / SOUTH ST, Apt/Unit:HTTPS://A91.IO/55HKS, RT26 / SOUTH ST Units: A169, E172</description>
-      <guid isPermaLink="false">2024-09-07 02:53:00</guid>
-      <pubDate>Sat, 07 Sep 2024 02:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
