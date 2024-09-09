@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Sep 2024 15:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 15:41:34 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 11:34 am</title>
+      <description>EISENTOWN DR/WEST BROADWAY Units: T5</description>
+      <guid isPermaLink="false">2024-09-09 11:34:00</guid>
+      <pubDate>Mon, 09 Sep 2024 11:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 11:24 am</title>
       <description>1800 BLOCK DERRS CT Radio: 9C Units: EK114, E291, 9C, R24, K1, FS11</description>
@@ -300,12 +306,6 @@
       <description>RT26 / SOUTH ST, Apt/Unit:HTTPS://A91.IO/55HKS, RT26 / SOUTH ST Units: A169, E172</description>
       <guid isPermaLink="false">2024-09-07 02:53:00</guid>
       <pubDate>Sat, 07 Sep 2024 02:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:18 am</title>
-      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Units: A69, E61</description>
-      <guid isPermaLink="false">2024-09-07 02:18:00</guid>
-      <pubDate>Sat, 07 Sep 2024 02:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
