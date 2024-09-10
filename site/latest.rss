@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 20:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 20:41:27 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:33 pm</title>
+      <description>I70WB / 38MM Radio: PS1 Units: E82, PS1</description>
+      <guid isPermaLink="false">2024-09-10 16:33:00</guid>
+      <pubDate>Tue, 10 Sep 2024 16:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:31 pm</title>
+      <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Radio: 9B Units: E251, E152, R15, A158, CCA19, CCE12, C15C, C15, 9B</description>
+      <guid isPermaLink="false">2024-09-10 16:31:00</guid>
+      <pubDate>Tue, 10 Sep 2024 16:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
       <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Units: E152, R15, CCA18, A158, FS15, CCE12</description>
@@ -294,18 +306,6 @@
       <description>SCHIFFERSTADT BLVD / MONOCACY BLVD Radio: 9B Units: PE23, FS02, A28, 9B</description>
       <guid isPermaLink="false">2024-09-08 14:51:00</guid>
       <pubDate>Sun, 08 Sep 2024 14:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 2:42 pm</title>
-      <description>3200 BLOCK RODERICK RD Radio: 9C Units: E231, K23, BR235, 9C</description>
-      <guid isPermaLink="false">2024-09-08 14:42:00</guid>
-      <pubDate>Sun, 08 Sep 2024 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:34 pm</title>
-      <description>OLD NATIONAL PIKE / WOODVILLE RD Radio: 9B Units: R15, FS15, 9B, CCA18</description>
-      <guid isPermaLink="false">2024-09-08 14:34:00</guid>
-      <pubDate>Sun, 08 Sep 2024 14:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
