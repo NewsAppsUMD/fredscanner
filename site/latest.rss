@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 15:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 15:25:30 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:13 am</title>
+      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: E51</description>
+      <guid isPermaLink="false">2024-09-10 11:13:00</guid>
+      <pubDate>Tue, 10 Sep 2024 11:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:27 am</title>
       <description>10600 BLOCK OLD NATIONAL PIKE Radio: 9C Units: 9C, E152, T4, FS15</description>
@@ -300,12 +306,6 @@
       <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Radio: 9B Units: E61, FS06, TW6, 9B</description>
       <guid isPermaLink="false">2024-09-08 00:18:00</guid>
       <pubDate>Sun, 08 Sep 2024 00:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:12 pm</title>
-      <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9D Units: RE74, 9D, BC903, EMS901, WCE162, R8, A89, A78, ALS8</description>
-      <guid isPermaLink="false">2024-09-07 22:12:00</guid>
-      <pubDate>Sat, 07 Sep 2024 22:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
