@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Sep 2024 02:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 02:52:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:47 pm</title>
+      <description>RT15NB / RT26, RT15NB / RT26 Units: E291, R24, A299, FS02, PE23, A28</description>
+      <guid isPermaLink="false">2024-09-09 22:47:00</guid>
+      <pubDate>Mon, 09 Sep 2024 22:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:05 pm</title>
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Units: CCA19, A158, CCR1, HCE41, E152, R15</description>
@@ -300,12 +306,6 @@
       <description>JEFFERSON PIKE / BURKITTSVILLE RD Units: A196, E51</description>
       <guid isPermaLink="false">2024-09-07 21:15:00</guid>
       <pubDate>Sat, 07 Sep 2024 21:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:10 pm</title>
-      <description>7300 BLOCK GUILFORD DR, BEST BUY Radio: 9D Units: EMS901, FS31, 9D, PE311, ALS31, R3, A318</description>
-      <guid isPermaLink="false">2024-09-07 20:10:00</guid>
-      <pubDate>Sat, 07 Sep 2024 20:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
