@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 10:42:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 10:51:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:44 am</title>
+      <description>FOXVILLE RD / TOWER RD Radio: 9D Units: E102, R10, A309, ALS30, E212, BC902, EMS902, FS10, 9D</description>
+      <guid isPermaLink="false">2024-09-11 06:44:00</guid>
+      <pubDate>Wed, 11 Sep 2024 06:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:02 am</title>
       <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS Radio: 9C Units: E161, FS16, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W SOUTH ST Units: E31, T4</description>
       <guid isPermaLink="false">2024-09-08 23:54:00</guid>
       <pubDate>Sun, 08 Sep 2024 23:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 11:49 pm</title>
-      <description>DAHLGREN CAMP APPALACHIAN TRAIL, DAHLGREN CAMP APPALACHIAN TRAIL Units: SAF901, EMS901, RE74, E121, WCR69, WCE61, TR29, WCEMSUTV8, WCA692, WCM691, BC903, E82</description>
-      <guid isPermaLink="false">2024-09-08 23:49:00</guid>
-      <pubDate>Sun, 08 Sep 2024 23:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
