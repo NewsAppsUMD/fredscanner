@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 12:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:16:23 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:10 am</title>
+      <description>WOODSBORO PIKE / ADVENTURE AVE Units: A248, E111</description>
+      <guid isPermaLink="false">2024-09-11 08:10:00</guid>
+      <pubDate>Wed, 11 Sep 2024 08:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 8:09 am</title>
+      <description>2900 BLOCK OSPREY WAY Radio: 9C Units: E291, PE23, 9C, Q11, FS29</description>
+      <guid isPermaLink="false">2024-09-11 08:09:00</guid>
+      <pubDate>Wed, 11 Sep 2024 08:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:12 am</title>
       <description>I270SB / 23MM, I270SB / 23MM Radio: 91C Units: E231, PRE709, FS23, 91C</description>
@@ -294,18 +306,6 @@
       <description>MOTTER AVE / PINEWOOD DR Units: A28, PE23</description>
       <guid isPermaLink="false">2024-09-09 08:54:00</guid>
       <pubDate>Mon, 09 Sep 2024 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:41 am</title>
-      <description>1400 BLOCK HEATHER RIDGE CT Units: E501, E11, E291, PE23, E31, R3, T50, T4, A19, ALS29, BC902, SAF901, RID3, E111, Q11, A18, EMS902, W1, VOLAC900, BC901</description>
-      <guid isPermaLink="false">2024-09-09 07:41:00</guid>
-      <pubDate>Mon, 09 Sep 2024 07:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:36 am</title>
-      <description>1400 BLOCK HEATHER RIDGE CT Units: E501, E11, E291, PE23, E31, R3, T50, T4, A19, ALS29, BC902, SAF901, BC901</description>
-      <guid isPermaLink="false">2024-09-09 07:36:00</guid>
-      <pubDate>Mon, 09 Sep 2024 07:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
