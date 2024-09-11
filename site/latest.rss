@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Sep 2024 16:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 16:52:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:43 pm</title>
+      <description>I70EB / 48MM, I70EB / 48MM Units: A129, A39, ALS4, BC902, EMS901, E121, R8, RE74</description>
+      <guid isPermaLink="false">2024-09-11 12:43:00</guid>
+      <pubDate>Wed, 11 Sep 2024 12:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:17 pm</title>
       <description>6900 BLOCK WOODVILLE RD Radio: 9D Units: 9D, E152, RE171, A179, ALS17, EMS902, FS17, CCR1, CCA18</description>
@@ -300,12 +306,6 @@
       <description>RT85 / SPECTRUM DR, RT85 / SPECTRUM DR Units: PE311, A319</description>
       <guid isPermaLink="false">2024-09-09 14:40:00</guid>
       <pubDate>Mon, 09 Sep 2024 14:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:53 pm</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: PE311, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-09 12:53:00</guid>
-      <pubDate>Mon, 09 Sep 2024 12:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
