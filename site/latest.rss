@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 15:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 15:14:52 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 11:05 am</title>
+      <description>600 BLOCK RESEARCH CT, Apt/Unit:BLDG 600 BLOCK 1FL 1A13 AD, ASTRA ZENECA Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-09-12 11:05:00</guid>
+      <pubDate>Thu, 12 Sep 2024 11:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:05 am</title>
       <description>100 BLOCK LINDEN BLVD Radio: 9C Units: RE74, E201, R8, 9C</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK WESTVIEW DR, COURTYARD BY MARRIOTT Radio: 9C Units: FS31, 9C, PE311, T4</description>
       <guid isPermaLink="false">2024-09-10 13:28:00</guid>
       <pubDate>Tue, 10 Sep 2024 13:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:13 am</title>
-      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: E51</description>
-      <guid isPermaLink="false">2024-09-10 11:13:00</guid>
-      <pubDate>Tue, 10 Sep 2024 11:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
