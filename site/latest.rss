@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 19:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 19:21:49 +0000</lastBuildDate>
+    <item>
+      <title>ENTRAPMENT - TORSO OR HEAD: 3:19 pm</title>
+      <description>9200 BLOCK OPOSSUMTOWN CT Radio: 9D Units: 9D, R2, BC902, SAF901, EMS901, FS29, E291, A18, ALS2, E12</description>
+      <guid isPermaLink="false">2024-09-12 15:19:00</guid>
+      <pubDate>Thu, 12 Sep 2024 15:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:52 pm</title>
       <description>BUCKEYSTOWN PIKE / MICHAELS MILL RD Units: A149, R14</description>
@@ -300,12 +306,6 @@
       <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Units: E152, R15, CCA18, A158, FS15, CCE12</description>
       <guid isPermaLink="false">2024-09-10 16:27:00</guid>
       <pubDate>Tue, 10 Sep 2024 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:58 pm</title>
-      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT85 RAMP Radio: 9B Units: 9B, A19, E12</description>
-      <guid isPermaLink="false">2024-09-10 15:58:00</guid>
-      <pubDate>Tue, 10 Sep 2024 15:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
