@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 20:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 20:15:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:05 pm</title>
+      <description>7300 BLOCK MARCIES CHOICE LN, IAO Units: A318, PE311</description>
+      <guid isPermaLink="false">2024-09-12 16:05:00</guid>
+      <pubDate>Thu, 12 Sep 2024 16:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:21 pm</title>
       <description>RT77 / RAILROAD OVERPASS (13), IAO Radio: 9C Units: 9C, BR135, FS13</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 38MM Radio: PS1 Units: E82, PS1</description>
       <guid isPermaLink="false">2024-09-10 16:33:00</guid>
       <pubDate>Tue, 10 Sep 2024 16:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:31 pm</title>
-      <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Radio: 9B Units: E251, E152, R15, A158, CCA19, CCE12, C15C, C15, 9B</description>
-      <guid isPermaLink="false">2024-09-10 16:31:00</guid>
-      <pubDate>Tue, 10 Sep 2024 16:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
