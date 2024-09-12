@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 01:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 02:00:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:53 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / ROSEMONT AVE Radio: 9D Units: E501, R20, 9D, A19, BC902, PE311, A318, EMS902</description>
+      <guid isPermaLink="false">2024-09-11 21:53:00</guid>
+      <pubDate>Wed, 11 Sep 2024 21:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:37 pm</title>
+      <description>RT550 / KELBAUGH RD, RT550 / KELBAUGH RD Radio: 9C Units: BR106, FS10, 9C</description>
+      <guid isPermaLink="false">2024-09-11 21:37:00</guid>
+      <pubDate>Wed, 11 Sep 2024 21:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE - ENTRAPMENT: 9:18 pm</title>
       <description>200 BLOCK LOCUST ST Radio: 9D Units: E12, E31, T4, T50, A19, A38, ALS4, BC902, SAF901, 9D, BC903, EMS902, E23, E501, E291, R3</description>
@@ -294,18 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Units: CCA19, A158, CCR1, HCE41, E152, R15</description>
       <guid isPermaLink="false">2024-09-09 22:05:00</guid>
       <pubDate>Mon, 09 Sep 2024 22:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:58 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Units: CCA18, A158, CCR1, HCE41, E152</description>
-      <guid isPermaLink="false">2024-09-09 21:58:00</guid>
-      <pubDate>Mon, 09 Sep 2024 21:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:40 pm</title>
-      <description>I70EB / 37MM Units: E82, A89, ALS8</description>
-      <guid isPermaLink="false">2024-09-09 18:40:00</guid>
-      <pubDate>Mon, 09 Sep 2024 18:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
