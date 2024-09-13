@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 23:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 23:42:02 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 7:31 pm</title>
+      <description>6900 BLOCK CASTLE CT, Apt/Unit:207, KINGSCREST APTS Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-09-13 19:31:00</guid>
+      <pubDate>Fri, 13 Sep 2024 19:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:36 pm</title>
       <description>1000 BLOCK HUNTERS KNOLL Radio: 9C Units: 9C, E82</description>
@@ -300,12 +306,6 @@
       <description>3400 BLOCK STONE BARN DR, SUGARLOAF ELEMENTARY SCHOOL Units: E231, TT23, FS23</description>
       <guid isPermaLink="false">2024-09-11 14:10:00</guid>
       <pubDate>Wed, 11 Sep 2024 14:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:43 pm</title>
-      <description>I70EB / 48MM, I70EB / 48MM Units: A129, A39, ALS4, BC902, EMS901, E121, R8, RE74</description>
-      <guid isPermaLink="false">2024-09-11 12:43:00</guid>
-      <pubDate>Wed, 11 Sep 2024 12:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
