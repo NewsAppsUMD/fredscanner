@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 04:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 04:15:10 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:07 am</title>
+      <description>1300 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, FS05, 9C</description>
+      <guid isPermaLink="false">2024-09-13 00:07:00</guid>
+      <pubDate>Fri, 13 Sep 2024 00:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 11:01 pm</title>
       <description>MILL RACE RD / MILL ISLAND PKWY Radio: 9C Units: FS29, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>FOXVILLE RD / TOWER RD Radio: 9D Units: E102, R10, A309, ALS30, E212, BC902, EMS902, FS10, 9D</description>
       <guid isPermaLink="false">2024-09-11 06:44:00</guid>
       <pubDate>Wed, 11 Sep 2024 06:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:02 am</title>
-      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS Radio: 9C Units: E161, FS16, 9C</description>
-      <guid isPermaLink="false">2024-09-11 02:02:00</guid>
-      <pubDate>Wed, 11 Sep 2024 02:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
