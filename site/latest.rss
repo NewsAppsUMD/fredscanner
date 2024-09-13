@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 21:41:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 21:51:23 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:46 pm</title>
+      <description>800 BLOCK AZTEC DR Radio: 9C Units: FS02, 9C, E31</description>
+      <guid isPermaLink="false">2024-09-13 17:46:00</guid>
+      <pubDate>Fri, 13 Sep 2024 17:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 5:42 pm</title>
+      <description>E CHURCH ST / E SEVENTH ST Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2024-09-13 17:42:00</guid>
+      <pubDate>Fri, 13 Sep 2024 17:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:42 pm</title>
+      <description>3600 BLOCK STONE BARN DR Radio: 9C Units: TT23, 9C, K23, E231</description>
+      <guid isPermaLink="false">2024-09-13 17:42:00</guid>
+      <pubDate>Fri, 13 Sep 2024 17:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:38 pm</title>
+      <description>3600 BLOCK STONE BARN DR Radio: 9C Units: E251, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-09-13 17:38:00</guid>
+      <pubDate>Fri, 13 Sep 2024 17:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:32 pm</title>
       <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Units: TT23, R3, A238, A735, FS23, E231, PRE709</description>
@@ -282,30 +306,6 @@
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, IRON MOUNTAIN INC Radio: 9C Units: 9C, PE311, T4, FS31</description>
       <guid isPermaLink="false">2024-09-11 11:11:00</guid>
       <pubDate>Wed, 11 Sep 2024 11:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:31 am</title>
-      <description>9900 BLOCK LIBERTY RD Radio: 9D Units: R24, A248, ALS17, BC903, EMS902, FS11, 9D, E111</description>
-      <guid isPermaLink="false">2024-09-11 10:31:00</guid>
-      <pubDate>Wed, 11 Sep 2024 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:49 am</title>
-      <description>11500 BLOCK OLD ANNAPOLIS RD Radio: 9B Units: 9B, E172, Q11, FS17</description>
-      <guid isPermaLink="false">2024-09-11 09:49:00</guid>
-      <pubDate>Wed, 11 Sep 2024 09:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:01 am</title>
-      <description>100 BLOCK ADAMS CT Radio: 9C Units: FS11, 9C, BR116</description>
-      <guid isPermaLink="false">2024-09-11 09:01:00</guid>
-      <pubDate>Wed, 11 Sep 2024 09:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:59 am</title>
-      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS Radio: 9C Units: Q11, FS16, 9C, E161</description>
-      <guid isPermaLink="false">2024-09-11 08:59:00</guid>
-      <pubDate>Wed, 11 Sep 2024 08:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
