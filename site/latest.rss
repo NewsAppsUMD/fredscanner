@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 21:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 21:14:42 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 5:00 pm</title>
+      <description>1100 BLOCK FRONTLINE DR Units: A19, ALS4, BC902, E11, BC901, SAF901, E121, R3, T4, T50, E31, PE23, E501</description>
+      <guid isPermaLink="false">2024-09-13 17:00:00</guid>
+      <pubDate>Fri, 13 Sep 2024 17:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:32 pm</title>
       <description>I70EB / 37MM Radio: PS1 Units: A89, E82, PS1</description>
@@ -300,12 +306,6 @@
       <description>WOODSBORO PIKE / ADVENTURE AVE Units: A248, E111</description>
       <guid isPermaLink="false">2024-09-11 08:10:00</guid>
       <pubDate>Wed, 11 Sep 2024 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 8:09 am</title>
-      <description>2900 BLOCK OSPREY WAY Radio: 9C Units: E291, PE23, 9C, Q11, FS29</description>
-      <guid isPermaLink="false">2024-09-11 08:09:00</guid>
-      <pubDate>Wed, 11 Sep 2024 08:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
