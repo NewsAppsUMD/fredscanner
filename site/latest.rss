@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Sep 2024 23:51:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:07:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:52 pm</title>
+      <description>I270SB / 26MM, I270SB / 26MM Radio: 9D Units: BC901, EMS902, E231, PRE709, TT23, R3, A238, A735, ALS23, 9D, FS23</description>
+      <guid isPermaLink="false">2024-09-12 19:52:00</guid>
+      <pubDate>Thu, 12 Sep 2024 19:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:20 pm</title>
       <description>BUCKEYSTOWN PIKE / TUSCARORA RD Radio: 9B Units: A149, ALS31, FS14, R14, E281, EMS901, 9B</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK HILLCREST DR Units: A38, E11</description>
       <guid isPermaLink="false">2024-09-10 20:42:00</guid>
       <pubDate>Tue, 10 Sep 2024 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:50 pm</title>
-      <description>5300 BLOCK REGAL CT Units: FS31, PE311</description>
-      <guid isPermaLink="false">2024-09-10 19:50:00</guid>
-      <pubDate>Tue, 10 Sep 2024 19:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
