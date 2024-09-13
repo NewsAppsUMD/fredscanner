@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Sep 2024 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:15:43 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 2:08 pm</title>
+      <description>100 BLOCK WATER ST, NAPA AUTO PARTS Radio: 9C Units: 9C, E102, E133, R10, EK224, FS10</description>
+      <guid isPermaLink="false">2024-09-13 14:08:00</guid>
+      <pubDate>Fri, 13 Sep 2024 14:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 1:22 pm</title>
       <description>RT85 / RT355, RT85 / RT355 Radio: 9B Units: E31, A38, ALS31, 9B, EMS901, R3, FS04</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 23MM, I270SB / 23MM Radio: 91C Units: E231, PRE709, FS23, 91C</description>
       <guid isPermaLink="false">2024-09-11 07:12:00</guid>
       <pubDate>Wed, 11 Sep 2024 07:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:52 am</title>
-      <description>OPOSSUMTOWN PIKE / CHRISTOPHERS XING Radio: 9I Units: 9I, A299, ALS29, EMS901, FS29, E291, R3</description>
-      <guid isPermaLink="false">2024-09-11 06:52:00</guid>
-      <pubDate>Wed, 11 Sep 2024 06:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
