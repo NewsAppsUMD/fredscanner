@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 12:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 13:09:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:00 am</title>
+      <description>RT340WB / RT67 Units: E51, A196, ALS20</description>
+      <guid isPermaLink="false">2024-09-14 09:00:00</guid>
+      <pubDate>Sat, 14 Sep 2024 09:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 8:51 am</title>
       <description>500 BLOCK OLD MILL RD Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>RT550 / KELBAUGH RD, RT550 / KELBAUGH RD Radio: 9C Units: BR106, FS10, 9C</description>
       <guid isPermaLink="false">2024-09-11 21:37:00</guid>
       <pubDate>Wed, 11 Sep 2024 21:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 9:18 pm</title>
-      <description>200 BLOCK LOCUST ST Radio: 9D Units: E12, E31, T4, T50, A19, A38, ALS4, BC902, SAF901, 9D, BC903, EMS902, E23, E501, E291, R3</description>
-      <guid isPermaLink="false">2024-09-11 21:18:00</guid>
-      <pubDate>Wed, 11 Sep 2024 21:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
