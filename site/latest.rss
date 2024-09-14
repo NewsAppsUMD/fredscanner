@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 13:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 14:01:50 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 9:58 am</title>
+      <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: E102, FS10, 9C</description>
+      <guid isPermaLink="false">2024-09-14 09:58:00</guid>
+      <pubDate>Sat, 14 Sep 2024 09:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>DETAIL: 9:48 am</title>
       <description>700 BLOCK E PATRICK ST(NEAR FIRE RESCUE), Bldg:15, BLDG 15 - FIRE RESCUE Units: BR55</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E SOUTH ST Radio: 9B Units: E23, R3, 9B, E31</description>
       <guid isPermaLink="false">2024-09-11 22:19:00</guid>
       <pubDate>Wed, 11 Sep 2024 22:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:53 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / ROSEMONT AVE Radio: 9D Units: E501, R20, 9D, A19, BC902, PE311, A318, EMS902</description>
-      <guid isPermaLink="false">2024-09-11 21:53:00</guid>
-      <pubDate>Wed, 11 Sep 2024 21:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
