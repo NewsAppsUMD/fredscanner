@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Sep 2024 16:15:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 16:27:05 +0000</lastBuildDate>
+    <item>
+      <title>ENTRAPMENT - TORSO OR HEAD: 12:16 pm</title>
+      <description>6900 BLOCK CRESTWOOD BLVD, FOOD LION Radio: 9D Units: PE311, R3, A318, ALS31, FS31, 9D, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2024-09-14 12:16:00</guid>
+      <pubDate>Sat, 14 Sep 2024 12:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 12:00 pm</title>
+      <description>3300 BLOCK HARPERS FERRY RD Radio: TAC1OPS Units: K5, TAC1OPS</description>
+      <guid isPermaLink="false">2024-09-14 12:00:00</guid>
+      <pubDate>Sat, 14 Sep 2024 12:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 9:58 am</title>
       <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: E102, FS10, 9C</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: E12, 9C</description>
       <guid isPermaLink="false">2024-09-11 23:10:00</guid>
       <pubDate>Wed, 11 Sep 2024 23:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 10:51 pm</title>
-      <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9C Units: E102, E61, K10, FS10, 9C</description>
-      <guid isPermaLink="false">2024-09-11 22:51:00</guid>
-      <pubDate>Wed, 11 Sep 2024 22:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:19 pm</title>
-      <description>100 BLOCK E SOUTH ST Radio: 9B Units: E23, R3, 9B, E31</description>
-      <guid isPermaLink="false">2024-09-11 22:19:00</guid>
-      <pubDate>Wed, 11 Sep 2024 22:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
