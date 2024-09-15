@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 04:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 04:15:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:05 am</title>
+      <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-09-15 00:05:00</guid>
+      <pubDate>Sun, 15 Sep 2024 00:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:01 am</title>
+      <description>16400 BLOCK OLD EMMITSBURG RD, MOUNT SAINT MARYS ALUMNI COURT Units: E61, EMS902, FS06, R6, A69, ALS30</description>
+      <guid isPermaLink="false">2024-09-15 00:01:00</guid>
+      <pubDate>Sun, 15 Sep 2024 00:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:38 pm</title>
       <description>10700 BLOCK HARNEY RD Radio: 9C Units: E61, FS06, 9C</description>
@@ -294,18 +306,6 @@
       <description>1300 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, FS05, 9C</description>
       <guid isPermaLink="false">2024-09-13 00:07:00</guid>
       <pubDate>Fri, 13 Sep 2024 00:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:01 pm</title>
-      <description>MILL RACE RD / MILL ISLAND PKWY Radio: 9C Units: FS29, 9C, E291</description>
-      <guid isPermaLink="false">2024-09-12 23:01:00</guid>
-      <pubDate>Thu, 12 Sep 2024 23:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:42 pm</title>
-      <description>100 BLOCK HEATHFIELD DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-09-12 22:42:00</guid>
-      <pubDate>Thu, 12 Sep 2024 22:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
