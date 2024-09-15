@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 19:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 19:13:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:06 pm</title>
+      <description>6100 BLOCK DICKERSON RD Units: A149, E281</description>
+      <guid isPermaLink="false">2024-09-15 15:06:00</guid>
+      <pubDate>Sun, 15 Sep 2024 15:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
+      <description>6100 BLOCK DICKERSON RD Units: R14, A149</description>
+      <guid isPermaLink="false">2024-09-15 15:04:00</guid>
+      <pubDate>Sun, 15 Sep 2024 15:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 3:01 pm</title>
+      <description>RT15NB / RODDY CREEK RD(RODDY CREEK RD), RT15NB / RODDY CREEK RD Radio: 9D Units: E102, R10, A309, ALS30, BC902, EMS902, FS10, 9D</description>
+      <guid isPermaLink="false">2024-09-15 15:01:00</guid>
+      <pubDate>Sun, 15 Sep 2024 15:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 2:02 pm</title>
       <description>15700 BLOCK BERKHAMSTEAD PL Units: E281</description>
@@ -288,24 +306,6 @@
       <description>I70EB / 57MM, I70EB / 57MM Radio: 9B Units: A339, E331, FS33, 9B</description>
       <guid isPermaLink="false">2024-09-13 21:34:00</guid>
       <pubDate>Fri, 13 Sep 2024 21:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:31 pm</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: E291, FS29, 9B, A299</description>
-      <guid isPermaLink="false">2024-09-13 20:31:00</guid>
-      <pubDate>Fri, 13 Sep 2024 20:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:31 pm</title>
-      <description>6900 BLOCK CASTLE CT, Apt/Unit:207, KINGSCREST APTS Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-13 19:31:00</guid>
-      <pubDate>Fri, 13 Sep 2024 19:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:36 pm</title>
-      <description>1000 BLOCK HUNTERS KNOLL Radio: 9C Units: 9C, E82</description>
-      <guid isPermaLink="false">2024-09-13 18:36:00</guid>
-      <pubDate>Fri, 13 Sep 2024 18:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
