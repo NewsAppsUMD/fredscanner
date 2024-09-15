@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 00:08:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:33:59 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:12 pm</title>
+      <description>E SEVENTH ST / CHAPEL ALY Radio: 9C Units: PE23, FS02, 9C</description>
+      <guid isPermaLink="false">2024-09-14 20:12:00</guid>
+      <pubDate>Sat, 14 Sep 2024 20:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 7:41 pm</title>
       <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Units: BR55, BR285, BR35</description>
@@ -300,12 +306,6 @@
       <description>RT75 / COPPERMINE RD, RT75 / JONES RD Radio: 9C Units: BR175, FS17, 9C</description>
       <guid isPermaLink="false">2024-09-12 18:20:00</guid>
       <pubDate>Thu, 12 Sep 2024 18:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:47 pm</title>
-      <description>LIBERTY RD / SEBASTIAN BLVD Units: A248, E111</description>
-      <guid isPermaLink="false">2024-09-12 17:47:00</guid>
-      <pubDate>Thu, 12 Sep 2024 17:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
