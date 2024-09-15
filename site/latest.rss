@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 00:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 01:00:41 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:48 pm</title>
+      <description>1000 BLOCK SAXTON DR Radio: 9C Units: E291, 9C, FS29</description>
+      <guid isPermaLink="false">2024-09-14 20:48:00</guid>
+      <pubDate>Sat, 14 Sep 2024 20:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:12 pm</title>
       <description>E SEVENTH ST / CHAPEL ALY Radio: 9C Units: PE23, FS02, 9C</description>
@@ -300,12 +306,6 @@
       <description>10400 BLOCK GREEN VALLEY RD, BLACK FOX FARM Radio: 9C Units: E172, K17, 9C</description>
       <guid isPermaLink="false">2024-09-12 18:21:00</guid>
       <pubDate>Thu, 12 Sep 2024 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:20 pm</title>
-      <description>RT75 / COPPERMINE RD, RT75 / JONES RD Radio: 9C Units: BR175, FS17, 9C</description>
-      <guid isPermaLink="false">2024-09-12 18:20:00</guid>
-      <pubDate>Thu, 12 Sep 2024 18:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
