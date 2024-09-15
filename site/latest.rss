@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Sep 2024 10:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 11:01:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:55 am</title>
+      <description>RT340WB / GENE HEMP RD, RT340WB / GENE HEMP RD Units: E201, A196, FS20, E51, R20, A209</description>
+      <guid isPermaLink="false">2024-09-15 06:55:00</guid>
+      <pubDate>Sun, 15 Sep 2024 06:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 5:22 am</title>
       <description>5300 BLOCK NEW DESIGN RD, GIANT FOOD Radio: 9C Units: PE311, E31, 9C, R3, FS31</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK STONE BARN DR Radio: 9C Units: E251, TT23, FS23, 9C</description>
       <guid isPermaLink="false">2024-09-13 17:38:00</guid>
       <pubDate>Fri, 13 Sep 2024 17:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:32 pm</title>
-      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Units: TT23, R3, A238, A735, FS23, E231, PRE709</description>
-      <guid isPermaLink="false">2024-09-13 17:32:00</guid>
-      <pubDate>Fri, 13 Sep 2024 17:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
