@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Sep 2024 00:07:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 00:32:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:12 pm</title>
+      <description>RT40A / I70, RT40A / I70 Units: A129, E121</description>
+      <guid isPermaLink="false">2024-09-15 20:12:00</guid>
+      <pubDate>Sun, 15 Sep 2024 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:09 pm</title>
+      <description>1000 BLOCK FRANCIS SCOTT KEY HWY Units: K9, SU9, E91</description>
+      <guid isPermaLink="false">2024-09-15 20:09:00</guid>
+      <pubDate>Sun, 15 Sep 2024 20:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:05 pm</title>
+      <description>1000 BLOCK FRANCIS SCOTT KEY HWY Units: K9, SU9</description>
+      <guid isPermaLink="false">2024-09-15 20:05:00</guid>
+      <pubDate>Sun, 15 Sep 2024 20:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:29 pm</title>
       <description>3800 BLOCK JEFFERSON PIKE Radio: 9C Units: E201, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: E102, FS10, 9C</description>
       <guid isPermaLink="false">2024-09-14 09:58:00</guid>
       <pubDate>Sat, 14 Sep 2024 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DETAIL: 9:48 am</title>
-      <description>700 BLOCK E PATRICK ST(NEAR FIRE RESCUE), Bldg:15, BLDG 15 - FIRE RESCUE Units: BR55</description>
-      <guid isPermaLink="false">2024-09-14 09:48:00</guid>
-      <pubDate>Sat, 14 Sep 2024 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:00 am</title>
-      <description>RT340WB / RT67 Units: E51, A196, ALS20</description>
-      <guid isPermaLink="false">2024-09-14 09:00:00</guid>
-      <pubDate>Sat, 14 Sep 2024 09:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 8:51 am</title>
-      <description>500 BLOCK OLD MILL RD Units: TW6</description>
-      <guid isPermaLink="false">2024-09-14 08:51:00</guid>
-      <pubDate>Sat, 14 Sep 2024 08:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
