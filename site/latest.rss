@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 01:13:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 01:38:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:24 pm</title>
+      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, 9C, Q11</description>
+      <guid isPermaLink="false">2024-09-16 21:24:00</guid>
+      <pubDate>Mon, 16 Sep 2024 21:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:12 pm</title>
       <description>20400 BLOCK TOWNSEND RD Units: T5, K5</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK SAXTON DR Radio: 9C Units: E291, 9C, FS29</description>
       <guid isPermaLink="false">2024-09-14 20:48:00</guid>
       <pubDate>Sat, 14 Sep 2024 20:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:12 pm</title>
-      <description>E SEVENTH ST / CHAPEL ALY Radio: 9C Units: PE23, FS02, 9C</description>
-      <guid isPermaLink="false">2024-09-14 20:12:00</guid>
-      <pubDate>Sat, 14 Sep 2024 20:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
