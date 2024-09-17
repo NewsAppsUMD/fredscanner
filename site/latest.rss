@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 00:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 00:25:19 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:12 pm</title>
+      <description>20400 BLOCK TOWNSEND RD Units: T5, K5</description>
+      <guid isPermaLink="false">2024-09-16 20:12:00</guid>
+      <pubDate>Mon, 16 Sep 2024 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:06 pm</title>
+      <description>20400 BLOCK TOWNSEND Units: T5</description>
+      <guid isPermaLink="false">2024-09-16 20:06:00</guid>
+      <pubDate>Mon, 16 Sep 2024 20:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 7:33 pm</title>
       <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: PE311, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>E SEVENTH ST / CHAPEL ALY Radio: 9C Units: PE23, FS02, 9C</description>
       <guid isPermaLink="false">2024-09-14 20:12:00</guid>
       <pubDate>Sat, 14 Sep 2024 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:41 pm</title>
-      <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Units: BR55, BR285, BR35</description>
-      <guid isPermaLink="false">2024-09-14 19:41:00</guid>
-      <pubDate>Sat, 14 Sep 2024 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:39 pm</title>
-      <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Units: BR55, BR285</description>
-      <guid isPermaLink="false">2024-09-14 19:39:00</guid>
-      <pubDate>Sat, 14 Sep 2024 19:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
