@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Sep 2024 13:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 13:29:10 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:03 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II WORMANS MILL Radio: 9D Units: E291, E111, BC902, R24, 9D, R3, FS29</description>
+      <guid isPermaLink="false">2024-09-18 09:03:00</guid>
+      <pubDate>Wed, 18 Sep 2024 09:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 9:00 am</title>
+      <description>OLD NATIONAL PIKE / BARTHOLOWS RD Radio: 9C Units: FS15, E251, CCK1, R15, HM33, HMSU33, K17, 9C</description>
+      <guid isPermaLink="false">2024-09-18 09:00:00</guid>
+      <pubDate>Wed, 18 Sep 2024 09:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:58 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II WORMANS MILL Radio: 9D Units: E291, E111, R24, FS29, 9D</description>
+      <guid isPermaLink="false">2024-09-18 08:58:00</guid>
+      <pubDate>Wed, 18 Sep 2024 08:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 8:54 am</title>
       <description>OLD NATIONAL PIKE / BARTHOLOWS RD Radio: 9C Units: E152, E251, CCK1, HM33, HMSU33, FS15, 9C</description>
@@ -288,24 +306,6 @@
       <description>TUSCARORA RD / NEW DESIGN RD Units: C14, A149, R14</description>
       <guid isPermaLink="false">2024-09-15 17:15:00</guid>
       <pubDate>Sun, 15 Sep 2024 17:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:13 pm</title>
-      <description>TUSCARORA RD / NEW DESIGN RD Units: A149, E141</description>
-      <guid isPermaLink="false">2024-09-15 17:13:00</guid>
-      <pubDate>Sun, 15 Sep 2024 17:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:12 pm</title>
-      <description>FOXVILLE RD / BROWN RD Radio: 9D Units: WCE71, R10, WCM792, EMS902, E212, FS21, 9D</description>
-      <guid isPermaLink="false">2024-09-15 17:12:00</guid>
-      <pubDate>Sun, 15 Sep 2024 17:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 3:30 pm</title>
-      <description>RT15NB / RODDY CREEK RD(RODDY CREEK RD), RT15NB / RODDY CREEK RD Radio: 9D Units: E102, HM33, R10, A309, ALS30, BC902, EMS902, HMSU33, A69, CMD10, HTRP3, 9D</description>
-      <guid isPermaLink="false">2024-09-15 15:30:00</guid>
-      <pubDate>Sun, 15 Sep 2024 15:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
