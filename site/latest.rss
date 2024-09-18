@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Sep 2024 22:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 22:14:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:44 pm</title>
+      <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Units: E331, TT23, A19, FS23, RE74, A238, E231</description>
+      <guid isPermaLink="false">2024-09-18 17:44:00</guid>
+      <pubDate>Wed, 18 Sep 2024 17:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:41 pm</title>
+      <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Units: A238, E231</description>
+      <guid isPermaLink="false">2024-09-18 17:41:00</guid>
+      <pubDate>Wed, 18 Sep 2024 17:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:01 pm</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E331</description>
@@ -294,18 +306,6 @@
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, IRON MOUNTAIN INC Radio: 9C Units: PE311, FS31, 9C, T4</description>
       <guid isPermaLink="false">2024-09-16 06:47:00</guid>
       <pubDate>Mon, 16 Sep 2024 06:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:04 pm</title>
-      <description>WOODSBORO PIKE / DEER RUN DR Radio: 9D Units: 9D, E111, R24, A249, ALS29, BC902, EMS901, C11, E161, RE171</description>
-      <guid isPermaLink="false">2024-09-15 22:04:00</guid>
-      <pubDate>Sun, 15 Sep 2024 22:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:01 pm</title>
-      <description>WOODSBORO PIKE / DEER RUN DR Radio: 9D Units: 9D, E111, R24, A249, ALS29, BC902, EMS902, FS11</description>
-      <guid isPermaLink="false">2024-09-15 22:01:00</guid>
-      <pubDate>Sun, 15 Sep 2024 22:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
