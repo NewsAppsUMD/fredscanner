@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Sep 2024 23:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:07:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:38 pm</title>
+      <description>W PATRICK ST / S JEFFERSON ST Radio: 9D Units: R3, A39, ALS4, BC902, EMS902, 9D, E31</description>
+      <guid isPermaLink="false">2024-09-17 19:38:00</guid>
+      <pubDate>Tue, 17 Sep 2024 19:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:43 pm</title>
       <description>700 BLOCK CARROLL PKWY, Bldg:1, Apt/Unit:D, PARKVIEW APTS Radio: 9C Units: 9C, T4, E11</description>
@@ -300,12 +306,6 @@
       <description>MONROE AVE / HIGHLAND ST Radio: 9C Units: BR35, 9C</description>
       <guid isPermaLink="false">2024-09-15 10:21:00</guid>
       <pubDate>Sun, 15 Sep 2024 10:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:31 am</title>
-      <description>2600 BLOCK BROOK VALLEY RD Radio: 9C Units: FS29, E291, 9C</description>
-      <guid isPermaLink="false">2024-09-15 09:31:00</guid>
-      <pubDate>Sun, 15 Sep 2024 09:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
