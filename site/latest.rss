@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Sep 2024 12:50:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 13:05:49 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 8:54 am</title>
+      <description>OLD NATIONAL PIKE / BARTHOLOWS RD Radio: 9C Units: E152, E251, CCK1, HM33, HMSU33, FS15, 9C</description>
+      <guid isPermaLink="false">2024-09-18 08:54:00</guid>
+      <pubDate>Wed, 18 Sep 2024 08:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:42 am</title>
       <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Units: A735, FS23, E231, PE735, PRE709, R729, A238</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / RODDY CREEK RD(RODDY CREEK RD), RT15NB / RODDY CREEK RD Radio: 9D Units: E102, HM33, R10, A309, ALS30, BC902, EMS902, HMSU33, A69, CMD10, HTRP3, 9D</description>
       <guid isPermaLink="false">2024-09-15 15:30:00</guid>
       <pubDate>Sun, 15 Sep 2024 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:06 pm</title>
-      <description>6100 BLOCK DICKERSON RD Units: A149, E281</description>
-      <guid isPermaLink="false">2024-09-15 15:06:00</guid>
-      <pubDate>Sun, 15 Sep 2024 15:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
