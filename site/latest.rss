@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 14:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 14:42:17 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:22 am</title>
+      <description>16200 BLOCK SABILLASVILLE RD, Bldg:B, SABILLASVILLE ENVIRONMENTAL SCHOOL Radio: 9C Units: 9C, E102, FS10</description>
+      <guid isPermaLink="false">2024-09-19 10:22:00</guid>
+      <pubDate>Thu, 19 Sep 2024 10:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:19 am</title>
+      <description>12900 BLOCK CATOCTIN FURNACE RD, MIKES AUTO BODY Units: A299, E102</description>
+      <guid isPermaLink="false">2024-09-19 10:19:00</guid>
+      <pubDate>Thu, 19 Sep 2024 10:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:40 am</title>
       <description>16200 BLOCK SABILLASVILLE RD, Bldg:B, SABILLASVILLE ENVIRONMENTAL SCHOOL Radio: 9C Units: TW6, FS10, 9C, E102</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK KEY PKWY, Bldg:C, KEY PARKWAY CONDOS Radio: 9C Units: E11, T4, 9C</description>
       <guid isPermaLink="false">2024-09-16 17:18:00</guid>
       <pubDate>Mon, 16 Sep 2024 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:55 pm</title>
-      <description>7300 BLOCK W WHITECOAT DR Radio: 9C Units: E11, PE23, T50, BC950, 9C</description>
-      <guid isPermaLink="false">2024-09-16 16:55:00</guid>
-      <pubDate>Mon, 16 Sep 2024 16:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:57 pm</title>
-      <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: BR106, 9C, FS10</description>
-      <guid isPermaLink="false">2024-09-16 15:57:00</guid>
-      <pubDate>Mon, 16 Sep 2024 15:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
