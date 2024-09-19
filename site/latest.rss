@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 01:00:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 01:43:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:34 pm</title>
+      <description>100 BLOCK OLD CAMP RD, WEIS MARKET WEST FREDERICK Radio: 9C Units: T4, 9C, E121</description>
+      <guid isPermaLink="false">2024-09-18 20:34:00</guid>
+      <pubDate>Wed, 18 Sep 2024 20:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 8:19 pm</title>
       <description>2000 BLOCK WOOD HOLLOW PL, Apt/Unit:206 Radio: 9C Units: 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, FREDERICK INTERNAL MEDICINE Radio: 9I Units: A299, 9I, E291, EMS901, FS29, PE23</description>
       <guid isPermaLink="false">2024-09-16 09:54:00</guid>
       <pubDate>Mon, 16 Sep 2024 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:46 am</title>
-      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9D Units: R10, A308, E102, A229, ALS29, BC901, EMS902, FS10, 9D</description>
-      <guid isPermaLink="false">2024-09-16 09:46:00</guid>
-      <pubDate>Mon, 16 Sep 2024 09:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
