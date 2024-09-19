@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 16:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 16:15:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
+      <description>100 BLOCK S MARKET ST Units: A39, R3</description>
+      <guid isPermaLink="false">2024-09-19 11:53:00</guid>
+      <pubDate>Thu, 19 Sep 2024 11:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:38 am</title>
       <description>16200 BLOCK SABILLASVILLE RD, Bldg:B, SABILLASVILLE ENVIRONMENTAL SCHOOL Radio: 9C Units: ACEK3, TW6, 9C, E102</description>
@@ -300,12 +306,6 @@
       <description>20400 BLOCK TOWNSEND Units: T5</description>
       <guid isPermaLink="false">2024-09-16 20:06:00</guid>
       <pubDate>Mon, 16 Sep 2024 20:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:33 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-16 19:33:00</guid>
-      <pubDate>Mon, 16 Sep 2024 19:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
