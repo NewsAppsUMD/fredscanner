@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 17:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 17:14:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
+      <description>RT355 / ARABY CHURCH RD (N), RT355 / ARABY CHURCH RD Units: A239, E231</description>
+      <guid isPermaLink="false">2024-09-19 12:47:00</guid>
+      <pubDate>Thu, 19 Sep 2024 12:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
       <description>100 BLOCK S MARKET ST Units: A39, R3</description>
@@ -300,12 +306,6 @@
       <description>20400 BLOCK TOWNSEND RD Units: T5, K5</description>
       <guid isPermaLink="false">2024-09-16 20:12:00</guid>
       <pubDate>Mon, 16 Sep 2024 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:06 pm</title>
-      <description>20400 BLOCK TOWNSEND Units: T5</description>
-      <guid isPermaLink="false">2024-09-16 20:06:00</guid>
-      <pubDate>Mon, 16 Sep 2024 20:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
