@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Sep 2024 11:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 11:14:16 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK: 6:57 am</title>
+      <description>I70WB / 59MM, I70WB / 59MM Radio: 9D Units: A339, ALS4, E331, EMS902, FS33, 9D</description>
+      <guid isPermaLink="false">2024-09-19 06:57:00</guid>
+      <pubDate>Thu, 19 Sep 2024 06:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:10 am</title>
       <description>GAMBRILL PARK RD / COXEY BROWN RD, Apt/Unit:HTTPS://A91.IO/00KXT Units: BC903, E121, R8, A89, ALS8, EMS902</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK OLD NATIONAL PIKE, HIGHS STORE Radio: 9D Units: FS12, 9D, RE74, A129, ALS8, BC903, E121, EMS902</description>
       <guid isPermaLink="false">2024-09-16 15:45:00</guid>
       <pubDate>Mon, 16 Sep 2024 15:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
-      <description>I270NB / NEW DESIGN RD, I270NB / RT85 Units: PE311, FS31, A18, E11, R3, A318</description>
-      <guid isPermaLink="false">2024-09-16 15:13:00</guid>
-      <pubDate>Mon, 16 Sep 2024 15:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
