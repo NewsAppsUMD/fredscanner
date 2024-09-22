@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Sep 2024 20:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 20:14:49 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 4:00 pm</title>
+      <description>10900 BLOCK HORSESHOE DR Radio: 9C Units: 9C, E172, E152, Q11, K17, FS17</description>
+      <guid isPermaLink="false">2024-09-22 16:00:00</guid>
+      <pubDate>Sun, 22 Sep 2024 16:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 3:53 pm</title>
+      <description>MOUNTAIN VIEW RD / WAYNESBORO RD Radio: 9C Units: E61, A69, 9C, R6</description>
+      <guid isPermaLink="false">2024-09-22 15:53:00</guid>
+      <pubDate>Sun, 22 Sep 2024 15:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 3:50 pm</title>
+      <description>MOUNTAIN VIEW RD / WAYNESBORO RD Radio: 9C Units: E61, A69, FS06, 9C</description>
+      <guid isPermaLink="false">2024-09-22 15:50:00</guid>
+      <pubDate>Sun, 22 Sep 2024 15:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 3:28 pm</title>
       <description>9000 BLOCK AMELUNG ST, URBANA LIBRARY &amp; SENIOR CENTER Radio: 9C Units: E232, FS23, 9C</description>
@@ -288,24 +306,6 @@
       <description>OLD NATIONAL PIKE / BARTHOLOWS RD Radio: 9C Units: E152, E251, CCK1, HM33, HMSU33, FS15, 9C</description>
       <guid isPermaLink="false">2024-09-18 08:54:00</guid>
       <pubDate>Wed, 18 Sep 2024 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:42 am</title>
-      <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Units: A735, FS23, E231, PE735, PRE709, R729, A238</description>
-      <guid isPermaLink="false">2024-09-18 07:42:00</guid>
-      <pubDate>Wed, 18 Sep 2024 07:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 7:19 am</title>
-      <description>200 BLOCK N CARROLL ST, Apt/Unit:1 Radio: 9C Units: E102, 9C, E132, R10, FS10</description>
-      <guid isPermaLink="false">2024-09-18 07:19:00</guid>
-      <pubDate>Wed, 18 Sep 2024 07:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:00 am</title>
-      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO I27100 BLOCKSB RAMP Radio: 9B Units: A318, R3, FS31, 9B</description>
-      <guid isPermaLink="false">2024-09-18 04:00:00</guid>
-      <pubDate>Wed, 18 Sep 2024 04:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
