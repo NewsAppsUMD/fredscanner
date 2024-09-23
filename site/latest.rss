@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Sep 2024 17:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 17:51:32 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:42 pm</title>
+      <description>1700 BLOCK EMORY ST Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2024-09-23 13:42:00</guid>
+      <pubDate>Mon, 23 Sep 2024 13:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:54 pm</title>
       <description>5800 BLOCK HAWK RIDGE RD Radio: 9C Units: E331, 9C</description>
@@ -300,12 +306,6 @@
       <description>GAMBRILL PARK RD / COXEY BROWN RD, Apt/Unit:HTTPS://A91.IO/00KXT Units: BC903, E121, R8, A89, ALS8, EMS902</description>
       <guid isPermaLink="false">2024-09-19 04:10:00</guid>
       <pubDate>Thu, 19 Sep 2024 04:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:59 am</title>
-      <description>9700 BLOCKBLK GAMBRILL PARK RD, Apt/Unit:HTTPS://A91.IO/00KXT Units: E121, R8, A89, ALS8, EMS902, FS12</description>
-      <guid isPermaLink="false">2024-09-19 03:59:00</guid>
-      <pubDate>Thu, 19 Sep 2024 03:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
