@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 22:51:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 23:01:58 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:52 pm</title>
+      <description>2100 BLOCK INFANTRY DR Units: FS29, E291</description>
+      <guid isPermaLink="false">2024-09-24 18:52:00</guid>
+      <pubDate>Tue, 24 Sep 2024 18:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
       <description>I270NB / RT80(RT80), I270NB / RT80 Units: E232, E251, TT23, R3, A259, FS23, A239</description>
@@ -300,12 +306,6 @@
       <description>MOUNTAIN VIEW RD / WAYNESBORO RD Radio: 9C Units: E61, A69, FS06, 9C</description>
       <guid isPermaLink="false">2024-09-22 15:50:00</guid>
       <pubDate>Sun, 22 Sep 2024 15:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 3:28 pm</title>
-      <description>9000 BLOCK AMELUNG ST, URBANA LIBRARY &amp; SENIOR CENTER Radio: 9C Units: E232, FS23, 9C</description>
-      <guid isPermaLink="false">2024-09-22 15:28:00</guid>
-      <pubDate>Sun, 22 Sep 2024 15:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
