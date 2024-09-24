@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 11:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 12:02:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 7:52 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, PARKING LOT Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2024-09-24 07:52:00</guid>
+      <pubDate>Tue, 24 Sep 2024 07:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:26 am</title>
       <description>100 BLOCK BLK RAMP RT144 TO IJAMSVILLE RD RAMP Units: E331, A339</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / 15-340E @ BALLENGER CRK PIKE HWY Units: A318, PE311</description>
       <guid isPermaLink="false">2024-09-19 17:42:00</guid>
       <pubDate>Thu, 19 Sep 2024 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:41 pm</title>
-      <description>ENGLISH MUFFIN WAY / WEDGEWOOD BLVD Units: A318, PE311, FS31</description>
-      <guid isPermaLink="false">2024-09-19 16:41:00</guid>
-      <pubDate>Thu, 19 Sep 2024 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
