@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Sep 2024 14:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 15:02:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNYS PARKING LOT Units: BC901, EMS901, PE311, R3, A318, ALS31, FS31</description>
+      <guid isPermaLink="false">2024-09-24 10:56:00</guid>
+      <pubDate>Tue, 24 Sep 2024 10:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:21 am</title>
       <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: PE311, T50, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>17300 BLOCK N SETON AVE, RUBES CRAB SHACK Radio: 9D Units: CCE111, CCE52, E61, E102, ACE22, E132, R6, TW6, CCLDR5, ACEK23, K10, 9D, A69, ALS30, ACE232, BC902, FS06, ACK22, BC901</description>
       <guid isPermaLink="false">2024-09-19 19:35:00</guid>
       <pubDate>Thu, 19 Sep 2024 19:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:54 pm</title>
-      <description>I70WB / EXIT 62, I70WB / EXIT 62 Radio: 9D Units: E152, EMS902, FS15, 9D, E331, R15, A158, A339, CCM18, BC901</description>
-      <guid isPermaLink="false">2024-09-19 18:54:00</guid>
-      <pubDate>Thu, 19 Sep 2024 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
