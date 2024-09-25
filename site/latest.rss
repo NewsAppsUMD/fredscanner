@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 20:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 20:51:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:44 pm</title>
+      <description>6700 BLOCK MOUNTAINDALE RD Units: A229, E291</description>
+      <guid isPermaLink="false">2024-09-25 16:44:00</guid>
+      <pubDate>Wed, 25 Sep 2024 16:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - EJECTION: 4:36 pm</title>
       <description>OLD NATIONAL PIKE / URNER AVE Radio: 9D Units: E121, ALS4, BC903, EMS901, FS12, RE74, A129, 9D</description>
@@ -300,12 +306,6 @@
       <description>QUINN ORCHARD RD / E PATRICK ST Units: A319, E331</description>
       <guid isPermaLink="false">2024-09-24 08:09:00</guid>
       <pubDate>Tue, 24 Sep 2024 08:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:52 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, PARKING LOT Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-09-24 07:52:00</guid>
-      <pubDate>Tue, 24 Sep 2024 07:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
