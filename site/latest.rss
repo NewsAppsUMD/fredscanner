@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 20:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 20:33:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:30 pm</title>
+      <description>5800 BLOCK YEAGERTOWN RD Units: E152, A158</description>
+      <guid isPermaLink="false">2024-09-25 16:30:00</guid>
+      <pubDate>Wed, 25 Sep 2024 16:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:28 pm</title>
+      <description>1400 BLOCK DOCKSIDE CT Radio: 9C Units: FS02, E31, 9C</description>
+      <guid isPermaLink="false">2024-09-25 16:28:00</guid>
+      <pubDate>Wed, 25 Sep 2024 16:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
       <description>OLD NATIONAL PIKE / EDGEMONT RD Units: A129, E121</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP RT144 TO IJAMSVILLE RD RAMP Units: E331, A339</description>
       <guid isPermaLink="false">2024-09-24 07:26:00</guid>
       <pubDate>Tue, 24 Sep 2024 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:30 am</title>
-      <description>6500 BLOCK NIGHTINGALE CT Radio: 9C Units: E152, FS15, 9C</description>
-      <guid isPermaLink="false">2024-09-24 03:30:00</guid>
-      <pubDate>Tue, 24 Sep 2024 03:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:09 am</title>
-      <description>5200 BLOCK WESTVIEW DR, RESIDENCE INN Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-24 01:09:00</guid>
-      <pubDate>Tue, 24 Sep 2024 01:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
