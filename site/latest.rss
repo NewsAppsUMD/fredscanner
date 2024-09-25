@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 17:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 17:14:29 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:10 pm</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, T4, TW7</description>
+      <guid isPermaLink="false">2024-09-25 13:10:00</guid>
+      <pubDate>Wed, 25 Sep 2024 13:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:09 pm</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, T4</description>
+      <guid isPermaLink="false">2024-09-25 13:09:00</guid>
+      <pubDate>Wed, 25 Sep 2024 13:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:05 pm</title>
+      <description>RIDGE RD / I70 (BRADDOCK), RIDGE RD / I70 Units: E121, FS12, A78</description>
+      <guid isPermaLink="false">2024-09-25 13:05:00</guid>
+      <pubDate>Wed, 25 Sep 2024 13:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:41 pm</title>
       <description>W PATRICK ST / OLD CAMP RD Radio: 9D Units: 9D, E121, A18, ALS4, BC903, EMS902, R2, A129</description>
@@ -288,24 +306,6 @@
       <description>LIBERTY RD / ROUTZAHN WAY Units: Q11, FS29, E111, A247, A19</description>
       <guid isPermaLink="false">2024-09-23 19:27:00</guid>
       <pubDate>Mon, 23 Sep 2024 19:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:24 pm</title>
-      <description>6800 BLOCK MOUNTAINDALE RD, Bldg:C Radio: 9C Units: FS22, 9C, BR226</description>
-      <guid isPermaLink="false">2024-09-23 17:24:00</guid>
-      <pubDate>Mon, 23 Sep 2024 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:32 pm</title>
-      <description>10500 BLOCK GAS HOUSE PIKE Radio: 9D Units: EMS902, FS15, R15, ALS17, BC901, A158, E152, 9D</description>
-      <guid isPermaLink="false">2024-09-23 16:32:00</guid>
-      <pubDate>Mon, 23 Sep 2024 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
-      <description>GAS HOUSE PIKE / MCKAIG RD Units: A158, E152</description>
-      <guid isPermaLink="false">2024-09-23 16:29:00</guid>
-      <pubDate>Mon, 23 Sep 2024 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
