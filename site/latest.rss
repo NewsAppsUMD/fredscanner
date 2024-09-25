@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 19:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 20:02:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
+      <description>OLD NATIONAL PIKE / EDGEMONT RD Units: A129, E121</description>
+      <guid isPermaLink="false">2024-09-25 15:59:00</guid>
+      <pubDate>Wed, 25 Sep 2024 15:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:10 pm</title>
       <description>BROOKLODGE LN / HOLTER RD Radio: 9B Units: 9B, A78, E72</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK WESTVIEW DR, RESIDENCE INN Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2024-09-24 01:09:00</guid>
       <pubDate>Tue, 24 Sep 2024 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 8:08 pm</title>
-      <description>RT15SB / 33MM, RT15SB / 33MM Radio: 9C Units: BR65, 9C, K22, E61</description>
-      <guid isPermaLink="false">2024-09-23 20:08:00</guid>
-      <pubDate>Mon, 23 Sep 2024 20:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
