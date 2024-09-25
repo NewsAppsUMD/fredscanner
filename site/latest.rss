@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Sep 2024 23:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 23:24:25 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:19 pm</title>
+      <description>4400 BLOCK GREEN VALLEY RD, IAO Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2024-09-25 19:19:00</guid>
+      <pubDate>Wed, 25 Sep 2024 19:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:17 pm</title>
+      <description>8600 BLOCK LONGWOOD CIR Radio: 9C Units: E31, FS33, 9C</description>
+      <guid isPermaLink="false">2024-09-25 19:17:00</guid>
+      <pubDate>Wed, 25 Sep 2024 19:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK: 6:45 pm</title>
       <description>RT26WB / WORMANS MILL RD, RT26WB / WORMANS MILL RD Radio: 9D Units: EMS902, FS29, 9D, A247, ALS2, E111</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK CAMPUS DR Units: E501, E12, T50, BC950</description>
       <guid isPermaLink="false">2024-09-24 11:40:00</guid>
       <pubDate>Tue, 24 Sep 2024 11:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNYS PARKING LOT Units: BC901, EMS901, PE311, R3, A318, ALS31, FS31</description>
-      <guid isPermaLink="false">2024-09-24 10:56:00</guid>
-      <pubDate>Tue, 24 Sep 2024 10:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:21 am</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: PE311, T50, FS31, 9C</description>
-      <guid isPermaLink="false">2024-09-24 10:21:00</guid>
-      <pubDate>Tue, 24 Sep 2024 10:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
