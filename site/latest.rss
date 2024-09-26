@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 11:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 12:02:58 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:57 am</title>
+      <description>3700 BLOCK SPICEBUSH DR Radio: 9C Units: TT23, FS23, 9C, E251</description>
+      <guid isPermaLink="false">2024-09-26 07:57:00</guid>
+      <pubDate>Thu, 26 Sep 2024 07:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 7:48 am</title>
+      <description>9400 BLOCK GAMBRILL PARK RD, GAMBRILL RADIO TOWER Radio: 9C Units: BR85, 9C</description>
+      <guid isPermaLink="false">2024-09-26 07:48:00</guid>
+      <pubDate>Thu, 26 Sep 2024 07:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:38 am</title>
       <description>E WAINSCOT DR / GREEN VALLEY RD Units: A158, R15</description>
@@ -294,18 +306,6 @@
       <description>W ALL SAINTS ST / S BENTZ ST Radio: 9C Units: BR35, 9C</description>
       <guid isPermaLink="false">2024-09-25 08:10:00</guid>
       <pubDate>Wed, 25 Sep 2024 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
-      <description>CRESTWOOD BLVD / WHITWORTH TER Units: PE311, A29</description>
-      <guid isPermaLink="false">2024-09-25 08:08:00</guid>
-      <pubDate>Wed, 25 Sep 2024 08:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:03 am</title>
-      <description>MONOCACY BLVD / RAMP MONOCACY BLVD TO I70WB RAMP Units: A29, E31</description>
-      <guid isPermaLink="false">2024-09-25 08:03:00</guid>
-      <pubDate>Wed, 25 Sep 2024 08:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
