@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 14:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 15:02:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:52 am</title>
+      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Units: FS31, PE311, T50</description>
+      <guid isPermaLink="false">2024-09-26 10:52:00</guid>
+      <pubDate>Thu, 26 Sep 2024 10:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:03 am</title>
       <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS Units: A19, E12</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK BOYLES ST Radio: 9C Units: T50, BC950, 9C, E291</description>
       <guid isPermaLink="false">2024-09-25 08:29:00</guid>
       <pubDate>Wed, 25 Sep 2024 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:27 am</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E12, FS12, E72, R8, A19, A78</description>
-      <guid isPermaLink="false">2024-09-25 08:27:00</guid>
-      <pubDate>Wed, 25 Sep 2024 08:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
