@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 19:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 20:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:52 pm</title>
+      <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, 9C, E82, FS12</description>
+      <guid isPermaLink="false">2024-09-26 15:52:00</guid>
+      <pubDate>Thu, 26 Sep 2024 15:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 2:40 pm</title>
       <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Units: E232, FS23</description>
@@ -300,12 +306,6 @@
       <description>W PATRICK ST / OLD CAMP RD Radio: 9D Units: 9D, E121, A18, ALS4, BC903, EMS902, R2, A129</description>
       <guid isPermaLink="false">2024-09-25 12:41:00</guid>
       <pubDate>Wed, 25 Sep 2024 12:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:24 pm</title>
-      <description>3300 BLOCK WORTHINGTON BLVD, JIMMY JOHNS Radio: 9C Units: 9C, PRE709, TT23, FS23</description>
-      <guid isPermaLink="false">2024-09-25 12:24:00</guid>
-      <pubDate>Wed, 25 Sep 2024 12:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
