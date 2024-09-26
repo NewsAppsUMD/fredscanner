@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 03:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 03:28:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:18 pm</title>
+      <description>JEFFERSON PIKE / HIMES AVE Units: A19, PE311</description>
+      <guid isPermaLink="false">2024-09-25 23:18:00</guid>
+      <pubDate>Wed, 25 Sep 2024 23:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:46 pm</title>
       <description>5800 BLOCK MERCANTILE DR W Radio: 9C Units: PE311, TW1, 9C, FS31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15SB TO RT15-34100 BLOCKWB RAMP Units: A19, E12</description>
       <guid isPermaLink="false">2024-09-24 16:05:00</guid>
       <pubDate>Tue, 24 Sep 2024 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:03 pm</title>
-      <description>8600 BLOCK RED TIMBER PL Radio: 9C Units: E232, PRE709, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-09-24 16:03:00</guid>
-      <pubDate>Tue, 24 Sep 2024 16:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
