@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 21:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:23:54 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:14 pm</title>
+      <description>4000 BLOCK BELGRAVE CIR Units: E232, E251, TT23, FS23</description>
+      <guid isPermaLink="false">2024-09-26 17:14:00</guid>
+      <pubDate>Thu, 26 Sep 2024 17:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:52 pm</title>
       <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, 9C, E82, FS12</description>
@@ -300,12 +306,6 @@
       <description>RIDGE RD / I70 (BRADDOCK), RIDGE RD / I70 Units: E121, FS12, A78</description>
       <guid isPermaLink="false">2024-09-25 13:05:00</guid>
       <pubDate>Wed, 25 Sep 2024 13:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:41 pm</title>
-      <description>W PATRICK ST / OLD CAMP RD Radio: 9D Units: 9D, E121, A18, ALS4, BC903, EMS902, R2, A129</description>
-      <guid isPermaLink="false">2024-09-25 12:41:00</guid>
-      <pubDate>Wed, 25 Sep 2024 12:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
