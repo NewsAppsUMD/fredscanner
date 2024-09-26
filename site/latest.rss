@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 08:39:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 08:47:12 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:39 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E201</description>
+      <guid isPermaLink="false">2024-09-26 04:39:00</guid>
+      <pubDate>Thu, 26 Sep 2024 04:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:37 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E12, K7, A39</description>
+      <guid isPermaLink="false">2024-09-26 04:37:00</guid>
+      <pubDate>Thu, 26 Sep 2024 04:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:36 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: K7, A39</description>
+      <guid isPermaLink="false">2024-09-26 04:36:00</guid>
+      <pubDate>Thu, 26 Sep 2024 04:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:23 am</title>
       <description>I70EB / 49MM, I70EB / 49MM Units: A129, E121, R8, A89, E72</description>
@@ -288,24 +306,6 @@
       <description>9600 BLOCK OPOSSUMTOWN PIKE Units: BR226, FS22</description>
       <guid isPermaLink="false">2024-09-24 20:04:00</guid>
       <pubDate>Tue, 24 Sep 2024 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:44 pm</title>
-      <description>1600 BLOCK PINDER ST Units: R3, FS02</description>
-      <guid isPermaLink="false">2024-09-24 19:44:00</guid>
-      <pubDate>Tue, 24 Sep 2024 19:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:24 pm</title>
-      <description>600 BLOCK W MAIN ST Radio: 9C Units: E61, E102, R6, ACE232, 9C, HM33, HMSU33, A69, ALS30, BC902, SAF901</description>
-      <guid isPermaLink="false">2024-09-24 19:24:00</guid>
-      <pubDate>Tue, 24 Sep 2024 19:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:22 pm</title>
-      <description>600 BLOCK W MAIN ST Radio: 9C Units: E61, E102, R6, ACE232, FS06, 9C</description>
-      <guid isPermaLink="false">2024-09-24 19:22:00</guid>
-      <pubDate>Tue, 24 Sep 2024 19:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
