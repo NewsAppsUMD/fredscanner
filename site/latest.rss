@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 00:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 01:00:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:46 pm</title>
+      <description>5800 BLOCK MERCANTILE DR W Radio: 9C Units: PE311, TW1, 9C, FS31</description>
+      <guid isPermaLink="false">2024-09-25 20:46:00</guid>
+      <pubDate>Wed, 25 Sep 2024 20:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:36 pm</title>
+      <description>800 BLOCK HIGHLAND ST, VINNYS TOWING AND RECOVERY Radio: 91C Units: PE23, R3, E31, 91C, C3B</description>
+      <guid isPermaLink="false">2024-09-25 20:36:00</guid>
+      <pubDate>Wed, 25 Sep 2024 20:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:33 pm</title>
+      <description>800 BLOCK HIGHLAND ST, VINNYS TOWING AND RECOVERY Radio: 91C Units: R3, E31, 91C, C3B</description>
+      <guid isPermaLink="false">2024-09-25 20:33:00</guid>
+      <pubDate>Wed, 25 Sep 2024 20:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:26 pm</title>
       <description>800 BLOCK HIGHLAND ST, VINNYS TOWING AND RECOVERY Radio: 91C Units: E31, 91C</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK RED TIMBER PL Radio: 9C Units: E232, PRE709, TT23, FS23, 9C</description>
       <guid isPermaLink="false">2024-09-24 16:03:00</guid>
       <pubDate>Tue, 24 Sep 2024 16:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:14 pm</title>
-      <description>APPROX LOC:15S BTWN OP PIKE ON RAMP &amp; 7TH ST OFF RAMP HWY Units: FS02, E501, E12, R2, A29, A18</description>
-      <guid isPermaLink="false">2024-09-24 15:14:00</guid>
-      <pubDate>Tue, 24 Sep 2024 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:08 pm</title>
-      <description>3500 BLOCK PONTIUS CT, URBANA MIDDLE SCHOOL Radio: 9C Units: FS23, 9C, TT23, E232</description>
-      <guid isPermaLink="false">2024-09-24 15:08:00</guid>
-      <pubDate>Tue, 24 Sep 2024 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:55 pm</title>
-      <description>1800 BLOCK WHEYFIELD DR Radio: 9C Units: 9C, E111, Q11, FS11</description>
-      <guid isPermaLink="false">2024-09-24 14:55:00</guid>
-      <pubDate>Tue, 24 Sep 2024 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
