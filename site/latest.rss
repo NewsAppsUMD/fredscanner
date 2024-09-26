@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Sep 2024 21:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:32:00 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 5:25 pm</title>
+      <description>YOUNG BRANCH DR / IVY HILL DR Units: R20, SAF901, ALS20, BC903, A78, E121, E82, E201, WCE61, BC902, RE74, TW7, WCT6</description>
+      <guid isPermaLink="false">2024-09-26 17:25:00</guid>
+      <pubDate>Thu, 26 Sep 2024 17:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 5:14 pm</title>
       <description>4000 BLOCK BELGRAVE CIR Units: E232, E251, TT23, FS23</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, T4</description>
       <guid isPermaLink="false">2024-09-25 13:09:00</guid>
       <pubDate>Wed, 25 Sep 2024 13:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:05 pm</title>
-      <description>RIDGE RD / I70 (BRADDOCK), RIDGE RD / I70 Units: E121, FS12, A78</description>
-      <guid isPermaLink="false">2024-09-25 13:05:00</guid>
-      <pubDate>Wed, 25 Sep 2024 13:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
