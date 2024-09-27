@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 02:41:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 03:00:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:52 pm</title>
+      <description>1700 BLOCK ATLAS DR Radio: 9C Units: T50, E12, 9C</description>
+      <guid isPermaLink="false">2024-09-26 22:52:00</guid>
+      <pubDate>Thu, 26 Sep 2024 22:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:38 pm</title>
+      <description>8500 BLOCK PROGRESS DR, NATIONAL CANCER INSTITUTE RIVERSIDE Units: Q11, E111, PE23</description>
+      <guid isPermaLink="false">2024-09-26 22:38:00</guid>
+      <pubDate>Thu, 26 Sep 2024 22:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:33 pm</title>
       <description>8500 BLOCK PROGRESS DR, NATIONAL CANCER INSTITUTE RIVERSIDE Units: Q11, FS29, E111</description>
@@ -294,18 +306,6 @@
       <description>6700 BLOCK MOUNTAINDALE RD Units: A229, E291</description>
       <guid isPermaLink="false">2024-09-25 16:44:00</guid>
       <pubDate>Wed, 25 Sep 2024 16:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 4:36 pm</title>
-      <description>OLD NATIONAL PIKE / URNER AVE Radio: 9D Units: E121, ALS4, BC903, EMS901, FS12, RE74, A129, 9D</description>
-      <guid isPermaLink="false">2024-09-25 16:36:00</guid>
-      <pubDate>Wed, 25 Sep 2024 16:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:30 pm</title>
-      <description>5800 BLOCK YEAGERTOWN RD Units: E152, A158</description>
-      <guid isPermaLink="false">2024-09-25 16:30:00</guid>
-      <pubDate>Wed, 25 Sep 2024 16:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
