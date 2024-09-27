@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 20:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 20:51:38 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:38 pm</title>
+      <description>JEFFERSON PIKE / MOUNT ZION RD, IAO Radio: 9C Units: FS12, 9C, BR205</description>
+      <guid isPermaLink="false">2024-09-27 16:38:00</guid>
+      <pubDate>Fri, 27 Sep 2024 16:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 4:37 pm</title>
+      <description>8300 BLOCK EMERSON BURRIER RD Radio: 9D Units: CCE141, E172, E162, R15, A179, A169, CCM149, A158, ALS17, BC901, SAF901, EMS902, 9D, E152</description>
+      <guid isPermaLink="false">2024-09-27 16:37:00</guid>
+      <pubDate>Fri, 27 Sep 2024 16:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 4:34 pm</title>
+      <description>8300 BLOCK EMERSON BURRIER RD Radio: 9D Units: CCE141, E172, E162, R15, A179, A169, CCM149, A158, ALS17, BC901, SAF901, EMS902, FS17, 9D</description>
+      <guid isPermaLink="false">2024-09-27 16:34:00</guid>
+      <pubDate>Fri, 27 Sep 2024 16:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 4:33 pm</title>
+      <description>OLD SWIMMING POOL RD / S CLIFTON RD Radio: 9C Units: BR125, FS12, 9C</description>
+      <guid isPermaLink="false">2024-09-27 16:33:00</guid>
+      <pubDate>Fri, 27 Sep 2024 16:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 4:31 pm</title>
+      <description>8300 BLOCK EMERSON BURRIER RD Radio: 9D Units: CCE141, RE171, E162, R15, A179, A169, CCM149, A158, ALS17, BC901, SAF901, EMS902, FS17, 9D</description>
+      <guid isPermaLink="false">2024-09-27 16:31:00</guid>
+      <pubDate>Fri, 27 Sep 2024 16:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:07 pm</title>
       <description>100 BLOCK BLK RAMP RT85 TO I27100 BLOCKSB RAMP Units: PE311, A318</description>
@@ -276,36 +306,6 @@
       <description>3700 BLOCK SPICEBUSH DR Radio: 9C Units: TT23, FS23, 9C, E251</description>
       <guid isPermaLink="false">2024-09-26 07:57:00</guid>
       <pubDate>Thu, 26 Sep 2024 07:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:48 am</title>
-      <description>9400 BLOCK GAMBRILL PARK RD, GAMBRILL RADIO TOWER Radio: 9C Units: BR85, 9C</description>
-      <guid isPermaLink="false">2024-09-26 07:48:00</guid>
-      <pubDate>Thu, 26 Sep 2024 07:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:38 am</title>
-      <description>E WAINSCOT DR / GREEN VALLEY RD Units: A158, R15</description>
-      <guid isPermaLink="false">2024-09-26 07:38:00</guid>
-      <pubDate>Thu, 26 Sep 2024 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:24 am</title>
-      <description>11900 BLOCK WARNER RD Radio: 9I Units: E91, ADMINBC900, CCR8, A169, CCM89, 9I, E132, R24, BC903, EMS902, BR96</description>
-      <guid isPermaLink="false">2024-09-26 06:24:00</guid>
-      <pubDate>Thu, 26 Sep 2024 06:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:18 am</title>
-      <description>11900 BLOCK WARNER RD Radio: 9I Units: E91, CCR8, A169, CCM89, 9I, BC903, EMS902, FS09</description>
-      <guid isPermaLink="false">2024-09-26 06:18:00</guid>
-      <pubDate>Thu, 26 Sep 2024 06:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:27 am</title>
-      <description>RT340WB / GENE HEMP RD, RT340WB / GENE HEMP RD Units: R20, A209, A197, ALS20, EMS901, FS20, E201, E51</description>
-      <guid isPermaLink="false">2024-09-26 05:27:00</guid>
-      <pubDate>Thu, 26 Sep 2024 05:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
