@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 19:14:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 19:22:40 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:17 pm</title>
+      <description>ENGLISH MUFFIN WAY / ALAN LINTON BLVD E Radio: 9B Units: A318, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2024-09-27 15:17:00</guid>
+      <pubDate>Fri, 27 Sep 2024 15:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
       <description>I70WB / E SOUTH ST(E SOUTH ST), I70WB / E SOUTH ST Units: E31, E12, R3, A39, A19</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK204, E12, CCE52, E72</description>
       <guid isPermaLink="false">2024-09-26 05:11:00</guid>
       <pubDate>Thu, 26 Sep 2024 05:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:03 am</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK204, A39, E12, CCE52</description>
-      <guid isPermaLink="false">2024-09-26 05:03:00</guid>
-      <pubDate>Thu, 26 Sep 2024 05:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
