@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 14:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 14:14:42 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:05 am</title>
+      <description>200 BLOCK PHEBUS AVE Units: T4, E12</description>
+      <guid isPermaLink="false">2024-09-27 10:05:00</guid>
+      <pubDate>Fri, 27 Sep 2024 10:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>SHED / CONST TRAILER / OUTBUILDING FIRE: 9:06 am</title>
       <description>2400 BLOCK DOUBS CT Units: E141, E281, R20, A149, FS14</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 49MM, I70EB / 49MM Units: A129, E121, R8, A89, E72</description>
       <guid isPermaLink="false">2024-09-26 04:23:00</guid>
       <pubDate>Thu, 26 Sep 2024 04:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - SMALL BUILDING: 3:37 am</title>
-      <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Radio: 9C Units: E172, E152, CCT1, K17, A179, FS17, 9C</description>
-      <guid isPermaLink="false">2024-09-26 03:37:00</guid>
-      <pubDate>Thu, 26 Sep 2024 03:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
