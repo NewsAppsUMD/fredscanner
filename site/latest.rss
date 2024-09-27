@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 04:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 05:02:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:57 am</title>
+      <description>200 BLOCK WILLOWDALE DR, ELKS LODGE Radio: 9B Units: 9B, E12, T50</description>
+      <guid isPermaLink="false">2024-09-27 00:57:00</guid>
+      <pubDate>Fri, 27 Sep 2024 00:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:12 am</title>
       <description>TANEYTOWN PIKE / MONOCACY RIVER Radio: 9B Units: E61, FS06, 9B, CCM59, CCEK54</description>
@@ -300,12 +306,6 @@
       <description>RT26WB / WORMANS MILL RD, RT26WB / WORMANS MILL RD Radio: 9D Units: EMS902, FS29, 9D, A247, ALS2, E111</description>
       <guid isPermaLink="false">2024-09-25 18:45:00</guid>
       <pubDate>Wed, 25 Sep 2024 18:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:35 pm</title>
-      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-09-25 18:35:00</guid>
-      <pubDate>Wed, 25 Sep 2024 18:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
