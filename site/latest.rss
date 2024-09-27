@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Sep 2024 23:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 23:51:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:41 pm</title>
+      <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:307, PROSPECT HALL APARTMENTS Radio: 9C Units: 9C, PE311, TW1</description>
+      <guid isPermaLink="false">2024-09-27 19:41:00</guid>
+      <pubDate>Fri, 27 Sep 2024 19:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:57 pm</title>
       <description>17000 BLOCK SABILLASVILLE RD, Apt/Unit:B Radio: 9C Units: FRE193, 9C, TW6, FS10</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, ULTA COSMETICS Radio: 9C Units: 9C, E31, T50, FS31</description>
       <guid isPermaLink="false">2024-09-26 11:28:00</guid>
       <pubDate>Thu, 26 Sep 2024 11:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, Bldg:800, VALUE CITY FURNITURE Units: PE311, T4, FS31</description>
-      <guid isPermaLink="false">2024-09-26 11:27:00</guid>
-      <pubDate>Thu, 26 Sep 2024 11:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
