@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Sep 2024 04:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 05:02:01 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:45 am</title>
+      <description>2400 BLOCK SILVER LEAF DR Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2024-09-28 00:45:00</guid>
+      <pubDate>Sat, 28 Sep 2024 00:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>REKINDLE: 12:40 am</title>
       <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Radio: 9C Units: 9C, E172, FS17</description>
@@ -300,12 +306,6 @@
       <description>4000 BLOCK BELGRAVE CIR Units: E232, E251, TT23, FS23</description>
       <guid isPermaLink="false">2024-09-26 17:14:00</guid>
       <pubDate>Thu, 26 Sep 2024 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:52 pm</title>
-      <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, 9C, E82, FS12</description>
-      <guid isPermaLink="false">2024-09-26 15:52:00</guid>
-      <pubDate>Thu, 26 Sep 2024 15:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
