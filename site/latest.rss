@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Sep 2024 21:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:41:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:29 pm</title>
+      <description>1200 BLOCK STILLMEADOW PL, THE GROVE AT ALBAN Radio: 9C Units: 9C, T4, E12</description>
+      <guid isPermaLink="false">2024-09-28 17:29:00</guid>
+      <pubDate>Sat, 28 Sep 2024 17:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 4:25 pm</title>
       <description>100 BLOCK TREATMENT PLANT RD, FREDERICK WASTEWATER PLANT Radio: 9C Units: PE23, E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK DOUBS CT Units: E141, E281, R20, A149, FS14</description>
       <guid isPermaLink="false">2024-09-27 09:06:00</guid>
       <pubDate>Fri, 27 Sep 2024 09:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:26 am</title>
-      <description>100 BLOCK W SOUTH ST Units: E31, T4</description>
-      <guid isPermaLink="false">2024-09-27 08:26:00</guid>
-      <pubDate>Fri, 27 Sep 2024 08:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
