@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Sep 2024 20:25:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 20:31:52 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 4:25 pm</title>
+      <description>100 BLOCK TREATMENT PLANT RD, FREDERICK WASTEWATER PLANT Radio: 9C Units: PE23, E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-09-28 16:25:00</guid>
+      <pubDate>Sat, 28 Sep 2024 16:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:17 pm</title>
+      <description>ORCHARD WAY / S MCCAIN DR Units: A19, E12</description>
+      <guid isPermaLink="false">2024-09-28 16:17:00</guid>
+      <pubDate>Sat, 28 Sep 2024 16:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:06 pm</title>
       <description>6600 BLOCK MOUNT PHILLIP RD Units: E121, A129</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W SOUTH ST Units: E31, T4</description>
       <guid isPermaLink="false">2024-09-27 08:26:00</guid>
       <pubDate>Fri, 27 Sep 2024 08:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:28 am</title>
-      <description>100 BLOCK WILLOWDALE DR, Bldg:A, WILLOWDALE CROSSING APTS Units: E12, T4</description>
-      <guid isPermaLink="false">2024-09-27 07:28:00</guid>
-      <pubDate>Fri, 27 Sep 2024 07:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:01 am</title>
-      <description>I70WB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2024-09-27 05:01:00</guid>
-      <pubDate>Fri, 27 Sep 2024 05:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
