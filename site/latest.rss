@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Sep 2024 08:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 08:15:25 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 4:10 am</title>
+      <description>6800 BLOCK KELLYS STORE RD Radio: 9C Units: BR106, FS10, 9C</description>
+      <guid isPermaLink="false">2024-09-28 04:10:00</guid>
+      <pubDate>Sat, 28 Sep 2024 04:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:45 am</title>
       <description>2400 BLOCK SILVER LEAF DR Radio: 9C Units: E291, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>YOUNG BRANCH DR / IVY HILL DR Units: R20, SAF901, ALS20, BC903, A78, E121, E82, E201, WCE61, BC902, RE74, TW7, WCT6</description>
       <guid isPermaLink="false">2024-09-26 17:25:00</guid>
       <pubDate>Thu, 26 Sep 2024 17:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 5:14 pm</title>
-      <description>4000 BLOCK BELGRAVE CIR Units: E232, E251, TT23, FS23</description>
-      <guid isPermaLink="false">2024-09-26 17:14:00</guid>
-      <pubDate>Thu, 26 Sep 2024 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
