@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 20:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 20:51:28 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 4:46 pm</title>
+      <description>400 BLOCK PROSPECT BLVD, UHAUL CENTER OF FREDERICK Radio: 9C Units: E31, 9C</description>
+      <guid isPermaLink="false">2024-09-29 16:46:00</guid>
+      <pubDate>Sun, 29 Sep 2024 16:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 4:14 pm</title>
       <description>13900 BLOCK UNIONVILLE RD, SECOND WIND FARM Radio: 9C Units: BR175, E152, 9C</description>
@@ -300,12 +306,6 @@
       <description>17000 BLOCK SABILLASVILLE RD, Apt/Unit:B Radio: 9C Units: FRE193, 9C, TW6, FS10</description>
       <guid isPermaLink="false">2024-09-27 18:57:00</guid>
       <pubDate>Fri, 27 Sep 2024 18:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
-      <description>100 BLOCK BLK RAMP RT15NB TO S JEFFERSON ST RAMP Units: A318, TT23</description>
-      <guid isPermaLink="false">2024-09-27 18:11:00</guid>
-      <pubDate>Fri, 27 Sep 2024 18:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
