@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 20:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 20:24:58 +0000</lastBuildDate>
+    <item>
+      <title>DUMPSTER FIRE: 4:14 pm</title>
+      <description>13900 BLOCK UNIONVILLE RD, SECOND WIND FARM Radio: 9C Units: BR175, E152, 9C</description>
+      <guid isPermaLink="false">2024-09-29 16:14:00</guid>
+      <pubDate>Sun, 29 Sep 2024 16:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 4:12 pm</title>
+      <description>13900 BLOCK UNIONVILLE RD, SECOND WIND FARM Radio: 9C Units: FS17, E152, 9C</description>
+      <guid isPermaLink="false">2024-09-29 16:12:00</guid>
+      <pubDate>Sun, 29 Sep 2024 16:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:06 pm</title>
       <description>9200 BLOCK DEVILBISS BRIDGE RD, HERITAGE FARM PARK Radio: 9C Units: E162, TW1, FS11, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15NB TO S JEFFERSON ST RAMP Units: A318, TT23</description>
       <guid isPermaLink="false">2024-09-27 18:11:00</guid>
       <pubDate>Fri, 27 Sep 2024 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 6:02 pm</title>
-      <description>6300 BLOCK SPRING RIDGE PKWY, Apt/Unit:306, SPRING RIDGE SENIOR APTS Radio: 9D Units: ALS4, BC901, BC903, SAF901, FS33, 9D, E31, E152, T4, TW1, A339, E331, PE23, PE311, R3</description>
-      <guid isPermaLink="false">2024-09-27 18:02:00</guid>
-      <pubDate>Fri, 27 Sep 2024 18:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: TW1, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2024-09-27 16:54:00</guid>
-      <pubDate>Fri, 27 Sep 2024 16:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
