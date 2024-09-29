@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Sep 2024 21:23:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 21:31:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
+      <description>100 BLOCK BLK 27100 BLOCKS BTWN BENNETT CRK OVRPSS &amp; DR PERRY RD OVRPSS HWY Units: E232, PRE709, TT23, R3, A239, A735, FS23</description>
+      <guid isPermaLink="false">2024-09-29 17:22:00</guid>
+      <pubDate>Sun, 29 Sep 2024 17:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 4:46 pm</title>
       <description>400 BLOCK PROSPECT BLVD, UHAUL CENTER OF FREDERICK Radio: 9C Units: E31, 9C</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:307, PROSPECT HALL APARTMENTS Radio: 9C Units: 9C, PE311, TW1</description>
       <guid isPermaLink="false">2024-09-27 19:41:00</guid>
       <pubDate>Fri, 27 Sep 2024 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:57 pm</title>
-      <description>17000 BLOCK SABILLASVILLE RD, Apt/Unit:B Radio: 9C Units: FRE193, 9C, TW6, FS10</description>
-      <guid isPermaLink="false">2024-09-27 18:57:00</guid>
-      <pubDate>Fri, 27 Sep 2024 18:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
