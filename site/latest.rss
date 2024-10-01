@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 10:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 10:15:29 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:06 am</title>
+      <description>REELS MILL RD / RAILROAD XING Radio: 9C Units: FS23, E331, 9C, E232</description>
+      <guid isPermaLink="false">2024-10-01 06:06:00</guid>
+      <pubDate>Tue, 01 Oct 2024 06:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:05 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2024-10-01 06:05:00</guid>
+      <pubDate>Tue, 01 Oct 2024 06:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:59 am</title>
+      <description>REICHS FORD RD / RAILROAD XING Radio: 9C Units: E331, 9C, FS33</description>
+      <guid isPermaLink="false">2024-10-01 05:59:00</guid>
+      <pubDate>Tue, 01 Oct 2024 05:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:40 am</title>
       <description>300 BLOCK BALLENGER CENTER DR, KINDERCARE LEARNING CENTER Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -288,24 +306,6 @@
       <description>13600 BLOCK GLISSANS MILL RD, LINGANORE WINE CELLARS &amp; BERRYWINE PLANTATIONS Radio: 9C Units: FS17, 9C, E172</description>
       <guid isPermaLink="false">2024-09-29 00:03:00</guid>
       <pubDate>Sun, 29 Sep 2024 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:53 pm</title>
-      <description>POINT OF ROCKS RD / 15N TO POR ROUNDABOUT E ACCESS HWY Units: A209, E281</description>
-      <guid isPermaLink="false">2024-09-28 23:53:00</guid>
-      <pubDate>Sat, 28 Sep 2024 23:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:44 pm</title>
-      <description>7100 BLOCK CIMARRON CT, Bldg:A Radio: 9C Units: 9C, T4, PE311</description>
-      <guid isPermaLink="false">2024-09-28 19:44:00</guid>
-      <pubDate>Sat, 28 Sep 2024 19:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:18 pm</title>
-      <description>APPROX LOC:270S BTWN RT 80 ON RAMP &amp; CROSSOVER HWY Units: E232, PRE709, TT23, R3, A239, A735, FS23</description>
-      <guid isPermaLink="false">2024-09-28 18:18:00</guid>
-      <pubDate>Sat, 28 Sep 2024 18:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
