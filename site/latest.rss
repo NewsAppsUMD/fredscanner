@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 12:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:52:08 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:49 am</title>
+      <description>BLOOMFIELD RD / OPOSSUMTOWN PIKE Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2024-10-01 08:49:00</guid>
+      <pubDate>Tue, 01 Oct 2024 08:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:17 am</title>
       <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: T4, FS14, 9C, E141</description>
@@ -300,12 +306,6 @@
       <description>4000 BLOCK BALLENGER CREEK PIKE, EMMANUEL TRINITY LUTHERAN CHURCH Units: A149, R14</description>
       <guid isPermaLink="false">2024-09-29 11:42:00</guid>
       <pubDate>Sun, 29 Sep 2024 11:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 10:58 am</title>
-      <description>6700 BLOCK ENGLISH MUFFIN WAY, ROYAL FARMS Units: E31, HM33, PE311</description>
-      <guid isPermaLink="false">2024-09-29 10:58:00</guid>
-      <pubDate>Sun, 29 Sep 2024 10:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
