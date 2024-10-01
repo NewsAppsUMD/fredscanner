@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Oct 2024 22:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 22:42:19 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:35 pm</title>
+      <description>6900 BLOCK BOYERS MILL RD Radio: 9C Units: BR156, FS15, 9C</description>
+      <guid isPermaLink="false">2024-10-01 18:35:00</guid>
+      <pubDate>Tue, 01 Oct 2024 18:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:15 pm</title>
       <description>1800 BLOCK FAIRWAY LN Units: E291, FS29</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK LANCASTER PL Radio: 9C Units: T4, 9C, E12</description>
       <guid isPermaLink="false">2024-09-29 17:37:00</guid>
       <pubDate>Sun, 29 Sep 2024 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
-      <description>100 BLOCK BLK 27100 BLOCKS BTWN BENNETT CRK OVRPSS &amp; DR PERRY RD OVRPSS HWY Units: E232, PRE709, TT23, R3, A239, A735, FS23</description>
-      <guid isPermaLink="false">2024-09-29 17:22:00</guid>
-      <pubDate>Sun, 29 Sep 2024 17:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
