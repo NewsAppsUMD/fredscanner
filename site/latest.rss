@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Oct 2024 21:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:42:01 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 5:30 pm</title>
+      <description>14600 BLOCK RODDY RD Units: FS10, E102</description>
+      <guid isPermaLink="false">2024-10-02 17:30:00</guid>
+      <pubDate>Wed, 02 Oct 2024 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 4:45 pm</title>
       <description>900 BLOCK BLUELEAF CT, Apt/Unit:10 Units: PE23, E31, Q11, FS02</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / W PATRICK ST, IAO Units: E31, EMS902, A38, ALS4</description>
       <guid isPermaLink="false">2024-09-30 20:02:00</guid>
       <pubDate>Mon, 30 Sep 2024 20:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:30 pm</title>
-      <description>BARTHOLOWS RD / OLD NATIONAL PIKE Radio: 9B Units: E152, 9B, A158</description>
-      <guid isPermaLink="false">2024-09-30 18:30:00</guid>
-      <pubDate>Mon, 30 Sep 2024 18:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
