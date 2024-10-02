@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Oct 2024 08:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 08:46:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:43 am</title>
+      <description>I70EB / 37MM Radio: PS1 Units: E82, A89, PS1</description>
+      <guid isPermaLink="false">2024-10-02 04:43:00</guid>
+      <pubDate>Wed, 02 Oct 2024 04:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:35 pm</title>
       <description>6900 BLOCK BOYERS MILL RD Radio: 9C Units: BR156, FS15, 9C</description>
@@ -298,12 +304,6 @@
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:37 pm</title>
       <description>10900 BLOCK HORAN CT Radio: 9C Units: E251, 9C, FS25</description>
-      <guid isPermaLink="false">2024-09-29 17:37:00</guid>
-      <pubDate>Sun, 29 Sep 2024 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:37 pm</title>
-      <description>500 BLOCK LANCASTER PL Radio: 9C Units: T4, 9C, E12</description>
       <guid isPermaLink="false">2024-09-29 17:37:00</guid>
       <pubDate>Sun, 29 Sep 2024 17:37:00 -0400</pubDate>
     </item>
