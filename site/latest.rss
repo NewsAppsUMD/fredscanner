@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 02:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 02:40:34 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:25 pm</title>
+      <description>1700 BLOCK EAGLE ROCK LN Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-10-02 22:25:00</guid>
+      <pubDate>Wed, 02 Oct 2024 22:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:34 pm</title>
       <description>13000 BLOCK BRICE RD Radio: 9C Units: BR106, FS10, 9C</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR, KINDERCARE LEARNING CENTER Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2024-10-01 00:40:00</guid>
       <pubDate>Tue, 01 Oct 2024 00:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:20 pm</title>
-      <description>2600 BLOCK MONOCACY FORD RD Radio: 9B Units: Q11, FS29, E291, 9B</description>
-      <guid isPermaLink="false">2024-09-30 21:20:00</guid>
-      <pubDate>Mon, 30 Sep 2024 21:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
