@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 16:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 16:39:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:23 pm</title>
+      <description>5800 BLOCK MARY LOU LN Radio: 9C Units: T4, 9C, E11</description>
+      <guid isPermaLink="false">2024-10-03 12:23:00</guid>
+      <pubDate>Thu, 03 Oct 2024 12:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 12:12 pm</title>
       <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK ELFIN CT Units: A18, E121</description>
       <guid isPermaLink="false">2024-10-01 15:00:00</guid>
       <pubDate>Tue, 01 Oct 2024 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
-      <description>W PATRICK ST / NORVA AVE Units: T4, A299</description>
-      <guid isPermaLink="false">2024-10-01 12:47:00</guid>
-      <pubDate>Tue, 01 Oct 2024 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
