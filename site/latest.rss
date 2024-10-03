@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Oct 2024 14:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 14:26:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:18 am</title>
+      <description>2500 BLOCK SHELLEY CIR, Bldg:B, RIDGEVIEW CONDOS Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2024-10-03 10:18:00</guid>
+      <pubDate>Thu, 03 Oct 2024 10:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:42 am</title>
       <description>2500 BLOCK SHELLEY CIR, Bldg:B, RIDGEVIEW CONDOS Units: E11, T50</description>
@@ -300,12 +306,6 @@
       <description>EAGLEHEAD DR / OLD NATIONAL PIKE Units: A339, E331</description>
       <guid isPermaLink="false">2024-10-01 09:00:00</guid>
       <pubDate>Tue, 01 Oct 2024 09:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:49 am</title>
-      <description>BLOOMFIELD RD / OPOSSUMTOWN PIKE Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-10-01 08:49:00</guid>
-      <pubDate>Tue, 01 Oct 2024 08:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
