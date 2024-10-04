@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Oct 2024 14:51:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 15:02:18 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:50 am</title>
+      <description>DICKERSON RD / DICKERSON CHURCH RD Units: A149</description>
+      <guid isPermaLink="false">2024-10-04 10:50:00</guid>
+      <pubDate>Fri, 04 Oct 2024 10:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
       <description>1000 BLOCK ROCKY SPRINGS RD, SCOTT KEY CENTER Radio: 9C Units: E11, T50, 9C</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK FALLFISH CT Radio: 9C Units: E331, FS15, 9C</description>
       <guid isPermaLink="false">2024-10-02 13:50:00</guid>
       <pubDate>Wed, 02 Oct 2024 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:26 pm</title>
-      <description>RT15SB / I70, RT15SB / I70 Units: PE311, E82, R3, A39, A129</description>
-      <guid isPermaLink="false">2024-10-02 13:26:00</guid>
-      <pubDate>Wed, 02 Oct 2024 13:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
