@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 22:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 22:14:44 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:04 pm</title>
+      <description>900 BLOCK HOLDEN RD Units: E31, PE23</description>
+      <guid isPermaLink="false">2024-10-05 18:04:00</guid>
+      <pubDate>Sat, 05 Oct 2024 18:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:02 pm</title>
+      <description>900 BLOCK HOLDEN RD Units: PE23</description>
+      <guid isPermaLink="false">2024-10-05 18:02:00</guid>
+      <pubDate>Sat, 05 Oct 2024 18:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 5:48 pm</title>
       <description>6400 BLOCK MADIGAN TRL Units: PE311, E141, WCTT3, FS31</description>
@@ -294,18 +306,6 @@
       <description>11100 BLOCK ANGLEBERGER RD, BECKLEYS CAMPING CENTER STORE Radio: 9D Units: A229, 9D, PE102, EK224, EMS902, FS22</description>
       <guid isPermaLink="false">2024-10-04 16:32:00</guid>
       <pubDate>Fri, 04 Oct 2024 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:58 pm</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Units: E11, T4, FS31</description>
-      <guid isPermaLink="false">2024-10-04 15:58:00</guid>
-      <pubDate>Fri, 04 Oct 2024 15:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:14 pm</title>
-      <description>2000 BLOCK FAUNA DR Units: E291, FS29</description>
-      <guid isPermaLink="false">2024-10-04 15:14:00</guid>
-      <pubDate>Fri, 04 Oct 2024 15:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
