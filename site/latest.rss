@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 18:51:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 19:01:57 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 2:41 pm</title>
+      <description>BOTTOM RD / FORDICE DR, SOMEWHERE ON BOTTOM RD Radio: 9C Units: CCBR15, 9C, BR156</description>
+      <guid isPermaLink="false">2024-10-05 14:41:00</guid>
+      <pubDate>Sat, 05 Oct 2024 14:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:39 pm</title>
+      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Units: A69, E61, FS06</description>
+      <guid isPermaLink="false">2024-10-05 14:39:00</guid>
+      <pubDate>Sat, 05 Oct 2024 14:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:33 pm</title>
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E102</description>
@@ -294,18 +306,6 @@
       <description>8400 BLOCK BALD EAGLE LN Radio: 9C Units: E331, 9C</description>
       <guid isPermaLink="false">2024-10-04 09:44:00</guid>
       <pubDate>Fri, 04 Oct 2024 09:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:29 am</title>
-      <description>900 BLOCK N MAPLE AVE, BRUNSWICK LIBRARY Radio: 9C Units: 9C, E51, T4, FS05</description>
-      <guid isPermaLink="false">2024-10-04 09:29:00</guid>
-      <pubDate>Fri, 04 Oct 2024 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:05 am</title>
-      <description>10500 BLOCK WHITMIRE CT Radio: 9C Units: E152, R15, FS15, 9C, E172</description>
-      <guid isPermaLink="false">2024-10-04 09:05:00</guid>
-      <pubDate>Fri, 04 Oct 2024 09:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
