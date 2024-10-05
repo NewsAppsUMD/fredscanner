@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 08:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 09:02:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:45 am</title>
+      <description>1800 BLOCK GREENSPRING PL, Bldg:2, Apt/Unit:103 Units: E11, T50</description>
+      <guid isPermaLink="false">2024-10-05 04:45:00</guid>
+      <pubDate>Sat, 05 Oct 2024 04:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:39 am</title>
+      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Units: A69, R10, FS10</description>
+      <guid isPermaLink="false">2024-10-05 04:39:00</guid>
+      <pubDate>Sat, 05 Oct 2024 04:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 4:17 am</title>
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Units: C22, BC902, EMS901, PE102, A229, E221, E102</description>
@@ -294,18 +306,6 @@
       <description>5800 BLOCK MARY LOU LN Radio: 9C Units: T4, 9C, E11</description>
       <guid isPermaLink="false">2024-10-03 12:23:00</guid>
       <pubDate>Thu, 03 Oct 2024 12:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 12:12 pm</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-10-03 12:12:00</guid>
-      <pubDate>Thu, 03 Oct 2024 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 11:42 am</title>
-      <description>1000 BLOCK THOMPSON DR, Bldg:35, NCI - BLDG 1000 BLOCK Radio: 9C Units: E11, T50, 9C</description>
-      <guid isPermaLink="false">2024-10-03 11:42:00</guid>
-      <pubDate>Thu, 03 Oct 2024 11:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
