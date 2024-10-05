@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 08:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 08:15:36 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:13 am</title>
+      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Units: EMS901, PE102, A229, E221</description>
+      <guid isPermaLink="false">2024-10-05 04:13:00</guid>
+      <pubDate>Sat, 05 Oct 2024 04:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:11 am</title>
+      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Units: A229, E221, FS22</description>
+      <guid isPermaLink="false">2024-10-05 04:11:00</guid>
+      <pubDate>Sat, 05 Oct 2024 04:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 3:58 am</title>
+      <description>100 BLOCK E CHURCH ST, CHURCH STREET PARKING DECK Radio: 9C Units: R3, 9C</description>
+      <guid isPermaLink="false">2024-10-05 03:58:00</guid>
+      <pubDate>Sat, 05 Oct 2024 03:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:39 am</title>
       <description>200 BLOCK SHANNONBROOK LN Units: E121</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK E SEVENTH ST Units: PE23, FS02, A29</description>
       <guid isPermaLink="false">2024-10-03 10:57:00</guid>
       <pubDate>Thu, 03 Oct 2024 10:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:52 am</title>
-      <description>100 BLOCK S MAPLE AVE Units: E51, T23, FS05</description>
-      <guid isPermaLink="false">2024-10-03 10:52:00</guid>
-      <pubDate>Thu, 03 Oct 2024 10:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:41 am</title>
-      <description>2500 BLOCK SHELLEY CIR Units: E11</description>
-      <guid isPermaLink="false">2024-10-03 10:41:00</guid>
-      <pubDate>Thu, 03 Oct 2024 10:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:18 am</title>
-      <description>2500 BLOCK SHELLEY CIR, Bldg:B, RIDGEVIEW CONDOS Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2024-10-03 10:18:00</guid>
-      <pubDate>Thu, 03 Oct 2024 10:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
