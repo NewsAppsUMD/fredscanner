@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 18:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 18:15:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:04 pm</title>
+      <description>JEFFERSON PIKE / FEAGAVILLE LN Units: FS20, A318, R20</description>
+      <guid isPermaLink="false">2024-10-05 14:04:00</guid>
+      <pubDate>Sat, 05 Oct 2024 14:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 2:03 pm</title>
+      <description>4300 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: FS05, 9C, E51</description>
+      <guid isPermaLink="false">2024-10-05 14:03:00</guid>
+      <pubDate>Sat, 05 Oct 2024 14:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:00 pm</title>
+      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, RID, E201, T50, A89, TTF, W7, E121, EMS902, E82, E72, A129, ALS8, BC903, BC902, C2C, W12, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, E291, K22, EK224, K5, K23, C7, CMD12, K21, EK114, C1B</description>
+      <guid isPermaLink="false">2024-10-05 14:00:00</guid>
+      <pubDate>Sat, 05 Oct 2024 14:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:58 pm</title>
+      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, RID, E201, T50, A89, E121, EMS902, E82, E72, A129, ALS8, BC903, BC902, C2C, W12, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, C7, CMD12, K21, EK114</description>
+      <guid isPermaLink="false">2024-10-05 13:58:00</guid>
+      <pubDate>Sat, 05 Oct 2024 13:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:57 pm</title>
+      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, E121, E82, E72, A129, ALS8, BC903, BC902, C2C, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, C7, CMD12, K21, EK114</description>
+      <guid isPermaLink="false">2024-10-05 13:57:00</guid>
+      <pubDate>Sat, 05 Oct 2024 13:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:56 pm</title>
+      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, E121, E82, E72, A129, ALS8, BC903, BC902, C2C, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, C7</description>
+      <guid isPermaLink="false">2024-10-05 13:56:00</guid>
+      <pubDate>Sat, 05 Oct 2024 13:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:52 pm</title>
+      <description>7800 BLOCK RIDGE RD Units: SAF901, FS12, E121, E82, E72, A129, ALS8, BC903, BC902, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204</description>
+      <guid isPermaLink="false">2024-10-05 13:52:00</guid>
+      <pubDate>Sat, 05 Oct 2024 13:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATER RESCUE: 1:51 pm</title>
+      <description>POTOMAC RIVER / RT340 Units: BT19, BT28, A196, ALS20</description>
+      <guid isPermaLink="false">2024-10-05 13:51:00</guid>
+      <pubDate>Sat, 05 Oct 2024 13:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:55 pm</title>
       <description>W SEVENTH ST / FAIRVIEW AVE Units: A29, PE23, FS04</description>
@@ -258,54 +306,6 @@
       <description>4200 BLOCK MARYLAND CT Units: E82, E121, T50, K7</description>
       <guid isPermaLink="false">2024-10-03 20:09:00</guid>
       <pubDate>Thu, 03 Oct 2024 20:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:03 pm</title>
-      <description>500 BLOCK SYLVAN CT Units: E11, E31, T4, PE311</description>
-      <guid isPermaLink="false">2024-10-03 20:03:00</guid>
-      <pubDate>Thu, 03 Oct 2024 20:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:22 pm</title>
-      <description>3200 BLOCK STONE BARN DR Units: E251, T23, E232, FS23</description>
-      <guid isPermaLink="false">2024-10-03 19:22:00</guid>
-      <pubDate>Thu, 03 Oct 2024 19:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:32 pm</title>
-      <description>5800 BLOCK WHITE LAKE LN Units: T4, E11</description>
-      <guid isPermaLink="false">2024-10-03 18:32:00</guid>
-      <pubDate>Thu, 03 Oct 2024 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:21 pm</title>
-      <description>MOUNT ZION RD / MOUNT PHILLIP RD Units: E121, FS12</description>
-      <guid isPermaLink="false">2024-10-03 18:21:00</guid>
-      <pubDate>Thu, 03 Oct 2024 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:47 pm</title>
-      <description>10200 BLOCK ROYAL SAINT ANDREWS PL, PH2 Units: A158, E152, FS15</description>
-      <guid isPermaLink="false">2024-10-03 17:47:00</guid>
-      <pubDate>Thu, 03 Oct 2024 17:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:42 pm</title>
-      <description>FINGERBOARD RD / I270, FINGERBOARD RD / I270 Units: T23, A239, FS23</description>
-      <guid isPermaLink="false">2024-10-03 17:42:00</guid>
-      <pubDate>Thu, 03 Oct 2024 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:23 pm</title>
-      <description>BLENTLINGER RD / W PATRICK ST Units: A129, E121, FS12</description>
-      <guid isPermaLink="false">2024-10-03 17:23:00</guid>
-      <pubDate>Thu, 03 Oct 2024 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:21 pm</title>
-      <description>1500 BLOCK TRAFALGAR LN Radio: 9C Units: Q11, FS29, 9C, E111</description>
-      <guid isPermaLink="false">2024-10-03 16:21:00</guid>
-      <pubDate>Thu, 03 Oct 2024 16:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
