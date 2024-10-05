@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Oct 2024 03:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 04:02:22 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:53 pm</title>
+      <description>HARDING ALY / MONROE AVE Radio: 9B Units: BR35, 9B</description>
+      <guid isPermaLink="false">2024-10-04 23:53:00</guid>
+      <pubDate>Fri, 04 Oct 2024 23:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:35 pm</title>
       <description>100 BLOCK CROSSTIMBER WAY Radio: 9C Units: E291, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK TATUM CT Units: E121, T50</description>
       <guid isPermaLink="false">2024-10-03 08:02:00</guid>
       <pubDate>Thu, 03 Oct 2024 08:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:47 am</title>
-      <description>W PATRICK ST / WAVERLEY DR Radio: 9D Units: 9D, E11, R3, A19, ALS4, EMS902, FS12</description>
-      <guid isPermaLink="false">2024-10-03 07:47:00</guid>
-      <pubDate>Thu, 03 Oct 2024 07:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
