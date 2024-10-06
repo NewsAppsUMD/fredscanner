@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 23:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 23:41:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:37 pm</title>
+      <description>LIBERTY RD / DANCE HALL RD Units: A249, E111, FS11</description>
+      <guid isPermaLink="false">2024-10-06 19:37:00</guid>
+      <pubDate>Sun, 06 Oct 2024 19:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 6:19 pm</title>
       <description>4400 BLOCK FELDSPAR RD Radio: 9C Units: 9C, E121, E72, TW1, FS12</description>
@@ -300,12 +306,6 @@
       <description>JEFFERSON PIKE / FEAGAVILLE LN Units: FS20, A318, R20</description>
       <guid isPermaLink="false">2024-10-05 14:04:00</guid>
       <pubDate>Sat, 05 Oct 2024 14:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:03 pm</title>
-      <description>4300 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: FS05, 9C, E51</description>
-      <guid isPermaLink="false">2024-10-05 14:03:00</guid>
-      <pubDate>Sat, 05 Oct 2024 14:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
