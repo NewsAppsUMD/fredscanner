@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 22:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 22:33:40 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:19 pm</title>
+      <description>4400 BLOCK FELDSPAR RD Radio: 9C Units: 9C, E121, E72, TW1, FS12</description>
+      <guid isPermaLink="false">2024-10-06 18:19:00</guid>
+      <pubDate>Sun, 06 Oct 2024 18:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:55 pm</title>
       <description>7200 BLOCK MCKINNEY CIR, BUILDERS FIRST SOURCE Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: FS05, 9C, E51</description>
       <guid isPermaLink="false">2024-10-05 14:03:00</guid>
       <pubDate>Sat, 05 Oct 2024 14:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:00 pm</title>
-      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, RID, E201, T50, A89, TTF, W7, E121, EMS902, E82, E72, A129, ALS8, BC903, BC902, C2C, W12, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, E291, K22, EK224, K5, K23, C7, CMD12, K21, EK114, C1B</description>
-      <guid isPermaLink="false">2024-10-05 14:00:00</guid>
-      <pubDate>Sat, 05 Oct 2024 14:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
