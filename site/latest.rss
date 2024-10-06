@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 00:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 01:00:40 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:42 pm</title>
+      <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, E61, 9C</description>
+      <guid isPermaLink="false">2024-10-05 20:42:00</guid>
+      <pubDate>Sat, 05 Oct 2024 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:38 pm</title>
+      <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, FS06, 9C</description>
+      <guid isPermaLink="false">2024-10-05 20:38:00</guid>
+      <pubDate>Sat, 05 Oct 2024 20:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:30 pm</title>
+      <description>W PATRICK ST / N JEFFERSON ST Units: A39, T4, FS04</description>
+      <guid isPermaLink="false">2024-10-05 20:30:00</guid>
+      <pubDate>Sat, 05 Oct 2024 20:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:19 pm</title>
       <description>6700 BLOCK STONEWALL CT W Radio: 9C Units: E141, FS14, 9C, E232, T23</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK APPLE WAY Radio: 9D Units: ALS4, E11, EMS902, 9D, A18</description>
       <guid isPermaLink="false">2024-10-04 18:51:00</guid>
       <pubDate>Fri, 04 Oct 2024 18:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:39 pm</title>
-      <description>12500 BLOCK HARNEY RD Units: A69, E61, FS06, CCE111</description>
-      <guid isPermaLink="false">2024-10-04 18:39:00</guid>
-      <pubDate>Fri, 04 Oct 2024 18:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:48 pm</title>
-      <description>RT40 / BOWERS RD (W), RT40 / BOWERS RD Units: A129, E121</description>
-      <guid isPermaLink="false">2024-10-04 17:48:00</guid>
-      <pubDate>Fri, 04 Oct 2024 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 4:36 pm</title>
-      <description>11100 BLOCK ANGLEBERGER RD, BECKLEYS CAMPING CENTER STORE Radio: 9D Units: A229, 9D, ALS2, PE102, EK224, EMS902</description>
-      <guid isPermaLink="false">2024-10-04 16:36:00</guid>
-      <pubDate>Fri, 04 Oct 2024 16:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
