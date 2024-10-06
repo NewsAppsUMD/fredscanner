@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 01:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 01:43:34 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:30 pm</title>
+      <description>300 BLOCK MAIN ST, STATION 8 Units: E152</description>
+      <guid isPermaLink="false">2024-10-05 21:30:00</guid>
+      <pubDate>Sat, 05 Oct 2024 21:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:26 pm</title>
+      <description>11000 BLOCK HIGHLAND SCHOOL RD Units: K21, K7, K1, A89, C7, ALS8, E212, BC903, BC902, SAF901, CMD21, C2C, T50, WCEK16, WCE162, E291, PE23, WCT6, WCK6, A78, PE102, T4, EMS902, E31, RE74, TW1, WCRE7, W21, RID, E82, WCE71, WCE61, K10, C21, E72, E121</description>
+      <guid isPermaLink="false">2024-10-05 21:26:00</guid>
+      <pubDate>Sat, 05 Oct 2024 21:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:23 pm</title>
+      <description>11000 BLOCK HIGHLAND SCHOOL RD Units: K21, K7, K1, A89, C7, ALS8, E212, BC903, BC902, SAF901, CMD21, C2C, WCE162, E291, PE23, WCT6, WCK6, A78, PE102, T4, EMS902, E31, RE74, TW1, WCRE7, W21, RID, E82, WCE71, WCE61, C21, E72, E121</description>
+      <guid isPermaLink="false">2024-10-05 21:23:00</guid>
+      <pubDate>Sat, 05 Oct 2024 21:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:18 pm</title>
+      <description>11000 BLOCK HIGHLAND SCHOOL RD Units: K21, K7, K1, A89, C7, ALS8, E212, BC903, BC902, SAF901, CMD21, WCE162, E291, PE23, WCT6, WCK6, E31, RE74, TW1, WCRE7, E82, WCE71, WCE61, C21, E72, E121</description>
+      <guid isPermaLink="false">2024-10-05 21:18:00</guid>
+      <pubDate>Sat, 05 Oct 2024 21:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:12 pm</title>
+      <description>11000 BLOCK HIGHLAND SCHOOL RD Units: K21, K7, K1, A89, ALS8, E212, BC903, BC902, SAF901, FS21, E31, RE74, TW1, WCRE7, E82, WCE71, WCE61, E72, E121</description>
+      <guid isPermaLink="false">2024-10-05 21:12:00</guid>
+      <pubDate>Sat, 05 Oct 2024 21:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:53 pm</title>
+      <description>E PATRICK ST / QUINN ORCHARD RD Units: A339, E331, FS33</description>
+      <guid isPermaLink="false">2024-10-05 20:53:00</guid>
+      <pubDate>Sat, 05 Oct 2024 20:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:42 pm</title>
       <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, E61, 9C</description>
@@ -270,42 +306,6 @@
       <description>1300 BLOCK ORCHARD WAY Radio: 9C Units: T4, 9C, E11</description>
       <guid isPermaLink="false">2024-10-05 00:44:00</guid>
       <pubDate>Sat, 05 Oct 2024 00:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:53 pm</title>
-      <description>HARDING ALY / MONROE AVE Radio: 9B Units: BR35, 9B</description>
-      <guid isPermaLink="false">2024-10-04 23:53:00</guid>
-      <pubDate>Fri, 04 Oct 2024 23:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:35 pm</title>
-      <description>100 BLOCK CROSSTIMBER WAY Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-10-04 23:35:00</guid>
-      <pubDate>Fri, 04 Oct 2024 23:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:53 pm</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Units: E251, PRE709, R3, A239, E232, A709, FS23</description>
-      <guid isPermaLink="false">2024-10-04 21:53:00</guid>
-      <pubDate>Fri, 04 Oct 2024 21:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:01 pm</title>
-      <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: E291, BR16, 9C</description>
-      <guid isPermaLink="false">2024-10-04 19:01:00</guid>
-      <pubDate>Fri, 04 Oct 2024 19:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:52 pm</title>
-      <description>RT15 NB W PATRICK ST OFF RAMP &amp; RT 40 BRDGE HWY / W PATRICK ST Units: PE23, A39, A19, E31, R3</description>
-      <guid isPermaLink="false">2024-10-04 18:52:00</guid>
-      <pubDate>Fri, 04 Oct 2024 18:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 6:51 pm</title>
-      <description>100 BLOCK APPLE WAY Radio: 9D Units: ALS4, E11, EMS902, 9D, A18</description>
-      <guid isPermaLink="false">2024-10-04 18:51:00</guid>
-      <pubDate>Fri, 04 Oct 2024 18:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
