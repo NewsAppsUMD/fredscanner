@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Oct 2024 21:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 21:23:36 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:08 pm</title>
+      <description>I70EB / RT85(RT85), I70EB / RT85 Radio: 9D Units: EMS902, E11, E331, R3, A18, A38, ALS31, 9D</description>
+      <guid isPermaLink="false">2024-10-06 17:08:00</guid>
+      <pubDate>Sun, 06 Oct 2024 17:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 4:45 pm</title>
       <description>4500 BLOCK TIMBERY DR Radio: 9D Units: E201, R20, A149, ALS20, EMS901, FS20, 9D</description>
@@ -300,12 +306,6 @@
       <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, RID, E201, T50, A89, E121, EMS902, E82, E72, A129, ALS8, BC903, BC902, C2C, W12, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, C7, CMD12, K21, EK114</description>
       <guid isPermaLink="false">2024-10-05 13:58:00</guid>
       <pubDate>Sat, 05 Oct 2024 13:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:57 pm</title>
-      <description>7800 BLOCK RIDGE RD Units: SAF901, C4C, R3, E121, E82, E72, A129, ALS8, BC903, BC902, C2C, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, C7, CMD12, K21, EK114</description>
-      <guid isPermaLink="false">2024-10-05 13:57:00</guid>
-      <pubDate>Sat, 05 Oct 2024 13:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
