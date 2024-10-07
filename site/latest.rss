@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 12:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 12:52:12 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 8:46 am</title>
+      <description>10600 BLOCK GREEN VALLEY RD Radio: 91C Units: E172, Q11, K17, FS17, 91C, E162</description>
+      <guid isPermaLink="false">2024-10-07 08:46:00</guid>
+      <pubDate>Mon, 07 Oct 2024 08:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:44 am</title>
+      <description>1400 BLOCK W SEVENTH ST, GOOD SHEPHERD LUTHERAN CHURCH Radio: 9C Units: PE23, T50, 9C, E501</description>
+      <guid isPermaLink="false">2024-10-07 08:44:00</guid>
+      <pubDate>Mon, 07 Oct 2024 08:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
       <description>5700 BLOCK INDUSTRY LN, BEACON BULDG Units: T4, PE311, FS31</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: E102, E291, PRE709, R24, A29, A18</description>
       <guid isPermaLink="false">2024-10-05 15:57:00</guid>
       <pubDate>Sat, 05 Oct 2024 15:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 3:06 pm</title>
-      <description>200 BLOCK S MAPLE AVE, MARC TRAIN STATION BRUNSWICK Radio: 9B Units: ALS4, R19, EMS901, FS05, A198, 9B</description>
-      <guid isPermaLink="false">2024-10-05 15:06:00</guid>
-      <pubDate>Sat, 05 Oct 2024 15:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 2:41 pm</title>
-      <description>BOTTOM RD / FORDICE DR, SOMEWHERE ON BOTTOM RD Radio: 9C Units: CCBR15, 9C, BR156</description>
-      <guid isPermaLink="false">2024-10-05 14:41:00</guid>
-      <pubDate>Sat, 05 Oct 2024 14:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
