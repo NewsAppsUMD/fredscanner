@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 11:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 11:41:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
+      <description>5700 BLOCK INDUSTRY LN, BEACON BULDG Units: T4, PE311, FS31</description>
+      <guid isPermaLink="false">2024-10-07 07:30:00</guid>
+      <pubDate>Mon, 07 Oct 2024 07:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 6:54 am</title>
       <description>TEEN BARNES RD / HOLTER RD Units: A209, E201, E31, E51, E72, EK204, K5, K7, RE74, ALS20, R20, FS20, E121, SAF901, BC902, BC903, TW1, E281</description>
@@ -300,12 +306,6 @@
       <description>BOTTOM RD / FORDICE DR, SOMEWHERE ON BOTTOM RD Radio: 9C Units: CCBR15, 9C, BR156</description>
       <guid isPermaLink="false">2024-10-05 14:41:00</guid>
       <pubDate>Sat, 05 Oct 2024 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:39 pm</title>
-      <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS Units: A69, E61, FS06</description>
-      <guid isPermaLink="false">2024-10-05 14:39:00</guid>
-      <pubDate>Sat, 05 Oct 2024 14:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
