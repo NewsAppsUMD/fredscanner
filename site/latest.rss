@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 16:15:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 16:28:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:12 pm</title>
+      <description>700 BLOCK E PATRICK ST, Bldg:7, FREDERICK FAIRGROUNDS BLDG 7 - COMMERCIAL EXHIBIT Radio: 9C Units: E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-10-07 12:12:00</guid>
+      <pubDate>Mon, 07 Oct 2024 12:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:04 pm</title>
+      <description>10500 BLOCK STULL RD Radio: 9C Units: BR226, 9C, E291</description>
+      <guid isPermaLink="false">2024-10-07 12:04:00</guid>
+      <pubDate>Mon, 07 Oct 2024 12:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:59 am</title>
       <description>10500 BLOCK STULL RD Radio: 9C Units: BR226, FS22, 9C</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK MADIGAN TRL Units: PE311, E141, WCTT3, FS31</description>
       <guid isPermaLink="false">2024-10-05 17:48:00</guid>
       <pubDate>Sat, 05 Oct 2024 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 4:58 pm</title>
-      <description>1300 BLOCK E PATRICK ST, Apt/Unit:OFC STORE, SHEETZ EASTGATE Radio: 9C Units: E331, 9C</description>
-      <guid isPermaLink="false">2024-10-05 16:58:00</guid>
-      <pubDate>Sat, 05 Oct 2024 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 4:05 pm</title>
-      <description>APPALACHIAN TRAIL VIEWPOINT AT WILDLIFE WAY Units: R20</description>
-      <guid isPermaLink="false">2024-10-05 16:05:00</guid>
-      <pubDate>Sat, 05 Oct 2024 16:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
