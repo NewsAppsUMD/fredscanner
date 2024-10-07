@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 03:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 04:02:35 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 11:47 pm</title>
+      <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2024-10-06 23:47:00</guid>
+      <pubDate>Sun, 06 Oct 2024 23:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 pm</title>
       <description>1600 BLOCK CORN CRIB PL Radio: 9C Units: 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E102</description>
       <guid isPermaLink="false">2024-10-05 14:33:00</guid>
       <pubDate>Sat, 05 Oct 2024 14:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:32 pm</title>
-      <description>7800 BLOCK RIDGE RD Units: SAF901, PE311, C4C, R3, RID, E201, T50, A89, TTF, K22, E331, R20, T23, E121, EMS902, E82, E72, A129, ALS8, BC903, BC902, C2C, W12, R24, E31, PE23, E501, RE74, TW1, T4, K7, K1, EK204, C3D, E291, FTF, EK224, A78, MAU15, CAN1, K5, K23, C7, CMD12, K21, EK114, C1B</description>
-      <guid isPermaLink="false">2024-10-05 14:32:00</guid>
-      <pubDate>Sat, 05 Oct 2024 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
