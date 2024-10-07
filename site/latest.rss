@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 20:26:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 20:35:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:18 pm</title>
+      <description>RT340WB / CATOCTIN CREEK, RT340WB / CATOCTIN CREEK Radio: 9D Units: R20, A209, BC903, EMS901, 9D, E51, A198, FS20, E201, ALS20</description>
+      <guid isPermaLink="false">2024-10-07 16:18:00</guid>
+      <pubDate>Mon, 07 Oct 2024 16:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:16 pm</title>
       <description>RT340WB / GENE HEMP RD, RT340WB / GENE HEMP RD Units: R20, A209, BC903, EMS901, E201, ALS20</description>
@@ -300,12 +306,6 @@
       <description>W PATRICK ST / N JEFFERSON ST Units: A39, T4, FS04</description>
       <guid isPermaLink="false">2024-10-05 20:30:00</guid>
       <pubDate>Sat, 05 Oct 2024 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:19 pm</title>
-      <description>6700 BLOCK STONEWALL CT W Radio: 9C Units: E141, FS14, 9C, E232, T23</description>
-      <guid isPermaLink="false">2024-10-05 20:19:00</guid>
-      <pubDate>Sat, 05 Oct 2024 20:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
