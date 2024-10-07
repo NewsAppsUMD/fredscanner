@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Oct 2024 23:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 23:14:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:11 pm</title>
+      <description>14700 BLOCK FOXVILLE DEERFIELD RD Radio: 9D Units: EMS902, FS21, R10, A309, ALS30, E212, BC902, 9D, PE102</description>
+      <guid isPermaLink="false">2024-10-07 19:11:00</guid>
+      <pubDate>Mon, 07 Oct 2024 19:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:06 pm</title>
+      <description>RT340WB / COUNTY LINE Units: E51, ALS20, A196</description>
+      <guid isPermaLink="false">2024-10-07 19:06:00</guid>
+      <pubDate>Mon, 07 Oct 2024 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:18 pm</title>
       <description>RT340WB / CATOCTIN CREEK, RT340WB / CATOCTIN CREEK Radio: 9D Units: R20, A209, BC903, EMS901, 9D, E51, A198, FS20, E201, ALS20</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, E61, 9C</description>
       <guid isPermaLink="false">2024-10-05 20:42:00</guid>
       <pubDate>Sat, 05 Oct 2024 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:38 pm</title>
-      <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, FS06, 9C</description>
-      <guid isPermaLink="false">2024-10-05 20:38:00</guid>
-      <pubDate>Sat, 05 Oct 2024 20:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:30 pm</title>
-      <description>W PATRICK ST / N JEFFERSON ST Units: A39, T4, FS04</description>
-      <guid isPermaLink="false">2024-10-05 20:30:00</guid>
-      <pubDate>Sat, 05 Oct 2024 20:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
