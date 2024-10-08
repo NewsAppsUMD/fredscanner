@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Oct 2024 01:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 02:15:47 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:45 pm</title>
+      <description>1400 BLOCK TANEY AVE, Bldg:G, Apt/Unit:G201, APPLEGATE APTS Radio: 9C Units: T50, 9C, E501, E11</description>
+      <guid isPermaLink="false">2024-10-07 21:45:00</guid>
+      <pubDate>Mon, 07 Oct 2024 21:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:11 pm</title>
       <description>14700 BLOCK FOXVILLE DEERFIELD RD Radio: 9D Units: EMS902, FS21, R10, A309, ALS30, E212, BC902, 9D, PE102</description>
@@ -300,12 +306,6 @@
       <description>E PATRICK ST / QUINN ORCHARD RD Units: A339, E331, FS33</description>
       <guid isPermaLink="false">2024-10-05 20:53:00</guid>
       <pubDate>Sat, 05 Oct 2024 20:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:42 pm</title>
-      <description>100 BLOCK DEPAUL ST, Bldg:B, Apt/Unit:6, SCHOOLHOUSE APTS Radio: 9C Units: BR65, E61, 9C</description>
-      <guid isPermaLink="false">2024-10-05 20:42:00</guid>
-      <pubDate>Sat, 05 Oct 2024 20:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
