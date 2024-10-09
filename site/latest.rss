@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 21:24:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 21:31:36 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:28 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E152</description>
+      <guid isPermaLink="false">2024-10-09 17:28:00</guid>
+      <pubDate>Wed, 09 Oct 2024 17:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:14 pm</title>
       <description>1500 BLOCK BLOOM RD Units: BR175, K17</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK MCKINNEY CIR, BUILDERS FIRST SOURCE Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2024-10-06 17:55:00</guid>
       <pubDate>Sun, 06 Oct 2024 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:08 pm</title>
-      <description>I70EB / RT85(RT85), I70EB / RT85 Radio: 9D Units: EMS902, E11, E331, R3, A18, A38, ALS31, 9D</description>
-      <guid isPermaLink="false">2024-10-06 17:08:00</guid>
-      <pubDate>Sun, 06 Oct 2024 17:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
