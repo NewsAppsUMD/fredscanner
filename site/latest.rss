@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Oct 2024 20:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 20:15:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:02 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Units: E31, T4</description>
+      <guid isPermaLink="false">2024-10-09 16:02:00</guid>
+      <pubDate>Wed, 09 Oct 2024 16:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:01 pm</title>
+      <description>100 BLOCK W POTOMAC ST Units: E51, TW1, FS05</description>
+      <guid isPermaLink="false">2024-10-09 16:01:00</guid>
+      <pubDate>Wed, 09 Oct 2024 16:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
       <description>9200 BLOCK BALTIMORE NATIONAL PIKE PIKE Units: A89, E82</description>
@@ -294,18 +306,6 @@
       <description>17500 BLOCK OLD GETTYSBURG RD, Bldg:E Units: PE102, BC902, EMS902, FS06, A69, R6, E61</description>
       <guid isPermaLink="false">2024-10-06 14:08:00</guid>
       <pubDate>Sun, 06 Oct 2024 14:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:45 pm</title>
-      <description>9700 BLOCK FLEETWOOD WAY Radio: 9C Units: E331, E152, R15, 9C, E31</description>
-      <guid isPermaLink="false">2024-10-06 12:45:00</guid>
-      <pubDate>Sun, 06 Oct 2024 12:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:40 pm</title>
-      <description>9700 BLOCK FLEETWOOD WAY Radio: 9C Units: E331, E152, R15, FS33, 9C</description>
-      <guid isPermaLink="false">2024-10-06 12:40:00</guid>
-      <pubDate>Sun, 06 Oct 2024 12:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
