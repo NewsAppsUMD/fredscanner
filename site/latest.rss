@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 22:42:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 22:51:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:20 pm</title>
+      <description>COPPERMINE RD / WOODSBORO PIKE Radio: 9D Units: R24, A169, ALS17, BC902, EMS902, FS16, 9D, E162</description>
+      <guid isPermaLink="false">2024-10-10 18:20:00</guid>
+      <pubDate>Thu, 10 Oct 2024 18:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 5:41 pm</title>
       <description>1000 BLOCK GREENWALL PL, Apt/Unit:TA, WESTWINDS APTS Radio: 9C Units: E11, 9C, E31, T4</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK S SETON AVE, DAUGHTERS OF CHARITY Radio: 9C Units: E61, TW6, 9C</description>
       <guid isPermaLink="false">2024-10-09 06:09:00</guid>
       <pubDate>Wed, 09 Oct 2024 06:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 4:51 am</title>
-      <description>13500 BLOCK PENN SHOP RD, RATTLEWOOD GOLF COURSE Units: E251, T23</description>
-      <guid isPermaLink="false">2024-10-09 04:51:00</guid>
-      <pubDate>Wed, 09 Oct 2024 04:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
