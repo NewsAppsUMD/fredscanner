@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 12:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 12:51:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 8:33 am</title>
+      <description>4200 BLOCK SAMHILL CT Radio: 9B Units: HM33, K33, C15C, 9B, BC901, E152, CCK1, E251, CCE12, FS25</description>
+      <guid isPermaLink="false">2024-10-10 08:33:00</guid>
+      <pubDate>Thu, 10 Oct 2024 08:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:31 am</title>
+      <description>4200 BLOCK SAMHILL CT Radio: 9B Units: HM33, 9B, BC901, E152, CCK1, E251, CCE12, FS25</description>
+      <guid isPermaLink="false">2024-10-10 08:31:00</guid>
+      <pubDate>Thu, 10 Oct 2024 08:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 8:28 am</title>
       <description>4200 BLOCK SAMHILL CT Radio: 9B Units: 9B, E251, CCE12, FS25</description>
@@ -294,18 +306,6 @@
       <description>RT340WB / COUNTY LINE Units: E51, ALS20, A196</description>
       <guid isPermaLink="false">2024-10-07 19:06:00</guid>
       <pubDate>Mon, 07 Oct 2024 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:18 pm</title>
-      <description>RT340WB / CATOCTIN CREEK, RT340WB / CATOCTIN CREEK Radio: 9D Units: R20, A209, BC903, EMS901, 9D, E51, A198, FS20, E201, ALS20</description>
-      <guid isPermaLink="false">2024-10-07 16:18:00</guid>
-      <pubDate>Mon, 07 Oct 2024 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:16 pm</title>
-      <description>RT340WB / GENE HEMP RD, RT340WB / GENE HEMP RD Units: R20, A209, BC903, EMS901, E201, ALS20</description>
-      <guid isPermaLink="false">2024-10-07 16:16:00</guid>
-      <pubDate>Mon, 07 Oct 2024 16:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
