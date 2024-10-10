@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 00:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:31:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:24 pm</title>
+      <description>I70EB / QUINN RD, I70EB / QUINN RD Units: E331, E152, R3, A339, A158, FS33</description>
+      <guid isPermaLink="false">2024-10-09 20:24:00</guid>
+      <pubDate>Wed, 09 Oct 2024 20:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:03 pm</title>
       <description>600 BLOCK WILD HUNT RD Units: TW1, FS31, PE311</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: PE23, 9C</description>
       <guid isPermaLink="false">2024-10-06 23:47:00</guid>
       <pubDate>Sun, 06 Oct 2024 23:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 pm</title>
-      <description>1600 BLOCK CORN CRIB PL Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2024-10-06 22:39:00</guid>
-      <pubDate>Sun, 06 Oct 2024 22:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
