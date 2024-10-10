@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 21:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 21:51:27 +0000</lastBuildDate>
+    <item>
+      <title>EXPLOSION - MISCELLANEOUS: 5:39 pm</title>
+      <description>MANDALONG WAY / GAS HOUSE PIKE Radio: 9C Units: E152, FS15, 9C</description>
+      <guid isPermaLink="false">2024-10-10 17:39:00</guid>
+      <pubDate>Thu, 10 Oct 2024 17:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Units: E232, PRE709, R729, A735, A239, E251, A259, PE735</description>
+      <guid isPermaLink="false">2024-10-10 17:34:00</guid>
+      <pubDate>Thu, 10 Oct 2024 17:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:29 pm</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Units: E232, PRE709, R729, A735, A239, PE735</description>
+      <guid isPermaLink="false">2024-10-10 17:29:00</guid>
+      <pubDate>Thu, 10 Oct 2024 17:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:24 pm</title>
       <description>100 BLOCK W FOURTH ST Radio: 9C Units: 9C, PE311</description>
@@ -288,24 +306,6 @@
       <description>13500 BLOCK PENN SHOP RD, RATTLEWOOD GOLF COURSE Units: E251</description>
       <guid isPermaLink="false">2024-10-09 04:47:00</guid>
       <pubDate>Wed, 09 Oct 2024 04:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 3:44 am</title>
-      <description>I70EB / 42MM, I70EB / 42MM Radio: 9C Units: R8, 9C</description>
-      <guid isPermaLink="false">2024-10-09 03:44:00</guid>
-      <pubDate>Wed, 09 Oct 2024 03:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:10 am</title>
-      <description>I70EB / 43MM, I70EB / 43MM Radio: 9D Units: E121, R8, A89, A129, BC903, EMS901, 9D, E72, ALS8</description>
-      <guid isPermaLink="false">2024-10-09 02:10:00</guid>
-      <pubDate>Wed, 09 Oct 2024 02:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 11:30 pm</title>
-      <description>8000 BLOCK CAPTAINS CT Radio: 9C Units: E111, FS29, 9C</description>
-      <guid isPermaLink="false">2024-10-08 23:30:00</guid>
-      <pubDate>Tue, 08 Oct 2024 23:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
