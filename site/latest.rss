@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 01:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:43:19 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 9:29 pm</title>
+      <description>1500 BLOCK SCOTTS CHASE Units: E121</description>
+      <guid isPermaLink="false">2024-10-09 21:29:00</guid>
+      <pubDate>Wed, 09 Oct 2024 21:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:16 pm</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, STARBUCKS Units: FS31, E31, E23, R3</description>
+      <guid isPermaLink="false">2024-10-09 21:16:00</guid>
+      <pubDate>Wed, 09 Oct 2024 21:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:05 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: A158</description>
+      <guid isPermaLink="false">2024-10-09 21:05:00</guid>
+      <pubDate>Wed, 09 Oct 2024 21:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:03 pm</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: W1, A299, A247, T4, A18, A19, E11, PE311, CMD1, EMS901, ALS4, HTRP3</description>
+      <guid isPermaLink="false">2024-10-09 21:03:00</guid>
+      <pubDate>Wed, 09 Oct 2024 21:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:02 pm</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: A299, A247, T4, A18, A19, E11, PE311, CMD1, EMS901, HTRP3</description>
+      <guid isPermaLink="false">2024-10-09 21:02:00</guid>
+      <pubDate>Wed, 09 Oct 2024 21:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:56 pm</title>
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: EMS902, A18, A19, E11, PE311, EMS901</description>
@@ -276,36 +306,6 @@
       <description>10500 BLOCK STULL RD Radio: 9C Units: BR226, 9C, E291</description>
       <guid isPermaLink="false">2024-10-07 12:04:00</guid>
       <pubDate>Mon, 07 Oct 2024 12:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:59 am</title>
-      <description>10500 BLOCK STULL RD Radio: 9C Units: BR226, FS22, 9C</description>
-      <guid isPermaLink="false">2024-10-07 11:59:00</guid>
-      <pubDate>Mon, 07 Oct 2024 11:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:52 am</title>
-      <description>200 BLOCK BEASLEY DR, Bldg:200 BLOCK, FORT DETRICK BLDG 200 BLOCK Units: T23, E291</description>
-      <guid isPermaLink="false">2024-10-07 08:52:00</guid>
-      <pubDate>Mon, 07 Oct 2024 08:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:51 am</title>
-      <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Units: T4, BC950, E11</description>
-      <guid isPermaLink="false">2024-10-07 08:51:00</guid>
-      <pubDate>Mon, 07 Oct 2024 08:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 8:46 am</title>
-      <description>10600 BLOCK GREEN VALLEY RD Radio: 91C Units: E172, Q11, K17, FS17, 91C, E162</description>
-      <guid isPermaLink="false">2024-10-07 08:46:00</guid>
-      <pubDate>Mon, 07 Oct 2024 08:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:44 am</title>
-      <description>1400 BLOCK W SEVENTH ST, GOOD SHEPHERD LUTHERAN CHURCH Radio: 9C Units: PE23, T50, 9C, E501</description>
-      <guid isPermaLink="false">2024-10-07 08:44:00</guid>
-      <pubDate>Mon, 07 Oct 2024 08:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
