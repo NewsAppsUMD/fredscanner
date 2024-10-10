@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Oct 2024 00:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 01:00:26 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:56 pm</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: EMS902, A18, A19, E11, PE311, EMS901</description>
+      <guid isPermaLink="false">2024-10-09 20:56:00</guid>
+      <pubDate>Wed, 09 Oct 2024 20:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:50 pm</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: A18, A19, E11, PE311</description>
+      <guid isPermaLink="false">2024-10-09 20:50:00</guid>
+      <pubDate>Wed, 09 Oct 2024 20:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 8:34 pm</title>
+      <description>200 BLOCK DILL AVE Units: PE23</description>
+      <guid isPermaLink="false">2024-10-09 20:34:00</guid>
+      <pubDate>Wed, 09 Oct 2024 20:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:24 pm</title>
       <description>I70EB / QUINN RD, I70EB / QUINN RD Units: E331, E152, R3, A339, A158, FS33</description>
@@ -288,24 +306,6 @@
       <description>1400 BLOCK W SEVENTH ST, GOOD SHEPHERD LUTHERAN CHURCH Radio: 9C Units: PE23, T50, 9C, E501</description>
       <guid isPermaLink="false">2024-10-07 08:44:00</guid>
       <pubDate>Mon, 07 Oct 2024 08:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
-      <description>5700 BLOCK INDUSTRY LN, BEACON BULDG Units: T4, PE311, FS31</description>
-      <guid isPermaLink="false">2024-10-07 07:30:00</guid>
-      <pubDate>Mon, 07 Oct 2024 07:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:54 am</title>
-      <description>TEEN BARNES RD / HOLTER RD Units: A209, E201, E31, E51, E72, EK204, K5, K7, RE74, ALS20, R20, FS20, E121, SAF901, BC902, BC903, TW1, E281</description>
-      <guid isPermaLink="false">2024-10-07 06:54:00</guid>
-      <pubDate>Mon, 07 Oct 2024 06:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 11:47 pm</title>
-      <description>700 BLOCK WEMBLY DR, Apt/Unit:A, DERBYSHIRE APTS Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-10-06 23:47:00</guid>
-      <pubDate>Sun, 06 Oct 2024 23:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
