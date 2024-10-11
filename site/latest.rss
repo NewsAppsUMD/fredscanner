@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 12:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:31:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
+      <description>YEAGERTOWN RD / YEAGER CT Units: FS15, A158, E31</description>
+      <guid isPermaLink="false">2024-10-11 08:22:00</guid>
+      <pubDate>Fri, 11 Oct 2024 08:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 8:14 am</title>
+      <description>5900 BLOCK QUINN RD Radio: 9C Units: E152, R15, FS33, E331, 9C</description>
+      <guid isPermaLink="false">2024-10-11 08:14:00</guid>
+      <pubDate>Fri, 11 Oct 2024 08:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
       <description>I70EB / CARROLL COUNTY LINE, I70EB / CARROLL COUNTY LINE Units: E152, CCA18, CCA19, FS15, HCE41, CCR1</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: TW1, 9C</description>
       <guid isPermaLink="false">2024-10-09 11:46:00</guid>
       <pubDate>Wed, 09 Oct 2024 11:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:29 am</title>
-      <description>FINGERBOARD RD / PARK MILLS RD Radio: 9D Units: 9D, EMS901, E232, R14, A148, PE311, BC901, FS23</description>
-      <guid isPermaLink="false">2024-10-09 11:29:00</guid>
-      <pubDate>Wed, 09 Oct 2024 11:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:38 am</title>
-      <description>800 BLOCK N EAST ST, EAST STREET TRADING CENTER Radio: 9C Units: PE23, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-09 10:38:00</guid>
-      <pubDate>Wed, 09 Oct 2024 10:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
