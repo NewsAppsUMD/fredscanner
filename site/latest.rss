@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 21:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 21:22:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:16 pm</title>
+      <description>W SOUTH ST / CENTER ST Units: R3, A38, FS04</description>
+      <guid isPermaLink="false">2024-10-11 17:16:00</guid>
+      <pubDate>Fri, 11 Oct 2024 17:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
       <description>100 BLOCK N MCCAIN DR, HOME DEPOT Units: A19, E11, FS04</description>
@@ -300,12 +306,6 @@
       <description>I70EB / QUINN RD, I70EB / QUINN RD Units: E331, E152, R3, A339, A158, FS33</description>
       <guid isPermaLink="false">2024-10-09 20:24:00</guid>
       <pubDate>Wed, 09 Oct 2024 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:03 pm</title>
-      <description>600 BLOCK WILD HUNT RD Units: TW1, FS31, PE311</description>
-      <guid isPermaLink="false">2024-10-09 20:03:00</guid>
-      <pubDate>Wed, 09 Oct 2024 20:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
