@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 13:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 13:29:06 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:19 am</title>
+      <description>800 BLOCK E MAIN ST, THURMONT ELEMENTARY SCHOOL Radio: 9C Units: TW6, PE102, FS10, 9C</description>
+      <guid isPermaLink="false">2024-10-11 09:19:00</guid>
+      <pubDate>Fri, 11 Oct 2024 09:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:17 am</title>
+      <description>2100 BLOCK TWIN PEAKS CT Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-10-11 09:17:00</guid>
+      <pubDate>Fri, 11 Oct 2024 09:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:56 am</title>
       <description>BUCKEYSTOWN PIKE / FRANCIS SCOTT KEY DR Units: R3, A39, FS04</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W POTOMAC ST Units: E51, TW1, FS05</description>
       <guid isPermaLink="false">2024-10-09 16:01:00</guid>
       <pubDate>Wed, 09 Oct 2024 16:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
-      <description>9200 BLOCK BALTIMORE NATIONAL PIKE PIKE Units: A89, E82</description>
-      <guid isPermaLink="false">2024-10-09 15:10:00</guid>
-      <pubDate>Wed, 09 Oct 2024 15:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:14 pm</title>
-      <description>MOTTER AVE / W THIRTEENTH ST Radio: 9D Units: PE23, A39, ALS2, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-10-09 12:14:00</guid>
-      <pubDate>Wed, 09 Oct 2024 12:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
