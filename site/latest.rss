@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 21:22:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 21:26:00 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 5:23 pm</title>
+      <description>100 BLOCK E MAIN ST, MEMORIAL HALL APTS Radio: 9C Units: RE74, 9C</description>
+      <guid isPermaLink="false">2024-10-11 17:23:00</guid>
+      <pubDate>Fri, 11 Oct 2024 17:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:16 pm</title>
       <description>W SOUTH ST / CENTER ST Units: R3, A38, FS04</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK DILL AVE Units: PE23</description>
       <guid isPermaLink="false">2024-10-09 20:34:00</guid>
       <pubDate>Wed, 09 Oct 2024 20:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:24 pm</title>
-      <description>I70EB / QUINN RD, I70EB / QUINN RD Units: E331, E152, R3, A339, A158, FS33</description>
-      <guid isPermaLink="false">2024-10-09 20:24:00</guid>
-      <pubDate>Wed, 09 Oct 2024 20:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
