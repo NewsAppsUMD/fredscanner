@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Oct 2024 15:41:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 15:51:31 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:48 am</title>
+      <description>2900 BLOCK PRICES DISTILLERY RD, ANIMAL HOSPITAL GREEN VALLEY Units: T23, K709, E232, E251, FS25</description>
+      <guid isPermaLink="false">2024-10-11 11:48:00</guid>
+      <pubDate>Fri, 11 Oct 2024 11:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:46 am</title>
+      <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: PE102, 9C</description>
+      <guid isPermaLink="false">2024-10-11 11:46:00</guid>
+      <pubDate>Fri, 11 Oct 2024 11:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:23 am</title>
       <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: PE102, FS10, 9C, TW6</description>
@@ -294,18 +306,6 @@
       <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E152</description>
       <guid isPermaLink="false">2024-10-09 17:28:00</guid>
       <pubDate>Wed, 09 Oct 2024 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:14 pm</title>
-      <description>1500 BLOCK BLOOM RD Units: BR175, K17</description>
-      <guid isPermaLink="false">2024-10-09 17:14:00</guid>
-      <pubDate>Wed, 09 Oct 2024 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:14 pm</title>
-      <description>1500 BLOCK BLOOM RD Units: K17</description>
-      <guid isPermaLink="false">2024-10-09 17:14:00</guid>
-      <pubDate>Wed, 09 Oct 2024 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
