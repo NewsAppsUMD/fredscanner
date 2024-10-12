@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Oct 2024 22:41:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 22:51:23 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:48 pm</title>
+      <description>5300 BLOCK NEW DESIGN RD, GIANT FOOD Units: PE311, E311, TW1, FS31</description>
+      <guid isPermaLink="false">2024-10-12 18:48:00</guid>
+      <pubDate>Sat, 12 Oct 2024 18:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:46 pm</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Units: CCR1, CCA18, A158, HCE41, E152</description>
+      <guid isPermaLink="false">2024-10-12 18:46:00</guid>
+      <pubDate>Sat, 12 Oct 2024 18:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 6:43 pm</title>
+      <description>4000 BLOCK(4100) BLK ARABY CHURCH RD Units: E231, C23, BR235, BR35</description>
+      <guid isPermaLink="false">2024-10-12 18:43:00</guid>
+      <pubDate>Sat, 12 Oct 2024 18:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:40 pm</title>
+      <description>1700 BLOCK N MARKET ST Units: T4, E31</description>
+      <guid isPermaLink="false">2024-10-12 18:40:00</guid>
+      <pubDate>Sat, 12 Oct 2024 18:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:38 pm</title>
       <description>I270SB / 28MM, I270SB / 28MM Units: BR235, E231, FS31</description>
@@ -282,30 +306,6 @@
       <description>5900 BLOCK QUINN RD Radio: 9C Units: E152, R15, FS33, E331, 9C</description>
       <guid isPermaLink="false">2024-10-11 08:14:00</guid>
       <pubDate>Fri, 11 Oct 2024 08:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:56 am</title>
-      <description>I70EB / CARROLL COUNTY LINE, I70EB / CARROLL COUNTY LINE Units: E152, CCA18, CCA19, FS15, HCE41, CCR1</description>
-      <guid isPermaLink="false">2024-10-11 06:56:00</guid>
-      <pubDate>Fri, 11 Oct 2024 06:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:03 am</title>
-      <description>9600 BLOCK DUBLIN RD Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2024-10-11 00:03:00</guid>
-      <pubDate>Fri, 11 Oct 2024 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:08 pm</title>
-      <description>300 BLOCK MOUNTAINEERS WAY Units: E61</description>
-      <guid isPermaLink="false">2024-10-10 21:08:00</guid>
-      <pubDate>Thu, 10 Oct 2024 21:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:49 pm</title>
-      <description>W PATRICK ST / N MCCAIN DR Radio: 9D Units: E11, EMS902, 9D, R3, A18, PE23, BC903</description>
-      <guid isPermaLink="false">2024-10-10 20:49:00</guid>
-      <pubDate>Thu, 10 Oct 2024 20:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
