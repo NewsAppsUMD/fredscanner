@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Oct 2024 23:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 23:51:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:49 pm</title>
+      <description>RT340EB / LANDER RD, Apt/Unit:HTTPS://A91.IO/69HUL, RT340WB / HORINE RD Units: E201, R20, A209, A19, E12, C1B, E51</description>
+      <guid isPermaLink="false">2024-10-13 19:49:00</guid>
+      <pubDate>Sun, 13 Oct 2024 19:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:43 pm</title>
+      <description>RT340EB / LANDER RD, Apt/Unit:HTTPS://A91.IO/69HUL, RT340WB / HORINE RD Units: E201, R20, A209, A19, FS20, E12</description>
+      <guid isPermaLink="false">2024-10-13 19:43:00</guid>
+      <pubDate>Sun, 13 Oct 2024 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:32 pm</title>
       <description>RT77 / STOTTLEMEYER RD, RT77 / STOTTLEMEYER RD Radio: 9D Units: R10, EMS902, FS21, 9D, PE102, A307, ALS30, E212</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E31, T4, 9C</description>
       <guid isPermaLink="false">2024-10-12 08:46:00</guid>
       <pubDate>Sat, 12 Oct 2024 08:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:33 am</title>
-      <description>8500 BLOCK PROGRESS DR, MATAN PROPERTIES Units: Q11, FS29, E111</description>
-      <guid isPermaLink="false">2024-10-12 04:33:00</guid>
-      <pubDate>Sat, 12 Oct 2024 04:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:57 am</title>
-      <description>LEE PL / MEADE AVE Radio: 9B Units: A18, E11, 9B</description>
-      <guid isPermaLink="false">2024-10-12 02:57:00</guid>
-      <pubDate>Sat, 12 Oct 2024 02:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
