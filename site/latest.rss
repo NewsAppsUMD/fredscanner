@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Oct 2024 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 18:15:27 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:01 pm</title>
+      <description>5900 BLOCK FORUM SQ Radio: 9D Units: EMS901, 9D, A318, ALS31, PE311</description>
+      <guid isPermaLink="false">2024-10-13 14:01:00</guid>
+      <pubDate>Sun, 13 Oct 2024 14:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 1:31 pm</title>
       <description>5500 BLOCK N ANNAPOLIS DR Radio: 9C Units: CCE12, E152, R15, CCK1, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Units: C3D, A38, A318, E31, PE311, R3</description>
       <guid isPermaLink="false">2024-10-11 17:56:00</guid>
       <pubDate>Fri, 11 Oct 2024 17:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:41 pm</title>
-      <description>1000 BLOCK W PATRICK ST, ALDI Units: A18, ALS4, E11, EMS901</description>
-      <guid isPermaLink="false">2024-10-11 17:41:00</guid>
-      <pubDate>Fri, 11 Oct 2024 17:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
