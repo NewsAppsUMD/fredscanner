@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Oct 2024 22:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 22:41:39 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 6:32 pm</title>
+      <description>RT77 / STOTTLEMEYER RD, RT77 / STOTTLEMEYER RD Radio: 9D Units: R10, EMS902, FS21, 9D, PE102, A307, ALS30, E212</description>
+      <guid isPermaLink="false">2024-10-13 18:32:00</guid>
+      <pubDate>Sun, 13 Oct 2024 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 5:34 pm</title>
       <description>100 BLOCK BOUNDARY AVE, Apt/Unit:18, BISER APARTMENTS Radio: 9C Units: PE102, E133, TW6, 9C, R10</description>
@@ -300,12 +306,6 @@
       <description>LEE PL / MEADE AVE Radio: 9B Units: A18, E11, 9B</description>
       <guid isPermaLink="false">2024-10-12 02:57:00</guid>
       <pubDate>Sat, 12 Oct 2024 02:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:29 am</title>
-      <description>200 BLOCK MONTEVUE LN Units: A18, E11, FS29</description>
-      <guid isPermaLink="false">2024-10-12 02:29:00</guid>
-      <pubDate>Sat, 12 Oct 2024 02:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
