@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Oct 2024 23:51:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 00:08:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:04 pm</title>
+      <description>GLISSANS MILL RD / WOODVILLE RD, Apt/Unit:HTTPS://A91.IO/25YWP Units: RE171, CCR1, CCM18, R15, C17C, BC901, EMS901</description>
+      <guid isPermaLink="false">2024-10-12 20:04:00</guid>
+      <pubDate>Sat, 12 Oct 2024 20:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:00 pm</title>
+      <description>GLISSANS MILL RD / WOODVILLE RD, Apt/Unit:HTTPS://A91.IO/25YWP Units: E172, CCR1, CCM18, FS15, BC901, EMS901</description>
+      <guid isPermaLink="false">2024-10-12 20:00:00</guid>
+      <pubDate>Sat, 12 Oct 2024 20:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:22 pm</title>
       <description>6400 BLOCK SPRING FOREST RD Units: E331, FS33</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK FIFTH AVE Radio: 9C Units: R19, FS05, 9C, E281, E51</description>
       <guid isPermaLink="false">2024-10-11 09:58:00</guid>
       <pubDate>Fri, 11 Oct 2024 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:19 am</title>
-      <description>800 BLOCK E MAIN ST, THURMONT ELEMENTARY SCHOOL Radio: 9C Units: TW6, PE102, FS10, 9C</description>
-      <guid isPermaLink="false">2024-10-11 09:19:00</guid>
-      <pubDate>Fri, 11 Oct 2024 09:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:17 am</title>
-      <description>2100 BLOCK TWIN PEAKS CT Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-10-11 09:17:00</guid>
-      <pubDate>Fri, 11 Oct 2024 09:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
