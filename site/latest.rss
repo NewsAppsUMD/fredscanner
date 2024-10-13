@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Oct 2024 21:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 21:41:17 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 5:34 pm</title>
+      <description>100 BLOCK BOUNDARY AVE, Apt/Unit:18, BISER APARTMENTS Radio: 9C Units: PE102, E133, TW6, 9C, R10</description>
+      <guid isPermaLink="false">2024-10-13 17:34:00</guid>
+      <pubDate>Sun, 13 Oct 2024 17:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 5:31 pm</title>
+      <description>100 BLOCK BOUNDARY AVE, Apt/Unit:18, BISER APARTMENTS Radio: 9C Units: PE102, E133, TW6, FS10, 9C</description>
+      <guid isPermaLink="false">2024-10-13 17:31:00</guid>
+      <pubDate>Sun, 13 Oct 2024 17:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 5:17 pm</title>
       <description>9900 BLOCK KELLY RD Radio: 9D Units: RE171, ALS17, BC902, EMS902, 9D, C11, R24, A247, E111</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK MONTEVUE LN Units: A18, E11, FS29</description>
       <guid isPermaLink="false">2024-10-12 02:29:00</guid>
       <pubDate>Sat, 12 Oct 2024 02:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:19 pm</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:123, STATE HIGHWAY ADMINISTRATION / MDOT Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-10-11 23:19:00</guid>
-      <pubDate>Fri, 11 Oct 2024 23:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 10:45 pm</title>
-      <description>6300 BLOCK SPRING RIDGE PKWY, Apt/Unit:APT 336, SPRING RIDGE SENIOR APTS Radio: 9C Units: E331, E31, T4, FS33, 9C</description>
-      <guid isPermaLink="false">2024-10-11 22:45:00</guid>
-      <pubDate>Fri, 11 Oct 2024 22:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
