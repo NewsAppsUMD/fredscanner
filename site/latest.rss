@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 11:14:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 11:23:50 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:17 am</title>
+      <description>5900 BLOCK GARDEN WALK DR Radio: 9C Units: E12, E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-10-14 07:17:00</guid>
+      <pubDate>Mon, 14 Oct 2024 07:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:24 am</title>
       <description>E GREENLEAF DR / TUSCANNEY DR Radio: 9B Units: 9B, E12, A18</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 65MM, I70EB / 65MM Units: CCM18, E251, FS15, E152, A158, CCE12, R15, C15</description>
       <guid isPermaLink="false">2024-10-12 11:18:00</guid>
       <pubDate>Sat, 12 Oct 2024 11:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:11 am</title>
-      <description>I70EB / 65MM, I70EB / 65MM Units: E152, A158, CCA18, CCE12, R15, FS15</description>
-      <guid isPermaLink="false">2024-10-12 11:11:00</guid>
-      <pubDate>Sat, 12 Oct 2024 11:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
