@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 11:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 11:51:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:45 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO I27100 BLOCKSB RAMP Units: A39, A129, E121, R3, E31</description>
+      <guid isPermaLink="false">2024-10-14 07:45:00</guid>
+      <pubDate>Mon, 14 Oct 2024 07:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:17 am</title>
       <description>5900 BLOCK GARDEN WALK DR Radio: 9C Units: E12, E31, T4, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270SB / MONTGOMERY COUNTY LINE, IFO - I270SB / MONTGOMERY COUNTY LINE Units: A239, A735, FS23, E232, PE735, PRE709, R729</description>
       <guid isPermaLink="false">2024-10-12 11:21:00</guid>
       <pubDate>Sat, 12 Oct 2024 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:18 am</title>
-      <description>I70EB / 65MM, I70EB / 65MM Units: CCM18, E251, FS15, E152, A158, CCE12, R15, C15</description>
-      <guid isPermaLink="false">2024-10-12 11:18:00</guid>
-      <pubDate>Sat, 12 Oct 2024 11:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
