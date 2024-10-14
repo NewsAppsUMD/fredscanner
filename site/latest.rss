@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 17:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 17:25:51 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:20 pm</title>
+      <description>200 BLOCK MAPLE AVE Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2024-10-14 13:20:00</guid>
+      <pubDate>Mon, 14 Oct 2024 13:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:45 pm</title>
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9B Units: 9B, A18, E12</description>
@@ -300,12 +306,6 @@
       <description>GLISSANS MILL RD / WOODVILLE RD, Apt/Unit:HTTPS://A91.IO/25YWP Units: E172, CCR1, CCM18, FS15, BC901, EMS901</description>
       <guid isPermaLink="false">2024-10-12 20:00:00</guid>
       <pubDate>Sat, 12 Oct 2024 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:22 pm</title>
-      <description>6400 BLOCK SPRING FOREST RD Units: E331, FS33</description>
-      <guid isPermaLink="false">2024-10-12 19:22:00</guid>
-      <pubDate>Sat, 12 Oct 2024 19:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
