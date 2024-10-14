@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 19:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:41:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:30 pm</title>
+      <description>RT15SB / MOTTER AVE, RT15SB / OPOSS Units: E291, R3, PE23, R24, A299, A29</description>
+      <guid isPermaLink="false">2024-10-14 15:30:00</guid>
+      <pubDate>Mon, 14 Oct 2024 15:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:30 pm</title>
+      <description>100 BLOCK MONOCACY BLVD, ROYAL FARMS Radio: 9B Units: E31, 9B, A39</description>
+      <guid isPermaLink="false">2024-10-14 15:30:00</guid>
+      <pubDate>Mon, 14 Oct 2024 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:25 pm</title>
       <description>RT15SB / MOTTER AVE, RT15SB / OPOSS Units: E291, PE23, R24, A299, A29, FS29</description>
@@ -294,18 +306,6 @@
       <description>12200 BLOCK WOODSBORO PIKE Radio: 9C Units: BR96, 9C, E91</description>
       <guid isPermaLink="false">2024-10-13 12:11:00</guid>
       <pubDate>Sun, 13 Oct 2024 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 12:04 pm</title>
-      <description>12200 BLOCK WOODSBORO PIKE Radio: 9C Units: BR96, FS09, 9C</description>
-      <guid isPermaLink="false">2024-10-13 12:04:00</guid>
-      <pubDate>Sun, 13 Oct 2024 12:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:52 am</title>
-      <description>BUCKEYSTOWN PIKE / GUILFORD DR Units: E31, A39, FS31</description>
-      <guid isPermaLink="false">2024-10-13 10:52:00</guid>
-      <pubDate>Sun, 13 Oct 2024 10:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
