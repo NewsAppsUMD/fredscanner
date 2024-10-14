@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 02:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 02:43:29 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:38 pm</title>
+      <description>100 BLOCK UPPER COLLEGE TER Radio: 9C Units: PE23, T4, 9C</description>
+      <guid isPermaLink="false">2024-10-13 22:38:00</guid>
+      <pubDate>Sun, 13 Oct 2024 22:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:12 pm</title>
       <description>600 BLOCK E H ST Radio: 9C Units: E51, R19, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK STARMOUNT WAY Radio: 9C Units: 9C, FS15, E111, Q11</description>
       <guid isPermaLink="false">2024-10-12 10:38:00</guid>
       <pubDate>Sat, 12 Oct 2024 10:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:54 am</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: ALS29, BC902, EMS902, FS22, 9D, E221, R2, A229</description>
-      <guid isPermaLink="false">2024-10-12 09:54:00</guid>
-      <pubDate>Sat, 12 Oct 2024 09:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
