@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 01:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 01:43:23 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:12 pm</title>
+      <description>600 BLOCK E H ST Radio: 9C Units: E51, R19, FS05, 9C</description>
+      <guid isPermaLink="false">2024-10-13 21:12:00</guid>
+      <pubDate>Sun, 13 Oct 2024 21:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:11 pm</title>
+      <description>1900 BLOCK CROSSING STONE CT Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2024-10-13 21:11:00</guid>
+      <pubDate>Sun, 13 Oct 2024 21:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:49 pm</title>
       <description>RT340EB / LANDER RD, Apt/Unit:HTTPS://A91.IO/69HUL, RT340WB / HORINE RD Units: E201, R20, A209, A19, E12, C1B, E51</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: ALS29, BC902, EMS902, FS22, 9D, E221, R2, A229</description>
       <guid isPermaLink="false">2024-10-12 09:54:00</guid>
       <pubDate>Sat, 12 Oct 2024 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:32 am</title>
-      <description>I270SB / BUCKEYSTOWN PIKE(RT85), I270SB / BUCKEYSTOWN PIKE Radio: 9C Units: E232, 9C, E12</description>
-      <guid isPermaLink="false">2024-10-12 09:32:00</guid>
-      <pubDate>Sat, 12 Oct 2024 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:46 am</title>
-      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-12 08:46:00</guid>
-      <pubDate>Sat, 12 Oct 2024 08:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
