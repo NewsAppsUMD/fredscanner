@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Oct 2024 14:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 14:14:55 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 10:12 am</title>
+      <description>6400 BLOCK BARRINGTON DR Radio: 9C Units: 9C, R3, FS33</description>
+      <guid isPermaLink="false">2024-10-14 10:12:00</guid>
+      <pubDate>Mon, 14 Oct 2024 10:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 9:40 am</title>
       <description>6500 BLOCK MERCANTILE DR E, Apt/Unit:SUITE204 Radio: 9C Units: PE311, 9C, E31, TW1, FS31</description>
@@ -300,12 +306,6 @@
       <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Radio: 9D Units: R20, E281, A209, ALS20, BC903, EMS901, FS28, 9D</description>
       <guid isPermaLink="false">2024-10-12 15:02:00</guid>
       <pubDate>Sat, 12 Oct 2024 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:30 pm</title>
-      <description>100 BLOCK GLENBROOK DR, RICHLAND GOLF CLUB Radio: 9C Units: TW1, 9C, E72</description>
-      <guid isPermaLink="false">2024-10-12 12:30:00</guid>
-      <pubDate>Sat, 12 Oct 2024 12:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
