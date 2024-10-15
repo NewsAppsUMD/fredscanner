@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 20:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 20:42:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:33 pm</title>
+      <description>12500 BLOCK RENNER RD Radio: 9C Units: E162, E91, 9C</description>
+      <guid isPermaLink="false">2024-10-15 16:33:00</guid>
+      <pubDate>Tue, 15 Oct 2024 16:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:29 pm</title>
       <description>12500 BLOCK RENNER RD Radio: 9C Units: E91, 9C, FS09</description>
@@ -300,12 +306,6 @@
       <description>1900 BLOCK CROSSING STONE CT Radio: 9C Units: E291, FS29, 9C</description>
       <guid isPermaLink="false">2024-10-13 21:11:00</guid>
       <pubDate>Sun, 13 Oct 2024 21:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:49 pm</title>
-      <description>RT340EB / LANDER RD, Apt/Unit:HTTPS://A91.IO/69HUL, RT340WB / HORINE RD Units: E201, R20, A209, A19, E12, C1B, E51</description>
-      <guid isPermaLink="false">2024-10-13 19:49:00</guid>
-      <pubDate>Sun, 13 Oct 2024 19:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
