@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 22:14:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 22:25:56 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:20 pm</title>
+      <description>OLIVE SCHOOL RD / POINT OF ROCKS RD Radio: 9C Units: BR55, FS05, 9C</description>
+      <guid isPermaLink="false">2024-10-15 18:20:00</guid>
+      <pubDate>Tue, 15 Oct 2024 18:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:33 pm</title>
       <description>12500 BLOCK RENNER RD Radio: 9C Units: E162, E91, 9C</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK E H ST Radio: 9C Units: E51, R19, FS05, 9C</description>
       <guid isPermaLink="false">2024-10-13 21:12:00</guid>
       <pubDate>Sun, 13 Oct 2024 21:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:11 pm</title>
-      <description>1900 BLOCK CROSSING STONE CT Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-10-13 21:11:00</guid>
-      <pubDate>Sun, 13 Oct 2024 21:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
