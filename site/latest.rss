@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 19:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 20:02:17 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 3:55 pm</title>
+      <description>RT15NB / CATOCTIN FURNACE RD (MANOR AREA), RIGHT BEFORE THE WALKING BRIDGE Radio: 9C Units: 9C, PE102, FS10</description>
+      <guid isPermaLink="false">2024-10-15 15:55:00</guid>
+      <pubDate>Tue, 15 Oct 2024 15:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:19 pm</title>
       <description>HIMES AVE / CONTENDER WAY Radio: 9I Units: PE311, R3, A319, ALS31, BC903, EMS901, 9I</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / LANDER RD, Apt/Unit:HTTPS://A91.IO/69HUL, RT340WB / HORINE RD Units: E201, R20, A209, A19, FS20, E12</description>
       <guid isPermaLink="false">2024-10-13 19:43:00</guid>
       <pubDate>Sun, 13 Oct 2024 19:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:32 pm</title>
-      <description>RT77 / STOTTLEMEYER RD, RT77 / STOTTLEMEYER RD Radio: 9D Units: R10, EMS902, FS21, 9D, PE102, A307, ALS30, E212</description>
-      <guid isPermaLink="false">2024-10-13 18:32:00</guid>
-      <pubDate>Sun, 13 Oct 2024 18:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
