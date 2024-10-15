@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Oct 2024 04:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 04:15:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:06 am</title>
+      <description>RT15 / BASFORD RD, RT15 / BASFORD RD Units: A209, E281, FS28</description>
+      <guid isPermaLink="false">2024-10-15 00:06:00</guid>
+      <pubDate>Tue, 15 Oct 2024 00:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:14 pm</title>
       <description>I70EB / 53MM, I70EB / 53MM Radio: 9D Units: R3, A18, A38, ALS31, EMS901, 9D, BC903, E12, E31</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Units: E12</description>
       <guid isPermaLink="false">2024-10-13 14:13:00</guid>
       <pubDate>Sun, 13 Oct 2024 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 2:01 pm</title>
-      <description>5900 BLOCK FORUM SQ Radio: 9D Units: EMS901, 9D, A318, ALS31, PE311</description>
-      <guid isPermaLink="false">2024-10-13 14:01:00</guid>
-      <pubDate>Sun, 13 Oct 2024 14:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
