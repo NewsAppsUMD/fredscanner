@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 17:14:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 17:26:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:20 pm</title>
+      <description>7100 BLOCK GEOFFREY WAY Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-10-16 13:20:00</guid>
+      <pubDate>Wed, 16 Oct 2024 13:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 12:55 pm</title>
       <description>1700 BLOCK CONRADS FERRY DR Units: E281</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, BEST BUY Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2024-10-14 10:31:00</guid>
       <pubDate>Mon, 14 Oct 2024 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:17 am</title>
-      <description>OPOSSUMTOWN PIKE / THOMAS JOHNSON DR Radio: 9D Units: A247, ALS29, E111, EMS902, 9D</description>
-      <guid isPermaLink="false">2024-10-14 10:17:00</guid>
-      <pubDate>Mon, 14 Oct 2024 10:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
