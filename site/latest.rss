@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 05:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 05:15:01 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 1:09 am</title>
+      <description>12600 BLOCK PRICES DISTILLERY RD Units: T23, E251, E231, K23</description>
+      <guid isPermaLink="false">2024-10-16 01:09:00</guid>
+      <pubDate>Wed, 16 Oct 2024 01:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 9:55 pm</title>
       <description>GREEN VALLEY RD / CLEMSONVILLE RD, IAO Radio: 9D Units: CCE81, CCR8, CCM89, BC901, EMS902, 9D, FS17</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / POTOMAC RIVER Units: E51, A198, ALS20</description>
       <guid isPermaLink="false">2024-10-13 23:56:00</guid>
       <pubDate>Sun, 13 Oct 2024 23:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 11:24 pm</title>
-      <description>I270NB / RT109 &amp; RT121 Radio: 7A1 Units: A239, E231, 7A1</description>
-      <guid isPermaLink="false">2024-10-13 23:24:00</guid>
-      <pubDate>Sun, 13 Oct 2024 23:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
