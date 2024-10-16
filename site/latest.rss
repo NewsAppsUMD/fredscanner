@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Oct 2024 15:51:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:07:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:02 pm</title>
+      <description>7200 BLOCK CORPORATE CT, WESTVIEW ONE Radio: 9B Units: T4, FS31, PE311, 9B</description>
+      <guid isPermaLink="false">2024-10-16 12:02:00</guid>
+      <pubDate>Wed, 16 Oct 2024 12:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:54 am</title>
+      <description>200 BLOCK FAIRVIEW AVE, FREDERICK CHURCH OF THE BRETHREN Radio: 9C Units: E12, T4, 9C</description>
+      <guid isPermaLink="false">2024-10-16 11:54:00</guid>
+      <pubDate>Wed, 16 Oct 2024 11:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:26 am</title>
       <description>2800 BLOCK IVY MEADOW CT Radio: 9C Units: E231, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>OPOSSUMTOWN PIKE / THOMAS JOHNSON DR Radio: 9D Units: A247, ALS29, E111, EMS902, 9D</description>
       <guid isPermaLink="false">2024-10-14 10:16:00</guid>
       <pubDate>Mon, 14 Oct 2024 10:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 10:12 am</title>
-      <description>6400 BLOCK BARRINGTON DR Radio: 9C Units: 9C, R3, FS33</description>
-      <guid isPermaLink="false">2024-10-14 10:12:00</guid>
-      <pubDate>Mon, 14 Oct 2024 10:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 9:40 am</title>
-      <description>6500 BLOCK MERCANTILE DR E, Apt/Unit:SUITE204 Radio: 9C Units: PE311, 9C, E31, TW1, FS31</description>
-      <guid isPermaLink="false">2024-10-14 09:40:00</guid>
-      <pubDate>Mon, 14 Oct 2024 09:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
