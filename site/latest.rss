@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 15:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 15:43:09 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 11:38 am</title>
+      <description>6000 BLOCK SPRING RIDGE PKWY, CELEBREE LEARNING CENTER Units: E331, E31, R3, FS33</description>
+      <guid isPermaLink="false">2024-10-17 11:38:00</guid>
+      <pubDate>Thu, 17 Oct 2024 11:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 9:10 am</title>
       <description>RT15 / BASFORD RD, RT15 / BASFORD RD Radio: 9D Units: EK204, R20, A209, ALS20, EMS901, BC903, U20, C14B, 9D</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:30 pm</title>
       <description>RT15SB / MOTTER AVE, RT15SB / OPOSS Units: E291, R3, PE23, R24, A299, A29</description>
-      <guid isPermaLink="false">2024-10-14 15:30:00</guid>
-      <pubDate>Mon, 14 Oct 2024 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:30 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, ROYAL FARMS Radio: 9B Units: E31, 9B, A39</description>
       <guid isPermaLink="false">2024-10-14 15:30:00</guid>
       <pubDate>Mon, 14 Oct 2024 15:30:00 -0400</pubDate>
     </item>
