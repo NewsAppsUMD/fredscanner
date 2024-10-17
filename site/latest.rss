@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 21:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 22:02:27 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:58 pm</title>
+      <description>3800 BLOCK PIPPINS PL Radio: 9C Units: E281, E201, R14, FS28, 9C</description>
+      <guid isPermaLink="false">2024-10-17 17:58:00</guid>
+      <pubDate>Thu, 17 Oct 2024 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:58 pm</title>
+      <description>3800 BLOCK PIPPINS PL Units: E281</description>
+      <guid isPermaLink="false">2024-10-17 17:58:00</guid>
+      <pubDate>Thu, 17 Oct 2024 17:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:47 pm</title>
       <description>200 BLOCK E PATRICK ST Radio: 9C Units: T4, 9C, E31</description>
@@ -294,18 +306,6 @@
       <description>12500 BLOCK RENNER RD Radio: 9C Units: E91, 9C, FS09</description>
       <guid isPermaLink="false">2024-10-15 16:29:00</guid>
       <pubDate>Tue, 15 Oct 2024 16:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 3:55 pm</title>
-      <description>RT15NB / CATOCTIN FURNACE RD (MANOR AREA), RIGHT BEFORE THE WALKING BRIDGE Radio: 9C Units: 9C, PE102, FS10</description>
-      <guid isPermaLink="false">2024-10-15 15:55:00</guid>
-      <pubDate>Tue, 15 Oct 2024 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:19 pm</title>
-      <description>HIMES AVE / CONTENDER WAY Radio: 9I Units: PE311, R3, A319, ALS31, BC903, EMS901, 9I</description>
-      <guid isPermaLink="false">2024-10-15 15:19:00</guid>
-      <pubDate>Tue, 15 Oct 2024 15:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
