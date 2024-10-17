@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Oct 2024 23:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 23:14:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:09 pm</title>
+      <description>1800 BLOCK MONOCACY BLVD, AT HOME Units: A299, E111, FS11</description>
+      <guid isPermaLink="false">2024-10-17 19:09:00</guid>
+      <pubDate>Thu, 17 Oct 2024 19:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 7:08 pm</title>
+      <description>OLD FREDERICK RD / UTICA MILLS CIR Units: BR226, FS22</description>
+      <guid isPermaLink="false">2024-10-17 19:08:00</guid>
+      <pubDate>Thu, 17 Oct 2024 19:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 7:03 pm</title>
+      <description>DEVILBISS BRIDGE RD / WOODSBORO PIKE Radio: 9C Units: BR116, 9C, EK114</description>
+      <guid isPermaLink="false">2024-10-17 19:03:00</guid>
+      <pubDate>Thu, 17 Oct 2024 19:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:01 pm</title>
+      <description>RT15NB / RAMP RT15NB TO RT40WB, RT15NB / RAMP RT15NB TO RT40WB Units: E31, E12, R3, A39, A18</description>
+      <guid isPermaLink="false">2024-10-17 19:01:00</guid>
+      <pubDate>Thu, 17 Oct 2024 19:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 6:59 pm</title>
       <description>DEVILBISS BRIDGE RD / WOODSBORO PIKE Radio: 9C Units: BR116, 9C</description>
@@ -282,30 +306,6 @@
       <description>1200 BLOCK W PATRICK ST, GIANT EAGLE - FREDERICK SHOPPERS WORLD Radio: 9C Units: E12, 9C</description>
       <guid isPermaLink="false">2024-10-16 08:41:00</guid>
       <pubDate>Wed, 16 Oct 2024 08:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:22 am</title>
-      <description>I70EB / RIDGE RD (BRADDOCK), I70EB / 40MM Units: E121, A129, E72, R8, A89</description>
-      <guid isPermaLink="false">2024-10-16 07:22:00</guid>
-      <pubDate>Wed, 16 Oct 2024 07:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:52 am</title>
-      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS Radio: 9C Units: Q11, FS11, E111, 9C</description>
-      <guid isPermaLink="false">2024-10-16 05:52:00</guid>
-      <pubDate>Wed, 16 Oct 2024 05:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:09 am</title>
-      <description>12600 BLOCK PRICES DISTILLERY RD Units: T23, E251, E231, K23</description>
-      <guid isPermaLink="false">2024-10-16 01:09:00</guid>
-      <pubDate>Wed, 16 Oct 2024 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:55 pm</title>
-      <description>GREEN VALLEY RD / CLEMSONVILLE RD, IAO Radio: 9D Units: CCE81, CCR8, CCM89, BC901, EMS902, 9D, FS17</description>
-      <guid isPermaLink="false">2024-10-15 21:55:00</guid>
-      <pubDate>Tue, 15 Oct 2024 21:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
