@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Oct 2024 21:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:24:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:20 pm</title>
+      <description>N EAST ST / E NINTH ST Radio: 9B Units: 9B, PE23, A29</description>
+      <guid isPermaLink="false">2024-10-18 17:20:00</guid>
+      <pubDate>Fri, 18 Oct 2024 17:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 3:25 pm</title>
       <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK TINDER BOX CIR Units: E231, R15, FS25</description>
       <guid isPermaLink="false">2024-10-17 16:08:00</guid>
       <pubDate>Thu, 17 Oct 2024 16:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:44 pm</title>
-      <description>1300 BLOCK SOUTH MAIN ST, Apt/Unit:105, SPORTS CLIPS Units: E152, T23, E251, SAF901</description>
-      <guid isPermaLink="false">2024-10-17 15:44:00</guid>
-      <pubDate>Thu, 17 Oct 2024 15:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
