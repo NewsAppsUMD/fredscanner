@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Oct 2024 11:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 11:14:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:01 am</title>
+      <description>1000 BLOCK W PATRICK ST, WAWA Radio: 9B Units: ALS4, E12, EMS901, A18, 9B</description>
+      <guid isPermaLink="false">2024-10-18 07:01:00</guid>
+      <pubDate>Fri, 18 Oct 2024 07:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:00 am</title>
       <description>1000 BLOCK W PATRICK ST, WAWA Radio: 9B Units: ALS4, EMS901, A18, E12, 9B</description>
@@ -300,12 +306,6 @@
       <description>2800 BLOCK DECATUR DR, GREEN HILL PARK Radio: 9I Units: PE311, FS14, 9I</description>
       <guid isPermaLink="false">2024-10-16 20:39:00</guid>
       <pubDate>Wed, 16 Oct 2024 20:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:26 pm</title>
-      <description>BUCKEYSTOWN PIKE / GREENFIELD RD Radio: 9I Units: E281, A148, 9I, ALS31, EMS902, FS14, R14</description>
-      <guid isPermaLink="false">2024-10-16 20:26:00</guid>
-      <pubDate>Wed, 16 Oct 2024 20:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
