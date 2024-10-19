@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Oct 2024 11:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 11:31:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 7:23 am</title>
+      <description>I70WB / 68MM, I70WB / 68MM Units: E152, CCE12</description>
+      <guid isPermaLink="false">2024-10-19 07:23:00</guid>
+      <pubDate>Sat, 19 Oct 2024 07:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:12 am</title>
+      <description>RT80 / IJAMSVILLE RD, RT80 / IJAMSVILLE RD Radio: 9D Units: SAF901, CMD23, K33, E231, E251, A259, ALS23, BC901, A239, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-10-19 07:12:00</guid>
+      <pubDate>Sat, 19 Oct 2024 07:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:10 am</title>
       <description>RT80 / IJAMSVILLE RD, RT80 / IJAMSVILLE RD Radio: 9D Units: SAF901, CMD23, E231, E251, R15, A259, ALS23, BC901, A239, EMS901, 9D</description>
@@ -294,18 +306,6 @@
       <description>1800 BLOCK MONOCACY BLVD, AT HOME Units: A299, BR116, E291, FS11</description>
       <guid isPermaLink="false">2024-10-17 19:14:00</guid>
       <pubDate>Thu, 17 Oct 2024 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:09 pm</title>
-      <description>1800 BLOCK MONOCACY BLVD, AT HOME Units: A299, E111, FS11</description>
-      <guid isPermaLink="false">2024-10-17 19:09:00</guid>
-      <pubDate>Thu, 17 Oct 2024 19:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:08 pm</title>
-      <description>OLD FREDERICK RD / UTICA MILLS CIR Units: BR226, FS22</description>
-      <guid isPermaLink="false">2024-10-17 19:08:00</guid>
-      <pubDate>Thu, 17 Oct 2024 19:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
