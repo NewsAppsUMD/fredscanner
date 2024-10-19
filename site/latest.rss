@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Oct 2024 16:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 16:37:39 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 12:32 pm</title>
+      <description>2200 BLOCK KAETZEL RD Radio: PS1 Units: E51, PS1, K5</description>
+      <guid isPermaLink="false">2024-10-19 12:32:00</guid>
+      <pubDate>Sat, 19 Oct 2024 12:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 12:27 pm</title>
+      <description>2200 BLOCK KAETZEL RD Units: BR55</description>
+      <guid isPermaLink="false">2024-10-19 12:27:00</guid>
+      <pubDate>Sat, 19 Oct 2024 12:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:23 pm</title>
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E12, A19, A39, ALS4, EMS901, E31, R3</description>
@@ -294,18 +306,6 @@
       <description>I70EB / REST AREA (MOUNT AIRY), I70WB / REST AREA Units: R15, CCA18, A158, E152, CCE12, FS15</description>
       <guid isPermaLink="false">2024-10-18 07:48:00</guid>
       <pubDate>Fri, 18 Oct 2024 07:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:01 am</title>
-      <description>1000 BLOCK W PATRICK ST, WAWA Radio: 9B Units: ALS4, E12, EMS901, A18, 9B</description>
-      <guid isPermaLink="false">2024-10-18 07:01:00</guid>
-      <pubDate>Fri, 18 Oct 2024 07:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:00 am</title>
-      <description>1000 BLOCK W PATRICK ST, WAWA Radio: 9B Units: ALS4, EMS901, A18, E12, 9B</description>
-      <guid isPermaLink="false">2024-10-18 07:00:00</guid>
-      <pubDate>Fri, 18 Oct 2024 07:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
