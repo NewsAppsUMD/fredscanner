@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Oct 2024 20:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:59 pm</title>
+      <description>400 BLOCK W B ST Radio: 9C Units: BR55, FS05, 9C</description>
+      <guid isPermaLink="false">2024-10-19 16:59:00</guid>
+      <pubDate>Sat, 19 Oct 2024 16:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:45 pm</title>
       <description>5000 BLOCK BUCKEYSTOWN PIKE, WENDYS Radio: 9B Units: 9B, A318, PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>7600 BLOCK MCKAIG RD Radio: 9C Units: E172, EK114, BR176, 9C</description>
       <guid isPermaLink="false">2024-10-18 12:39:00</guid>
       <pubDate>Fri, 18 Oct 2024 12:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:29 pm</title>
-      <description>1200 BLOCK BAKER PL S, RESIDENCES AT THE MANOR Units: E12, A299</description>
-      <guid isPermaLink="false">2024-10-18 12:29:00</guid>
-      <pubDate>Fri, 18 Oct 2024 12:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
