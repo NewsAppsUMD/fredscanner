@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Oct 2024 22:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 22:14:41 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:01 pm</title>
+      <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61, FS06, 9C</description>
+      <guid isPermaLink="false">2024-10-19 18:01:00</guid>
+      <pubDate>Sat, 19 Oct 2024 18:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:59 pm</title>
       <description>400 BLOCK W B ST Radio: 9C Units: BR55, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>7600 BLOCK MCKAIG RD Radio: 9C Units: E172, EK114, 9C, C17, BR175, K17</description>
       <guid isPermaLink="false">2024-10-18 12:44:00</guid>
       <pubDate>Fri, 18 Oct 2024 12:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 12:39 pm</title>
-      <description>7600 BLOCK MCKAIG RD Radio: 9C Units: E172, EK114, BR176, 9C</description>
-      <guid isPermaLink="false">2024-10-18 12:39:00</guid>
-      <pubDate>Fri, 18 Oct 2024 12:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
