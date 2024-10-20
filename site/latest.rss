@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 21:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 21:31:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 5:26 pm</title>
+      <description>1300 BLOCK W PATRICK ST, GOLDEN MILE EXXON Radio: 9C Units: E11, E121, 9C</description>
+      <guid isPermaLink="false">2024-10-20 17:26:00</guid>
+      <pubDate>Sun, 20 Oct 2024 17:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 4:49 pm</title>
       <description>5600 BLOCK SPECTRUM DR, GOLDEN CORRAL RESTAURANT Units: E31, E231, R3, T4, T23, A318, ALS31, BC903, SAF901, FS31, PE311, PE23, E331, BC901</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 68MM, I70WB / 68MM Units: E152, CCE12</description>
       <guid isPermaLink="false">2024-10-19 07:23:00</guid>
       <pubDate>Sat, 19 Oct 2024 07:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:12 am</title>
-      <description>RT80 / IJAMSVILLE RD, RT80 / IJAMSVILLE RD Radio: 9D Units: SAF901, CMD23, K33, E231, E251, A259, ALS23, BC901, A239, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-10-19 07:12:00</guid>
-      <pubDate>Sat, 19 Oct 2024 07:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
