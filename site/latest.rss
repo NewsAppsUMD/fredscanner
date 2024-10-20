@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 03:44:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 03:51:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:46 pm</title>
+      <description>RT340WB / CATHOLIC CHURCH RD, 1 MILE BEFORE Radio: 9B Units: A209, A198, FS20, 9B, E201, RE52, R20</description>
+      <guid isPermaLink="false">2024-10-19 23:46:00</guid>
+      <pubDate>Sat, 19 Oct 2024 23:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 9:01 pm</title>
       <description>100 BLOCK HAMILTON AVE, Apt/Unit:104 Radio: 9C Units: E31, 9C</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
       <guid isPermaLink="false">2024-10-18 15:25:00</guid>
       <pubDate>Fri, 18 Oct 2024 15:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:55 pm</title>
-      <description>OLD NATIONAL PIKE / RIDGE RD Radio: 9D Units: E152, CCR1, BC903, EMS901, 9D, A158, CMD25, CCM19, C15</description>
-      <guid isPermaLink="false">2024-10-18 14:55:00</guid>
-      <pubDate>Fri, 18 Oct 2024 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
