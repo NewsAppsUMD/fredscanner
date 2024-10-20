@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 20:24:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 20:31:48 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:24 pm</title>
+      <description>18500 BLOCK MATLOCK HILL RD Units: K5, RE52</description>
+      <guid isPermaLink="false">2024-10-20 16:24:00</guid>
+      <pubDate>Sun, 20 Oct 2024 16:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:45 pm</title>
       <description>URBANA PIKE / ARABY CHURCH RD Units: A239, E231, FS23</description>
@@ -300,12 +306,6 @@
       <description>RT80 / IJAMSVILLE RD, RT80 / IJAMSVILLE RD Radio: 9D Units: SAF901, CMD23, E231, E251, R15, A259, ALS23, BC901, A239, EMS901, 9D</description>
       <guid isPermaLink="false">2024-10-19 07:10:00</guid>
       <pubDate>Sat, 19 Oct 2024 07:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:03 am</title>
-      <description>RT80 / IJAMSVILLE RD, RT80 / IJAMSVILLE RD Radio: 9D Units: E251, R15, A259, ALS23, BC901, EMS902, FS23, 9D</description>
-      <guid isPermaLink="false">2024-10-19 07:03:00</guid>
-      <pubDate>Sat, 19 Oct 2024 07:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
