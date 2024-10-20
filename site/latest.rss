@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Oct 2024 03:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 04:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:52 pm</title>
+      <description>RT340WB / CATHOLIC CHURCH RD, 1 MILE BEFORE Radio: 9B Units: A196, E121, A209, 9B, E201, RE52, R20</description>
+      <guid isPermaLink="false">2024-10-19 23:52:00</guid>
+      <pubDate>Sat, 19 Oct 2024 23:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:46 pm</title>
       <description>RT340WB / CATHOLIC CHURCH RD, 1 MILE BEFORE Radio: 9B Units: A209, A198, FS20, 9B, E201, RE52, R20</description>
@@ -300,12 +306,6 @@
       <description>N EAST ST / E NINTH ST Radio: 9B Units: 9B, PE23, A29</description>
       <guid isPermaLink="false">2024-10-18 17:20:00</guid>
       <pubDate>Fri, 18 Oct 2024 17:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:25 pm</title>
-      <description>5500 BLOCK HIDDEN WATERS LN Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2024-10-18 15:25:00</guid>
-      <pubDate>Fri, 18 Oct 2024 15:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
