@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 18:54:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 19:01:53 +0000</lastBuildDate>
+    <item>
+      <title>SMALL BUILDING FIRE: 2:57 pm</title>
+      <description>200 BLOCK HERITAGE CT Radio: 9C Units: BR116, E162, E91, Q11, A247, FS11, E111, 9C</description>
+      <guid isPermaLink="false">2024-10-21 14:57:00</guid>
+      <pubDate>Mon, 21 Oct 2024 14:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:56 pm</title>
+      <description>JEFFERSON PIKE / HORINE RD Radio: 9B Units: E201, FS20, A198, 9B</description>
+      <guid isPermaLink="false">2024-10-21 14:56:00</guid>
+      <pubDate>Mon, 21 Oct 2024 14:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:48 pm</title>
       <description>800 BLOCK WAYNESBORO PIKE Units: A69, R6</description>
@@ -294,18 +306,6 @@
       <description>DAYSVILLE RD / MAIN ST Radio: 9B Units: FS17, 9B, A179, E172</description>
       <guid isPermaLink="false">2024-10-19 16:06:00</guid>
       <pubDate>Sat, 19 Oct 2024 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 3:35 pm</title>
-      <description>100 BLOCK N SETON AVE Radio: 9C Units: ACE232, E61, PE102, R6, FS06, 9C</description>
-      <guid isPermaLink="false">2024-10-19 15:35:00</guid>
-      <pubDate>Sat, 19 Oct 2024 15:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
-      <description>S JEFFERSON ST / W SOUTH ST Units: E31, A38, T4</description>
-      <guid isPermaLink="false">2024-10-19 15:02:00</guid>
-      <pubDate>Sat, 19 Oct 2024 15:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
