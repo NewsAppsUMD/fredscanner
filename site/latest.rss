@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Oct 2024 19:22:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 19:31:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:24 pm</title>
+      <description>8200 BLOCK WOODSBORO PIKE, CALVARY ASSEMBLY OF GOD Radio: 9B Units: A29, R24, FS11, 9B</description>
+      <guid isPermaLink="false">2024-10-21 15:24:00</guid>
+      <pubDate>Mon, 21 Oct 2024 15:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:19 pm</title>
+      <description>BAUGHMANS LN / KEY PKWY Radio: 9B Units: EMS901, A18, E11, 9B, E31, R3, A19, ALS4</description>
+      <guid isPermaLink="false">2024-10-21 15:19:00</guid>
+      <pubDate>Mon, 21 Oct 2024 15:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:18 pm</title>
       <description>BAUGHMANS LN / KEY PKWY Radio: 9B Units: A18, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61, FS06, 9C</description>
       <guid isPermaLink="false">2024-10-19 18:01:00</guid>
       <pubDate>Sat, 19 Oct 2024 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:59 pm</title>
-      <description>400 BLOCK W B ST Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2024-10-19 16:59:00</guid>
-      <pubDate>Sat, 19 Oct 2024 16:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:45 pm</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, WENDYS Radio: 9B Units: 9B, A318, PE311, FS31</description>
-      <guid isPermaLink="false">2024-10-19 16:45:00</guid>
-      <pubDate>Sat, 19 Oct 2024 16:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
