@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 21:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 21:24:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:21 pm</title>
+      <description>6500 BLOCK MOUNTAINDALE RD Radio: 9B Units: E291, FS22, 9B, A229</description>
+      <guid isPermaLink="false">2024-10-22 17:21:00</guid>
+      <pubDate>Tue, 22 Oct 2024 17:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
       <description>3600 BLOCK WORTHINGTON BLVD Radio: 9B Units: A239, E231, FS23, 9B</description>
@@ -300,12 +306,6 @@
       <description>18500 BLOCK MATLOCK HILL RD Units: K5, RE52</description>
       <guid isPermaLink="false">2024-10-20 16:24:00</guid>
       <pubDate>Sun, 20 Oct 2024 16:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:45 pm</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Units: A239, E231, FS23</description>
-      <guid isPermaLink="false">2024-10-20 14:45:00</guid>
-      <pubDate>Sun, 20 Oct 2024 14:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
