@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Oct 2024 22:26:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 22:34:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:31 pm</title>
+      <description>I70WB / EXIT 52 (RT340), I70WB / EXIT 52 Radio: 9C Units: E31, E121, 9C</description>
+      <guid isPermaLink="false">2024-10-22 18:31:00</guid>
+      <pubDate>Tue, 22 Oct 2024 18:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:25 pm</title>
       <description>6500 BLOCK MOUNTAINDALE RD Radio: 9B Units: E291, 9B, E221, A229, C22</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK W PATRICK ST, GOLDEN MILE EXXON Radio: 9C Units: E11, E121, 9C</description>
       <guid isPermaLink="false">2024-10-20 17:26:00</guid>
       <pubDate>Sun, 20 Oct 2024 17:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:49 pm</title>
-      <description>5600 BLOCK SPECTRUM DR, GOLDEN CORRAL RESTAURANT Units: E31, E231, R3, T4, T23, A318, ALS31, BC903, SAF901, FS31, PE311, PE23, E331, BC901</description>
-      <guid isPermaLink="false">2024-10-20 16:49:00</guid>
-      <pubDate>Sun, 20 Oct 2024 16:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
