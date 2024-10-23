@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 21:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:14:37 +0000</lastBuildDate>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 5:00 pm</title>
+      <description>8600 BLOCK HORNETS NEST RD Units: E61, K10, BR65</description>
+      <guid isPermaLink="false">2024-10-23 17:00:00</guid>
+      <pubDate>Wed, 23 Oct 2024 17:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:24 pm</title>
       <description>100 BLOCK THURMONT BLVD, KFC TACO BELL - THURMONT Units: BR106, FS10</description>
@@ -300,12 +306,6 @@
       <description>WORMANS MILL RD / LIBERTY RD Radio: 9B Units: 9B, Q11, FS29, A247</description>
       <guid isPermaLink="false">2024-10-21 13:48:00</guid>
       <pubDate>Mon, 21 Oct 2024 13:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:32 pm</title>
-      <description>1700 BLOCK KINGFISHER DR, Apt/Unit:STE 4, PALM BEACH TAN Units: C1B, E111, E291, PE23, R24, Q11, CMD29, R3, T50, E501, E31, TW1, A247, ALS2, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2024-10-21 13:32:00</guid>
-      <pubDate>Mon, 21 Oct 2024 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
