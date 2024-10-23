@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 22:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 22:42:31 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 6:39 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, FS14, 9C</description>
+      <guid isPermaLink="false">2024-10-23 18:39:00</guid>
+      <pubDate>Wed, 23 Oct 2024 18:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL TANK FIRE (&lt; 5 GAL): 6:26 pm</title>
       <description>100 BLOCK PROVINCIAL PKWY Radio: 9C Units: E61, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>BAUGHMANS LN / KEY PKWY Radio: 9B Units: A18, E11, 9B</description>
       <guid isPermaLink="false">2024-10-21 15:18:00</guid>
       <pubDate>Mon, 21 Oct 2024 15:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 2:57 pm</title>
-      <description>200 BLOCK HERITAGE CT Radio: 9C Units: BR116, E162, E91, Q11, A247, FS11, E111, 9C</description>
-      <guid isPermaLink="false">2024-10-21 14:57:00</guid>
-      <pubDate>Mon, 21 Oct 2024 14:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
