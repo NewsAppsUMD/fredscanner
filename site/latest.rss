@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 21:24:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
+      <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Units: PE102, FS22, A229</description>
+      <guid isPermaLink="false">2024-10-23 17:22:00</guid>
+      <pubDate>Wed, 23 Oct 2024 17:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 5:00 pm</title>
       <description>8600 BLOCK HORNETS NEST RD Units: E61, K10, BR65</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK HERITAGE CT Radio: 9C Units: FS11, BR116, 9C</description>
       <guid isPermaLink="false">2024-10-21 14:35:00</guid>
       <pubDate>Mon, 21 Oct 2024 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:48 pm</title>
-      <description>WORMANS MILL RD / LIBERTY RD Radio: 9B Units: 9B, Q11, FS29, A247</description>
-      <guid isPermaLink="false">2024-10-21 13:48:00</guid>
-      <pubDate>Mon, 21 Oct 2024 13:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
