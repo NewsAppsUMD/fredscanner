@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Oct 2024 01:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 02:15:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:07 pm</title>
+      <description>100 BLOCK W PATRICK ST, FREDERICK CITY ANNEX Radio: 9C Units: E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-10-22 22:07:00</guid>
+      <pubDate>Tue, 22 Oct 2024 22:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:55 pm</title>
       <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: 9B, E201, E51, RE52, R19, A196</description>
@@ -300,12 +306,6 @@
       <description>10200 BLOCK LAKE LINGANORE BLVD Radio: 9D Units: 9D, E331, R15, A339, ALS4, BC901, EMS901, FS15</description>
       <guid isPermaLink="false">2024-10-20 19:50:00</guid>
       <pubDate>Sun, 20 Oct 2024 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:47 pm</title>
-      <description>6800 BLOCK MICHAELS MILL RD Radio: 9C Units: 9C, PE311, BR145, FS14</description>
-      <guid isPermaLink="false">2024-10-20 18:47:00</guid>
-      <pubDate>Sun, 20 Oct 2024 18:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
