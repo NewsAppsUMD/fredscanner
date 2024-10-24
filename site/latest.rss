@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 04:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 04:28:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
+      <description>800 BLOCK HEATHER RIDGE DR, AMBERTOWN CONDOS - 800 BLOCK HEATHER RIDGE DR Radio: 9C Units: 9C, E291, T50</description>
+      <guid isPermaLink="false">2024-10-24 00:21:00</guid>
+      <pubDate>Thu, 24 Oct 2024 00:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 12:02 am</title>
       <description>8200 BLOCK SIXES BRIDGE RD Units: E91, TW6, E133</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK SHAMROCK DR Radio: 9C Units: E251, T23, FS25, 9C</description>
       <guid isPermaLink="false">2024-10-21 20:01:00</guid>
       <pubDate>Mon, 21 Oct 2024 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:59 pm</title>
-      <description>10200 BLOCK WOODSBORO RD Radio: 9D Units: RE171, ALS17, E162, BC902, A169, EMS902, FS16, 9D</description>
-      <guid isPermaLink="false">2024-10-21 18:59:00</guid>
-      <pubDate>Mon, 21 Oct 2024 18:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
