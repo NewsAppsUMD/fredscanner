@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 20:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 20:33:57 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:29 pm</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, MAPLE TERRACE APTS Radio: 9C Units: E51, 9C</description>
+      <guid isPermaLink="false">2024-10-24 16:29:00</guid>
+      <pubDate>Thu, 24 Oct 2024 16:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:52 pm</title>
       <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9B Units: 9B, A149, E281, FS28</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK MOUNTAINDALE RD Radio: 9B Units: E291, FS22, 9B, A229</description>
       <guid isPermaLink="false">2024-10-22 17:21:00</guid>
       <pubDate>Tue, 22 Oct 2024 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
-      <description>3600 BLOCK WORTHINGTON BLVD Radio: 9B Units: A239, E231, FS23, 9B</description>
-      <guid isPermaLink="false">2024-10-22 16:29:00</guid>
-      <pubDate>Tue, 22 Oct 2024 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
