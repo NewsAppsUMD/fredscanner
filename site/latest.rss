@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 22:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 22:14:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:02 pm</title>
+      <description>I70WB / RT85, I70WB / RT85 Radio: 9B Units: R3, A39, A18, E11, 9B, C3B, E31, ALS2, BC901, EMS902</description>
+      <guid isPermaLink="false">2024-10-24 18:02:00</guid>
+      <pubDate>Thu, 24 Oct 2024 18:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:00 pm</title>
+      <description>I70WB / RT85, I70WB / RT85 Radio: 9B Units: R3, A39, A18, E11, 9B, E31</description>
+      <guid isPermaLink="false">2024-10-24 18:00:00</guid>
+      <pubDate>Thu, 24 Oct 2024 18:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:29 pm</title>
       <description>1200 BLOCK MAPLE TERRACE LN, MAPLE TERRACE APTS Radio: 9C Units: E51, 9C</description>
@@ -294,18 +306,6 @@
       <description>I70WB / EXIT 52 (RT340), I70WB / EXIT 52 Radio: 9C Units: E31, E121, 9C</description>
       <guid isPermaLink="false">2024-10-22 18:31:00</guid>
       <pubDate>Tue, 22 Oct 2024 18:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:25 pm</title>
-      <description>6500 BLOCK MOUNTAINDALE RD Radio: 9B Units: E291, 9B, E221, A229, C22</description>
-      <guid isPermaLink="false">2024-10-22 17:25:00</guid>
-      <pubDate>Tue, 22 Oct 2024 17:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:21 pm</title>
-      <description>6500 BLOCK MOUNTAINDALE RD Radio: 9B Units: E291, FS22, 9B, A229</description>
-      <guid isPermaLink="false">2024-10-22 17:21:00</guid>
-      <pubDate>Tue, 22 Oct 2024 17:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
