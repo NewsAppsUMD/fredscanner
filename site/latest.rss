@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 23:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 23:41:27 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
+      <description>9100 BLOCK LIBERTY KNOLLS CT Radio: 9C Units: RE171, FS17, 9C</description>
+      <guid isPermaLink="false">2024-10-24 19:30:00</guid>
+      <pubDate>Thu, 24 Oct 2024 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:47 pm</title>
       <description>RT15 / RT464, RT15 / RT464 Units: E281, R14, A149, ALS4, EMS901, FS28</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W PATRICK ST, FREDERICK CITY ANNEX Radio: 9C Units: E31, T4, 9C</description>
       <guid isPermaLink="false">2024-10-22 22:07:00</guid>
       <pubDate>Tue, 22 Oct 2024 22:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:55 pm</title>
-      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: 9B, E201, E51, RE52, R19, A196</description>
-      <guid isPermaLink="false">2024-10-22 19:55:00</guid>
-      <pubDate>Tue, 22 Oct 2024 19:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
