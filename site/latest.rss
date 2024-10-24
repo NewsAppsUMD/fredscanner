@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Oct 2024 11:51:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:03:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
+      <description>I270NB / 26MM, I270NB / 26MM Radio: 9B Units: PRE709, R3, A239, A259, E231, FS23, 9B</description>
+      <guid isPermaLink="false">2024-10-24 07:57:00</guid>
+      <pubDate>Thu, 24 Oct 2024 07:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:50 am</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, FS23, 9B, RE709, R3, A239, A259</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9B Units: A18, T4, 9B</description>
       <guid isPermaLink="false">2024-10-22 06:03:00</guid>
       <pubDate>Tue, 22 Oct 2024 06:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:23 am</title>
-      <description>I70EB / RT75(RT75), I70EB / RT75 Radio: 9B Units: E251, R15, A158, E153, A259, FS15, 9B</description>
-      <guid isPermaLink="false">2024-10-22 03:23:00</guid>
-      <pubDate>Tue, 22 Oct 2024 03:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
