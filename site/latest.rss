@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 04:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 04:29:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:17 am</title>
+      <description>S JEFFERSON ST / CATOCTIN AVE Radio: 9D Units: A39, ALS4, EMS901, E31, R3, 9D</description>
+      <guid isPermaLink="false">2024-10-25 00:17:00</guid>
+      <pubDate>Fri, 25 Oct 2024 00:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:33 pm</title>
       <description>4800 BLOCK WHISKEY CT Units: A259, E251, FS25</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK DREXAL AVE, LOT 3256 Radio: 9C Units: E153, 9C</description>
       <guid isPermaLink="false">2024-10-23 00:18:00</guid>
       <pubDate>Wed, 23 Oct 2024 00:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 pm</title>
-      <description>200 BLOCK E SIXTEENTH ST, NORTHAMPTON MANOR Radio: 9C Units: PE23, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-22 23:27:00</guid>
-      <pubDate>Tue, 22 Oct 2024 23:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
