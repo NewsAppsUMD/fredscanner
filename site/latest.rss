@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Oct 2024 04:52:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 05:02:22 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 12:59 am</title>
+      <description>500 BLOCK LOGAN ST Units: C2C, BC903, PE23, PE311, E501, E331, A29, BC902, EMS901, C3B, E31, R3, T4, TW1, A38, ALS4, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-10-25 00:59:00</guid>
+      <pubDate>Fri, 25 Oct 2024 00:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:56 am</title>
+      <description>500 BLOCK LOGAN ST Units: PE23, PE311, E501, E331, E31, R3, T4, TW1, A38, ALS4, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-10-25 00:56:00</guid>
+      <pubDate>Fri, 25 Oct 2024 00:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:17 am</title>
       <description>S JEFFERSON ST / CATOCTIN AVE Radio: 9D Units: A39, ALS4, EMS901, E31, R3, 9D</description>
@@ -294,18 +306,6 @@
       <description>I70EB / RT144 (NEWM), I70EB / RT144 Radio: 9C Units: 9C, E31, PE311, HM33</description>
       <guid isPermaLink="false">2024-10-23 07:06:00</guid>
       <pubDate>Wed, 23 Oct 2024 07:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 3:42 am</title>
-      <description>LEGORE BRIDGE RD / MONOCACY RIVER Units: E132, TR29, TRSU29, E91</description>
-      <guid isPermaLink="false">2024-10-23 03:42:00</guid>
-      <pubDate>Wed, 23 Oct 2024 03:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:18 am</title>
-      <description>5800 BLOCK DREXAL AVE, LOT 3256 Radio: 9C Units: E153, 9C</description>
-      <guid isPermaLink="false">2024-10-23 00:18:00</guid>
-      <pubDate>Wed, 23 Oct 2024 00:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
