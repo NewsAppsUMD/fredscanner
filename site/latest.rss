@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Oct 2024 01:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 01:43:05 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 9:11 pm</title>
+      <description>200 BLOCK E SECOND ST Radio: 9C Units: E31, 9C</description>
+      <guid isPermaLink="false">2024-10-25 21:11:00</guid>
+      <pubDate>Fri, 25 Oct 2024 21:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:02 pm</title>
+      <description>1800 BLOCK WAYNESBORO PIKE Units: A68, R6</description>
+      <guid isPermaLink="false">2024-10-25 21:02:00</guid>
+      <pubDate>Fri, 25 Oct 2024 21:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:48 pm</title>
       <description>2500 BLOCK COACH HOUSE WAY, Apt/Unit:2B, ECHO GLEN CONDOS - 2500 BLOCK COACH HOUSE WAY Radio: 9C Units: T50, E11, 9C</description>
@@ -294,18 +306,6 @@
       <description>I270NB / 26MM, I270NB / 26MM Radio: 9B Units: PRE709, R3, A239, A259, E231, FS23, 9B</description>
       <guid isPermaLink="false">2024-10-24 07:57:00</guid>
       <pubDate>Thu, 24 Oct 2024 07:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:50 am</title>
-      <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, FS23, 9B, RE709, R3, A239, A259</description>
-      <guid isPermaLink="false">2024-10-24 06:50:00</guid>
-      <pubDate>Thu, 24 Oct 2024 06:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:19 am</title>
-      <description>1700 BLOCK SPRINGFIELD LN Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-10-24 06:19:00</guid>
-      <pubDate>Thu, 24 Oct 2024 06:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
