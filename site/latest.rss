@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 17:25:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 17:32:32 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 1:25 pm</title>
+      <description>MOORSEVILLE RD / INDIAN SPRING RD Units: WILDLAND7</description>
+      <guid isPermaLink="false">2024-10-27 13:25:00</guid>
+      <pubDate>Sun, 27 Oct 2024 13:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:27 pm</title>
       <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: BR116, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK DELEGATE PL Radio: 9C Units: E31, T4, FS31, 9C</description>
       <guid isPermaLink="false">2024-10-25 18:06:00</guid>
       <pubDate>Fri, 25 Oct 2024 18:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:31 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:B3, HUNTERS GLEN APTS - 1400 BLOCK KEY PKWY Units: E121, T4, TW1</description>
-      <guid isPermaLink="false">2024-10-25 15:31:00</guid>
-      <pubDate>Fri, 25 Oct 2024 15:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
