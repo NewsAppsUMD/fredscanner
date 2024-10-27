@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 19:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 19:22:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:17 pm</title>
+      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT BLOSSOM PLACE Radio: 9C Units: T4, FS31, 9C, E31</description>
+      <guid isPermaLink="false">2024-10-27 15:17:00</guid>
+      <pubDate>Sun, 27 Oct 2024 15:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 3:16 pm</title>
+      <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: E311, E201, PE311, R14, FS31, 9C</description>
+      <guid isPermaLink="false">2024-10-27 15:16:00</guid>
+      <pubDate>Sun, 27 Oct 2024 15:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 3:15 pm</title>
+      <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: E311, PE311, R14, FS31, 9C</description>
+      <guid isPermaLink="false">2024-10-27 15:15:00</guid>
+      <pubDate>Sun, 27 Oct 2024 15:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 1:40 pm</title>
       <description>CHIMNEY ROCK- CATOCTIN MOUNTAIN PARK, CHIMNEY ROCK- CATOCTIN MOUNTAIN PARK Units: EMS902, FS10, E132, E61, A307, WCM791, BC902, SAF901, E212, R10, TR29, EMSUTV30</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E11, A19, ALS4, C3B, 9D, PE311, R20, A39, BC901, EMS902</description>
       <guid isPermaLink="false">2024-10-25 19:02:00</guid>
       <pubDate>Fri, 25 Oct 2024 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:00 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E11, A19, ALS4, 9D, PE311, R2, A39, BC901, EMS902</description>
-      <guid isPermaLink="false">2024-10-25 19:00:00</guid>
-      <pubDate>Fri, 25 Oct 2024 19:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:57 pm</title>
-      <description>6100 BLOCK BALDRIDGE TER Radio: 9C Units: E331, E31, R3, FS33, 9C</description>
-      <guid isPermaLink="false">2024-10-25 18:57:00</guid>
-      <pubDate>Fri, 25 Oct 2024 18:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:20 pm</title>
-      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: A259, E152, FS15, 9B</description>
-      <guid isPermaLink="false">2024-10-25 18:20:00</guid>
-      <pubDate>Fri, 25 Oct 2024 18:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
