@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 23:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 23:15:13 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:08 pm</title>
+      <description>1700 BLOCK WOODRUFF WAY Radio: 9C Units: E111, E291, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2024-10-27 19:08:00</guid>
+      <pubDate>Sun, 27 Oct 2024 19:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:59 pm</title>
       <description>I70WB / RT17, I70WB / RT17 Radio: 9C Units: E82, E72, 9C</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Radio: 9B Units: A38, R3, FS31, 9B</description>
       <guid isPermaLink="false">2024-10-25 20:01:00</guid>
       <pubDate>Fri, 25 Oct 2024 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 7:40 pm</title>
-      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Radio: 9C Units: E31, PE23, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-25 19:40:00</guid>
-      <pubDate>Fri, 25 Oct 2024 19:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
