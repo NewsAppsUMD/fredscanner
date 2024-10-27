@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Oct 2024 23:15:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 23:25:13 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:18 pm</title>
+      <description>1000 BLOCK HEATHER RIDGE DR, Bldg:A, Apt/Unit:313, COUNTRY HILL APTS - BLDG A Radio: 9C Units: PE23, E501, R3, 9C</description>
+      <guid isPermaLink="false">2024-10-27 19:18:00</guid>
+      <pubDate>Sun, 27 Oct 2024 19:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:13 pm</title>
+      <description>1700 BLOCK WOODRUFF WAY Radio: 9C Units: E111, E291, Q11, R24, 9C</description>
+      <guid isPermaLink="false">2024-10-27 19:13:00</guid>
+      <pubDate>Sun, 27 Oct 2024 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 7:08 pm</title>
       <description>1700 BLOCK WOODRUFF WAY Radio: 9C Units: E111, E291, Q11, FS29, 9C</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK COACH HOUSE WAY, Apt/Unit:2B, ECHO GLEN CONDOS - 2500 BLOCK COACH HOUSE WAY Radio: 9C Units: T50, E11, 9C</description>
       <guid isPermaLink="false">2024-10-25 20:48:00</guid>
       <pubDate>Fri, 25 Oct 2024 20:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:32 pm</title>
-      <description>RT80 / I270, RT80 / I270 Radio: 9B Units: A239, E231, FS23, 9B</description>
-      <guid isPermaLink="false">2024-10-25 20:32:00</guid>
-      <pubDate>Fri, 25 Oct 2024 20:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:01 pm</title>
-      <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Radio: 9B Units: A38, R3, FS31, 9B</description>
-      <guid isPermaLink="false">2024-10-25 20:01:00</guid>
-      <pubDate>Fri, 25 Oct 2024 20:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
