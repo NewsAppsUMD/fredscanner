@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 17:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 17:14:40 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 1:04 pm</title>
+      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WILDLAND7, BTF, EMSUTV30, BR216, BR125, WCBR9, BR16, BR75, K21, A89, BR106, WCBR27, TAC1OPS, BC903, CAN1</description>
+      <guid isPermaLink="false">2024-10-28 13:04:00</guid>
+      <pubDate>Mon, 28 Oct 2024 13:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:43 pm</title>
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E152</description>
@@ -300,12 +306,6 @@
       <description>W PATRICK ST / BAUGHMANS LN, JUST PRIOR TO Radio: 9B Units: T4, 9B, A39</description>
       <guid isPermaLink="false">2024-10-26 18:01:00</guid>
       <pubDate>Sat, 26 Oct 2024 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:56 pm</title>
-      <description>1800 BLOCK COUNTRY RUN WAY, IRO ON TUSCANNEY DR Radio: 9B Units: A19, E11, 9B</description>
-      <guid isPermaLink="false">2024-10-26 17:56:00</guid>
-      <pubDate>Sat, 26 Oct 2024 17:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
