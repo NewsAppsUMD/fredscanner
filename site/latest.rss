@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 23:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 23:24:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:21 pm</title>
+      <description>3500 BLOCK JOHN SIMMONS ST Radio: 9C Units: 9C, E231, FS23</description>
+      <guid isPermaLink="false">2024-10-28 19:21:00</guid>
+      <pubDate>Mon, 28 Oct 2024 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:21 pm</title>
+      <description>W GREENLEAF DR / EDGEWOOD CHURCH RD Radio: 9C Units: 9C, E12</description>
+      <guid isPermaLink="false">2024-10-28 19:21:00</guid>
+      <pubDate>Mon, 28 Oct 2024 19:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:09 pm</title>
       <description>100 BLOCK CAPRICORN RD Radio: 9C Units: E111, FS11, 9C</description>
@@ -294,18 +306,6 @@
       <description>GAMBRILL STATE PARK TRAILS PARKING LOT, GAMBRILL STATE PARK TRAILS PARKING LOT Radio: 9D Units: E12, E82, E72, RE74, TR29, E121, A299, EMSUTV31, A129, ALS8, BC903, SAF901, EMS902, 9D</description>
       <guid isPermaLink="false">2024-10-27 11:49:00</guid>
       <pubDate>Sun, 27 Oct 2024 11:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 11:43 am</title>
-      <description>GAMBRILL STATE PARK TRAILS PARKING LOT, GAMBRILL STATE PARK TRAILS PARKING LOT Radio: 9D Units: E82, E72, RE74, TR29, E121, EMSUTV31, A129, ALS8, BC903, SAF901, EMS902, FS12, 9D</description>
-      <guid isPermaLink="false">2024-10-27 11:43:00</guid>
-      <pubDate>Sun, 27 Oct 2024 11:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:40 am</title>
-      <description>300 BLOCK PROSPECT BLVD, Bldg:A, CASCADES OF FREDERICK Radio: 9C Units: E31, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-27 11:40:00</guid>
-      <pubDate>Sun, 27 Oct 2024 11:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
