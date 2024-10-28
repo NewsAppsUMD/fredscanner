@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 21:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:24:37 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 5:18 pm</title>
+      <description>3700 BLOCK SPICEBUSH WAY Radio: 9C Units: E231, E251, T23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-10-28 17:18:00</guid>
+      <pubDate>Mon, 28 Oct 2024 17:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:58 pm</title>
       <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: T4, 9C, E31</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK STAUFFER CT, SELF STORAGE PLUS Units: E111, E291, PE23, E162, E161, R24, Q11, T50, A249, ALS29, BC902, BC901, SAF901, FS11</description>
       <guid isPermaLink="false">2024-10-27 09:53:00</guid>
       <pubDate>Sun, 27 Oct 2024 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:52 am</title>
-      <description>7100 BLOCK LINGANORE RD Radio: 9B Units: 9B, A339, E331, FS33</description>
-      <guid isPermaLink="false">2024-10-27 07:52:00</guid>
-      <pubDate>Sun, 27 Oct 2024 07:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
