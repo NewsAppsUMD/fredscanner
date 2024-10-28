@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 17:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 1:57 pm</title>
+      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR226, BR235, WCBR12, WILDLAND7, E121, BR35, BR205, WCBR13, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, UAS, WCBR27, TAC1OPS, BC903</description>
+      <guid isPermaLink="false">2024-10-28 13:57:00</guid>
+      <pubDate>Mon, 28 Oct 2024 13:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 1:53 pm</title>
+      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WCBR12, WILDLAND7, E121, BR35, BR205, WCBR13, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, UAS, WCBR27, TAC1OPS, BC903</description>
+      <guid isPermaLink="false">2024-10-28 13:53:00</guid>
+      <pubDate>Mon, 28 Oct 2024 13:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 1:38 pm</title>
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WILDLAND7, E121, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, WCBR27, TAC1OPS, BC903</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Units: FS31, PE311, T4</description>
       <guid isPermaLink="false">2024-10-26 22:37:00</guid>
       <pubDate>Sat, 26 Oct 2024 22:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 pm</title>
-      <description>8700 BLOCK VICTORY CT Radio: 9C Units: E111, Q11, FS11, 9C</description>
-      <guid isPermaLink="false">2024-10-26 21:48:00</guid>
-      <pubDate>Sat, 26 Oct 2024 21:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:48 pm</title>
-      <description>I70EB / LINGANORE RD, I70EB / LINGANORE RD Radio: 9B Units: 9B, A339, E331, FS33</description>
-      <guid isPermaLink="false">2024-10-26 20:48:00</guid>
-      <pubDate>Sat, 26 Oct 2024 20:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
