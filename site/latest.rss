@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 20:51:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 21:01:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:58 pm</title>
+      <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: T4, 9C, E31</description>
+      <guid isPermaLink="false">2024-10-28 16:58:00</guid>
+      <pubDate>Mon, 28 Oct 2024 16:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:17 pm</title>
       <description>7900 BLOCK WORMANS MILL RD Radio: 9C Units: FS29, 9C, E111</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK LINGANORE RD Radio: 9B Units: 9B, A339, E331, FS33</description>
       <guid isPermaLink="false">2024-10-27 07:52:00</guid>
       <pubDate>Sun, 27 Oct 2024 07:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:23 am</title>
-      <description>100 BLOCK CARROLLS TRACT RD Radio: ACOPS4 Units: E61, ACOPS4</description>
-      <guid isPermaLink="false">2024-10-27 07:23:00</guid>
-      <pubDate>Sun, 27 Oct 2024 07:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
