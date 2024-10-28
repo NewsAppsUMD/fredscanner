@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 16:40:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 16:53:45 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:43 pm</title>
+      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E152</description>
+      <guid isPermaLink="false">2024-10-28 12:43:00</guid>
+      <pubDate>Mon, 28 Oct 2024 12:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 12:41 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:44, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E12, E31, R3, 9C</description>
+      <guid isPermaLink="false">2024-10-28 12:41:00</guid>
+      <pubDate>Mon, 28 Oct 2024 12:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 12:22 pm</title>
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR35, WILDLAND7, BTF, BR216, BR125, WCE102, WCBR9, BR16, BR75, E212, E72, K21, A89, BR85, BR106, WCBR7, WCBR27, TAC1OPS, BC903</description>
@@ -294,18 +306,6 @@
       <description>1800 BLOCK COUNTRY RUN WAY, IRO ON TUSCANNEY DR Radio: 9B Units: A19, E11, 9B</description>
       <guid isPermaLink="false">2024-10-26 17:56:00</guid>
       <pubDate>Sat, 26 Oct 2024 17:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:16 pm</title>
-      <description>I70EB / 38MM Radio: PS1 Units: A89, E82, PS1</description>
-      <guid isPermaLink="false">2024-10-26 16:16:00</guid>
-      <pubDate>Sat, 26 Oct 2024 16:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:28 pm</title>
-      <description>3600 BLOCK FLATWOODS DR Radio: 9C Units: T23, FS23, 9C, E231</description>
-      <guid isPermaLink="false">2024-10-26 15:28:00</guid>
-      <pubDate>Sat, 26 Oct 2024 15:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
