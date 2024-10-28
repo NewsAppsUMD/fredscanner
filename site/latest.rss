@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Oct 2024 18:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:15:46 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:05 pm</title>
+      <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61, FS06, 9C</description>
+      <guid isPermaLink="false">2024-10-28 14:05:00</guid>
+      <pubDate>Mon, 28 Oct 2024 14:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 1:57 pm</title>
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR226, BR235, WCBR12, WILDLAND7, E121, BR35, BR205, WCBR13, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, UAS, WCBR27, TAC1OPS, BC903</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 Units: A239, FS23, E231</description>
       <guid isPermaLink="false">2024-10-26 22:43:00</guid>
       <pubDate>Sat, 26 Oct 2024 22:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:37 pm</title>
-      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Units: FS31, PE311, T4</description>
-      <guid isPermaLink="false">2024-10-26 22:37:00</guid>
-      <pubDate>Sat, 26 Oct 2024 22:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
