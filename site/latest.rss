@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 22:51:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 23:02:10 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:57 pm</title>
+      <description>11900 BLOCK MID COUNTY DR Radio: 9C Units: 9C, E251, FS25</description>
+      <guid isPermaLink="false">2024-10-29 18:57:00</guid>
+      <pubDate>Tue, 29 Oct 2024 18:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:46 pm</title>
       <description>N POTOMAC ST / E MAIN ST Radio: 9D Units: A198, EMS901, 9D, ALS20, FS05, RE52</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: E231, PE311, T23, K23, FS23, 9C</description>
       <guid isPermaLink="false">2024-10-28 11:29:00</guid>
       <pubDate>Mon, 28 Oct 2024 11:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 10:40 am</title>
-      <description>WHITE OAK RD / APPALACHIAN TRL Radio: TAC1OPS Units: E82, WILDLAND7, TAC1OPS, BC903, E212</description>
-      <guid isPermaLink="false">2024-10-28 10:40:00</guid>
-      <pubDate>Mon, 28 Oct 2024 10:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
