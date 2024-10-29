@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 01:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 02:16:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:53 pm</title>
+      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: T4, 9C, E31</description>
+      <guid isPermaLink="false">2024-10-28 21:53:00</guid>
+      <pubDate>Mon, 28 Oct 2024 21:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:42 pm</title>
       <description>1500 BLOCK TILCO DR, STULZ AIR TECHNOLOGY SYSTEMS Radio: 9C Units: E331, R3, 9C, E31</description>
@@ -300,12 +306,6 @@
       <description>CHIMNEY ROCK- CATOCTIN MOUNTAIN PARK, CHIMNEY ROCK- CATOCTIN MOUNTAIN PARK Units: EMS902, FS10, E132, E61, A307, WCM791, BC902, SAF901, E212, R10, TR29, EMSUTV30</description>
       <guid isPermaLink="false">2024-10-27 13:40:00</guid>
       <pubDate>Sun, 27 Oct 2024 13:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:25 pm</title>
-      <description>MOORSEVILLE RD / INDIAN SPRING RD Units: WILDLAND7</description>
-      <guid isPermaLink="false">2024-10-27 13:25:00</guid>
-      <pubDate>Sun, 27 Oct 2024 13:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
