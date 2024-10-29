@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 23:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 23:24:46 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:14 pm</title>
+      <description>3200 BLOCK HYDE PARK CT Radio: 9C Units: 9C, E141, FS14</description>
+      <guid isPermaLink="false">2024-10-29 19:14:00</guid>
+      <pubDate>Tue, 29 Oct 2024 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:57 pm</title>
       <description>11900 BLOCK MID COUNTY DR Radio: 9C Units: 9C, E251, FS25</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: E231, PE311, T23, K23, E331, T4, 9C</description>
       <guid isPermaLink="false">2024-10-28 11:39:00</guid>
       <pubDate>Mon, 28 Oct 2024 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:29 am</title>
-      <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: E231, PE311, T23, K23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-10-28 11:29:00</guid>
-      <pubDate>Mon, 28 Oct 2024 11:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
