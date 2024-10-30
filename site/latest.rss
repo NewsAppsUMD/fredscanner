@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 14:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 14:14:55 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 10:01 am</title>
+      <description>5100 BLOCK PEGASUS CT, Bldg:D Radio: 9C Units: E12, R3, FS31, 9C</description>
+      <guid isPermaLink="false">2024-10-30 10:01:00</guid>
+      <pubDate>Wed, 30 Oct 2024 10:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 9:54 am</title>
       <description>6900 BLOCK LINGANORE RD, EDDIE MERCER AGRICULTURAL SERVICE INC Radio: 9C Units: E31, 9C, E152, FS33</description>
@@ -300,12 +306,6 @@
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WILDLAND7, E121, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, WCBR27, TAC1OPS, BC903</description>
       <guid isPermaLink="false">2024-10-28 13:38:00</guid>
       <pubDate>Mon, 28 Oct 2024 13:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:18 pm</title>
-      <description>HILLCREST DR / E THORNHILL PL Units: E12, A129, R3</description>
-      <guid isPermaLink="false">2024-10-28 13:18:00</guid>
-      <pubDate>Mon, 28 Oct 2024 13:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
