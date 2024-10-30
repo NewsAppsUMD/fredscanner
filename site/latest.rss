@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 16:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:15:33 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:11 pm</title>
+      <description>600 BLOCK BLAZER TRL Units: E12</description>
+      <guid isPermaLink="false">2024-10-30 12:11:00</guid>
+      <pubDate>Wed, 30 Oct 2024 12:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:08 pm</title>
+      <description>22000 BLOCK BEAVER BROOK DRIVE Units: K21</description>
+      <guid isPermaLink="false">2024-10-30 12:08:00</guid>
+      <pubDate>Wed, 30 Oct 2024 12:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 10:01 am</title>
       <description>5100 BLOCK PEGASUS CT, Bldg:D Radio: 9C Units: E12, R3, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR226, BR235, WCBR12, WILDLAND7, E121, BR35, BR205, WCBR13, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, UAS, WCBR27, TAC1OPS, BC903</description>
       <guid isPermaLink="false">2024-10-28 13:57:00</guid>
       <pubDate>Mon, 28 Oct 2024 13:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 1:53 pm</title>
-      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WCBR12, WILDLAND7, E121, BR35, BR205, WCBR13, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, UAS, WCBR27, TAC1OPS, BC903</description>
-      <guid isPermaLink="false">2024-10-28 13:53:00</guid>
-      <pubDate>Mon, 28 Oct 2024 13:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 1:38 pm</title>
-      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WILDLAND7, E121, BTF, EMSUTV30, BR216, BR125, C900, WCBR9, BR16, BR75, SAF901, K21, A89, BR106, WCBR27, TAC1OPS, BC903</description>
-      <guid isPermaLink="false">2024-10-28 13:38:00</guid>
-      <pubDate>Mon, 28 Oct 2024 13:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
