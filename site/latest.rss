@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 18:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:29:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:26 pm</title>
+      <description>1500 BLOCK N MARKET ST, THOMAS JOHNSON HIGH SCHOOL Units: PE23, A299</description>
+      <guid isPermaLink="false">2024-10-30 14:26:00</guid>
+      <pubDate>Wed, 30 Oct 2024 14:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:55 pm</title>
       <description>CORPORATE DR / CHILLINGHAM PL, ACROSS THE STREET Radio: 9D Units: SAF901, RID, E31, PE23, E291, R3, T4, T50, A39, ALS31, BC903, E201, TT23, A38, EMS901, FS31, E331, E231, BC901, CMD31, E12, TRNBC900, 9D</description>
@@ -300,12 +306,6 @@
       <description>2300 BLOCK DIXON RD Radio: 9C Units: E231, FS23, 9C</description>
       <guid isPermaLink="false">2024-10-28 14:26:00</guid>
       <pubDate>Mon, 28 Oct 2024 14:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:24 pm</title>
-      <description>1700 BLOCK KINGFISHER DR, Bldg:C, GIANT FOOD - THE SHOPS AT MONOCACY Radio: 9B Units: 9B, E111, FS29, A299</description>
-      <guid isPermaLink="false">2024-10-28 14:24:00</guid>
-      <pubDate>Mon, 28 Oct 2024 14:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
