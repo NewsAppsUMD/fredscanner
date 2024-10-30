@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 00:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 01:00:33 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 8:53 pm</title>
+      <description>W SEVENTH ST / RT15, W SEVENTH ST / RT15 Radio: 9D Units: A29, ALS20, E501, EMS902, 9D</description>
+      <guid isPermaLink="false">2024-10-29 20:53:00</guid>
+      <pubDate>Tue, 29 Oct 2024 20:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:48 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R2, 9C</description>
+      <guid isPermaLink="false">2024-10-29 20:48:00</guid>
+      <pubDate>Tue, 29 Oct 2024 20:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:14 pm</title>
       <description>3200 BLOCK HYDE PARK CT Radio: 9C Units: 9C, E141, FS14</description>
@@ -294,18 +306,6 @@
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: WILDLAND7, BTF, BR216, BR125, FS21, BR16, BR75, E212, K21, A89, BR85, WCBR7, BR106, WCBR6, TAC1OPS, BC903, WCBR10</description>
       <guid isPermaLink="false">2024-10-28 12:07:00</guid>
       <pubDate>Mon, 28 Oct 2024 12:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 12:02 pm</title>
-      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: WILDLAND7, BTF, BR216, BR125, W21, FS21, BR75, E212, K21, A89, BR85, WCBR7, WCBR6, TAC1OPS, BC903, WCBR10</description>
-      <guid isPermaLink="false">2024-10-28 12:02:00</guid>
-      <pubDate>Mon, 28 Oct 2024 12:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:39 am</title>
-      <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Radio: 9C Units: E231, PE311, T23, K23, E331, T4, 9C</description>
-      <guid isPermaLink="false">2024-10-28 11:39:00</guid>
-      <pubDate>Mon, 28 Oct 2024 11:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
