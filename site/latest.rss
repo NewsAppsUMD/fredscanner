@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 08:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 08:16:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:00 am</title>
+      <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD Units: R10, EK224, A229</description>
+      <guid isPermaLink="false">2024-10-30 04:00:00</guid>
+      <pubDate>Wed, 30 Oct 2024 04:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:55 am</title>
       <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD Units: EK224, FS22, A229</description>
@@ -300,12 +306,6 @@
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR35, WILDLAND7, BTF, BR216, BR125, WCE102, WCBR9, BR16, BR75, E212, E72, K21, A89, BR85, BR106, WCBR7, WCBR27, TAC1OPS, BC903</description>
       <guid isPermaLink="false">2024-10-28 12:22:00</guid>
       <pubDate>Mon, 28 Oct 2024 12:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 12:15 pm</title>
-      <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, BR35, WILDLAND7, BTF, BR216, BR125, WCBR9, BR16, BR75, E212, K21, A89, BR85, BR106, WCBR7, WCBR27, TAC1OPS, BC903</description>
-      <guid isPermaLink="false">2024-10-28 12:15:00</guid>
-      <pubDate>Mon, 28 Oct 2024 12:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
