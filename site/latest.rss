@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Oct 2024 12:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 13:07:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:00 am</title>
+      <description>200 BLOCK MADISON ST, LINCOLN ELEMENTARY SCHOOL Units: T4, E31</description>
+      <guid isPermaLink="false">2024-10-30 09:00:00</guid>
+      <pubDate>Wed, 30 Oct 2024 09:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:57 am</title>
+      <description>BURKITTSVILLE RD / JEFFERSON PIKE Radio: 9B Units: RE52, FS05, A198, 9B</description>
+      <guid isPermaLink="false">2024-10-30 08:57:00</guid>
+      <pubDate>Wed, 30 Oct 2024 08:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:48 am</title>
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9B Units: A229, EK224, FS22, 9B</description>
@@ -294,18 +306,6 @@
       <description>LOY WOLFE RD / DOG RD Radio: TAC1OPS Units: E82, K7, WILDLAND7, BTF, EMSUTV30, BR216, BR125, WCBR9, BR16, BR75, K21, A89, BR106, WCBR27, TAC1OPS, BC903, CAN1</description>
       <guid isPermaLink="false">2024-10-28 13:04:00</guid>
       <pubDate>Mon, 28 Oct 2024 13:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:43 pm</title>
-      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E152</description>
-      <guid isPermaLink="false">2024-10-28 12:43:00</guid>
-      <pubDate>Mon, 28 Oct 2024 12:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:41 pm</title>
-      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:44, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E12, E31, R3, 9C</description>
-      <guid isPermaLink="false">2024-10-28 12:41:00</guid>
-      <pubDate>Mon, 28 Oct 2024 12:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
