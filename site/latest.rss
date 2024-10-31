@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 09:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 09:33:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:23 am</title>
+      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Radio: 9D Units: E111, ALS29, EMS902, FS11, 9D, R24, A249</description>
+      <guid isPermaLink="false">2024-10-31 05:23:00</guid>
+      <pubDate>Thu, 31 Oct 2024 05:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 10:48 pm</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E221, TW1, R10, T50, EK224, K22, K10, 9C, PE23, PE102, SAF901, FS22, A229, ALS30, BC902, E291, E162, E111, EK114, BC901</description>
@@ -300,12 +306,6 @@
       <description>W GREENLEAF DR / EDGEWOOD CHURCH RD Radio: 9C Units: 9C, E12</description>
       <guid isPermaLink="false">2024-10-28 19:21:00</guid>
       <pubDate>Mon, 28 Oct 2024 19:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:09 pm</title>
-      <description>100 BLOCK CAPRICORN RD Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2024-10-28 18:09:00</guid>
-      <pubDate>Mon, 28 Oct 2024 18:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
