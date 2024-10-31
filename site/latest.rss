@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 22:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 22:42:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:33 pm</title>
+      <description>100 BLOCK W FREDERICK ST, WALKERSVILLE MIDDLE SCHOOL Radio: 9C Units: E111, TW1, FS11, 9C</description>
+      <guid isPermaLink="false">2024-10-31 18:33:00</guid>
+      <pubDate>Thu, 31 Oct 2024 18:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 5:52 pm</title>
       <description>100 BLOCK W J ST Radio: 9C Units: E51, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9B Units: A229, EK224, FS22, 9B</description>
       <guid isPermaLink="false">2024-10-30 04:48:00</guid>
       <pubDate>Wed, 30 Oct 2024 04:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:00 am</title>
-      <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD Units: R10, EK224, A229</description>
-      <guid isPermaLink="false">2024-10-30 04:00:00</guid>
-      <pubDate>Wed, 30 Oct 2024 04:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
