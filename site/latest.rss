@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Oct 2024 23:03:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 23:15:18 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:03 pm</title>
+      <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9B Units: R10, FS10, A307, 9B</description>
+      <guid isPermaLink="false">2024-10-31 19:03:00</guid>
+      <pubDate>Thu, 31 Oct 2024 19:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:33 pm</title>
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE MIDDLE SCHOOL Radio: 9C Units: E111, TW1, FS11, 9C</description>
@@ -300,12 +306,6 @@
       <description>BURKITTSVILLE RD / JEFFERSON PIKE Radio: 9B Units: RE52, FS05, A198, 9B</description>
       <guid isPermaLink="false">2024-10-30 08:57:00</guid>
       <pubDate>Wed, 30 Oct 2024 08:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:48 am</title>
-      <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9B Units: A229, EK224, FS22, 9B</description>
-      <guid isPermaLink="false">2024-10-30 04:48:00</guid>
-      <pubDate>Wed, 30 Oct 2024 04:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
