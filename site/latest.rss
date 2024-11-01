@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 20:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 20:51:19 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:40 pm</title>
+      <description>SANDY HOOK RD AT MD HEIGHTS OVERLOOK Units: ALS20, RE52, A196</description>
+      <guid isPermaLink="false">2024-11-01 16:40:00</guid>
+      <pubDate>Fri, 01 Nov 2024 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:10 pm</title>
       <description>500 BLOCK S MAIN ST, STATION FC005 - MONT ALTO FD Units: E132, E101, E61</description>
@@ -300,12 +306,6 @@
       <description>S MARKET ST / W PATRICK ST Radio: 9B Units: A18, E31, 9B</description>
       <guid isPermaLink="false">2024-10-31 10:36:00</guid>
       <pubDate>Thu, 31 Oct 2024 10:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:25 am</title>
-      <description>3200 BLOCK GRAYMARSH CT Radio: 9C Units: E251, 9C, FS25</description>
-      <guid isPermaLink="false">2024-10-31 10:25:00</guid>
-      <pubDate>Thu, 31 Oct 2024 10:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
