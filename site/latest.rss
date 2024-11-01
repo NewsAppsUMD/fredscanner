@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 18:29:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:39:39 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:32 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: CCE142, EK114</description>
+      <guid isPermaLink="false">2024-11-01 14:32:00</guid>
+      <pubDate>Fri, 01 Nov 2024 14:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:19 pm</title>
       <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BC902, BR176, K17, BR156, C17, CCE12, BR175, 9C, CMD17, E251, CCK1, E152</description>
@@ -300,12 +306,6 @@
       <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E221, TW1, FS22, 9C</description>
       <guid isPermaLink="false">2024-10-30 22:41:00</guid>
       <pubDate>Wed, 30 Oct 2024 22:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:49 pm</title>
-      <description>6100 BLOCK MURRAY TER Radio: 9C Units: 9C, E12, PE311, T4</description>
-      <guid isPermaLink="false">2024-10-30 21:49:00</guid>
-      <pubDate>Wed, 30 Oct 2024 21:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
