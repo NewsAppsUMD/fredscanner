@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 20:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 20:15:12 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:10 pm</title>
+      <description>500 BLOCK S MAIN ST, STATION FC005 - MONT ALTO FD Units: E132, E101, E61</description>
+      <guid isPermaLink="false">2024-11-01 16:10:00</guid>
+      <pubDate>Fri, 01 Nov 2024 16:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 4:07 pm</title>
+      <description>1600 BLOCK MONUMENT RD Radio: 9C Units: R8, 9C</description>
+      <guid isPermaLink="false">2024-11-01 16:07:00</guid>
+      <pubDate>Fri, 01 Nov 2024 16:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:59 pm</title>
       <description>500 BLOCK S MAIN ST, STATION FC005 - MONT ALTO FD Units: E132, E61</description>
@@ -294,18 +306,6 @@
       <description>3200 BLOCK GRAYMARSH CT Radio: 9C Units: E251, 9C, FS25</description>
       <guid isPermaLink="false">2024-10-31 10:25:00</guid>
       <pubDate>Thu, 31 Oct 2024 10:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:25 am</title>
-      <description>NOLANDS FERRY PICNIC AREA, NOLANDS FERRY PICNIC AREA Radio: 9C Units: BR145, FS14, 9C</description>
-      <guid isPermaLink="false">2024-10-31 09:25:00</guid>
-      <pubDate>Thu, 31 Oct 2024 09:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 8:27 am</title>
-      <description>1400 BLOCK KEY PKWY, Bldg:B, Apt/Unit:202, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Radio: 9C Units: 9C, E12, E31, T4</description>
-      <guid isPermaLink="false">2024-10-31 08:27:00</guid>
-      <pubDate>Thu, 31 Oct 2024 08:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
