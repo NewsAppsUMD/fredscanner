@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 Nov 2024 18:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:29:01 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 2:19 pm</title>
+      <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BC902, BR176, K17, BR156, C17, CCE12, BR175, 9C, CMD17, E251, CCK1, E152</description>
+      <guid isPermaLink="false">2024-11-01 14:19:00</guid>
+      <pubDate>Fri, 01 Nov 2024 14:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:12 pm</title>
+      <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BC902, BR176, K17, BR156, C17, CCE12, BR175, 9C, CMD17, E251, E152</description>
+      <guid isPermaLink="false">2024-11-01 14:12:00</guid>
+      <pubDate>Fri, 01 Nov 2024 14:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:06 pm</title>
       <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BR176, K17, BR156, C17, BR175, 9C, E152</description>
@@ -294,18 +306,6 @@
       <description>6100 BLOCK MURRAY TER Radio: 9C Units: 9C, E12, PE311, T4</description>
       <guid isPermaLink="false">2024-10-30 21:49:00</guid>
       <pubDate>Wed, 30 Oct 2024 21:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:41 pm</title>
-      <description>1700 BLOCK HEATHER LN Radio: 9B Units: T50, E291, 9B</description>
-      <guid isPermaLink="false">2024-10-30 19:41:00</guid>
-      <pubDate>Wed, 30 Oct 2024 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:29 pm</title>
-      <description>9000 BLOCK MYERSVILLE RD Radio: 9B Units: 9B, A89, R8</description>
-      <guid isPermaLink="false">2024-10-30 19:29:00</guid>
-      <pubDate>Wed, 30 Oct 2024 19:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
