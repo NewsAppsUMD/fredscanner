@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Nov 2024 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 21:14:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:05 pm</title>
+      <description>FINGERBOARD RD / URBANA CHURCH PASS Radio: 9B Units: 9B, A238, E231, FS23</description>
+      <guid isPermaLink="false">2024-11-03 16:05:00</guid>
+      <pubDate>Sun, 03 Nov 2024 16:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:33 pm</title>
       <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, RT340WB / RT180 Radio: 9D Units: E11, E201, A209, R2, A19, ALS4, BC903, EMS901, 9D</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: CCE142, EK114</description>
       <guid isPermaLink="false">2024-11-01 14:32:00</guid>
       <pubDate>Fri, 01 Nov 2024 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:19 pm</title>
-      <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BC902, BR176, K17, BR156, C17, CCE12, BR175, 9C, CMD17, E251, CCK1, E152</description>
-      <guid isPermaLink="false">2024-11-01 14:19:00</guid>
-      <pubDate>Fri, 01 Nov 2024 14:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
