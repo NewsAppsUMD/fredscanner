@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Nov 2024 04:15:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 04:27:33 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 12:21 am</title>
+      <description>1800 BLOCK GLICK PL, Apt/Unit:B, FORT DETRICK - BLDG 1800 BLOCK Radio: 9C Units: E501, 9C, E11, T50, BC950, FS50</description>
+      <guid isPermaLink="false">2024-11-03 00:21:00</guid>
+      <pubDate>Sun, 03 Nov 2024 00:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:00 am</title>
       <description>15600 BLOCK OLD FREDERICK RD Radio: 9C Units: BR65, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK GLISSANS MILL RD Radio: 9C Units: RE171, BR176, K17, C17, BR175, 9C</description>
       <guid isPermaLink="false">2024-11-01 14:00:00</guid>
       <pubDate>Fri, 01 Nov 2024 14:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:59 pm</title>
-      <description>1800 BLOCK MEADOWGROVE LN Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2024-11-01 13:59:00</guid>
-      <pubDate>Fri, 01 Nov 2024 13:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
