@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Nov 2024 00:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 01:00:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:49 pm</title>
+      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE Radio: 9B Units: R6, E61, A68, 9B</description>
+      <guid isPermaLink="false">2024-11-02 20:49:00</guid>
+      <pubDate>Sat, 02 Nov 2024 20:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:44 pm</title>
+      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE Radio: 9B Units: A68, E61, FS06, 9B</description>
+      <guid isPermaLink="false">2024-11-02 20:44:00</guid>
+      <pubDate>Sat, 02 Nov 2024 20:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 7:24 pm</title>
       <description>100 BLOCK THIRD ST, STATION 16 Radio: 9I Units: E162, FS16, 9I</description>
@@ -294,18 +306,6 @@
       <description>RT17 / I70, RT17 / I70 Radio: 9B Units: A89, R8, 9B</description>
       <guid isPermaLink="false">2024-11-01 08:01:00</guid>
       <pubDate>Fri, 01 Nov 2024 08:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:05 am</title>
-      <description>MAPLE DR / BOUNDARY AVE Units: PE102, FS10</description>
-      <guid isPermaLink="false">2024-11-01 05:05:00</guid>
-      <pubDate>Fri, 01 Nov 2024 05:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:48 am</title>
-      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Units: E201, FS20, T4</description>
-      <guid isPermaLink="false">2024-11-01 01:48:00</guid>
-      <pubDate>Fri, 01 Nov 2024 01:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
