@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 12:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:16:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:13 am</title>
+      <description>700 BLOCK N MARKET ST Radio: 9C Units: PE23, T4, 9C</description>
+      <guid isPermaLink="false">2024-11-04 07:13:00</guid>
+      <pubDate>Mon, 04 Nov 2024 07:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:22 am</title>
       <description>6200 BLOCK DISPATCH WAY Radio: 9C Units: FS31, PE311, 9C</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK BUCKLEY DR Radio: 9C Units: E201, 9C</description>
       <guid isPermaLink="false">2024-11-02 03:05:00</guid>
       <pubDate>Sat, 02 Nov 2024 03:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:24 am</title>
-      <description>BETHEL RD / OPOSSUMTOWN PIKE Radio: 9D Units: R24, A229, ALS29, BC902, EMS902, 9D, C22, E291, R2, FS22, E221</description>
-      <guid isPermaLink="false">2024-11-02 02:24:00</guid>
-      <pubDate>Sat, 02 Nov 2024 02:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
