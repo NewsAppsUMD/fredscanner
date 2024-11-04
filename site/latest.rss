@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 13:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 13:19:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 8:14 am</title>
+      <description>400 BLOCK S JEFFERSON ST, GABES Radio: 9C Units: E31, 9C</description>
+      <guid isPermaLink="false">2024-11-04 08:14:00</guid>
+      <pubDate>Mon, 04 Nov 2024 08:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:10 am</title>
+      <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: A249, ALS2, R2, BC902, EMS902, 9D, E111</description>
+      <guid isPermaLink="false">2024-11-04 08:10:00</guid>
+      <pubDate>Mon, 04 Nov 2024 08:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:06 am</title>
+      <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: A249, ALS2, R24, BC902, EMS902, 9D, E111</description>
+      <guid isPermaLink="false">2024-11-04 08:06:00</guid>
+      <pubDate>Mon, 04 Nov 2024 08:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:13 am</title>
       <description>700 BLOCK N MARKET ST Radio: 9C Units: PE23, T4, 9C</description>
@@ -288,24 +306,6 @@
       <description>8000 BLOCK BALL RD Radio: 9B Units: A238, 9B, E231, R3, ALS23, EMS901, FS23</description>
       <guid isPermaLink="false">2024-11-02 08:47:00</guid>
       <pubDate>Sat, 02 Nov 2024 08:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:44 am</title>
-      <description>8000 BLOCK BALL RD Radio: 9B Units: A238, FS23, 9B, E231</description>
-      <guid isPermaLink="false">2024-11-02 08:44:00</guid>
-      <pubDate>Sat, 02 Nov 2024 08:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:01 am</title>
-      <description>DOLLYHYDE RD / MAPLEVILLE RD Radio: 9C Units: 9C, BR175, FS17</description>
-      <guid isPermaLink="false">2024-11-02 07:01:00</guid>
-      <pubDate>Sat, 02 Nov 2024 07:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 3:05 am</title>
-      <description>3600 BLOCK BUCKLEY DR Radio: 9C Units: E201, 9C</description>
-      <guid isPermaLink="false">2024-11-02 03:05:00</guid>
-      <pubDate>Sat, 02 Nov 2024 03:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
