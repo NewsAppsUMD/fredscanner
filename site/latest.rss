@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Nov 2024 23:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 00:07:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:50 pm</title>
+      <description>ELMER DERR RD / ELMER RD Radio: 9B Units: A209, R20, 9B, EK204</description>
+      <guid isPermaLink="false">2024-11-03 18:50:00</guid>
+      <pubDate>Sun, 03 Nov 2024 18:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:47 pm</title>
       <description>AMERICAN HOLLY DR / STRIPED MAPLE ST Radio: 9C Units: 9C, E11, FS31</description>
@@ -300,12 +306,6 @@
       <description>SANDY HOOK RD AT MD HEIGHTS OVERLOOK Units: ALS20, RE52, A196</description>
       <guid isPermaLink="false">2024-11-01 16:40:00</guid>
       <pubDate>Fri, 01 Nov 2024 16:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:10 pm</title>
-      <description>500 BLOCK S MAIN ST, STATION FC005 - MONT ALTO FD Units: E132, E101, E61</description>
-      <guid isPermaLink="false">2024-11-01 16:10:00</guid>
-      <pubDate>Fri, 01 Nov 2024 16:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
