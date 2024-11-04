@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Nov 2024 00:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 00:33:41 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:20 pm</title>
+      <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: 9C, CMD31, A318, ALS31, HMSU33, BC903, SAF901, PE311, E201, R14, T4</description>
+      <guid isPermaLink="false">2024-11-03 19:20:00</guid>
+      <pubDate>Sun, 03 Nov 2024 19:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:09 pm</title>
+      <description>4600 BLOCK IRIS CT, TRO Radio: 91C Units: E251, FS25, 91C</description>
+      <guid isPermaLink="false">2024-11-03 19:09:00</guid>
+      <pubDate>Sun, 03 Nov 2024 19:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:50 pm</title>
       <description>ELMER DERR RD / ELMER RD Radio: 9B Units: A209, R20, 9B, EK204</description>
@@ -294,18 +306,6 @@
       <description>RT40 / OLD CAMP RD, RT40 / OLD CAMP RD Radio: 9B Units: A129, E121, 9B</description>
       <guid isPermaLink="false">2024-11-01 17:23:00</guid>
       <pubDate>Fri, 01 Nov 2024 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:13 pm</title>
-      <description>500 BLOCK S MAIN ST, STATION FC005 - MONT ALTO FD Units: K21</description>
-      <guid isPermaLink="false">2024-11-01 17:13:00</guid>
-      <pubDate>Fri, 01 Nov 2024 17:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 4:40 pm</title>
-      <description>SANDY HOOK RD AT MD HEIGHTS OVERLOOK Units: ALS20, RE52, A196</description>
-      <guid isPermaLink="false">2024-11-01 16:40:00</guid>
-      <pubDate>Fri, 01 Nov 2024 16:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
