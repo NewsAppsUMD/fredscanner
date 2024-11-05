@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 10:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 10:51:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 am</title>
+      <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Radio: 9D Units: E232, BC901, EMS901, FS23, PE735, A238, A735, ALS23, 9D, PRE709, R729</description>
+      <guid isPermaLink="false">2024-11-05 05:43:00</guid>
+      <pubDate>Tue, 05 Nov 2024 05:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:38 am</title>
       <description>100 BLOCK BLK RAMP RT17 TO RT34100 BLOCKEB RAMP Radio: 9B Units: A196, RE52, FS05, 9B</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: PE311, 9C, E141, R3, FS31</description>
       <guid isPermaLink="false">2024-11-03 11:14:00</guid>
       <pubDate>Sun, 03 Nov 2024 11:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:20 am</title>
-      <description>5600 BLOCK BOYERS MILL RD Radio: 9C Units: E152, FS15, 9C</description>
-      <guid isPermaLink="false">2024-11-03 01:20:00</guid>
-      <pubDate>Sun, 03 Nov 2024 01:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
