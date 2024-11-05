@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 19:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 20:02:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:54 pm</title>
+      <description>8600 BLOCK HORNETS NEST RD Radio: 9C Units: FRE191, E61, 9C, K10, BR65, BR106, CMD6, BC902</description>
+      <guid isPermaLink="false">2024-11-05 14:54:00</guid>
+      <pubDate>Tue, 05 Nov 2024 14:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 2:43 pm</title>
       <description>8600 BLOCK HORNETS NEST RD Radio: 9C Units: E61, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>ELMER DERR RD / ELMER RD Radio: 9B Units: A209, R20, 9B, EK204</description>
       <guid isPermaLink="false">2024-11-03 18:50:00</guid>
       <pubDate>Sun, 03 Nov 2024 18:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:47 pm</title>
-      <description>AMERICAN HOLLY DR / STRIPED MAPLE ST Radio: 9C Units: 9C, E11, FS31</description>
-      <guid isPermaLink="false">2024-11-03 18:47:00</guid>
-      <pubDate>Sun, 03 Nov 2024 18:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
