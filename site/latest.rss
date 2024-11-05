@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 07:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 07:14:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:07 am</title>
+      <description>I70EB / 40MM, I70EB / 40MM Radio: 9B Units: WCE162, E72, R8, WCA756, A89, ALS8, BC903, EMS901, 9B</description>
+      <guid isPermaLink="false">2024-11-05 02:07:00</guid>
+      <pubDate>Tue, 05 Nov 2024 02:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:32 am</title>
       <description>5400 BLOCK MOUNT ZION RD, HUMAN DEVELOPMENT COUNCIL Radio: 9C Units: T4, FS20, 9C, E201</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK GLICK PL, Apt/Unit:B, FORT DETRICK - BLDG 1800 BLOCK Radio: 9C Units: E501, 9C, E11, T50, BC950, FS50</description>
       <guid isPermaLink="false">2024-11-03 00:21:00</guid>
       <pubDate>Sun, 03 Nov 2024 00:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:00 am</title>
-      <description>15600 BLOCK OLD FREDERICK RD Radio: 9C Units: BR65, FS06, 9C</description>
-      <guid isPermaLink="false">2024-11-03 00:00:00</guid>
-      <pubDate>Sun, 03 Nov 2024 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
