@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Nov 2024 04:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 04:15:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:00 pm</title>
+      <description>500 BLOCK PROSPECT BLVD, Bldg:B, Apt/Unit:B9, JEFFERSON CHASE CONDOS - 500 BLOCKB PROSPECT BLVD Units: E31, T4</description>
+      <guid isPermaLink="false">2024-11-04 23:00:00</guid>
+      <pubDate>Mon, 04 Nov 2024 23:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 10:00 pm</title>
       <description>1300 BLOCK W PATRICK ST, FREDERICK TOWNE MALL Units: E11</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK MATLOCK LN Radio: 9B Units: E291, R24, A247, A299, 9B, ALS2, EMS902</description>
       <guid isPermaLink="false">2024-11-02 22:15:00</guid>
       <pubDate>Sat, 02 Nov 2024 22:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 10:14 pm</title>
-      <description>400 BLOCK MATLOCK LN Radio: 9B Units: E291, R24, A247, A299, 9B, FS29</description>
-      <guid isPermaLink="false">2024-11-02 22:14:00</guid>
-      <pubDate>Sat, 02 Nov 2024 22:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
