@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 00:07:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 00:31:27 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 7:13 pm</title>
+      <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7204, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, FS33, 9C</description>
+      <guid isPermaLink="false">2024-11-05 19:13:00</guid>
+      <pubDate>Tue, 05 Nov 2024 19:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:44 pm</title>
       <description>100 BLOCK KEY PKWY Radio: 9C Units: T4, 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: A249, ALS2, R2, BC902, EMS902, 9D, E111</description>
       <guid isPermaLink="false">2024-11-04 08:10:00</guid>
       <pubDate>Mon, 04 Nov 2024 08:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:06 am</title>
-      <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: A249, ALS2, R24, BC902, EMS902, 9D, E111</description>
-      <guid isPermaLink="false">2024-11-04 08:06:00</guid>
-      <pubDate>Mon, 04 Nov 2024 08:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
