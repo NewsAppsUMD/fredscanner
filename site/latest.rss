@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 20:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 20:15:11 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 3:09 pm</title>
+      <description>CHESTNUT HILL RD / CONKLIN WAY Units: WILDLAND7</description>
+      <guid isPermaLink="false">2024-11-06 15:09:00</guid>
+      <pubDate>Wed, 06 Nov 2024 15:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:02 pm</title>
+      <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: E72</description>
+      <guid isPermaLink="false">2024-11-06 15:02:00</guid>
+      <pubDate>Wed, 06 Nov 2024 15:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:31 pm</title>
       <description>100 BLOCK RIVER ROCK RUN Units: E51</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK PROSPECT BLVD, Bldg:B, Apt/Unit:B9, JEFFERSON CHASE CONDOS - 500 BLOCKB PROSPECT BLVD Units: E31, T4</description>
       <guid isPermaLink="false">2024-11-04 23:00:00</guid>
       <pubDate>Mon, 04 Nov 2024 23:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 10:00 pm</title>
-      <description>1300 BLOCK W PATRICK ST, FREDERICK TOWNE MALL Units: E11</description>
-      <guid isPermaLink="false">2024-11-04 22:00:00</guid>
-      <pubDate>Mon, 04 Nov 2024 22:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:07 pm</title>
-      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Units: E232, PE311, R3, A318, A238, FS31</description>
-      <guid isPermaLink="false">2024-11-04 20:07:00</guid>
-      <pubDate>Mon, 04 Nov 2024 20:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
