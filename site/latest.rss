@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 22:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 23:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
+      <description>1700 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: 9B, A149, E141, FS14</description>
+      <guid isPermaLink="false">2024-11-06 17:54:00</guid>
+      <pubDate>Wed, 06 Nov 2024 17:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:27 pm</title>
       <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E331, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Radio: 9D Units: E232, BC901, EMS901, FS23, PE735, A238, A735, ALS23, 9D, PRE709, R729</description>
       <guid isPermaLink="false">2024-11-05 05:43:00</guid>
       <pubDate>Tue, 05 Nov 2024 05:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:38 am</title>
-      <description>100 BLOCK BLK RAMP RT17 TO RT34100 BLOCKEB RAMP Radio: 9B Units: A196, RE52, FS05, 9B</description>
-      <guid isPermaLink="false">2024-11-05 05:38:00</guid>
-      <pubDate>Tue, 05 Nov 2024 05:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
