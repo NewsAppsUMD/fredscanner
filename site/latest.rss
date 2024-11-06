@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 22:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 22:35:07 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:27 pm</title>
+      <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E331, FS15, 9C</description>
+      <guid isPermaLink="false">2024-11-06 17:27:00</guid>
+      <pubDate>Wed, 06 Nov 2024 17:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:26 pm</title>
+      <description>200 BLOCK E SIXTH ST, UP THE ALY Radio: 9B Units: BR35, 9B</description>
+      <guid isPermaLink="false">2024-11-06 17:26:00</guid>
+      <pubDate>Wed, 06 Nov 2024 17:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:37 pm</title>
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE MIDDLE SCHOOL Radio: 9C Units: TW1, FS11, 9C, E111</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP RT17 TO RT34100 BLOCKEB RAMP Radio: 9B Units: A196, RE52, FS05, 9B</description>
       <guid isPermaLink="false">2024-11-05 05:38:00</guid>
       <pubDate>Tue, 05 Nov 2024 05:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:07 am</title>
-      <description>I70EB / 40MM, I70EB / 40MM Radio: 9B Units: WCE162, E72, R8, WCA756, A89, ALS8, BC903, EMS901, 9B</description>
-      <guid isPermaLink="false">2024-11-05 02:07:00</guid>
-      <pubDate>Tue, 05 Nov 2024 02:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:32 am</title>
-      <description>5400 BLOCK MOUNT ZION RD, HUMAN DEVELOPMENT COUNCIL Radio: 9C Units: T4, FS20, 9C, E201</description>
-      <guid isPermaLink="false">2024-11-05 00:32:00</guid>
-      <pubDate>Tue, 05 Nov 2024 00:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
