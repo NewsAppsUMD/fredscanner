@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 19:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 19:14:22 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 2:04 pm</title>
+      <description>SANDY HOOK / HARPERS FERRY RD Units: BR55, R20, T5</description>
+      <guid isPermaLink="false">2024-11-06 14:04:00</guid>
+      <pubDate>Wed, 06 Nov 2024 14:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 2:04 pm</title>
+      <description>SANDY HOOK / HARPERS FERRY RD Units: BR55, T5</description>
+      <guid isPermaLink="false">2024-11-06 14:04:00</guid>
+      <pubDate>Wed, 06 Nov 2024 14:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:02 pm</title>
       <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: FS16, E162, 9C</description>
@@ -294,18 +306,6 @@
       <description>5400 BLOCK JEFFERSON BLVD Units: A209, E201, FS12</description>
       <guid isPermaLink="false">2024-11-04 19:05:00</guid>
       <pubDate>Mon, 04 Nov 2024 19:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:58 pm</title>
-      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9C Units: FS10, 9C, PE102</description>
-      <guid isPermaLink="false">2024-11-04 17:58:00</guid>
-      <pubDate>Mon, 04 Nov 2024 17:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:08 pm</title>
-      <description>1700 BLOCK EAGLE ROCK LN Radio: 9C Units: E11, T4, 9C</description>
-      <guid isPermaLink="false">2024-11-04 17:08:00</guid>
-      <pubDate>Mon, 04 Nov 2024 17:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
