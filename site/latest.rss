@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 19:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 20:02:14 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 2:57 pm</title>
+      <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: BC902, PE102, K10, SU51, CMD10, BTF, E212, A229, BR96, ACBR231, FS10, BR216, BR135, WCBR7, K21, BR65, BR106, DNRPARKS709, BR226, W10, 9C</description>
+      <guid isPermaLink="false">2024-11-07 14:57:00</guid>
+      <pubDate>Thu, 07 Nov 2024 14:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:27 pm</title>
       <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: PE102, K10, BR216, K21, K22, BR65, BR106, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W SOUTH ST Radio: 9C Units: TT23, 9C, E11</description>
       <guid isPermaLink="false">2024-11-06 07:57:00</guid>
       <pubDate>Wed, 06 Nov 2024 07:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:47 am</title>
-      <description>100 BLOCK E THIRD ST Units: HMSU33, BC901, HM33, E31</description>
-      <guid isPermaLink="false">2024-11-06 07:47:00</guid>
-      <pubDate>Wed, 06 Nov 2024 07:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
