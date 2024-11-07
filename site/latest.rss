@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 15:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 15:14:56 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:01 am</title>
+      <description>13500 BLOCK JIMTOWN RD Radio: 9B Units: A309, E102, 9B</description>
+      <guid isPermaLink="false">2024-11-07 10:01:00</guid>
+      <pubDate>Thu, 07 Nov 2024 10:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 9:32 am</title>
       <description>RT15NB / HESSONG BRIDGE RD, RT15NB / HESSONG BRIDGE RD Radio: 9D Units: BC902, EMS902, FS22, 9D, E111, R10, A229, ALS2, EK224</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7204, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, FS33, 9C</description>
       <guid isPermaLink="false">2024-11-05 19:13:00</guid>
       <pubDate>Tue, 05 Nov 2024 19:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:44 pm</title>
-      <description>100 BLOCK KEY PKWY Radio: 9C Units: T4, 9C, E11</description>
-      <guid isPermaLink="false">2024-11-05 18:44:00</guid>
-      <pubDate>Tue, 05 Nov 2024 18:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
