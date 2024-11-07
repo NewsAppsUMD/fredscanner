@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Nov 2024 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 06:15:44 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 1:13 am</title>
+      <description>100 BLOCK WATER ST, THURMONT AUTO PARTS Radio: 9C Units: PE102, 9C</description>
+      <guid isPermaLink="false">2024-11-07 01:13:00</guid>
+      <pubDate>Thu, 07 Nov 2024 01:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:32 am</title>
       <description>1800 BLOCK MEADOWGROVE LN Radio: 9C Units: FS29, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RT340-15, I70WB / RT340-15 Radio: 9D Units: ALS31, E31, E121, R3, A38, A78, BC903, EMS901, 9D, E82</description>
       <guid isPermaLink="false">2024-11-05 15:16:00</guid>
       <pubDate>Tue, 05 Nov 2024 15:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 2:54 pm</title>
-      <description>8600 BLOCK HORNETS NEST RD Radio: 9C Units: FRE191, E61, 9C, K10, BR65, BR106, CMD6, BC902</description>
-      <guid isPermaLink="false">2024-11-05 14:54:00</guid>
-      <pubDate>Tue, 05 Nov 2024 14:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
