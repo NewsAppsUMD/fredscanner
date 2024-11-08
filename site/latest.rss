@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 00:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 01:00:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:50 pm</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E31, T4, 9C</description>
+      <guid isPermaLink="false">2024-11-07 19:50:00</guid>
+      <pubDate>Thu, 07 Nov 2024 19:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 7:39 pm</title>
+      <description>3500 BLOCK HOLBORN PL Radio: 9C Units: FS23, 9C, E232, E251, TT23</description>
+      <guid isPermaLink="false">2024-11-07 19:39:00</guid>
+      <pubDate>Thu, 07 Nov 2024 19:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:10 pm</title>
       <description>MONOCACY BLVD / MILL POND RD Radio: 9B Units: A29, FS29, 9B, E291</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK MILL POND RD, Apt/Unit:A Units: A249, A247, E291, FS29</description>
       <guid isPermaLink="false">2024-11-06 12:52:00</guid>
       <pubDate>Wed, 06 Nov 2024 12:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:34 pm</title>
-      <description>500 BLOCK KLINEHARTS ALY Radio: 9C Units: E23, 9C, T4</description>
-      <guid isPermaLink="false">2024-11-06 12:34:00</guid>
-      <pubDate>Wed, 06 Nov 2024 12:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:10 pm</title>
-      <description>1100 BLOCK LAKIN DR Radio: 9C Units: E291, E501, TW1, FS29, 9C</description>
-      <guid isPermaLink="false">2024-11-06 12:10:00</guid>
-      <pubDate>Wed, 06 Nov 2024 12:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
