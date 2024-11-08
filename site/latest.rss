@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 15:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 15:14:58 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:05 am</title>
+      <description>S WISNER ST / MCCUTCHEON ALY Radio: 9B Units: EMS901, 9B, A39</description>
+      <guid isPermaLink="false">2024-11-08 10:05:00</guid>
+      <pubDate>Fri, 08 Nov 2024 10:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:56 am</title>
       <description>5000 BLOCK MERGANSER CT Radio: 9C Units: PE311, 9C, FS31</description>
@@ -300,12 +306,6 @@
       <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: E72</description>
       <guid isPermaLink="false">2024-11-06 15:02:00</guid>
       <pubDate>Wed, 06 Nov 2024 15:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:31 pm</title>
-      <description>100 BLOCK RIVER ROCK RUN Units: E51</description>
-      <guid isPermaLink="false">2024-11-06 14:31:00</guid>
-      <pubDate>Wed, 06 Nov 2024 14:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
