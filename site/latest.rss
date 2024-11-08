@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 12:50:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 13:05:40 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:56 am</title>
+      <description>5000 BLOCK MERGANSER CT Radio: 9C Units: PE311, 9C, FS31</description>
+      <guid isPermaLink="false">2024-11-08 07:56:00</guid>
+      <pubDate>Fri, 08 Nov 2024 07:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:09 am</title>
       <description>LIBERTY RD / SEBASTIAN BLVD, SEBASTIAN BLVD / RT26 Radio: 9B Units: A249, E111, FS11, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK RIVER ROCK RUN Units: E51</description>
       <guid isPermaLink="false">2024-11-06 14:31:00</guid>
       <pubDate>Wed, 06 Nov 2024 14:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:26 pm</title>
-      <description>3400 BLOCK WINMOOR DR Radio: 9C Units: FS25, E251, 9C</description>
-      <guid isPermaLink="false">2024-11-06 14:26:00</guid>
-      <pubDate>Wed, 06 Nov 2024 14:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
