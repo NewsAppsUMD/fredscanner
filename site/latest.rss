@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Nov 2024 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 22:14:48 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:01 pm</title>
+      <description>10500 BLOCK HESSONG BRIDGE RD Radio: 9C Units: BR226, FS22, 9C</description>
+      <guid isPermaLink="false">2024-11-08 17:01:00</guid>
+      <pubDate>Fri, 08 Nov 2024 17:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:49 pm</title>
       <description>3400 BLOCK WORTHINGTON BLVD, Apt/Unit:STE 204, FREDERICK DERMOTOLOGY Radio: 9C Units: E232, TT23, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>8700 BLOCK ANTIETAM DR Radio: 9C Units: BR116, FS11, 9C</description>
       <guid isPermaLink="false">2024-11-06 20:05:00</guid>
       <pubDate>Wed, 06 Nov 2024 20:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:44 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:L, ELMWOOD TERRACE APTS - BLDG L Units: T4, A19, ALS4, BC903, BC902, E11, R3, E31, E121, PE23, E501, T50, SAF901</description>
-      <guid isPermaLink="false">2024-11-06 19:44:00</guid>
-      <pubDate>Wed, 06 Nov 2024 19:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
