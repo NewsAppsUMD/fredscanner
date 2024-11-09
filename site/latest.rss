@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 17:51:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:02:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
+      <description>3700 BLOCK LANDER RD Radio: 9B Units: A209, E201, FS20, 9B</description>
+      <guid isPermaLink="false">2024-11-09 13:00:00</guid>
+      <pubDate>Sat, 09 Nov 2024 13:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:50 pm</title>
+      <description>GREEN VALLEY RD / LAWSON RD Radio: 9B Units: E251, A259, FS25, 9B</description>
+      <guid isPermaLink="false">2024-11-09 12:50:00</guid>
+      <pubDate>Sat, 09 Nov 2024 12:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:25 pm</title>
       <description>8900 BLOCK KAY ST Radio: 9C Units: 9C, BR16, E291</description>
@@ -294,18 +306,6 @@
       <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: BR106, FS10, 9C</description>
       <guid isPermaLink="false">2024-11-07 14:02:00</guid>
       <pubDate>Thu, 07 Nov 2024 14:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:48 pm</title>
-      <description>100 BLOCK BLK E SIXTH ST Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2024-11-07 12:48:00</guid>
-      <pubDate>Thu, 07 Nov 2024 12:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:01 am</title>
-      <description>13500 BLOCK JIMTOWN RD Radio: 9B Units: A309, E102, 9B</description>
-      <guid isPermaLink="false">2024-11-07 10:01:00</guid>
-      <pubDate>Thu, 07 Nov 2024 10:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
