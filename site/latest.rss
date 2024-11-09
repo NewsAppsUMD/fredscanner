@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Nov 2024 18:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:15:19 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 1:11 pm</title>
+      <description>400 BLOCK DELAWARE RD Units: PE23, T50, A29, ALS2, BC901, BC902, E31, E501, E111, EK114, R24, TT4</description>
+      <guid isPermaLink="false">2024-11-09 13:11:00</guid>
+      <pubDate>Sat, 09 Nov 2024 13:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:02 pm</title>
+      <description>AYNSLEY CT / ROCKY SPRINGS RD Radio: 9C Units: BR16, E291, 9C</description>
+      <guid isPermaLink="false">2024-11-09 13:02:00</guid>
+      <pubDate>Sat, 09 Nov 2024 13:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
       <description>3700 BLOCK LANDER RD Radio: 9B Units: A209, E201, FS20, 9B</description>
@@ -294,18 +306,6 @@
       <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: PE102, K10, BR216, K21, K22, BR65, BR106, 9C</description>
       <guid isPermaLink="false">2024-11-07 14:27:00</guid>
       <pubDate>Thu, 07 Nov 2024 14:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:20 pm</title>
-      <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: PE102, K10, BR216, BR106, 9C</description>
-      <guid isPermaLink="false">2024-11-07 14:20:00</guid>
-      <pubDate>Thu, 07 Nov 2024 14:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:02 pm</title>
-      <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: BR106, FS10, 9C</description>
-      <guid isPermaLink="false">2024-11-07 14:02:00</guid>
-      <pubDate>Thu, 07 Nov 2024 14:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
