@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Nov 2024 06:28:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 06:38:08 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 1:36 am</title>
+      <description>600 BLOCK PEREGRINE LANE Units: WILDLAND7</description>
+      <guid isPermaLink="false">2024-11-10 01:36:00</guid>
+      <pubDate>Sun, 10 Nov 2024 01:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 11:46 pm</title>
       <description>1000 BLOCK W WASHINGTON ST, STATION JC001 - FRIENDSHIP FC Units: E51</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 53 (RT15), I70WB / EXIT 53 Radio: 9D Units: E31, A39, E11, A19, ALS4, 9D, R3, BC901, EMS901</description>
       <guid isPermaLink="false">2024-11-08 18:05:00</guid>
       <pubDate>Fri, 08 Nov 2024 18:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:59 pm</title>
-      <description>FOX CHASE RD / MEADOWLAKE RD Radio: 9C Units: FS15, 9C, BR156</description>
-      <guid isPermaLink="false">2024-11-08 17:59:00</guid>
-      <pubDate>Fri, 08 Nov 2024 17:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
