@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Nov 2024 17:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 17:41:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:34 pm</title>
+      <description>CRESTWOOD BLVD / HOBBLE BUSH CT, Apt/Unit:HTTPS://A91.IO/14BKP Radio: 9B Units: 9B, A318, PE311, FS31</description>
+      <guid isPermaLink="false">2024-11-10 12:34:00</guid>
+      <pubDate>Sun, 10 Nov 2024 12:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:34 am</title>
       <description>2800 BLOCK SHAFF RD Units: T5</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, A19, 9C</description>
       <guid isPermaLink="false">2024-11-09 11:43:00</guid>
       <pubDate>Sat, 09 Nov 2024 11:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:18 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, FREDERICK PRIMARY CARE ASSOCIATES - 100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, T50, FS29, 9C</description>
-      <guid isPermaLink="false">2024-11-09 11:18:00</guid>
-      <pubDate>Sat, 09 Nov 2024 11:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
