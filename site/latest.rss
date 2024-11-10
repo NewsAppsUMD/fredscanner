@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Nov 2024 15:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 15:41:17 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:34 am</title>
+      <description>2800 BLOCK SHAFF RD Units: T5</description>
+      <guid isPermaLink="false">2024-11-10 10:34:00</guid>
+      <pubDate>Sun, 10 Nov 2024 10:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:00 am</title>
       <description>ROSEMONT DR / BURKITTSVILLE RD Units: BR55, FS05</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, FREDERICK PRIMARY CARE ASSOCIATES - 100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, T50, FS29, 9C</description>
       <guid isPermaLink="false">2024-11-09 11:18:00</guid>
       <pubDate>Sat, 09 Nov 2024 11:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE TEST EVENT: 9:08 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, TEST TEST Units: TT4</description>
-      <guid isPermaLink="false">2024-11-09 09:08:00</guid>
-      <pubDate>Sat, 09 Nov 2024 09:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
