@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 07:41:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 07:51:30 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:45 am</title>
+      <description>19800 BLOCK BEALLSVILLE RD, STATION MC714 - UPPER MONTGOMERY Units: E141</description>
+      <guid isPermaLink="false">2024-11-11 02:45:00</guid>
+      <pubDate>Mon, 11 Nov 2024 02:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:42 am</title>
+      <description>21700 BLOCK PEACH TREE RD Units: K23</description>
+      <guid isPermaLink="false">2024-11-11 02:42:00</guid>
+      <pubDate>Mon, 11 Nov 2024 02:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:36 am</title>
       <description>21700 BLOCK PEACH TREE RD Units: K23</description>
@@ -294,18 +306,6 @@
       <description>ED MCCLAIN RD / LANDSDALE BLVD Radio: 9B Units: A259, E251, FS25, 9B</description>
       <guid isPermaLink="false">2024-11-09 16:33:00</guid>
       <pubDate>Sat, 09 Nov 2024 16:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:25 pm</title>
-      <description>11700 BLOCK THOMAS SPRING RD Radio: 9C Units: E251, FS25, 9C</description>
-      <guid isPermaLink="false">2024-11-09 16:25:00</guid>
-      <pubDate>Sat, 09 Nov 2024 16:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:19 pm</title>
-      <description>I70EB / RT17(RT17), I70EB / REST AREA Radio: 9C Units: 9C, BR85, E82</description>
-      <guid isPermaLink="false">2024-11-09 16:19:00</guid>
-      <pubDate>Sat, 09 Nov 2024 16:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
