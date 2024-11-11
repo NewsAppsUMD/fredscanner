@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 17:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:02:28 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:59 pm</title>
+      <description>SOUDER RD / N MAPLE AVE Radio: 9D Units: R19, 9D, E201, A197, ALS20, EMS901, FS05</description>
+      <guid isPermaLink="false">2024-11-11 12:59:00</guid>
+      <pubDate>Mon, 11 Nov 2024 12:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:47 pm</title>
       <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: A159</description>
@@ -300,12 +306,6 @@
       <description>MCKAIG RD / GAS HOUSE PIKE Radio: 9C Units: 9C, BR156, FS15</description>
       <guid isPermaLink="false">2024-11-09 19:50:00</guid>
       <pubDate>Sat, 09 Nov 2024 19:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:43 pm</title>
-      <description>8700 BLOCK TREASURE AVE Radio: 9C Units: E111, 9C, FS11</description>
-      <guid isPermaLink="false">2024-11-09 18:43:00</guid>
-      <pubDate>Sat, 09 Nov 2024 18:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
