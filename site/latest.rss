@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 17:32:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 17:41:25 +0000</lastBuildDate>
+    <item>
+      <title>STABBING - ALS: 12:35 pm</title>
+      <description>1300 BLOCK W SEVENTH ST, MCDONALDS - SEVENTH STREET SHOPPING CENTER Units: A19, ALS2, E501, BC902, EMS902</description>
+      <guid isPermaLink="false">2024-11-11 12:35:00</guid>
+      <pubDate>Mon, 11 Nov 2024 12:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:09 pm</title>
       <description>5400 BLOCK ADAMSTOWN COMMONS DR Units: FS14, E141</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK BUCKEYSTOWN PIKE, HOME2 SUITES Radio: 9C Units: PE311, FS31, R3, 9C</description>
       <guid isPermaLink="false">2024-11-09 18:37:00</guid>
       <pubDate>Sat, 09 Nov 2024 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:34 pm</title>
-      <description>RT75 / OLD NEW MARKET RD, RT75 / OLD NEW MARKET RD Radio: 9B Units: 9B, E153, A159, A259</description>
-      <guid isPermaLink="false">2024-11-09 18:34:00</guid>
-      <pubDate>Sat, 09 Nov 2024 18:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
