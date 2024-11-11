@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 20:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 20:15:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:08 pm</title>
+      <description>5200 BLOCK WESTVIEW DR, COURTYARD BY MARRIOTT Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-11-11 15:08:00</guid>
+      <pubDate>Mon, 11 Nov 2024 15:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:47 pm</title>
       <description>4700 BLOCK MOUNT ZION RD Units: E121, FS12</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK COLONIAL WAY Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-11-09 21:14:00</guid>
       <pubDate>Sat, 09 Nov 2024 21:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 8:51 pm</title>
-      <description>100 BLOCK MILE TRAIL Units: E61, A68</description>
-      <guid isPermaLink="false">2024-11-09 20:51:00</guid>
-      <pubDate>Sat, 09 Nov 2024 20:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
