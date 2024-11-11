@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 18:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:28:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:23 pm</title>
+      <description>RT15SB / TIPPIN DR, RT15SB / TIPPIN DR Units: A307, ALS30, PE102, R10, BC902, EMS902, FS10</description>
+      <guid isPermaLink="false">2024-11-11 13:23:00</guid>
+      <pubDate>Mon, 11 Nov 2024 13:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 12:59 pm</title>
       <description>SOUDER RD / N MAPLE AVE Radio: 9D Units: R19, 9D, E201, A197, ALS20, EMS901, FS05</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK GREENWAY DR, Bldg:A Radio: 9C Units: E11, 9C</description>
       <guid isPermaLink="false">2024-11-09 19:51:00</guid>
       <pubDate>Sat, 09 Nov 2024 19:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:50 pm</title>
-      <description>MCKAIG RD / GAS HOUSE PIKE Radio: 9C Units: 9C, BR156, FS15</description>
-      <guid isPermaLink="false">2024-11-09 19:50:00</guid>
-      <pubDate>Sat, 09 Nov 2024 19:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
