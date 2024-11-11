@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 17:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 17:14:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:09 pm</title>
+      <description>5400 BLOCK ADAMSTOWN COMMONS DR Units: FS14, E141</description>
+      <guid isPermaLink="false">2024-11-11 12:09:00</guid>
+      <pubDate>Mon, 11 Nov 2024 12:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:42 am</title>
       <description>2400 BLOCK HIGHPOINT VIEW CT, Apt/Unit:202, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Radio: 9C Units: E12, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT75 / OLD NEW MARKET RD, RT75 / OLD NEW MARKET RD Radio: 9B Units: 9B, E153, A159, A259</description>
       <guid isPermaLink="false">2024-11-09 18:34:00</guid>
       <pubDate>Sat, 09 Nov 2024 18:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:32 pm</title>
-      <description>12100 BLOCK MAIN ST Radio: 9B Units: FS17, BR175, 9B</description>
-      <guid isPermaLink="false">2024-11-09 18:32:00</guid>
-      <pubDate>Sat, 09 Nov 2024 18:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
