@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Nov 2024 01:00:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 01:43:21 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:22 pm</title>
+      <description>13900 BLOCK PENN SHOP RD Radio: 9B Units: R15, FS25, CCR1, 9B, CCA19</description>
+      <guid isPermaLink="false">2024-11-10 20:22:00</guid>
+      <pubDate>Sun, 10 Nov 2024 20:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:19 pm</title>
+      <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Radio: 9D Units: E232, PE735, PRE709, R729, A239, ALS23, FS23, 9D, A735, BC901, EMS901</description>
+      <guid isPermaLink="false">2024-11-10 20:19:00</guid>
+      <pubDate>Sun, 10 Nov 2024 20:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 6:57 pm</title>
       <description>400 BLOCK N CHURCH ST, SHEETZ - THURMONT Radio: 9C Units: E61, EK224, R10, FS10, 9C</description>
@@ -294,18 +306,6 @@
       <description>14000 BLOCK OLD FREDERICK RD Radio: 9C Units: E132, EK134, BR135, 9C</description>
       <guid isPermaLink="false">2024-11-09 14:52:00</guid>
       <pubDate>Sat, 09 Nov 2024 14:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:16 pm</title>
-      <description>11900 BLOCK SOUTH ST Radio: 9C Units: BR176, FS17, 9C</description>
-      <guid isPermaLink="false">2024-11-09 14:16:00</guid>
-      <pubDate>Sat, 09 Nov 2024 14:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:14 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, CVS PHARMACY - BALLENGER CENTER DR Radio: 9B Units: PE311, FS31, A318, 9B</description>
-      <guid isPermaLink="false">2024-11-09 14:14:00</guid>
-      <pubDate>Sat, 09 Nov 2024 14:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
