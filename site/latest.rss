@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 09:15:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 09:25:51 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:21 am</title>
+      <description>OLD FREDERICK RD / CREAGERSTOWN RD Radio: 9C Units: 9C, E162</description>
+      <guid isPermaLink="false">2024-11-12 04:21:00</guid>
+      <pubDate>Tue, 12 Nov 2024 04:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:51 am</title>
       <description>6100 BLOCK PINE CREST LN Units: PE23, ALS4, BC901, PE311, R3, T4, TW1, A339, BC903, SAF901, FS33, E331, E31, E153</description>
@@ -300,12 +306,6 @@
       <description>ROSEMONT DR / BURKITTSVILLE RD Units: BR55, FS05</description>
       <guid isPermaLink="false">2024-11-10 10:00:00</guid>
       <pubDate>Sun, 10 Nov 2024 10:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:36 am</title>
-      <description>100 BLOCK MOUNTAIN ORE CT Units: FS10, PE102</description>
-      <guid isPermaLink="false">2024-11-10 08:36:00</guid>
-      <pubDate>Sun, 10 Nov 2024 08:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
