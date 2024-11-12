@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Nov 2024 03:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 03:42:18 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:33 pm</title>
+      <description>300 BLOCK PACA GARDENS LN Units: E121</description>
+      <guid isPermaLink="false">2024-11-11 22:33:00</guid>
+      <pubDate>Mon, 11 Nov 2024 22:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:13 pm</title>
       <description>3600 BLOCK SPRING HOLLOW LN Units: E232, E251, TT23, FS23</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK W WASHINGTON ST, STATION JC001 - FRIENDSHIP FC Units: RE52, E201</description>
       <guid isPermaLink="false">2024-11-10 03:09:00</guid>
       <pubDate>Sun, 10 Nov 2024 03:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:43 am</title>
-      <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Radio: 9C Units: E121, BR85, 9C</description>
-      <guid isPermaLink="false">2024-11-10 02:43:00</guid>
-      <pubDate>Sun, 10 Nov 2024 02:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
