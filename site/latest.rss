@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 23:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 23:32:31 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:19 pm</title>
+      <description>5400 BLOCK PRINCE WILLIAM CT Units: FS31, PE311</description>
+      <guid isPermaLink="false">2024-11-19 18:19:00</guid>
+      <pubDate>Tue, 19 Nov 2024 18:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:48 pm</title>
       <description>1900 BLOCK WINDOM CT Units: T50, E291, E501, FS29</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK ALGONQUIN RD Units: E111, FS11</description>
       <guid isPermaLink="false">2024-11-17 15:22:00</guid>
       <pubDate>Sun, 17 Nov 2024 15:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 2:46 pm</title>
-      <description>8600 BLOCK ROCKY RIDGE RD Units: PE102, EK134, BR135, E132</description>
-      <guid isPermaLink="false">2024-11-17 14:46:00</guid>
-      <pubDate>Sun, 17 Nov 2024 14:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
