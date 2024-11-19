@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 21:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 22:02:02 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:49 pm</title>
+      <description>6200 BLOCK STONECAT CT Radio: 9C Units: E153, FS15, 9C</description>
+      <guid isPermaLink="false">2024-11-19 16:49:00</guid>
+      <pubDate>Tue, 19 Nov 2024 16:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:55 pm</title>
       <description>BIGGS FORD RD / W PENNSYLVANIA AVE, IAO 8803 BIGGS FORD RD Radio: 9C Units: BR116, 9C, FS11</description>
@@ -300,12 +306,6 @@
       <description>8600 BLOCK ROCKY RIDGE RD Units: EK134, BR135, E132</description>
       <guid isPermaLink="false">2024-11-17 14:39:00</guid>
       <pubDate>Sun, 17 Nov 2024 14:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:40 pm</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Units: A299, E291, R24, ALS29, BC902, EMS902, E111</description>
-      <guid isPermaLink="false">2024-11-17 13:40:00</guid>
-      <pubDate>Sun, 17 Nov 2024 13:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
