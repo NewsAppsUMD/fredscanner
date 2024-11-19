@@ -32,7 +32,7 @@ url = "https://frederickscanner.com/fredscannerpro/tweets.html"
 # Get the maximum datetime from existing incidents
 max_datetime = read_existing_incidents("incidents.csv")
 
-r = requests.get(url)
+r = requests.get(url, verify=False)
 
 soup = BeautifulSoup(r.text, "html.parser")
 
