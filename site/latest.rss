@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 17:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 17:34:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:27 pm</title>
+      <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: E11, TT4, 9C</description>
+      <guid isPermaLink="false">2024-11-19 12:27:00</guid>
+      <pubDate>Tue, 19 Nov 2024 12:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:02 am</title>
       <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: E12, R3, A19, A39, E31</description>
       <guid isPermaLink="false">2024-11-17 12:11:00</guid>
       <pubDate>Sun, 17 Nov 2024 12:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:27 am</title>
-      <description>14900 BLOCK SABILLASVILLE RD, CAMP AIRY Radio: 9C Units: BR106, 9C</description>
-      <guid isPermaLink="false">2024-11-17 11:27:00</guid>
-      <pubDate>Sun, 17 Nov 2024 11:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
