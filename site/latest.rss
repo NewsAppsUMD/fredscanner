@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 20:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:02:03 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:55 pm</title>
+      <description>BIGGS FORD RD / W PENNSYLVANIA AVE, IAO 8803 BIGGS FORD RD Radio: 9C Units: BR116, 9C, FS11</description>
+      <guid isPermaLink="false">2024-11-19 15:55:00</guid>
+      <pubDate>Tue, 19 Nov 2024 15:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:30 pm</title>
       <description>5800 BLOCK UNION RIDGE DR Radio: 9C Units: E141, 9C, FS14</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Units: A299, E291, R24, ALS29, BC902, EMS902, E111</description>
       <guid isPermaLink="false">2024-11-17 13:40:00</guid>
       <pubDate>Sun, 17 Nov 2024 13:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:39 pm</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Units: A299, E291, FS29</description>
-      <guid isPermaLink="false">2024-11-17 13:39:00</guid>
-      <pubDate>Sun, 17 Nov 2024 13:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
