@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 04:35:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 05:02:01 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:58 pm</title>
+      <description>5800 BLOCK ELMER DERR RD Units: A209, E201</description>
+      <guid isPermaLink="false">2024-11-19 23:58:00</guid>
+      <pubDate>Tue, 19 Nov 2024 23:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:47 pm</title>
       <description>I70WB / QUINN RD, I70WB / QUINN RD Units: E331, A339, FS33</description>
@@ -300,12 +306,6 @@
       <description>APPROX LOC:270S BTWN PARK MILLS RD BRDGE &amp; XOVR HWY Radio: 9B Units: R3, A318, A239, FS31, 9B, E232, TT23, PE311</description>
       <guid isPermaLink="false">2024-11-18 00:46:00</guid>
       <pubDate>Mon, 18 Nov 2024 00:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:59 pm</title>
-      <description>1700 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2024-11-17 21:59:00</guid>
-      <pubDate>Sun, 17 Nov 2024 21:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
