@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 16:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 17:02:01 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:57 am</title>
+      <description>7600 BLOCK MCKAIG RD Radio: 9C Units: FS11, 9C, BR176</description>
+      <guid isPermaLink="false">2024-11-20 11:57:00</guid>
+      <pubDate>Wed, 20 Nov 2024 11:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:18 am</title>
       <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Radio: 9B Units: 9B, A39, E31</description>
@@ -300,12 +306,6 @@
       <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: C3C, CMD31, C1B, EMS901, HM33, SAF901, R2, PE311, E11, R3, A319, A19, BC901</description>
       <guid isPermaLink="false">2024-11-18 09:27:00</guid>
       <pubDate>Mon, 18 Nov 2024 09:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:23 am</title>
-      <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: C3C, CMD31, C1B, EMS901, SAF901, R2, PE311, E11, R3, A319, A19, BC901</description>
-      <guid isPermaLink="false">2024-11-18 09:23:00</guid>
-      <pubDate>Mon, 18 Nov 2024 09:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
