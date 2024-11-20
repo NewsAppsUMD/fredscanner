@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 00:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:29:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:57 pm</title>
+      <description>11300 BLOCK LIBERTY RD, DOLLAR GENERAL - LIBERTYTOWN SHOPPING CENTER Units: E111, RE171, A179, ALS17, BC902, EMS902, FS17</description>
+      <guid isPermaLink="false">2024-11-19 19:57:00</guid>
+      <pubDate>Tue, 19 Nov 2024 19:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:35 pm</title>
       <description>10700 BLOCK LIBERTY RD Radio: 9C Units: BR175, FS17, 9C</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: BR55, FS05, 9C</description>
       <guid isPermaLink="false">2024-11-17 17:37:00</guid>
       <pubDate>Sun, 17 Nov 2024 17:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:19 pm</title>
-      <description>11200 BLOCK ANGLEBERGER RD Units: FS22, BR226</description>
-      <guid isPermaLink="false">2024-11-17 17:19:00</guid>
-      <pubDate>Sun, 17 Nov 2024 17:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
