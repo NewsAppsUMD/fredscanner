@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 05:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 05:34:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:27 am</title>
+      <description>5700 BLOCK ELMER DERR RD Units: R20, A209</description>
+      <guid isPermaLink="false">2024-11-20 00:27:00</guid>
+      <pubDate>Wed, 20 Nov 2024 00:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:58 pm</title>
       <description>5800 BLOCK ELMER DERR RD Units: A209, E201</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / N FRANKLINVILLE RD (N), CANDY KITCHEN Radio: 9C Units: BR106, 9C</description>
       <guid isPermaLink="false">2024-11-18 05:47:00</guid>
       <pubDate>Mon, 18 Nov 2024 05:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:46 am</title>
-      <description>APPROX LOC:270S BTWN PARK MILLS RD BRDGE &amp; XOVR HWY Radio: 9B Units: R3, A318, A239, FS31, 9B, E232, TT23, PE311</description>
-      <guid isPermaLink="false">2024-11-18 00:46:00</guid>
-      <pubDate>Mon, 18 Nov 2024 00:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
