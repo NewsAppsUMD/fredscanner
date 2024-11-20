@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 21:32:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 22:01:56 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - HAZMAT: 4:41 pm</title>
+      <description>500 BLOCK CHANDLER ST, Apt/Unit:3, NCI - BLDG 500 BLOCK Radio: 9D Units: T50, BC902, SAF901, EMS902, FS50, PE23, E291, E31, R3, E501, E11, TT4, HM50, A19, ALS2, BC950, 9D</description>
+      <guid isPermaLink="false">2024-11-20 16:41:00</guid>
+      <pubDate>Wed, 20 Nov 2024 16:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 2:26 pm</title>
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: E11, E501, EMS901, 9D, R3, A18, A37, ALS4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, FREDERICK FOOT &amp; ANKLE Units: E291, R3, A18, ALS2, EMS902, FS29</description>
       <guid isPermaLink="false">2024-11-18 14:38:00</guid>
       <pubDate>Mon, 18 Nov 2024 14:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:10 pm</title>
-      <description>MA CARRCO: I70WB / RT27(MTAY), MA CARRCO: I70WB / RT27 Units: E153</description>
-      <guid isPermaLink="false">2024-11-18 14:10:00</guid>
-      <pubDate>Mon, 18 Nov 2024 14:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
