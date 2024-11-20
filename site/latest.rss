@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Nov 2024 18:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:37:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:14 pm</title>
+      <description>1000 BLOCK W PATRICK ST, VERIZON WIRELESS - FREDERICK COUNTY SQUARE Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2024-11-20 13:14:00</guid>
+      <pubDate>Wed, 20 Nov 2024 13:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
+      <description>100 BLOCK E PATRICK ST, VERIZON CENTRAL OFFICE - E PATRICK ST Radio: 9B Units: A37, R3, 9B</description>
+      <guid isPermaLink="false">2024-11-20 13:09:00</guid>
+      <pubDate>Wed, 20 Nov 2024 13:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:36 pm</title>
       <description>RT340EB / 7MM, RT340WB / RT180 Radio: 9D Units: E51, E201, RE52, R19, A197, A209, ALS20, BC903, FS05, 9D, EMS901</description>
@@ -294,18 +306,6 @@
       <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: C3C, CMD31, A318, E311, C1B, EMS901, HM33, SAF901, HMISC, HMSU33, PE311, E11, R3, A319, A19, A37</description>
       <guid isPermaLink="false">2024-11-18 10:08:00</guid>
       <pubDate>Mon, 18 Nov 2024 10:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:50 am</title>
-      <description>RT77 / TOWER RD, RT77 / TOWER RD Units: A309, E212, SU51, PE102</description>
-      <guid isPermaLink="false">2024-11-18 09:50:00</guid>
-      <pubDate>Mon, 18 Nov 2024 09:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:41 am</title>
-      <description>I270NB / EXIT 32, I270NB / EXIT 32 Units: C3C, CMD31, A318, C1B, EMS901, HM33, SAF901, HMSU33, PE311, E11, R3, A319, A19, BC901, E31, HTRP1, A37</description>
-      <guid isPermaLink="false">2024-11-18 09:41:00</guid>
-      <pubDate>Mon, 18 Nov 2024 09:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
