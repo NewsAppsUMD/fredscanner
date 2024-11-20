@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Nov 2024 23:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 00:07:09 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:35 pm</title>
+      <description>10700 BLOCK LIBERTY RD Radio: 9C Units: BR175, FS17, 9C</description>
+      <guid isPermaLink="false">2024-11-19 18:35:00</guid>
+      <pubDate>Tue, 19 Nov 2024 18:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:32 pm</title>
+      <description>100 BLOCK WATER LAND CT Units: E11, TT4</description>
+      <guid isPermaLink="false">2024-11-19 18:32:00</guid>
+      <pubDate>Tue, 19 Nov 2024 18:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:19 pm</title>
       <description>5400 BLOCK PRINCE WILLIAM CT Units: FS31, PE311</description>
@@ -294,18 +306,6 @@
       <description>11200 BLOCK ANGLEBERGER RD Units: FS22, BR226</description>
       <guid isPermaLink="false">2024-11-17 17:19:00</guid>
       <pubDate>Sun, 17 Nov 2024 17:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 4:11 pm</title>
-      <description>600 BLOCK WILD HUNT RD Radio: 9C Units: PE311, E11, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2024-11-17 16:11:00</guid>
-      <pubDate>Sun, 17 Nov 2024 16:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:22 pm</title>
-      <description>1700 BLOCK ALGONQUIN RD Units: E111, FS11</description>
-      <guid isPermaLink="false">2024-11-17 15:22:00</guid>
-      <pubDate>Sun, 17 Nov 2024 15:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
