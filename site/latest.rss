@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 12:43:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 13:08:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:42 am</title>
+      <description>OLD ANNAPOLIS RD / LORIEN CT Radio: 9B Units: A179, E172, FS17, 9B</description>
+      <guid isPermaLink="false">2024-11-21 07:42:00</guid>
+      <pubDate>Thu, 21 Nov 2024 07:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:22 am</title>
       <description>4900 BLOCK MEADOW CT Units: E201, FS20</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: E11, TT4, 9C</description>
       <guid isPermaLink="false">2024-11-19 12:27:00</guid>
       <pubDate>Tue, 19 Nov 2024 12:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:02 am</title>
-      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11</description>
-      <guid isPermaLink="false">2024-11-19 09:02:00</guid>
-      <pubDate>Tue, 19 Nov 2024 09:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
