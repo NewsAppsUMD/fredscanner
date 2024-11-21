@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Nov 2024 02:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 03:10:33 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:04 pm</title>
+      <description>7100 BLOCK RIDGE RD Radio: 9C Units: E121, E72, TW7, FS12, 9C</description>
+      <guid isPermaLink="false">2024-11-20 22:04:00</guid>
+      <pubDate>Wed, 20 Nov 2024 22:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:45 pm</title>
+      <description>15900 BLOCK SAINT ANTHONY RD Radio: 9C Units: FS06, 9C, BR65</description>
+      <guid isPermaLink="false">2024-11-20 21:45:00</guid>
+      <pubDate>Wed, 20 Nov 2024 21:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 9:44 pm</title>
       <description>12000 BLOCK STANSBURY DR Radio: 9C Units: 9C, FS25, E251</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK COUNTRY CT Radio: 9C Units: E291, FS29, 9C</description>
       <guid isPermaLink="false">2024-11-19 03:54:00</guid>
       <pubDate>Tue, 19 Nov 2024 03:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:15 am</title>
-      <description>1700 BLOCK COUNTRY CT Radio: 9C Units: T50, FS29, 9C, E291</description>
-      <guid isPermaLink="false">2024-11-19 01:15:00</guid>
-      <pubDate>Tue, 19 Nov 2024 01:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:35 am</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / HAWBOTTOM RD Radio: 9B Units: A89, E82, 9B, E121, A129</description>
-      <guid isPermaLink="false">2024-11-19 00:35:00</guid>
-      <pubDate>Tue, 19 Nov 2024 00:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
