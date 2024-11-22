@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 19:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 20:03:03 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:56 pm</title>
+      <description>1200 BLOCK ROSEMONT DR Radio: 9C Units: FS05, 9C, BR55</description>
+      <guid isPermaLink="false">2024-11-22 14:56:00</guid>
+      <pubDate>Fri, 22 Nov 2024 14:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:39 pm</title>
+      <description>RT77 / QUIRAUK SCHOOL RD, RT77 / QUIRAUK SCHOOL RD Radio: 9B Units: PE102, 9B, WCA791, WCE71, E212</description>
+      <guid isPermaLink="false">2024-11-22 14:39:00</guid>
+      <pubDate>Fri, 22 Nov 2024 14:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:36 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: RE74, TW7, 9C, TW1</description>
+      <guid isPermaLink="false">2024-11-22 14:36:00</guid>
+      <pubDate>Fri, 22 Nov 2024 14:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:30 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: RE74, TW7, 9C</description>
+      <guid isPermaLink="false">2024-11-22 14:30:00</guid>
+      <pubDate>Fri, 22 Nov 2024 14:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:02 pm</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: A735, A259, 9B, E231, PRE709, R729</description>
@@ -282,30 +306,6 @@
       <description>5600 BLOCK CARROLL BOYER RD Radio: 9C Units: BR205, FS20, 9C</description>
       <guid isPermaLink="false">2024-11-20 14:20:00</guid>
       <pubDate>Wed, 20 Nov 2024 14:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:14 pm</title>
-      <description>1000 BLOCK W PATRICK ST, VERIZON WIRELESS - FREDERICK COUNTY SQUARE Radio: 9B Units: A19, E11, 9B</description>
-      <guid isPermaLink="false">2024-11-20 13:14:00</guid>
-      <pubDate>Wed, 20 Nov 2024 13:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
-      <description>100 BLOCK E PATRICK ST, VERIZON CENTRAL OFFICE - E PATRICK ST Radio: 9B Units: A37, R3, 9B</description>
-      <guid isPermaLink="false">2024-11-20 13:09:00</guid>
-      <pubDate>Wed, 20 Nov 2024 13:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:36 pm</title>
-      <description>RT340EB / 7MM, RT340WB / RT180 Radio: 9D Units: E51, E201, RE52, R19, A197, A209, ALS20, BC903, FS05, 9D, EMS901</description>
-      <guid isPermaLink="false">2024-11-20 12:36:00</guid>
-      <pubDate>Wed, 20 Nov 2024 12:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:57 am</title>
-      <description>7600 BLOCK MCKAIG RD Radio: 9C Units: FS11, 9C, BR176</description>
-      <guid isPermaLink="false">2024-11-20 11:57:00</guid>
-      <pubDate>Wed, 20 Nov 2024 11:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
