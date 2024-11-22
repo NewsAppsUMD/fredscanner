@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Nov 2024 22:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 23:02:19 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:52 pm</title>
+      <description>INDUSTRY LN / GUILFORD DR Radio: 9D Units: 9D, R3, EMS901, A318, ALS31, FS31</description>
+      <guid isPermaLink="false">2024-11-22 17:52:00</guid>
+      <pubDate>Fri, 22 Nov 2024 17:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:49 pm</title>
+      <description>500 BLOCK CAWLEY DR, BALLENGER POINTE CONDOS - 500 BLOCK CAWLEY DR Radio: 9C Units: TW1, FS31, PE311, 9C</description>
+      <guid isPermaLink="false">2024-11-22 17:49:00</guid>
+      <pubDate>Fri, 22 Nov 2024 17:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
       <description>9000 BLOCK GAMBRILL PARK RD, PH2 Radio: 9B Units: A129, E121, FS12, 9B</description>
@@ -294,18 +306,6 @@
       <description>WOODSBORO PIKE / STAUFFER RD Radio: 9D Units: E111, A249, ALS29, BC902, EMS902, FS11, R24, 9D</description>
       <guid isPermaLink="false">2024-11-20 20:36:00</guid>
       <pubDate>Wed, 20 Nov 2024 20:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:42 pm</title>
-      <description>RT15 / 3MM, RT15 / 3MM Radio: 9D Units: E281, R14, A149, FS28, 9D, ALS4, EMS901</description>
-      <guid isPermaLink="false">2024-11-20 19:42:00</guid>
-      <pubDate>Wed, 20 Nov 2024 19:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:34 pm</title>
-      <description>100 BLOCK BYTE DR, CUSTOM GLASS Radio: 9D Units: FS29, 9D, E501, A29, ALS2, EMS902</description>
-      <guid isPermaLink="false">2024-11-20 19:34:00</guid>
-      <pubDate>Wed, 20 Nov 2024 19:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
