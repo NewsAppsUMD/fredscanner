@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Nov 2024 11:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 11:31:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:15 am</title>
+      <description>1000 BLOCK CAPISTRANO CT, 1000 BLOCK, 1032, 1034 Radio: 9C Units: 9C, PE311</description>
+      <guid isPermaLink="false">2024-11-24 06:15:00</guid>
+      <pubDate>Sun, 24 Nov 2024 06:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:45 am</title>
       <description>1000 BLOCK CAPISTRANO CT, PROSPECT HALL APARTMENTS - 1000 BLOCK CAPISTRANO CT Radio: 9C Units: PE311, TW1, 9C</description>
@@ -300,12 +306,6 @@
       <description>11700 BLOCK COPPERMINE RD Radio: 9C Units: E172, 9C</description>
       <guid isPermaLink="false">2024-11-21 14:32:00</guid>
       <pubDate>Thu, 21 Nov 2024 14:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:44 pm</title>
-      <description>9800 BLOCK OLD NATIONAL PIKE, MONOCACY VALLEY CHURCH Radio: 9C Units: E153, TT4, FS33, 9C</description>
-      <guid isPermaLink="false">2024-11-21 13:44:00</guid>
-      <pubDate>Thu, 21 Nov 2024 13:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
