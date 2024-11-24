@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Nov 2024 00:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 00:46:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:34 pm</title>
+      <description>MEADOW RD / RAMP MEADOW RD TO I70WB RAMP Radio: 9B Units: A339, E331, FS33, 9B</description>
+      <guid isPermaLink="false">2024-11-23 19:34:00</guid>
+      <pubDate>Sat, 23 Nov 2024 19:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:58 pm</title>
       <description>BUCKEYSTOWN PIKE / ADAMSTOWN RD Radio: 9B Units: A149, E141, FS14, 9B</description>
@@ -300,12 +306,6 @@
       <description>OLD ANNAPOLIS RD / LORIEN CT Radio: 9B Units: A179, E172, FS17, 9B</description>
       <guid isPermaLink="false">2024-11-21 07:42:00</guid>
       <pubDate>Thu, 21 Nov 2024 07:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:22 am</title>
-      <description>4900 BLOCK MEADOW CT Units: E201, FS20</description>
-      <guid isPermaLink="false">2024-11-21 07:22:00</guid>
-      <pubDate>Thu, 21 Nov 2024 07:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
