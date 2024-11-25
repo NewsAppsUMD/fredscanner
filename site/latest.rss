@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Nov 2024 06:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 06:38:22 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 1:20 am</title>
+      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, E91, R10, Q11, CMD10, ACE232, EMS902, R24, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, RID, E291, A68, PE102</description>
+      <guid isPermaLink="false">2024-11-25 01:20:00</guid>
+      <pubDate>Mon, 25 Nov 2024 01:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:16 am</title>
+      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, E91, R10, Q11, CMD10, ACE232, EMS902, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, RID, E291, A68, PE102</description>
+      <guid isPermaLink="false">2024-11-25 01:16:00</guid>
+      <pubDate>Mon, 25 Nov 2024 01:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:15 am</title>
+      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, E91, R10, Q11, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
+      <guid isPermaLink="false">2024-11-25 01:15:00</guid>
+      <pubDate>Mon, 25 Nov 2024 01:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:10 am</title>
+      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, R10, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
+      <guid isPermaLink="false">2024-11-25 01:10:00</guid>
+      <pubDate>Mon, 25 Nov 2024 01:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:09 am</title>
+      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E102, E132, E61, EK224, R10, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
+      <guid isPermaLink="false">2024-11-25 01:09:00</guid>
+      <pubDate>Mon, 25 Nov 2024 01:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:18 pm</title>
       <description>5600 BLOCK NEW DESIGN RD, Bldg:4LLC Radio: 9C Units: 9C, PE311, TT4, FS31</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9C Units: RE74, TW7, 9C, TW1</description>
       <guid isPermaLink="false">2024-11-22 14:36:00</guid>
       <pubDate>Fri, 22 Nov 2024 14:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:30 pm</title>
-      <description>100 BLOCK W MAIN ST Radio: 9C Units: RE74, TW7, 9C</description>
-      <guid isPermaLink="false">2024-11-22 14:30:00</guid>
-      <pubDate>Fri, 22 Nov 2024 14:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:02 pm</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: A735, A259, 9B, E231, PRE709, R729</description>
-      <guid isPermaLink="false">2024-11-22 14:02:00</guid>
-      <pubDate>Fri, 22 Nov 2024 14:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:51 am</title>
-      <description>I70EB / NEW DESIGN RD, I70EB / RT85 Units: E11, E31, R3, ALS31, BC901, EMS901, A19, A37</description>
-      <guid isPermaLink="false">2024-11-22 10:51:00</guid>
-      <pubDate>Fri, 22 Nov 2024 10:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:32 am</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Units: A318, A319, U14, R3, PE311</description>
-      <guid isPermaLink="false">2024-11-22 10:32:00</guid>
-      <pubDate>Fri, 22 Nov 2024 10:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:30 am</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Units: A318, PE311, FS31</description>
-      <guid isPermaLink="false">2024-11-22 10:30:00</guid>
-      <pubDate>Fri, 22 Nov 2024 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
