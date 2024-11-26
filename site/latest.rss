@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 21:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 21:32:39 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:16 pm</title>
+      <description>100 BLOCK W MAIN ST, VFW POST - EMMITSBURG Radio: 9C Units: E61, PE102, R6, ACE232, FS06, 9C</description>
+      <guid isPermaLink="false">2024-11-26 16:16:00</guid>
+      <pubDate>Tue, 26 Nov 2024 16:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:50 pm</title>
       <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Units: A299, E291, FS29</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: PE311, E201, R14, FS31, 9C</description>
       <guid isPermaLink="false">2024-11-23 23:34:00</guid>
       <pubDate>Sat, 23 Nov 2024 23:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:25 pm</title>
-      <description>W MAIN ST / N SETON AVE Radio: 9B Units: A68, 9B, E61, FS06</description>
-      <guid isPermaLink="false">2024-11-23 23:25:00</guid>
-      <pubDate>Sat, 23 Nov 2024 23:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
