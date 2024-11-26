@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Nov 2024 03:12:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 03:39:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:28 pm</title>
+      <description>4800 BLOCK OLD NATIONAL PIKE, Apt/Unit:A Radio: 9D Units: E121, RE74, A129, ALS2, BC903, EMS902, FS12, 9D</description>
+      <guid isPermaLink="false">2024-11-25 22:28:00</guid>
+      <pubDate>Mon, 25 Nov 2024 22:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 9:11 pm</title>
       <description>6500 BLOCK WALCOTT LN Radio: 9D Units: E141, FS31, A209, ALS20, EMS901, 9D</description>
@@ -300,12 +306,6 @@
       <description>10200 BLOCK TANEYTOWN PIKE, RUTTERS - EMMITSBURG Units: A68, E61, FS06</description>
       <guid isPermaLink="false">2024-11-23 14:53:00</guid>
       <pubDate>Sat, 23 Nov 2024 14:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:41 pm</title>
-      <description>300 BLOCK PLANK RD Units: TW6</description>
-      <guid isPermaLink="false">2024-11-23 13:41:00</guid>
-      <pubDate>Sat, 23 Nov 2024 13:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
