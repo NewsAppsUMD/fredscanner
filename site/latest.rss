@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 11:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 11:31:40 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:13 am</title>
+      <description>800 BLOCK E MAIN ST, SAFEWAY Units: E72</description>
+      <guid isPermaLink="false">2024-11-27 06:13:00</guid>
+      <pubDate>Wed, 27 Nov 2024 06:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:29 pm</title>
       <description>100 BLOCK HEATHFIELD DR Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK CAPISTRANO CT, PROSPECT HALL APARTMENTS - 1000 BLOCK CAPISTRANO CT Radio: 9C Units: 9C, PE311</description>
       <guid isPermaLink="false">2024-11-24 09:23:00</guid>
       <pubDate>Sun, 24 Nov 2024 09:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:55 am</title>
-      <description>1000 BLOCK CAPISTRANO CT, Apt/Unit:111, PROSPECT HALL APARTMENTS - 1000 BLOCK CAPISTRANO CT Radio: 9C Units: PE311, 9C</description>
-      <guid isPermaLink="false">2024-11-24 07:55:00</guid>
-      <pubDate>Sun, 24 Nov 2024 07:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
