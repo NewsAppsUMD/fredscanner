@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 18:37:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
+      <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Radio: 9B Units: E281, A209, FS28, 9B</description>
+      <guid isPermaLink="false">2024-11-27 13:21:00</guid>
+      <pubDate>Wed, 27 Nov 2024 13:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:08 pm</title>
+      <description>12300 BLOCK BERLIN PK, STATION LC612 - LOVETTSVILLE VOLUNTEER FIRE &amp; RESCUE Units: E201</description>
+      <guid isPermaLink="false">2024-11-27 13:08:00</guid>
+      <pubDate>Wed, 27 Nov 2024 13:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 1:00 pm</title>
+      <description>100 BLOCK(885100 BLOCK) BLK BROWN CHURCH RD Units: A259, E251</description>
+      <guid isPermaLink="false">2024-11-27 13:00:00</guid>
+      <pubDate>Wed, 27 Nov 2024 13:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR OUTSIDE: 12:58 pm</title>
       <description>100 BLOCK(885100 BLOCK) BLK BROWN CHURCH RD Units: A259</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, E91, R10, Q11, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
       <guid isPermaLink="false">2024-11-25 01:15:00</guid>
       <pubDate>Mon, 25 Nov 2024 01:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:10 am</title>
-      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, R10, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
-      <guid isPermaLink="false">2024-11-25 01:10:00</guid>
-      <pubDate>Mon, 25 Nov 2024 01:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:09 am</title>
-      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E102, E132, E61, EK224, R10, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, PE102</description>
-      <guid isPermaLink="false">2024-11-25 01:09:00</guid>
-      <pubDate>Mon, 25 Nov 2024 01:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:18 pm</title>
-      <description>5600 BLOCK NEW DESIGN RD, Bldg:4LLC Radio: 9C Units: 9C, PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2024-11-24 21:18:00</guid>
-      <pubDate>Sun, 24 Nov 2024 21:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
