@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 22:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 22:34:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:30 pm</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E72, E121, R8, A19, A89, FS12</description>
+      <guid isPermaLink="false">2024-11-27 17:30:00</guid>
+      <pubDate>Wed, 27 Nov 2024 17:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
+      <description>I270NB / 24MM, I270SB / DOCTOR PERRY RD Units: A735, A259, E231, PRE709, R729</description>
+      <guid isPermaLink="false">2024-11-27 17:05:00</guid>
+      <pubDate>Wed, 27 Nov 2024 17:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:02 pm</title>
+      <description>ROSEMONT AVE / BAUGHMANS LN Units: E12, BC902, A19</description>
+      <guid isPermaLink="false">2024-11-27 17:02:00</guid>
+      <pubDate>Wed, 27 Nov 2024 17:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:44 pm</title>
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Units: E291, EK224, A299</description>
@@ -288,24 +306,6 @@
       <description>3900 BLOCK DARTMOUTH CT, Apt/Unit:A Radio: 9C Units: E141, 9C, TW1, FS20</description>
       <guid isPermaLink="false">2024-11-25 07:18:00</guid>
       <pubDate>Mon, 25 Nov 2024 07:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 6:56 am</title>
-      <description>100 BLOCK PLEASANT ACRES DR Radio: 9C Units: PE102, 9C</description>
-      <guid isPermaLink="false">2024-11-25 06:56:00</guid>
-      <pubDate>Mon, 25 Nov 2024 06:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:51 am</title>
-      <description>7300 BLOCK GUILFORD DR, KOHLS DEPARTMENT STORE - FREDERICK CROSSING Radio: 9C Units: PE311, 9C, FS31</description>
-      <guid isPermaLink="false">2024-11-25 06:51:00</guid>
-      <pubDate>Mon, 25 Nov 2024 06:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:10 am</title>
-      <description>100 BLOCK PLEASANT ACRES DR Radio: 9D Units: E132, E61, EK224, E162, E91, R10, Q11, A308, CAN1, CMD10, EMS902, OPSAC900, TW6, R6, A309, ALS30, BC902, BC901, SAF901, 9D, RID, E291, A68, A37, PE102</description>
-      <guid isPermaLink="false">2024-11-25 02:10:00</guid>
-      <pubDate>Mon, 25 Nov 2024 02:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
