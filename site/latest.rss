@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 19:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 19:31:31 +0000</lastBuildDate>
+    <item>
+      <title>WATER RESCUE: 2:26 pm</title>
+      <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9D Units: FS14, TR29, BT28, SW714, PE311, E231, R20, TT23, A318, A319, ALS31, BC903, SAF901, EMS901, 9D</description>
+      <guid isPermaLink="false">2024-11-28 14:26:00</guid>
+      <pubDate>Thu, 28 Nov 2024 14:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:20 pm</title>
       <description>6700 BLOCK MOUNT PHILLIP RD Radio: 9C Units: 9C, E121</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Units: A299, E291, FS29</description>
       <guid isPermaLink="false">2024-11-26 14:50:00</guid>
       <pubDate>Tue, 26 Nov 2024 14:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:34 pm</title>
-      <description>400 BLOCK E SEVENTH ST, RESIDENCE AT E CHURCH Radio: 9C Units: TT4, 9C, PE23</description>
-      <guid isPermaLink="false">2024-11-26 12:34:00</guid>
-      <pubDate>Tue, 26 Nov 2024 12:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
