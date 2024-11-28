@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Nov 2024 23:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 00:07:38 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 6:41 pm</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Units: ACE22, CCE111, R6, BC902, SAF901, FS06, TW6, R10, A68, ALS30, ACE232, BC901, E61, PE102, E132</description>
+      <guid isPermaLink="false">2024-11-27 18:41:00</guid>
+      <pubDate>Wed, 27 Nov 2024 18:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:23 pm</title>
       <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Units: E12, TT4</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK EXECUTIVE CT S, Apt/Unit:D Radio: 9C Units: FS31, 9C, PE311, TT4</description>
       <guid isPermaLink="false">2024-11-25 09:06:00</guid>
       <pubDate>Mon, 25 Nov 2024 09:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:45 am</title>
-      <description>E HYATT RD / MUSSETTER RD Radio: 9C Units: 9C, BR156, FS15</description>
-      <guid isPermaLink="false">2024-11-25 08:45:00</guid>
-      <pubDate>Mon, 25 Nov 2024 08:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
