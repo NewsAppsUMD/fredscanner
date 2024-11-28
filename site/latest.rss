@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 23:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 23:32:09 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 6:09 pm</title>
+      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, EK204, E201, R20, BC903, E141, K5, E281, T5</description>
+      <guid isPermaLink="false">2024-11-28 18:09:00</guid>
+      <pubDate>Thu, 28 Nov 2024 18:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:07 pm</title>
+      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, EK204, ALS20, R20, BC903, E141, K5, E281, T5</description>
+      <guid isPermaLink="false">2024-11-28 18:07:00</guid>
+      <pubDate>Thu, 28 Nov 2024 18:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:04 pm</title>
+      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, R20, BC903, E141, K5, E281, T5</description>
+      <guid isPermaLink="false">2024-11-28 18:04:00</guid>
+      <pubDate>Thu, 28 Nov 2024 18:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 5:45 pm</title>
       <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, E281, T5</description>
@@ -288,24 +306,6 @@
       <description>800 BLOCK E MAIN ST, SAFEWAY Units: E72</description>
       <guid isPermaLink="false">2024-11-27 06:13:00</guid>
       <pubDate>Wed, 27 Nov 2024 06:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:29 pm</title>
-      <description>100 BLOCK HEATHFIELD DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-11-26 23:29:00</guid>
-      <pubDate>Tue, 26 Nov 2024 23:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
-      <description>LIBERTY RD / OLD ANNAPOLIS RD Radio: 9B Units: E172, FS17, 9B, A179</description>
-      <guid isPermaLink="false">2024-11-26 19:24:00</guid>
-      <pubDate>Tue, 26 Nov 2024 19:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:52 pm</title>
-      <description>6900 BLOCK PALACE CT Radio: 9C Units: PE311, 9C, FS31</description>
-      <guid isPermaLink="false">2024-11-26 17:52:00</guid>
-      <pubDate>Tue, 26 Nov 2024 17:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
