@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 22:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 22:34:49 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:14 pm</title>
+      <description>2700 BLOCK BLUEGRASS WAY Radio: 9C Units: 9C, E12</description>
+      <guid isPermaLink="false">2024-11-28 17:14:00</guid>
+      <pubDate>Thu, 28 Nov 2024 17:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 2:30 pm</title>
       <description>RT15NB / RT77, RT15NB / RT77 Radio: 9C Units: PE102, EK224, 9C</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK OPOSSUMTOWN PIKE, Bldg:B, MAIN ENTRANCE Units: A299, ALS29, E291, EMS902, FS29</description>
       <guid isPermaLink="false">2024-11-26 17:39:00</guid>
       <pubDate>Tue, 26 Nov 2024 17:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:16 pm</title>
-      <description>100 BLOCK W MAIN ST, VFW POST - EMMITSBURG Radio: 9C Units: E61, PE102, R6, ACE232, FS06, 9C</description>
-      <guid isPermaLink="false">2024-11-26 16:16:00</guid>
-      <pubDate>Tue, 26 Nov 2024 16:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
