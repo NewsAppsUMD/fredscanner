@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Nov 2024 05:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:02:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:48 am</title>
+      <description>I270SB / RT109 Units: E231, A239</description>
+      <guid isPermaLink="false">2024-11-28 00:48:00</guid>
+      <pubDate>Thu, 28 Nov 2024 00:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:47 am</title>
+      <description>2000 BLOCK POMONA WAY Radio: 9C Units: FS29, 9C, E12</description>
+      <guid isPermaLink="false">2024-11-28 00:47:00</guid>
+      <pubDate>Thu, 28 Nov 2024 00:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:31 am</title>
       <description>RT15SB / HAYWARD RD, RT15SB / HAYWARD RD Radio: 9D Units: E291, R2, A29, A299, ALS29, EMS902, 9D, E12, FS29</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, Apt/Unit:12, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-11-26 00:45:00</guid>
       <pubDate>Tue, 26 Nov 2024 00:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:22 am</title>
-      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:12, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2024-11-26 00:22:00</guid>
-      <pubDate>Tue, 26 Nov 2024 00:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:28 pm</title>
-      <description>4800 BLOCK OLD NATIONAL PIKE, Apt/Unit:A Radio: 9D Units: E121, RE74, A129, ALS2, BC903, EMS902, FS12, 9D</description>
-      <guid isPermaLink="false">2024-11-25 22:28:00</guid>
-      <pubDate>Mon, 25 Nov 2024 22:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
