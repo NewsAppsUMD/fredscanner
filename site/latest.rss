@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Dec 2024 02:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 03:00:28 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:23 pm</title>
+      <description>1100 BLOCK FUTURITY ST Radio: 9C Units: E291, 9C, E12, T50</description>
+      <guid isPermaLink="false">2024-11-30 21:23:00</guid>
+      <pubDate>Sat, 30 Nov 2024 21:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:21 pm</title>
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9B Units: EK224, A229, 9B</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT109 Units: E231, A239</description>
       <guid isPermaLink="false">2024-11-28 00:48:00</guid>
       <pubDate>Thu, 28 Nov 2024 00:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:47 am</title>
-      <description>2000 BLOCK POMONA WAY Radio: 9C Units: FS29, 9C, E12</description>
-      <guid isPermaLink="false">2024-11-28 00:47:00</guid>
-      <pubDate>Thu, 28 Nov 2024 00:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
