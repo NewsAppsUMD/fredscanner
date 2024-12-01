@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Dec 2024 03:43:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 04:05:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:00 pm</title>
+      <description>1600 BLOCK DWIGHT D EISENHOWER HWY, SOUTH MOUNTAIN REST AREA I70WB Units: WCE162, E72, A89</description>
+      <guid isPermaLink="false">2024-11-30 23:00:00</guid>
+      <pubDate>Sat, 30 Nov 2024 23:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:53 pm</title>
+      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Units: WCE162, E72, R8, A89, WCA756</description>
+      <guid isPermaLink="false">2024-11-30 22:53:00</guid>
+      <pubDate>Sat, 30 Nov 2024 22:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 9:23 pm</title>
       <description>1100 BLOCK FUTURITY ST Radio: 9C Units: E291, 9C, E12, T50</description>
@@ -294,18 +306,6 @@
       <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: E231, E12, TT23, R3, A239, A19, ALS23, BC901, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2024-11-28 03:16:00</guid>
       <pubDate>Thu, 28 Nov 2024 03:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:41 am</title>
-      <description>JEFFERSON PIKE / HIMES AVE Radio: 9B Units: A19, PE311, 9B</description>
-      <guid isPermaLink="false">2024-11-28 01:41:00</guid>
-      <pubDate>Thu, 28 Nov 2024 01:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:48 am</title>
-      <description>I270SB / RT109 Units: E231, A239</description>
-      <guid isPermaLink="false">2024-11-28 00:48:00</guid>
-      <pubDate>Thu, 28 Nov 2024 00:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
