@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Dec 2024 08:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 08:37:29 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 3:02 am</title>
+      <description>I270SB / RT109, I270SB / MONTGOMERY COUNTY LINE Radio: 7A1 Units: A239, E231, 7A1</description>
+      <guid isPermaLink="false">2024-12-02 03:02:00</guid>
+      <pubDate>Mon, 02 Dec 2024 03:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:38 pm</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9C Units: PE735, FS23, E251, 9C</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, R20, BC903, E141, K5, E281, T5</description>
       <guid isPermaLink="false">2024-11-28 18:04:00</guid>
       <pubDate>Thu, 28 Nov 2024 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:45 pm</title>
-      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6D Units: 6D, E281, T5</description>
-      <guid isPermaLink="false">2024-11-28 17:45:00</guid>
-      <pubDate>Thu, 28 Nov 2024 17:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
