@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Dec 2024 12:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:43:36 +0000</lastBuildDate>
+    <item>
+      <title>FUEL SPILL: 7:25 am</title>
+      <description>7300 BLOCK EXECUTIVE WAY, SHEETZ - EXECUTIVE WAY Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-12-03 07:25:00</guid>
+      <pubDate>Tue, 03 Dec 2024 07:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:48 am</title>
       <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: E72, R8, A89, A78, WCE162, 9B</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK KEY PKWY, Apt/Unit:102, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E12</description>
       <guid isPermaLink="false">2024-11-29 21:04:00</guid>
       <pubDate>Fri, 29 Nov 2024 21:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:18 pm</title>
-      <description>5200 BLOCK WESTVIEW DR, INTEGRATED COMMUNICATIONS Units: PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2024-11-29 19:18:00</guid>
-      <pubDate>Fri, 29 Nov 2024 19:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
