@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Dec 2024 13:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 13:37:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:33 am</title>
+      <description>I70EB / HARMONY RD, I70EB / RT17 Units: A78, A18, ALS4, BC902, EMS900, E72, E12, R3</description>
+      <guid isPermaLink="false">2024-12-03 08:33:00</guid>
+      <pubDate>Tue, 03 Dec 2024 08:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:30 am</title>
+      <description>APPROX LOC:70E BTWN CAT CREEK AND HARMONY RD HWY Radio: 9D Units: E121, R8, A89, A129, ALS8, BC903, EMS902, RE74, 9D</description>
+      <guid isPermaLink="false">2024-12-03 08:30:00</guid>
+      <pubDate>Tue, 03 Dec 2024 08:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
+      <description>1200 BLOCK RIVERBEND WAY, IFO Radio: 9B Units: A248, E111, FS29, 9B</description>
+      <guid isPermaLink="false">2024-12-03 08:22:00</guid>
+      <pubDate>Tue, 03 Dec 2024 08:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 7:25 am</title>
       <description>7300 BLOCK EXECUTIVE WAY, SHEETZ - EXECUTIVE WAY Radio: 9C Units: PE311, FS31, 9C</description>
@@ -288,24 +306,6 @@
       <description>9300 BLOCK FINGERBOARD RD Units: E231, TT23</description>
       <guid isPermaLink="false">2024-11-30 09:07:00</guid>
       <pubDate>Sat, 30 Nov 2024 09:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:59 am</title>
-      <description>9300 BLOCK FINGERBOARD RD Units: E231</description>
-      <guid isPermaLink="false">2024-11-30 08:59:00</guid>
-      <pubDate>Sat, 30 Nov 2024 08:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:24 am</title>
-      <description>5200 BLOCK WESTVIEW DR, RESIDENCE INN Units: PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2024-11-30 08:24:00</guid>
-      <pubDate>Sat, 30 Nov 2024 08:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:04 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:102, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E12</description>
-      <guid isPermaLink="false">2024-11-29 21:04:00</guid>
-      <pubDate>Fri, 29 Nov 2024 21:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
