@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Dec 2024 20:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 20:34:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:21 pm</title>
+      <description>8500 BLOCK BLACKS MILL RD Radio: 9B Units: A169, E162, 9B</description>
+      <guid isPermaLink="false">2024-12-03 15:21:00</guid>
+      <pubDate>Tue, 03 Dec 2024 15:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:06 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, AEROPOSTALE - FRANCIS SCOTT KEY MALL Units: E231, E331, BC903, BC901, PE311, E31, E12, R3, TT4, TT23, A319, ALS31, FS31</description>
+      <guid isPermaLink="false">2024-12-03 15:06:00</guid>
+      <pubDate>Tue, 03 Dec 2024 15:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:44 pm</title>
       <description>9100 BLOCK LIBERTY RD Radio: 9D Units: C11B, A28, U24, R2, SAF901, A248, ALS29, BC902, EMS902, 9D, E111, C11, CMD11, E172</description>
@@ -294,18 +306,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, FS31, 9C</description>
       <guid isPermaLink="false">2024-12-01 01:50:00</guid>
       <pubDate>Sun, 01 Dec 2024 01:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:21 pm</title>
-      <description>3500 BLOCK TABARD LN Radio: 9C Units: 9C, E231</description>
-      <guid isPermaLink="false">2024-11-30 23:21:00</guid>
-      <pubDate>Sat, 30 Nov 2024 23:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:00 pm</title>
-      <description>1600 BLOCK DWIGHT D EISENHOWER HWY, SOUTH MOUNTAIN REST AREA I70WB Units: WCE162, E72, A89</description>
-      <guid isPermaLink="false">2024-11-30 23:00:00</guid>
-      <pubDate>Sat, 30 Nov 2024 23:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
