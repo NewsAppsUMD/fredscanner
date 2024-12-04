@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 20:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 21:01:59 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 3:51 pm</title>
+      <description>RT340WB / LANDER RD, RT340WB / LANDER RD Radio: 9C Units: BR16, E201, 9C</description>
+      <guid isPermaLink="false">2024-12-04 15:51:00</guid>
+      <pubDate>Wed, 04 Dec 2024 15:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:37 pm</title>
+      <description>10000 BLOCK BALTIMORE NATIONAL PIKE PIKE Radio: 9C Units: E82, 9C</description>
+      <guid isPermaLink="false">2024-12-04 15:37:00</guid>
+      <pubDate>Wed, 04 Dec 2024 15:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:21 pm</title>
       <description>3800 BLOCK SUGARLOAF PKWY Radio: 9C Units: E231, TT23, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>I70EB / HARMONY RD, I70EB / RT17 Units: A78, A18, ALS4, BC902, EMS900, E72, E12, R3</description>
       <guid isPermaLink="false">2024-12-03 08:33:00</guid>
       <pubDate>Tue, 03 Dec 2024 08:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:30 am</title>
-      <description>APPROX LOC:70E BTWN CAT CREEK AND HARMONY RD HWY Radio: 9D Units: E121, R8, A89, A129, ALS8, BC903, EMS902, RE74, 9D</description>
-      <guid isPermaLink="false">2024-12-03 08:30:00</guid>
-      <pubDate>Tue, 03 Dec 2024 08:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
-      <description>1200 BLOCK RIVERBEND WAY, IFO Radio: 9B Units: A248, E111, FS29, 9B</description>
-      <guid isPermaLink="false">2024-12-03 08:22:00</guid>
-      <pubDate>Tue, 03 Dec 2024 08:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
