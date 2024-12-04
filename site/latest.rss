@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 18:38:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 19:03:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:47 pm</title>
+      <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9D Units: 9D, E121, R3, A129, ALS2, EMS902</description>
+      <guid isPermaLink="false">2024-12-04 13:47:00</guid>
+      <pubDate>Wed, 04 Dec 2024 13:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:40 pm</title>
+      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: TT4, FS20, 9C, E201</description>
+      <guid isPermaLink="false">2024-12-04 13:40:00</guid>
+      <pubDate>Wed, 04 Dec 2024 13:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:07 pm</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT4100 BLOCK-A RAMP Radio: 9C Units: E121, FS12, 9C</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK SHELLEY CIR, Apt/Unit:15, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: T50, E12</description>
       <guid isPermaLink="false">2024-12-02 17:28:00</guid>
       <pubDate>Mon, 02 Dec 2024 17:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:23 pm</title>
-      <description>LANCASTER PL / HILLCREST DR Units: A18, E12</description>
-      <guid isPermaLink="false">2024-12-02 16:23:00</guid>
-      <pubDate>Mon, 02 Dec 2024 16:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:21 pm</title>
-      <description>8500 BLOCK BALD EAGLE LN Units: E331</description>
-      <guid isPermaLink="false">2024-12-02 16:21:00</guid>
-      <pubDate>Mon, 02 Dec 2024 16:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
