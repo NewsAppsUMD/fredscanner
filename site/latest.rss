@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 01:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 02:10:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:51 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNEY - FRANCIS SCOTT KEY MALL Radio: 9C Units: TT4, FS31, 9C, PE311</description>
+      <guid isPermaLink="false">2024-12-03 20:51:00</guid>
+      <pubDate>Tue, 03 Dec 2024 20:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:57 pm</title>
       <description>OLD NATIONAL PIKE / SIDNEY RD Radio: 9B Units: R15, CCA19, CCR1, 9B</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / ALAN LINTON BLVD E Radio: 9D Units: PE311, R14, A318, ALS31, BC903, EMS901, FS31, 9D</description>
       <guid isPermaLink="false">2024-12-02 05:53:00</guid>
       <pubDate>Mon, 02 Dec 2024 05:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 3:02 am</title>
-      <description>I270SB / RT109, I270SB / MONTGOMERY COUNTY LINE Radio: 7A1 Units: A239, E231, 7A1</description>
-      <guid isPermaLink="false">2024-12-02 03:02:00</guid>
-      <pubDate>Mon, 02 Dec 2024 03:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
