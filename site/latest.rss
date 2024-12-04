@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 19:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 20:02:23 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:48 pm</title>
+      <description>RIDGE RD / WOODFIELD RD Radio: 7A4 Units: E251, 7A4, R15</description>
+      <guid isPermaLink="false">2024-12-04 14:48:00</guid>
+      <pubDate>Wed, 04 Dec 2024 14:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:48 pm</title>
+      <description>RIDGE RD / WOODFIELD RD Radio: 7A4 Units: E251, 7A4</description>
+      <guid isPermaLink="false">2024-12-04 14:48:00</guid>
+      <pubDate>Wed, 04 Dec 2024 14:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
+      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Radio: 9B Units: A309, PE102, 9B</description>
+      <guid isPermaLink="false">2024-12-04 14:42:00</guid>
+      <pubDate>Wed, 04 Dec 2024 14:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:28 pm</title>
       <description>500 BLOCK KLINEHARTS ALY, Apt/Unit:102 Units: E23, TT4</description>
@@ -288,24 +306,6 @@
       <description>7300 BLOCK EXECUTIVE WAY, SHEETZ - EXECUTIVE WAY Radio: 9C Units: PE311, FS31, 9C</description>
       <guid isPermaLink="false">2024-12-03 07:25:00</guid>
       <pubDate>Tue, 03 Dec 2024 07:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:48 am</title>
-      <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: E72, R8, A89, A78, WCE162, 9B</description>
-      <guid isPermaLink="false">2024-12-03 06:48:00</guid>
-      <pubDate>Tue, 03 Dec 2024 06:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:35 am</title>
-      <description>20000 BLOCK CTYSTAL ROCK DR, STATION MC729 - GERMANTOWN Units: R14</description>
-      <guid isPermaLink="false">2024-12-03 00:35:00</guid>
-      <pubDate>Tue, 03 Dec 2024 00:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:15 am</title>
-      <description>16600 BLOCK WHITES FERRY RD Units: K23</description>
-      <guid isPermaLink="false">2024-12-03 00:15:00</guid>
-      <pubDate>Tue, 03 Dec 2024 00:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
