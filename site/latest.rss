@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Dec 2024 08:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 09:02:04 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 3:44 am</title>
+      <description>200 BLOCK W MAIN ST Units: E72, E121, C7, TW7, TW1</description>
+      <guid isPermaLink="false">2024-12-04 03:44:00</guid>
+      <pubDate>Wed, 04 Dec 2024 03:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 3:39 am</title>
+      <description>200 BLOCK W MAIN ST Units: E72, E121, TW7</description>
+      <guid isPermaLink="false">2024-12-04 03:39:00</guid>
+      <pubDate>Wed, 04 Dec 2024 03:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:38 am</title>
+      <description>100 BLOCK S MARKET ST, SHUCKIN SHACK Units: TT4, E31</description>
+      <guid isPermaLink="false">2024-12-04 03:38:00</guid>
+      <pubDate>Wed, 04 Dec 2024 03:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:08 pm</title>
       <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Radio: 9C Units: T50, E12, 9C</description>
@@ -288,24 +306,6 @@
       <description>5100 BLOCK MOUNTVILLE RD Units: E141, TW1, FS14</description>
       <guid isPermaLink="false">2024-12-02 12:06:00</guid>
       <pubDate>Mon, 02 Dec 2024 12:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:41 am</title>
-      <description>800 BLOCK N WARFIELD DR Units: TT23, E153</description>
-      <guid isPermaLink="false">2024-12-02 09:41:00</guid>
-      <pubDate>Mon, 02 Dec 2024 09:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:58 am</title>
-      <description>8600 BLOCK S PACIFIC CT Radio: 9C Units: E82, K7, TW7, E121, 9C</description>
-      <guid isPermaLink="false">2024-12-02 07:58:00</guid>
-      <pubDate>Mon, 02 Dec 2024 07:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:56 am</title>
-      <description>BALLENGER CREEK PIKE / ALAN LINTON BLVD E Radio: 9D Units: PE311, R14, A149, A209, A319, SAF901, A318, ALS31, BC903, EMS901, 9D</description>
-      <guid isPermaLink="false">2024-12-02 05:56:00</guid>
-      <pubDate>Mon, 02 Dec 2024 05:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
