@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 14:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 15:02:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:56 am</title>
+      <description>4400 BLOCK MIDDLE POINT RD Radio: 9C Units: 9C, FS21, BR216, BR85</description>
+      <guid isPermaLink="false">2024-12-05 09:56:00</guid>
+      <pubDate>Thu, 05 Dec 2024 09:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:56 am</title>
+      <description>4400 BLOCK MIDDLE POINT RD Radio: 9C Units: 9C, FS21, BR216, BR85</description>
+      <guid isPermaLink="false">2024-12-05 09:56:00</guid>
+      <pubDate>Thu, 05 Dec 2024 09:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:48 am</title>
+      <description>4400 BLOCK MIDDLE POINT RD Radio: 9C Units: 9C, BR216, FS21</description>
+      <guid isPermaLink="false">2024-12-05 09:48:00</guid>
+      <pubDate>Thu, 05 Dec 2024 09:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:37 am</title>
       <description>WILLOWBROOK RD / WILLOW RD Radio: 9C Units: FS29, E291, 9C</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE, AEROPOSTALE - FRANCIS SCOTT KEY MALL Units: E231, E331, BC903, BC901, PE311, E31, E12, R3, TT4, TT23, A319, ALS31, FS31</description>
       <guid isPermaLink="false">2024-12-03 15:06:00</guid>
       <pubDate>Tue, 03 Dec 2024 15:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:44 pm</title>
-      <description>9100 BLOCK LIBERTY RD Radio: 9D Units: C11B, A28, U24, R2, SAF901, A248, ALS29, BC902, EMS902, 9D, E111, C11, CMD11, E172</description>
-      <guid isPermaLink="false">2024-12-03 14:44:00</guid>
-      <pubDate>Tue, 03 Dec 2024 14:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:27 pm</title>
-      <description>MONOCACY BLVD / CHRISTOPHERS XING Radio: 9B Units: E291, FS29, 9B, A299</description>
-      <guid isPermaLink="false">2024-12-03 14:27:00</guid>
-      <pubDate>Tue, 03 Dec 2024 14:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:26 pm</title>
-      <description>9100 BLOCK LIBERTY RD Radio: 9D Units: U24, R2, A248, ALS29, BC902, EMS902, 9D, E111</description>
-      <guid isPermaLink="false">2024-12-03 14:26:00</guid>
-      <pubDate>Tue, 03 Dec 2024 14:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
