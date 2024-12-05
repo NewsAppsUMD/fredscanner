@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 00:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 00:46:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:12 pm</title>
+      <description>BALDWIN RD / GREEN VALLEY RD Units: A159, E153, FS15</description>
+      <guid isPermaLink="false">2024-12-04 19:12:00</guid>
+      <pubDate>Wed, 04 Dec 2024 19:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 5:37 pm</title>
       <description>12000 BLOCK WOLFSVILLE RD Radio: 9C Units: E82, K21, E212, BR216, 9C</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK STAUFFER CT, SELF STORAGE PLUS Radio: 9C Units: E111, T50, FS11, 9C</description>
       <guid isPermaLink="false">2024-12-03 09:37:00</guid>
       <pubDate>Tue, 03 Dec 2024 09:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:16 am</title>
-      <description>2500 BLOCKB STATION RD Radio: 9C Units: 9C, RE74</description>
-      <guid isPermaLink="false">2024-12-03 09:16:00</guid>
-      <pubDate>Tue, 03 Dec 2024 09:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
