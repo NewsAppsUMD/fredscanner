@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 18:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:37:40 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 1:30 pm</title>
+      <description>14700 BLOCK OAK ORCHARD RD Radio: 9C Units: BR176, FS17, 9C</description>
+      <guid isPermaLink="false">2024-12-05 13:30:00</guid>
+      <pubDate>Thu, 05 Dec 2024 13:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>EXPLOSION - MISCELLANEOUS: 1:25 pm</title>
+      <description>S MOUNTAIN RD / JEFFERSON PIKE Units: E51, FS05</description>
+      <guid isPermaLink="false">2024-12-05 13:25:00</guid>
+      <pubDate>Thu, 05 Dec 2024 13:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:20 pm</title>
+      <description>4100 BLOCK WESTON DR Radio: 9C Units: 9C, BR205, FS05, BR55</description>
+      <guid isPermaLink="false">2024-12-05 13:20:00</guid>
+      <pubDate>Thu, 05 Dec 2024 13:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:16 pm</title>
+      <description>4100 BLOCK WESTON DR Radio: 9C Units: 9C, BR55, FS05</description>
+      <guid isPermaLink="false">2024-12-05 13:16:00</guid>
+      <pubDate>Thu, 05 Dec 2024 13:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:49 pm</title>
       <description>300 BLOCK MOUNTAIN LN Radio: 9C Units: BR55, FS05, 9C</description>
@@ -282,30 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNEY - FRANCIS SCOTT KEY MALL Radio: 9C Units: TT4, FS31, 9C, PE311</description>
       <guid isPermaLink="false">2024-12-03 20:51:00</guid>
       <pubDate>Tue, 03 Dec 2024 20:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:57 pm</title>
-      <description>OLD NATIONAL PIKE / SIDNEY RD Radio: 9B Units: R15, CCA19, CCR1, 9B</description>
-      <guid isPermaLink="false">2024-12-03 19:57:00</guid>
-      <pubDate>Tue, 03 Dec 2024 19:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:53 pm</title>
-      <description>2400 BLOCK WHITTIER DR, WHITTIER ELEMENTARY SCHOOL Radio: 9C Units: 9C, E291, T50, E12</description>
-      <guid isPermaLink="false">2024-12-03 19:53:00</guid>
-      <pubDate>Tue, 03 Dec 2024 19:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 7:00 pm</title>
-      <description>5000 BLOCK CROYDON TER Radio: 9C Units: PE311, TT4, FS31, E31, 9C</description>
-      <guid isPermaLink="false">2024-12-03 19:00:00</guid>
-      <pubDate>Tue, 03 Dec 2024 19:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
-      <description>KEY PKWY / BAKER PL E Units: A19, E12</description>
-      <guid isPermaLink="false">2024-12-03 17:56:00</guid>
-      <pubDate>Tue, 03 Dec 2024 17:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
