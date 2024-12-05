@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 17:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:02:31 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 12:49 pm</title>
+      <description>300 BLOCK MOUNTAIN LN Radio: 9C Units: BR55, FS05, 9C</description>
+      <guid isPermaLink="false">2024-12-05 12:49:00</guid>
+      <pubDate>Thu, 05 Dec 2024 12:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:32 pm</title>
+      <description>3700 BLOCK LAWSON RD Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2024-12-05 12:32:00</guid>
+      <pubDate>Thu, 05 Dec 2024 12:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:27 pm</title>
       <description>5600 BLOCK BROAD RUN RD, IAO Units: BR205</description>
@@ -294,18 +306,6 @@
       <description>KEY PKWY / BAKER PL E Units: A19, E12</description>
       <guid isPermaLink="false">2024-12-03 17:56:00</guid>
       <pubDate>Tue, 03 Dec 2024 17:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:33 pm</title>
-      <description>13200 BLOCK MOLASSES RD Units: A179, E172, FS17</description>
-      <guid isPermaLink="false">2024-12-03 17:33:00</guid>
-      <pubDate>Tue, 03 Dec 2024 17:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:27 pm</title>
-      <description>2500 BLOCK STATION RD, Bldg:B Radio: 9C Units: BR85, 9C</description>
-      <guid isPermaLink="false">2024-12-03 17:27:00</guid>
-      <pubDate>Tue, 03 Dec 2024 17:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
