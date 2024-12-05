@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Dec 2024 16:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 17:02:01 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:58 am</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE, Bldg:B, BRIGHT NOW DENTAL - EVERGREEN SQUARE Radio: 9C Units: R3, PE311, E31, 9C, FS31</description>
+      <guid isPermaLink="false">2024-12-05 11:58:00</guid>
+      <pubDate>Thu, 05 Dec 2024 11:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:39 am</title>
+      <description>100 BLOCK W ALL SAINTS ST Radio: 9C Units: E31, TT4, 9C</description>
+      <guid isPermaLink="false">2024-12-05 11:39:00</guid>
+      <pubDate>Thu, 05 Dec 2024 11:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:56 am</title>
       <description>4400 BLOCK MIDDLE POINT RD Radio: 9C Units: 9C, FS21, BR216, BR85</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK FAIRFAX CT Radio: 9C Units: E331, R3, K33, FS33, 9C, E31</description>
       <guid isPermaLink="false">2024-12-03 15:36:00</guid>
       <pubDate>Tue, 03 Dec 2024 15:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:21 pm</title>
-      <description>8500 BLOCK BLACKS MILL RD Radio: 9B Units: A169, E162, 9B</description>
-      <guid isPermaLink="false">2024-12-03 15:21:00</guid>
-      <pubDate>Tue, 03 Dec 2024 15:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:06 pm</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, AEROPOSTALE - FRANCIS SCOTT KEY MALL Units: E231, E331, BC903, BC901, PE311, E31, E12, R3, TT4, TT23, A319, ALS31, FS31</description>
-      <guid isPermaLink="false">2024-12-03 15:06:00</guid>
-      <pubDate>Tue, 03 Dec 2024 15:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
