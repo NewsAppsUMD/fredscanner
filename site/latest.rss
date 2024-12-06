@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 22:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 22:35:10 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:24 pm</title>
+      <description>9000 BLOCK OLD HARMONY RD Units: E82, E72, E121, E12, TW7, TT4, BC903, BC902, CMD8, EK204, E212, E291, A89, ALS8, SAF901, E31, E201, R3, K7, WCR69, RE74, TT23, MAU15, EMSUTV50, C7, PE311, VOLDC900, RID, E23, A78, EMS901, WCE61, WCK6, U20, TTF, K21, FTF, A129, E501, CAN1, K1, WCEK16, K33, K5</description>
+      <guid isPermaLink="false">2024-12-06 17:24:00</guid>
+      <pubDate>Fri, 06 Dec 2024 17:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:18 pm</title>
+      <description>9000 BLOCK OLD HARMONY RD Units: E82, W8, E72, E121, E12, TW7, TT4, BC903, BC902, CMD8, EK204, E212, E291, A89, ALS8, SAF901, E31, E201, R3, K7, WCR69, RE74, TT23, MAU15, C7, VOLDC900, RID, E23, A78, EMS901, WCE61, WCK6, U20, TTF, K21, FTF, A129, E501, CAN1, K1, WCEK16, K33, K5</description>
+      <guid isPermaLink="false">2024-12-06 17:18:00</guid>
+      <pubDate>Fri, 06 Dec 2024 17:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 5:00 pm</title>
+      <description>26300 BLOCK(27689) BLK RIDGE RD Units: E251</description>
+      <guid isPermaLink="false">2024-12-06 17:00:00</guid>
+      <pubDate>Fri, 06 Dec 2024 17:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:52 pm</title>
       <description>100 BLOCK S COURT ST, STATION 4 Units: TT23</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCK MOUNTAIN LN Radio: 9C Units: BR55, FS05, 9C</description>
       <guid isPermaLink="false">2024-12-05 12:49:00</guid>
       <pubDate>Thu, 05 Dec 2024 12:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:32 pm</title>
-      <description>3700 BLOCK LAWSON RD Radio: 9C Units: E251, FS25, 9C</description>
-      <guid isPermaLink="false">2024-12-05 12:32:00</guid>
-      <pubDate>Thu, 05 Dec 2024 12:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:27 pm</title>
-      <description>5600 BLOCK BROAD RUN RD, IAO Units: BR205</description>
-      <guid isPermaLink="false">2024-12-05 12:27:00</guid>
-      <pubDate>Thu, 05 Dec 2024 12:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:04 pm</title>
-      <description>1000 BLOCK ROCKY SPRINGS RD, SCOTT KEY CENTER Radio: 9C Units: E12, T50, 9C</description>
-      <guid isPermaLink="false">2024-12-05 12:04:00</guid>
-      <pubDate>Thu, 05 Dec 2024 12:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
