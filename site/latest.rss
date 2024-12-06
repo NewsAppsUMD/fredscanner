@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 12:43:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:40 am</title>
+      <description>NINTH AVE / SOUDER RD Radio: 9B Units: T5, FS05, 9B, A196</description>
+      <guid isPermaLink="false">2024-12-06 07:40:00</guid>
+      <pubDate>Fri, 06 Dec 2024 07:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:05 am</title>
+      <description>WOODSBORO PIKE / WOODSBORO RD Radio: 9B Units: A169, E162, FS16, 9B</description>
+      <guid isPermaLink="false">2024-12-06 07:05:00</guid>
+      <pubDate>Fri, 06 Dec 2024 07:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:38 am</title>
       <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: E72</description>
@@ -294,18 +306,6 @@
       <description>RIDGE RD / WOODFIELD RD Radio: 7A4 Units: E251, 7A4, R15</description>
       <guid isPermaLink="false">2024-12-04 14:48:00</guid>
       <pubDate>Wed, 04 Dec 2024 14:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:48 pm</title>
-      <description>RIDGE RD / WOODFIELD RD Radio: 7A4 Units: E251, 7A4</description>
-      <guid isPermaLink="false">2024-12-04 14:48:00</guid>
-      <pubDate>Wed, 04 Dec 2024 14:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Radio: 9B Units: A309, PE102, 9B</description>
-      <guid isPermaLink="false">2024-12-04 14:42:00</guid>
-      <pubDate>Wed, 04 Dec 2024 14:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
