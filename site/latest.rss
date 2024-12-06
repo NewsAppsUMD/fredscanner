@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 00:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 00:46:27 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:28 pm</title>
+      <description>8600 BLOCK FOX GAP RD Radio: 9C Units: WCBR6, 9C, E72</description>
+      <guid isPermaLink="false">2024-12-05 19:28:00</guid>
+      <pubDate>Thu, 05 Dec 2024 19:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:34 pm</title>
       <description>4900 BLOCK REELS MILL RD Radio: 9C Units: FS23, 9C, BR235</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT4100 BLOCK-A RAMP Radio: 9C Units: E121, FS12, 9C</description>
       <guid isPermaLink="false">2024-12-04 12:07:00</guid>
       <pubDate>Wed, 04 Dec 2024 12:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:11 am</title>
-      <description>100 BLOCK STEINER WAY Radio: 9C Units: 9C, E31</description>
-      <guid isPermaLink="false">2024-12-04 10:11:00</guid>
-      <pubDate>Wed, 04 Dec 2024 10:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
