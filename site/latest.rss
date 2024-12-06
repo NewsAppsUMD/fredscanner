@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Dec 2024 22:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 23:01:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:34 pm</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: PE102</description>
+      <guid isPermaLink="false">2024-12-06 17:34:00</guid>
+      <pubDate>Fri, 06 Dec 2024 17:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:24 pm</title>
       <description>9000 BLOCK OLD HARMONY RD Units: E82, E72, E121, E12, TW7, TT4, BC903, BC902, CMD8, EK204, E212, E291, A89, ALS8, SAF901, E31, E201, R3, K7, WCR69, RE74, TT23, MAU15, EMSUTV50, C7, PE311, VOLDC900, RID, E23, A78, EMS901, WCE61, WCK6, U20, TTF, K21, FTF, A129, E501, CAN1, K1, WCEK16, K33, K5</description>
@@ -300,12 +306,6 @@
       <description>4100 BLOCK WESTON DR Radio: 9C Units: 9C, BR55, FS05</description>
       <guid isPermaLink="false">2024-12-05 13:16:00</guid>
       <pubDate>Thu, 05 Dec 2024 13:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:49 pm</title>
-      <description>300 BLOCK MOUNTAIN LN Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2024-12-05 12:49:00</guid>
-      <pubDate>Thu, 05 Dec 2024 12:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
