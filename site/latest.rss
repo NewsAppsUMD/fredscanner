@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Dec 2024 20:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 21:01:48 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:42 pm</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: E111</description>
+      <guid isPermaLink="false">2024-12-07 15:42:00</guid>
+      <pubDate>Sat, 07 Dec 2024 15:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 3:25 pm</title>
       <description>CACAPON RD / QUAINT ACRES Units: WILDLAND7</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK DANCE HALL RD Radio: 9C Units: E111, EK114, BR116, E172, 9C</description>
       <guid isPermaLink="false">2024-12-06 08:44:00</guid>
       <pubDate>Fri, 06 Dec 2024 08:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 8:40 am</title>
-      <description>7400 BLOCK DANCE HALL RD Radio: 9C Units: E111, EK114, BR116, 9C</description>
-      <guid isPermaLink="false">2024-12-06 08:40:00</guid>
-      <pubDate>Fri, 06 Dec 2024 08:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
