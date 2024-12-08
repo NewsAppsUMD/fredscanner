@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Dec 2024 12:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 12:43:21 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 7:29 am</title>
+      <description>6400 BLOCK JEFFERSON PIKE, FIRST MISSIONARY BAPTIST CHURCH Units: E11</description>
+      <guid isPermaLink="false">2024-12-08 07:29:00</guid>
+      <pubDate>Sun, 08 Dec 2024 07:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:24 am</title>
+      <description>OLD HARMONY RD / RT17, OLD HARMONY RD / RT17 Units: BR85</description>
+      <guid isPermaLink="false">2024-12-08 07:24:00</guid>
+      <pubDate>Sun, 08 Dec 2024 07:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:10 am</title>
+      <description>RT340EB / CATOCTIN CREEK, RT340EB / CATOCTIN CREEK Units: E11, E201</description>
+      <guid isPermaLink="false">2024-12-08 07:10:00</guid>
+      <pubDate>Sun, 08 Dec 2024 07:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:07 am</title>
+      <description>I70EB / CATOCTIN CREEK, I70EB / CATOCTIN CREEK Units: E121, E82</description>
+      <guid isPermaLink="false">2024-12-08 07:07:00</guid>
+      <pubDate>Sun, 08 Dec 2024 07:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:33 am</title>
       <description>I70EB / MONUMENT RD, I70EB / MONUMENT RD Radio: 9B Units: E72, WCE162, R8, WCA751, A89, 9B</description>
@@ -282,30 +306,6 @@
       <description>E A ST / NINTH AVE Radio: 9C Units: BR55, FS05, 9C</description>
       <guid isPermaLink="false">2024-12-06 12:16:00</guid>
       <pubDate>Fri, 06 Dec 2024 12:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:11 pm</title>
-      <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: 9C, R2</description>
-      <guid isPermaLink="false">2024-12-06 12:11:00</guid>
-      <pubDate>Fri, 06 Dec 2024 12:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 11:45 am</title>
-      <description>100 BLOCK STEINER WAY Units: E31, TT4</description>
-      <guid isPermaLink="false">2024-12-06 11:45:00</guid>
-      <pubDate>Fri, 06 Dec 2024 11:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:13 am</title>
-      <description>11500 BLOCK NOR-RAY CIR Units: E153, ALS23, E251, R15, HM33, HMSU33, A259, BC901, SAF901</description>
-      <guid isPermaLink="false">2024-12-06 11:13:00</guid>
-      <pubDate>Fri, 06 Dec 2024 11:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:34 am</title>
-      <description>100 BLOCK RANCH TRAIL Units: R6, E132, E133, A68, E61, TW6, BC902, PE102</description>
-      <guid isPermaLink="false">2024-12-06 10:34:00</guid>
-      <pubDate>Fri, 06 Dec 2024 10:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
