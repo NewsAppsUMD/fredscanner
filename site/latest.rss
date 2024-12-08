@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Dec 2024 22:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 22:34:21 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 5:17 pm</title>
+      <description>14700 BLOCK(14000) BLK PARK CENTRAL RD Units: PE102, E212, A307, ALS30, K10, K21, EK224, E221, E61, WCE71, E132, R10, TW6, Q11, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-12-08 17:17:00</guid>
+      <pubDate>Sun, 08 Dec 2024 17:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:02 pm</title>
       <description>3700 BLOCK SPICEBUSH DR Radio: 9C Units: E231, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK OLD HARMONY RD Units: E82, E72, E121, E12, TW7, TT4, BC903, BC902, CMD8, EK204, E212, K23, A89, ALS8, SAF901, E31, E201, R3, K7, C3, C7, VOLDC900, RID, E23, R20, A78, EMS901, WCE61, WCK6, RE74, TTF, K21, K1, WCEK16, K33, K5</description>
       <guid isPermaLink="false">2024-12-06 16:25:00</guid>
       <pubDate>Fri, 06 Dec 2024 16:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:22 pm</title>
-      <description>9000 BLOCK OLD HARMONY RD Units: E82, E72, E121, E12, TW7, TT4, BC903, BC902, CMD8, EK204, E212, A89, ALS8, SAF901, E31, E201, R3, K7, C3, C7, RID, E23, R20, A78, EMS901, WCE61, WCK6, RE74, TTF, K21, K1, WCEK16, K33, K5, W8</description>
-      <guid isPermaLink="false">2024-12-06 16:22:00</guid>
-      <pubDate>Fri, 06 Dec 2024 16:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
