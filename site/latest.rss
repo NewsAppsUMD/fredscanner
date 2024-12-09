@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:43:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:32 am</title>
+      <description>9100 BLOCK BENNETT CREEK BLVD, FANNIE MAE FOUNDATION Radio: 9C Units: E231, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-12-09 07:32:00</guid>
+      <pubDate>Mon, 09 Dec 2024 07:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:31 am</title>
+      <description>1500 BLOCK OPOSSUMTOWN PIKE, HAMPTON INN - OPOSSUMTOWN PIKE Radio: 9I Units: ALS29, EMS902, 9I, E291, R3, A299</description>
+      <guid isPermaLink="false">2024-12-09 07:31:00</guid>
+      <pubDate>Mon, 09 Dec 2024 07:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:15 am</title>
+      <description>6900 BLOCK EXETER CT, Apt/Unit:108 Units: PE23, E141, R3, TT4, FS31, PE311, E31, E501, T50, A319, ALS31, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2024-12-09 07:15:00</guid>
+      <pubDate>Mon, 09 Dec 2024 07:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:12 am</title>
+      <description>4600 BLOCK LANDER RD Units: A209, E201</description>
+      <guid isPermaLink="false">2024-12-09 07:12:00</guid>
+      <pubDate>Mon, 09 Dec 2024 07:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:45 am</title>
       <description>MONOCACY BLVD / E SOUTH ST Radio: 9B Units: E31, A39, ALS4, EMS901, 9B, R3</description>
@@ -282,30 +306,6 @@
       <description>200 BLOCK CHAPEL RD Units: E61</description>
       <guid isPermaLink="false">2024-12-07 03:04:00</guid>
       <pubDate>Sat, 07 Dec 2024 03:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 12:59 am</title>
-      <description>9000 BLOCK OLD HARMONY RD Units: E82</description>
-      <guid isPermaLink="false">2024-12-07 00:59:00</guid>
-      <pubDate>Sat, 07 Dec 2024 00:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 10:01 pm</title>
-      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: E291, T50, E501, FS29, 9C</description>
-      <guid isPermaLink="false">2024-12-06 22:01:00</guid>
-      <pubDate>Fri, 06 Dec 2024 22:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:32 pm</title>
-      <description>9000 BLOCK OLD HARMONY RD Units: E82, E72, E12, TW7, WCE92, K7, RE74, EMSUTV50, A89, BR85, BR75, RID, TTF, FTF</description>
-      <guid isPermaLink="false">2024-12-06 21:32:00</guid>
-      <pubDate>Fri, 06 Dec 2024 21:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:59 pm</title>
-      <description>FOXVILLE RD / CATOCTIN HOLLOW RD Radio: 9B Units: A309, R10, 9B</description>
-      <guid isPermaLink="false">2024-12-06 20:59:00</guid>
-      <pubDate>Fri, 06 Dec 2024 20:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
