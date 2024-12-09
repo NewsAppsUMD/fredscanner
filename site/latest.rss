@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Dec 2024 16:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 17:02:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:39 am</title>
+      <description>SABILLASVILLE RD / RAILROAD XING Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902, 9D</description>
+      <guid isPermaLink="false">2024-12-09 11:39:00</guid>
+      <pubDate>Mon, 09 Dec 2024 11:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:37 am</title>
+      <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: 9C, E232, TT23, FS23</description>
+      <guid isPermaLink="false">2024-12-09 11:37:00</guid>
+      <pubDate>Mon, 09 Dec 2024 11:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:14 am</title>
       <description>I70EB / 36MM Radio: PS1 Units: E82, PS1</description>
@@ -294,18 +306,6 @@
       <description>4900 BLOCK RIDGE CREST CT Units: A129, E121, FS12</description>
       <guid isPermaLink="false">2024-12-07 12:16:00</guid>
       <pubDate>Sat, 07 Dec 2024 12:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:57 am</title>
-      <description>500 BLOCK N MARKET ST, STATION 2 Units: E132</description>
-      <guid isPermaLink="false">2024-12-07 07:57:00</guid>
-      <pubDate>Sat, 07 Dec 2024 07:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:49 am</title>
-      <description>800 BLOCK CROMWELL DR Radio: 9D Units: E12, BC902, SAF901, RID, E501, R24, A39, E31, E111, E291, R3, TT4, Q11, PE23, 9D, A28, ALS2, EMS902, W2, BC901</description>
-      <guid isPermaLink="false">2024-12-07 07:49:00</guid>
-      <pubDate>Sat, 07 Dec 2024 07:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
