@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 14:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 14:36:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:09 am</title>
+      <description>400 BLOCK W SOUTH ST, BEACON HOUSE Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2024-12-10 09:09:00</guid>
+      <pubDate>Tue, 10 Dec 2024 09:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:58 am</title>
       <description>6000 BLOCK WALLEYE PL Radio: 9C Units: E331, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>OLD HARMONY RD / RT17, OLD HARMONY RD / RT17 Units: BR85</description>
       <guid isPermaLink="false">2024-12-08 07:24:00</guid>
       <pubDate>Sun, 08 Dec 2024 07:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:10 am</title>
-      <description>RT340EB / CATOCTIN CREEK, RT340EB / CATOCTIN CREEK Units: E11, E201</description>
-      <guid isPermaLink="false">2024-12-08 07:10:00</guid>
-      <pubDate>Sun, 08 Dec 2024 07:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
