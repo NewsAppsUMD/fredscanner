@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Dec 2024 13:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 14:02:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:58 am</title>
+      <description>6000 BLOCK WALLEYE PL Radio: 9C Units: E331, FS15, 9C</description>
+      <guid isPermaLink="false">2024-12-10 08:58:00</guid>
+      <pubDate>Tue, 10 Dec 2024 08:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:57 am</title>
+      <description>400 BLOCK W SOUTH ST, BEACON HOUSE Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2024-12-10 08:57:00</guid>
+      <pubDate>Tue, 10 Dec 2024 08:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 8:17 am</title>
       <description>100 BLOCK CAMPUS AVE Units: E82</description>
@@ -294,18 +306,6 @@
       <description>RT340EB / CATOCTIN CREEK, RT340EB / CATOCTIN CREEK Units: E11, E201</description>
       <guid isPermaLink="false">2024-12-08 07:10:00</guid>
       <pubDate>Sun, 08 Dec 2024 07:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:07 am</title>
-      <description>I70EB / CATOCTIN CREEK, I70EB / CATOCTIN CREEK Units: E121, E82</description>
-      <guid isPermaLink="false">2024-12-08 07:07:00</guid>
-      <pubDate>Sun, 08 Dec 2024 07:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:33 am</title>
-      <description>I70EB / MONUMENT RD, I70EB / MONUMENT RD Radio: 9B Units: E72, WCE162, R8, WCA751, A89, 9B</description>
-      <guid isPermaLink="false">2024-12-08 00:33:00</guid>
-      <pubDate>Sun, 08 Dec 2024 00:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
