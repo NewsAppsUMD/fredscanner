@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 01:29:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 02:10:52 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:44 pm</title>
+      <description>200 BLOCK E SIXTH ST Radio: 9C Units: 9C, E33</description>
+      <guid isPermaLink="false">2024-12-10 20:44:00</guid>
+      <pubDate>Tue, 10 Dec 2024 20:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:33 pm</title>
+      <description>2100 BLOCK DIXON RD Radio: 9C Units: A239, BC901, SAF901, FS23, 9C, E251, E141, E11, TT23, K23</description>
+      <guid isPermaLink="false">2024-12-10 20:33:00</guid>
+      <pubDate>Tue, 10 Dec 2024 20:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:10 pm</title>
       <description>LEGORE BRIDGE RD / CLYDE YOUNG RD Radio: 9C Units: 9C, FS09, BR96</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK RITTER DR Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-12-08 18:45:00</guid>
       <pubDate>Sun, 08 Dec 2024 18:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:37 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK Radio: 9D Units: C2C, A18, BC901, SAF901, E31, PE23, PE311, E11, 9D</description>
-      <guid isPermaLink="false">2024-12-08 18:37:00</guid>
-      <pubDate>Sun, 08 Dec 2024 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:35 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK Radio: 9D Units: TW1, A18, BC901, SAF901, E31, PE23, PE311, FS50, 9D</description>
-      <guid isPermaLink="false">2024-12-08 18:35:00</guid>
-      <pubDate>Sun, 08 Dec 2024 18:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
