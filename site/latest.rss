@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Dec 2024 15:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 15:35:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:06 am</title>
+      <description>RT340EB / 12MM, RT340EB / 12MM Units: PE311, R20, BC903, EMS901, FS20, A209, A18, ALS20, E201</description>
+      <guid isPermaLink="false">2024-12-11 10:06:00</guid>
+      <pubDate>Wed, 11 Dec 2024 10:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 10:04 am</title>
+      <description>RT15SB / 16MM, RT15SB / 16MM Radio: 9D Units: E291, E33, R2, A299, BC902, SAF901, EMS902, FS29, 9D, A28, ALS29, ALS4, HM33, HM50, HMSU33, E121</description>
+      <guid isPermaLink="false">2024-12-11 10:04:00</guid>
+      <pubDate>Wed, 11 Dec 2024 10:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:59 am</title>
       <description>4900 BLOCK TALL OAKS DR Units: A259, E251, FS25</description>
@@ -294,18 +306,6 @@
       <description>9100 BLOCK BENNETT CREEK BLVD, FANNIE MAE FOUNDATION Radio: 9C Units: E231, TT23, FS23, 9C</description>
       <guid isPermaLink="false">2024-12-09 07:32:00</guid>
       <pubDate>Mon, 09 Dec 2024 07:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:31 am</title>
-      <description>1500 BLOCK OPOSSUMTOWN PIKE, HAMPTON INN - OPOSSUMTOWN PIKE Radio: 9I Units: ALS29, EMS902, 9I, E291, R3, A299</description>
-      <guid isPermaLink="false">2024-12-09 07:31:00</guid>
-      <pubDate>Mon, 09 Dec 2024 07:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:15 am</title>
-      <description>6900 BLOCK EXETER CT, Apt/Unit:108 Units: PE23, E141, R3, TT4, FS31, PE311, E31, E501, T50, A319, ALS31, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2024-12-09 07:15:00</guid>
-      <pubDate>Mon, 09 Dec 2024 07:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
