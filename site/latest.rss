@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 11:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 11:31:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:05 am</title>
+      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Units: E161, Q11, FS16</description>
+      <guid isPermaLink="false">2024-12-12 01:05:00</guid>
+      <pubDate>Thu, 12 Dec 2024 01:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 12:55 am</title>
+      <description>8100 BLOCK REICHS FORD RD, REPUBLIC SERVICES Units: E331, PE311, K33, E33, CMD3, BC901, PE23</description>
+      <guid isPermaLink="false">2024-12-12 00:55:00</guid>
+      <pubDate>Thu, 12 Dec 2024 00:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 12:42 am</title>
+      <description>8000 BLOCK REICHS FORD RD Units: E331, PE311, K33, E33, PE23</description>
+      <guid isPermaLink="false">2024-12-12 00:42:00</guid>
+      <pubDate>Thu, 12 Dec 2024 00:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:34 am</title>
       <description>8000 BLOCK REICHS FORD RD, RELIABLE RECYCLING CENTER Units: E33</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK CAMPUS AVE Units: E82</description>
       <guid isPermaLink="false">2024-12-10 08:17:00</guid>
       <pubDate>Tue, 10 Dec 2024 08:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:34 am</title>
-      <description>NEW DESIGN RD / TUSCARORA RD Units: E281, ALS31, EMS901, A149, R14</description>
-      <guid isPermaLink="false">2024-12-10 05:34:00</guid>
-      <pubDate>Tue, 10 Dec 2024 05:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:28 am</title>
-      <description>NEW DESIGN RD / TUSCARORA RD Units: A149, E141, FS14</description>
-      <guid isPermaLink="false">2024-12-10 05:28:00</guid>
-      <pubDate>Tue, 10 Dec 2024 05:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:16 pm</title>
-      <description>RT340WB / LANDER RD, RT340WB / LANDER RD Units: A209, E201</description>
-      <guid isPermaLink="false">2024-12-09 21:16:00</guid>
-      <pubDate>Mon, 09 Dec 2024 21:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
