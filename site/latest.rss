@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 02:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:16:06 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:08 pm</title>
+      <description>1400 BLOCK KEY PKWY, Bldg:C, Apt/Unit:303, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Radio: 9C Units: TT4, E11, E121, 9C</description>
+      <guid isPermaLink="false">2024-12-12 22:08:00</guid>
+      <pubDate>Thu, 12 Dec 2024 22:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:24 pm</title>
       <description>4900 BLOCK JACK LINTON DR N Units: PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK DIXON RD Radio: 9C Units: A239, BC901, SAF901, FS23, 9C, E251, E141, E11, TT23, K23</description>
       <guid isPermaLink="false">2024-12-10 20:33:00</guid>
       <pubDate>Tue, 10 Dec 2024 20:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:10 pm</title>
-      <description>LEGORE BRIDGE RD / CLYDE YOUNG RD Radio: 9C Units: 9C, FS09, BR96</description>
-      <guid isPermaLink="false">2024-12-10 17:10:00</guid>
-      <pubDate>Tue, 10 Dec 2024 17:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
