@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Dec 2024 04:36:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 05:02:12 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 11:40 pm</title>
+      <description>100 BLOCK STEINER WAY Radio: 9D Units: E33, A38, ALS4, TT4, BC901, 9D, EMS901</description>
+      <guid isPermaLink="false">2024-12-12 23:40:00</guid>
+      <pubDate>Thu, 12 Dec 2024 23:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 11:39 pm</title>
+      <description>100 BLOCK STEINER WAY Radio: 9D Units: A38, ALS4, TT4, BC901, 9D, EMS901</description>
+      <guid isPermaLink="false">2024-12-12 23:39:00</guid>
+      <pubDate>Thu, 12 Dec 2024 23:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 10:08 pm</title>
       <description>1400 BLOCK KEY PKWY, Bldg:C, Apt/Unit:303, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Radio: 9C Units: TT4, E11, E121, 9C</description>
@@ -294,18 +306,6 @@
       <description>RT144 / BALTIMORE RD, RT144 / BALTIMORE RD Units: R15, A339, ALS4, E331, BC901, EMS901, FS33</description>
       <guid isPermaLink="false">2024-12-11 00:02:00</guid>
       <pubDate>Wed, 11 Dec 2024 00:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:44 pm</title>
-      <description>200 BLOCK E SIXTH ST Radio: 9C Units: 9C, E33</description>
-      <guid isPermaLink="false">2024-12-10 20:44:00</guid>
-      <pubDate>Tue, 10 Dec 2024 20:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 8:33 pm</title>
-      <description>2100 BLOCK DIXON RD Radio: 9C Units: A239, BC901, SAF901, FS23, 9C, E251, E141, E11, TT23, K23</description>
-      <guid isPermaLink="false">2024-12-10 20:33:00</guid>
-      <pubDate>Tue, 10 Dec 2024 20:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
