@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Dec 2024 23:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 00:07:41 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 6:55 pm</title>
+      <description>2100 BLOCK BELLEMONTE CT Radio: 9C Units: BC903, E201, TW7, K7, A78, 9C, E72, T5, EK204</description>
+      <guid isPermaLink="false">2024-12-12 18:55:00</guid>
+      <pubDate>Thu, 12 Dec 2024 18:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:55 pm</title>
+      <description>2100 BLOCK BELLEMONTE CT Radio: 9C Units: BC903, E201, TW7, K7, A78, 9C, E72</description>
+      <guid isPermaLink="false">2024-12-12 18:55:00</guid>
+      <pubDate>Thu, 12 Dec 2024 18:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:50 pm</title>
+      <description>2100 BLOCK BELLEMONTE CT Radio: 9C Units: E201, TW7, K7, A78, 9C, E72</description>
+      <guid isPermaLink="false">2024-12-12 18:50:00</guid>
+      <pubDate>Thu, 12 Dec 2024 18:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:51 pm</title>
       <description>JAMES MONROEHWY / KENSLEE HILL LN Units: E281</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A158</description>
       <guid isPermaLink="false">2024-12-10 16:58:00</guid>
       <pubDate>Tue, 10 Dec 2024 16:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:45 pm</title>
-      <description>100 BLOCK S COURT ST, STATION 4 Units: TW7</description>
-      <guid isPermaLink="false">2024-12-10 16:45:00</guid>
-      <pubDate>Tue, 10 Dec 2024 16:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:44 pm</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: E232</description>
-      <guid isPermaLink="false">2024-12-10 16:44:00</guid>
-      <pubDate>Tue, 10 Dec 2024 16:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:42 pm</title>
-      <description>5600 BLOCK PEBBLE DR Radio: 9D Units: BC901, SAF901, E291, E33, PE23, R3, TW1, TT4, A318, ALS31, BC902, C3D, RID, E201, E501, PE311, C3, T50, A39, EMS901, FS31, 9D</description>
-      <guid isPermaLink="false">2024-12-10 16:42:00</guid>
-      <pubDate>Tue, 10 Dec 2024 16:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
