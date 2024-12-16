@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Dec 2024 23:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 00:07:56 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:38 pm</title>
+      <description>1600 BLOCK BERRY ROSE CT, Apt/Unit:J Units: PE23, E33, TT4</description>
+      <guid isPermaLink="false">2024-12-15 18:38:00</guid>
+      <pubDate>Sun, 15 Dec 2024 18:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:13 pm</title>
       <description>I70WB / 47MM, I70WB / 47MM Units: FS12, A129, E121</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK JACK LINTON DR N Units: PE311, FS31</description>
       <guid isPermaLink="false">2024-12-12 20:24:00</guid>
       <pubDate>Thu, 12 Dec 2024 20:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 6:55 pm</title>
-      <description>2100 BLOCK BELLEMONTE CT Radio: 9C Units: BC903, E201, TW7, K7, A78, 9C, E72, T5, EK204</description>
-      <guid isPermaLink="false">2024-12-12 18:55:00</guid>
-      <pubDate>Thu, 12 Dec 2024 18:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
