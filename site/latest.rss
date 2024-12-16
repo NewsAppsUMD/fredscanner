@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Dec 2024 17:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 17:33:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:26 pm</title>
+      <description>TUSCARORA RD / NEW DESIGN RD Radio: 9B Units: 9B, EMS901, A318, E33, ALS23</description>
+      <guid isPermaLink="false">2024-12-16 12:26:00</guid>
+      <pubDate>Mon, 16 Dec 2024 12:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:23 pm</title>
+      <description>TUSCARORA RD / NEW DESIGN RD Radio: 9B Units: 9B, A318, E33, FS14</description>
+      <guid isPermaLink="false">2024-12-16 12:23:00</guid>
+      <pubDate>Mon, 16 Dec 2024 12:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:22 pm</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: FS22, 9C, PE102, Q11, E221</description>
+      <guid isPermaLink="false">2024-12-16 12:22:00</guid>
+      <pubDate>Mon, 16 Dec 2024 12:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 11:22 am</title>
       <description>200 BLOCK KNOXVILLE RD Units: BC903, JCRE1, E201, E612B, E626, E281, R19, TW7, TT4, A198, ALS20, WCEK8, BC902, SAF901, FS05</description>
@@ -288,24 +306,6 @@
       <description>4500 BLOCK CHERRY LN Radio: 9B Units: E121, A129, FS12, 9B</description>
       <guid isPermaLink="false">2024-12-13 20:26:00</guid>
       <pubDate>Fri, 13 Dec 2024 20:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:38 pm</title>
-      <description>I70WB / RT40A, I70WB / RT40A Radio: 9B Units: E121, R3, FS12, A129, A89, E82, 9B</description>
-      <guid isPermaLink="false">2024-12-13 19:38:00</guid>
-      <pubDate>Fri, 13 Dec 2024 19:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:15 pm</title>
-      <description>1200 BLOCK APOLLO DR Units: E291</description>
-      <guid isPermaLink="false">2024-12-13 19:15:00</guid>
-      <pubDate>Fri, 13 Dec 2024 19:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:11 pm</title>
-      <description>SCHIFFERSTADT BLVD / MONOCACY BLVD Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-12-13 19:11:00</guid>
-      <pubDate>Fri, 13 Dec 2024 19:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
