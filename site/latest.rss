@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 11:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 12:03:00 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 6:59 am</title>
+      <description>100 BLOCK E MAIN ST, ANTIQUES FOLLY Units: E61, PE102, E132, ACE22, CCE111, R6, TW6, CCLDR5, A68, ALS30, ACE232, BC902, BC901, SAF901, FS06</description>
+      <guid isPermaLink="false">2024-12-18 06:59:00</guid>
+      <pubDate>Wed, 18 Dec 2024 06:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:59 am</title>
       <description>I70EB / 36MM Radio: PS1 Units: A89, E82, PS1</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BARLOW RD Units: E61, TW6, A68</description>
       <guid isPermaLink="false">2024-12-14 23:15:00</guid>
       <pubDate>Sat, 14 Dec 2024 23:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:55 pm</title>
-      <description>ELMER DERR RD / HORMAN LN Units: R20, A209, ALS20, BC903, EMS901, E201</description>
-      <guid isPermaLink="false">2024-12-14 20:55:00</guid>
-      <pubDate>Sat, 14 Dec 2024 20:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
