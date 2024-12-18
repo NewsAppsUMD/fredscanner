@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 17:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 17:33:33 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:25 pm</title>
+      <description>100 BLOCK S CARROLL ST, SCORPION SYSTEMS INC Radio: 9C Units: E23, 9C, TT4</description>
+      <guid isPermaLink="false">2024-12-18 12:25:00</guid>
+      <pubDate>Wed, 18 Dec 2024 12:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 12:13 pm</title>
+      <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2024-12-18 12:13:00</guid>
+      <pubDate>Wed, 18 Dec 2024 12:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:57 am</title>
       <description>1000 BLOCK N MARKET ST, YMCA FREDERICK Units: E23, TT4</description>
@@ -294,18 +306,6 @@
       <description>19800 BLOCK MARTINSBURG RD Units: E141</description>
       <guid isPermaLink="false">2024-12-15 14:36:00</guid>
       <pubDate>Sun, 15 Dec 2024 14:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:38 pm</title>
-      <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT75 RAMP Radio: 9B Units: R15, FS15, 9B, A259</description>
-      <guid isPermaLink="false">2024-12-15 13:38:00</guid>
-      <pubDate>Sun, 15 Dec 2024 13:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 12:25 pm</title>
-      <description>3500 BLOCK POINT OF ROCKS RD Radio: 9D Units: FS28, 9D, E201</description>
-      <guid isPermaLink="false">2024-12-15 12:25:00</guid>
-      <pubDate>Sun, 15 Dec 2024 12:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
