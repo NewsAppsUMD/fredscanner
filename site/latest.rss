@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 11:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 12:02:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:59 am</title>
+      <description>100 BLOCK E GREEN ST, FOUNTAINDALE AUTO CENTER Units: TW7, E72</description>
+      <guid isPermaLink="false">2024-12-20 06:59:00</guid>
+      <pubDate>Fri, 20 Dec 2024 06:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:29 pm</title>
       <description>PENN SHOP CT / SKYVIEW DR Radio: 9C Units: E251, FS25, 9C</description>
@@ -300,12 +306,6 @@
       <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: FS22, 9C, PE102, Q11, E221</description>
       <guid isPermaLink="false">2024-12-16 12:22:00</guid>
       <pubDate>Mon, 16 Dec 2024 12:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:22 am</title>
-      <description>200 BLOCK KNOXVILLE RD Units: BC903, JCRE1, E201, E612B, E626, E281, R19, TW7, TT4, A198, ALS20, WCEK8, BC902, SAF901, FS05</description>
-      <guid isPermaLink="false">2024-12-16 11:22:00</guid>
-      <pubDate>Mon, 16 Dec 2024 11:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
