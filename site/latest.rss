@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 14:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 15:01:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:53 am</title>
+      <description>5700 BLOCK WOODGLADE CIR Units: E153, CCT1, FS15</description>
+      <guid isPermaLink="false">2024-12-20 09:53:00</guid>
+      <pubDate>Fri, 20 Dec 2024 09:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 8:30 am</title>
       <description>4500 BLOCK TINDER BOX CIR Units: E153, TT23, FS25, E251</description>
@@ -300,12 +306,6 @@
       <description>4500 BLOCK MACK AVE, Bldg:B, LAUREL HALL SCHOOL Radio: 9C Units: PE23, 9C, E311, R3, FS31</description>
       <guid isPermaLink="false">2024-12-16 12:50:00</guid>
       <pubDate>Mon, 16 Dec 2024 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:26 pm</title>
-      <description>TUSCARORA RD / NEW DESIGN RD Radio: 9B Units: 9B, EMS901, A318, E33, ALS23</description>
-      <guid isPermaLink="false">2024-12-16 12:26:00</guid>
-      <pubDate>Mon, 16 Dec 2024 12:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
