@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 13:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 13:33:19 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 8:30 am</title>
+      <description>4500 BLOCK TINDER BOX CIR Units: E153, TT23, FS25, E251</description>
+      <guid isPermaLink="false">2024-12-20 08:30:00</guid>
+      <pubDate>Fri, 20 Dec 2024 08:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:00 am</title>
       <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Units: PE23, Q11</description>
@@ -300,12 +306,6 @@
       <description>TUSCARORA RD / NEW DESIGN RD Radio: 9B Units: 9B, EMS901, A318, E33, ALS23</description>
       <guid isPermaLink="false">2024-12-16 12:26:00</guid>
       <pubDate>Mon, 16 Dec 2024 12:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:23 pm</title>
-      <description>TUSCARORA RD / NEW DESIGN RD Radio: 9B Units: 9B, A318, E33, FS14</description>
-      <guid isPermaLink="false">2024-12-16 12:23:00</guid>
-      <pubDate>Mon, 16 Dec 2024 12:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
