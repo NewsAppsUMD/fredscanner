@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 16:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 17:01:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:47 am</title>
+      <description>7800 BLOCK WORMANS MILL RD, WEGMANS - CLEMSON CORNER Units: R24, ALS2, BC902, EMS902, E111, A248, FS29</description>
+      <guid isPermaLink="false">2024-12-20 11:47:00</guid>
+      <pubDate>Fri, 20 Dec 2024 11:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:53 am</title>
       <description>5700 BLOCK WOODGLADE CIR Units: E153, CCT1, FS15</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK AERIE LANE Units: RE52</description>
       <guid isPermaLink="false">2024-12-16 15:28:00</guid>
       <pubDate>Mon, 16 Dec 2024 15:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 12:50 pm</title>
-      <description>4500 BLOCK MACK AVE, Bldg:B, LAUREL HALL SCHOOL Radio: 9C Units: PE23, 9C, E311, R3, FS31</description>
-      <guid isPermaLink="false">2024-12-16 12:50:00</guid>
-      <pubDate>Mon, 16 Dec 2024 12:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
