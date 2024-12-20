@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 20:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 20:32:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:14 pm</title>
+      <description>FINGERBOARD RD / BAKER VALLEY RD Radio: 9B Units: A149, A238, E232, 9B</description>
+      <guid isPermaLink="false">2024-12-20 15:14:00</guid>
+      <pubDate>Fri, 20 Dec 2024 15:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 3:07 pm</title>
+      <description>16200 BLOCK SABILLASVILLE RD, SCENIC VIEW ORCHARDS - SABILLASVILLE RD Radio: 9C Units: 9C, EMS902, PE102, R10, A309</description>
+      <guid isPermaLink="false">2024-12-20 15:07:00</guid>
+      <pubDate>Fri, 20 Dec 2024 15:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 3:07 pm</title>
+      <description>16200 BLOCK SABILLASVILLE RD, SCENIC VIEW ORCHARDS - SABILLASVILLE RD Radio: 9C Units: 9C, PE102, R10, A309</description>
+      <guid isPermaLink="false">2024-12-20 15:07:00</guid>
+      <pubDate>Fri, 20 Dec 2024 15:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
       <description>FINGERBOARD RD / BAKER VALLEY RD Radio: 9B Units: A238, E232, FS23, 9B</description>
@@ -288,24 +306,6 @@
       <description>4500 BLOCK ARABY CHURCH RD, IFO Radio: 9B Units: 9B, A238, E232, FS23</description>
       <guid isPermaLink="false">2024-12-17 12:55:00</guid>
       <pubDate>Tue, 17 Dec 2024 12:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
-      <description>4600 BLOCK WEDGEWOOD BLVD, Bldg:N, WEDGEWOOD II FIRE Radio: 9C Units: E33, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2024-12-17 08:38:00</guid>
-      <pubDate>Tue, 17 Dec 2024 08:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:37 am</title>
-      <description>3400 BLOCK ANGELICA WAY Radio: 9C Units: E251, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-12-17 07:37:00</guid>
-      <pubDate>Tue, 17 Dec 2024 07:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:48 am</title>
-      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: 9C, RE52, TW7, FS05</description>
-      <guid isPermaLink="false">2024-12-17 06:48:00</guid>
-      <pubDate>Tue, 17 Dec 2024 06:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
