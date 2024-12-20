@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Dec 2024 18:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 19:02:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:53 pm</title>
+      <description>I70EB / MUSSETTER RD, I70EB / MUSSETTER RD Radio: 9D Units: E331, PE311, BC901, EMS901, FS33, 9D, E153, A158, R15, A339</description>
+      <guid isPermaLink="false">2024-12-20 13:53:00</guid>
+      <pubDate>Fri, 20 Dec 2024 13:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:24 pm</title>
       <description>HORINE RD / GENE HEMP RD Radio: 9D Units: 9D, E201, R20, A209, ALS4, BC903, EMS901, FS20</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK TANEY AVE Units: E501, PE23, T50</description>
       <guid isPermaLink="false">2024-12-16 18:04:00</guid>
       <pubDate>Mon, 16 Dec 2024 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:51 pm</title>
-      <description>8000 BLOCK RUNNYMEADE DR Radio: 9C Units: FS29, 9C, E291</description>
-      <guid isPermaLink="false">2024-12-16 15:51:00</guid>
-      <pubDate>Mon, 16 Dec 2024 15:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
