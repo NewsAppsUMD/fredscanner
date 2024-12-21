@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Dec 2024 09:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 10:01:48 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 4:49 am</title>
+      <description>900 BLOCK MOSBY DR Radio: 9B Units: A299, ALS29, E291, BC902, EMS902, FS29, 9B</description>
+      <guid isPermaLink="false">2024-12-21 04:49:00</guid>
+      <pubDate>Sat, 21 Dec 2024 04:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:59 am</title>
       <description>2500 BLOCK HEMINGWAY DR, Apt/Unit:3B, RIDGEVIEW CONDOS - 2500 BLOCK HEMINGWAY DR Units: E11, T50</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: 9C, E11</description>
       <guid isPermaLink="false">2024-12-18 12:13:00</guid>
       <pubDate>Wed, 18 Dec 2024 12:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:57 am</title>
-      <description>1000 BLOCK N MARKET ST, YMCA FREDERICK Units: E23, TT4</description>
-      <guid isPermaLink="false">2024-12-18 10:57:00</guid>
-      <pubDate>Wed, 18 Dec 2024 10:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
