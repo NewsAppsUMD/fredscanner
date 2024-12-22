@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Dec 2024 19:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 20:01:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:56 pm</title>
+      <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Units: A29, PE23</description>
+      <guid isPermaLink="false">2024-12-22 14:56:00</guid>
+      <pubDate>Sun, 22 Dec 2024 14:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 1:27 pm</title>
       <description>RT85 / RAMP TO I270SB, RT85 / RAMP TO I270SB Radio: 9C Units: FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E GREEN ST, FOUNTAINDALE AUTO CENTER Units: TW7, E72</description>
       <guid isPermaLink="false">2024-12-20 06:59:00</guid>
       <pubDate>Fri, 20 Dec 2024 06:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:29 pm</title>
-      <description>PENN SHOP CT / SKYVIEW DR Radio: 9C Units: E251, FS25, 9C</description>
-      <guid isPermaLink="false">2024-12-19 21:29:00</guid>
-      <pubDate>Thu, 19 Dec 2024 21:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
