@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 22:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 22:33:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:12 pm</title>
+      <description>3400 BLOCK KEMPTOWN CHURCH RD Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2024-12-23 17:12:00</guid>
+      <pubDate>Mon, 23 Dec 2024 17:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 5:06 pm</title>
+      <description>11500 BLOCK HOUCK RD Radio: 9D Units: CCM89, BC902, E91, C900, CCA109, TRNBC900, E162, R24, CCR8, CCLDR5, CCEK54, ALS17, FS09, 9D, CCE101, CCLT8D, E133, CMD9, CCE81, E172, CCR5, K9, K17, EK134, BC901, SAF901</description>
+      <guid isPermaLink="false">2024-12-23 17:06:00</guid>
+      <pubDate>Mon, 23 Dec 2024 17:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 4:57 pm</title>
       <description>11500 BLOCK HOUCK RD Units: CCM89, CCM109, BC902, E91, CCE102, E162, E132, CCR8, CCLDR5, CCE81, E172, CCR5, K9, K17, EK134, BC901, SAF901, FS09</description>
@@ -294,18 +306,6 @@
       <description>E FIFTH ST / N EAST ST Radio: 9B Units: A29, PE23, 9B</description>
       <guid isPermaLink="false">2024-12-22 09:12:00</guid>
       <pubDate>Sun, 22 Dec 2024 09:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:58 am</title>
-      <description>7100 BLOCK MCHENRY MEWS Radio: 9C Units: FS31, PE311, 9C</description>
-      <guid isPermaLink="false">2024-12-22 07:58:00</guid>
-      <pubDate>Sun, 22 Dec 2024 07:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:20 pm</title>
-      <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: RE74</description>
-      <guid isPermaLink="false">2024-12-21 21:20:00</guid>
-      <pubDate>Sat, 21 Dec 2024 21:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
