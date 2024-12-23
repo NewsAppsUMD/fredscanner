@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Dec 2024 23:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 00:07:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:38 pm</title>
+      <description>6100 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, FS12, 9C</description>
+      <guid isPermaLink="false">2024-12-22 18:38:00</guid>
+      <pubDate>Sun, 22 Dec 2024 18:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:15 pm</title>
       <description>5100 BLOCK CONSTITUTION ST Radio: 9C Units: PE311, FS31, 9C, T4</description>
@@ -300,12 +306,6 @@
       <description>I70EB / MUSSETTER RD, I70EB / MUSSETTER RD Radio: 9D Units: E331, PE311, BC901, EMS901, FS33, 9D, E153, A158, R15, A339</description>
       <guid isPermaLink="false">2024-12-20 13:53:00</guid>
       <pubDate>Fri, 20 Dec 2024 13:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:24 pm</title>
-      <description>HORINE RD / GENE HEMP RD Radio: 9D Units: 9D, E201, R20, A209, ALS4, BC903, EMS901, FS20</description>
-      <guid isPermaLink="false">2024-12-20 12:24:00</guid>
-      <pubDate>Fri, 20 Dec 2024 12:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
