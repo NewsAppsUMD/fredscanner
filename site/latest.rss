@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 17:32:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 18:02:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:58 pm</title>
+      <description>500 BLOCK ELLISON CT Radio: 9C Units: T50, 9C, E11</description>
+      <guid isPermaLink="false">2024-12-23 12:58:00</guid>
+      <pubDate>Mon, 23 Dec 2024 12:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:54 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9B Units: T4, FS31, 9B, PE311</description>
+      <guid isPermaLink="false">2024-12-23 12:54:00</guid>
+      <pubDate>Mon, 23 Dec 2024 12:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:09 pm</title>
       <description>12500 BLOCK OLD FREDERICK RD, STATION HC003 - WEST FRIENDSHIP Units: E232, K33</description>
@@ -294,18 +306,6 @@
       <description>RT15 / RT28, RT15 / RT28 Units: E281, A610, A149</description>
       <guid isPermaLink="false">2024-12-21 14:15:00</guid>
       <pubDate>Sat, 21 Dec 2024 14:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:00 pm</title>
-      <description>RT15 / RT28, RT15 / RT28 Units: E281, FS28, A610</description>
-      <guid isPermaLink="false">2024-12-21 14:00:00</guid>
-      <pubDate>Sat, 21 Dec 2024 14:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:18 pm</title>
-      <description>4700 BLOCK IJAMSVILLE RD(OLD), CROSS ROADS FREEDOM CENTER Units: E331, T4, FS33</description>
-      <guid isPermaLink="false">2024-12-21 12:18:00</guid>
-      <pubDate>Sat, 21 Dec 2024 12:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
