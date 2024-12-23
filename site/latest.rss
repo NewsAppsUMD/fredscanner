@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 16:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 17:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:55 am</title>
+      <description>WOODSBORO PIKE / COPPERMINE RD Radio: 9B Units: A169, E162, 9B, FS16</description>
+      <guid isPermaLink="false">2024-12-23 11:55:00</guid>
+      <pubDate>Mon, 23 Dec 2024 11:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
+      <description>FELDSPAR RD / UNAKITE CT Radio: 9B Units: A129, E121, FS12, 9B</description>
+      <guid isPermaLink="false">2024-12-23 11:53:00</guid>
+      <pubDate>Mon, 23 Dec 2024 11:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 11:15 am</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: 9B, E232, PRE709, FS23</description>
@@ -294,18 +306,6 @@
       <description>4700 BLOCK IJAMSVILLE RD(OLD), CROSS ROADS FREEDOM CENTER Units: FS33, E331, TT23</description>
       <guid isPermaLink="false">2024-12-21 12:16:00</guid>
       <pubDate>Sat, 21 Dec 2024 12:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:52 am</title>
-      <description>I70EB / REST AREA (MOUNT AIRY), I70EB / REST AREA Radio: 9D Units: CCE12, R15, A158, E153, CCA19, CCM18, BC901, EMS901, FS15, 9D</description>
-      <guid isPermaLink="false">2024-12-21 05:52:00</guid>
-      <pubDate>Sat, 21 Dec 2024 05:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 5:14 am</title>
-      <description>SUNDAYS LN / BARTGIS RD Units: E291, R24, A229, ALS2, BC902, EMS902, FS29</description>
-      <guid isPermaLink="false">2024-12-21 05:14:00</guid>
-      <pubDate>Sat, 21 Dec 2024 05:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
