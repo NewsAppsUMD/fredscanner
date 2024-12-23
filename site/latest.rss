@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:43:09 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 7:39 am</title>
+      <description>5900 BLOCK BARTONSVILLE RD Radio: 9C Units: FS33, 9C, E331</description>
+      <guid isPermaLink="false">2024-12-23 07:39:00</guid>
+      <pubDate>Mon, 23 Dec 2024 07:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 6:11 am</title>
       <description>15100 BLOCK LAUREL HILL CT Units: E281</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK MOSBY DR Radio: 9B Units: A299, ALS29, E291, BC902, EMS902, FS29, 9B</description>
       <guid isPermaLink="false">2024-12-21 04:49:00</guid>
       <pubDate>Sat, 21 Dec 2024 04:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:59 am</title>
-      <description>2500 BLOCK HEMINGWAY DR, Apt/Unit:3B, RIDGEVIEW CONDOS - 2500 BLOCK HEMINGWAY DR Units: E11, T50</description>
-      <guid isPermaLink="false">2024-12-21 01:59:00</guid>
-      <pubDate>Sat, 21 Dec 2024 01:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
