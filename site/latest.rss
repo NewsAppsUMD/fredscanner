@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 10:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 10:35:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:32 am</title>
+      <description>LIBERTY RD / MONOCACY BLVD Radio: 9B Units: A248, E111, FS29, 9B</description>
+      <guid isPermaLink="false">2024-12-23 05:32:00</guid>
+      <pubDate>Mon, 23 Dec 2024 05:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:03 am</title>
+      <description>8800 BLOCK LEW WALLACE RD Radio: 9C Units: E232, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-12-23 05:03:00</guid>
+      <pubDate>Mon, 23 Dec 2024 05:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:01 am</title>
       <description>4000 BLOCK ROCK HALL RD, BUILDERS FIRST SOURCE - POINT OF ROCKS Radio: 9C Units: E281, TW1, FS28, 9C</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, E33, A39, A19, R3, 9B</description>
       <guid isPermaLink="false">2024-12-20 18:10:00</guid>
       <pubDate>Fri, 20 Dec 2024 18:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 5:50 pm</title>
-      <description>4900 BLOCK TEEN BARNES RD Radio: 9C Units: FS20, R20, 9C</description>
-      <guid isPermaLink="false">2024-12-20 17:50:00</guid>
-      <pubDate>Fri, 20 Dec 2024 17:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:39 pm</title>
-      <description>10600 BLOCK LIBERTY RD Radio: 9D Units: EK114, RE171, EMS902, FS17, 9D, A179, ALS17, BC902</description>
-      <guid isPermaLink="false">2024-12-20 17:39:00</guid>
-      <pubDate>Fri, 20 Dec 2024 17:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
