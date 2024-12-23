@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Dec 2024 10:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 11:02:01 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:54 am</title>
+      <description>2700 BLOCK OSPREY WAY Radio: 9C Units: FS29, 9C, EK114</description>
+      <guid isPermaLink="false">2024-12-23 05:54:00</guid>
+      <pubDate>Mon, 23 Dec 2024 05:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:38 am</title>
+      <description>LIBERTY RD / MONOCACY BLVD Radio: 9B Units: A248, E111, 9B, E291</description>
+      <guid isPermaLink="false">2024-12-23 05:38:00</guid>
+      <pubDate>Mon, 23 Dec 2024 05:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:32 am</title>
       <description>LIBERTY RD / MONOCACY BLVD Radio: 9B Units: A248, E111, FS29, 9B</description>
@@ -294,18 +306,6 @@
       <description>10600 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: E172, FS17, 9C</description>
       <guid isPermaLink="false">2024-12-20 20:07:00</guid>
       <pubDate>Fri, 20 Dec 2024 20:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:32 pm</title>
-      <description>RT40 / RT15, RT40 / RT15 Radio: 9B Units: E11, 9B, A19</description>
-      <guid isPermaLink="false">2024-12-20 18:32:00</guid>
-      <pubDate>Fri, 20 Dec 2024 18:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:10 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, E33, A39, A19, R3, 9B</description>
-      <guid isPermaLink="false">2024-12-20 18:10:00</guid>
-      <pubDate>Fri, 20 Dec 2024 18:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
