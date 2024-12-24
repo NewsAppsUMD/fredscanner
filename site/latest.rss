@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Dec 2024 00:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 01:29:07 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 8:07 pm</title>
+      <description>600 BLOCK E PATRICK ST, Apt/Unit:C, HURLEY HILTON Units: A38, T4, R24, EMS901, CMD3, RID, E331, PE311, E111, EK114, E121, W3, E291, R15, TW1, T50, A39, ALS4, BC901, BC902, SAF901, C1B</description>
+      <guid isPermaLink="false">2024-12-23 20:07:00</guid>
+      <pubDate>Mon, 23 Dec 2024 20:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:57 pm</title>
+      <description>600 BLOCK E PATRICK ST, Apt/Unit:C, HURLEY HILTON Units: PE311, E111, EK114, E121, E291, R15, TW1, T50, A39, ALS4, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2024-12-23 19:57:00</guid>
+      <pubDate>Mon, 23 Dec 2024 19:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 7:47 pm</title>
+      <description>5800 BLOCK BARTS WAY Units: E331, FS33</description>
+      <guid isPermaLink="false">2024-12-23 19:47:00</guid>
+      <pubDate>Mon, 23 Dec 2024 19:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:40 pm</title>
       <description>100 BLOCK HOLLING DR, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Units: PE23, E33, R3</description>
@@ -288,24 +306,6 @@
       <description>REICHS FORD RD / PINE BLUFF RD Radio: 9D Units: 9D, A339, ALS2, E331, EMS902</description>
       <guid isPermaLink="false">2024-12-22 15:36:00</guid>
       <pubDate>Sun, 22 Dec 2024 15:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:15 pm</title>
-      <description>2700 BLOCK CAMOMILE DR W Radio: 9C Units: E232, FS23, 9C</description>
-      <guid isPermaLink="false">2024-12-22 15:15:00</guid>
-      <pubDate>Sun, 22 Dec 2024 15:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:56 pm</title>
-      <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Units: A29, PE23</description>
-      <guid isPermaLink="false">2024-12-22 14:56:00</guid>
-      <pubDate>Sun, 22 Dec 2024 14:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:27 pm</title>
-      <description>RT85 / RAMP TO I270SB, RT85 / RAMP TO I270SB Radio: 9C Units: FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2024-12-22 13:27:00</guid>
-      <pubDate>Sun, 22 Dec 2024 13:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
