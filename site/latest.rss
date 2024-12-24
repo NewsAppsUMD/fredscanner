@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Dec 2024 15:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 15:31:58 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 10:13 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, E33, R3, FS31, 9C</description>
+      <guid isPermaLink="false">2024-12-24 10:13:00</guid>
+      <pubDate>Tue, 24 Dec 2024 10:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:12 am</title>
       <description>5700 BLOCK INDUSTRY LN, MISCELLANEOUS METALS - INDUSTRY LN Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>5100 BLOCK CONSTITUTION ST Radio: 9C Units: PE311, FS31, 9C, T4</description>
       <guid isPermaLink="false">2024-12-22 18:15:00</guid>
       <pubDate>Sun, 22 Dec 2024 18:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:21 pm</title>
-      <description>14900 BLOCK QUIRAUK SCHOOL RD Units: WCEK7, WCA791, WCE71, E212, TW6, K21, FS21, PE102</description>
-      <guid isPermaLink="false">2024-12-22 17:21:00</guid>
-      <pubDate>Sun, 22 Dec 2024 17:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
