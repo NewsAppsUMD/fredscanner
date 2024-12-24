@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Dec 2024 14:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 14:33:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:12 am</title>
+      <description>5700 BLOCK INDUSTRY LN, MISCELLANEOUS METALS - INDUSTRY LN Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2024-12-24 09:12:00</guid>
+      <pubDate>Tue, 24 Dec 2024 09:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:24 am</title>
       <description>I270NB / MONOCACY RIVER, I270NB / RT85 Radio: 9C Units: FS23, 9C, E232, E11</description>
@@ -300,12 +306,6 @@
       <description>14900 BLOCK QUIRAUK SCHOOL RD Units: WCEK7, WCA791, WCE71, E212, TW6, K21, FS21, PE102</description>
       <guid isPermaLink="false">2024-12-22 17:21:00</guid>
       <pubDate>Sun, 22 Dec 2024 17:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:18 pm</title>
-      <description>14900 BLOCK QUIRAUK SCHOOL RD Units: WCEK7, WCA791, FS21, WCE71, E212, TW6</description>
-      <guid isPermaLink="false">2024-12-22 17:18:00</guid>
-      <pubDate>Sun, 22 Dec 2024 17:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
