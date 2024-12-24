@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Dec 2024 17:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 18:02:33 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 12:54 pm</title>
+      <description>1700 BLOCK MONOCACY BLVD, GOODWILL Radio: 9C Units: E111, 9C, Q11, FS29, E291</description>
+      <guid isPermaLink="false">2024-12-24 12:54:00</guid>
+      <pubDate>Tue, 24 Dec 2024 12:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 12:18 pm</title>
       <description>100 BLOCK HERITAGE LN Radio: 9C Units: FS06, 9C, R6</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT109 Radio: 7A1 Units: A238, 7A1, E232</description>
       <guid isPermaLink="false">2024-12-22 19:10:00</guid>
       <pubDate>Sun, 22 Dec 2024 19:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:38 pm</title>
-      <description>6100 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2024-12-22 18:38:00</guid>
-      <pubDate>Sun, 22 Dec 2024 18:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
