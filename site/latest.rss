@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 19:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 20:02:01 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:58 pm</title>
+      <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61, FS06, 9C</description>
+      <guid isPermaLink="false">2024-12-25 14:58:00</guid>
+      <pubDate>Wed, 25 Dec 2024 14:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:16 pm</title>
       <description>400 BLOCK PASTURE ROSE DR Radio: 9C Units: E291, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK W PATRICK ST, GIANT EAGLE - FREDERICK SHOPPERS WORLD Radio: 9C Units: 9C, T4, E11</description>
       <guid isPermaLink="false">2024-12-23 13:36:00</guid>
       <pubDate>Mon, 23 Dec 2024 13:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:15 pm</title>
-      <description>500 BLOCK HODSON DR Radio: 9C Units: PE23, TW1, 9C</description>
-      <guid isPermaLink="false">2024-12-23 13:15:00</guid>
-      <pubDate>Mon, 23 Dec 2024 13:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
