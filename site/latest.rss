@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 16:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 16:35:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:31 am</title>
+      <description>100 BLOCK BLK RAMP CHRISTOPHERS XING TO RT15SB RAMP Radio: 9B Units: 9B, A299, E291, FS29</description>
+      <guid isPermaLink="false">2024-12-25 11:31:00</guid>
+      <pubDate>Wed, 25 Dec 2024 11:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 10:26 am</title>
       <description>3200 BLOCK GERANIUM CT Units: PE311, E33, E281, R3, TT23, T4, A149, ALS23, BC901, E141, E231, BC903, SAF901, FS14</description>
@@ -300,12 +306,6 @@
       <description>WOODSBORO PIKE / COPPERMINE RD Radio: 9B Units: A169, E162, 9B, FS16</description>
       <guid isPermaLink="false">2024-12-23 11:55:00</guid>
       <pubDate>Mon, 23 Dec 2024 11:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
-      <description>FELDSPAR RD / UNAKITE CT Radio: 9B Units: A129, E121, FS12, 9B</description>
-      <guid isPermaLink="false">2024-12-23 11:53:00</guid>
-      <pubDate>Mon, 23 Dec 2024 11:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
