@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 11:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 11:31:32 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 6:01 am</title>
+      <description>300 BLOCK S GEORGE ST Units: RE52</description>
+      <guid isPermaLink="false">2024-12-25 06:01:00</guid>
+      <pubDate>Wed, 25 Dec 2024 06:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:32 am</title>
       <description>6900 BLOCK SUMMERSWOOD DR Radio: 9D Units: ALS4, EMS901, FS12, 9D, RE74, A129, E121</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9C Units: E72, E121, TW7, 9C</description>
       <guid isPermaLink="false">2024-12-23 06:10:00</guid>
       <pubDate>Mon, 23 Dec 2024 06:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:54 am</title>
-      <description>2700 BLOCK OSPREY WAY Radio: 9C Units: FS29, 9C, EK114</description>
-      <guid isPermaLink="false">2024-12-23 05:54:00</guid>
-      <pubDate>Mon, 23 Dec 2024 05:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
