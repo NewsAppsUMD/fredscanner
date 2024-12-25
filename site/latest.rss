@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 06:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 06:36:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:10 am</title>
+      <description>7400 BLOCK SHOCKLEY DR, ROYAL FARMS - SHOCKLEY DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2024-12-25 01:10:00</guid>
+      <pubDate>Wed, 25 Dec 2024 01:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:30 pm</title>
       <description>6400 BLOCK SPRING FOREST RD Radio: 9C Units: FS33, 9C, E331, E33, R3</description>
@@ -300,12 +306,6 @@
       <description>LIBERTY RD / MONOCACY BLVD Radio: 9B Units: A248, E111, FS29, 9B</description>
       <guid isPermaLink="false">2024-12-23 05:32:00</guid>
       <pubDate>Mon, 23 Dec 2024 05:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:03 am</title>
-      <description>8800 BLOCK LEW WALLACE RD Radio: 9C Units: E232, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-12-23 05:03:00</guid>
-      <pubDate>Mon, 23 Dec 2024 05:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
