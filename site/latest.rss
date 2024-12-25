@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Dec 2024 01:28:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 02:02:48 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:30 pm</title>
+      <description>8900 BLOCK YELLOW SPRINGS RD Units: E111, ALS29, BC902, BC903, SAF901, R2, T50, T4, EK224, K22, EK114, A19, C2C, PE311, K33, K10, E11, E291, E501, E221, E33, E121</description>
+      <guid isPermaLink="false">2024-12-24 20:30:00</guid>
+      <pubDate>Tue, 24 Dec 2024 20:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:26 pm</title>
+      <description>8900 BLOCK YELLOW SPRINGS RD Units: E111, ALS29, BC902, BC903, SAF901, FS29, R2, T50, T4, EK224, K22, EK114, A19, E11, E291, E501, E221, E33</description>
+      <guid isPermaLink="false">2024-12-24 20:26:00</guid>
+      <pubDate>Tue, 24 Dec 2024 20:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:42 pm</title>
       <description>100 BLOCK RHODE ISLAND CT, SAGNER APTS - RHODE ISLAND CT Radio: 9C Units: T4, 9C, E33</description>
@@ -294,18 +306,6 @@
       <description>8800 BLOCK WATER STREET RD Radio: 9C Units: Q11, 9C, E111, TW1, FS11</description>
       <guid isPermaLink="false">2024-12-23 02:42:00</guid>
       <pubDate>Mon, 23 Dec 2024 02:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:36 am</title>
-      <description>8800 BLOCK WATER STREET RD Radio: 9C Units: Q11, FS11, 9C, E111</description>
-      <guid isPermaLink="false">2024-12-23 02:36:00</guid>
-      <pubDate>Mon, 23 Dec 2024 02:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:35 am</title>
-      <description>I270SB / RT109 Units: A238, E232</description>
-      <guid isPermaLink="false">2024-12-23 01:35:00</guid>
-      <pubDate>Mon, 23 Dec 2024 01:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
