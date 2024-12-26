@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 10:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 10:34:42 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 5:18 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: PE23</description>
+      <guid isPermaLink="false">2024-12-26 05:18:00</guid>
+      <pubDate>Thu, 26 Dec 2024 05:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 1:09 am</title>
       <description>RT15 / 3MM, RT15 / 3MM Units: R6, A68</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK DEARBOUGHT CT Units: E111, E291, Q11, K33, FS11</description>
       <guid isPermaLink="false">2024-12-23 17:53:00</guid>
       <pubDate>Mon, 23 Dec 2024 17:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:12 pm</title>
-      <description>3400 BLOCK KEMPTOWN CHURCH RD Radio: 9C Units: FS25, 9C, E251</description>
-      <guid isPermaLink="false">2024-12-23 17:12:00</guid>
-      <pubDate>Mon, 23 Dec 2024 17:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
