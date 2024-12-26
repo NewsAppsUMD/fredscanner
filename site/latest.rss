@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 17:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 18:02:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:54 pm</title>
+      <description>3500 BLOCK SHADY PINES ST Radio: 9C Units: E231, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2024-12-26 12:54:00</guid>
+      <pubDate>Thu, 26 Dec 2024 12:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
       <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Units: FS11, E111, Q11</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: 9C, PE311, TW1, FS31</description>
       <guid isPermaLink="false">2024-12-24 07:29:00</guid>
       <pubDate>Tue, 24 Dec 2024 07:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:40 pm</title>
-      <description>LIBERTY RD / ROUTZAHN WAY Radio: 9B Units: A248, E111, FS29, 9B</description>
-      <guid isPermaLink="false">2024-12-23 22:40:00</guid>
-      <pubDate>Mon, 23 Dec 2024 22:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
