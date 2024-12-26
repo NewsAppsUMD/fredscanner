@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Dec 2024 04:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 04:34:56 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:18 pm</title>
+      <description>5300 BLOCK STRIPED MAPLE ST Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2024-12-25 23:18:00</guid>
+      <pubDate>Wed, 25 Dec 2024 23:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:11 pm</title>
       <description>ROBIN DR / KILLDEER CT, IAO Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>11500 BLOCK HOUCK RD Radio: 9D Units: CCM89, BC902, E91, C900, CCA109, TRNBC900, E162, R24, CCR8, CCLDR5, CCEK54, ALS17, FS09, 9D, CCE101, CCLT8D, E133, CMD9, CCE81, E172, CCR5, K9, K17, EK134, BC901, SAF901</description>
       <guid isPermaLink="false">2024-12-23 17:06:00</guid>
       <pubDate>Mon, 23 Dec 2024 17:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 4:57 pm</title>
-      <description>11500 BLOCK HOUCK RD Units: CCM89, CCM109, BC902, E91, CCE102, E162, E132, CCR8, CCLDR5, CCE81, E172, CCR5, K9, K17, EK134, BC901, SAF901, FS09</description>
-      <guid isPermaLink="false">2024-12-23 16:57:00</guid>
-      <pubDate>Mon, 23 Dec 2024 16:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
