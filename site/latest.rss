@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Dec 2024 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 18:35:39 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 1:20 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, WEGMANS - CLEMSON CORNER Units: FS29, E111, EMS902, A248, ALS2</description>
+      <guid isPermaLink="false">2024-12-27 13:20:00</guid>
+      <pubDate>Fri, 27 Dec 2024 13:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:29 pm</title>
       <description>RT40 / BLENTLINGER RD, RT40 / BLENTLINGER RD Units: A129, E121</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK HOLLING DR, Apt/Unit:207, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9D Units: PE23, E33, T4, 9D</description>
       <guid isPermaLink="false">2024-12-24 15:45:00</guid>
       <pubDate>Tue, 24 Dec 2024 15:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 3:33 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E111, HMSU33, Q11, BC902, A248</description>
-      <guid isPermaLink="false">2024-12-24 15:33:00</guid>
-      <pubDate>Tue, 24 Dec 2024 15:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
