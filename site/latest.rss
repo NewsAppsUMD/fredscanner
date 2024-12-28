@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 17:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 18:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:56 pm</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Units: E251, TT23, R3, A239, A259, FS23, E231</description>
+      <guid isPermaLink="false">2024-12-28 12:56:00</guid>
+      <pubDate>Sat, 28 Dec 2024 12:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:50 am</title>
       <description>1500 BLOCK VILLAGE GREEN WAY, Apt/Unit:412, HOLIDAY INN EXPRESS Radio: 9C Units: RE52, TW7, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Units: PE23</description>
       <guid isPermaLink="false">2024-12-26 05:18:00</guid>
       <pubDate>Thu, 26 Dec 2024 05:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:09 am</title>
-      <description>RT15 / 3MM, RT15 / 3MM Units: R6, A68</description>
-      <guid isPermaLink="false">2024-12-26 01:09:00</guid>
-      <pubDate>Thu, 26 Dec 2024 01:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
