@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 19:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 19:31:34 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:22 pm</title>
+      <description>WELDON RD / TARR DR Units: BR176, CCBR145</description>
+      <guid isPermaLink="false">2024-12-28 14:22:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:14 pm</title>
+      <description>WELDON RD / TARR DR Units: CCBR145, FS17</description>
+      <guid isPermaLink="false">2024-12-28 14:14:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 2:08 pm</title>
+      <description>CLEMSONVILLE RD / MARBLE QUARRY RD Radio: 9C Units: CCBR105, CCBR85, 9C</description>
+      <guid isPermaLink="false">2024-12-28 14:08:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 2:01 pm</title>
+      <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: 9C, E331, R3</description>
+      <guid isPermaLink="false">2024-12-28 14:01:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:16 pm</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Radio: 9D Units: E11, E291, BC901, RE74, C3D, CMD1, SAF901, RID, R3, A129, EMS902, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903, PE311, C3B, 9D</description>
@@ -282,30 +306,6 @@
       <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Units: FS11, E111, Q11</description>
       <guid isPermaLink="false">2024-12-26 11:48:00</guid>
       <pubDate>Thu, 26 Dec 2024 11:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:28 am</title>
-      <description>FOUNTAIN SCHOOL RD / COPPERMINE RD Radio: 9D Units: 9D, E162, RE171, A179, ALS17, BC901, EMS902, FS17</description>
-      <guid isPermaLink="false">2024-12-26 10:28:00</guid>
-      <pubDate>Thu, 26 Dec 2024 10:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:44 am</title>
-      <description>1100 BLOCK DUTCHMANS CREEK DR, URGENT CARE Radio: 9C Units: RE52, E201, R19, 9C, R20</description>
-      <guid isPermaLink="false">2024-12-26 07:44:00</guid>
-      <pubDate>Thu, 26 Dec 2024 07:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:39 am</title>
-      <description>1100 BLOCK DUTCHMANS CREEK DR, URGENT CARE Radio: 9C Units: RE52, E201, R19, FS05, 9C</description>
-      <guid isPermaLink="false">2024-12-26 07:39:00</guid>
-      <pubDate>Thu, 26 Dec 2024 07:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:04 am</title>
-      <description>200 BLOCK INTERSTATE CIR Radio: 9C Units: T4, 9C, E33</description>
-      <guid isPermaLink="false">2024-12-26 07:04:00</guid>
-      <pubDate>Thu, 26 Dec 2024 07:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
