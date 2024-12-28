@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 18:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 18:34:56 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:16 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Radio: 9D Units: E11, E291, BC901, RE74, C3D, CMD1, SAF901, RID, R3, A129, EMS902, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903, PE311, C3B, 9D</description>
+      <guid isPermaLink="false">2024-12-28 13:16:00</guid>
+      <pubDate>Sat, 28 Dec 2024 13:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:14 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Radio: 9D Units: E11, E291, BC901, C3D, SAF901, RID, R3, A129, EMS902, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903, PE311, W1, C3B, 9D</description>
+      <guid isPermaLink="false">2024-12-28 13:14:00</guid>
+      <pubDate>Sat, 28 Dec 2024 13:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:11 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Units: E11, E291, BC901, SAF901, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903</description>
+      <guid isPermaLink="false">2024-12-28 13:11:00</guid>
+      <pubDate>Sat, 28 Dec 2024 13:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:56 pm</title>
       <description>I270SB / RT80(RT80), I270SB / RT80 Units: E251, TT23, R3, A239, A259, FS23, E231</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK INTERSTATE CIR Radio: 9C Units: T4, 9C, E33</description>
       <guid isPermaLink="false">2024-12-26 07:04:00</guid>
       <pubDate>Thu, 26 Dec 2024 07:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:18 am</title>
-      <description>1200 BLOCK BEECHWOOD DR Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2024-12-26 06:18:00</guid>
-      <pubDate>Thu, 26 Dec 2024 06:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:40 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: PE23</description>
-      <guid isPermaLink="false">2024-12-26 05:40:00</guid>
-      <pubDate>Thu, 26 Dec 2024 05:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:18 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: PE23</description>
-      <guid isPermaLink="false">2024-12-26 05:18:00</guid>
-      <pubDate>Thu, 26 Dec 2024 05:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
