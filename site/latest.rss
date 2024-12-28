@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Dec 2024 19:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 20:02:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:42 pm</title>
+      <description>100 BLOCK MONOCACY BLVD, Apt/Unit:430, SUPER 8 MOTEL - FREDERICK Units: E33, TT23</description>
+      <guid isPermaLink="false">2024-12-28 14:42:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:41 pm</title>
+      <description>1200 BLOCK AYNSLEY CT, Apt/Unit:TA, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Units: E11, T50</description>
+      <guid isPermaLink="false">2024-12-28 14:41:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL SPILL: 2:39 pm</title>
+      <description>REELS MILL RD / BALL RD Units: E231, FS23</description>
+      <guid isPermaLink="false">2024-12-28 14:39:00</guid>
+      <pubDate>Sat, 28 Dec 2024 14:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:22 pm</title>
       <description>WELDON RD / TARR DR Units: BR176, CCBR145</description>
@@ -288,24 +306,6 @@
       <description>RT340 / POTOMAC RIVER BRIDGE Units: RE52, A196, ALS20</description>
       <guid isPermaLink="false">2024-12-26 16:53:00</guid>
       <pubDate>Thu, 26 Dec 2024 16:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 1:51 pm</title>
-      <description>8100 BLOCK RETREAT RD Radio: 9C Units: EK114, E291, T50, EK224, A249, A229, FS11, 9C</description>
-      <guid isPermaLink="false">2024-12-26 13:51:00</guid>
-      <pubDate>Thu, 26 Dec 2024 13:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:54 pm</title>
-      <description>3500 BLOCK SHADY PINES ST Radio: 9C Units: E231, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2024-12-26 12:54:00</guid>
-      <pubDate>Thu, 26 Dec 2024 12:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
-      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Units: FS11, E111, Q11</description>
-      <guid isPermaLink="false">2024-12-26 11:48:00</guid>
-      <pubDate>Thu, 26 Dec 2024 11:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
