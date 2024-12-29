@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Dec 2024 02:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 02:47:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:37 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, TR29, E61, CCR5, R6, CMD6, A299, BT29, BC902</description>
+      <guid isPermaLink="false">2024-12-28 21:37:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:31 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, TR29, E61, R6, CMD6, A299, BT29, BC902</description>
+      <guid isPermaLink="false">2024-12-28 21:31:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:29 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, TR29, E61, TRSU29, R6, BC902</description>
+      <guid isPermaLink="false">2024-12-28 21:29:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:25 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: CCE52, EMS901, FS06, 9B, EMS902, CCM59, SAF901, E61, R6, BC902</description>
+      <guid isPermaLink="false">2024-12-28 21:25:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:25 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, E61, R6, BC902</description>
+      <guid isPermaLink="false">2024-12-28 21:25:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:19 pm</title>
+      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS901, E61, R6, CCM58, BC902, FS06</description>
+      <guid isPermaLink="false">2024-12-28 21:19:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:09 pm</title>
+      <description>FAIRFIELD RD / SANDERS RD Units: R6</description>
+      <guid isPermaLink="false">2024-12-28 21:09:00</guid>
+      <pubDate>Sat, 28 Dec 2024 21:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:33 pm</title>
       <description>BALLENGER CREEK PIKE / DOVER DR Radio: 9B Units: FS14, R14, 9B, A149</description>
@@ -264,48 +306,6 @@
       <description>16100 BLOCK KELBAUGH RD Units: BR65</description>
       <guid isPermaLink="false">2024-12-27 11:01:00</guid>
       <pubDate>Fri, 27 Dec 2024 11:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:57 am</title>
-      <description>100 BLOCKMM I70WB Radio: PS1 Units: E82, A89, ALS8, PS1</description>
-      <guid isPermaLink="false">2024-12-27 10:57:00</guid>
-      <pubDate>Fri, 27 Dec 2024 10:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:32 am</title>
-      <description>1100 BLOCK SLEIGHILL CT Radio: CCA7 Units: CCA7, TT23, E153, R15</description>
-      <guid isPermaLink="false">2024-12-27 02:32:00</guid>
-      <pubDate>Fri, 27 Dec 2024 02:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:27 am</title>
-      <description>1100 BLOCK SLEIGHILL CT Radio: CCA7 Units: CCA7, TT23, E153, R15</description>
-      <guid isPermaLink="false">2024-12-27 02:27:00</guid>
-      <pubDate>Fri, 27 Dec 2024 02:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:19 am</title>
-      <description>1100 BLOCK SLEIGHILL CT Units: E153</description>
-      <guid isPermaLink="false">2024-12-27 02:19:00</guid>
-      <pubDate>Fri, 27 Dec 2024 02:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:49 am</title>
-      <description>1700 BLOCK MOUNT EPHRAIM RD Radio: 9B Units: A149, E141, 9B, FS14</description>
-      <guid isPermaLink="false">2024-12-27 00:49:00</guid>
-      <pubDate>Fri, 27 Dec 2024 00:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:11 pm</title>
-      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: E291, T50, FS29, 9C</description>
-      <guid isPermaLink="false">2024-12-26 20:11:00</guid>
-      <pubDate>Thu, 26 Dec 2024 20:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:32 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:210, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: PE311, TW1</description>
-      <guid isPermaLink="false">2024-12-26 18:32:00</guid>
-      <pubDate>Thu, 26 Dec 2024 18:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
