@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 23:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 23:31:30 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:27 pm</title>
+      <description>600 BLOCK MARBLEWING CT Units: E33, TW1, E121</description>
+      <guid isPermaLink="false">2024-12-30 18:27:00</guid>
+      <pubDate>Mon, 30 Dec 2024 18:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:07 pm</title>
+      <description>DORSEY ALY / N SECOND ST Radio: 9C Units: E162, FS16, 9C</description>
+      <guid isPermaLink="false">2024-12-30 18:07:00</guid>
+      <pubDate>Mon, 30 Dec 2024 18:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:40 pm</title>
       <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9B Units: E121, A89, A78, 9B, E72, R8</description>
@@ -294,18 +306,6 @@
       <description>1200 BLOCK AYNSLEY CT, Apt/Unit:TA, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Units: E11, T50</description>
       <guid isPermaLink="false">2024-12-28 14:41:00</guid>
       <pubDate>Sat, 28 Dec 2024 14:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 2:39 pm</title>
-      <description>REELS MILL RD / BALL RD Units: E231, FS23</description>
-      <guid isPermaLink="false">2024-12-28 14:39:00</guid>
-      <pubDate>Sat, 28 Dec 2024 14:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:22 pm</title>
-      <description>WELDON RD / TARR DR Units: BR176, CCBR145</description>
-      <guid isPermaLink="false">2024-12-28 14:22:00</guid>
-      <pubDate>Sat, 28 Dec 2024 14:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
