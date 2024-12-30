@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 00:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 01:29:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 pm</title>
+      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: E291, T50, FS29, 9C</description>
+      <guid isPermaLink="false">2024-12-29 20:12:00</guid>
+      <pubDate>Sun, 29 Dec 2024 20:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:56 pm</title>
       <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: TW7</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK ALLINGTON MANOR CIR W Units: PE311, E33, PE23, E331, E141, R3, TT4, TW1, A39, ALS31, BC901, BC902, SAF901, FS31</description>
       <guid isPermaLink="false">2024-12-27 22:23:00</guid>
       <pubDate>Fri, 27 Dec 2024 22:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:07 pm</title>
-      <description>14500 BLOCK RODDY RD Radio: 9I Units: ALS29, A308, R10, A309, ALS30, PE102, BC902, HTRP3, CMD10, EMS902, 9I</description>
-      <guid isPermaLink="false">2024-12-27 21:07:00</guid>
-      <pubDate>Fri, 27 Dec 2024 21:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
