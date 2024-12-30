@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 03:35:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 04:02:19 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:54 pm</title>
+      <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: RE74</description>
+      <guid isPermaLink="false">2024-12-29 22:54:00</guid>
+      <pubDate>Sun, 29 Dec 2024 22:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 10:06 pm</title>
       <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: BC901, R3, PE311, E33, 9C</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK N MARKET ST, STATION 2 Units: E61</description>
       <guid isPermaLink="false">2024-12-27 22:42:00</guid>
       <pubDate>Fri, 27 Dec 2024 22:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:40 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: A158</description>
-      <guid isPermaLink="false">2024-12-27 22:40:00</guid>
-      <pubDate>Fri, 27 Dec 2024 22:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
