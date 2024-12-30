@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Dec 2024 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 18:36:14 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 1:29 pm</title>
+      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: 9C, TW1</description>
+      <guid isPermaLink="false">2024-12-30 13:29:00</guid>
+      <pubDate>Mon, 30 Dec 2024 13:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 11:57 am</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:170, Apt/Unit:SUIT 186, URGENT CARE Units: FS31, PE311, E33, R3</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Radio: 9D Units: E11, E291, BC901, C3D, SAF901, RID, R3, A129, EMS902, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903, PE311, W1, C3B, 9D</description>
       <guid isPermaLink="false">2024-12-28 13:14:00</guid>
       <pubDate>Sat, 28 Dec 2024 13:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:11 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:G, Apt/Unit:202, ELMWOOD TERRACE APTS - BLDG G Units: E11, E291, BC901, SAF901, R24, TT4, T50, E33, PE23, E501, A19, ALS4, BC903</description>
-      <guid isPermaLink="false">2024-12-28 13:11:00</guid>
-      <pubDate>Sat, 28 Dec 2024 13:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
