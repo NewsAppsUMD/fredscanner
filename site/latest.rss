@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 00:46:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 01:28:54 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:06 pm</title>
+      <description>5600 BLOCK DROUGHT SPRING CT Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2024-12-30 20:06:00</guid>
+      <pubDate>Mon, 30 Dec 2024 20:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:35 pm</title>
       <description>3100 BLOCK IVY MEADOW DR Units: FS23, E231</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / DOVER DR Radio: 9B Units: FS14, R14, 9B, A149</description>
       <guid isPermaLink="false">2024-12-28 19:33:00</guid>
       <pubDate>Sat, 28 Dec 2024 19:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:44 pm</title>
-      <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: E82, 9C</description>
-      <guid isPermaLink="false">2024-12-28 16:44:00</guid>
-      <pubDate>Sat, 28 Dec 2024 16:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
