@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 15:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 16:02:15 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:51 am</title>
+      <description>6700 BLOCK BALMORAL RDG Radio: 9C Units: 9C, BR156, FS15</description>
+      <guid isPermaLink="false">2024-12-31 10:51:00</guid>
+      <pubDate>Tue, 31 Dec 2024 10:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:37 am</title>
+      <description>1300 BLOCK W PATRICK ST, TRUIST- GOLDEN MILE MARKET PLACE Radio: 9B Units: E11, 9B, A19</description>
+      <guid isPermaLink="false">2024-12-31 10:37:00</guid>
+      <pubDate>Tue, 31 Dec 2024 10:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>HIGH ANGLE RESCUE: 6:45 am</title>
       <description>1400 BLOCK GREENFIELD RD Units: E281, PE311, R14, TT23, SAF901, EMS901, FS14, TR29, A149, A318, ALS31, BC901</description>
@@ -294,18 +306,6 @@
       <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, TR29, E61, R6, CMD6, A299, BT29, BC902</description>
       <guid isPermaLink="false">2024-12-28 21:31:00</guid>
       <pubDate>Sat, 28 Dec 2024 21:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:29 pm</title>
-      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: 9B, EMS902, CCM59, SAF901, TR29, E61, TRSU29, R6, BC902</description>
-      <guid isPermaLink="false">2024-12-28 21:29:00</guid>
-      <pubDate>Sat, 28 Dec 2024 21:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - UNSTABLE VEHICLE - ALS: 9:25 pm</title>
-      <description>12100 BLOCK BRIDGEPORT RD Radio: 9B Units: CCE52, EMS901, FS06, 9B, EMS902, CCM59, SAF901, E61, R6, BC902</description>
-      <guid isPermaLink="false">2024-12-28 21:25:00</guid>
-      <pubDate>Sat, 28 Dec 2024 21:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
