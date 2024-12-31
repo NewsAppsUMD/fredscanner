@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 03:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 04:02:16 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 10:36 pm</title>
+      <description>200 BLOCK N CHURCH ST, THURMONT PLAZA Units: BR106</description>
+      <guid isPermaLink="false">2024-12-30 22:36:00</guid>
+      <pubDate>Mon, 30 Dec 2024 22:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:06 pm</title>
       <description>5600 BLOCK DROUGHT SPRING CT Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>FAIRFIELD RD / SANDERS RD Units: R6</description>
       <guid isPermaLink="false">2024-12-28 21:09:00</guid>
       <pubDate>Sat, 28 Dec 2024 21:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:33 pm</title>
-      <description>BALLENGER CREEK PIKE / DOVER DR Radio: 9B Units: FS14, R14, 9B, A149</description>
-      <guid isPermaLink="false">2024-12-28 19:33:00</guid>
-      <pubDate>Sat, 28 Dec 2024 19:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
