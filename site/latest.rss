@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jan 2025 05:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 05:33:33 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 11:57 pm</title>
+      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9C Units: 9C, BR106</description>
+      <guid isPermaLink="false">2025-01-01 23:57:00</guid>
+      <pubDate>Wed, 01 Jan 2025 23:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:51 pm</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: E231, PRE709, R729, A239, A735, ALS23, EMS901</description>
+      <guid isPermaLink="false">2025-01-01 23:51:00</guid>
+      <pubDate>Wed, 01 Jan 2025 23:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:21 pm</title>
       <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: TT4, 9C, E33</description>
@@ -294,18 +306,6 @@
       <description>W PATRICK ST / RT15 NB W PATRICK ST OFF RAMP &amp; RT 40 BRDGE HWY Radio: 9B Units: E11, E33, R3, A39, A18, 9B</description>
       <guid isPermaLink="false">2024-12-29 13:20:00</guid>
       <pubDate>Sun, 29 Dec 2024 13:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:20 pm</title>
-      <description>400 BLOCK HARLAN WAY, Apt/Unit:404, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Units: E11, E501, TT4</description>
-      <guid isPermaLink="false">2024-12-29 12:20:00</guid>
-      <pubDate>Sun, 29 Dec 2024 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:46 am</title>
-      <description>2400 BLOCK STEEPLEVIEW CT Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2024-12-29 11:46:00</guid>
-      <pubDate>Sun, 29 Dec 2024 11:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
