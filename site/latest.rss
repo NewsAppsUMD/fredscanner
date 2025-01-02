@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 23:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 23:31:34 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:04 pm</title>
+      <description>100 BLOCK BAVARIAN WAY Units: RE52</description>
+      <guid isPermaLink="false">2025-01-02 18:04:00</guid>
+      <pubDate>Thu, 02 Jan 2025 18:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:59 pm</title>
       <description>RT15NB / BARTGIS RD, RT15NB / BARTGIS RD Radio: 9C Units: E291, FS22, 9C, E221</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK W PATRICK ST, MR TIRE - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: E11, 9C, TT4</description>
       <guid isPermaLink="false">2024-12-30 09:42:00</guid>
       <pubDate>Mon, 30 Dec 2024 09:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:18 am</title>
-      <description>100 BLOCK N SECOND ST Radio: 9C Units: E162, FS16, 9C</description>
-      <guid isPermaLink="false">2024-12-30 09:18:00</guid>
-      <pubDate>Mon, 30 Dec 2024 09:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
