@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 21:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 21:31:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:16 pm</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9B Units: A68, A69, E61, 9B, PE102</description>
+      <guid isPermaLink="false">2025-01-02 16:16:00</guid>
+      <pubDate>Thu, 02 Jan 2025 16:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:11 pm</title>
+      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9B Units: A68, E61, FS06, 9B</description>
+      <guid isPermaLink="false">2025-01-02 16:11:00</guid>
+      <pubDate>Thu, 02 Jan 2025 16:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:58 pm</title>
       <description>5700 BLOCK INDUSTRY LN, BEACON BLDG PRODUCTS Radio: 9C Units: PE311, TT4, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: RE74</description>
       <guid isPermaLink="false">2024-12-29 22:54:00</guid>
       <pubDate>Sun, 29 Dec 2024 22:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:06 pm</title>
-      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: BC901, R3, PE311, E33, 9C</description>
-      <guid isPermaLink="false">2024-12-29 22:06:00</guid>
-      <pubDate>Sun, 29 Dec 2024 22:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:58 pm</title>
-      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: PE311, E33, R14, FS31, 9C</description>
-      <guid isPermaLink="false">2024-12-29 21:58:00</guid>
-      <pubDate>Sun, 29 Dec 2024 21:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
