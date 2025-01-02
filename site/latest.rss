@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 19:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 19:31:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
+      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: 9B, E11, E33, R3, A39, A19</description>
+      <guid isPermaLink="false">2025-01-02 14:11:00</guid>
+      <pubDate>Thu, 02 Jan 2025 14:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:42 pm</title>
       <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: EK114, 9C, E291, Q11</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK WOODSBORO RD Radio: 9C Units: 9C, E162, FS16</description>
       <guid isPermaLink="false">2024-12-29 16:11:00</guid>
       <pubDate>Sun, 29 Dec 2024 16:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:51 pm</title>
-      <description>3200 BLOCK BIDLE RD Radio: 9D Units: A78, ALS8, BC903, E72, EMS901, 9D, RE74</description>
-      <guid isPermaLink="false">2024-12-29 14:51:00</guid>
-      <pubDate>Sun, 29 Dec 2024 14:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
