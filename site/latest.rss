@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 21:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 22:01:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:59 pm</title>
+      <description>RT15NB / BARTGIS RD, RT15NB / BARTGIS RD Radio: 9C Units: E291, FS22, 9C, E221</description>
+      <guid isPermaLink="false">2025-01-02 16:59:00</guid>
+      <pubDate>Thu, 02 Jan 2025 16:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:31 pm</title>
+      <description>OLD NATIONAL PIKE / EAGLEHEAD DR Radio: 9B Units: A339, E331, FS15, 9B</description>
+      <guid isPermaLink="false">2025-01-02 16:31:00</guid>
+      <pubDate>Thu, 02 Jan 2025 16:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 4:16 pm</title>
       <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9B Units: A68, A69, E61, 9B, PE102</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK N SECOND ST Radio: 9C Units: E162, FS16, 9C</description>
       <guid isPermaLink="false">2024-12-30 09:18:00</guid>
       <pubDate>Mon, 30 Dec 2024 09:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:13 pm</title>
-      <description>I70WB / 48MM, I70WB / 48MM Radio: 9C Units: E82, FS12, 9C, E121</description>
-      <guid isPermaLink="false">2024-12-29 23:13:00</guid>
-      <pubDate>Sun, 29 Dec 2024 23:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:54 pm</title>
-      <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: RE74</description>
-      <guid isPermaLink="false">2024-12-29 22:54:00</guid>
-      <pubDate>Sun, 29 Dec 2024 22:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
