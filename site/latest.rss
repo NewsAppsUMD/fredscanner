@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 19:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 20:02:20 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:48 pm</title>
+      <description>13600 BLOCK PICNIC WOOD RD Units: RE52, R20</description>
+      <guid isPermaLink="false">2025-01-02 14:48:00</guid>
+      <pubDate>Thu, 02 Jan 2025 14:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:31 pm</title>
+      <description>4500 BLOCK METROPOLITAN CT, HERITAGE TRAINING AND SHOOTING CENTER Radio: 9C Units: 9C, PE311, FS31</description>
+      <guid isPermaLink="false">2025-01-02 14:31:00</guid>
+      <pubDate>Thu, 02 Jan 2025 14:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
       <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: 9B, E11, E33, R3, A39, A19</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: E291, T50, FS29, 9C</description>
       <guid isPermaLink="false">2024-12-29 20:12:00</guid>
       <pubDate>Sun, 29 Dec 2024 20:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:56 pm</title>
-      <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: TW7</description>
-      <guid isPermaLink="false">2024-12-29 16:56:00</guid>
-      <pubDate>Sun, 29 Dec 2024 16:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:11 pm</title>
-      <description>10300 BLOCK WOODSBORO RD Radio: 9C Units: 9C, E162, FS16</description>
-      <guid isPermaLink="false">2024-12-29 16:11:00</guid>
-      <pubDate>Sun, 29 Dec 2024 16:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
