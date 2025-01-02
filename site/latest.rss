@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jan 2025 18:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 19:02:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:42 pm</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: EK114, 9C, E291, Q11</description>
+      <guid isPermaLink="false">2025-01-02 13:42:00</guid>
+      <pubDate>Thu, 02 Jan 2025 13:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:37 pm</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29</description>
+      <guid isPermaLink="false">2025-01-02 13:37:00</guid>
+      <pubDate>Thu, 02 Jan 2025 13:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:22 am</title>
       <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3, 9C</description>
@@ -294,18 +306,6 @@
       <description>3200 BLOCK BIDLE RD Radio: 9D Units: A78, ALS8, BC903, E72, EMS901, 9D, RE74</description>
       <guid isPermaLink="false">2024-12-29 14:51:00</guid>
       <pubDate>Sun, 29 Dec 2024 14:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:43 pm</title>
-      <description>FAIRFIELD RD / WAYNSBORO PIKE Units: A69, ALS30, R6</description>
-      <guid isPermaLink="false">2024-12-29 14:43:00</guid>
-      <pubDate>Sun, 29 Dec 2024 14:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:59 pm</title>
-      <description>1400 BLOCK BAKER PL W, Apt/Unit:42, RESIDENCES AT THE MANOR - 1400 BLOCK BAKER PL Radio: 9C Units: E11, E121, TT4, 9C</description>
-      <guid isPermaLink="false">2024-12-29 13:59:00</guid>
-      <pubDate>Sun, 29 Dec 2024 13:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
