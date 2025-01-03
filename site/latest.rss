@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 21:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 21:31:36 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:18 pm</title>
+      <description>WORTHINGTON BLVD / JOHN SIMMONS ST Units: A39, E231, FS23</description>
+      <guid isPermaLink="false">2025-01-03 16:18:00</guid>
+      <pubDate>Fri, 03 Jan 2025 16:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
+      <description>8500 BLOCK LONGLEAF DR Units: E251, TT23, FS23</description>
+      <guid isPermaLink="false">2025-01-03 16:08:00</guid>
+      <pubDate>Fri, 03 Jan 2025 16:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:41 pm</title>
       <description>WORTHINGTON BLVD / JOHN SIMMONS ST Units: A239, E231, A259</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HAMILTON AVE Units: R3</description>
       <guid isPermaLink="false">2024-12-31 05:23:00</guid>
       <pubDate>Tue, 31 Dec 2024 05:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:21 am</title>
-      <description>5800 BLOCK BALLENGER CREEK PIKE, PAISANOS - BALLENGER CREEK PLAZA Units: PE311, FS31</description>
-      <guid isPermaLink="false">2024-12-31 05:21:00</guid>
-      <pubDate>Tue, 31 Dec 2024 05:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 10:36 pm</title>
-      <description>200 BLOCK N CHURCH ST, THURMONT PLAZA Units: BR106</description>
-      <guid isPermaLink="false">2024-12-30 22:36:00</guid>
-      <pubDate>Mon, 30 Dec 2024 22:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
