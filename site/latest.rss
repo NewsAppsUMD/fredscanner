@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 18:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 18:36:08 +0000</lastBuildDate>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 1:33 pm</title>
+      <description>12600 BLOCK CREAGERSTOWN RD Units: E162, BR106, K22</description>
+      <guid isPermaLink="false">2025-01-03 13:33:00</guid>
+      <pubDate>Fri, 03 Jan 2025 13:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 12:54 pm</title>
       <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Units: A319, ALS31, PE311, EMS901, FS31</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9C Units: E121, E82, FS12, 9C</description>
       <guid isPermaLink="false">2024-12-30 18:46:00</guid>
       <pubDate>Mon, 30 Dec 2024 18:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:27 pm</title>
-      <description>600 BLOCK MARBLEWING CT Units: E33, TW1, E121</description>
-      <guid isPermaLink="false">2024-12-30 18:27:00</guid>
-      <pubDate>Mon, 30 Dec 2024 18:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
