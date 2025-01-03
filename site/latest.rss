@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 22:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 23:01:54 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 5:37 pm</title>
+      <description>11500 BLOCK LIBERTY OAK DR Units: C17, E162, E172, K17, K9, Q11</description>
+      <guid isPermaLink="false">2025-01-03 17:37:00</guid>
+      <pubDate>Fri, 03 Jan 2025 17:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 5:32 pm</title>
+      <description>11500 BLOCK LIBERTY OAK DR Units: E162, FS17, E172, K17, Q11</description>
+      <guid isPermaLink="false">2025-01-03 17:32:00</guid>
+      <pubDate>Fri, 03 Jan 2025 17:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:13 pm</title>
       <description>7100 BLOCK STARMOUNT CT Units: E111, FS15</description>
@@ -294,18 +306,6 @@
       <description>6700 BLOCK BALMORAL RDG Radio: 9C Units: 9C, BR156, FS15</description>
       <guid isPermaLink="false">2024-12-31 10:51:00</guid>
       <pubDate>Tue, 31 Dec 2024 10:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:37 am</title>
-      <description>1300 BLOCK W PATRICK ST, TRUIST- GOLDEN MILE MARKET PLACE Radio: 9B Units: E11, 9B, A19</description>
-      <guid isPermaLink="false">2024-12-31 10:37:00</guid>
-      <pubDate>Tue, 31 Dec 2024 10:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HIGH ANGLE RESCUE: 6:45 am</title>
-      <description>1400 BLOCK GREENFIELD RD Units: E281, PE311, R14, TT23, SAF901, EMS901, FS14, TR29, A149, A318, ALS31, BC901</description>
-      <guid isPermaLink="false">2024-12-31 06:45:00</guid>
-      <pubDate>Tue, 31 Dec 2024 06:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
