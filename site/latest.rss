@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jan 2025 19:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 20:01:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:37 pm</title>
+      <description>2400 BLOCK OSPREY WAY, MCDONALDS - MARKET SQUARE Units: Q11, FS29, E111</description>
+      <guid isPermaLink="false">2025-01-03 14:37:00</guid>
+      <pubDate>Fri, 03 Jan 2025 14:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 1:33 pm</title>
       <description>12600 BLOCK CREAGERSTOWN RD Units: E162, BR106, K22</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK INSLEY CIR Radio: 9C Units: 9C, PE23</description>
       <guid isPermaLink="false">2024-12-30 19:32:00</guid>
       <pubDate>Mon, 30 Dec 2024 19:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:46 pm</title>
-      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9C Units: E121, E82, FS12, 9C</description>
-      <guid isPermaLink="false">2024-12-30 18:46:00</guid>
-      <pubDate>Mon, 30 Dec 2024 18:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
