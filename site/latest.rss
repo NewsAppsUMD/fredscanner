@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jan 2025 21:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 22:01:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:34 pm</title>
+      <description>CRUM RD / ISRAEL CREEK XING Units: EK114, ALS2, C24B, BR116, EMS902, A179</description>
+      <guid isPermaLink="false">2025-01-04 16:34:00</guid>
+      <pubDate>Sat, 04 Jan 2025 16:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
       <description>CRUM RD / ISRAEL CREEK XING Units: A179, FS11, E111</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29</description>
       <guid isPermaLink="false">2025-01-02 13:37:00</guid>
       <pubDate>Thu, 02 Jan 2025 13:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:22 am</title>
-      <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2025-01-02 11:22:00</guid>
-      <pubDate>Thu, 02 Jan 2025 11:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
