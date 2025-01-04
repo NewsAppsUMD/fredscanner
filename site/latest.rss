@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jan 2025 21:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 21:31:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
+      <description>CRUM RD / ISRAEL CREEK XING Units: A179, FS11, E111</description>
+      <guid isPermaLink="false">2025-01-04 16:29:00</guid>
+      <pubDate>Sat, 04 Jan 2025 16:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:09 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E121, T50</description>
+      <guid isPermaLink="false">2025-01-04 16:09:00</guid>
+      <pubDate>Sat, 04 Jan 2025 16:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:07 pm</title>
+      <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Units: E61</description>
+      <guid isPermaLink="false">2025-01-04 16:07:00</guid>
+      <pubDate>Sat, 04 Jan 2025 16:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:03 pm</title>
+      <description>11800 BLOCK NICHOLSON RD Radio: 9D Units: E162, CCE52, BC902, EMS902, EK134, CCEK54, W9, CCM89, CCE81, EK114, E172, PE102, CCR8, CCR5, K9, A169, E111, E221, R10, SAF901, CCM59, BC901, E91, E132, CCLDR5, C9B, 9D, RID, R24, FS09</description>
+      <guid isPermaLink="false">2025-01-04 16:03:00</guid>
+      <pubDate>Sat, 04 Jan 2025 16:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:59 pm</title>
+      <description>11800 BLOCK NICHOLSON RD Radio: 9D Units: E162, CCE52, BC902, EMS902, EK134, CCEK54, W9, CCE81, EK114, CCR8, CCR5, K9, A169, E111, SAF901, CCM59, BC901, E91, E132, CCLDR5, C9B, 9D, RID, R24, CCA89, FS09</description>
+      <guid isPermaLink="false">2025-01-04 15:59:00</guid>
+      <pubDate>Sat, 04 Jan 2025 15:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 3:55 pm</title>
       <description>11800 BLOCK NICHOLSON RD Radio: 91C Units: E162, CCE52, BC902, E111, EK134, CCEK54, FS09, CCE81, CCR8, CCR5, K9, A169, SAF901, CCM59, BC901, BC903, E91, E132, CCLDR5, C9B, 91C</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3, 9C</description>
       <guid isPermaLink="false">2025-01-02 11:22:00</guid>
       <pubDate>Thu, 02 Jan 2025 11:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:20 am</title>
-      <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: E331, 9C</description>
-      <guid isPermaLink="false">2025-01-02 11:20:00</guid>
-      <pubDate>Thu, 02 Jan 2025 11:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:37 am</title>
-      <description>4500 BLOCK METROPOLITAN CT, HERITAGE TRAINING AND SHOOTING CENTER Radio: 9C Units: TT4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-01-02 10:37:00</guid>
-      <pubDate>Thu, 02 Jan 2025 10:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:01 am</title>
-      <description>KEYMAR RD / GOOD INTENT RD Radio: 9C Units: E162, FS09, BR96, 9C</description>
-      <guid isPermaLink="false">2025-01-02 00:01:00</guid>
-      <pubDate>Thu, 02 Jan 2025 00:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:57 pm</title>
-      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9C Units: 9C, BR106</description>
-      <guid isPermaLink="false">2025-01-01 23:57:00</guid>
-      <pubDate>Wed, 01 Jan 2025 23:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:51 pm</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: E231, PRE709, R729, A239, A735, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-01-01 23:51:00</guid>
-      <pubDate>Wed, 01 Jan 2025 23:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
