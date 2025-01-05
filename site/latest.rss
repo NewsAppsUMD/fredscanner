@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 21:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 21:31:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
+      <description>APPROX LOC:8978 HAWBOTTOM RD Radio: 9B Units: A89, E82, 9B</description>
+      <guid isPermaLink="false">2025-01-05 16:27:00</guid>
+      <pubDate>Sun, 05 Jan 2025 16:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
+      <description>N BENTZ ST / W THIRD ST Radio: 9B Units: PE23, 9B, A29</description>
+      <guid isPermaLink="false">2025-01-05 16:09:00</guid>
+      <pubDate>Sun, 05 Jan 2025 16:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:56 pm</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:170, FIREHOUSE SUBS Radio: 9C Units: PE311, 9C</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK OSPREY WAY, MCDONALDS - MARKET SQUARE Units: Q11, FS29, E111</description>
       <guid isPermaLink="false">2025-01-03 14:37:00</guid>
       <pubDate>Fri, 03 Jan 2025 14:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 1:33 pm</title>
-      <description>12600 BLOCK CREAGERSTOWN RD Units: E162, BR106, K22</description>
-      <guid isPermaLink="false">2025-01-03 13:33:00</guid>
-      <pubDate>Fri, 03 Jan 2025 13:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:54 pm</title>
-      <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Units: A319, ALS31, PE311, EMS901, FS31</description>
-      <guid isPermaLink="false">2025-01-03 12:54:00</guid>
-      <pubDate>Fri, 03 Jan 2025 12:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
