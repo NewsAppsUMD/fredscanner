@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 20:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 21:02:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:56 pm</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:170, FIREHOUSE SUBS Radio: 9C Units: PE311, 9C</description>
+      <guid isPermaLink="false">2025-01-05 15:56:00</guid>
+      <pubDate>Sun, 05 Jan 2025 15:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:30 pm</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:STE 150, CAFE RIO Radio: 9C Units: PE311, TT23, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-05 15:30:00</guid>
+      <pubDate>Sun, 05 Jan 2025 15:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 3:29 pm</title>
+      <description>200 BLOCK BICTON COMMONS DR Radio: 9C Units: E11, TT4, 9C, E121</description>
+      <guid isPermaLink="false">2025-01-05 15:29:00</guid>
+      <pubDate>Sun, 05 Jan 2025 15:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:20 pm</title>
       <description>1400 BLOCK KEY PKWY, Apt/Unit:B1, HICKORY HILL APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E11, TT4, 9C</description>
@@ -288,24 +306,6 @@
       <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Units: A319, ALS31, PE311, EMS901, FS31</description>
       <guid isPermaLink="false">2025-01-03 12:54:00</guid>
       <pubDate>Fri, 03 Jan 2025 12:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:50 pm</title>
-      <description>11800 BLOCK LIBERTY RD, LIBERTY ELEMENTARY SCHOOL Units: Q11, FS17, E172</description>
-      <guid isPermaLink="false">2025-01-03 12:50:00</guid>
-      <pubDate>Fri, 03 Jan 2025 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:04 pm</title>
-      <description>100 BLOCK S MAIN ST, STATION AC006 - BIGLERVILLE FIRE HOSE AND TRUCK COMPANY #1 Units: EK64</description>
-      <guid isPermaLink="false">2025-01-03 12:04:00</guid>
-      <pubDate>Fri, 03 Jan 2025 12:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:48 am</title>
-      <description>15600 BLOCK KELBAUGH RD Units: PE102</description>
-      <guid isPermaLink="false">2025-01-03 09:48:00</guid>
-      <pubDate>Fri, 03 Jan 2025 09:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
