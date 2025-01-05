@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jan 2025 23:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 23:31:33 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:20 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK114, A38</description>
+      <guid isPermaLink="false">2025-01-05 18:20:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:18 pm</title>
+      <description>5400 BLOCK PRINCE WILLIAM CT Units: PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2025-01-05 18:18:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:16 pm</title>
+      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Units: E153, E251</description>
+      <guid isPermaLink="false">2025-01-05 18:16:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:12 pm</title>
+      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Units: E153</description>
+      <guid isPermaLink="false">2025-01-05 18:12:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:06 pm</title>
+      <description>5800 BLOCK WOODBINE RD Units: BR175, K17, E172</description>
+      <guid isPermaLink="false">2025-01-05 18:06:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:03 pm</title>
+      <description>5800 BLOCK WOODBINE RD Units: K17, E172</description>
+      <guid isPermaLink="false">2025-01-05 18:03:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:02 pm</title>
+      <description>5800 BLOCK WOODBINE RD Units: K17</description>
+      <guid isPermaLink="false">2025-01-05 18:02:00</guid>
+      <pubDate>Sun, 05 Jan 2025 18:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 4:51 pm</title>
       <description>7300 BLOCK WESTWOOD DR Radio: 9C Units: E111, EK114, BR116, 9C</description>
@@ -264,48 +306,6 @@
       <description>11500 BLOCK LIBERTY OAK DR Units: C17, E162, E172, K17, K9, Q11</description>
       <guid isPermaLink="false">2025-01-03 17:37:00</guid>
       <pubDate>Fri, 03 Jan 2025 17:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 5:32 pm</title>
-      <description>11500 BLOCK LIBERTY OAK DR Units: E162, FS17, E172, K17, Q11</description>
-      <guid isPermaLink="false">2025-01-03 17:32:00</guid>
-      <pubDate>Fri, 03 Jan 2025 17:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:13 pm</title>
-      <description>7100 BLOCK STARMOUNT CT Units: E111, FS15</description>
-      <guid isPermaLink="false">2025-01-03 17:13:00</guid>
-      <pubDate>Fri, 03 Jan 2025 17:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:18 pm</title>
-      <description>WORTHINGTON BLVD / JOHN SIMMONS ST Units: A39, E231, FS23</description>
-      <guid isPermaLink="false">2025-01-03 16:18:00</guid>
-      <pubDate>Fri, 03 Jan 2025 16:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
-      <description>8500 BLOCK LONGLEAF DR Units: E251, TT23, FS23</description>
-      <guid isPermaLink="false">2025-01-03 16:08:00</guid>
-      <pubDate>Fri, 03 Jan 2025 16:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:41 pm</title>
-      <description>WORTHINGTON BLVD / JOHN SIMMONS ST Units: A239, E231, A259</description>
-      <guid isPermaLink="false">2025-01-03 15:41:00</guid>
-      <pubDate>Fri, 03 Jan 2025 15:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 3:38 pm</title>
-      <description>5200 BLOCK BUCKEYSTOWN PIKE, WHITE HOUSE BLACK MARKET - WESTVIEW PROMENADE Units: PE311, E33, TT4, FS31</description>
-      <guid isPermaLink="false">2025-01-03 15:38:00</guid>
-      <pubDate>Fri, 03 Jan 2025 15:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:36 pm</title>
-      <description>WORTHINGTON BLVD / JOHN SIMMONS ST Units: A239, E231, FS23</description>
-      <guid isPermaLink="false">2025-01-03 15:36:00</guid>
-      <pubDate>Fri, 03 Jan 2025 15:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
