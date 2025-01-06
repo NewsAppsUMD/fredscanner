@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 02:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 03:08:45 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:05 pm</title>
+      <description>5600 BLOCK OLD NEW MARKET RD, RT75 / OLD NEW MARKET RD Units: E251, R15, FS15, E153</description>
+      <guid isPermaLink="false">2025-01-05 22:05:00</guid>
+      <pubDate>Sun, 05 Jan 2025 22:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:20 pm</title>
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E11, E31, R3, A39, A19</description>
@@ -300,12 +306,6 @@
       <description>NORTH FREDERICK OVERLOOK - GAMBRILL STATE PARK, NORTH FREDERICK OVERLOOK - GAMBRILL STATE PARK Units: FS12, A129, E121</description>
       <guid isPermaLink="false">2025-01-04 05:03:00</guid>
       <pubDate>Sat, 04 Jan 2025 05:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:17 am</title>
-      <description>5800 BLOCK DREXAL AVE Units: E153, FS15</description>
-      <guid isPermaLink="false">2025-01-04 03:17:00</guid>
-      <pubDate>Sat, 04 Jan 2025 03:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
