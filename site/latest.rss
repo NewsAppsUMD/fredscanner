@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jan 2025 23:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 23:31:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:27 pm</title>
+      <description>1400 BLOCK KEY PKWY, Bldg:B, HICKORY HILL APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E121, TT4, 9C</description>
+      <guid isPermaLink="false">2025-01-06 18:27:00</guid>
+      <pubDate>Mon, 06 Jan 2025 18:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 6:23 pm</title>
+      <description>1200 BLOCK W PATRICK ST, PETCO - FREDERICK SHOPPERS WORLD Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-01-06 18:23:00</guid>
+      <pubDate>Mon, 06 Jan 2025 18:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:08 pm</title>
+      <description>2600 BLOCK BLAZING STAR ST Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2025-01-06 18:08:00</guid>
+      <pubDate>Mon, 06 Jan 2025 18:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:49 pm</title>
       <description>100 BLOCK DEPAUL ST, SAINT JOSEPHS ROMAN CATHOLIC CHURCH Radio: 9C Units: E61, TW6, FS06, 9C</description>
@@ -288,24 +306,6 @@
       <description>2600 BLOCK INWOOD DR Radio: 9C Units: FS14, 9C, E141</description>
       <guid isPermaLink="false">2025-01-04 17:33:00</guid>
       <pubDate>Sat, 04 Jan 2025 17:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:34 pm</title>
-      <description>CRUM RD / ISRAEL CREEK XING Units: EK114, ALS2, C24B, BR116, EMS902, A179</description>
-      <guid isPermaLink="false">2025-01-04 16:34:00</guid>
-      <pubDate>Sat, 04 Jan 2025 16:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
-      <description>CRUM RD / ISRAEL CREEK XING Units: A179, FS11, E111</description>
-      <guid isPermaLink="false">2025-01-04 16:29:00</guid>
-      <pubDate>Sat, 04 Jan 2025 16:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:09 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E121, T50</description>
-      <guid isPermaLink="false">2025-01-04 16:09:00</guid>
-      <pubDate>Sat, 04 Jan 2025 16:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
