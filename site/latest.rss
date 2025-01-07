@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 10:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 11:01:54 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 5:42 am</title>
+      <description>100 BLOCK E SEVENTH ST Radio: 9C Units: PE23, E33, TT4, A29, 9C</description>
+      <guid isPermaLink="false">2025-01-07 05:42:00</guid>
+      <pubDate>Tue, 07 Jan 2025 05:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
       <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: Q11, 9C, PE23</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK E SPRINGBROOK CT Radio: 9D Units: E33, E201, R8, TW7, TT4, A129, ALS8, BC903, FS12, A78, EMS901, E72, E11, E121, BC901, SAF901, 9D</description>
       <guid isPermaLink="false">2025-01-05 00:02:00</guid>
       <pubDate>Sun, 05 Jan 2025 00:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:01 am</title>
-      <description>7300 BLOCK E SPRINGBROOK CT Radio: 9D Units: E33, E201, R8, TW7, TT4, A129, ALS8, BC903, FS12, E72, E11, E121, BC901, SAF901, 9D</description>
-      <guid isPermaLink="false">2025-01-05 00:01:00</guid>
-      <pubDate>Sun, 05 Jan 2025 00:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
