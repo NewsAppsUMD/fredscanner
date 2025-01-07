@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 05:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 05:33:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: Q11, 9C, PE23</description>
+      <guid isPermaLink="false">2025-01-07 00:21:00</guid>
+      <pubDate>Tue, 07 Jan 2025 00:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:32 pm</title>
       <description>PENN SHOP RD / RIDGE RD Radio: 9C Units: CCBR15, 9C, BR156</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK E SPRINGBROOK CT Radio: 9D Units: E33, E201, R8, TW7, TT4, A129, ALS8, BC903, FS12, E72, E11, E121, BC901, SAF901, 9D</description>
       <guid isPermaLink="false">2025-01-05 00:01:00</guid>
       <pubDate>Sun, 05 Jan 2025 00:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:33 pm</title>
-      <description>17200 BLOCK ANNANDALE RD, IAO Radio: 9C Units: BR65, FS06, 9C</description>
-      <guid isPermaLink="false">2025-01-04 23:33:00</guid>
-      <pubDate>Sat, 04 Jan 2025 23:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
