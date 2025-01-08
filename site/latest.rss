@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 13:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 13:34:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:29 am</title>
+      <description>COPPERMINE RD / FOUNTAIN SCHOOL RD Radio: 9B Units: FS17, 9B, A169, E172</description>
+      <guid isPermaLink="false">2025-01-08 08:29:00</guid>
+      <pubDate>Wed, 08 Jan 2025 08:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:25 am</title>
+      <description>5200 BLOCK INTERCOASTAL DR, THACKER CASKETS Radio: 9C Units: TT4, FS15, 9C, E153</description>
+      <guid isPermaLink="false">2025-01-08 08:25:00</guid>
+      <pubDate>Wed, 08 Jan 2025 08:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:25 am</title>
+      <description>5800 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E33, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-08 08:25:00</guid>
+      <pubDate>Wed, 08 Jan 2025 08:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:11 am</title>
+      <description>N MAXWELL AVE / E SIXTH ST Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2025-01-08 08:11:00</guid>
+      <pubDate>Wed, 08 Jan 2025 08:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:26 am</title>
       <description>1000 BLOCK W PATRICK ST, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Radio: 9C Units: E11, TT4, 9C</description>
@@ -282,30 +306,6 @@
       <description>5800 BLOCK WOODBINE RD Units: K17, E172</description>
       <guid isPermaLink="false">2025-01-05 18:03:00</guid>
       <pubDate>Sun, 05 Jan 2025 18:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:02 pm</title>
-      <description>5800 BLOCK WOODBINE RD Units: K17</description>
-      <guid isPermaLink="false">2025-01-05 18:02:00</guid>
-      <pubDate>Sun, 05 Jan 2025 18:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 4:51 pm</title>
-      <description>7300 BLOCK WESTWOOD DR Radio: 9C Units: E111, EK114, BR116, 9C</description>
-      <guid isPermaLink="false">2025-01-05 16:51:00</guid>
-      <pubDate>Sun, 05 Jan 2025 16:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
-      <description>APPROX LOC:8978 HAWBOTTOM RD Radio: 9B Units: A89, E82, 9B</description>
-      <guid isPermaLink="false">2025-01-05 16:27:00</guid>
-      <pubDate>Sun, 05 Jan 2025 16:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
-      <description>N BENTZ ST / W THIRD ST Radio: 9B Units: PE23, 9B, A29</description>
-      <guid isPermaLink="false">2025-01-05 16:09:00</guid>
-      <pubDate>Sun, 05 Jan 2025 16:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
