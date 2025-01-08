@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jan 2025 23:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 00:07:14 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:44 pm</title>
+      <description>HANNOVER DR / KIRKLAND DR Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-07 18:44:00</guid>
+      <pubDate>Tue, 07 Jan 2025 18:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:15 pm</title>
       <description>LEGORE BRIDGE RD / OAK HILL RD Radio: 9C Units: FS09, 9C, BR96</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK W PATRICK ST Radio: 9B Units: A39, E11, 9B</description>
       <guid isPermaLink="false">2025-01-05 11:40:00</guid>
       <pubDate>Sun, 05 Jan 2025 11:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:25 am</title>
-      <description>1400 BLOCK KEY PKWY, Bldg:B, Apt/Unit:B1, HICKORY HILL APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: T50, 9C, E33</description>
-      <guid isPermaLink="false">2025-01-05 08:25:00</guid>
-      <pubDate>Sun, 05 Jan 2025 08:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
