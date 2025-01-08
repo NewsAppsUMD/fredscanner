@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jan 2025 15:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 16:02:31 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 10:45 am</title>
+      <description>500 BLOCK HIGHLAND ST, Bldg:F, KRITES AUTOMOTIVE Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-01-08 10:45:00</guid>
+      <pubDate>Wed, 08 Jan 2025 10:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:29 am</title>
       <description>COPPERMINE RD / FOUNTAIN SCHOOL RD Radio: 9B Units: FS17, 9B, A169, E172</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK WOODBINE RD Units: BR175, K17, E172</description>
       <guid isPermaLink="false">2025-01-05 18:06:00</guid>
       <pubDate>Sun, 05 Jan 2025 18:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:03 pm</title>
-      <description>5800 BLOCK WOODBINE RD Units: K17, E172</description>
-      <guid isPermaLink="false">2025-01-05 18:03:00</guid>
-      <pubDate>Sun, 05 Jan 2025 18:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
