@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 05:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 06:02:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:50 am</title>
+      <description>RT77 / CATOCTIN HOLLOW RD, RT77 / CATOCTIN HOLLOW RD Units: R10, A309, ALS30, E102, EMS902</description>
+      <guid isPermaLink="false">2025-01-09 00:50:00</guid>
+      <pubDate>Thu, 09 Jan 2025 00:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:43 am</title>
+      <description>RT77 / CATOCTIN HOLLOW RD, RT77 / CATOCTIN HOLLOW RD Units: PE102, A309</description>
+      <guid isPermaLink="false">2025-01-09 00:43:00</guid>
+      <pubDate>Thu, 09 Jan 2025 00:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:09 am</title>
       <description>5200 BLOCK MUSSETTER RD, IFO Units: A159</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK MAIN ST, STATION 8 Units: E121</description>
       <guid isPermaLink="false">2025-01-06 08:50:00</guid>
       <pubDate>Mon, 06 Jan 2025 08:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:14 am</title>
-      <description>20600 BLOCK FREDERICK RD, STATION MC734 - GERMANTOWN/MILESTONE Radio: 7A1 Units: E201, 7A1</description>
-      <guid isPermaLink="false">2025-01-06 08:14:00</guid>
-      <pubDate>Mon, 06 Jan 2025 08:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:13 am</title>
-      <description>26300 BLOCK RIDGE RD, STATION MC713 - DAMASCUS Units: E111</description>
-      <guid isPermaLink="false">2025-01-06 08:13:00</guid>
-      <pubDate>Mon, 06 Jan 2025 08:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
