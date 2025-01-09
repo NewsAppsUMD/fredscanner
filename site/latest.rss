@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 16:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 18:02:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:52 pm</title>
+      <description>PRESIDENTS CT / CORPORATE DR Radio: 9B Units: A319, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2025-01-09 12:52:00</guid>
+      <pubDate>Thu, 09 Jan 2025 12:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:05 pm</title>
+      <description>100 BLOCKB W FREDERICK ST, ROCK CREEK SCHOOL Radio: 9C Units: E111, Q11, FS11, 9C</description>
+      <guid isPermaLink="false">2025-01-09 12:05:00</guid>
+      <pubDate>Thu, 09 Jan 2025 12:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:45 am</title>
+      <description>1000 BLOCK MERCER PL Units: A19, E11</description>
+      <guid isPermaLink="false">2025-01-09 11:45:00</guid>
+      <pubDate>Thu, 09 Jan 2025 11:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 11:14 am</title>
       <description>1500 BLOCK W PATRICK ST, IAO Radio: 9C Units: HM33, E501, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK E SEVENTH ST Radio: 9C Units: PE23, E33, TT4, A29, 9C</description>
       <guid isPermaLink="false">2025-01-07 05:42:00</guid>
       <pubDate>Tue, 07 Jan 2025 05:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: Q11, 9C, PE23</description>
-      <guid isPermaLink="false">2025-01-07 00:21:00</guid>
-      <pubDate>Tue, 07 Jan 2025 00:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:32 pm</title>
-      <description>PENN SHOP RD / RIDGE RD Radio: 9C Units: CCBR15, 9C, BR156</description>
-      <guid isPermaLink="false">2025-01-06 22:32:00</guid>
-      <pubDate>Mon, 06 Jan 2025 22:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 8:50 pm</title>
-      <description>1700 BLOCK MONOCACY BLVD, RUTTERS - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, 9C, FS29</description>
-      <guid isPermaLink="false">2025-01-06 20:50:00</guid>
-      <pubDate>Mon, 06 Jan 2025 20:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
