@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 15:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 16:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 10:37 am</title>
+      <description>1500 BLOCK W PATRICK ST, IAO Radio: 9C Units: E121, 9C</description>
+      <guid isPermaLink="false">2025-01-09 10:37:00</guid>
+      <pubDate>Thu, 09 Jan 2025 10:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:31 am</title>
+      <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Units: A29, E501, E11, R2, A19</description>
+      <guid isPermaLink="false">2025-01-09 10:31:00</guid>
+      <pubDate>Thu, 09 Jan 2025 10:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:11 am</title>
       <description>9400 BLOCK DUBLIN RD, Bldg:A Radio: 9B Units: A249, E111, FS11, 9B</description>
@@ -294,18 +306,6 @@
       <description>STADIUM DR / S MARKET ST Radio: 9I Units: E33, EMS902, 9I, A39, ALS4</description>
       <guid isPermaLink="false">2025-01-06 19:28:00</guid>
       <pubDate>Mon, 06 Jan 2025 19:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:15 pm</title>
-      <description>ED MCCLAIN RD / GANLEY LN Radio: 9D Units: E251, R15, A259, ALS23, BC901, EMS901, FS25, 9D</description>
-      <guid isPermaLink="false">2025-01-06 19:15:00</guid>
-      <pubDate>Mon, 06 Jan 2025 19:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:13 pm</title>
-      <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, TT4, 9C</description>
-      <guid isPermaLink="false">2025-01-06 19:13:00</guid>
-      <pubDate>Mon, 06 Jan 2025 19:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
