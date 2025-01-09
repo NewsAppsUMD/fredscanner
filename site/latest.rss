@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 05:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 05:32:54 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:09 am</title>
+      <description>5200 BLOCK MUSSETTER RD, IFO Units: A159</description>
+      <guid isPermaLink="false">2025-01-09 00:09:00</guid>
+      <pubDate>Thu, 09 Jan 2025 00:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:49 pm</title>
       <description>I70EB / 38MM Units: E82, A89</description>
@@ -300,12 +306,6 @@
       <description>26300 BLOCK RIDGE RD, STATION MC713 - DAMASCUS Units: E111</description>
       <guid isPermaLink="false">2025-01-06 08:13:00</guid>
       <pubDate>Mon, 06 Jan 2025 08:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:49 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: PE23, Q11, 9C</description>
-      <guid isPermaLink="false">2025-01-06 06:49:00</guid>
-      <pubDate>Mon, 06 Jan 2025 06:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
