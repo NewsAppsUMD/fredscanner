@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 20:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 21:01:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:36 pm</title>
+      <description>2100 BLOCKA WHITTIER DR Radio: 9C Units: E11, T50, 9C</description>
+      <guid isPermaLink="false">2025-01-09 15:36:00</guid>
+      <pubDate>Thu, 09 Jan 2025 15:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:28 pm</title>
       <description>I270SB / RT85, I270SB / RT85 Radio: 9B Units: E11, R3, A19, A239, 9B, E231</description>
@@ -300,12 +306,6 @@
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE Radio: 9B Units: E72, WCE102, WCR10, WCA756, A89, 9B</description>
       <guid isPermaLink="false">2025-01-07 06:57:00</guid>
       <pubDate>Tue, 07 Jan 2025 06:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE FUEL SPILL: 6:53 am</title>
-      <description>I70EB / 39MM, I70EB / 39MM Radio: 9C Units: HM33, HMSU33, BC903, SAF901, 9C, E82, WCE161</description>
-      <guid isPermaLink="false">2025-01-07 06:53:00</guid>
-      <pubDate>Tue, 07 Jan 2025 06:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
