@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 04:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 04:34:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:24 pm</title>
+      <description>MUSSETTER RD / W HYATT RD Radio: 9D Units: E153, R15, A159, ALS23, BC901, EMS901, FS15, 9D</description>
+      <guid isPermaLink="false">2025-01-08 23:24:00</guid>
+      <pubDate>Wed, 08 Jan 2025 23:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:05 pm</title>
       <description>11200 BLOCK YARDLEY CT Radio: 9C Units: FS25, 9C, E251, RE709, TT23</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK E SIXTEENTH ST, NORTHAMPTON MANOR Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-01-06 03:04:00</guid>
       <pubDate>Mon, 06 Jan 2025 03:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:13 am</title>
-      <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Units: FS15, E331, BR35</description>
-      <guid isPermaLink="false">2025-01-06 00:13:00</guid>
-      <pubDate>Mon, 06 Jan 2025 00:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
