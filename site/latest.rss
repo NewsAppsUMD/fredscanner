@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 19:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 19:31:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:28 pm</title>
+      <description>I270SB / RT85, I270SB / RT85 Radio: 9B Units: E11, R3, A19, A239, 9B, E231</description>
+      <guid isPermaLink="false">2025-01-09 14:28:00</guid>
+      <pubDate>Thu, 09 Jan 2025 14:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:52 pm</title>
       <description>PRESIDENTS CT / CORPORATE DR Radio: 9B Units: A319, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 39MM, I70EB / 39MM Radio: 9C Units: HM33, HMSU33, BC903, SAF901, 9C, E82, WCE161</description>
       <guid isPermaLink="false">2025-01-07 06:53:00</guid>
       <pubDate>Tue, 07 Jan 2025 06:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:42 am</title>
-      <description>100 BLOCK E SEVENTH ST Radio: 9C Units: PE23, E33, TT4, A29, 9C</description>
-      <guid isPermaLink="false">2025-01-07 05:42:00</guid>
-      <pubDate>Tue, 07 Jan 2025 05:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
