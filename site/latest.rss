@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 21:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 21:31:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:25 pm</title>
+      <description>100 BLOCK DEPAUL ST, SAINT JOSEPHS ROMAN CATHOLIC CHURCH Radio: 9C Units: E61, 9C, TW6, FS06</description>
+      <guid isPermaLink="false">2025-01-09 16:25:00</guid>
+      <pubDate>Thu, 09 Jan 2025 16:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE ALARM SPECIFY: 4:22 pm</title>
+      <description>100 BLOCK DEPAUL ST, SAINT JOSEPHS ROMAN CATHOLIC CHURCH Radio: 9B Units: E61, FS06, 9B</description>
+      <guid isPermaLink="false">2025-01-09 16:22:00</guid>
+      <pubDate>Thu, 09 Jan 2025 16:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:04 pm</title>
+      <description>7400 BLOCK ROUND HILL RD Radio: 9C Units: E121, 9C, FS12</description>
+      <guid isPermaLink="false">2025-01-09 16:04:00</guid>
+      <pubDate>Thu, 09 Jan 2025 16:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:36 pm</title>
       <description>2100 BLOCKA WHITTIER DR Radio: 9C Units: E11, T50, 9C</description>
@@ -288,24 +306,6 @@
       <description>5300 BLOCK SPECTRUM DR, Apt/Unit:STE A, ACCUTECH BUSINESS INSTITUTE - SPECTRUM CENTER Radio: 9C Units: E33, R3, FS31, PE311, 9C</description>
       <guid isPermaLink="false">2025-01-07 12:07:00</guid>
       <pubDate>Tue, 07 Jan 2025 12:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:17 am</title>
-      <description>10500 BLOCK GREEN VALLEY RD Radio: 9B Units: A169, E162, FS17, 9B</description>
-      <guid isPermaLink="false">2025-01-07 11:17:00</guid>
-      <pubDate>Tue, 07 Jan 2025 11:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:09 am</title>
-      <description>100 BLOCK HIGH Units: T5</description>
-      <guid isPermaLink="false">2025-01-07 09:09:00</guid>
-      <pubDate>Tue, 07 Jan 2025 09:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:57 am</title>
-      <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE Radio: 9B Units: E72, WCE102, WCR10, WCA756, A89, 9B</description>
-      <guid isPermaLink="false">2025-01-07 06:57:00</guid>
-      <pubDate>Tue, 07 Jan 2025 06:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
