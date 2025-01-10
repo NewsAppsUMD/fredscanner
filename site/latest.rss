@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 22:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 22:33:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:21 pm</title>
+      <description>BALDWIN RD / GREEN VALLEY RD Radio: 9D Units: R15, A159, ALS33, BC901, EMS902, E153, C15B, CMD15, 9D, SAF901, A259</description>
+      <guid isPermaLink="false">2025-01-10 17:21:00</guid>
+      <pubDate>Fri, 10 Jan 2025 17:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:13 pm</title>
+      <description>BALDWIN RD / GREEN VALLEY RD Radio: 9D Units: R15, A159, ALS33, BC901, EMS902, FS15, E153, 9D</description>
+      <guid isPermaLink="false">2025-01-10 17:13:00</guid>
+      <pubDate>Fri, 10 Jan 2025 17:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 5:07 pm</title>
+      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9C Units: BR235, 9C</description>
+      <guid isPermaLink="false">2025-01-10 17:07:00</guid>
+      <pubDate>Fri, 10 Jan 2025 17:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
       <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Radio: 9C Units: E121, TW1, FS12, 9C</description>
@@ -288,24 +306,6 @@
       <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-01-08 13:19:00</guid>
       <pubDate>Wed, 08 Jan 2025 13:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:00 pm</title>
-      <description>200 BLOCK CONTROLLER CT, Apt/Unit:FIRST, AIRPORT CONTROL TOWER - FREDERICK REGIONAL AIRPORT Radio: 9C Units: E331, R3, 9C</description>
-      <guid isPermaLink="false">2025-01-08 13:00:00</guid>
-      <pubDate>Wed, 08 Jan 2025 13:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:19 pm</title>
-      <description>STAUFFER CT / WOODSBORO PIKE Radio: 9B Units: E111, FS11, 9B, A249</description>
-      <guid isPermaLink="false">2025-01-08 12:19:00</guid>
-      <pubDate>Wed, 08 Jan 2025 12:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:43 am</title>
-      <description>3200 BLOCK BENNETT CREEK AVE Radio: 9C Units: E231, TW735, FS23, 9C</description>
-      <guid isPermaLink="false">2025-01-08 11:43:00</guid>
-      <pubDate>Wed, 08 Jan 2025 11:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
