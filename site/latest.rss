@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jan 2025 23:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:07:15 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:01 pm</title>
+      <description>9300 BLOCK BETHEL RD Radio: 9C Units: E221, FS29, 9C</description>
+      <guid isPermaLink="false">2025-01-09 19:01:00</guid>
+      <pubDate>Thu, 09 Jan 2025 19:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 5:37 pm</title>
       <description>100 BLOCK W ALL SAINTS ST, IAO Radio: 9C Units: E33, 9C</description>
@@ -300,12 +306,6 @@
       <description>CREAGERSTOWN RD / OLD FREDERICK RD Radio: 9C Units: FS13, E162, 9C</description>
       <guid isPermaLink="false">2025-01-07 14:49:00</guid>
       <pubDate>Tue, 07 Jan 2025 14:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:43 pm</title>
-      <description>8200 BLOCK WOODSBORO PIKE, CALVARY ASSEMBLY OF GOD Radio: 9D Units: E111, E291, E23, Q11, A249, SAF901, FS11, 9D, BC902</description>
-      <guid isPermaLink="false">2025-01-07 12:43:00</guid>
-      <pubDate>Tue, 07 Jan 2025 12:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
