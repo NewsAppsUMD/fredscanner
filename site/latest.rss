@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 01:29:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 02:05:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:45 pm</title>
+      <description>RT15SB / PUTMAN RD, RT15SB / PUTMAN RD Radio: 9B Units: A229, E221, FS22, 9B</description>
+      <guid isPermaLink="false">2025-01-09 20:45:00</guid>
+      <pubDate>Thu, 09 Jan 2025 20:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:25 pm</title>
       <description>I270SB / I70, I270SB / I70 Radio: 9B Units: E11, R3, A19, A239, 9B, E231</description>
@@ -300,12 +306,6 @@
       <description>HANNOVER DR / KIRKLAND DR Radio: 9C Units: PE311, FS31, 9C</description>
       <guid isPermaLink="false">2025-01-07 18:44:00</guid>
       <pubDate>Tue, 07 Jan 2025 18:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:15 pm</title>
-      <description>LEGORE BRIDGE RD / OAK HILL RD Radio: 9C Units: FS09, 9C, BR96</description>
-      <guid isPermaLink="false">2025-01-07 18:15:00</guid>
-      <pubDate>Tue, 07 Jan 2025 18:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
