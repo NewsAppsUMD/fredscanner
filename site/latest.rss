@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 11:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 12:02:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:31 am</title>
+      <description>500 BLOCK CAWLEY DR, OUTSIDE OF MY UNIT Radio: 9C Units: 9C, PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2025-01-10 06:31:00</guid>
+      <pubDate>Fri, 10 Jan 2025 06:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 1:29 am</title>
       <description>10300 BLOCK SAGLE RD Units: RE52</description>
@@ -300,12 +306,6 @@
       <description>16300 BLOCK DUBOIS TER, MSMU - THE TERRACE Units: CCLDR5, A68, E221, R6, TW6, ALS30, ACE232, BC902, BC901, FS06, E61, PE102, E132, ACE22, SAF901</description>
       <guid isPermaLink="false">2025-01-08 02:00:00</guid>
       <pubDate>Wed, 08 Jan 2025 02:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 10:31 pm</title>
-      <description>700 BLOCK TATUM CT Units: E11</description>
-      <guid isPermaLink="false">2025-01-07 22:31:00</guid>
-      <pubDate>Tue, 07 Jan 2025 22:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
