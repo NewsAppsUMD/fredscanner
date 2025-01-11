@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jan 2025 03:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 04:02:16 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:51 pm</title>
+      <description>100 BLOCK NORTH POINTE CIR Radio: 9C Units: E72, 9C</description>
+      <guid isPermaLink="false">2025-01-10 22:51:00</guid>
+      <pubDate>Fri, 10 Jan 2025 22:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:36 pm</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9B Units: Q11, 9B, PE23</description>
+      <guid isPermaLink="false">2025-01-10 22:36:00</guid>
+      <pubDate>Fri, 10 Jan 2025 22:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 7:47 pm</title>
       <description>I70 / RT94 Units: E153</description>
@@ -294,18 +306,6 @@
       <description>MUSSETTER RD / W HYATT RD Radio: 9D Units: E153, R15, A159, ALS23, BC901, EMS901, FS15, 9D</description>
       <guid isPermaLink="false">2025-01-08 23:24:00</guid>
       <pubDate>Wed, 08 Jan 2025 23:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:05 pm</title>
-      <description>11200 BLOCK YARDLEY CT Radio: 9C Units: FS25, 9C, E251, RE709, TT23</description>
-      <guid isPermaLink="false">2025-01-08 20:05:00</guid>
-      <pubDate>Wed, 08 Jan 2025 20:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:35 pm</title>
-      <description>E PATRICK ST / BOWMANS FARM RD Units: A339, E331</description>
-      <guid isPermaLink="false">2025-01-08 19:35:00</guid>
-      <pubDate>Wed, 08 Jan 2025 19:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
