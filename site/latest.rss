@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jan 2025 08:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 09:01:52 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:39 am</title>
+      <description>I270BB / RT 109 AND RT121 Units: E231</description>
+      <guid isPermaLink="false">2025-01-11 03:39:00</guid>
+      <pubDate>Sat, 11 Jan 2025 03:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:06 am</title>
       <description>4600 BLOCK CATHOLIC CHURCH RD Radio: 9B Units: A196, RE52, FS05, 9B</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK MUSSETTER RD, IFO Units: A159</description>
       <guid isPermaLink="false">2025-01-09 00:09:00</guid>
       <pubDate>Thu, 09 Jan 2025 00:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:49 pm</title>
-      <description>I70EB / 38MM Units: E82, A89</description>
-      <guid isPermaLink="false">2025-01-08 23:49:00</guid>
-      <pubDate>Wed, 08 Jan 2025 23:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
