@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 22:32:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 23:01:57 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:53 pm</title>
+      <description>MONOCACY BLVD / MILL POND RD Radio: 9C Units: 9C, E291, FS29</description>
+      <guid isPermaLink="false">2025-01-13 17:53:00</guid>
+      <pubDate>Mon, 13 Jan 2025 17:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:52 pm</title>
+      <description>3200 BLOCK CENTENNIAL WAY, Apt/Unit:311, URBAN GREEN APARTMENTS - 3200 BLOCK CENTENNIAL WAY Units: A239, ALS23, EMS902, FS23, E231</description>
+      <guid isPermaLink="false">2025-01-13 17:52:00</guid>
+      <pubDate>Mon, 13 Jan 2025 17:52:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:25 pm</title>
       <description>300 BLOCK S SETON AVE, Apt/Unit:APT 409, SETON VILLAGE APARTMENTS Radio: 9C Units: E61, TW6, FS06, 9C</description>
@@ -294,18 +306,6 @@
       <description>BALDWIN RD / GREEN VALLEY RD Radio: 9D Units: R15, A159, ALS33, BC901, EMS902, FS15, E153, 9D</description>
       <guid isPermaLink="false">2025-01-10 17:13:00</guid>
       <pubDate>Fri, 10 Jan 2025 17:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:07 pm</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9C Units: BR235, 9C</description>
-      <guid isPermaLink="false">2025-01-10 17:07:00</guid>
-      <pubDate>Fri, 10 Jan 2025 17:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
-      <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Radio: 9C Units: E121, TW1, FS12, 9C</description>
-      <guid isPermaLink="false">2025-01-10 16:52:00</guid>
-      <pubDate>Fri, 10 Jan 2025 16:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
