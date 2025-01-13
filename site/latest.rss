@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 23:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 23:31:28 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:13 pm</title>
+      <description>5300 BLOCK KINGS CT, GLADHILL FURNITURE - FREDERICK Units: E201, FS20</description>
+      <guid isPermaLink="false">2025-01-13 18:13:00</guid>
+      <pubDate>Mon, 13 Jan 2025 18:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:53 pm</title>
       <description>MONOCACY BLVD / MILL POND RD Radio: 9C Units: 9C, E291, FS29</description>
@@ -300,12 +306,6 @@
       <description>BALDWIN RD / GREEN VALLEY RD Radio: 9D Units: R15, A159, ALS33, BC901, EMS902, E153, C15B, CMD15, 9D, SAF901, A259</description>
       <guid isPermaLink="false">2025-01-10 17:21:00</guid>
       <pubDate>Fri, 10 Jan 2025 17:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:13 pm</title>
-      <description>BALDWIN RD / GREEN VALLEY RD Radio: 9D Units: R15, A159, ALS33, BC901, EMS902, FS15, E153, 9D</description>
-      <guid isPermaLink="false">2025-01-10 17:13:00</guid>
-      <pubDate>Fri, 10 Jan 2025 17:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
