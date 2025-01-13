@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 22:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 22:32:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:25 pm</title>
+      <description>300 BLOCK S SETON AVE, Apt/Unit:APT 409, SETON VILLAGE APARTMENTS Radio: 9C Units: E61, TW6, FS06, 9C</description>
+      <guid isPermaLink="false">2025-01-13 17:25:00</guid>
+      <pubDate>Mon, 13 Jan 2025 17:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - TORSO OR HEAD: 5:22 pm</title>
+      <description>7200 BLOCK W HUFF BLVD Radio: 9D Units: EMS902, FS50, E501, R2, A19, ALS2, SAF901, 9D, BC902</description>
+      <guid isPermaLink="false">2025-01-13 17:22:00</guid>
+      <pubDate>Mon, 13 Jan 2025 17:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 4:27 pm</title>
       <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111, Q11, 9C, E291, FS11</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Radio: 9C Units: E121, TW1, FS12, 9C</description>
       <guid isPermaLink="false">2025-01-10 16:52:00</guid>
       <pubDate>Fri, 10 Jan 2025 16:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:16 pm</title>
-      <description>RT85 / I270, RT85 / I270 Units: PE311, FS31, A319</description>
-      <guid isPermaLink="false">2025-01-10 16:16:00</guid>
-      <pubDate>Fri, 10 Jan 2025 16:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 2:44 pm</title>
-      <description>8400 BLOCK LEGG RD Radio: 9C Units: R3, K33, FS33, 9C, E331, E33</description>
-      <guid isPermaLink="false">2025-01-10 14:44:00</guid>
-      <pubDate>Fri, 10 Jan 2025 14:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
