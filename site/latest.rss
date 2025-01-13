@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jan 2025 10:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:35:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:06 am</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: A239, A735, FS23, 9B, E231, E11, R3</description>
+      <guid isPermaLink="false">2025-01-13 05:06:00</guid>
+      <pubDate>Mon, 13 Jan 2025 05:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:09 am</title>
       <description>800 BLOCK FRANCIS SCOTT KEY HWY Units: K9, SU9</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK CAWLEY DR, OUTSIDE OF MY UNIT Radio: 9C Units: 9C, PE311, TW1, FS31</description>
       <guid isPermaLink="false">2025-01-10 06:31:00</guid>
       <pubDate>Fri, 10 Jan 2025 06:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:29 am</title>
-      <description>10300 BLOCK SAGLE RD Units: RE52</description>
-      <guid isPermaLink="false">2025-01-10 01:29:00</guid>
-      <pubDate>Fri, 10 Jan 2025 01:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
