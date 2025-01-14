@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 15:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 15:32:14 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:03 am</title>
+      <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Units: FS23, TW23</description>
+      <guid isPermaLink="false">2025-01-14 10:03:00</guid>
+      <pubDate>Tue, 14 Jan 2025 10:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:18 am</title>
       <description>8900 BLOCK AMELUNG ST Units: E231, FS23</description>
@@ -300,12 +306,6 @@
       <description>MAIN ST / SOUTH ST Radio: 9D Units: E162, RE171, A179, ALS17, BC901, 9D, EMS902, FS17</description>
       <guid isPermaLink="false">2025-01-11 12:05:00</guid>
       <pubDate>Sat, 11 Jan 2025 12:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:34 am</title>
-      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER - FREDERICK* Radio: 9C Units: PE311, 9C, TT4</description>
-      <guid isPermaLink="false">2025-01-11 11:34:00</guid>
-      <pubDate>Sat, 11 Jan 2025 11:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
