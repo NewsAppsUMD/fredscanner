@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jan 2025 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 12:42:55 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:35 am</title>
+      <description>ADAMSTOWN RD / BUCKEYSTOWN PIKE Units: BR145, FS14</description>
+      <guid isPermaLink="false">2025-01-14 07:35:00</guid>
+      <pubDate>Tue, 14 Jan 2025 07:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:09 am</title>
+      <description>200 BLOCK S MAPLE AVE, 84 LUMBER - BRUNSWICK Units: T5, E51, FS05</description>
+      <guid isPermaLink="false">2025-01-14 07:09:00</guid>
+      <pubDate>Tue, 14 Jan 2025 07:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:40 am</title>
       <description>500 BLOCK GILLESPIE DR Radio: 9C Units: E11, 9C</description>
@@ -294,18 +306,6 @@
       <description>I70WB / MONOCACY BLVD, I70WB / MONOCACY BLVD Radio: 9B Units: PE311, A39, 9B, E331, R3, A339, FS33</description>
       <guid isPermaLink="false">2025-01-11 07:57:00</guid>
       <pubDate>Sat, 11 Jan 2025 07:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:56 am</title>
-      <description>400 BLOCK N MARKET ST, CUSTOM IMPRINTS Radio: 9C Units: E33, TT4, 9C</description>
-      <guid isPermaLink="false">2025-01-11 07:56:00</guid>
-      <pubDate>Sat, 11 Jan 2025 07:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:10 am</title>
-      <description>6900 BLOCK URNER AVE, BRADDOCK MOTORS - 6900 BLOCK URNER AVE Radio: 9B Units: A129, E121, FS12, 9B</description>
-      <guid isPermaLink="false">2025-01-11 07:10:00</guid>
-      <pubDate>Sat, 11 Jan 2025 07:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
