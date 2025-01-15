@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 02:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 02:43:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:37 pm</title>
+      <description>APPROX LOC:70E BTWN XOVR &amp; WEIGH STATION OFF RAMP PIKE Radio: 9C Units: E153, CCE12, FS15, 9C</description>
+      <guid isPermaLink="false">2025-01-14 21:37:00</guid>
+      <pubDate>Tue, 14 Jan 2025 21:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:22 pm</title>
       <description>1300 BLOCK HOLLING PL, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Radio: 9C Units: BC902, E33, CMD2, T50, 9C, E291</description>
@@ -298,12 +304,6 @@
     <item>
       <title>GAS ODOR INSIDE: 10:11 am</title>
       <description>200 BLOCK W B ST Units: E612, T5, FS05, RE52</description>
-      <guid isPermaLink="false">2025-01-12 10:11:00</guid>
-      <pubDate>Sun, 12 Jan 2025 10:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:11 am</title>
-      <description>200 BLOCK W B ST Units: RE52</description>
       <guid isPermaLink="false">2025-01-12 10:11:00</guid>
       <pubDate>Sun, 12 Jan 2025 10:11:00 -0500</pubDate>
     </item>
