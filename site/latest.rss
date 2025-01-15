@@ -6,7 +6,73 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 20:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:01:43 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 10:36 pm</title>
+      <description>300 BLOCK S JEFFERSON ST, WAFFLE HOUSE - CATOCTIN PARK Radio: 9C Units: E33, PE23, 9C, TT4</description>
+      <guid isPermaLink="false">2025-01-15 22:36:00</guid>
+      <pubDate>Wed, 15 Jan 2025 22:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:09 pm</title>
+      <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Radio: 9B Units: E281, 9B, A209, FS28</description>
+      <guid isPermaLink="false">2025-01-15 22:09:00</guid>
+      <pubDate>Wed, 15 Jan 2025 22:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 3:40 pm</title>
+      <description>13500 BLOCK AUTUMN CREST DR S Radio: 9C Units: K33, E251, E153, CCT1, CCK1, 9C, BC901</description>
+      <guid isPermaLink="false">2025-01-15 15:40:00</guid>
+      <pubDate>Wed, 15 Jan 2025 15:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 3:35 pm</title>
+      <description>13500 BLOCK AUTUMN CREST DR S Radio: 9C Units: E251, E153, CCT1, CCK1, FS25, 9C</description>
+      <guid isPermaLink="false">2025-01-15 15:35:00</guid>
+      <pubDate>Wed, 15 Jan 2025 15:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 1:47 pm</title>
+      <description>3800 BLOCK CARRIAGE HILL DR Radio: 9C Units: FS23, E251, TW23, E231, 9C</description>
+      <guid isPermaLink="false">2025-01-15 13:47:00</guid>
+      <pubDate>Wed, 15 Jan 2025 13:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:30 am</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: 9C, PE311, TT4, FS31</description>
+      <guid isPermaLink="false">2025-01-15 11:30:00</guid>
+      <pubDate>Wed, 15 Jan 2025 11:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 11:11 am</title>
+      <description>100 BLOCK PROSPECT ST Radio: 9C Units: 9C, E121, E72, RE74</description>
+      <guid isPermaLink="false">2025-01-15 11:11:00</guid>
+      <pubDate>Wed, 15 Jan 2025 11:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:56 am</title>
+      <description>800 BLOCK CENTRAL AVE Radio: 9C Units: E51, FS05, 9C</description>
+      <guid isPermaLink="false">2025-01-15 09:56:00</guid>
+      <pubDate>Wed, 15 Jan 2025 09:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:01 am</title>
+      <description>600 BLOCK CONTENDER WAY, BUTTERFLY RIDGE ELEMENTARY SCHOOL Units: A19, E11</description>
+      <guid isPermaLink="false">2025-01-15 09:01:00</guid>
+      <pubDate>Wed, 15 Jan 2025 09:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:29 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, TT4, FS29, 9C</description>
+      <guid isPermaLink="false">2025-01-15 08:29:00</guid>
+      <pubDate>Wed, 15 Jan 2025 08:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:24 am</title>
+      <description>500 BLOCK E MAIN ST, JUBILEE FOODS Radio: 9C Units: E61, TW6, FS06, 9C</description>
+      <guid isPermaLink="false">2025-01-15 08:24:00</guid>
+      <pubDate>Wed, 15 Jan 2025 08:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:37 pm</title>
       <description>APPROX LOC:70E BTWN XOVR &amp; WEIGH STATION OFF RAMP PIKE Radio: 9C Units: E153, CCE12, FS15, 9C</description>
@@ -240,72 +306,6 @@
       <description>2000 BLOCK POMONA WAY Radio: 9C Units: FS29, E291, TW1, 9C</description>
       <guid isPermaLink="false">2025-01-13 13:20:00</guid>
       <pubDate>Mon, 13 Jan 2025 13:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:01 pm</title>
-      <description>BUCKEYSTOWN PIKE / URBANA PIKE Radio: 9B Units: A38, R3, 9B</description>
-      <guid isPermaLink="false">2025-01-13 13:01:00</guid>
-      <pubDate>Mon, 13 Jan 2025 13:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:44 am</title>
-      <description>5900 BLOCK LEBEN DR Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-01-13 08:44:00</guid>
-      <pubDate>Mon, 13 Jan 2025 08:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:40 am</title>
-      <description>2700 BLOCK CAMOMILE DR W Units: E231, FS23</description>
-      <guid isPermaLink="false">2025-01-13 07:40:00</guid>
-      <pubDate>Mon, 13 Jan 2025 07:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:06 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: A239, A735, FS23, 9B, E231, E11, R3</description>
-      <guid isPermaLink="false">2025-01-13 05:06:00</guid>
-      <pubDate>Mon, 13 Jan 2025 05:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:09 am</title>
-      <description>800 BLOCK FRANCIS SCOTT KEY HWY Units: K9, SU9</description>
-      <guid isPermaLink="false">2025-01-13 01:09:00</guid>
-      <pubDate>Mon, 13 Jan 2025 01:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 8:19 pm</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9C Units: E82, FS12, 9C, E121</description>
-      <guid isPermaLink="false">2025-01-12 20:19:00</guid>
-      <pubDate>Sun, 12 Jan 2025 20:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 3:58 pm</title>
-      <description>200 BLOCK DEER RUN DR Radio: 9C Units: FS11, 9C, E111, E162, Q11</description>
-      <guid isPermaLink="false">2025-01-12 15:58:00</guid>
-      <pubDate>Sun, 12 Jan 2025 15:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:03 pm</title>
-      <description>W PATRICK ST / HILLCREST DR Radio: 9B Units: E11, 9B, A19</description>
-      <guid isPermaLink="false">2025-01-12 13:03:00</guid>
-      <pubDate>Sun, 12 Jan 2025 13:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:27 am</title>
-      <description>100 BLOCK W PATRICK ST, Apt/Unit:LOWER, FREDERICK COUNTY COURTHOUSE Units: TT4</description>
-      <guid isPermaLink="false">2025-01-12 10:27:00</guid>
-      <pubDate>Sun, 12 Jan 2025 10:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:14 am</title>
-      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Radio: 9B Units: R20, A209, FS05, E201, E281, A197, 9B</description>
-      <guid isPermaLink="false">2025-01-12 10:14:00</guid>
-      <pubDate>Sun, 12 Jan 2025 10:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:11 am</title>
-      <description>200 BLOCK W B ST Units: E612, T5, FS05, RE52</description>
-      <guid isPermaLink="false">2025-01-12 10:11:00</guid>
-      <pubDate>Sun, 12 Jan 2025 10:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
