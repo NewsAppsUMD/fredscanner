@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 11:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 11:31:33 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:23 am</title>
+      <description>13300 BLOCK(111855) BLK HARPERS FERRY RD Units: RE52</description>
+      <guid isPermaLink="false">2025-01-16 06:23:00</guid>
+      <pubDate>Thu, 16 Jan 2025 06:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:49 am</title>
       <description>10300 BLOCK MEADOWHEAD CIR Radio: 9C Units: E153, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111, FS11, Q11, 9C</description>
       <guid isPermaLink="false">2025-01-13 16:18:00</guid>
       <pubDate>Mon, 13 Jan 2025 16:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:25 pm</title>
-      <description>600 BLOCK HUNTOVER LN Radio: 9C Units: 9C, E121, PE311, TW1</description>
-      <guid isPermaLink="false">2025-01-13 14:25:00</guid>
-      <pubDate>Mon, 13 Jan 2025 14:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
