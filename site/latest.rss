@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jan 2025 14:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 19:01:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:43 pm</title>
+      <description>200 BLOCK SANDSTONE DR Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-01-16 12:43:00</guid>
+      <pubDate>Thu, 16 Jan 2025 12:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 10:52 am</title>
+      <description>600 BLOCK MILITARY RD Radio: 9C Units: T50, A18, 9C, E11, E501</description>
+      <guid isPermaLink="false">2025-01-16 10:52:00</guid>
+      <pubDate>Thu, 16 Jan 2025 10:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:10 am</title>
+      <description>800 BLOCK E SOUTH ST, WERRES CORPORATION Radio: 9C Units: PE23, E331, R3, 9C, E33</description>
+      <guid isPermaLink="false">2025-01-16 10:10:00</guid>
+      <pubDate>Thu, 16 Jan 2025 10:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 9:58 am</title>
+      <description>TILCO DR / INTERSTATE CT, I70EB / E SOUTH ST Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-01-16 09:58:00</guid>
+      <pubDate>Thu, 16 Jan 2025 09:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:51 am</title>
+      <description>5600 BLOCK NEW DESIGN RD Radio: 9B Units: 9B, A319, PE311, FS31</description>
+      <guid isPermaLink="false">2025-01-16 09:51:00</guid>
+      <pubDate>Thu, 16 Jan 2025 09:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:16 am</title>
       <description>500 BLOCK KLINEHARTS ALY Radio: 9C Units: PE23, TT4, 9C</description>
@@ -276,36 +306,6 @@
       <description>2400 BLOCK MONOCACY BLVD, AUTOZONE - MONOCACY BLVD Units: BR116, FS29</description>
       <guid isPermaLink="false">2025-01-13 18:55:00</guid>
       <pubDate>Mon, 13 Jan 2025 18:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:41 pm</title>
-      <description>200 BLOCK S MAPLE AVE, 84 LUMBER - BRUNSWICK Units: E51, T5, FS05</description>
-      <guid isPermaLink="false">2025-01-13 18:41:00</guid>
-      <pubDate>Mon, 13 Jan 2025 18:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:13 pm</title>
-      <description>5300 BLOCK KINGS CT, GLADHILL FURNITURE - FREDERICK Units: E201, FS20</description>
-      <guid isPermaLink="false">2025-01-13 18:13:00</guid>
-      <pubDate>Mon, 13 Jan 2025 18:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:53 pm</title>
-      <description>MONOCACY BLVD / MILL POND RD Radio: 9C Units: 9C, E291, FS29</description>
-      <guid isPermaLink="false">2025-01-13 17:53:00</guid>
-      <pubDate>Mon, 13 Jan 2025 17:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:52 pm</title>
-      <description>3200 BLOCK CENTENNIAL WAY, Apt/Unit:311, URBAN GREEN APARTMENTS - 3200 BLOCK CENTENNIAL WAY Units: A239, ALS23, EMS902, FS23, E231</description>
-      <guid isPermaLink="false">2025-01-13 17:52:00</guid>
-      <pubDate>Mon, 13 Jan 2025 17:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:25 pm</title>
-      <description>300 BLOCK S SETON AVE, Apt/Unit:APT 409, SETON VILLAGE APARTMENTS Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2025-01-13 17:25:00</guid>
-      <pubDate>Mon, 13 Jan 2025 17:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
