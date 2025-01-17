@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 16:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 17:02:04 +0000</lastBuildDate>
+    <item>
+      <title>ICE RESCUE: 11:50 am</title>
+      <description>39400 BLOCK LOVETTESVILLE PARK DR Units: A196, A198, RE52, TR29</description>
+      <guid isPermaLink="false">2025-01-17 11:50:00</guid>
+      <pubDate>Fri, 17 Jan 2025 11:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 11:48 am</title>
+      <description>39400 BLOCK LOVETTESVILLE PARK DR Units: A196, A198, RE52</description>
+      <guid isPermaLink="false">2025-01-17 11:48:00</guid>
+      <pubDate>Fri, 17 Jan 2025 11:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 11:00 am</title>
       <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, ELIM Radio: 9C Units: FS12, E121, 9C</description>
@@ -294,18 +306,6 @@
       <description>MOUNT PHILLIP RD / BUTTERFLY LN Units: BR125, FS12</description>
       <guid isPermaLink="false">2025-01-14 11:30:00</guid>
       <pubDate>Tue, 14 Jan 2025 11:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:58 am</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Units: E141, TW23, FS14</description>
-      <guid isPermaLink="false">2025-01-14 10:58:00</guid>
-      <pubDate>Tue, 14 Jan 2025 10:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:03 am</title>
-      <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Units: FS23, TW23</description>
-      <guid isPermaLink="false">2025-01-14 10:03:00</guid>
-      <pubDate>Tue, 14 Jan 2025 10:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
