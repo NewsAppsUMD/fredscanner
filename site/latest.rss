@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 15:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 15:31:57 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:10 am</title>
+      <description>1500 BLOCK TILCO DR, Apt/Unit:124 Radio: 9C Units: E331, R3, 9C, E23</description>
+      <guid isPermaLink="false">2025-01-17 10:10:00</guid>
+      <pubDate>Fri, 17 Jan 2025 10:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:18 am</title>
       <description>CHARLESTOWN PKE / CIDERMILL RD Units: RE52, R20</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT17(RT17), I70EB / RT17 Units: WCE161, R8, A89, A79, E72</description>
       <guid isPermaLink="false">2025-01-14 07:49:00</guid>
       <pubDate>Tue, 14 Jan 2025 07:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:35 am</title>
-      <description>ADAMSTOWN RD / BUCKEYSTOWN PIKE Units: BR145, FS14</description>
-      <guid isPermaLink="false">2025-01-14 07:35:00</guid>
-      <pubDate>Tue, 14 Jan 2025 07:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
