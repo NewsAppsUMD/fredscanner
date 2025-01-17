@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jan 2025 15:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 16:02:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 11:00 am</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE, Bldg:A, ELIM Radio: 9C Units: FS12, E121, 9C</description>
+      <guid isPermaLink="false">2025-01-17 11:00:00</guid>
+      <pubDate>Fri, 17 Jan 2025 11:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:55 am</title>
+      <description>1500 BLOCK TILCO DR, Apt/Unit:124 Units: E331, R3, BC901, HMSU33, HM33, TT4, E23</description>
+      <guid isPermaLink="false">2025-01-17 10:55:00</guid>
+      <pubDate>Fri, 17 Jan 2025 10:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:46 am</title>
+      <description>1200 BLOCK BAKER PL S, Apt/Unit:22, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Radio: 9D Units: E33, TT4, E11, 9D</description>
+      <guid isPermaLink="false">2025-01-17 10:46:00</guid>
+      <pubDate>Fri, 17 Jan 2025 10:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:39 am</title>
+      <description>6800 BLOCK DELAFIELD CT Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-17 10:39:00</guid>
+      <pubDate>Fri, 17 Jan 2025 10:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:10 am</title>
       <description>1500 BLOCK TILCO DR, Apt/Unit:124 Radio: 9C Units: E331, R3, 9C, E23</description>
@@ -282,30 +306,6 @@
       <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Units: FS23, TW23</description>
       <guid isPermaLink="false">2025-01-14 10:03:00</guid>
       <pubDate>Tue, 14 Jan 2025 10:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:18 am</title>
-      <description>8900 BLOCK AMELUNG ST Units: E231, FS23</description>
-      <guid isPermaLink="false">2025-01-14 09:18:00</guid>
-      <pubDate>Tue, 14 Jan 2025 09:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:38 am</title>
-      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Units: A299, E291, FS29</description>
-      <guid isPermaLink="false">2025-01-14 08:38:00</guid>
-      <pubDate>Tue, 14 Jan 2025 08:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:07 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, GIANT FOOD - KINGSBROOK PLAZA Units: FS31, TT4, PE311</description>
-      <guid isPermaLink="false">2025-01-14 08:07:00</guid>
-      <pubDate>Tue, 14 Jan 2025 08:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:49 am</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Units: WCE161, R8, A89, A79, E72</description>
-      <guid isPermaLink="false">2025-01-14 07:49:00</guid>
-      <pubDate>Tue, 14 Jan 2025 07:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
