@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jan 2025 15:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 16:01:46 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 10:50 am</title>
+      <description>SCRAVEL RD / PLEASANT WALK RD Radio: 9C Units: 9C, BR216</description>
+      <guid isPermaLink="false">2025-01-18 10:50:00</guid>
+      <pubDate>Sat, 18 Jan 2025 10:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 9:17 am</title>
       <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: PE311, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: 9C, PE311, TT4, FS31</description>
       <guid isPermaLink="false">2025-01-15 11:30:00</guid>
       <pubDate>Wed, 15 Jan 2025 11:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 11:11 am</title>
-      <description>100 BLOCK PROSPECT ST Radio: 9C Units: 9C, E121, E72, RE74</description>
-      <guid isPermaLink="false">2025-01-15 11:11:00</guid>
-      <pubDate>Wed, 15 Jan 2025 11:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
