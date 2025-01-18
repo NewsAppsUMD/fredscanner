@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jan 2025 23:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 23:31:28 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:21 pm</title>
+      <description>JAMES MONROE HWY / POTOMAC OVERLOOK LN Units: BR285</description>
+      <guid isPermaLink="false">2025-01-18 18:21:00</guid>
+      <pubDate>Sat, 18 Jan 2025 18:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:27 pm</title>
       <description>1000 BLOCK REAGANS RD Units: E291, TW1, FS29</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK MEADOWHEAD CIR Radio: 9C Units: E153, FS15, 9C</description>
       <guid isPermaLink="false">2025-01-16 04:49:00</guid>
       <pubDate>Thu, 16 Jan 2025 04:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:36 pm</title>
-      <description>300 BLOCK S JEFFERSON ST, WAFFLE HOUSE - CATOCTIN PARK Radio: 9C Units: E33, PE23, 9C, TT4</description>
-      <guid isPermaLink="false">2025-01-15 22:36:00</guid>
-      <pubDate>Wed, 15 Jan 2025 22:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
