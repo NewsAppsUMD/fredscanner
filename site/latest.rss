@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 01:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 02:05:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:52 pm</title>
+      <description>1000 BLOCK REAGANS RD Radio: 9C Units: E11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-01-18 20:52:00</guid>
+      <pubDate>Sat, 18 Jan 2025 20:52:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 6:21 pm</title>
       <description>JAMES MONROE HWY / POTOMAC OVERLOOK LN Units: BR285</description>
@@ -300,12 +306,6 @@
       <description>13300 BLOCK(111855) BLK HARPERS FERRY RD Units: RE52</description>
       <guid isPermaLink="false">2025-01-16 06:23:00</guid>
       <pubDate>Thu, 16 Jan 2025 06:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:49 am</title>
-      <description>10300 BLOCK MEADOWHEAD CIR Radio: 9C Units: E153, FS15, 9C</description>
-      <guid isPermaLink="false">2025-01-16 04:49:00</guid>
-      <pubDate>Thu, 16 Jan 2025 04:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
