@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 13:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 14:02:11 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:41 am</title>
+      <description>12000 BLOCK FINGERBOARD RD Radio: 9C Units: K23, E251, E153, R15, 9C</description>
+      <guid isPermaLink="false">2025-01-19 08:41:00</guid>
+      <pubDate>Sun, 19 Jan 2025 08:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:34 am</title>
+      <description>12000 BLOCK FINGERBOARD RD Radio: 9C Units: K23, E251, E153, R15, FS25, 9C</description>
+      <guid isPermaLink="false">2025-01-19 08:34:00</guid>
+      <pubDate>Sun, 19 Jan 2025 08:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:11 am</title>
       <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9B Units: A129, E121, 9B</description>
@@ -294,18 +306,6 @@
       <description>2700 BLOCK POFFENBERGER RD Units: R20, K7, TW7, E72, EK204</description>
       <guid isPermaLink="false">2025-01-16 17:47:00</guid>
       <pubDate>Thu, 16 Jan 2025 17:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 5:42 pm</title>
-      <description>2700 BLOCK POFFENBERGER RD Units: R20, K7, E72, EK204</description>
-      <guid isPermaLink="false">2025-01-16 17:42:00</guid>
-      <pubDate>Thu, 16 Jan 2025 17:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:43 pm</title>
-      <description>200 BLOCK SANDSTONE DR Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2025-01-16 12:43:00</guid>
-      <pubDate>Thu, 16 Jan 2025 12:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
