@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 07:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 08:02:07 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 2:50 am</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, MCDONALDS - WESTVIEW PROMENADE Units: PE311, E33, TT4, FS31</description>
+      <guid isPermaLink="false">2025-01-19 02:50:00</guid>
+      <pubDate>Sun, 19 Jan 2025 02:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>SHOOTING - ALS: 1:52 am</title>
       <description>2400 BLOCK DOUBS CT Units: E141, BC903, EMS901, FS14, A149, ALS31</description>
@@ -300,12 +306,6 @@
       <description>TILCO DR / INTERSTATE CT, I70EB / E SOUTH ST Radio: 9C Units: E33, 9C</description>
       <guid isPermaLink="false">2025-01-16 09:58:00</guid>
       <pubDate>Thu, 16 Jan 2025 09:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:51 am</title>
-      <description>5600 BLOCK NEW DESIGN RD Radio: 9B Units: 9B, A319, PE311, FS31</description>
-      <guid isPermaLink="false">2025-01-16 09:51:00</guid>
-      <pubDate>Thu, 16 Jan 2025 09:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
