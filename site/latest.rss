@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jan 2025 05:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 06:02:16 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:32 am</title>
+      <description>5600 BLOCK DOUBS RD Units: A149, E141, ALS31</description>
+      <guid isPermaLink="false">2025-01-19 00:32:00</guid>
+      <pubDate>Sun, 19 Jan 2025 00:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 11:23 pm</title>
       <description>1100 BLOCK MONOCACY CROSSING PKWY Radio: 9C Units: FS05, 9C, E51</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK KLINEHARTS ALY Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-01-16 08:16:00</guid>
       <pubDate>Thu, 16 Jan 2025 08:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:54 am</title>
-      <description>WAYNESBORO PIKE / ORCHARD RD Units: R6, A69</description>
-      <guid isPermaLink="false">2025-01-16 07:54:00</guid>
-      <pubDate>Thu, 16 Jan 2025 07:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
