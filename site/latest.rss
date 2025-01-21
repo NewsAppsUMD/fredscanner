@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jan 2025 14:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 14:33:59 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 9:27 am</title>
+      <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Radio: 9D Units: A239, ALS23, C23B, R3, BC901, BC903, EMS901, E231, SAF901, E11, 9D</description>
+      <guid isPermaLink="false">2025-01-21 09:27:00</guid>
+      <pubDate>Tue, 21 Jan 2025 09:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 9:24 am</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: A239, ALS23, C23B, R3, BC903, EMS901, E231, 9D</description>
+      <guid isPermaLink="false">2025-01-21 09:24:00</guid>
+      <pubDate>Tue, 21 Jan 2025 09:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 9:21 am</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: A239, ALS23, E231, EMS902, FS23, 9D</description>
+      <guid isPermaLink="false">2025-01-21 09:21:00</guid>
+      <pubDate>Tue, 21 Jan 2025 09:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:16 am</title>
       <description>100 BLOCK W PATRICK ST Radio: 9C Units: 9C, E33, E11, TT4</description>
@@ -288,24 +306,6 @@
       <description>7500 BLOCK HAYWARD RD, EMERGENCY SHELTER Radio: 9C Units: E291, T50, FS29, 9C</description>
       <guid isPermaLink="false">2025-01-19 10:34:00</guid>
       <pubDate>Sun, 19 Jan 2025 10:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:41 am</title>
-      <description>12000 BLOCK FINGERBOARD RD Radio: 9C Units: K23, E251, E153, R15, 9C</description>
-      <guid isPermaLink="false">2025-01-19 08:41:00</guid>
-      <pubDate>Sun, 19 Jan 2025 08:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:34 am</title>
-      <description>12000 BLOCK FINGERBOARD RD Radio: 9C Units: K23, E251, E153, R15, FS25, 9C</description>
-      <guid isPermaLink="false">2025-01-19 08:34:00</guid>
-      <pubDate>Sun, 19 Jan 2025 08:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:11 am</title>
-      <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9B Units: A129, E121, 9B</description>
-      <guid isPermaLink="false">2025-01-19 08:11:00</guid>
-      <pubDate>Sun, 19 Jan 2025 08:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
