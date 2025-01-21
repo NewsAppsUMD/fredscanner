@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jan 2025 04:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 04:33:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:29 pm</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, SILVER DINER - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: PE311, E33, R3, 9C</description>
+      <guid isPermaLink="false">2025-01-20 23:29:00</guid>
+      <pubDate>Mon, 20 Jan 2025 23:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:57 pm</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, SILVER DINER - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: 9C, PE311, TT4, FS31</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK BUCKEYSTOWN PIKE, MCDONALDS - WESTVIEW PROMENADE Units: PE311, E33, TT4, FS31</description>
       <guid isPermaLink="false">2025-01-19 02:50:00</guid>
       <pubDate>Sun, 19 Jan 2025 02:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 1:52 am</title>
-      <description>2400 BLOCK DOUBS CT Units: E141, BC903, EMS901, FS14, A149, ALS31</description>
-      <guid isPermaLink="false">2025-01-19 01:52:00</guid>
-      <pubDate>Sun, 19 Jan 2025 01:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
