@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jan 2025 19:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 19:31:28 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:03 pm</title>
+      <description>10700 BLOCK DEWEY WAY Radio: 9C Units: E153, FS15, 9C</description>
+      <guid isPermaLink="false">2025-01-21 14:03:00</guid>
+      <pubDate>Tue, 21 Jan 2025 14:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 12:22 pm</title>
       <description>800 BLOCK SCHREIDER ST, FORT DETRICK - BLDG 800 BLOCK Radio: 9C Units: E501, 9C, E11, T50, FS50</description>
@@ -300,12 +306,6 @@
       <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Radio: 9B Units: ALS4, 9B, E331, E153, R15, A339, A39, EMS902</description>
       <guid isPermaLink="false">2025-01-19 14:02:00</guid>
       <pubDate>Sun, 19 Jan 2025 14:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:56 pm</title>
-      <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Radio: 9B Units: 9B, FS33, E331, E153, R15, A339, A39</description>
-      <guid isPermaLink="false">2025-01-19 13:56:00</guid>
-      <pubDate>Sun, 19 Jan 2025 13:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
