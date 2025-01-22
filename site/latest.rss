@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 12:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 13:05:51 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:53 am</title>
+      <description>13500 BLOCK DEER BROOK CT Units: E153, FS15</description>
+      <guid isPermaLink="false">2025-01-22 07:53:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 7:15 am</title>
       <description>10300 BLOCK PUTMAN RD Units: PE102, E111, R10, R24, Q11, BC902, K22</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: C3, EMS902, R24, EK224, 9B, A299, E11, ALS29</description>
       <guid isPermaLink="false">2025-01-20 15:07:00</guid>
       <pubDate>Mon, 20 Jan 2025 15:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: R24, EK224, FS29, 9B, A299</description>
-      <guid isPermaLink="false">2025-01-20 15:04:00</guid>
-      <pubDate>Mon, 20 Jan 2025 15:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
