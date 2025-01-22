@@ -6,7 +6,67 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 01:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 02:03:18 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:57 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: R15</description>
+      <guid isPermaLink="false">2025-01-21 20:57:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:55 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E132</description>
+      <guid isPermaLink="false">2025-01-21 20:55:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:54 pm</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, SILVER DINER - WESTVIEW VILLAGE SHOPPING CENTER Units: E331, FS31</description>
+      <guid isPermaLink="false">2025-01-21 20:54:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:51 pm</title>
+      <description>400 BLOCK FRANKLIN ST, STATION 7 Units: RE52</description>
+      <guid isPermaLink="false">2025-01-21 20:51:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:49 pm</title>
+      <description>6900 BLOCK BOWERS RD Units: R24, T5, E121, E33, E501, E72, BC903, C3B, RID, E291, T50, A19, EMS901, W1, CMD1, R3, FTF, E82, C1B, PE23, TW1, TT4, A129, ALS4, BC902, SAF901, PE311, RE74, TW7, MAU15, CAN1</description>
+      <guid isPermaLink="false">2025-01-21 20:49:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:44 pm</title>
+      <description>6900 BLOCK BOWERS RD Units: E121, E33, E501, E72, BC903, C3B, RID, E291, T50, A19, EMS901, W1, CMD1, R3, FTF, E82, C1B, PE23, TW1, TT4, A129, ALS4, BC902, SAF901, PE311, RE74, TW7, MAU15, CAN1</description>
+      <guid isPermaLink="false">2025-01-21 20:44:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:41 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E111</description>
+      <guid isPermaLink="false">2025-01-21 20:41:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:40 pm</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: T23</description>
+      <guid isPermaLink="false">2025-01-21 20:40:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:36 pm</title>
+      <description>6900 BLOCK BOWERS RD Units: E121, E33, E501, E72, BC903, C3B, RID, E291, T50, A19, EMS901, W1, R3, C1B, PE23, TW1, TT4, A129, ALS4, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-01-21 20:36:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 8:29 pm</title>
+      <description>6900 BLOCK BOWERS RD Units: E121, E33, E501, E72, BC903, R3, PE23, TW1, TT4, A129, ALS4, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-01-21 20:29:00</guid>
+      <pubDate>Tue, 21 Jan 2025 20:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:15 pm</title>
       <description>W PATRICK ST / N BENTZ ST Units: A39, A38, R3</description>
@@ -246,66 +306,6 @@
       <description>MONOCACY BLVD / MONROE AVE Radio: 9C Units: BR35, 9C</description>
       <guid isPermaLink="false">2025-01-19 20:15:00</guid>
       <pubDate>Sun, 19 Jan 2025 20:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:01 pm</title>
-      <description>1800 BLOCK ROSEMONT AVE, SOUTH STREET AUTO SALES Radio: 9B Units: E11, R2, A18, ALS2, EMS902, 9B</description>
-      <guid isPermaLink="false">2025-01-19 20:01:00</guid>
-      <pubDate>Sun, 19 Jan 2025 20:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:27 pm</title>
-      <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: 9C, E82</description>
-      <guid isPermaLink="false">2025-01-19 19:27:00</guid>
-      <pubDate>Sun, 19 Jan 2025 19:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:28 pm</title>
-      <description>LINGANORE RD / GAS HOUSE PIKE Radio: 9D Units: E331, R24, A339, ALS2, BC901, EMS902, 9D, FS33</description>
-      <guid isPermaLink="false">2025-01-19 18:28:00</guid>
-      <pubDate>Sun, 19 Jan 2025 18:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:24 pm</title>
-      <description>2400 BLOCK OSPREY WAY, MCDONALDS - MARKET SQUARE Radio: 9C Units: E111, Q11, 9C, PE23</description>
-      <guid isPermaLink="false">2025-01-19 18:24:00</guid>
-      <pubDate>Sun, 19 Jan 2025 18:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:19 pm</title>
-      <description>2400 BLOCK OSPREY WAY, MCDONALDS - MARKET SQUARE Radio: 9C Units: E111, Q11, FS29, 9C</description>
-      <guid isPermaLink="false">2025-01-19 18:19:00</guid>
-      <pubDate>Sun, 19 Jan 2025 18:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:58 pm</title>
-      <description>RT80 / FLINT HILL RD, RT80 / FLINT HILL RD Units: A149, E231, FS23, C14</description>
-      <guid isPermaLink="false">2025-01-19 16:58:00</guid>
-      <pubDate>Sun, 19 Jan 2025 16:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:37 pm</title>
-      <description>5400 BLOCKA BURKITTSVILLE RD Radio: 9B Units: A196, RE52, FS05, 9B</description>
-      <guid isPermaLink="false">2025-01-19 16:37:00</guid>
-      <pubDate>Sun, 19 Jan 2025 16:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
-      <description>RT15-RT340EB 7.5MM CROSSOVER, RT15-RT340EB 7.5MM CROSSOVER Units: E11, E201, R20, A209, A19, FS20</description>
-      <guid isPermaLink="false">2025-01-19 16:20:00</guid>
-      <pubDate>Sun, 19 Jan 2025 16:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:32 pm</title>
-      <description>TANEYTOWN PIKE / HARNEY RD Units: A69, E61, FS06</description>
-      <guid isPermaLink="false">2025-01-19 15:32:00</guid>
-      <pubDate>Sun, 19 Jan 2025 15:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:15 pm</title>
-      <description>6800 BLOCK YELLOW SHEAVE CT Radio: 9C Units: PE311, R3, FS31, 9C, E33</description>
-      <guid isPermaLink="false">2025-01-19 15:15:00</guid>
-      <pubDate>Sun, 19 Jan 2025 15:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
