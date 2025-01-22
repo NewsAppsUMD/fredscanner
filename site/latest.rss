@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 12:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 12:43:02 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:15 am</title>
+      <description>10300 BLOCK PUTMAN RD Units: PE102, E111, R10, R24, Q11, BC902, K22</description>
+      <guid isPermaLink="false">2025-01-22 07:15:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:11 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, GOVENORS PLACE LLC Units: E291, T50, FS29</description>
+      <guid isPermaLink="false">2025-01-22 07:11:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:09 am</title>
+      <description>10300 BLOCK PUTMAN RD Units: PE102, E111, R10, R24, BC902, K22, EK224</description>
+      <guid isPermaLink="false">2025-01-22 07:09:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:05 am</title>
+      <description>7100 BLOCK GEOFFREY WAY, KROGER FULFILLMENT CENTER Units: TT4, FS31, PE311</description>
+      <guid isPermaLink="false">2025-01-22 07:05:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:04 am</title>
+      <description>10300 BLOCK PUTMAN RD Units: FS22, PE102, E111, R10, K22, EK224</description>
+      <guid isPermaLink="false">2025-01-22 07:04:00</guid>
+      <pubDate>Wed, 22 Jan 2025 07:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:43 am</title>
       <description>1000 BLOCK HEATHER RIDGE DR, Bldg:F, Apt/Unit:114, COUNTRY HILL APTS - 1000 BLOCK HEATHER RIDGE DR Units: T50, E291</description>
@@ -276,36 +306,6 @@
       <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: R24, EK224, FS29, 9B, A299</description>
       <guid isPermaLink="false">2025-01-20 15:04:00</guid>
       <pubDate>Mon, 20 Jan 2025 15:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:50 pm</title>
-      <description>900 BLOCK JUBAL WAY Radio: 9C Units: Q11, FS29, 9C, E111, E291</description>
-      <guid isPermaLink="false">2025-01-20 14:50:00</guid>
-      <pubDate>Mon, 20 Jan 2025 14:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
-      <description>I70EB / 35MM Units: BR85, A89</description>
-      <guid isPermaLink="false">2025-01-20 14:36:00</guid>
-      <pubDate>Mon, 20 Jan 2025 14:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:25 pm</title>
-      <description>I70WB / RT355, I70WB / RT355 Radio: 9B Units: E11, E33, R3, 9B, A39, A18</description>
-      <guid isPermaLink="false">2025-01-20 14:25:00</guid>
-      <pubDate>Mon, 20 Jan 2025 14:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:15 am</title>
-      <description>100 BLOCK E KING ST, STATION AC020 - ALPHA FC #1 Units: E61</description>
-      <guid isPermaLink="false">2025-01-20 11:15:00</guid>
-      <pubDate>Mon, 20 Jan 2025 11:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:40 am</title>
-      <description>7300 BLOCK EXECUTIVE WAY, PHOENIX MECANO Units: PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2025-01-20 07:40:00</guid>
-      <pubDate>Mon, 20 Jan 2025 07:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
