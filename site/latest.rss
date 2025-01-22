@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 11:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 12:02:42 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:43 am</title>
+      <description>1000 BLOCK HEATHER RIDGE DR, Bldg:F, Apt/Unit:114, COUNTRY HILL APTS - 1000 BLOCK HEATHER RIDGE DR Units: T50, E291</description>
+      <guid isPermaLink="false">2025-01-22 06:43:00</guid>
+      <pubDate>Wed, 22 Jan 2025 06:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:18 pm</title>
       <description>I70EB, 36MM Units: A89, ALS8, E82</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK EXECUTIVE WAY, PHOENIX MECANO Units: PE311, TT4, FS31</description>
       <guid isPermaLink="false">2025-01-20 07:40:00</guid>
       <pubDate>Mon, 20 Jan 2025 07:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:30 am</title>
-      <description>HIMES AVE / CONTENDER WAY Units: A19, E11</description>
-      <guid isPermaLink="false">2025-01-20 07:30:00</guid>
-      <pubDate>Mon, 20 Jan 2025 07:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
