@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 19:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 19:31:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:25 pm</title>
+      <description>1500 BLOCK HOLLAND PARK LN Radio: 9C Units: Q11, FS29, EK114, 9C</description>
+      <guid isPermaLink="false">2025-01-22 14:25:00</guid>
+      <pubDate>Wed, 22 Jan 2025 14:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:59 pm</title>
+      <description>200 BLOCK GALYN DR Units: E51, FS05</description>
+      <guid isPermaLink="false">2025-01-22 13:59:00</guid>
+      <pubDate>Wed, 22 Jan 2025 13:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:33 am</title>
       <description>NEW DESIGN RD / EXECUTIVE WAY Units: PE311, R3, A319, ALS31, EMS901, FS31, BC901</description>
@@ -294,18 +306,6 @@
       <description>5100 BLOCK BUCKEYSTOWN PIKE, SILVER DINER - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: PE311, E33, R3, 9C</description>
       <guid isPermaLink="false">2025-01-20 23:29:00</guid>
       <pubDate>Mon, 20 Jan 2025 23:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:57 pm</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, SILVER DINER - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: 9C, PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2025-01-20 22:57:00</guid>
-      <pubDate>Mon, 20 Jan 2025 22:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:28 pm</title>
-      <description>5600 BLOCK PEBBLE DR Radio: 9C Units: PE311, 9C</description>
-      <guid isPermaLink="false">2025-01-20 22:28:00</guid>
-      <pubDate>Mon, 20 Jan 2025 22:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
