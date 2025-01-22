@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 23:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 23:31:27 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 6:22 pm</title>
+      <description>6300 BLOCK MEANDERING WOODS CT Radio: 9C Units: E331, PE23, TT4, A339, FS33, 9C</description>
+      <guid isPermaLink="false">2025-01-22 18:22:00</guid>
+      <pubDate>Wed, 22 Jan 2025 18:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:21 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, GLADE VALLEY ANIMAL HOSPITAL Radio: 9C Units: 9C, EK114, FS29</description>
+      <guid isPermaLink="false">2025-01-22 18:21:00</guid>
+      <pubDate>Wed, 22 Jan 2025 18:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 6:11 pm</title>
+      <description>5500 BLOCK URBANA PIKE, HOME DEPOT - RIVERVIEW PLAZA Radio: 9C Units: E33, E311, R3, 9C</description>
+      <guid isPermaLink="false">2025-01-22 18:11:00</guid>
+      <pubDate>Wed, 22 Jan 2025 18:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:50 pm</title>
       <description>5800 BLOCK BILLET ST Units: E153, FS15, T23</description>
@@ -288,24 +306,6 @@
       <description>10700 BLOCK DEWEY WAY Radio: 9C Units: E153, FS15, 9C</description>
       <guid isPermaLink="false">2025-01-21 14:03:00</guid>
       <pubDate>Tue, 21 Jan 2025 14:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 12:22 pm</title>
-      <description>800 BLOCK SCHREIDER ST, FORT DETRICK - BLDG 800 BLOCK Radio: 9C Units: E501, 9C, E11, T50, FS50</description>
-      <guid isPermaLink="false">2025-01-21 12:22:00</guid>
-      <pubDate>Tue, 21 Jan 2025 12:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:52 am</title>
-      <description>300 BLOCK MADISON ST Radio: 9D Units: EMS902, 9D, ALS4, R3, A29</description>
-      <guid isPermaLink="false">2025-01-21 10:52:00</guid>
-      <pubDate>Tue, 21 Jan 2025 10:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:49 am</title>
-      <description>3200 BLOCK SIDE TRACT DR Units: E172</description>
-      <guid isPermaLink="false">2025-01-21 09:49:00</guid>
-      <pubDate>Tue, 21 Jan 2025 09:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
