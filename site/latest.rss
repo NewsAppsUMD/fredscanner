@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 13:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 14:01:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:58 am</title>
+      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:2D Units: E111, Q11, FS29</description>
+      <guid isPermaLink="false">2025-01-22 08:58:00</guid>
+      <pubDate>Wed, 22 Jan 2025 08:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:53 am</title>
       <description>13500 BLOCK DEER BROOK CT Units: E153, FS15</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MAIN STREET Units: E82</description>
       <guid isPermaLink="false">2025-01-20 15:09:00</guid>
       <pubDate>Mon, 20 Jan 2025 15:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:07 pm</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: C3, EMS902, R24, EK224, 9B, A299, E11, ALS29</description>
-      <guid isPermaLink="false">2025-01-20 15:07:00</guid>
-      <pubDate>Mon, 20 Jan 2025 15:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
