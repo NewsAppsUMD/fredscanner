@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 15:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 15:32:53 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 10:22 am</title>
+      <description>900 BLOCK MULLER RD Units: K17, BR175</description>
+      <guid isPermaLink="false">2025-01-22 10:22:00</guid>
+      <pubDate>Wed, 22 Jan 2025 10:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 10:20 am</title>
+      <description>900 BLOCK MULLER RD Units: BR175</description>
+      <guid isPermaLink="false">2025-01-22 10:20:00</guid>
+      <pubDate>Wed, 22 Jan 2025 10:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:50 am</title>
       <description>1800 BLOCK MONOCACY VIEW CIR, Bldg:C Units: FS11, E111, Q11</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HOLLING DR, Apt/Unit:308, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9C Units: E33, E11, R3, 9C</description>
       <guid isPermaLink="false">2025-01-20 18:00:00</guid>
       <pubDate>Mon, 20 Jan 2025 18:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 5:12 pm</title>
-      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Units: E331, E153, FS15</description>
-      <guid isPermaLink="false">2025-01-20 17:12:00</guid>
-      <pubDate>Mon, 20 Jan 2025 17:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:45 pm</title>
-      <description>WAYNESBORO PIKE / STEELMAN MARKER RD Units: A68, R6</description>
-      <guid isPermaLink="false">2025-01-20 16:45:00</guid>
-      <pubDate>Mon, 20 Jan 2025 16:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
