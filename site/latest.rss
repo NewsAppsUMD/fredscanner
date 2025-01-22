@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jan 2025 22:33:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 23:01:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:50 pm</title>
+      <description>5800 BLOCK BILLET ST Units: E153, FS15, T23</description>
+      <guid isPermaLink="false">2025-01-22 17:50:00</guid>
+      <pubDate>Wed, 22 Jan 2025 17:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:39 pm</title>
+      <description>5900 BLOCK(5925) BLK KRANTZ DR Radio: 9C Units: 9C, E11, TT4</description>
+      <guid isPermaLink="false">2025-01-22 17:39:00</guid>
+      <pubDate>Wed, 22 Jan 2025 17:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:55 pm</title>
       <description>2600 BLOCK BUCKEYSTOWN PIKE, IAO VIA RAPID LOCATION Radio: 9D Units: ALS23, 9D, E231, A149, BC903, FS14, R14, EMS901</description>
@@ -294,18 +306,6 @@
       <description>3200 BLOCK SIDE TRACT DR Units: E172</description>
       <guid isPermaLink="false">2025-01-21 09:49:00</guid>
       <pubDate>Tue, 21 Jan 2025 09:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:46 am</title>
-      <description>2600 BLOCK BLAZING STAR ST Radio: 9C Units: FS29, E291, 9C</description>
-      <guid isPermaLink="false">2025-01-21 09:46:00</guid>
-      <pubDate>Tue, 21 Jan 2025 09:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:32 am</title>
-      <description>100 BLOCK W PATRICK ST, Bldg:A, MCCLELLAN VETERINARY CLINIC Units: PE23, TT4, E33</description>
-      <guid isPermaLink="false">2025-01-21 09:32:00</guid>
-      <pubDate>Tue, 21 Jan 2025 09:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
