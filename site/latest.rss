@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 12:43:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 13:05:39 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:48 am</title>
+      <description>CRESTWOOD BLVD / BURNING BUSH DR Radio: 9D Units: ALS31, EMS901, FS31, 9D, A318, PE311</description>
+      <guid isPermaLink="false">2025-01-23 07:48:00</guid>
+      <pubDate>Thu, 23 Jan 2025 07:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 7:14 am</title>
       <description>1300 BLOCK HUNTLEY CIR Radio: 9C Units: E61, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70EB, 36MM Units: A89, ALS8, E82</description>
       <guid isPermaLink="false">2025-01-21 23:18:00</guid>
       <pubDate>Tue, 21 Jan 2025 23:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 11:02 pm</title>
-      <description>200 BLOCK E CHURCH ST, VISITATION HOTEL Units: R15</description>
-      <guid isPermaLink="false">2025-01-21 23:02:00</guid>
-      <pubDate>Tue, 21 Jan 2025 23:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
