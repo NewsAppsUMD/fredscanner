@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 03:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 03:33:04 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:28 pm</title>
+      <description>21400 BLOCK LEITER ST, STATION WC009 - LEITERSBURG VFC. INC. Units: E61</description>
+      <guid isPermaLink="false">2025-01-22 22:28:00</guid>
+      <pubDate>Wed, 22 Jan 2025 22:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:26 pm</title>
+      <description>7000 BLOCK ALLINGTON MANOR CIR E Radio: 9C Units: PE311, E33, R3, 9C</description>
+      <guid isPermaLink="false">2025-01-22 22:26:00</guid>
+      <pubDate>Wed, 22 Jan 2025 22:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:24 pm</title>
+      <description>7000 BLOCK ALLINGTON MANOR CIR E Radio: 9C Units: E311, R3, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-22 22:24:00</guid>
+      <pubDate>Wed, 22 Jan 2025 22:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:35 pm</title>
       <description>4800 BLOCK OLD SWIMMING POOL RD Radio: 9B Units: A129, E121, 9B, ALS4, EMS901</description>
@@ -288,24 +306,6 @@
       <description>W PATRICK ST / N BENTZ ST Units: A39, A38, R3</description>
       <guid isPermaLink="false">2025-01-21 18:15:00</guid>
       <pubDate>Tue, 21 Jan 2025 18:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:41 pm</title>
-      <description>APPROX LOC:270N BTWN XOVR &amp; DR PERRY RD OVRPSS HWY Radio: 9B Units: E231, PRE709, R729, A735, A239, 9B, E251, A259</description>
-      <guid isPermaLink="false">2025-01-21 17:41:00</guid>
-      <pubDate>Tue, 21 Jan 2025 17:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
-      <description>APPROX LOC:270N BTWN XOVR &amp; DR PERRY RD OVRPSS HWY Radio: 9B Units: E231, PRE709, R729, A735, A239, 9B</description>
-      <guid isPermaLink="false">2025-01-21 17:39:00</guid>
-      <pubDate>Tue, 21 Jan 2025 17:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:27 pm</title>
-      <description>6700 BLOCK MEADOW LAWN CIR Radio: 9C Units: E153, 9C, FS15, E331, R15</description>
-      <guid isPermaLink="false">2025-01-21 17:27:00</guid>
-      <pubDate>Tue, 21 Jan 2025 17:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
