@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 23:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 23:31:34 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:25 pm</title>
+      <description>RT75 / ED MCLAIN RD, RT75 / ED MCLAIN RD Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-01-23 18:25:00</guid>
+      <pubDate>Thu, 23 Jan 2025 18:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:23 pm</title>
+      <description>100 BLOCK HEATHFIELD DR Radio: 9C Units: E33, 9C, T50</description>
+      <guid isPermaLink="false">2025-01-23 18:23:00</guid>
+      <pubDate>Thu, 23 Jan 2025 18:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:14 pm</title>
+      <description>7800 BLOCK OLD RECEIVER RD Radio: 9C Units: E11, K1, 9C, E501, R2</description>
+      <guid isPermaLink="false">2025-01-23 18:14:00</guid>
+      <pubDate>Thu, 23 Jan 2025 18:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
+      <description>100 BLOCK BLK RAMP RT15NB TO MONOCACY BLVD RAMP Radio: 9B Units: E291, FS29, A299, 9B</description>
+      <guid isPermaLink="false">2025-01-23 18:13:00</guid>
+      <pubDate>Thu, 23 Jan 2025 18:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 5:16 pm</title>
       <description>1700 BLOCK EMORY ST Radio: 9C Units: 9C, Q11, FS11</description>
@@ -282,30 +306,6 @@
       <description>5800 BLOCK BILLET ST Units: E153, FS15, T23</description>
       <guid isPermaLink="false">2025-01-22 17:50:00</guid>
       <pubDate>Wed, 22 Jan 2025 17:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:39 pm</title>
-      <description>5900 BLOCK(5925) BLK KRANTZ DR Radio: 9C Units: 9C, E11, TT4</description>
-      <guid isPermaLink="false">2025-01-22 17:39:00</guid>
-      <pubDate>Wed, 22 Jan 2025 17:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:55 pm</title>
-      <description>2600 BLOCK BUCKEYSTOWN PIKE, IAO VIA RAPID LOCATION Radio: 9D Units: ALS23, 9D, E231, A149, BC903, FS14, R14, EMS901</description>
-      <guid isPermaLink="false">2025-01-22 16:55:00</guid>
-      <pubDate>Wed, 22 Jan 2025 16:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 4:48 pm</title>
-      <description>1600 BLOCK COLONIAL WAY Radio: 9C Units: E11, E501, T50, 9C</description>
-      <guid isPermaLink="false">2025-01-22 16:48:00</guid>
-      <pubDate>Wed, 22 Jan 2025 16:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:05 pm</title>
-      <description>1300 BLOCK S MAIN ST, MAIN STREET PLAZA Units: E153, T23, E251</description>
-      <guid isPermaLink="false">2025-01-22 15:05:00</guid>
-      <pubDate>Wed, 22 Jan 2025 15:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
