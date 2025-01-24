@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 10:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 10:34:33 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:32 am</title>
+      <description>300 BLOCK W MAIN ST, Apt/Unit:UNIT HMOFC, WETZEL CPA Radio: 9C Units: E61, TW6, FS06, 9C</description>
+      <guid isPermaLink="false">2025-01-24 05:32:00</guid>
+      <pubDate>Fri, 24 Jan 2025 05:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:59 am</title>
       <description>100 BLOCK CREAMERY WAY, BOLLINGER CONSTRUCTION Radio: 9C Units: E61, TW6, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:SUITE 170, FREDERICK FOOT &amp; ANKLE Units: E291, T50, FS29</description>
       <guid isPermaLink="false">2025-01-23 04:09:00</guid>
       <pubDate>Thu, 23 Jan 2025 04:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:07 am</title>
-      <description>100 BLOCK S SETON AVE Units: E61, FS06</description>
-      <guid isPermaLink="false">2025-01-23 03:07:00</guid>
-      <pubDate>Thu, 23 Jan 2025 03:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
