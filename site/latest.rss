@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 02:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 02:44:05 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 9:11 pm</title>
+      <description>200 BLOCK MOUNTAIN TER Radio: 9C Units: E82, 9C</description>
+      <guid isPermaLink="false">2025-01-23 21:11:00</guid>
+      <pubDate>Thu, 23 Jan 2025 21:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:37 pm</title>
       <description>100 BLOCK BLK PRINCETOWN DR Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>21400 BLOCK LEITER ST, STATION WC009 - LEITERSBURG VFC. INC. Units: E61</description>
       <guid isPermaLink="false">2025-01-22 22:28:00</guid>
       <pubDate>Wed, 22 Jan 2025 22:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:26 pm</title>
-      <description>7000 BLOCK ALLINGTON MANOR CIR E Radio: 9C Units: PE311, E33, R3, 9C</description>
-      <guid isPermaLink="false">2025-01-22 22:26:00</guid>
-      <pubDate>Wed, 22 Jan 2025 22:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
