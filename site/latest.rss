@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 16:35:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 17:01:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
+      <description>LOVETTSVILLE RD / JAMES MONROE HIGHWAY Units: E281</description>
+      <guid isPermaLink="false">2025-01-24 11:39:00</guid>
+      <pubDate>Fri, 24 Jan 2025 11:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:17 am</title>
       <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Units: PE311, TT4, FS31</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK HUNTLEY CIR Radio: 9C Units: E61, FS06, 9C</description>
       <guid isPermaLink="false">2025-01-23 07:14:00</guid>
       <pubDate>Thu, 23 Jan 2025 07:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:34 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, CHURCH OF THE REDEEMER Radio: 9C Units: TT4, 9C, FS31, PE311</description>
-      <guid isPermaLink="false">2025-01-23 06:34:00</guid>
-      <pubDate>Thu, 23 Jan 2025 06:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
