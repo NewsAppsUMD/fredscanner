@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 17:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 17:31:58 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 12:11 pm</title>
+      <description>6000 BLOCK FORD RD, 6000 BLOCK FORUM SQ Radio: 9C Units: FS29, 9C, E11</description>
+      <guid isPermaLink="false">2025-01-24 12:11:00</guid>
+      <pubDate>Fri, 24 Jan 2025 12:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:07 pm</title>
+      <description>5600 BLOCK SPECTRUM DR, BJ'S RESTAURANT AND BREWHOUSE - FRANCIS SCOTT KEY MALL Radio: 9C Units: E33, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-01-24 12:07:00</guid>
+      <pubDate>Fri, 24 Jan 2025 12:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
       <description>LOVETTSVILLE RD / JAMES MONROE HIGHWAY Units: E281</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK BRAEBURN DR Radio: 9C Units: 9C, EK114, E162, Q11, FS11</description>
       <guid isPermaLink="false">2025-01-23 08:31:00</guid>
       <pubDate>Thu, 23 Jan 2025 08:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:48 am</title>
-      <description>CRESTWOOD BLVD / BURNING BUSH DR Radio: 9D Units: ALS31, EMS901, FS31, 9D, A318, PE311</description>
-      <guid isPermaLink="false">2025-01-23 07:48:00</guid>
-      <pubDate>Thu, 23 Jan 2025 07:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 7:14 am</title>
-      <description>1300 BLOCK HUNTLEY CIR Radio: 9C Units: E61, FS06, 9C</description>
-      <guid isPermaLink="false">2025-01-23 07:14:00</guid>
-      <pubDate>Thu, 23 Jan 2025 07:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
