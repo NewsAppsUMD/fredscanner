@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jan 2025 23:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:06:51 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 7:04 pm</title>
+      <description>400 BLOCK BLK BRUNSWICK ST Radio: 9C Units: FS05, 9C, BR55</description>
+      <guid isPermaLink="false">2025-01-23 19:04:00</guid>
+      <pubDate>Thu, 23 Jan 2025 19:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:03 pm</title>
+      <description>100 BLOCK HARPERS MILL WAY Units: RE52</description>
+      <guid isPermaLink="false">2025-01-23 19:03:00</guid>
+      <pubDate>Thu, 23 Jan 2025 19:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 6:39 pm</title>
+      <description>800 BLOCK E H ST Units: RE52, FS05</description>
+      <guid isPermaLink="false">2025-01-23 18:39:00</guid>
+      <pubDate>Thu, 23 Jan 2025 18:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:25 pm</title>
       <description>RT75 / ED MCLAIN RD, RT75 / ED MCLAIN RD Radio: 9C Units: E251, FS25, 9C</description>
@@ -288,24 +306,6 @@
       <description>6300 BLOCK MEANDERING WOODS CT Radio: 9C Units: E331, PE23, TT4, A339, FS33, 9C</description>
       <guid isPermaLink="false">2025-01-22 18:22:00</guid>
       <pubDate>Wed, 22 Jan 2025 18:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:21 pm</title>
-      <description>2400 BLOCK MONOCACY BLVD, GLADE VALLEY ANIMAL HOSPITAL Radio: 9C Units: 9C, EK114, FS29</description>
-      <guid isPermaLink="false">2025-01-22 18:21:00</guid>
-      <pubDate>Wed, 22 Jan 2025 18:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:11 pm</title>
-      <description>5500 BLOCK URBANA PIKE, HOME DEPOT - RIVERVIEW PLAZA Radio: 9C Units: E33, E311, R3, 9C</description>
-      <guid isPermaLink="false">2025-01-22 18:11:00</guid>
-      <pubDate>Wed, 22 Jan 2025 18:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:50 pm</title>
-      <description>5800 BLOCK BILLET ST Units: E153, FS15, T23</description>
-      <guid isPermaLink="false">2025-01-22 17:50:00</guid>
-      <pubDate>Wed, 22 Jan 2025 17:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
