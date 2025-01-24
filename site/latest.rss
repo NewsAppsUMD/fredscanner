@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 05:33:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 06:02:24 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 12:50 am</title>
+      <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-01-24 00:50:00</guid>
+      <pubDate>Fri, 24 Jan 2025 00:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:42 pm</title>
       <description>RT340EB / GENE HEMP RD, RT340EB / GENE HEMP RD Radio: 9B Units: 9B, E201, R20, A209, A19, E11, FS20</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK BRETHREN CHURCH RD, MUSKET RIDGE GOLF CLUB Radio: 9C Units: E82, TW7, 9C</description>
       <guid isPermaLink="false">2025-01-22 22:47:00</guid>
       <pubDate>Wed, 22 Jan 2025 22:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:31 pm</title>
-      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E212, E72</description>
-      <guid isPermaLink="false">2025-01-22 22:31:00</guid>
-      <pubDate>Wed, 22 Jan 2025 22:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
