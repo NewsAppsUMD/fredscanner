@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jan 2025 06:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 06:36:11 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 1:19 am</title>
+      <description>1300 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2025-01-24 01:19:00</guid>
+      <pubDate>Fri, 24 Jan 2025 01:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 1:05 am</title>
+      <description>200 BLOCK W PATRICK ST, IAO Units: E33</description>
+      <guid isPermaLink="false">2025-01-24 01:05:00</guid>
+      <pubDate>Fri, 24 Jan 2025 01:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 12:50 am</title>
       <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK(235100 BLOCK) BLK BOTELER RD Units: E72, E51, K5, R19, A196</description>
       <guid isPermaLink="false">2025-01-23 00:25:00</guid>
       <pubDate>Thu, 23 Jan 2025 00:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 12:18 am</title>
-      <description>100 BLOCK(235100 BLOCK) BLK BOTELER RD Units: E51, K5, R19, A196</description>
-      <guid isPermaLink="false">2025-01-23 00:18:00</guid>
-      <pubDate>Thu, 23 Jan 2025 00:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:47 pm</title>
-      <description>3500 BLOCK BRETHREN CHURCH RD, MUSKET RIDGE GOLF CLUB Radio: 9C Units: E82, TW7, 9C</description>
-      <guid isPermaLink="false">2025-01-22 22:47:00</guid>
-      <pubDate>Wed, 22 Jan 2025 22:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
