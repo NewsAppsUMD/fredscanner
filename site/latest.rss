@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 17:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 18:02:11 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:58 pm</title>
+      <description>JEFFERSON PIKE / POSEY ST Radio: 9B Units: A318, E11, 9B</description>
+      <guid isPermaLink="false">2025-01-25 12:58:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 12:46 pm</title>
+      <description>400 BLOCK CENTER ST Units: CMD3, PE23, EMS902, A18, C3D, A29, ALS2, R3, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-01-25 12:46:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 12:43 pm</title>
+      <description>200 BLOCK S JEFFERSON ST Radio: 91C Units: E72, 91C</description>
+      <guid isPermaLink="false">2025-01-25 12:43:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 12:36 pm</title>
+      <description>400 BLOCK CENTER ST Units: A29, ALS2, R3, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-01-25 12:36:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:34 pm</title>
+      <description>300 BLOCK PLAINVIEW AVE Units: E153</description>
+      <guid isPermaLink="false">2025-01-25 12:34:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 12:10 pm</title>
       <description>1000 BLOCK W PATRICK ST, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Radio: 91C Units: E11, E33, TT4, 91C</description>
@@ -276,36 +306,6 @@
       <description>1300 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23</description>
       <guid isPermaLink="false">2025-01-24 01:19:00</guid>
       <pubDate>Fri, 24 Jan 2025 01:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 1:05 am</title>
-      <description>200 BLOCK W PATRICK ST, IAO Units: E33</description>
-      <guid isPermaLink="false">2025-01-24 01:05:00</guid>
-      <pubDate>Fri, 24 Jan 2025 01:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 12:50 am</title>
-      <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33, 9C</description>
-      <guid isPermaLink="false">2025-01-24 00:50:00</guid>
-      <pubDate>Fri, 24 Jan 2025 00:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:42 pm</title>
-      <description>RT340EB / GENE HEMP RD, RT340EB / GENE HEMP RD Radio: 9B Units: 9B, E201, R20, A209, A19, E11, FS20</description>
-      <guid isPermaLink="false">2025-01-23 22:42:00</guid>
-      <pubDate>Thu, 23 Jan 2025 22:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:11 pm</title>
-      <description>200 BLOCK MOUNTAIN TER Radio: 9C Units: E82, 9C</description>
-      <guid isPermaLink="false">2025-01-23 21:11:00</guid>
-      <pubDate>Thu, 23 Jan 2025 21:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:37 pm</title>
-      <description>100 BLOCK BLK PRINCETOWN DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-01-23 19:37:00</guid>
-      <pubDate>Thu, 23 Jan 2025 19:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
