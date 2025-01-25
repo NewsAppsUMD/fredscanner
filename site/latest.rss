@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 04:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 04:34:48 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:30 pm</title>
+      <description>6900 BLOCK CARDOZO ST Units: EK114, E331, Q11, E153</description>
+      <guid isPermaLink="false">2025-01-24 23:30:00</guid>
+      <pubDate>Fri, 24 Jan 2025 23:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 11:29 pm</title>
+      <description>6900 BLOCK CARDOZO ST Units: EK114, E331, Q11, FS15</description>
+      <guid isPermaLink="false">2025-01-24 23:29:00</guid>
+      <pubDate>Fri, 24 Jan 2025 23:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:26 pm</title>
       <description>4900 BLOCK CAVERNESS CT Units: PE311, FS31</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SADDLERIDGE CT Units: E82</description>
       <guid isPermaLink="false">2025-01-23 16:43:00</guid>
       <pubDate>Thu, 23 Jan 2025 16:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:29 pm</title>
-      <description>800 BLOCK IVY WAY, SUNSET WALK - 800 BLOCK IVY WAY Radio: 9C Units: E11, 9C, Q11</description>
-      <guid isPermaLink="false">2025-01-23 16:29:00</guid>
-      <pubDate>Thu, 23 Jan 2025 16:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 4:19 pm</title>
-      <description>1600 BLOCK BERRY ROSE CT, Apt/Unit:2A Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2025-01-23 16:19:00</guid>
-      <pubDate>Thu, 23 Jan 2025 16:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
