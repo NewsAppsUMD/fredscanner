@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 20:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 20:31:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:27 pm</title>
+      <description>100 BLOCK N MAIN ST, TROUTS MARKET Radio: 9C Units: TW1, E102, FS16, 9C</description>
+      <guid isPermaLink="false">2025-01-25 15:27:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:23 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
+      <guid isPermaLink="false">2025-01-25 15:23:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 3:19 pm</title>
+      <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, R2, CCEK84, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, CMD16, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, E102, EK64, C11, K10</description>
+      <guid isPermaLink="false">2025-01-25 15:19:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 3:15 pm</title>
+      <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, R2, CCEK84, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, C11, K10, W16</description>
+      <guid isPermaLink="false">2025-01-25 15:15:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 3:13 pm</title>
+      <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, FS16, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, C11, K10, W16</description>
+      <guid isPermaLink="false">2025-01-25 15:13:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 3:10 pm</title>
+      <description>9000 BLOCKA LINKS RD Units: R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, FS16, E162, E91, EK114, EK224, E291, E172, R24, Q11</description>
+      <guid isPermaLink="false">2025-01-25 15:10:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
+      <description>I70EB / 38MM Units: A89, ALS8, E82</description>
+      <guid isPermaLink="false">2025-01-25 15:08:00</guid>
+      <pubDate>Sat, 25 Jan 2025 15:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:40 pm</title>
       <description>MONOCACY BLVD / E PATRICK ST Radio: 9B Units: E33, 9B, A38</description>
@@ -264,48 +306,6 @@
       <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Units: PE311, TT4, FS31</description>
       <guid isPermaLink="false">2025-01-24 11:17:00</guid>
       <pubDate>Fri, 24 Jan 2025 11:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:45 am</title>
-      <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: E72, A79, 9B, WCE161, R8, A89</description>
-      <guid isPermaLink="false">2025-01-24 10:45:00</guid>
-      <pubDate>Fri, 24 Jan 2025 10:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:30 am</title>
-      <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Radio: 9C Units: E501, FS50, 9C, Q11, BC950</description>
-      <guid isPermaLink="false">2025-01-24 10:30:00</guid>
-      <pubDate>Fri, 24 Jan 2025 10:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:27 am</title>
-      <description>100 BLOCK BAUGHMANS LN, Apt/Unit:SUIT 180, LABCORP Radio: 9C Units: E11, E33, TT4, 9C</description>
-      <guid isPermaLink="false">2025-01-24 10:27:00</guid>
-      <pubDate>Fri, 24 Jan 2025 10:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:04 am</title>
-      <description>1300 BLOCK BUTTERFLY LN Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-01-24 09:04:00</guid>
-      <pubDate>Fri, 24 Jan 2025 09:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:16 am</title>
-      <description>BALTIMORE RD / BELLS LN Radio: 9B Units: E331, FS33, A339, 9B</description>
-      <guid isPermaLink="false">2025-01-24 07:16:00</guid>
-      <pubDate>Fri, 24 Jan 2025 07:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 6:18 am</title>
-      <description>6100 BLOCK MURRAY TER Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2025-01-24 06:18:00</guid>
-      <pubDate>Fri, 24 Jan 2025 06:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:32 am</title>
-      <description>300 BLOCK W MAIN ST, Apt/Unit:UNIT HMOFC, WETZEL CPA Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2025-01-24 05:32:00</guid>
-      <pubDate>Fri, 24 Jan 2025 05:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
