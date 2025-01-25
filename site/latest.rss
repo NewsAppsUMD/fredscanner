@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 17:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 17:31:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 12:10 pm</title>
+      <description>1000 BLOCK W PATRICK ST, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Radio: 91C Units: E11, E33, TT4, 91C</description>
+      <guid isPermaLink="false">2025-01-25 12:10:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:07 pm</title>
+      <description>TILCO DR / REICHS FORD RD Radio: 9B Units: 9B, A39, R3</description>
+      <guid isPermaLink="false">2025-01-25 12:07:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 12:06 pm</title>
+      <description>4000 BLOCK BUFFALO RD Radio: 9C Units: CCT1, CCE141, CCK14, K17, E172, BC902, 9C, CMD17</description>
+      <guid isPermaLink="false">2025-01-25 12:06:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 12:01 pm</title>
+      <description>4000 BLOCK BUFFALO RD Radio: 9C Units: CCT1, CCE141, CCK14, E172, 9C, FS17</description>
+      <guid isPermaLink="false">2025-01-25 12:01:00</guid>
+      <pubDate>Sat, 25 Jan 2025 12:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 11:48 am</title>
       <description>200 BLOCK W SECOND AVE, STATION JC004 - INDEPENDENT FC Units: E51</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK BLK PRINCETOWN DR Radio: 9C Units: E11, 9C</description>
       <guid isPermaLink="false">2025-01-23 19:37:00</guid>
       <pubDate>Thu, 23 Jan 2025 19:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:10 pm</title>
-      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: T50, 9C, E11</description>
-      <guid isPermaLink="false">2025-01-23 19:10:00</guid>
-      <pubDate>Thu, 23 Jan 2025 19:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:09 pm</title>
-      <description>400 BLOCK BLK BRUNSWICK ST Radio: 9C Units: 9C, BR205, BR55, FS05</description>
-      <guid isPermaLink="false">2025-01-23 19:09:00</guid>
-      <pubDate>Thu, 23 Jan 2025 19:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:08 pm</title>
-      <description>7400 BLOCK NEW HORIZON WAY, Apt/Unit:100, WELLS FARGO HOME MORTGAGE - BLDG 7400 BLOCK Radio: 9C Units: PE311, 9C, TT4, FS31</description>
-      <guid isPermaLink="false">2025-01-23 19:08:00</guid>
-      <pubDate>Thu, 23 Jan 2025 19:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:04 pm</title>
-      <description>400 BLOCK BLK BRUNSWICK ST Radio: 9C Units: FS05, 9C, BR55</description>
-      <guid isPermaLink="false">2025-01-23 19:04:00</guid>
-      <pubDate>Thu, 23 Jan 2025 19:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
