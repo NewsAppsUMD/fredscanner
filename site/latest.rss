@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 04:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 05:01:59 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 11:56 pm</title>
+      <description>8200 BLOCK HOLLOW RD Radio: 9C Units: E121, E72, TW7, K7, A129, 9C</description>
+      <guid isPermaLink="false">2025-01-24 23:56:00</guid>
+      <pubDate>Fri, 24 Jan 2025 23:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 11:30 pm</title>
       <description>6900 BLOCK CARDOZO ST Units: EK114, E331, Q11, E153</description>
@@ -300,12 +306,6 @@
       <description>RT28 / NEW DESIGN RD, RT28 / NEW DESIGN RD Radio: 9C Units: 9C, E141, FS14</description>
       <guid isPermaLink="false">2025-01-23 16:58:00</guid>
       <pubDate>Thu, 23 Jan 2025 16:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 4:43 pm</title>
-      <description>100 BLOCK SADDLERIDGE CT Units: E82</description>
-      <guid isPermaLink="false">2025-01-23 16:43:00</guid>
-      <pubDate>Thu, 23 Jan 2025 16:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
