@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jan 2025 18:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 19:01:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:58 pm</title>
+      <description>3400 BLOCK CAMPUS DR, URBANA HIGH SCHOOL Radio: 9C Units: E231, T23, FS23, 9C</description>
+      <guid isPermaLink="false">2025-01-25 13:58:00</guid>
+      <pubDate>Sat, 25 Jan 2025 13:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:58 pm</title>
       <description>JEFFERSON PIKE / POSEY ST Radio: 9B Units: A318, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK CREAMERY WAY, BOLLINGER CONSTRUCTION Radio: 9C Units: E61, TW6, FS06, 9C</description>
       <guid isPermaLink="false">2025-01-24 02:59:00</guid>
       <pubDate>Fri, 24 Jan 2025 02:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR OUTSIDE: 1:19 am</title>
-      <description>1300 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2025-01-24 01:19:00</guid>
-      <pubDate>Fri, 24 Jan 2025 01:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
