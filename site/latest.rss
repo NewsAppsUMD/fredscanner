@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jan 2025 14:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 15:02:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:52 am</title>
+      <description>11300 BLOCK DUTCHMANS CREEK RD Radio: 6D Units: RE52, 6D</description>
+      <guid isPermaLink="false">2025-01-26 09:52:00</guid>
+      <pubDate>Sun, 26 Jan 2025 09:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:42 am</title>
+      <description>100 BLOCK COUNTRY CLUB TRL Radio: ACOPS2 Units: TW6, ACOPS2</description>
+      <guid isPermaLink="false">2025-01-26 09:42:00</guid>
+      <pubDate>Sun, 26 Jan 2025 09:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:37 am</title>
+      <description>6000 BLOCK STONEROLLER ST Radio: 9C Units: FS15, 9C, E331, TT4</description>
+      <guid isPermaLink="false">2025-01-26 09:37:00</guid>
+      <pubDate>Sun, 26 Jan 2025 09:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 6:21 am</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:E, Apt/Unit:301, ELMWOOD TERRACE APTS - BLDG E Units: E11</description>
@@ -288,24 +306,6 @@
       <description>700 BLOCK MIDWAY AVE, LORIEN NURSING HOME Units: T23, E153, E251</description>
       <guid isPermaLink="false">2025-01-24 18:01:00</guid>
       <pubDate>Fri, 24 Jan 2025 18:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:59 pm</title>
-      <description>1000 BLOCK REAGANS RD Units: E291, FS29</description>
-      <guid isPermaLink="false">2025-01-24 17:59:00</guid>
-      <pubDate>Fri, 24 Jan 2025 17:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:58 pm</title>
-      <description>1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Units: E11</description>
-      <guid isPermaLink="false">2025-01-24 17:58:00</guid>
-      <pubDate>Fri, 24 Jan 2025 17:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:19 pm</title>
-      <description>7400 BLOCK GROVE RD, MCDONALDS - EVERGREEN POINT Radio: 9B Units: A319, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-01-24 17:19:00</guid>
-      <pubDate>Fri, 24 Jan 2025 17:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
