@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 04:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 05:02:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:55 pm</title>
+      <description>10600 BLOCKA WOODSBORO PIKE Radio: 9B Units: E162, FS16, A169, 9B</description>
+      <guid isPermaLink="false">2025-01-26 23:55:00</guid>
+      <pubDate>Sun, 26 Jan 2025 23:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:51 pm</title>
       <description>7200 BLOCK MCKINNEY CIR, BUILDERS FIRST SOURCE - MCKINNEY CIR Radio: 9C Units: TT4, FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Radio: 91C Units: E11, E33, TT4, 91C</description>
       <guid isPermaLink="false">2025-01-25 12:10:00</guid>
       <pubDate>Sat, 25 Jan 2025 12:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:07 pm</title>
-      <description>TILCO DR / REICHS FORD RD Radio: 9B Units: 9B, A39, R3</description>
-      <guid isPermaLink="false">2025-01-25 12:07:00</guid>
-      <pubDate>Sat, 25 Jan 2025 12:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
