@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 17:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 18:02:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
+      <description>MOUNT ZION RD / RAMP RT15-340WB TO MT ZION RD RAMP Radio: 9B Units: A209, E201, R20, 9B</description>
+      <guid isPermaLink="false">2025-01-27 12:47:00</guid>
+      <pubDate>Mon, 27 Jan 2025 12:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:45 pm</title>
+      <description>MOUNT ZION RD / RAMP RT15-340WB TO MT ZION RD RAMP Radio: 9B Units: A209, R20, FS20, 9B</description>
+      <guid isPermaLink="false">2025-01-27 12:45:00</guid>
+      <pubDate>Mon, 27 Jan 2025 12:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:25 pm</title>
       <description>1300 BLOCK DAVID LN Radio: 9C Units: E11, 9C</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, R2, CCEK84, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, C11, K10, W16</description>
       <guid isPermaLink="false">2025-01-25 15:15:00</guid>
       <pubDate>Sat, 25 Jan 2025 15:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 3:13 pm</title>
-      <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, FS16, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, C11, K10, W16</description>
-      <guid isPermaLink="false">2025-01-25 15:13:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 3:10 pm</title>
-      <description>9000 BLOCKA LINKS RD Units: R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, FS16, E162, E91, EK114, EK224, E291, E172, R24, Q11</description>
-      <guid isPermaLink="false">2025-01-25 15:10:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
