@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 19:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 20:02:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (EMMITSBURG), RT15NB / OLD FREDERICK RD Radio: 9B Units: EK64, A229, R6, 9B, E102</description>
+      <guid isPermaLink="false">2025-01-27 14:59:00</guid>
+      <pubDate>Mon, 27 Jan 2025 14:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:59 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, WALMART - MONOCACY BLVD Radio: 9C Units: EK114, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-01-27 14:59:00</guid>
+      <pubDate>Mon, 27 Jan 2025 14:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:58 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (EMMITSBURG), RT15NB / OLD FREDERICK RD Radio: 9B Units: A229, R6, 9B, E102</description>
+      <guid isPermaLink="false">2025-01-27 14:58:00</guid>
+      <pubDate>Mon, 27 Jan 2025 14:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:54 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (EMMITSBURG), RT15NB / OLD FREDERICK RD Radio: 9B Units: ACMICU5442, R6, FS06, 9B</description>
+      <guid isPermaLink="false">2025-01-27 14:54:00</guid>
+      <pubDate>Mon, 27 Jan 2025 14:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:11 pm</title>
       <description>600 BLOCK BLAZER TRL Units: PE23, TW1</description>
@@ -282,30 +306,6 @@
       <description>4200 BLOCK TUSCARORA RD, IAO Radio: 9B Units: A149, 9B, E281, FS28</description>
       <guid isPermaLink="false">2025-01-25 17:10:00</guid>
       <pubDate>Sat, 25 Jan 2025 17:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 4:04 pm</title>
-      <description>100 BLOCK KNOLL SIDE LN Radio: 9C Units: 9C, E72</description>
-      <guid isPermaLink="false">2025-01-25 16:04:00</guid>
-      <pubDate>Sat, 25 Jan 2025 16:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:27 pm</title>
-      <description>100 BLOCK N MAIN ST, TROUTS MARKET Radio: 9C Units: TW1, E102, FS16, 9C</description>
-      <guid isPermaLink="false">2025-01-25 15:27:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:23 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
-      <guid isPermaLink="false">2025-01-25 15:23:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 3:19 pm</title>
-      <description>9000 BLOCKA LINKS RD Units: C24B, EK134, K1, K33, R2, CCEK84, R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, CMD16, TTF, E132, E162, E91, EK114, EK224, E291, E172, R24, Q11, E102, EK64, C11, K10</description>
-      <guid isPermaLink="false">2025-01-25 15:19:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
