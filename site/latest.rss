@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 13:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 14:01:56 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:50 am</title>
+      <description>URBANA PIKE / CENTENNIAL WAY Radio: 9B Units: E231, FS23, A239, 9B</description>
+      <guid isPermaLink="false">2025-01-27 08:50:00</guid>
+      <pubDate>Mon, 27 Jan 2025 08:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:05 am</title>
       <description>100 BLOCK PAWS PL, CATOCTIN VETERINARY CLINIC Radio: 9C Units: PE102, TW6, 9C</description>
@@ -300,12 +306,6 @@
       <description>JEFFERSON PIKE / POSEY ST Radio: 9B Units: A318, E11, 9B</description>
       <guid isPermaLink="false">2025-01-25 12:58:00</guid>
       <pubDate>Sat, 25 Jan 2025 12:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 12:46 pm</title>
-      <description>400 BLOCK CENTER ST Units: CMD3, PE23, EMS902, A18, C3D, A29, ALS2, R3, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-01-25 12:46:00</guid>
-      <pubDate>Sat, 25 Jan 2025 12:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
