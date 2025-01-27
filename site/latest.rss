@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jan 2025 17:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 17:32:17 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:25 pm</title>
+      <description>1300 BLOCK DAVID LN Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-01-27 12:25:00</guid>
+      <pubDate>Mon, 27 Jan 2025 12:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:25 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: A158</description>
+      <guid isPermaLink="false">2025-01-27 12:25:00</guid>
+      <pubDate>Mon, 27 Jan 2025 12:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:18 am</title>
       <description>4600 BLOCK CAMBRIA RD Radio: 9C Units: TW1, FS31, 9C, PE311</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCKA LINKS RD Units: R10, K9, K22, K17, A169, ALS17, BC902, BC903, SAF901, FS16, E162, E91, EK114, EK224, E291, E172, R24, Q11</description>
       <guid isPermaLink="false">2025-01-25 15:10:00</guid>
       <pubDate>Sat, 25 Jan 2025 15:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
-      <description>I70EB / 38MM Units: A89, ALS8, E82</description>
-      <guid isPermaLink="false">2025-01-25 15:08:00</guid>
-      <pubDate>Sat, 25 Jan 2025 15:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:40 pm</title>
-      <description>MONOCACY BLVD / E PATRICK ST Radio: 9B Units: E33, 9B, A38</description>
-      <guid isPermaLink="false">2025-01-25 14:40:00</guid>
-      <pubDate>Sat, 25 Jan 2025 14:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
