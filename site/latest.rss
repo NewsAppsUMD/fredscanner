@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 22:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 22:33:18 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 5:18 pm</title>
+      <description>1100 BLOCK DARGON QUARRY LN Radio: 9C Units: T5, FS05, 9C, E201, E51</description>
+      <guid isPermaLink="false">2025-01-28 17:18:00</guid>
+      <pubDate>Tue, 28 Jan 2025 17:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
+      <description>RT40A / SHANK RD, RT40A / SHANK RD Radio: 9B Units: A78, E72, 9B</description>
+      <guid isPermaLink="false">2025-01-28 16:59:00</guid>
+      <pubDate>Tue, 28 Jan 2025 16:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:30 pm</title>
       <description>GLADE RD / WOODSBORO PIKE Radio: 9B Units: C11B, BC902, 9B, C11, CMD16, A169, R24, ALS17, EMS902, E162</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP I27100 BLOCKNB TO RT85NB RAMP Units: A318, PE311, FS31</description>
       <guid isPermaLink="false">2025-01-26 14:54:00</guid>
       <pubDate>Sun, 26 Jan 2025 14:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:30 pm</title>
-      <description>100 BLOCK S MAIN ST, STATION AC006 - BIGLERVILLE FIRE HOSE AND TRUCK COMPANY #1 Units: EK64</description>
-      <guid isPermaLink="false">2025-01-26 14:30:00</guid>
-      <pubDate>Sun, 26 Jan 2025 14:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:07 pm</title>
-      <description>DETRICK RD / LIME PLANT RD Radio: 9B Units: R15, A158, A159, 9B</description>
-      <guid isPermaLink="false">2025-01-26 13:07:00</guid>
-      <pubDate>Sun, 26 Jan 2025 13:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
