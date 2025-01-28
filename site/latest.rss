@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jan 2025 00:46:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 01:28:46 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 8:22 pm</title>
+      <description>5900 BLOCK QUINN RD Units: E331, FS33</description>
+      <guid isPermaLink="false">2025-01-27 20:22:00</guid>
+      <pubDate>Mon, 27 Jan 2025 20:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 8:09 pm</title>
+      <description>2000 BLOCK WEITZEL CT Units: E291, FS29</description>
+      <guid isPermaLink="false">2025-01-27 20:09:00</guid>
+      <pubDate>Mon, 27 Jan 2025 20:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:35 pm</title>
       <description>100 BLOCK E ALL SAINTS ST Units: E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>13600 BLOCK MOTTERS STATION RD, MOUNT TABOR PARK Radio: 9C Units: BR135, FS13, 9C</description>
       <guid isPermaLink="false">2025-01-25 21:55:00</guid>
       <pubDate>Sat, 25 Jan 2025 21:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:28 pm</title>
-      <description>3300 BLOCK GALENA DR, Apt/Unit:106 Radio: 9C Units: E231, T23, FS23, 9C</description>
-      <guid isPermaLink="false">2025-01-25 21:28:00</guid>
-      <pubDate>Sat, 25 Jan 2025 21:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:58 pm</title>
-      <description>RT15NB / HANSONVILLE RD (HANSONVILLE), RT15NB / HANSONVILLE RD Units: E291, FS29, A299</description>
-      <guid isPermaLink="false">2025-01-25 20:58:00</guid>
-      <pubDate>Sat, 25 Jan 2025 20:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
