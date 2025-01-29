@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 19:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 19:31:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 2:26 pm</title>
+      <description>1100 BLOCK BELMONT AVE Units: PE23</description>
+      <guid isPermaLink="false">2025-01-29 14:26:00</guid>
+      <pubDate>Wed, 29 Jan 2025 14:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:41 pm</title>
       <description>6800 BLOCK DELAFIELD CT Units: PE311, TW1, FS31</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / OLD FREDERICK RD (EMMITSBURG), RT15NB / OLD FREDERICK RD Radio: 9B Units: ACMICU5442, R6, FS06, 9B</description>
       <guid isPermaLink="false">2025-01-27 14:54:00</guid>
       <pubDate>Mon, 27 Jan 2025 14:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:11 pm</title>
-      <description>600 BLOCK BLAZER TRL Units: PE23, TW1</description>
-      <guid isPermaLink="false">2025-01-27 13:11:00</guid>
-      <pubDate>Mon, 27 Jan 2025 13:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
