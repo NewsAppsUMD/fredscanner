@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 23:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 23:31:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:22 pm</title>
+      <description>W PATRICK ST / RT15 NB W PATRICK ST OFF RAMP &amp; RT 40 BRDGE HWY, RT15SB / W PATRICK ST Units: E33, R3, A38, A19, E11</description>
+      <guid isPermaLink="false">2025-01-29 18:22:00</guid>
+      <pubDate>Wed, 29 Jan 2025 18:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:13 pm</title>
+      <description>1400 BLOCK DOCKSIDE CT Units: TT4, PE23</description>
+      <guid isPermaLink="false">2025-01-29 18:13:00</guid>
+      <pubDate>Wed, 29 Jan 2025 18:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 5:39 pm</title>
       <description>100 BLOCK ADAMS WAY Units: EK114, A249, ALS29, BC902, E162, E91, E291, E501, R24, Q11, TW1, BC901, SAF901, FS11</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E ALL SAINTS ST Units: E33, TT4</description>
       <guid isPermaLink="false">2025-01-27 19:35:00</guid>
       <pubDate>Mon, 27 Jan 2025 19:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:47 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E33, R3, A38, A19, E11</description>
-      <guid isPermaLink="false">2025-01-27 18:47:00</guid>
-      <pubDate>Mon, 27 Jan 2025 18:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:44 pm</title>
-      <description>8400 BLOCK BALD EAGLE LN Units: E331</description>
-      <guid isPermaLink="false">2025-01-27 18:44:00</guid>
-      <pubDate>Mon, 27 Jan 2025 18:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
