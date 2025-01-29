@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 16:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 17:01:46 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 11:47 am</title>
+      <description>1400 BLOCK LAUREL WOOD WAY Units: E23, E11, E501, T50, SAF901, C1B, E33, R3, EK114, E291, R24, Q11, A299, ALS29, BC902, BC901, EMS902, VOLAC900</description>
+      <guid isPermaLink="false">2025-01-29 11:47:00</guid>
+      <pubDate>Wed, 29 Jan 2025 11:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:42 am</title>
+      <description>1400 BLOCK LAUREL WOOD WAY Units: E23, E11, E501, T50, A247, SAF901, FS29, EK114, E291, R24, Q11, A299, ALS29, BC902, BC901</description>
+      <guid isPermaLink="false">2025-01-29 11:42:00</guid>
+      <pubDate>Wed, 29 Jan 2025 11:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:20 am</title>
       <description>4800 BLOCK FINNICAL WAY Units: E201, T50, FS31</description>
@@ -294,18 +306,6 @@
       <description>URBANA PIKE / CENTENNIAL WAY Radio: 9B Units: E231, FS23, A239, 9B</description>
       <guid isPermaLink="false">2025-01-27 08:50:00</guid>
       <pubDate>Mon, 27 Jan 2025 08:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:05 am</title>
-      <description>100 BLOCK PAWS PL, CATOCTIN VETERINARY CLINIC Radio: 9C Units: PE102, TW6, 9C</description>
-      <guid isPermaLink="false">2025-01-27 08:05:00</guid>
-      <pubDate>Mon, 27 Jan 2025 08:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 7:05 am</title>
-      <description>7100 BLOCK COLLINSWORTH PL Radio: 9C Units: PE311, E33, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2025-01-27 07:05:00</guid>
-      <pubDate>Mon, 27 Jan 2025 07:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
