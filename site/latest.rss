@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jan 2025 12:42:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 13:05:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:01 am</title>
+      <description>5800 BLOCK BALLENGER CREEK PIKE, CELEBREE LEARNING CENTER - BALLENGER CREEK PLAZA Units: PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2025-01-29 08:01:00</guid>
+      <pubDate>Wed, 29 Jan 2025 08:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 7:50 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT144 RAMP Units: E331, E153, A39, A259, ALS4, BC901, CMD33, EMS902, A158, W33, HTRP3, R3, R2, A339, A38, SAF901, EMS901, C900, VOLAC900, C3</description>
+      <guid isPermaLink="false">2025-01-29 07:50:00</guid>
+      <pubDate>Wed, 29 Jan 2025 07:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 7:44 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT144 RAMP Units: E331, E33, E153, A39, A259, ALS4, BC901, CMD33, EMS902, A158, R3, R2, A339, A38, SAF901, EMS901, C900, VOLAC900</description>
+      <guid isPermaLink="false">2025-01-29 07:44:00</guid>
+      <pubDate>Wed, 29 Jan 2025 07:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUS ACCIDENT: 7:38 am</title>
       <description>I70EB / 59MM, I70EB / 59MM Units: E331, E153, A39, A259, ALS4, BC901, R3, R2, A339, A38, SAF901, EMS901, FS33</description>
@@ -288,24 +306,6 @@
       <description>5700 BLOCK HANNOVER CT Radio: 9C Units: FS31, PE311, 9C</description>
       <guid isPermaLink="false">2025-01-26 20:14:00</guid>
       <pubDate>Sun, 26 Jan 2025 20:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:47 pm</title>
-      <description>600 BLOCK GILLESPIE DR Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-01-26 19:47:00</guid>
-      <pubDate>Sun, 26 Jan 2025 19:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:46 pm</title>
-      <description>100 BLOCK KIMBERLY KRISTIN WAY Units: RE52</description>
-      <guid isPermaLink="false">2025-01-26 19:46:00</guid>
-      <pubDate>Sun, 26 Jan 2025 19:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:40 pm</title>
-      <description>11200 BLOCK KENT CT Radio: 9C Units: R3, E153, E331, R15, 9C</description>
-      <guid isPermaLink="false">2025-01-26 19:40:00</guid>
-      <pubDate>Sun, 26 Jan 2025 19:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
