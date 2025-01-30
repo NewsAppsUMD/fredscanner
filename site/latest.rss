@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 11:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:02:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:51 am</title>
+      <description>8300 BLOCK REVELATION AVE Radio: 9C Units: Q11, FS11, 9C, EK114, E291, R24, BC902</description>
+      <guid isPermaLink="false">2025-01-30 06:51:00</guid>
+      <pubDate>Thu, 30 Jan 2025 06:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 6:45 am</title>
+      <description>8300 BLOCK REVELATION AVE Radio: 9C Units: Q11, FS11, 9C, EK114, E291</description>
+      <guid isPermaLink="false">2025-01-30 06:45:00</guid>
+      <pubDate>Thu, 30 Jan 2025 06:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:49 pm</title>
       <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: A159</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK W SOUTH ST, BEACON HOUSE Radio: 9C Units: TT4, 9C</description>
       <guid isPermaLink="false">2025-01-28 07:47:00</guid>
       <pubDate>Tue, 28 Jan 2025 07:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:16 am</title>
-      <description>3400 BLOCK CAMPUS DR, URBANA HIGH SCHOOL Radio: 9C Units: 9C, E231, T23, FS23</description>
-      <guid isPermaLink="false">2025-01-28 06:16:00</guid>
-      <pubDate>Tue, 28 Jan 2025 06:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:13 am</title>
-      <description>5200 BLOCK WESTVIEW DR, AVISON YOUNG Units: FS31, PE311, TT4</description>
-      <guid isPermaLink="false">2025-01-28 06:13:00</guid>
-      <pubDate>Tue, 28 Jan 2025 06:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
