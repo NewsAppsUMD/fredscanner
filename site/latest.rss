@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jan 2025 00:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:46:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:06 pm</title>
+      <description>6500 BLOCK FOXVILLE RD Radio: 9B Units: PE102, A309, 9B</description>
+      <guid isPermaLink="false">2025-01-29 19:06:00</guid>
+      <pubDate>Wed, 29 Jan 2025 19:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:02 pm</title>
       <description>1500 BLOCK OPOSSUMTOWN PIKE, IFO Units: A29, PE23</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK QUINN RD Units: E331, FS33</description>
       <guid isPermaLink="false">2025-01-27 20:22:00</guid>
       <pubDate>Mon, 27 Jan 2025 20:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 8:09 pm</title>
-      <description>2000 BLOCK WEITZEL CT Units: E291, FS29</description>
-      <guid isPermaLink="false">2025-01-27 20:09:00</guid>
-      <pubDate>Mon, 27 Jan 2025 20:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
