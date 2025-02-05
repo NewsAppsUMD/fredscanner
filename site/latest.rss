@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 09:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 09:32:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 4:28 am</title>
+      <description>4600 BLOCK NAVISTAR DR, BOWMAN PLAINS MINI STORAGE Radio: 9C Units: PE311, E141, FS31, 9C</description>
+      <guid isPermaLink="false">2025-02-05 04:28:00</guid>
+      <pubDate>Wed, 05 Feb 2025 04:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 2:25 am</title>
       <description>6300 BLOCK JEFFERSON BLVD Radio: 9C Units: EK204, BC903, E121, E72, TW7, 9C</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23</description>
       <guid isPermaLink="false">2025-02-02 19:44:00</guid>
       <pubDate>Sun, 02 Feb 2025 19:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:17 pm</title>
-      <description>300 BLOCK STULL CT Radio: 9C Units: E132, R10, ALS30, BC903, BC901, SAF901, PE102, BC902, E162, 9C, E133, E221, E61, R6, TW6, A307</description>
-      <guid isPermaLink="false">2025-02-02 19:17:00</guid>
-      <pubDate>Sun, 02 Feb 2025 19:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
