@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Feb 2025 07:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 07:31:31 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 2:25 am</title>
+      <description>6300 BLOCK JEFFERSON BLVD Radio: 9C Units: EK204, BC903, E121, E72, TW7, 9C</description>
+      <guid isPermaLink="false">2025-02-05 02:25:00</guid>
+      <pubDate>Wed, 05 Feb 2025 02:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:20 am</title>
+      <description>6300 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, E72, TW7, FS12, 9C</description>
+      <guid isPermaLink="false">2025-02-05 02:20:00</guid>
+      <pubDate>Wed, 05 Feb 2025 02:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:41 pm</title>
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Units: E291, FS29, Q11</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK STULL CT Radio: 9C Units: E132, R10, ALS30, BC903, BC901, SAF901, PE102, BC902, E162, 9C, E133, E221, E61, R6, TW6, A307</description>
       <guid isPermaLink="false">2025-02-02 19:17:00</guid>
       <pubDate>Sun, 02 Feb 2025 19:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:16 pm</title>
-      <description>300 BLOCK STULL CT Radio: 9C Units: E132, R10, ALS30, BC903, BC901, SAF901, PE102, BC902, 9C, E133, E221, E61, R6, TW6, A307</description>
-      <guid isPermaLink="false">2025-02-02 19:16:00</guid>
-      <pubDate>Sun, 02 Feb 2025 19:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:14 pm</title>
-      <description>300 BLOCK STULL CT Radio: 9C Units: E132, R10, PE102, 9C</description>
-      <guid isPermaLink="false">2025-02-02 19:14:00</guid>
-      <pubDate>Sun, 02 Feb 2025 19:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
