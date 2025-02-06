@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 09:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 10:03:39 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:15 am</title>
+      <description>500 BLOCK DEER HOLLOW DR Units: E153</description>
+      <guid isPermaLink="false">2025-02-06 04:15:00</guid>
+      <pubDate>Thu, 06 Feb 2025 04:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:06 am</title>
+      <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Radio: 9D Units: E231, PRE709, R3, A239, ALS23, BC901, EMS901, FS23, 9D</description>
+      <guid isPermaLink="false">2025-02-06 04:06:00</guid>
+      <pubDate>Thu, 06 Feb 2025 04:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:59 pm</title>
       <description>700 BLOCK BLK E POTOMAC ST Units: RE52, FS05</description>
@@ -294,18 +306,6 @@
       <description>11800 BLOCK HARPERS FERRY RD Units: R20, E51, EK204</description>
       <guid isPermaLink="false">2025-02-03 17:40:00</guid>
       <pubDate>Mon, 03 Feb 2025 17:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE TEST EVENT: 5:14 pm</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: BC901</description>
-      <guid isPermaLink="false">2025-02-03 17:14:00</guid>
-      <pubDate>Mon, 03 Feb 2025 17:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:19 pm</title>
-      <description>500 BLOCK N EAST ST, GRIMMS AUTOMOVATION Radio: 9B Units: A28, R3, 9B</description>
-      <guid isPermaLink="false">2025-02-03 16:19:00</guid>
-      <pubDate>Mon, 03 Feb 2025 16:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
