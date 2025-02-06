@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Feb 2025 14:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:02:20 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:39 am</title>
+      <description>200 BLOCK EYLER RD, IFO Radio: 9C Units: BR106, 9C</description>
+      <guid isPermaLink="false">2025-02-06 09:39:00</guid>
+      <pubDate>Thu, 06 Feb 2025 09:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:38 am</title>
+      <description>6000 BLOCK JEFFERSON STATION CT Radio: 9C Units: PE311, 9C, E11, TT4</description>
+      <guid isPermaLink="false">2025-02-06 09:38:00</guid>
+      <pubDate>Thu, 06 Feb 2025 09:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:11 am</title>
       <description>9100 BLOCK ROCKY RIDGE RD Units: EK114, CCR8, K22, R6, EK134, K10, K9, A307, ALS30, BC902, BC901, SAF901, E132, E162, E61, E111, R10, CCR5, PE102, E91, TW6, EK224, E172, E291</description>
@@ -294,18 +306,6 @@
       <description>11800 BLOCK HARPERS FERRY RD Units: R20, T5, TW7, ALS20, E51, EK204, BC903, RE52, A196, K5</description>
       <guid isPermaLink="false">2025-02-03 17:49:00</guid>
       <pubDate>Mon, 03 Feb 2025 17:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:48 pm</title>
-      <description>11800 BLOCK HARPERS FERRY RD Units: R20, T5, E51, EK204, BC903, RE52, A196, K5</description>
-      <guid isPermaLink="false">2025-02-03 17:48:00</guid>
-      <pubDate>Mon, 03 Feb 2025 17:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:41 pm</title>
-      <description>11800 BLOCK HARPERS FERRY RD Units: R20, T5, E51, EK204, RE52</description>
-      <guid isPermaLink="false">2025-02-03 17:41:00</guid>
-      <pubDate>Mon, 03 Feb 2025 17:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
