@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Feb 2025 02:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 03:05:09 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:01 pm</title>
+      <description>14500 BLOCK WATER COMPANY RD Units: K10, TW6</description>
+      <guid isPermaLink="false">2025-02-06 22:01:00</guid>
+      <pubDate>Thu, 06 Feb 2025 22:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 7:42 pm</title>
       <description>100 BLOCK TREATMENT PLANT RD, FREDERICK WASTEWATER PLANT Radio: 9C Units: PE23, 9C</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK WESTVIEW DR, COURTYARD BY MARRIOTT Units: PE311, T23, FS31</description>
       <guid isPermaLink="false">2025-02-04 09:21:00</guid>
       <pubDate>Tue, 04 Feb 2025 09:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:26 am</title>
-      <description>100 BLOCK W PATRICK ST, FRANCIS SCOTT KEY APTS Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-02-04 06:26:00</guid>
-      <pubDate>Tue, 04 Feb 2025 06:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
