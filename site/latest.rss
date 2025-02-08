@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 16:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 17:01:47 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 11:39 am</title>
+      <description>2600 BLOCK BEAR DEN RD Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2025-02-08 11:39:00</guid>
+      <pubDate>Sat, 08 Feb 2025 11:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:43 am</title>
       <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Radio: 9D Units: E11, EMS901, E33, R2, A18, A38, ALS4, BC902, 9D</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Units: A318, PE311, FS31</description>
       <guid isPermaLink="false">2025-02-04 20:08:00</guid>
       <pubDate>Tue, 04 Feb 2025 20:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:31 pm</title>
-      <description>100 BLOCK E MAIN ST Units: RE74</description>
-      <guid isPermaLink="false">2025-02-04 19:31:00</guid>
-      <pubDate>Tue, 04 Feb 2025 19:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
