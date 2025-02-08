@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Feb 2025 19:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:02:00 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:48 pm</title>
+      <description>1200 BLOCK W PATRICK ST, DOLLAR GENERAL - FREDERICK SHOPPERS WORLD Radio: 9D Units: ALS4, E11, EMS902, 9D, A19</description>
+      <guid isPermaLink="false">2025-02-08 14:48:00</guid>
+      <pubDate>Sat, 08 Feb 2025 14:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:32 pm</title>
       <description>WOOD DUCK CT / ROBIN DR Radio: 9D Units: EMS901, FS31, A318, 9D, PE311, R14, ALS31, BC901</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT144 (NEWM), I70EB / RT144 Units: E33, PE311, HM33</description>
       <guid isPermaLink="false">2025-02-05 06:46:00</guid>
       <pubDate>Wed, 05 Feb 2025 06:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 4:28 am</title>
-      <description>4600 BLOCK NAVISTAR DR, BOWMAN PLAINS MINI STORAGE Radio: 9C Units: PE311, E141, FS31, 9C</description>
-      <guid isPermaLink="false">2025-02-05 04:28:00</guid>
-      <pubDate>Wed, 05 Feb 2025 04:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
