@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 18:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 18:34:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:06 pm</title>
+      <description>RIDGE RD / WOODFIELD RD Units: A259</description>
+      <guid isPermaLink="false">2025-02-09 13:06:00</guid>
+      <pubDate>Sun, 09 Feb 2025 13:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:21 am</title>
       <description>11400 BLOCK BATHESDA CHURCH RD Units: E251</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9B Units: A307, R10, 9B</description>
       <guid isPermaLink="false">2025-02-05 17:21:00</guid>
       <pubDate>Wed, 05 Feb 2025 17:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 4:39 pm</title>
-      <description>9300 BLOCK WHITE ROCK AVE Radio: 9C Units: BC902, E11, K1, E221, 9C, E291, T50, EK224, A229</description>
-      <guid isPermaLink="false">2025-02-05 16:39:00</guid>
-      <pubDate>Wed, 05 Feb 2025 16:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
