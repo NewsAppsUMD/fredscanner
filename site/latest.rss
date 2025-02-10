@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 12:43:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 13:05:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:41 am</title>
+      <description>APPROX LOC:270N BTWN BAKER VALLEY RD OVRPSS &amp; XOVR HWY Radio: 9B Units: E11, PRE709, E231, R2, A239, A18, FS23, 9B</description>
+      <guid isPermaLink="false">2025-02-10 07:41:00</guid>
+      <pubDate>Mon, 10 Feb 2025 07:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:13 am</title>
       <description>900 BLOCK N MAPLE AVE, BRUNSWICK LIBRARY Radio: 9C Units: RE52, T5, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK ROCKY RIDGE RD Units: EK114, CCR8, K22, R6, EK134, K10, K9, A307, ALS30, BC902, BC901, SAF901, E132, E162, E61, E111, R10, CCR5, PE102, E91, TW6, EK224, E172, E291</description>
       <guid isPermaLink="false">2025-02-06 07:11:00</guid>
       <pubDate>Thu, 06 Feb 2025 07:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:05 am</title>
-      <description>9100 BLOCK ROCKY RIDGE RD Units: R6, EK134, K10, K9, A307, ALS30, BC902, BC901, SAF901, FS13, E132, E162, E61, E111, R10, PE102, E91, TW6</description>
-      <guid isPermaLink="false">2025-02-06 07:05:00</guid>
-      <pubDate>Thu, 06 Feb 2025 07:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
