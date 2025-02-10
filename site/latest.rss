@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 12:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 12:43:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:13 am</title>
+      <description>900 BLOCK N MAPLE AVE, BRUNSWICK LIBRARY Radio: 9C Units: RE52, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2025-02-10 07:13:00</guid>
+      <pubDate>Mon, 10 Feb 2025 07:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:23 am</title>
       <description>BURKITTSVILLE RD / PETERSVILLE RD Radio: 9C Units: E201, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK ROCKY RIDGE RD Units: R6, EK134, K10, K9, A307, ALS30, BC902, BC901, SAF901, FS13, E132, E162, E61, E111, R10, PE102, E91, TW6</description>
       <guid isPermaLink="false">2025-02-06 07:05:00</guid>
       <pubDate>Thu, 06 Feb 2025 07:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:15 am</title>
-      <description>500 BLOCK DEER HOLLOW DR Units: E153</description>
-      <guid isPermaLink="false">2025-02-06 04:15:00</guid>
-      <pubDate>Thu, 06 Feb 2025 04:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
