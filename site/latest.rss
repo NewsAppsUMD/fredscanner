@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 00:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 01:29:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 7:55 pm</title>
+      <description>I70WB / 44MM, I70WB / 44MM Radio: 9C Units: K1, E121, E82, 9C</description>
+      <guid isPermaLink="false">2025-02-09 19:55:00</guid>
+      <pubDate>Sun, 09 Feb 2025 19:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:41 pm</title>
       <description>I70WB / 44MM, I70WB / 44MM Radio: 9C Units: E121, E82, FS12, 9C</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK BLK E POTOMAC ST Units: RE52, FS05</description>
       <guid isPermaLink="false">2025-02-05 21:59:00</guid>
       <pubDate>Wed, 05 Feb 2025 21:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 7:38 pm</title>
-      <description>100 BLOCK E A ST Units: RE52, T5, FS05, E612B</description>
-      <guid isPermaLink="false">2025-02-05 19:38:00</guid>
-      <pubDate>Wed, 05 Feb 2025 19:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
