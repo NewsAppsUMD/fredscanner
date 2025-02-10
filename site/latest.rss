@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Feb 2025 23:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:07:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:41 pm</title>
+      <description>I70WB / 44MM, I70WB / 44MM Radio: 9C Units: E121, E82, FS12, 9C</description>
+      <guid isPermaLink="false">2025-02-09 18:41:00</guid>
+      <pubDate>Sun, 09 Feb 2025 18:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:06 pm</title>
       <description>RIDGE RD / WOODFIELD RD Units: A259</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E A ST Units: RE52, T5, FS05, E612B</description>
       <guid isPermaLink="false">2025-02-05 19:38:00</guid>
       <pubDate>Wed, 05 Feb 2025 19:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:21 pm</title>
-      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9B Units: A307, R10, 9B</description>
-      <guid isPermaLink="false">2025-02-05 17:21:00</guid>
-      <pubDate>Wed, 05 Feb 2025 17:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
