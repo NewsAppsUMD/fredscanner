@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 20:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 20:33:01 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 3:29 pm</title>
+      <description>5400 BLOCKA BURKITTSVILLE RD Radio: 9D Units: C20, ALS4, WCEK8, BC903, BC901, SAF901, RE52, E201, E72, JCRE1, E121, E612, R19, T5, R20, K7, K612, K1, A196, 9D</description>
+      <guid isPermaLink="false">2025-02-10 15:29:00</guid>
+      <pubDate>Mon, 10 Feb 2025 15:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:27 pm</title>
+      <description>5400 BLOCKA BURKITTSVILLE RD Radio: 9D Units: ALS4, WCEK8, BC903, BC901, SAF901, FS05, RE52, E201, E72, JCRE1, E121, E612, R19, T5, R20, K7, K612, K1, A196, 9D</description>
+      <guid isPermaLink="false">2025-02-10 15:27:00</guid>
+      <pubDate>Mon, 10 Feb 2025 15:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:22 pm</title>
+      <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: T4, E331, FS15, 9C</description>
+      <guid isPermaLink="false">2025-02-10 15:22:00</guid>
+      <pubDate>Mon, 10 Feb 2025 15:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:05 pm</title>
       <description>9000 BLOCK HARRIS ST, VILLAGES OF URBANA COMMUNITY ASSOCIATION Radio: 9C Units: 9C, TT23, E231, FS23</description>
@@ -288,24 +306,6 @@
       <description>22000 BLOCK HOLIDAY DR Units: K21</description>
       <guid isPermaLink="false">2025-02-06 19:32:00</guid>
       <pubDate>Thu, 06 Feb 2025 19:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:22 pm</title>
-      <description>DANCE HALL RD / GAS HOUSE PIKE Radio: 9B Units: E111, FS33, 9B, A249</description>
-      <guid isPermaLink="false">2025-02-06 19:22:00</guid>
-      <pubDate>Thu, 06 Feb 2025 19:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:04 pm</title>
-      <description>100 BLOCK KEY PKWY, Bldg:C Radio: 9C Units: E11, E33, TT4, 9C</description>
-      <guid isPermaLink="false">2025-02-06 19:04:00</guid>
-      <pubDate>Thu, 06 Feb 2025 19:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:25 pm</title>
-      <description>13500 BLOCK ARCADIAN DR Units: E281</description>
-      <guid isPermaLink="false">2025-02-06 18:25:00</guid>
-      <pubDate>Thu, 06 Feb 2025 18:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
