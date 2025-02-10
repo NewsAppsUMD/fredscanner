@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Feb 2025 02:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 02:45:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:12 pm</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72, TW7, 9C</description>
+      <guid isPermaLink="false">2025-02-09 21:12:00</guid>
+      <pubDate>Sun, 09 Feb 2025 21:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:55 pm</title>
       <description>I70WB / 44MM, I70WB / 44MM Radio: 9C Units: K1, E121, E82, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270NB / PARK MILLS RD, I270NB / PARK MILLS RD Radio: 9D Units: E231, PRE709, R3, A239, ALS23, BC901, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2025-02-06 04:06:00</guid>
       <pubDate>Thu, 06 Feb 2025 04:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:59 pm</title>
-      <description>700 BLOCK BLK E POTOMAC ST Units: RE52, FS05</description>
-      <guid isPermaLink="false">2025-02-05 21:59:00</guid>
-      <pubDate>Wed, 05 Feb 2025 21:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
