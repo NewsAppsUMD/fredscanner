@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 01:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 02:02:36 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:38 pm</title>
+      <description>100 BLOCK N MAIN ST, WOODSBORO BANK - WOODSBORO Radio: 9C Units: Q11, FS16, E91, 9C</description>
+      <guid isPermaLink="false">2025-02-10 20:38:00</guid>
+      <pubDate>Mon, 10 Feb 2025 20:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 8:09 pm</title>
       <description>BESSIE CLEMSON RD / COPPERMINE RD Radio: 9D Units: A179, BR175, BC901, SAF901, CMD17, 9D, C17, C900, E172, BR176, E162, CCE81, Q11, K17</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCKB FRANCIS SCOTT KEY DR, Apt/Unit:229 Radio: 9D Units: R2, A39, ALS4, BC903, EMS901, E33, 9D</description>
       <guid isPermaLink="false">2025-02-07 10:05:00</guid>
       <pubDate>Fri, 07 Feb 2025 10:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:02 am</title>
-      <description>JEFFERSON PIKE / HIMES AVE Units: R2, A18, E11</description>
-      <guid isPermaLink="false">2025-02-07 09:02:00</guid>
-      <pubDate>Fri, 07 Feb 2025 09:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
