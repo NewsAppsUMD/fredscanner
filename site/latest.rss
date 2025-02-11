@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Feb 2025 22:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 23:02:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:47 pm</title>
+      <description>27000 BLOCK RIDGE RD Units: E251, A259</description>
+      <guid isPermaLink="false">2025-02-11 17:47:00</guid>
+      <pubDate>Tue, 11 Feb 2025 17:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:02 pm</title>
       <description>100 BLOCK MORAN CT Units: E31, E111, E291, E501, PE23, R2, T50, TW1, A299, ALS29, BC902, BC901, SAF901, FS29</description>
@@ -300,12 +306,6 @@
       <description>BURKITTSVILLE RD / PETERSVILLE RD Radio: 9C Units: E201, FS05, 9C</description>
       <guid isPermaLink="false">2025-02-10 06:23:00</guid>
       <pubDate>Mon, 10 Feb 2025 06:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:12 pm</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72, TW7, 9C</description>
-      <guid isPermaLink="false">2025-02-09 21:12:00</guid>
-      <pubDate>Sun, 09 Feb 2025 21:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
