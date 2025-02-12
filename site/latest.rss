@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 14:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 15:02:07 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:54 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, E31, T4, 9C, BC901</description>
+      <guid isPermaLink="false">2025-02-12 09:54:00</guid>
+      <pubDate>Wed, 12 Feb 2025 09:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 9:49 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, E31, T4, FS33, 9C</description>
+      <guid isPermaLink="false">2025-02-12 09:49:00</guid>
+      <pubDate>Wed, 12 Feb 2025 09:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 8:58 am</title>
       <description>5800 BLOCK SHADBUSH CT Radio: 9C Units: PE311, E31, T4, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK N MAIN ST, WOODSBORO BANK - WOODSBORO Radio: 9C Units: Q11, FS16, E91, 9C</description>
       <guid isPermaLink="false">2025-02-10 20:38:00</guid>
       <pubDate>Mon, 10 Feb 2025 20:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 8:09 pm</title>
-      <description>BESSIE CLEMSON RD / COPPERMINE RD Radio: 9D Units: A179, BR175, BC901, SAF901, CMD17, 9D, C17, C900, E172, BR176, E162, CCE81, Q11, K17</description>
-      <guid isPermaLink="false">2025-02-10 20:09:00</guid>
-      <pubDate>Mon, 10 Feb 2025 20:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 7:55 pm</title>
-      <description>BESSIE CLEMSON RD / COPPERMINE RD Radio: 9C Units: A179, BR175, BC901, SAF901, FS17, 9C, C900, E172, E162, CCE81, Q11, K17</description>
-      <guid isPermaLink="false">2025-02-10 19:55:00</guid>
-      <pubDate>Mon, 10 Feb 2025 19:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
