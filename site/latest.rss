@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 13:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 14:02:05 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 8:58 am</title>
+      <description>5800 BLOCK SHADBUSH CT Radio: 9C Units: PE311, E31, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-02-12 08:58:00</guid>
+      <pubDate>Wed, 12 Feb 2025 08:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 8:21 am</title>
       <description>38700 BLOCK TRITICUM LN Radio: 6B Units: T5, 6B</description>
@@ -300,12 +306,6 @@
       <description>BESSIE CLEMSON RD / COPPERMINE RD Radio: 9C Units: A179, BR175, BC901, SAF901, FS17, 9C, C900, E172, E162, CCE81, Q11, K17</description>
       <guid isPermaLink="false">2025-02-10 19:55:00</guid>
       <pubDate>Mon, 10 Feb 2025 19:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:34 pm</title>
-      <description>5400 BLOCKA BURKITTSVILLE RD Radio: 9D Units: C5, A129, CMD5, BC602, C20, ALS4, WCEK8, BC903, BC901, SAF901, E281, E11, TW7, WCK6, RE52, E201, E72, JCRE1, E121, E612, R19, T5, R20, K7, K612, K1, A196, 9D</description>
-      <guid isPermaLink="false">2025-02-10 15:34:00</guid>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
