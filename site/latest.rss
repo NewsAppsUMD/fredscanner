@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 00:06:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 00:46:07 +0000</lastBuildDate>
+    <item>
+      <title>REKINDLE: 7:31 pm</title>
+      <description>9500 BLOCK KEYS CHAPEL RD Units: K33, K17, E172</description>
+      <guid isPermaLink="false">2025-02-11 19:31:00</guid>
+      <pubDate>Tue, 11 Feb 2025 19:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 7:04 pm</title>
+      <description>10900 BLOCK RUM SPRING RD Radio: 9C Units: E121, FS21, 9C, E82, TW7, K21, E212, E72</description>
+      <guid isPermaLink="false">2025-02-11 19:04:00</guid>
+      <pubDate>Tue, 11 Feb 2025 19:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 7:04 pm</title>
+      <description>10900 BLOCK RUM SPRING RD Radio: 9C Units: 9C, E82, TW7, K21, E212, E72</description>
+      <guid isPermaLink="false">2025-02-11 19:04:00</guid>
+      <pubDate>Tue, 11 Feb 2025 19:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:59 pm</title>
       <description>10900 BLOCK RUM SPRING RD Radio: 9C Units: 9C, E82, TW7, K21, E212</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK E CHURCH ST, S CARROLL ST WATER TOWER Radio: 9C Units: T50, 9C, PE311</description>
       <guid isPermaLink="false">2025-02-10 12:25:00</guid>
       <pubDate>Mon, 10 Feb 2025 12:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:24 pm</title>
-      <description>900 BLOCKA N EAST ST Radio: 9C Units: E31, E11, 9C, R2</description>
-      <guid isPermaLink="false">2025-02-10 12:24:00</guid>
-      <pubDate>Mon, 10 Feb 2025 12:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:20 pm</title>
-      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, TT4, 9C</description>
-      <guid isPermaLink="false">2025-02-10 12:20:00</guid>
-      <pubDate>Mon, 10 Feb 2025 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:37 am</title>
-      <description>GREEN VALLEY RD / GLISSANS MILL RD Radio: 9D Units: BC902, ALS17, A159, E153, SAF901, RE171, A179, 9D, CMD17</description>
-      <guid isPermaLink="false">2025-02-10 11:37:00</guid>
-      <pubDate>Mon, 10 Feb 2025 11:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
