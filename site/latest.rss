@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 22:33:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 23:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
+      <description>10100 BLOCK LEWISDALE RD Radio: 9B Units: A259, CAR709D, A239, PRE709, C23B, 9B</description>
+      <guid isPermaLink="false">2025-02-13 17:56:00</guid>
+      <pubDate>Thu, 13 Feb 2025 17:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:36 pm</title>
+      <description>7600 BLOCK DEVILBISS BRIDGE RD, CUSTOM SIDING OF FREDERICK Radio: 9C Units: BR226, FS22, 9C</description>
+      <guid isPermaLink="false">2025-02-13 17:36:00</guid>
+      <pubDate>Thu, 13 Feb 2025 17:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 5:20 pm</title>
       <description>1000 BLOCK W PATRICK ST, BURLINGTON COAT FACTORY - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: E31, T4, 9C, E11</description>
@@ -294,18 +306,6 @@
       <description>27000 BLOCK RIDGE RD Units: E251, A259</description>
       <guid isPermaLink="false">2025-02-11 17:47:00</guid>
       <pubDate>Tue, 11 Feb 2025 17:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:02 pm</title>
-      <description>100 BLOCK MORAN CT Units: E31, E111, E291, E501, PE23, R2, T50, TW1, A299, ALS29, BC902, BC901, SAF901, FS29</description>
-      <guid isPermaLink="false">2025-02-11 17:02:00</guid>
-      <pubDate>Tue, 11 Feb 2025 17:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:50 pm</title>
-      <description>CRESTWOOD BLVD / FOXCROFT DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-02-11 16:50:00</guid>
-      <pubDate>Tue, 11 Feb 2025 16:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
