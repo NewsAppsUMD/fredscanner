@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 22:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 22:33:25 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:20 pm</title>
+      <description>1000 BLOCK W PATRICK ST, BURLINGTON COAT FACTORY - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: E31, T4, 9C, E11</description>
+      <guid isPermaLink="false">2025-02-13 17:20:00</guid>
+      <pubDate>Thu, 13 Feb 2025 17:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:52 pm</title>
       <description>11100 BLOCK CHURCH HILL RD Radio: 9C Units: 9C, BR216, BR85</description>
@@ -300,12 +306,6 @@
       <description>CRESTWOOD BLVD / FOXCROFT DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2025-02-11 16:50:00</guid>
       <pubDate>Tue, 11 Feb 2025 16:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:26 pm</title>
-      <description>1400 BLOCK TRAFALGAR LN Radio: 9C Units: E111, Q11, FS29, 9C</description>
-      <guid isPermaLink="false">2025-02-11 16:26:00</guid>
-      <pubDate>Tue, 11 Feb 2025 16:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
