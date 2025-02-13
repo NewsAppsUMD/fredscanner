@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 21:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 22:01:47 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:52 pm</title>
+      <description>11100 BLOCK CHURCH HILL RD Radio: 9C Units: 9C, BR216, BR85</description>
+      <guid isPermaLink="false">2025-02-13 16:52:00</guid>
+      <pubDate>Thu, 13 Feb 2025 16:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:47 pm</title>
+      <description>11100 BLOCK CHURCH HILL RD Radio: 9C Units: 9C, BR216, FS21</description>
+      <guid isPermaLink="false">2025-02-13 16:47:00</guid>
+      <pubDate>Thu, 13 Feb 2025 16:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:44 pm</title>
+      <description>2900 BLOCK GREENHILL CT Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-02-13 16:44:00</guid>
+      <pubDate>Thu, 13 Feb 2025 16:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
+      <description>900 BLOCK W SEVENTH ST, IFO COMMON MARKET Radio: 9B Units: PE23, 9B, A18</description>
+      <guid isPermaLink="false">2025-02-13 16:38:00</guid>
+      <pubDate>Thu, 13 Feb 2025 16:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUS ACCIDENT: 4:08 pm</title>
       <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9D Units: E132, R10, R6, A309, A229, A69, A299, PE102, E221, BC902, SAF901, EMS902, E61, 9D</description>
@@ -282,30 +306,6 @@
       <description>1400 BLOCK TRAFALGAR LN Radio: 9C Units: E111, Q11, FS29, 9C</description>
       <guid isPermaLink="false">2025-02-11 16:26:00</guid>
       <pubDate>Tue, 11 Feb 2025 16:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:37 pm</title>
-      <description>24500 BLOCK PEACHTREE RD Units: E231, PE311, A239, BC901, E251, K23, TT23</description>
-      <guid isPermaLink="false">2025-02-11 14:37:00</guid>
-      <pubDate>Tue, 11 Feb 2025 14:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:34 pm</title>
-      <description>24500 BLOCK PEACHTREE RD Units: E231, PE311, A239, E251, K23, TT23</description>
-      <guid isPermaLink="false">2025-02-11 14:34:00</guid>
-      <pubDate>Tue, 11 Feb 2025 14:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:30 pm</title>
-      <description>24500 BLOCK PEACHTREE RD Units: E231, E251, K23, TT23</description>
-      <guid isPermaLink="false">2025-02-11 14:30:00</guid>
-      <pubDate>Tue, 11 Feb 2025 14:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:51 pm</title>
-      <description>9500 BLOCK KEYS CHAPEL RD Radio: 9D Units: E153, E172, E162, CCE101, CAN1, VOLDC900, C11, CCU101, CMD17, C17, E291, K10, CCR8, Q11, R15, A169, ALS17, BC902, BC901, CCU10, EK114, EK134, CCK1, K1, SAF901, E251, RID, 9D, VOLAC900, K17, CCE12, K33, CCK14, R2, CCA89, CCE142, EMS902, W17, TTF, E331, MAU15, AU10</description>
-      <guid isPermaLink="false">2025-02-11 12:51:00</guid>
-      <pubDate>Tue, 11 Feb 2025 12:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
