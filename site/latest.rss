@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 19:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 19:31:25 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:23 pm</title>
+      <description>15100 BLOCK RODDY RD Radio: 9C Units: 9C, BR106</description>
+      <guid isPermaLink="false">2025-02-13 14:23:00</guid>
+      <pubDate>Thu, 13 Feb 2025 14:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 7:23 am</title>
       <description>GAS HOUSE PIKE / BOYERS MILL RD Radio: 9C Units: 9C, BR156</description>
@@ -300,12 +306,6 @@
       <description>KEYS CHAPEL RD / COPPERMINE RD Radio: 9D Units: E153, E172, E162, CCE81, CCE102, CCE101, E91, C11, C17, CCE141, CCR8, Q11, R15, A169, ALS17, BC902, BC901, SAF901, E111, E251, RID, FS17, 9D, K17, K9, CCE12, K33, CCK14, R2, CCA89, EMS902, W17</description>
       <guid isPermaLink="false">2025-02-11 12:01:00</guid>
       <pubDate>Tue, 11 Feb 2025 12:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:00 pm</title>
-      <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: E31, T4, 9C, FS15</description>
-      <guid isPermaLink="false">2025-02-11 12:00:00</guid>
-      <pubDate>Tue, 11 Feb 2025 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
