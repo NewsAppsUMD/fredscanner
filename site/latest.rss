@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Feb 2025 14:33:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 15:02:18 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:52 am</title>
+      <description>14500 BLOCK PENNERSVILLE RD, CASCADE ELEM SCHOOL Units: TW6</description>
+      <guid isPermaLink="false">2025-02-14 09:52:00</guid>
+      <pubDate>Fri, 14 Feb 2025 09:52:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:17 am</title>
       <description>8400 BLOCK OPOSSUMTOWN PIKE, SAINT JOHNS REGIONAL CATHOLIC SCHOOL Units: E291, TW1, FS29</description>
@@ -298,12 +304,6 @@
     <item>
       <title>ODOR OF SMOKE INSIDE: 9:32 pm</title>
       <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, PE23, Q11, 9C, BC902</description>
-      <guid isPermaLink="false">2025-02-11 21:32:00</guid>
-      <pubDate>Tue, 11 Feb 2025 21:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:32 pm</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, PE23, Q11, FS29, 9C, E31, BC902</description>
       <guid isPermaLink="false">2025-02-11 21:32:00</guid>
       <pubDate>Tue, 11 Feb 2025 21:32:00 -0500</pubDate>
     </item>
