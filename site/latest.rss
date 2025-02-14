@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Feb 2025 15:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 16:02:16 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 10:45 am</title>
+      <description>100 BLOCK BLK RAMP RT15-34100 BLOCK EB TO RT351 RAMP Units: PE311, FS31</description>
+      <guid isPermaLink="false">2025-02-14 10:45:00</guid>
+      <pubDate>Fri, 14 Feb 2025 10:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 9:52 am</title>
       <description>14500 BLOCK PENNERSVILLE RD, CASCADE ELEM SCHOOL Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK DAYSVILLE RD Radio: 9B Units: A248, E111, FS11, 9B</description>
       <guid isPermaLink="false">2025-02-12 00:56:00</guid>
       <pubDate>Wed, 12 Feb 2025 00:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:32 pm</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, PE23, Q11, 9C, BC902</description>
-      <guid isPermaLink="false">2025-02-11 21:32:00</guid>
-      <pubDate>Tue, 11 Feb 2025 21:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
