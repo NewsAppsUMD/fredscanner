@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Feb 2025 18:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 18:34:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
+      <description>4800 BLOCK BURKITTSVILLE RD Units: R19, A196, ALS4, RE52, EMS902, E201</description>
+      <guid isPermaLink="false">2025-02-15 13:25:00</guid>
+      <pubDate>Sat, 15 Feb 2025 13:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
+      <description>4800 BLOCK BURKITTSVILLE RD Units: R19, A196, ALS4, RE52, EMS902, E201</description>
+      <guid isPermaLink="false">2025-02-15 13:25:00</guid>
+      <pubDate>Sat, 15 Feb 2025 13:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
+      <description>4800 BLOCK BURKITTSVILLE RD Units: R19, A196, ALS4, RE52, EMS902, FS05</description>
+      <guid isPermaLink="false">2025-02-15 13:25:00</guid>
+      <pubDate>Sat, 15 Feb 2025 13:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:57 pm</title>
       <description>FOUR POINTS RD / SIXES BRIDGE RD Radio: 91D Units: EMS901, FS06, E132, R6, A69, CCM58, 91D</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9B Units: A309, E221, FS22, 9B</description>
       <guid isPermaLink="false">2025-02-13 18:48:00</guid>
       <pubDate>Thu, 13 Feb 2025 18:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:36 pm</title>
-      <description>1300 BLOCK BUTTERFLY LN Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-02-13 18:36:00</guid>
-      <pubDate>Thu, 13 Feb 2025 18:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:32 pm</title>
-      <description>MONROE AVE / MONOCACY BLVD Radio: 9C Units: BR35, 9C</description>
-      <guid isPermaLink="false">2025-02-13 18:32:00</guid>
-      <pubDate>Thu, 13 Feb 2025 18:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 6:07 pm</title>
-      <description>500 BLOCK STONE SPRINGS LN Radio: 9C Units: 9C, E72</description>
-      <guid isPermaLink="false">2025-02-13 18:07:00</guid>
-      <pubDate>Thu, 13 Feb 2025 18:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
