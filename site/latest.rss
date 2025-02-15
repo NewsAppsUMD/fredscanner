@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Feb 2025 16:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 17:01:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:57 am</title>
+      <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Units: E141, RE52, A196, E612, R19, A148, ALS4, BC903, EMS900, FS05</description>
+      <guid isPermaLink="false">2025-02-15 11:57:00</guid>
+      <pubDate>Sat, 15 Feb 2025 11:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:49 am</title>
+      <description>LIBERTY RD / 15S BTWN CHRISTOPHERS XING ON RAMP &amp; RT 26 BRDGE HWY, LIBERTY RD / RT15SB Units: E11, E291, R2, A299, A28, FS29</description>
+      <guid isPermaLink="false">2025-02-15 11:49:00</guid>
+      <pubDate>Sat, 15 Feb 2025 11:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:36 am</title>
+      <description>RT340WB / RT15 (JEFFERSON), RT340WB / RT15 Radio: 9D Units: E11, E201, R20, A18, A209, ALS20, BC903, EMS901, 9D</description>
+      <guid isPermaLink="false">2025-02-15 11:36:00</guid>
+      <pubDate>Sat, 15 Feb 2025 11:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:08 am</title>
       <description>200 BLOCK N SETON AVE Radio: 9C Units: PE102, R6, ACE232, 9C, E61</description>
@@ -288,24 +306,6 @@
       <description>4200 BLOCK URBANA PIKE Radio: 9B Units: ALS23, EMS901, C23B, A39, E231, 9B</description>
       <guid isPermaLink="false">2025-02-13 14:58:00</guid>
       <pubDate>Thu, 13 Feb 2025 14:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:52 pm</title>
-      <description>4200 BLOCK URBANA PIKE Radio: 9B Units: FS23, A39, E231, 9B</description>
-      <guid isPermaLink="false">2025-02-13 14:52:00</guid>
-      <pubDate>Thu, 13 Feb 2025 14:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:23 pm</title>
-      <description>15100 BLOCK RODDY RD Radio: 9C Units: 9C, BR106</description>
-      <guid isPermaLink="false">2025-02-13 14:23:00</guid>
-      <pubDate>Thu, 13 Feb 2025 14:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:23 am</title>
-      <description>GAS HOUSE PIKE / BOYERS MILL RD Radio: 9C Units: 9C, BR156</description>
-      <guid isPermaLink="false">2025-02-13 07:23:00</guid>
-      <pubDate>Thu, 13 Feb 2025 07:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
