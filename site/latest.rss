@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 21:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:31:20 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:26 pm</title>
+      <description>16000 BLOCK IRISHTOWN RD Radio: 91C Units: 91C, BR65, FS06</description>
+      <guid isPermaLink="false">2025-02-16 16:26:00</guid>
+      <pubDate>Sun, 16 Feb 2025 16:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:02 pm</title>
+      <description>IRA SEARS RD / PARK MILLS RD Radio: 9C Units: 9C, BR145, FS14</description>
+      <guid isPermaLink="false">2025-02-16 16:02:00</guid>
+      <pubDate>Sun, 16 Feb 2025 16:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:01 pm</title>
+      <description>FINGERBOARD RD / URBANA PIKE Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2025-02-16 16:01:00</guid>
+      <pubDate>Sun, 16 Feb 2025 16:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:58 pm</title>
+      <description>ED MCCLAIN RD / BUSH CREEK WAY, IAO Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:58:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:56 pm</title>
       <description>7000 BLOCK KIMMEL RD, KLINE FHH HOSPICE HOUSE Radio: 9C Units: T4, FS17, CCT1, C17, E172, 9C</description>
@@ -282,30 +306,6 @@
       <description>5900 BLOCK BARTONSVILLE RD Units: E331, FS33</description>
       <guid isPermaLink="false">2025-02-15 12:30:00</guid>
       <pubDate>Sat, 15 Feb 2025 12:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:28 pm</title>
-      <description>9200 BLOCK LIBERTY RD Radio: 9B Units: 9B, A299, E111, RE171, ALS29, FS11, C11B</description>
-      <guid isPermaLink="false">2025-02-15 12:28:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:26 pm</title>
-      <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD Radio: 9D Units: BC901, FS20, E201, EMS900, E11, R20, A196, A18, ALS20, 9D</description>
-      <guid isPermaLink="false">2025-02-15 12:26:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:24 pm</title>
-      <description>9200 BLOCK LIBERTY RD Units: A299, E111, FS11</description>
-      <guid isPermaLink="false">2025-02-15 12:24:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:23 pm</title>
-      <description>REICHS FORD RD / MONOCACY RIVER Radio: 9B Units: A28, T4, 9B</description>
-      <guid isPermaLink="false">2025-02-15 12:23:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
