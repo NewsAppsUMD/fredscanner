@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 20:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:01:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:56 pm</title>
+      <description>7000 BLOCK KIMMEL RD, KLINE FHH HOSPICE HOUSE Radio: 9C Units: T4, FS17, CCT1, C17, E172, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:56:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:51 pm</title>
+      <description>7000 BLOCK KIMMEL RD, KLINE FHH HOSPICE HOUSE Radio: 9C Units: CCT1, FS17, E172, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:51:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:47 pm</title>
+      <description>100 BLOCK TENTH AVE Radio: 9C Units: BR285, FS05, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:47:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:44 pm</title>
+      <description>100 BLOCK S MARYLAND AVE Radio: 9C Units: BR55, FS05, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:44:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:42 pm</title>
+      <description>200 BLOCK E FIFTH ST, VERNON AVE WATER TOWER Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:42:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:40 pm</title>
+      <description>3200 BLOCK PARK MILLS RD Radio: 9C Units: BR235, FS23, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:40:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:38 pm</title>
+      <description>BIGGS FORD RD / KENNETH DR Radio: 9C Units: BR116, FS11, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:38:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:35 pm</title>
+      <description>6300 BLOCKA DICKERSON RD Radio: 9C Units: BR145, FS14, 9C</description>
+      <guid isPermaLink="false">2025-02-16 15:35:00</guid>
+      <pubDate>Sun, 16 Feb 2025 15:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:21 pm</title>
       <description>WOODSBORO PIKE / ADVENTURE AVE Radio: 9D Units: A299, ALS29, EMS902, FS11, 9D, E111, R2</description>
@@ -258,54 +306,6 @@
       <description>REICHS FORD RD / MONOCACY RIVER Radio: 9B Units: A28, T4, 9B</description>
       <guid isPermaLink="false">2025-02-15 12:23:00</guid>
       <pubDate>Sat, 15 Feb 2025 12:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:17 pm</title>
-      <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: 9B, E31, R3, E331, A38, A339</description>
-      <guid isPermaLink="false">2025-02-15 12:17:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:13 pm</title>
-      <description>9600 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: BR226, FS22, 9C</description>
-      <guid isPermaLink="false">2025-02-15 12:13:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:10 pm</title>
-      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Radio: 9B Units: FS05, ALS20, E281, E201, R20, A196, A148, 9B</description>
-      <guid isPermaLink="false">2025-02-15 12:10:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:10 pm</title>
-      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Radio: 9B Units: FS05, ALS20, E201, E51, R20, A196, A148, 9B</description>
-      <guid isPermaLink="false">2025-02-15 12:10:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:01 pm</title>
-      <description>RT15SB / FITZGERALD RD, RT15SB / FITZGERALD RD Radio: 9I Units: R10, PE102, 9I, A69, ALS30, BC902</description>
-      <guid isPermaLink="false">2025-02-15 12:01:00</guid>
-      <pubDate>Sat, 15 Feb 2025 12:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 11:57 am</title>
-      <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Units: E141, RE52, A196, E612, R19, A148, ALS4, BC903, EMS900, FS05</description>
-      <guid isPermaLink="false">2025-02-15 11:57:00</guid>
-      <pubDate>Sat, 15 Feb 2025 11:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:49 am</title>
-      <description>LIBERTY RD / 15S BTWN CHRISTOPHERS XING ON RAMP &amp; RT 26 BRDGE HWY, LIBERTY RD / RT15SB Units: E11, E291, R2, A299, A28, FS29</description>
-      <guid isPermaLink="false">2025-02-15 11:49:00</guid>
-      <pubDate>Sat, 15 Feb 2025 11:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 11:36 am</title>
-      <description>RT340WB / RT15 (JEFFERSON), RT340WB / RT15 Radio: 9D Units: E11, E201, R20, A18, A209, ALS20, BC903, EMS901, 9D</description>
-      <guid isPermaLink="false">2025-02-15 11:36:00</guid>
-      <pubDate>Sat, 15 Feb 2025 11:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
