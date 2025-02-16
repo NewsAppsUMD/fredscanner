@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 22:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 23:01:47 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:31 pm</title>
+      <description>7400 BLOCK KIMMEL RD Units: BR176, FS17</description>
+      <guid isPermaLink="false">2025-02-16 17:31:00</guid>
+      <pubDate>Sun, 16 Feb 2025 17:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:19 pm</title>
       <description>ALBAUGH RD / UNIONVILLE RD, SECOND WIND FARM Radio: 9C Units: BR175, 9C, FS17</description>
@@ -294,12 +300,6 @@
       <description>DANCE HALL RD / GAS HOUSE PIKE Radio: 9B Units: A39, E111, FS33, 9B</description>
       <guid isPermaLink="false">2025-02-15 13:38:00</guid>
       <pubDate>Sat, 15 Feb 2025 13:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
-      <description>4800 BLOCK BURKITTSVILLE RD Units: R19, A196, ALS4, RE52, EMS902, E201</description>
-      <guid isPermaLink="false">2025-02-15 13:25:00</guid>
-      <pubDate>Sat, 15 Feb 2025 13:25:00 -0500</pubDate>
     </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
