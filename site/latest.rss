@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 11:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 12:03:08 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:41 am</title>
+      <description>4100 BLOCK BILL MOXLEY RD Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-02-17 06:41:00</guid>
+      <pubDate>Mon, 17 Feb 2025 06:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:16 am</title>
       <description>5100 BLOCK SHOOKSTOWN RD Radio: 9C Units: E121, 9C</description>
@@ -300,12 +306,6 @@
       <description>7800 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: E121, FS12, 9C</description>
       <guid isPermaLink="false">2025-02-16 08:08:00</guid>
       <pubDate>Sun, 16 Feb 2025 08:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:55 pm</title>
-      <description>3200 BLOCK SUNRISE DR Units: E281, FS28</description>
-      <guid isPermaLink="false">2025-02-15 22:55:00</guid>
-      <pubDate>Sat, 15 Feb 2025 22:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
