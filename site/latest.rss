@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Feb 2025 23:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:07:31 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 7:03 pm</title>
+      <description>100 BLOCK BLUE RIDGE AVE Units: BR106</description>
+      <guid isPermaLink="false">2025-02-16 19:03:00</guid>
+      <pubDate>Sun, 16 Feb 2025 19:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:02 pm</title>
+      <description>FOUNTAIN SCHOOL RD / MOLASSES RD Units: BR175, FS17</description>
+      <guid isPermaLink="false">2025-02-16 19:02:00</guid>
+      <pubDate>Sun, 16 Feb 2025 19:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:34 pm</title>
+      <description>COXEY BROWN RD / HARMONY RD Units: BR85</description>
+      <guid isPermaLink="false">2025-02-16 18:34:00</guid>
+      <pubDate>Sun, 16 Feb 2025 18:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:31 pm</title>
       <description>7400 BLOCK KIMMEL RD Units: BR176, FS17</description>
@@ -288,24 +306,6 @@
       <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: 9B, E11, E231, TT23, R3, A239, A19, FS23</description>
       <guid isPermaLink="false">2025-02-15 13:53:00</guid>
       <pubDate>Sat, 15 Feb 2025 13:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:39 pm</title>
-      <description>14100 BLOCK GRACEHAM RD, NVR BUILDING PRODUCTS Radio: 9D Units: PE102, R10, A309, BC902, EMS902, 9D, ALS30</description>
-      <guid isPermaLink="false">2025-02-15 13:39:00</guid>
-      <pubDate>Sat, 15 Feb 2025 13:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:38 pm</title>
-      <description>DANCE HALL RD / GAS HOUSE PIKE Radio: 9B Units: A39, E111, FS33, 9B</description>
-      <guid isPermaLink="false">2025-02-15 13:38:00</guid>
-      <pubDate>Sat, 15 Feb 2025 13:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:25 pm</title>
-      <description>4800 BLOCK BURKITTSVILLE RD Units: R19, A196, ALS4, RE52, EMS902, E201</description>
-      <guid isPermaLink="false">2025-02-15 13:25:00</guid>
-      <pubDate>Sat, 15 Feb 2025 13:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
