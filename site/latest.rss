@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 15:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 15:32:01 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:08 am</title>
+      <description>7700 BLOCK RIDGE RD Radio: 9C Units: FS12, 9C, E121</description>
+      <guid isPermaLink="false">2025-02-17 10:08:00</guid>
+      <pubDate>Mon, 17 Feb 2025 10:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:49 am</title>
       <description>MONOCACY BLVD / LIBERTY RD Units: E111, FS29</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK PRESIDENTS CT, JIMMY JOHNS Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
       <guid isPermaLink="false">2025-02-16 10:41:00</guid>
       <pubDate>Sun, 16 Feb 2025 10:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:33 am</title>
-      <description>1200 BLOCK VILLAGE GREEN WAY Radio: 9C Units: TW7, RE52, T5, 9C</description>
-      <guid isPermaLink="false">2025-02-16 10:33:00</guid>
-      <pubDate>Sun, 16 Feb 2025 10:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
