@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 00:07:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 00:46:20 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:17 pm</title>
+      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, E61</description>
+      <guid isPermaLink="false">2025-02-16 19:17:00</guid>
+      <pubDate>Sun, 16 Feb 2025 19:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:07 pm</title>
+      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102</description>
+      <guid isPermaLink="false">2025-02-16 19:07:00</guid>
+      <pubDate>Sun, 16 Feb 2025 19:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 7:03 pm</title>
       <description>100 BLOCK BLUE RIDGE AVE Units: BR106</description>
@@ -294,18 +306,6 @@
       <description>GAS HOUSE PIKE / SANANDREW DR Units: A159, R15, FS15</description>
       <guid isPermaLink="false">2025-02-15 14:19:00</guid>
       <pubDate>Sat, 15 Feb 2025 14:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:01 pm</title>
-      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT85 RAMP Units: PE311, A318</description>
-      <guid isPermaLink="false">2025-02-15 14:01:00</guid>
-      <pubDate>Sat, 15 Feb 2025 14:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:53 pm</title>
-      <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: 9B, E11, E231, TT23, R3, A239, A19, FS23</description>
-      <guid isPermaLink="false">2025-02-15 13:53:00</guid>
-      <pubDate>Sat, 15 Feb 2025 13:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
