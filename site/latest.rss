@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Feb 2025 23:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 00:06:59 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:02 pm</title>
+      <description>7900 BLOCK MARKER RD Units: E72, E82, TW7, K7</description>
+      <guid isPermaLink="false">2025-02-17 19:02:00</guid>
+      <pubDate>Mon, 17 Feb 2025 19:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:24 pm</title>
       <description>4700 BLOCK DE INVIERNO WAY Units: E153, FS15</description>
@@ -300,12 +306,6 @@
       <description>10500 BLOCK BRENDA AVE Radio: 9C Units: FS15, 9C, BR156</description>
       <guid isPermaLink="false">2025-02-16 15:17:00</guid>
       <pubDate>Sun, 16 Feb 2025 15:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:16 pm</title>
-      <description>200 BLOCK JEFFERSON PIKE Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-16 15:16:00</guid>
-      <pubDate>Sun, 16 Feb 2025 15:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
