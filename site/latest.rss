@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 21:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 22:01:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
+      <description>W SEVENTH ST / BIGGS AVE Radio: 9B Units: PE23, 9B, A28</description>
+      <guid isPermaLink="false">2025-02-18 16:43:00</guid>
+      <pubDate>Tue, 18 Feb 2025 16:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 2:20 pm</title>
       <description>12700 BLOCK COPPERMINE RD Radio: 9C Units: EK134, E172, E91, CCE81, Q11, SAF901, 9C, K17, A179, C17, BR176, BC901, E153, E111, BR96</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, EK64, E61</description>
       <guid isPermaLink="false">2025-02-16 19:47:00</guid>
       <pubDate>Sun, 16 Feb 2025 19:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:45 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, E61, E221</description>
-      <guid isPermaLink="false">2025-02-16 19:45:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
