@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 02:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 02:44:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:16 pm</title>
+      <description>3900 BLOCK DAISY CT Units: E251, FS25</description>
+      <guid isPermaLink="false">2025-02-17 21:16:00</guid>
+      <pubDate>Mon, 17 Feb 2025 21:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 8:59 pm</title>
+      <description>100 BLOCKL WILLOWDALE DR, Apt/Unit:104 Units: E291, R3, T4, Q11, A19, ALS2, BC903, BC902, SAF901, E31, E501, PE23, E11</description>
+      <guid isPermaLink="false">2025-02-17 20:59:00</guid>
+      <pubDate>Mon, 17 Feb 2025 20:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 8:42 pm</title>
       <description>300 BLOCK MANOR CT Units: E31</description>
@@ -294,18 +306,6 @@
       <description>7000 BLOCK KIMMEL RD, KLINE FHH HOSPICE HOUSE Radio: 9C Units: CCT1, FS17, E172, 9C</description>
       <guid isPermaLink="false">2025-02-16 15:51:00</guid>
       <pubDate>Sun, 16 Feb 2025 15:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:47 pm</title>
-      <description>100 BLOCK TENTH AVE Radio: 9C Units: BR285, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-16 15:47:00</guid>
-      <pubDate>Sun, 16 Feb 2025 15:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:44 pm</title>
-      <description>100 BLOCK S MARYLAND AVE Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-16 15:44:00</guid>
-      <pubDate>Sun, 16 Feb 2025 15:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
