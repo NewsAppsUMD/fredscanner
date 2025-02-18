@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 23:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 23:31:29 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 6:14 pm</title>
+      <description>11300 BLOCK SCENIC VIEW CT Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-02-18 18:14:00</guid>
+      <pubDate>Tue, 18 Feb 2025 18:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
       <description>W SEVENTH ST / BIGGS AVE Radio: 9B Units: PE23, 9B, A28</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK N EAST ST, Apt/Unit:UNIT 19, WARWICK APTS Units: PE23, E31, R3</description>
       <guid isPermaLink="false">2025-02-16 20:32:00</guid>
       <pubDate>Sun, 16 Feb 2025 20:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:47 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, EK64, E61</description>
-      <guid isPermaLink="false">2025-02-16 19:47:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
