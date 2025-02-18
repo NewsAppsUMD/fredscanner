@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 19:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 19:31:28 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 2:20 pm</title>
+      <description>12700 BLOCK COPPERMINE RD Radio: 9C Units: EK134, E172, E91, CCE81, Q11, SAF901, 9C, K17, A179, C17, BR176, BC901, E153, E111, BR96</description>
+      <guid isPermaLink="false">2025-02-18 14:20:00</guid>
+      <pubDate>Tue, 18 Feb 2025 14:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 2:14 pm</title>
+      <description>12700 BLOCK COPPERMINE RD Radio: 9C Units: E172, E91, CCE81, FS17, Q11, SAF901, 9C, K17, A179, BR176, BC901</description>
+      <guid isPermaLink="false">2025-02-18 14:14:00</guid>
+      <pubDate>Tue, 18 Feb 2025 14:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 1:51 pm</title>
       <description>NEW DESIGN RD / S MARKET ST, IAO Radio: 9C Units: BR35, 9C</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, E61, E221</description>
       <guid isPermaLink="false">2025-02-16 19:45:00</guid>
       <pubDate>Sun, 16 Feb 2025 19:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:17 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102, E61</description>
-      <guid isPermaLink="false">2025-02-16 19:17:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:07 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102</description>
-      <guid isPermaLink="false">2025-02-16 19:07:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
