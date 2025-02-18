@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 16:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 17:01:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:57 am</title>
+      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23, T4, 9C</description>
+      <guid isPermaLink="false">2025-02-18 11:57:00</guid>
+      <pubDate>Tue, 18 Feb 2025 11:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 10:13 am</title>
       <description>OPOSSUMTOWN PIKE / AMBER DR Radio: 9C Units: FS29, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>700 BLOCK PARK AVE Radio: 9C Units: 9C, FS05, BR55</description>
       <guid isPermaLink="false">2025-02-16 17:13:00</guid>
       <pubDate>Sun, 16 Feb 2025 17:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:07 pm</title>
-      <description>100 BLOCK COUNTRY CLUB TRL, SKI LIBERTY Units: TW6</description>
-      <guid isPermaLink="false">2025-02-16 17:07:00</guid>
-      <pubDate>Sun, 16 Feb 2025 17:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
