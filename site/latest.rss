@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 18:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 19:01:38 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 1:51 pm</title>
+      <description>NEW DESIGN RD / S MARKET ST, IAO Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-02-18 13:51:00</guid>
+      <pubDate>Tue, 18 Feb 2025 13:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:34 pm</title>
+      <description>1400 BLOCK WHEYFIELD DR, IAO Radio: 9C Units: E111, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-02-18 13:34:00</guid>
+      <pubDate>Tue, 18 Feb 2025 13:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 1:16 pm</title>
       <description>200 BLOCK SACHS RD Units: R6</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Units: PE102</description>
       <guid isPermaLink="false">2025-02-16 19:07:00</guid>
       <pubDate>Sun, 16 Feb 2025 19:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:03 pm</title>
-      <description>100 BLOCK BLUE RIDGE AVE Units: BR106</description>
-      <guid isPermaLink="false">2025-02-16 19:03:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:02 pm</title>
-      <description>FOUNTAIN SCHOOL RD / MOLASSES RD Units: BR175, FS17</description>
-      <guid isPermaLink="false">2025-02-16 19:02:00</guid>
-      <pubDate>Sun, 16 Feb 2025 19:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
