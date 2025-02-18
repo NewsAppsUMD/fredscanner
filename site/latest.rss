@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 18:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 18:36:38 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 1:16 pm</title>
+      <description>200 BLOCK SACHS RD Units: R6</description>
+      <guid isPermaLink="false">2025-02-18 13:16:00</guid>
+      <pubDate>Tue, 18 Feb 2025 13:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 1:02 pm</title>
+      <description>25500 BLOCK OAK DR Units: E251, A259</description>
+      <guid isPermaLink="false">2025-02-18 13:02:00</guid>
+      <pubDate>Tue, 18 Feb 2025 13:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 12:51 pm</title>
       <description>100 BLOCKB STEINER WAY Radio: 9C Units: E31, E23, T4, 9C</description>
@@ -294,18 +306,6 @@
       <description>FOUNTAIN SCHOOL RD / MOLASSES RD Units: BR175, FS17</description>
       <guid isPermaLink="false">2025-02-16 19:02:00</guid>
       <pubDate>Sun, 16 Feb 2025 19:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:34 pm</title>
-      <description>COXEY BROWN RD / HARMONY RD Units: BR85</description>
-      <guid isPermaLink="false">2025-02-16 18:34:00</guid>
-      <pubDate>Sun, 16 Feb 2025 18:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:31 pm</title>
-      <description>7400 BLOCK KIMMEL RD Units: BR176, FS17</description>
-      <guid isPermaLink="false">2025-02-16 17:31:00</guid>
-      <pubDate>Sun, 16 Feb 2025 17:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
