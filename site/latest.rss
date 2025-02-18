@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Feb 2025 15:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 15:33:42 +0000</lastBuildDate>
+    <item>
+      <title>FUEL SPILL: 10:13 am</title>
+      <description>OPOSSUMTOWN PIKE / AMBER DR Radio: 9C Units: FS29, 9C, E291</description>
+      <guid isPermaLink="false">2025-02-18 10:13:00</guid>
+      <pubDate>Tue, 18 Feb 2025 10:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 9:56 am</title>
       <description>2500 BLOCK SHELLEY CIR, Apt/Unit:2, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: E11, E501, R2</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK COUNTRY CLUB TRL, SKI LIBERTY Units: TW6</description>
       <guid isPermaLink="false">2025-02-16 17:07:00</guid>
       <pubDate>Sun, 16 Feb 2025 17:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:52 pm</title>
-      <description>8700 BLOCK APPLES CHURCH RD Radio: 9C Units: BR106, 9C</description>
-      <guid isPermaLink="false">2025-02-16 16:52:00</guid>
-      <pubDate>Sun, 16 Feb 2025 16:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
