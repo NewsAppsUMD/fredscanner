@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Feb 2025 15:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 15:33:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:04 am</title>
+      <description>100 BLOCK BLK RAMP RT351 TO RT15-34100 BLOCKEB RAMP Radio: 9B Units: PE311, FS31, 9B, A318</description>
+      <guid isPermaLink="false">2025-02-19 10:04:00</guid>
+      <pubDate>Wed, 19 Feb 2025 10:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 8:26 am</title>
       <description>1500 BLOCK FREEDMAN DR, Apt/Unit:MAIN_ENTR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E11, BC950, FS50, 9C, R2, E291</description>
@@ -300,12 +306,6 @@
       <description>7000 BLOCK DRUMMINE RD, LOTTE HUNTING FARM Radio: 9C Units: FS15, 9C, BR156</description>
       <guid isPermaLink="false">2025-02-17 07:01:00</guid>
       <pubDate>Mon, 17 Feb 2025 07:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:41 am</title>
-      <description>4100 BLOCK BILL MOXLEY RD Radio: 9C Units: E251, FS25, 9C</description>
-      <guid isPermaLink="false">2025-02-17 06:41:00</guid>
-      <pubDate>Mon, 17 Feb 2025 06:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
