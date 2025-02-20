@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 09:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 10:01:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:51 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:170, FREDERICK FOOT &amp; ANKLE Radio: 9C Units: T4, FS29, 9C, E291</description>
+      <guid isPermaLink="false">2025-02-20 04:51:00</guid>
+      <pubDate>Thu, 20 Feb 2025 04:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:37 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: PE23, T4, 9C</description>
+      <guid isPermaLink="false">2025-02-20 04:37:00</guid>
+      <pubDate>Thu, 20 Feb 2025 04:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:08 am</title>
       <description>800 BLOCK BEETZ RD Radio: HCB1 Units: R15, HCB1, E153</description>
@@ -294,18 +306,6 @@
       <description>9300 BLOCK CHICORY CT Radio: 9B Units: E231, FS23, 9B</description>
       <guid isPermaLink="false">2025-02-17 17:43:00</guid>
       <pubDate>Mon, 17 Feb 2025 17:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:37 pm</title>
-      <description>3700 BLOCK BASFORD RD Radio: 9C Units: FS20, 9C, E201</description>
-      <guid isPermaLink="false">2025-02-17 16:37:00</guid>
-      <pubDate>Mon, 17 Feb 2025 16:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:45 pm</title>
-      <description>200 BLOCK CITIZENS WAY, STATION JC002 - CITIZENS FC Units: RE52</description>
-      <guid isPermaLink="false">2025-02-17 15:45:00</guid>
-      <pubDate>Mon, 17 Feb 2025 15:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
