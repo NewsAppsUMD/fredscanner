@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 04:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 04:34:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:30 pm</title>
+      <description>500 BLOCK HIMES AVE, DUTCHS DAUGHTER RESTAURANT Radio: 9B Units: R3, A18, ALS31, EMS901, 9B, PE311</description>
+      <guid isPermaLink="false">2025-02-19 23:30:00</guid>
+      <pubDate>Wed, 19 Feb 2025 23:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 7:05 pm</title>
       <description>12100 BLOCK FINGERBOARD RD Radio: 9C Units: E251, E153, R15, K23, FS25, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9B Units: 9B, A339, E331, FS33</description>
       <guid isPermaLink="false">2025-02-17 13:13:00</guid>
       <pubDate>Mon, 17 Feb 2025 13:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:37 pm</title>
-      <description>E E ST / FIFTH AVE Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-17 12:37:00</guid>
-      <pubDate>Mon, 17 Feb 2025 12:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
