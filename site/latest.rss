@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 19:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 20:02:13 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 2:35 pm</title>
+      <description>12100 BLOCK CLYDE YOUNG RD Units: K17, E91, E162, Q11, EK134, A169, BC902, E111, FS09, C11</description>
+      <guid isPermaLink="false">2025-02-20 14:35:00</guid>
+      <pubDate>Thu, 20 Feb 2025 14:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 2:30 pm</title>
+      <description>12100 BLOCK CLYDE YOUNG RD Units: E91, E162, Q11, EK134, A169, FS09</description>
+      <guid isPermaLink="false">2025-02-20 14:30:00</guid>
+      <pubDate>Thu, 20 Feb 2025 14:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
       <description>500 BLOCK N BENTZ ST, FREDERICK DISCOUNT LIQUORS Units: PE23, T4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCKL WILLOWDALE DR, Apt/Unit:104 Units: E291, R3, T4, Q11, A19, ALS2, BC903, BC902, SAF901, E31, E501, PE23, E11</description>
       <guid isPermaLink="false">2025-02-17 20:59:00</guid>
       <pubDate>Mon, 17 Feb 2025 20:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:42 pm</title>
-      <description>300 BLOCK MANOR CT Units: E31</description>
-      <guid isPermaLink="false">2025-02-17 20:42:00</guid>
-      <pubDate>Mon, 17 Feb 2025 20:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:32 pm</title>
-      <description>3600 BLOCK MAR-LU-RIDGE RD Radio: 9C Units: E201, E141, R20, EK204, 9C</description>
-      <guid isPermaLink="false">2025-02-17 20:32:00</guid>
-      <pubDate>Mon, 17 Feb 2025 20:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
