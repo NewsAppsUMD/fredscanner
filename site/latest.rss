@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Feb 2025 05:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 05:33:32 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:08 am</title>
+      <description>800 BLOCK BEETZ RD Radio: HCB1 Units: R15, HCB1, E153</description>
+      <guid isPermaLink="false">2025-02-20 00:08:00</guid>
+      <pubDate>Thu, 20 Feb 2025 00:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 11:30 pm</title>
       <description>500 BLOCK HIMES AVE, DUTCHS DAUGHTER RESTAURANT Radio: 9B Units: R3, A18, ALS31, EMS901, 9B, PE311</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK CITIZENS WAY, STATION JC002 - CITIZENS FC Units: RE52</description>
       <guid isPermaLink="false">2025-02-17 15:45:00</guid>
       <pubDate>Mon, 17 Feb 2025 15:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:13 pm</title>
-      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9B Units: 9B, A339, E331, FS33</description>
-      <guid isPermaLink="false">2025-02-17 13:13:00</guid>
-      <pubDate>Mon, 17 Feb 2025 13:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
