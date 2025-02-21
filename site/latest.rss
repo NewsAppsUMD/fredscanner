@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 20:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 20:32:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:20 pm</title>
+      <description>W SOUTH ST / CENTER ST Radio: 9B Units: A39, R3, 9B</description>
+      <guid isPermaLink="false">2025-02-21 15:20:00</guid>
+      <pubDate>Fri, 21 Feb 2025 15:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 2:37 pm</title>
+      <description>100 BLOCK E PATRICK ST, SELECT SECONDS THRIFT SHOP Radio: 9C Units: 9C, C3C, T4, E31, PE23</description>
+      <guid isPermaLink="false">2025-02-21 14:37:00</guid>
+      <pubDate>Fri, 21 Feb 2025 14:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 2:36 pm</title>
+      <description>100 BLOCK E PATRICK ST, SELECT SECONDS THRIFT SHOP Radio: 9C Units: R3, 9C, E31, PE23</description>
+      <guid isPermaLink="false">2025-02-21 14:36:00</guid>
+      <pubDate>Fri, 21 Feb 2025 14:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:39 pm</title>
       <description>7900 BLOCK WORMANS MILL RD Radio: 9C Units: E111, T4, Q11, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK BLK RAMP RT351 TO RT15-34100 BLOCKEB RAMP Radio: 9B Units: PE311, FS31, 9B, A318</description>
       <guid isPermaLink="false">2025-02-19 10:04:00</guid>
       <pubDate>Wed, 19 Feb 2025 10:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 8:26 am</title>
-      <description>1500 BLOCK FREEDMAN DR, Apt/Unit:MAIN_ENTR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E11, BC950, FS50, 9C, R2, E291</description>
-      <guid isPermaLink="false">2025-02-19 08:26:00</guid>
-      <pubDate>Wed, 19 Feb 2025 08:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:18 am</title>
-      <description>BRUNSWICK ST / N DAYTON AVE Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-19 08:18:00</guid>
-      <pubDate>Wed, 19 Feb 2025 08:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - HAZMAT: 7:58 am</title>
-      <description>5200 BLOCK URBANA PIKE, POTOMAC VALLEY BRICK Units: E31, C3, ABT28, CMD3, R3, T4</description>
-      <guid isPermaLink="false">2025-02-19 07:58:00</guid>
-      <pubDate>Wed, 19 Feb 2025 07:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
