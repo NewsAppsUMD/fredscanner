@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 01:29:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 02:04:08 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 9:01 pm</title>
+      <description>8500 BLOCK ADVENTURE CT Units: EMS902, C11, C24, RID, E31, R3, W11, A169, CAN1, E172, T4, EK114, W24, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, R2, ALS29, SAF901, C2B, A299, EMS901, A28, ALS2, FTF2, E91, R20, MAU15</description>
+      <guid isPermaLink="false">2025-02-20 21:01:00</guid>
+      <pubDate>Thu, 20 Feb 2025 21:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:56 pm</title>
+      <description>8500 BLOCK ADVENTURE CT Units: C11, C24, RID, E31, R3, W11, A169, CAN1, T4, EK114, W24, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, R2, ALS29, SAF901, C2B, A299, EMS901, A28, ALS2, FS11, FTF2, E91, R20, TT23, MAU15</description>
+      <guid isPermaLink="false">2025-02-20 20:56:00</guid>
+      <pubDate>Thu, 20 Feb 2025 20:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:49 pm</title>
+      <description>8500 BLOCK ADVENTURE CT Units: C11, C24, RID, E31, R3, W11, FS11, T4, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, C2B, A299, EMS901</description>
+      <guid isPermaLink="false">2025-02-20 20:49:00</guid>
+      <pubDate>Thu, 20 Feb 2025 20:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:49 pm</title>
+      <description>8500 BLOCK ADVENTURE CT Units: C11, C24, T4, A248, BC902, BC901, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, C2B</description>
+      <guid isPermaLink="false">2025-02-20 20:49:00</guid>
+      <pubDate>Thu, 20 Feb 2025 20:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:44 pm</title>
+      <description>8500 BLOCK ADVENTURE CT Units: A248, BC902, BC901, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, FS11</description>
+      <guid isPermaLink="false">2025-02-20 20:44:00</guid>
+      <pubDate>Thu, 20 Feb 2025 20:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:53 pm</title>
       <description>1400 BLOCK BAKER PL W, Apt/Unit:42, RESIDENCES AT THE MANOR - 1400 BLOCK BAKER PL Units: E11, E31, T4</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCKB STEINER WAY Radio: 9C Units: E31, E23, T4, 9C</description>
       <guid isPermaLink="false">2025-02-18 12:51:00</guid>
       <pubDate>Tue, 18 Feb 2025 12:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:14 pm</title>
-      <description>8200 BLOCK RESEARCH PLZ, FORT DETRICK - BLDG 8200 BLOCK - USAMRIID Radio: 9C Units: E501, TW1, BC950, FS50, 9C</description>
-      <guid isPermaLink="false">2025-02-18 12:14:00</guid>
-      <pubDate>Tue, 18 Feb 2025 12:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:57 am</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23, T4, 9C</description>
-      <guid isPermaLink="false">2025-02-18 11:57:00</guid>
-      <pubDate>Tue, 18 Feb 2025 11:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 10:13 am</title>
-      <description>OPOSSUMTOWN PIKE / AMBER DR Radio: 9C Units: FS29, 9C, E291</description>
-      <guid isPermaLink="false">2025-02-18 10:13:00</guid>
-      <pubDate>Tue, 18 Feb 2025 10:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 9:56 am</title>
-      <description>2500 BLOCK SHELLEY CIR, Apt/Unit:2, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: E11, E501, R2</description>
-      <guid isPermaLink="false">2025-02-18 09:56:00</guid>
-      <pubDate>Tue, 18 Feb 2025 09:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:38 am</title>
-      <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2025-02-18 09:38:00</guid>
-      <pubDate>Tue, 18 Feb 2025 09:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
