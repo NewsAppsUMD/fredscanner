@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 22:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 23:01:45 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:46 pm</title>
+      <description>11600 BLOCK MICA PLACE Units: E141, T5, K5, R20</description>
+      <guid isPermaLink="false">2025-02-21 17:46:00</guid>
+      <pubDate>Fri, 21 Feb 2025 17:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:46 pm</title>
+      <description>11600 BLOCK MICA PL Units: E141, BC903, T5, K5, R20</description>
+      <guid isPermaLink="false">2025-02-21 17:46:00</guid>
+      <pubDate>Fri, 21 Feb 2025 17:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:39 pm</title>
+      <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-02-21 17:39:00</guid>
+      <pubDate>Fri, 21 Feb 2025 17:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:40 pm</title>
       <description>600 BLOCK BIGGS AVE Radio: 9D Units: E11, 9D, R3, A39, ALS2, EMS902</description>
@@ -288,24 +306,6 @@
       <description>JEFFERSON PIKE / OLIVE SCHOOL RD Radio: 9B Units: A196, RE52, 9B, FS05</description>
       <guid isPermaLink="false">2025-02-19 18:52:00</guid>
       <pubDate>Wed, 19 Feb 2025 18:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:37 pm</title>
-      <description>COPPERMINE RD / BESSIE CLEMSON RD Radio: 9C Units: BR175, FS17, 9C</description>
-      <guid isPermaLink="false">2025-02-19 18:37:00</guid>
-      <pubDate>Wed, 19 Feb 2025 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:51 pm</title>
-      <description>5600 BLOCK URBANA PIKE, MAYS RESTAURANT Units: A319, E31</description>
-      <guid isPermaLink="false">2025-02-19 15:51:00</guid>
-      <pubDate>Wed, 19 Feb 2025 15:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:13 pm</title>
-      <description>6100 BLOCK FIELDCREST DR Units: E331, FS33</description>
-      <guid isPermaLink="false">2025-02-19 13:13:00</guid>
-      <pubDate>Wed, 19 Feb 2025 13:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
