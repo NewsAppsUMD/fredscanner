@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Feb 2025 02:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 02:45:03 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:09 pm</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E61</description>
+      <guid isPermaLink="false">2025-02-20 21:09:00</guid>
+      <pubDate>Thu, 20 Feb 2025 21:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:07 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E72</description>
+      <guid isPermaLink="false">2025-02-20 21:07:00</guid>
+      <pubDate>Thu, 20 Feb 2025 21:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:06 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E201</description>
+      <guid isPermaLink="false">2025-02-20 21:06:00</guid>
+      <pubDate>Thu, 20 Feb 2025 21:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:01 pm</title>
       <description>8500 BLOCK ADVENTURE CT Units: EMS902, C11, C24, RID, E31, R3, W11, A169, CAN1, E172, T4, EK114, W24, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, R2, ALS29, SAF901, C2B, A299, EMS901, A28, ALS2, FTF2, E91, R20, MAU15</description>
@@ -288,24 +306,6 @@
       <description>1400 BLOCK WHEYFIELD DR, IAO Radio: 9C Units: E111, Q11, FS29, 9C</description>
       <guid isPermaLink="false">2025-02-18 13:34:00</guid>
       <pubDate>Tue, 18 Feb 2025 13:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 1:16 pm</title>
-      <description>200 BLOCK SACHS RD Units: R6</description>
-      <guid isPermaLink="false">2025-02-18 13:16:00</guid>
-      <pubDate>Tue, 18 Feb 2025 13:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 1:02 pm</title>
-      <description>25500 BLOCK OAK DR Units: E251, A259</description>
-      <guid isPermaLink="false">2025-02-18 13:02:00</guid>
-      <pubDate>Tue, 18 Feb 2025 13:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 12:51 pm</title>
-      <description>100 BLOCKB STEINER WAY Radio: 9C Units: E31, E23, T4, 9C</description>
-      <guid isPermaLink="false">2025-02-18 12:51:00</guid>
-      <pubDate>Tue, 18 Feb 2025 12:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
