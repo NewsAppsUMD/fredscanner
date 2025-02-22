@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 07:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:02:07 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:56 am</title>
+      <description>1800 BLOCK WEYBRIDGE RD Radio: 9C Units: 9C, E11</description>
+      <guid isPermaLink="false">2025-02-22 02:56:00</guid>
+      <pubDate>Sat, 22 Feb 2025 02:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 11:46 pm</title>
       <description>ROSEMONT DR / BURKITTSVILLE RD Units: E281, A196, A198, ALS20, BC903, BC901, EMS901, FS05, RE52, E201, JCRE1, E612, R19, T5, R20, SAF901</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: PE23, T4, 9C</description>
       <guid isPermaLink="false">2025-02-20 04:37:00</guid>
       <pubDate>Thu, 20 Feb 2025 04:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:08 am</title>
-      <description>800 BLOCK BEETZ RD Radio: HCB1 Units: R15, HCB1, E153</description>
-      <guid isPermaLink="false">2025-02-20 00:08:00</guid>
-      <pubDate>Thu, 20 Feb 2025 00:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
