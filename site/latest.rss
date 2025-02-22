@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 22:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 22:32:20 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 5:09 pm</title>
+      <description>100 BLOCK LOVETT DR Units: T5</description>
+      <guid isPermaLink="false">2025-02-22 17:09:00</guid>
+      <pubDate>Sat, 22 Feb 2025 17:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:03 pm</title>
+      <description>MONOCACY BLVD / LAUREL WOOD WAY Radio: 9B Units: A248, E111, FS29, 9B</description>
+      <guid isPermaLink="false">2025-02-22 17:03:00</guid>
+      <pubDate>Sat, 22 Feb 2025 17:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 4:18 pm</title>
       <description>1600 BLOCK MISTY MEADOW CIR, Apt/Unit:302 Radio: 9C Units: C3B, E121, TT4, 9C, E31, PE23, A18, ALS4, BC902, E11, BC903, R3, TW7, E501, SAF901</description>
@@ -294,18 +306,6 @@
       <description>8500 BLOCK ADVENTURE CT Units: C11, C24, RID, E31, R3, W11, FS11, T4, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, C2B, A299, EMS901</description>
       <guid isPermaLink="false">2025-02-20 20:49:00</guid>
       <pubDate>Thu, 20 Feb 2025 20:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:49 pm</title>
-      <description>8500 BLOCK ADVENTURE CT Units: C11, C24, T4, A248, BC902, BC901, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, C2B</description>
-      <guid isPermaLink="false">2025-02-20 20:49:00</guid>
-      <pubDate>Thu, 20 Feb 2025 20:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:44 pm</title>
-      <description>8500 BLOCK ADVENTURE CT Units: A248, BC902, BC901, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, FS11</description>
-      <guid isPermaLink="false">2025-02-20 20:44:00</guid>
-      <pubDate>Thu, 20 Feb 2025 20:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
