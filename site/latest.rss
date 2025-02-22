@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 16:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 17:01:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:54 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, FCPS WAREHOUSE - GOVERNORS CHOICE Radio: 9C Units: E291, 9C, FS29</description>
+      <guid isPermaLink="false">2025-02-22 11:54:00</guid>
+      <pubDate>Sat, 22 Feb 2025 11:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:33 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, FCPS WAREHOUSE - GOVERNORS CHOICE Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2025-02-22 11:33:00</guid>
+      <pubDate>Sat, 22 Feb 2025 11:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:05 am</title>
       <description>100 BLOCK THOMAS JOHNSON DR, FCPS WAREHOUSE - GOVERNORS CHOICE Radio: 9C Units: Q11, FS29, 9C, E291</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK N BENTZ ST, FREDERICK DISCOUNT LIQUORS Units: PE23, T4</description>
       <guid isPermaLink="false">2025-02-20 13:46:00</guid>
       <pubDate>Thu, 20 Feb 2025 13:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 1:04 pm</title>
-      <description>100 BLOCK KING AVE Units: E331, E31, T4</description>
-      <guid isPermaLink="false">2025-02-20 13:04:00</guid>
-      <pubDate>Thu, 20 Feb 2025 13:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:54 pm</title>
-      <description>CORPORATE DR / NEW DESIGN RD Units: A39, E311, FS31</description>
-      <guid isPermaLink="false">2025-02-20 12:54:00</guid>
-      <pubDate>Thu, 20 Feb 2025 12:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
