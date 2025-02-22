@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 11:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 11:31:32 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:00 am</title>
+      <description>I270NB / 31MM, I270NB / 31MM Radio: 9B Units: A239, FS23, 9B, E232</description>
+      <guid isPermaLink="false">2025-02-22 06:00:00</guid>
+      <pubDate>Sat, 22 Feb 2025 06:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:56 am</title>
       <description>1800 BLOCK WEYBRIDGE RD Radio: 9C Units: 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:170, FREDERICK FOOT &amp; ANKLE Radio: 9C Units: T4, FS29, 9C, E291</description>
       <guid isPermaLink="false">2025-02-20 04:51:00</guid>
       <pubDate>Thu, 20 Feb 2025 04:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:37 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: PE23, T4, 9C</description>
-      <guid isPermaLink="false">2025-02-20 04:37:00</guid>
-      <pubDate>Thu, 20 Feb 2025 04:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
