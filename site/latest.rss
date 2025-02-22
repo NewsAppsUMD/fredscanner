@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Feb 2025 17:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 18:02:08 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 12:49 pm</title>
+      <description>10800 BLOCK WOODSBORO RD, WOODSBORO COMMUNITY PARK Radio: 9C Units: E162, FS16, 9C</description>
+      <guid isPermaLink="false">2025-02-22 12:49:00</guid>
+      <pubDate>Sat, 22 Feb 2025 12:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 12:48 pm</title>
+      <description>MOUNT TABOR RD / MILT SUMMERS RD Radio: 9C Units: 9C, E82, K7, BR85, BR75</description>
+      <guid isPermaLink="false">2025-02-22 12:48:00</guid>
+      <pubDate>Sat, 22 Feb 2025 12:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 12:46 pm</title>
+      <description>MOUNT TABOR RD / MILT SUMMERS RD Radio: 9C Units: 9C, E82, K7, BR85</description>
+      <guid isPermaLink="false">2025-02-22 12:46:00</guid>
+      <pubDate>Sat, 22 Feb 2025 12:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:54 am</title>
       <description>100 BLOCK THOMAS JOHNSON DR, FCPS WAREHOUSE - GOVERNORS CHOICE Radio: 9C Units: E291, 9C, FS29</description>
@@ -288,24 +306,6 @@
       <description>I270NB / RT85, I270NB / RT85 Units: FS23, A238, A18, ALS23, BC903, EMS901, E232, E11, TT23, R3</description>
       <guid isPermaLink="false">2025-02-20 16:47:00</guid>
       <pubDate>Thu, 20 Feb 2025 16:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:35 pm</title>
-      <description>12100 BLOCK CLYDE YOUNG RD Units: K17, E91, E162, Q11, EK134, A169, BC902, E111, FS09, C11</description>
-      <guid isPermaLink="false">2025-02-20 14:35:00</guid>
-      <pubDate>Thu, 20 Feb 2025 14:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:30 pm</title>
-      <description>12100 BLOCK CLYDE YOUNG RD Units: E91, E162, Q11, EK134, A169, FS09</description>
-      <guid isPermaLink="false">2025-02-20 14:30:00</guid>
-      <pubDate>Thu, 20 Feb 2025 14:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
-      <description>500 BLOCK N BENTZ ST, FREDERICK DISCOUNT LIQUORS Units: PE23, T4</description>
-      <guid isPermaLink="false">2025-02-20 13:46:00</guid>
-      <pubDate>Thu, 20 Feb 2025 13:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
