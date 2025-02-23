@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 07:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 07:31:24 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 2:24 am</title>
+      <description>6900 BLOCK SUNDAYS LN Radio: 9C Units: E291, EK224, Q11, EK114, FS29, 9C</description>
+      <guid isPermaLink="false">2025-02-23 02:24:00</guid>
+      <pubDate>Sun, 23 Feb 2025 02:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 9:44 pm</title>
       <description>11400 BLOCK SIMMONS RD, BRIDGEPORT SALT DOME Radio: 9C Units: E61, CCLDR5, EK64, A68, FS06, 9C, CCE52</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E201</description>
       <guid isPermaLink="false">2025-02-20 21:06:00</guid>
       <pubDate>Thu, 20 Feb 2025 21:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:01 pm</title>
-      <description>8500 BLOCK ADVENTURE CT Units: EMS902, C11, C24, RID, E31, R3, W11, A169, CAN1, E172, T4, EK114, W24, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, R2, ALS29, SAF901, C2B, A299, EMS901, A28, ALS2, FTF2, E91, R20, MAU15</description>
-      <guid isPermaLink="false">2025-02-20 21:01:00</guid>
-      <pubDate>Thu, 20 Feb 2025 21:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
