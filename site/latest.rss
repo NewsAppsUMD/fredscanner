@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 23:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:31:37 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:19 pm</title>
+      <description>15200 BLOCK BLACK ANKLE RD Radio: 9C Units: C17, CCBR145, E172, CCC1, BR175, 9C</description>
+      <guid isPermaLink="false">2025-02-23 18:19:00</guid>
+      <pubDate>Sun, 23 Feb 2025 18:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:10 pm</title>
+      <description>15200 BLOCK BLACK ANKLE RD Radio: 9C Units: CCBR145, BR175, FS17, 9C</description>
+      <guid isPermaLink="false">2025-02-23 18:10:00</guid>
+      <pubDate>Sun, 23 Feb 2025 18:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:05 pm</title>
+      <description>15200 BLOCK BLACK ANKLE RD Units: CCBR145, FS17</description>
+      <guid isPermaLink="false">2025-02-23 18:05:00</guid>
+      <pubDate>Sun, 23 Feb 2025 18:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 3:33 pm</title>
       <description>20500 BLOCK DARNESTOWN RD Units: BR285</description>
@@ -288,24 +306,6 @@
       <description>W SOUTH ST / CENTER ST Radio: 9B Units: A39, R3, 9B</description>
       <guid isPermaLink="false">2025-02-21 15:20:00</guid>
       <pubDate>Fri, 21 Feb 2025 15:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 2:37 pm</title>
-      <description>100 BLOCK E PATRICK ST, SELECT SECONDS THRIFT SHOP Radio: 9C Units: 9C, C3C, T4, E31, PE23</description>
-      <guid isPermaLink="false">2025-02-21 14:37:00</guid>
-      <pubDate>Fri, 21 Feb 2025 14:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 2:36 pm</title>
-      <description>100 BLOCK E PATRICK ST, SELECT SECONDS THRIFT SHOP Radio: 9C Units: R3, 9C, E31, PE23</description>
-      <guid isPermaLink="false">2025-02-21 14:36:00</guid>
-      <pubDate>Fri, 21 Feb 2025 14:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:39 pm</title>
-      <description>7900 BLOCK WORMANS MILL RD Radio: 9C Units: E111, T4, Q11, 9C</description>
-      <guid isPermaLink="false">2025-02-21 13:39:00</guid>
-      <pubDate>Fri, 21 Feb 2025 13:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
