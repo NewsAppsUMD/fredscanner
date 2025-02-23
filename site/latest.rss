@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 00:07:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 00:46:31 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:22 pm</title>
+      <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: A158</description>
+      <guid isPermaLink="false">2025-02-22 19:22:00</guid>
+      <pubDate>Sat, 22 Feb 2025 19:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 5:09 pm</title>
       <description>100 BLOCK LOVETT DR Units: T5</description>
@@ -300,12 +306,6 @@
       <description>8500 BLOCK ADVENTURE CT Units: C11, C24, RID, E31, R3, W11, A169, CAN1, T4, EK114, W24, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, R2, ALS29, SAF901, C2B, A299, EMS901, A28, ALS2, FS11, FTF2, E91, R20, TT23, MAU15</description>
       <guid isPermaLink="false">2025-02-20 20:56:00</guid>
       <pubDate>Thu, 20 Feb 2025 20:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:49 pm</title>
-      <description>8500 BLOCK ADVENTURE CT Units: C11, C24, RID, E31, R3, W11, FS11, T4, A248, BC902, BC901, CMD11, E111, E291, E162, E11, E501, R24, Q11, R2, ALS29, SAF901, C2B, A299, EMS901</description>
-      <guid isPermaLink="false">2025-02-20 20:49:00</guid>
-      <pubDate>Thu, 20 Feb 2025 20:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
