@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 16:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 16:34:07 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 11:29 am</title>
+      <description>10600 BLOCK DORCUS RD Radio: 9C Units: FS16, 9C, E162</description>
+      <guid isPermaLink="false">2025-02-23 11:29:00</guid>
+      <pubDate>Sun, 23 Feb 2025 11:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 11:25 am</title>
+      <description>11900 BLOCK TANEYTOWN PIKE Units: E61, CCEK54, R6, EK64, FS06, CCM59</description>
+      <guid isPermaLink="false">2025-02-23 11:25:00</guid>
+      <pubDate>Sun, 23 Feb 2025 11:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:33 am</title>
       <description>11100 BLOCK TANEYTOWN PIKE Radio: 9B Units: 9B, CCA58, E61, FS06</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK MARGARITA WAY Units: PE311, T4, E11</description>
       <guid isPermaLink="false">2025-02-21 11:38:00</guid>
       <pubDate>Fri, 21 Feb 2025 11:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 10:44 am</title>
-      <description>2500 BLOCK SHELLEY CIR, Apt/Unit:2-B, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: E11, HM33, HMSU33, A18, SAF901, ALS2, E501, T4, BC902</description>
-      <guid isPermaLink="false">2025-02-21 10:44:00</guid>
-      <pubDate>Fri, 21 Feb 2025 10:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:18 am</title>
-      <description>2000 BLOCK COHASSET CT Units: E11</description>
-      <guid isPermaLink="false">2025-02-21 10:18:00</guid>
-      <pubDate>Fri, 21 Feb 2025 10:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
