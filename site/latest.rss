@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Feb 2025 09:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 09:31:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:06 am</title>
+      <description>STAUFFER RD / CRUM RD Radio: 9D Units: E111, R24, A248, ALS17, EMS902, 9D, FS11</description>
+      <guid isPermaLink="false">2025-02-23 04:06:00</guid>
+      <pubDate>Sun, 23 Feb 2025 04:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:44 am</title>
       <description>I70WB / RT75, I70WB / RT75 Radio: 9C Units: E153, E331, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STEINER WAY, Apt/Unit:A Units: T4</description>
       <guid isPermaLink="false">2025-02-21 06:08:00</guid>
       <pubDate>Fri, 21 Feb 2025 06:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:31 am</title>
-      <description>9800 BLOCKA LIBERTY RD Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2025-02-21 05:31:00</guid>
-      <pubDate>Fri, 21 Feb 2025 05:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
