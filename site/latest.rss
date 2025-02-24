@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Feb 2025 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 17:32:20 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 12:14 pm</title>
+      <description>6500 BLOCK OLD NATIONAL PIKE Units: RE74, BR85, E82, K7</description>
+      <guid isPermaLink="false">2025-02-24 12:14:00</guid>
+      <pubDate>Mon, 24 Feb 2025 12:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 11:37 am</title>
       <description>4900 BLOCK MUSSETTER RD Units: E153, E251, R15, FS15</description>
@@ -300,12 +306,6 @@
       <description>MOUNT TABOR RD / MILT SUMMERS RD Radio: 9C Units: 9C, E82, K7, BR85</description>
       <guid isPermaLink="false">2025-02-22 12:46:00</guid>
       <pubDate>Sat, 22 Feb 2025 12:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:54 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, FCPS WAREHOUSE - GOVERNORS CHOICE Radio: 9C Units: E291, 9C, FS29</description>
-      <guid isPermaLink="false">2025-02-22 11:54:00</guid>
-      <pubDate>Sat, 22 Feb 2025 11:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
