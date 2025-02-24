@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Feb 2025 19:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 19:31:26 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 2:07 pm</title>
+      <description>8900 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: E11, Q11, K1, BC902, SAF901, 9C, BR16, FS29, E501, A19, E291</description>
+      <guid isPermaLink="false">2025-02-24 14:07:00</guid>
+      <pubDate>Mon, 24 Feb 2025 14:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:14 pm</title>
       <description>6500 BLOCK OLD NATIONAL PIKE Units: RE74, BR85, E82, K7</description>
@@ -300,12 +306,6 @@
       <description>MOUNT TABOR RD / MILT SUMMERS RD Radio: 9C Units: 9C, E82, K7, BR85, BR75</description>
       <guid isPermaLink="false">2025-02-22 12:48:00</guid>
       <pubDate>Sat, 22 Feb 2025 12:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 12:46 pm</title>
-      <description>MOUNT TABOR RD / MILT SUMMERS RD Radio: 9C Units: 9C, E82, K7, BR85</description>
-      <guid isPermaLink="false">2025-02-22 12:46:00</guid>
-      <pubDate>Sat, 22 Feb 2025 12:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
