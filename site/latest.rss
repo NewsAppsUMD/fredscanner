@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 19:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 19:31:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:13 pm</title>
+      <description>100 BLOCK S MARKET ST, SV FREDERICK LLC Radio: 9C Units: TT4, E31, 9C, PE23</description>
+      <guid isPermaLink="false">2025-02-25 14:13:00</guid>
+      <pubDate>Tue, 25 Feb 2025 14:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:11 pm</title>
+      <description>100 BLOCK S MARKET ST, SV FREDERICK LLC Radio: 9C Units: TT4, E31, 9C</description>
+      <guid isPermaLink="false">2025-02-25 14:11:00</guid>
+      <pubDate>Tue, 25 Feb 2025 14:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 12:43 pm</title>
       <description>300 BLOCK E THIRD ST Radio: 9C Units: PE23, 9C</description>
@@ -294,18 +306,6 @@
       <description>10600 BLOCK DORCUS RD Radio: 9C Units: FS16, 9C, E162</description>
       <guid isPermaLink="false">2025-02-23 11:29:00</guid>
       <pubDate>Sun, 23 Feb 2025 11:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 11:25 am</title>
-      <description>11900 BLOCK TANEYTOWN PIKE Units: E61, CCEK54, R6, EK64, FS06, CCM59</description>
-      <guid isPermaLink="false">2025-02-23 11:25:00</guid>
-      <pubDate>Sun, 23 Feb 2025 11:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:33 am</title>
-      <description>11100 BLOCK TANEYTOWN PIKE Radio: 9B Units: 9B, CCA58, E61, FS06</description>
-      <guid isPermaLink="false">2025-02-23 10:33:00</guid>
-      <pubDate>Sun, 23 Feb 2025 10:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
