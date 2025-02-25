@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Feb 2025 14:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 14:34:47 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:13 am</title>
+      <description>2700 BLOCK PARK MILLS RD Radio: 9C Units: 9C, E232, E141, TT23, K23, FS23</description>
+      <guid isPermaLink="false">2025-02-25 09:13:00</guid>
+      <pubDate>Tue, 25 Feb 2025 09:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 8:57 am</title>
       <description>6700 BLOCK SINGLETREE CT Radio: 9C Units: FS31, 9C, PE311, E31, TT4</description>
@@ -298,12 +304,6 @@
     <item>
       <title>UNKNOWN ODOR INSIDE: 2:29 am</title>
       <description>6900 BLOCK SUNDAYS LN Radio: 9C Units: E291, EK224, Q11, EK114, 9C, E11, K1, FS29</description>
-      <guid isPermaLink="false">2025-02-23 02:29:00</guid>
-      <pubDate>Sun, 23 Feb 2025 02:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 2:29 am</title>
-      <description>6900 BLOCK SUNDAYS LN Radio: 9C Units: E291, EK224, Q11, EK114, 9C, E11, K1</description>
       <guid isPermaLink="false">2025-02-23 02:29:00</guid>
       <pubDate>Sun, 23 Feb 2025 02:29:00 -0500</pubDate>
     </item>
