@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 18:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 19:01:56 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 1:57 pm</title>
+      <description>7600 BLOCK MAPLEVILLE RD Radio: TAC1OPS Units: K7, E82, E72, BR85, BC903, BR75, TAC1OPS, WILDLAND7</description>
+      <guid isPermaLink="false">2025-02-26 13:57:00</guid>
+      <pubDate>Wed, 26 Feb 2025 13:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 1:45 pm</title>
+      <description>7600 BLOCK MAPLEVILLE RD Radio: TAC1OPS Units: K7, E72, BR85, BC903, BR75, TAC1OPS, K21</description>
+      <guid isPermaLink="false">2025-02-26 13:45:00</guid>
+      <pubDate>Wed, 26 Feb 2025 13:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 1:44 pm</title>
+      <description>4800 BLOCK BROAD RUN RD Units: BR205</description>
+      <guid isPermaLink="false">2025-02-26 13:44:00</guid>
+      <pubDate>Wed, 26 Feb 2025 13:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:42 pm</title>
+      <description>4900 BLOCK WESTVIEW DR, HOMEWOOD SUITES Radio: 9C Units: FS31, 9C, PE311, TT4</description>
+      <guid isPermaLink="false">2025-02-26 13:42:00</guid>
+      <pubDate>Wed, 26 Feb 2025 13:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 1:37 pm</title>
+      <description>7600 BLOCK MAPLEVILLE RD Radio: TAC1OPS Units: K7, BR75, TAC1OPS, K21</description>
+      <guid isPermaLink="false">2025-02-26 13:37:00</guid>
+      <pubDate>Wed, 26 Feb 2025 13:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 1:30 pm</title>
       <description>7600 BLOCK MAPLEVILLE RD Radio: TAC1OPS Units: K7, BR75, TAC1OPS</description>
@@ -276,36 +306,6 @@
       <description>8900 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: E11, Q11, K1, BC902, SAF901, 9C, BR16, FS29, E501, A19, E291</description>
       <guid isPermaLink="false">2025-02-24 14:07:00</guid>
       <pubDate>Mon, 24 Feb 2025 14:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:14 pm</title>
-      <description>6500 BLOCK OLD NATIONAL PIKE Units: RE74, BR85, E82, K7</description>
-      <guid isPermaLink="false">2025-02-24 12:14:00</guid>
-      <pubDate>Mon, 24 Feb 2025 12:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:37 am</title>
-      <description>4900 BLOCK MUSSETTER RD Units: E153, E251, R15, FS15</description>
-      <guid isPermaLink="false">2025-02-24 11:37:00</guid>
-      <pubDate>Mon, 24 Feb 2025 11:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 11:33 am</title>
-      <description>4900 BLOCK MUSSETTER RD Units: E153, FS15</description>
-      <guid isPermaLink="false">2025-02-24 11:33:00</guid>
-      <pubDate>Mon, 24 Feb 2025 11:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 11:03 am</title>
-      <description>13400 BLOCK REED RD Radio: 9D Units: PE102, 9D, K10, BR106</description>
-      <guid isPermaLink="false">2025-02-24 11:03:00</guid>
-      <pubDate>Mon, 24 Feb 2025 11:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:17 am</title>
-      <description>I70WB / 38MM Units: E82, A89, ALS8</description>
-      <guid isPermaLink="false">2025-02-24 09:17:00</guid>
-      <pubDate>Mon, 24 Feb 2025 09:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
