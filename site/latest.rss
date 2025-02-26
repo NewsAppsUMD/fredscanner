@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 20:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 20:33:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:14 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: E31, A38, 9B, E11, R2, A28</description>
+      <guid isPermaLink="false">2025-02-26 15:14:00</guid>
+      <pubDate>Wed, 26 Feb 2025 15:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:12 pm</title>
+      <description>700 BLOCK JEFFERSON PIKE Radio: 9D Units: E51, 9D, EMS902, R19, A196, ALS20, BC901, FS05</description>
+      <guid isPermaLink="false">2025-02-26 15:12:00</guid>
+      <pubDate>Wed, 26 Feb 2025 15:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: PE23, A38, 9B, E11, R2, A28</description>
+      <guid isPermaLink="false">2025-02-26 15:10:00</guid>
+      <pubDate>Wed, 26 Feb 2025 15:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE THREATENING A STRUCTURE: 2:39 pm</title>
       <description>4300 BLOCK VALLEY VIEW RD Radio: 9C Units: A78, SOBC900, OPSAC900, BR16, TW1, BC902, 9C, E111, E121, RE52, TW7, K1, SAF901</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE(VACANT), SEARS (VACANT) - FRANCIS SCOTT KEY MALL Units: TT4, E311, FS31</description>
       <guid isPermaLink="false">2025-02-24 18:51:00</guid>
       <pubDate>Mon, 24 Feb 2025 18:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:30 pm</title>
-      <description>5600 BLOCK PEBBLE DR Units: E31, FS31</description>
-      <guid isPermaLink="false">2025-02-24 18:30:00</guid>
-      <pubDate>Mon, 24 Feb 2025 18:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:05 pm</title>
-      <description>2700 BLOCK EGRET WAY Units: E111, Q11, FS29</description>
-      <guid isPermaLink="false">2025-02-24 18:05:00</guid>
-      <pubDate>Mon, 24 Feb 2025 18:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:32 pm</title>
-      <description>W PATRICK ST / BAUGHMANS LN Units: A18, E11</description>
-      <guid isPermaLink="false">2025-02-24 16:32:00</guid>
-      <pubDate>Mon, 24 Feb 2025 16:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
