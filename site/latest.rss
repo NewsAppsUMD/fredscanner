@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 19:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 20:01:56 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:39 pm</title>
+      <description>4300 BLOCK VALLEY VIEW RD Radio: 9C Units: A78, SOBC900, OPSAC900, BR16, TW1, BC902, 9C, E111, E121, RE52, TW7, K1, SAF901</description>
+      <guid isPermaLink="false">2025-02-26 14:39:00</guid>
+      <pubDate>Wed, 26 Feb 2025 14:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:34 pm</title>
+      <description>4300 BLOCK VALLEY VIEW RD Units: A78, BR16, BC902, E111, E121, RE52, TW7, K1, SAF901</description>
+      <guid isPermaLink="false">2025-02-26 14:34:00</guid>
+      <pubDate>Wed, 26 Feb 2025 14:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:05 pm</title>
       <description>400 BLOCK FRANKLIN ST, STATION 7 Units: E111</description>
@@ -294,18 +306,6 @@
       <description>W PATRICK ST / BAUGHMANS LN Units: A18, E11</description>
       <guid isPermaLink="false">2025-02-24 16:32:00</guid>
       <pubDate>Mon, 24 Feb 2025 16:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:28 pm</title>
-      <description>600 BLOCK SOUDER RD, OAK TREE INN Radio: 9C Units: RE52, FS05, 9C</description>
-      <guid isPermaLink="false">2025-02-24 16:28:00</guid>
-      <pubDate>Mon, 24 Feb 2025 16:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:12 pm</title>
-      <description>BALLENGER CREEK PIKE / WINDVIEW WAY, IAO Units: PE311, FS31, A318</description>
-      <guid isPermaLink="false">2025-02-24 15:12:00</guid>
-      <pubDate>Mon, 24 Feb 2025 15:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
