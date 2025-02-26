@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Feb 2025 17:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 18:02:29 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 12:50 pm</title>
+      <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, E121, E501, K1, A18, BR16, BC901, SAF901, 9C, K7, BR35, C1, TT4</description>
+      <guid isPermaLink="false">2025-02-26 12:50:00</guid>
+      <pubDate>Wed, 26 Feb 2025 12:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE ALARM SPECIFY: 12:47 pm</title>
+      <description>6000 BLOCK JEFFERSON STATION CT Radio: 9C Units: PE311, 9C</description>
+      <guid isPermaLink="false">2025-02-26 12:47:00</guid>
+      <pubDate>Wed, 26 Feb 2025 12:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 12:45 pm</title>
+      <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, E121, E501, K1, A18, BR16, BC901, SAF901, 9C, TT4</description>
+      <guid isPermaLink="false">2025-02-26 12:45:00</guid>
+      <pubDate>Wed, 26 Feb 2025 12:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:36 am</title>
       <description>HARNEY RD / BULLFROG RD Radio: 9D Units: E61, CCM58, BC902, EMS902, R6, A69, FS06, 9D</description>
@@ -288,24 +306,6 @@
       <description>10300 BLOCK LEWIS DR Units: E251</description>
       <guid isPermaLink="false">2025-02-24 01:34:00</guid>
       <pubDate>Mon, 24 Feb 2025 01:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - FIRE: 1:31 am</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9C Units: 9C, E82, A129, R3, A89, E121</description>
-      <guid isPermaLink="false">2025-02-24 01:31:00</guid>
-      <pubDate>Mon, 24 Feb 2025 01:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - FIRE: 1:29 am</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9C Units: 9C, E82, A129, FS12, E121</description>
-      <guid isPermaLink="false">2025-02-24 01:29:00</guid>
-      <pubDate>Mon, 24 Feb 2025 01:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:03 am</title>
-      <description>5200 BLOCK BUCKEYSTOWN PIKE, FIREBIRDS WOOD FIRED GRILL - WESTVIEW PROMENADE Radio: 9C Units: TT4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-02-24 00:03:00</guid>
-      <pubDate>Mon, 24 Feb 2025 00:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
