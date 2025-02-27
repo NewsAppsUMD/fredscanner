@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 23:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 23:31:37 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:26 pm</title>
+      <description>4800 BLOCK URBANA PIKE, MONOCACY BATTLEFIELD Units: FS23, BR235</description>
+      <guid isPermaLink="false">2025-02-27 18:26:00</guid>
+      <pubDate>Thu, 27 Feb 2025 18:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ATV ACCIDENT: 6:02 pm</title>
+      <description>GRAVEL HILL RD / WOODLAND DR Radio: 9B Units: PE102, A229, E162, 9B</description>
+      <guid isPermaLink="false">2025-02-27 18:02:00</guid>
+      <pubDate>Thu, 27 Feb 2025 18:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 4:21 pm</title>
       <description>18600 BLOCK BURNSIDE BRIDGE RD Units: A78, E82, U7, BR35, WILDLAND7, BR85, BR16, BC903, BR116, BR75, BR216, BR55, BR205</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK BURLINGTON AVE Units: E111, FS11</description>
       <guid isPermaLink="false">2025-02-25 21:26:00</guid>
       <pubDate>Tue, 25 Feb 2025 21:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:52 pm</title>
-      <description>100 BLOCK E MAIN ST Units: A159, E153, FS15</description>
-      <guid isPermaLink="false">2025-02-25 20:52:00</guid>
-      <pubDate>Tue, 25 Feb 2025 20:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:18 pm</title>
-      <description>15500 BLOCK SMITH RD Units: BR106</description>
-      <guid isPermaLink="false">2025-02-25 19:18:00</guid>
-      <pubDate>Tue, 25 Feb 2025 19:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
