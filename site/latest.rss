@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Feb 2025 20:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 20:33:16 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:24 pm</title>
+      <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: E121</description>
+      <guid isPermaLink="false">2025-02-27 15:24:00</guid>
+      <pubDate>Thu, 27 Feb 2025 15:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:54 pm</title>
       <description>5800 BLOCKB JEFFERSON PIKE Radio: 9C Units: 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK HOSLER RD Units: K5</description>
       <guid isPermaLink="false">2025-02-25 15:12:00</guid>
       <pubDate>Tue, 25 Feb 2025 15:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:13 pm</title>
-      <description>100 BLOCK S MARKET ST, SV FREDERICK LLC Radio: 9C Units: TT4, E31, 9C, PE23</description>
-      <guid isPermaLink="false">2025-02-25 14:13:00</guid>
-      <pubDate>Tue, 25 Feb 2025 14:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
