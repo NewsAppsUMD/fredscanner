@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Feb 2025 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 18:36:43 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:22 pm</title>
+      <description>5100 BLOCK CHARLINGTON CT Units: PE311, FS31</description>
+      <guid isPermaLink="false">2025-02-28 13:22:00</guid>
+      <pubDate>Fri, 28 Feb 2025 13:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 1:19 pm</title>
+      <description>7500 BLOCK SUNDAYS LN Units: FS29, E291</description>
+      <guid isPermaLink="false">2025-02-28 13:19:00</guid>
+      <pubDate>Fri, 28 Feb 2025 13:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:11 am</title>
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, E121, E501, K1, A18, BR16, BC901, SAF901, 9C, K7, BR35, C1, TT4</description>
       <guid isPermaLink="false">2025-02-26 12:50:00</guid>
       <pubDate>Wed, 26 Feb 2025 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 12:47 pm</title>
-      <description>6000 BLOCK JEFFERSON STATION CT Radio: 9C Units: PE311, 9C</description>
-      <guid isPermaLink="false">2025-02-26 12:47:00</guid>
-      <pubDate>Wed, 26 Feb 2025 12:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 12:45 pm</title>
-      <description>7400 BLOCK SKYLINE DR Radio: 9C Units: E11, E121, E501, K1, A18, BR16, BC901, SAF901, 9C, TT4</description>
-      <guid isPermaLink="false">2025-02-26 12:45:00</guid>
-      <pubDate>Wed, 26 Feb 2025 12:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
