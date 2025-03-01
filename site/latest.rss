@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 21:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 22:01:42 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:41 pm</title>
+      <description>100 BLOCK CENTER ST Radio: 9C Units: RE52, 9C, FS05</description>
+      <guid isPermaLink="false">2025-03-01 16:41:00</guid>
+      <pubDate>Sat, 01 Mar 2025 16:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 4:32 pm</title>
+      <description>3500 BLOCK BROCKTON CT Radio: 9D Units: RE52, R19, BC903, EMS901, ALS20, R14, E201, 9D, A209, C20, SAF901</description>
+      <guid isPermaLink="false">2025-03-01 16:32:00</guid>
+      <pubDate>Sat, 01 Mar 2025 16:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 4:27 pm</title>
       <description>3500 BLOCK BROCKTON CT Radio: 9D Units: RE52, R19, BC903, EMS901, E201, 9D, A209, ALS4, FS20</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Units: E31, TT4</description>
       <guid isPermaLink="false">2025-02-28 10:11:00</guid>
       <pubDate>Fri, 28 Feb 2025 10:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:01 am</title>
-      <description>1900 BLOCK N MARKET ST, Bldg:1162, FORT DETRICK - BLDG 1120 Units: Q11, PE23</description>
-      <guid isPermaLink="false">2025-02-28 10:01:00</guid>
-      <pubDate>Fri, 28 Feb 2025 10:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 8:54 am</title>
-      <description>FINGERBOARD RD / RODERICK RD, GOLF CLUB IAO Units: BR235, FS23</description>
-      <guid isPermaLink="false">2025-02-28 08:54:00</guid>
-      <pubDate>Fri, 28 Feb 2025 08:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
