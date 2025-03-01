@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 18:35:10 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:20 pm</title>
+      <description>12300 BLOCK BERLIN PK, STATION LC612 - LOVETTSVILLE VOLUNTEER FIRE &amp; RESCUE Units: E51</description>
+      <guid isPermaLink="false">2025-03-01 13:20:00</guid>
+      <pubDate>Sat, 01 Mar 2025 13:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 1:09 pm</title>
+      <description>16100 BLOCK HAMILTON STATION RD Radio: 6CCMD10 Units: BR55</description>
+      <guid isPermaLink="false">2025-03-01 13:09:00</guid>
+      <pubDate>Sat, 01 Mar 2025 13:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:50 pm</title>
       <description>TWIN ARCH RD / RIDGE RD Units: R15</description>
@@ -294,18 +306,6 @@
       <description>19800 BLOCK WASCHE RD Radio: 7A4 Units: E141, E281</description>
       <guid isPermaLink="false">2025-02-28 00:57:00</guid>
       <pubDate>Fri, 28 Feb 2025 00:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:27 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
-      <guid isPermaLink="false">2025-02-27 21:27:00</guid>
-      <pubDate>Thu, 27 Feb 2025 21:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:48 pm</title>
-      <description>9600 BLOCK HAMBURG RD Units: R2, EMS902, FS29, E11, A18, ALS29, BC902</description>
-      <guid isPermaLink="false">2025-02-27 20:48:00</guid>
-      <pubDate>Thu, 27 Feb 2025 20:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
