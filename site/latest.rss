@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 23:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 00:07:29 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 6:44 pm</title>
+      <description>13700 BLOCK BOTTOM RD Radio: 9C Units: Q11, E153, A159, K17, 9C, C15B, CCK1, CCR1, E172</description>
+      <guid isPermaLink="false">2025-03-01 18:44:00</guid>
+      <pubDate>Sat, 01 Mar 2025 18:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:40 pm</title>
+      <description>13700 BLOCK BOTTOM RD Radio: 9C Units: Q11, E153, A159, 9C, CCK1, CCA18, CCR1</description>
+      <guid isPermaLink="false">2025-03-01 18:40:00</guid>
+      <pubDate>Sat, 01 Mar 2025 18:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 6:38 pm</title>
+      <description>13700 BLOCK BOTTOM RD Radio: 9C Units: Q11, E153, 9C, CCK1, CCA18, FS15, CCR1</description>
+      <guid isPermaLink="false">2025-03-01 18:38:00</guid>
+      <pubDate>Sat, 01 Mar 2025 18:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:19 pm</title>
       <description>3400 BLOCK SUGARLOAF PKWY Radio: 9C Units: E231, E251, TT23, FS23, 9C</description>
@@ -288,24 +306,6 @@
       <description>E PATRICK ST / STORAGE WAY, TACO BELL - E PATRICK ST Units: A339, E331</description>
       <guid isPermaLink="false">2025-02-28 13:55:00</guid>
       <pubDate>Fri, 28 Feb 2025 13:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:37 pm</title>
-      <description>HIMES AVE / JEFFERSON PIKE Units: PE311</description>
-      <guid isPermaLink="false">2025-02-28 13:37:00</guid>
-      <pubDate>Fri, 28 Feb 2025 13:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:22 pm</title>
-      <description>5100 BLOCK CHARLINGTON CT Units: PE311, FS31</description>
-      <guid isPermaLink="false">2025-02-28 13:22:00</guid>
-      <pubDate>Fri, 28 Feb 2025 13:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:19 pm</title>
-      <description>7500 BLOCK SUNDAYS LN Units: FS29, E291</description>
-      <guid isPermaLink="false">2025-02-28 13:19:00</guid>
-      <pubDate>Fri, 28 Feb 2025 13:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
