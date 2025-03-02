@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 14:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 14:32:40 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 9:04 am</title>
+      <description>NEW DESIGN RD / OLAND RD Radio: 9C Units: BR145, FS14, 9C</description>
+      <guid isPermaLink="false">2025-03-02 09:04:00</guid>
+      <pubDate>Sun, 02 Mar 2025 09:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 8:47 am</title>
       <description>7400 BLOCK SHADOWS REALM LN Radio: 9C Units: FS17, 9C, BR175</description>
@@ -300,12 +306,6 @@
       <description>STOTTLEMYER RD / JOHN DRAPER RD Units: FS21, E511, BR106</description>
       <guid isPermaLink="false">2025-03-01 10:57:00</guid>
       <pubDate>Sat, 01 Mar 2025 10:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 10:34 am</title>
-      <description>RT194 / BROWN RD Units: BR65</description>
-      <guid isPermaLink="false">2025-03-01 10:34:00</guid>
-      <pubDate>Sat, 01 Mar 2025 10:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
