@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 19:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 20:02:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
+      <description>1200 BLOCK W PATRICK ST, FREDERICK SUNOCO - GOLDEN MILE Units: A19, E11</description>
+      <guid isPermaLink="false">2025-03-02 14:59:00</guid>
+      <pubDate>Sun, 02 Mar 2025 14:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:14 pm</title>
       <description>400 BLOCK GLADHILL RD Units: R6</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: EK114</description>
       <guid isPermaLink="false">2025-03-01 11:39:00</guid>
       <pubDate>Sat, 01 Mar 2025 11:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:36 am</title>
-      <description>13000 BLOCK MONTEREY LN, STATION FC004 - BLUE RIDGE SUMMIT FIRE &amp; RESCUE Units: E61</description>
-      <guid isPermaLink="false">2025-03-01 11:36:00</guid>
-      <pubDate>Sat, 01 Mar 2025 11:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
