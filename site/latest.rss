@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 13:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 14:01:44 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 8:47 am</title>
+      <description>7400 BLOCK SHADOWS REALM LN Radio: 9C Units: FS17, 9C, BR175</description>
+      <guid isPermaLink="false">2025-03-02 08:47:00</guid>
+      <pubDate>Sun, 02 Mar 2025 08:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:39 am</title>
       <description>6700 BLOCK HEMLOCK POINT RD Radio: 9C Units: E153, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT194 / BROWN RD Units: BR65</description>
       <guid isPermaLink="false">2025-03-01 10:34:00</guid>
       <pubDate>Sat, 01 Mar 2025 10:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:30 am</title>
-      <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: E31</description>
-      <guid isPermaLink="false">2025-03-01 10:30:00</guid>
-      <pubDate>Sat, 01 Mar 2025 10:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
