@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 23:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 23:31:23 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 6:26 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, WALMART - MONOCACY BLVD Radio: 9C Units: E111, E291, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-03-02 18:26:00</guid>
+      <pubDate>Sun, 02 Mar 2025 18:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:20 pm</title>
+      <description>200 BLOCK E MAIN ST, IAO Radio: 9C Units: FS06, 9C, BR65</description>
+      <guid isPermaLink="false">2025-03-02 18:20:00</guid>
+      <pubDate>Sun, 02 Mar 2025 18:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:50 pm</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: A158</description>
@@ -294,18 +306,6 @@
       <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, W23, K709, TT23, BR205, E231, BR235, BC901, E141, BR145, BR35, BR156, K23, C23, K33, CMD23, BR285</description>
       <guid isPermaLink="false">2025-03-01 12:18:00</guid>
       <pubDate>Sat, 01 Mar 2025 12:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:17 pm</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, W23, K709, TT23, BR205, E231, BR235, BC901, E141, BR145, BR35, K23, C23, K33, BR709, CMD23, BR285</description>
-      <guid isPermaLink="false">2025-03-01 12:17:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:13 pm</title>
-      <description>300 BLOCK MAIN ST, STATION 8 Units: E121, BR205</description>
-      <guid isPermaLink="false">2025-03-01 12:13:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
