@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 07:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 07:31:25 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:08 am</title>
+      <description>100 BLOCK W CHAPLIN ST Units: E51</description>
+      <guid isPermaLink="false">2025-03-02 02:08:00</guid>
+      <pubDate>Sun, 02 Mar 2025 02:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:21 am</title>
       <description>300 BLOCK MAIN ST, STATION 8 Units: E201, ALS2</description>
@@ -298,12 +304,6 @@
     <item>
       <title>WOODS FIRE: 10:10 am</title>
       <description>10400 BLOCK CRYSTAL FALLS DR Units: WILDLAND7, BR85, BR216</description>
-      <guid isPermaLink="false">2025-03-01 10:10:00</guid>
-      <pubDate>Sat, 01 Mar 2025 10:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 10:10 am</title>
-      <description>10400 BLOCK CRYSTAL FALLS DR Units: BR85, BR216</description>
       <guid isPermaLink="false">2025-03-01 10:10:00</guid>
       <pubDate>Sat, 01 Mar 2025 10:10:00 -0500</pubDate>
     </item>
