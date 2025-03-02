@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 06:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 06:36:02 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:21 am</title>
+      <description>300 BLOCK MAIN ST, STATION 8 Units: E201, ALS2</description>
+      <guid isPermaLink="false">2025-03-02 01:21:00</guid>
+      <pubDate>Sun, 02 Mar 2025 01:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:05 am</title>
+      <description>21400 BLOCK KEADLE RD Units: BR85, BR75, BC903, K21, E82, ALS8, E72</description>
+      <guid isPermaLink="false">2025-03-02 01:05:00</guid>
+      <pubDate>Sun, 02 Mar 2025 01:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:04 am</title>
+      <description>21400 BLOCK KEADLE RD Units: BR85, BR75, K21, E82, ALS8</description>
+      <guid isPermaLink="false">2025-03-02 01:04:00</guid>
+      <pubDate>Sun, 02 Mar 2025 01:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:48 am</title>
       <description>21400 BLOCK KEADLE RD Units: E212, K21, E82</description>
@@ -288,24 +306,6 @@
       <description>10400 BLOCK CRYSTAL FALLS DR Units: BR85, BR216</description>
       <guid isPermaLink="false">2025-03-01 10:10:00</guid>
       <pubDate>Sat, 01 Mar 2025 10:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:54 am</title>
-      <description>4400 BLOCK URBANA PIKE, Bldg:A, Apt/Unit:STE A, MONOCACY CROSSING RESTAURANT Radio: 9C Units: TT23, FS23, E231, 9C</description>
-      <guid isPermaLink="false">2025-03-01 09:54:00</guid>
-      <pubDate>Sat, 01 Mar 2025 09:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:12 am</title>
-      <description>800 BLOCK PETERSVILLE RD Radio: 9C Units: FS05, BR55, 9C</description>
-      <guid isPermaLink="false">2025-03-01 09:12:00</guid>
-      <pubDate>Sat, 01 Mar 2025 09:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:19 pm</title>
-      <description>10000 BLOCK SHELLDRAKE CIR Radio: 7A4 Units: E251</description>
-      <guid isPermaLink="false">2025-02-28 23:19:00</guid>
-      <pubDate>Fri, 28 Feb 2025 23:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
