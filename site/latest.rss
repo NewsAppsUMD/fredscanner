@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 19:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 19:31:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:14 pm</title>
+      <description>400 BLOCK GLADHILL RD Units: R6</description>
+      <guid isPermaLink="false">2025-03-02 14:14:00</guid>
+      <pubDate>Sun, 02 Mar 2025 14:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:11 pm</title>
+      <description>300 BLOCK S MARKET ST Units: A38, TT4, TW1, ALS4, BC903, BC902, SAF901, E31, PE23, PE311, E331, E501, R3</description>
+      <guid isPermaLink="false">2025-03-02 14:11:00</guid>
+      <pubDate>Sun, 02 Mar 2025 14:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:58 pm</title>
       <description>100 BLOCK PENNSYLVANIA AVE, Apt/Unit:408 Units: TT4, E31</description>
@@ -294,18 +306,6 @@
       <description>13000 BLOCK MONTEREY LN, STATION FC004 - BLUE RIDGE SUMMIT FIRE &amp; RESCUE Units: E61</description>
       <guid isPermaLink="false">2025-03-01 11:36:00</guid>
       <pubDate>Sat, 01 Mar 2025 11:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:31 am</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: FS23, 9C, BR235</description>
-      <guid isPermaLink="false">2025-03-01 11:31:00</guid>
-      <pubDate>Sat, 01 Mar 2025 11:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:20 am</title>
-      <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: E132</description>
-      <guid isPermaLink="false">2025-03-01 11:20:00</guid>
-      <pubDate>Sat, 01 Mar 2025 11:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
