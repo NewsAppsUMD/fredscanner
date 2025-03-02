@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 22:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 22:33:30 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 5:22 pm</title>
+      <description>10400 BLOCK WOODSBORO PIKE Radio: 9D Units: E91, FS16, 9D</description>
+      <guid isPermaLink="false">2025-03-02 17:22:00</guid>
+      <pubDate>Sun, 02 Mar 2025 17:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:19 pm</title>
+      <description>1600 BLOCK GIBBONS RD Radio: 9C Units: BR285, FS28, 9C</description>
+      <guid isPermaLink="false">2025-03-02 17:19:00</guid>
+      <pubDate>Sun, 02 Mar 2025 17:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:17 pm</title>
+      <description>10400 BLOCK WOODSBORO PIKE Radio: 9D Units: EMS902, FS16, 9D, A169, ALS17, E162</description>
+      <guid isPermaLink="false">2025-03-02 17:17:00</guid>
+      <pubDate>Sun, 02 Mar 2025 17:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - TORSO OR HEAD: 4:53 pm</title>
       <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:306, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9D Units: R3, A18, PE23, EMS902, 9D, E11, BC901, SAF901</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCK MAIN ST, STATION 8 Units: BR205</description>
       <guid isPermaLink="false">2025-03-01 12:07:00</guid>
       <pubDate>Sat, 01 Mar 2025 12:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:03 pm</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, TT23, E231, BR235, E141, BR145, BR35, K23, C23</description>
-      <guid isPermaLink="false">2025-03-01 12:03:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 11:52 am</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, TT23, E231, BR235, E141, K23, C23</description>
-      <guid isPermaLink="false">2025-03-01 11:52:00</guid>
-      <pubDate>Sat, 01 Mar 2025 11:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 11:51 am</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, E231, BR235, E141, K23, C23</description>
-      <guid isPermaLink="false">2025-03-01 11:51:00</guid>
-      <pubDate>Sat, 01 Mar 2025 11:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
