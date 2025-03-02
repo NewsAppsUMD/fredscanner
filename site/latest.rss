@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Mar 2025 05:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 06:02:21 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:48 am</title>
+      <description>21400 BLOCK KEADLE RD Units: E212, K21, E82</description>
+      <guid isPermaLink="false">2025-03-02 00:48:00</guid>
+      <pubDate>Sun, 02 Mar 2025 00:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 9:41 pm</title>
       <description>13700 BLOCK BOTTOM RD Radio: 9C Units: CCR1, Q11, E172, K17, CCA19, CCK1, 9C, E153</description>
@@ -300,12 +306,6 @@
       <description>10000 BLOCK SHELLDRAKE CIR Radio: 7A4 Units: E251</description>
       <guid isPermaLink="false">2025-02-28 23:19:00</guid>
       <pubDate>Fri, 28 Feb 2025 23:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:28 pm</title>
-      <description>12200 BLOCK PLEASENT VALLEY RD Units: R10</description>
-      <guid isPermaLink="false">2025-02-28 20:28:00</guid>
-      <pubDate>Fri, 28 Feb 2025 20:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
