@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 02:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 02:47:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:31 pm</title>
+      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: Q11, FS16, 9C, E162</description>
+      <guid isPermaLink="false">2025-03-02 21:31:00</guid>
+      <pubDate>Sun, 02 Mar 2025 21:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 9:17 pm</title>
+      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E61, FS06, 9D</description>
+      <guid isPermaLink="false">2025-03-02 21:17:00</guid>
+      <pubDate>Sun, 02 Mar 2025 21:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 7:33 pm</title>
       <description>1200 BLOCK BAKER PL S, Apt/Unit:12, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Units: E23, E121, E501, R3, TT4, T50, A19, ALS4, E31, E11, BC903, BC902, SAF901</description>
@@ -294,18 +306,6 @@
       <description>12300 BLOCK BERLIN PK, STATION LC612 - LOVETTSVILLE VOLUNTEER FIRE &amp; RESCUE Units: E51</description>
       <guid isPermaLink="false">2025-03-01 13:20:00</guid>
       <pubDate>Sat, 01 Mar 2025 13:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:09 pm</title>
-      <description>16100 BLOCK HAMILTON STATION RD Radio: 6CCMD10 Units: BR55</description>
-      <guid isPermaLink="false">2025-03-01 13:09:00</guid>
-      <pubDate>Sat, 01 Mar 2025 13:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:50 pm</title>
-      <description>TWIN ARCH RD / RIDGE RD Units: R15</description>
-      <guid isPermaLink="false">2025-03-01 12:50:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
