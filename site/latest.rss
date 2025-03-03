@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 12:02:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 12:43:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:03 am</title>
+      <description>3400 BLOCK KEMPTOWN CHURCH RD, KEMPTOWN ELEMENTARY SCHOOL Units: E251, TT23, FS25</description>
+      <guid isPermaLink="false">2025-03-03 07:03:00</guid>
+      <pubDate>Mon, 03 Mar 2025 07:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 4:45 am</title>
       <description>BOND ST / CARROLL WALK AVE, IAO Units: PE23, E31</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK BROCKTON CT Radio: 9D Units: RE52, R19, BC903, EMS901, E201, 9D, A209, ALS4, FS20</description>
       <guid isPermaLink="false">2025-03-01 16:27:00</guid>
       <pubDate>Sat, 01 Mar 2025 16:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 4:01 pm</title>
-      <description>10400 BLOCK CRYSTAL FALLS DR Radio: 9D Units: E511, EMSUTV30, SU51, WILDLAND7, BR106, U7, BR75, BR85, BR216, E31, EMSUTV50, 9D, E82, U50</description>
-      <guid isPermaLink="false">2025-03-01 16:01:00</guid>
-      <pubDate>Sat, 01 Mar 2025 16:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
