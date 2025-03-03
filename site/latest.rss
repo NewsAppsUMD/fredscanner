@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Mar 2025 00:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:46:18 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:33 pm</title>
+      <description>1200 BLOCK BAKER PL S, Apt/Unit:12, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Units: E23, E121, E501, R3, TT4, T50, A19, ALS4, E31, E11, BC903, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-03-02 19:33:00</guid>
+      <pubDate>Sun, 02 Mar 2025 19:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:20 pm</title>
+      <description>5700 BLOCK MORLAND DR S Units: E141</description>
+      <guid isPermaLink="false">2025-03-02 19:20:00</guid>
+      <pubDate>Sun, 02 Mar 2025 19:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:10 pm</title>
+      <description>2200 BLOCK PARISH LN Radio: 9C Units: E111, FS29, 9C</description>
+      <guid isPermaLink="false">2025-03-02 19:10:00</guid>
+      <pubDate>Sun, 02 Mar 2025 19:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:57 pm</title>
       <description>2500 BLOCK SHELLEY CIR, Bldg:14, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: E11, T50</description>
@@ -288,24 +306,6 @@
       <description>TWIN ARCH RD / RIDGE RD Units: R15</description>
       <guid isPermaLink="false">2025-03-01 12:50:00</guid>
       <pubDate>Sat, 01 Mar 2025 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:33 pm</title>
-      <description>4600 BLOCK LANDER RD, STATION 20 Units: BR55</description>
-      <guid isPermaLink="false">2025-03-01 12:33:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:32 pm</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: BR226</description>
-      <guid isPermaLink="false">2025-03-01 12:32:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:20 pm</title>
-      <description>3700 BLOCK BAKER VALLEY RD Radio: 9C Units: 9C, E23, W23, K709, TT23, BR205, E231, BR235, E281, BC901, E141, BR145, BR35, SAF901, BR156, K23, C23, K33, CMD23, BR285</description>
-      <guid isPermaLink="false">2025-03-01 12:20:00</guid>
-      <pubDate>Sat, 01 Mar 2025 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
