@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 17:33:15 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:11 pm</title>
+      <description>200 BLOCK W MAIN ST Radio: 9C Units: BR75, 9C</description>
+      <guid isPermaLink="false">2025-03-04 12:11:00</guid>
+      <pubDate>Tue, 04 Mar 2025 12:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:11 pm</title>
+      <description>4200 BLOCK BILL MOXLEY RD Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-03-04 12:11:00</guid>
+      <pubDate>Tue, 04 Mar 2025 12:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 8:58 am</title>
       <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TW1, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:306, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9D Units: R3, A18, PE23, EMS902, 9D, E11, BC901, SAF901</description>
       <guid isPermaLink="false">2025-03-02 16:53:00</guid>
       <pubDate>Sun, 02 Mar 2025 16:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 3:30 pm</title>
-      <description>300 BLOCK CHAPEL CT, GLADETOWN CONDOS - 300 BLOCK CHAPEL CT Units: EK114, Q11</description>
-      <guid isPermaLink="false">2025-03-02 15:30:00</guid>
-      <pubDate>Sun, 02 Mar 2025 15:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:18 pm</title>
-      <description>13700 BLOCK HILLSIDE AVE, IAO Units: BR106</description>
-      <guid isPermaLink="false">2025-03-02 15:18:00</guid>
-      <pubDate>Sun, 02 Mar 2025 15:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
