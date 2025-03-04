@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 18:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:37:32 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 1:33 pm</title>
+      <description>5300 BLOCK WOODVILLE RD Radio: 9C Units: FS15, 9C, E153</description>
+      <guid isPermaLink="false">2025-03-04 13:33:00</guid>
+      <pubDate>Tue, 04 Mar 2025 13:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:11 pm</title>
       <description>200 BLOCK W MAIN ST Radio: 9C Units: BR75, 9C</description>
@@ -300,12 +306,6 @@
       <description>10400 BLOCK WOODSBORO PIKE Radio: 9D Units: EMS902, FS16, 9D, A169, ALS17, E162</description>
       <guid isPermaLink="false">2025-03-02 17:17:00</guid>
       <pubDate>Sun, 02 Mar 2025 17:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - TORSO OR HEAD: 4:53 pm</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:306, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9D Units: R3, A18, PE23, EMS902, 9D, E11, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-03-02 16:53:00</guid>
-      <pubDate>Sun, 02 Mar 2025 16:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
