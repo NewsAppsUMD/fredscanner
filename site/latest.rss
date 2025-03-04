@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 12:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:43:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:33 am</title>
+      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9D Units: E31, R3, CMD33, TRNBC900, K33, ALS4, BC901, EMS901, A159, 9D, A339</description>
+      <guid isPermaLink="false">2025-03-04 07:33:00</guid>
+      <pubDate>Tue, 04 Mar 2025 07:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:28 am</title>
+      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9D Units: E31, R3, ALS4, BC901, EMS901, FS33, 9D, A339</description>
+      <guid isPermaLink="false">2025-03-04 07:28:00</guid>
+      <pubDate>Tue, 04 Mar 2025 07:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:23 am</title>
+      <description>1000 BLOCK W PATRICK ST, FREDERICK BEDROOMS INC - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: 9C, E11, TT4</description>
+      <guid isPermaLink="false">2025-03-04 07:23:00</guid>
+      <pubDate>Tue, 04 Mar 2025 07:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 7:06 am</title>
+      <description>5900 BLOCK JACOBEAN PL Radio: 9C Units: 9C, E153, E331, R15, FS15</description>
+      <guid isPermaLink="false">2025-03-04 07:06:00</guid>
+      <pubDate>Tue, 04 Mar 2025 07:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:56 am</title>
       <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9C Units: E111, FS11, 9C</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK GLADHILL RD Units: R6</description>
       <guid isPermaLink="false">2025-03-02 14:14:00</guid>
       <pubDate>Sun, 02 Mar 2025 14:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:11 pm</title>
-      <description>300 BLOCK S MARKET ST Units: A38, TT4, TW1, ALS4, BC903, BC902, SAF901, E31, PE23, PE311, E331, E501, R3</description>
-      <guid isPermaLink="false">2025-03-02 14:11:00</guid>
-      <pubDate>Sun, 02 Mar 2025 14:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:58 pm</title>
-      <description>100 BLOCK PENNSYLVANIA AVE, Apt/Unit:408 Units: TT4, E31</description>
-      <guid isPermaLink="false">2025-03-02 13:58:00</guid>
-      <pubDate>Sun, 02 Mar 2025 13:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:55 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2025-03-02 13:55:00</guid>
-      <pubDate>Sun, 02 Mar 2025 13:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:19 pm</title>
-      <description>100 BLOCK W POTOMAC ST, Apt/Unit:103 Units: RE52, T5, FS05</description>
-      <guid isPermaLink="false">2025-03-02 12:19:00</guid>
-      <pubDate>Sun, 02 Mar 2025 12:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
