@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 21:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:01:56 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 4:56 pm</title>
+      <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: K23, 9C, E251</description>
+      <guid isPermaLink="false">2025-03-04 16:56:00</guid>
+      <pubDate>Tue, 04 Mar 2025 16:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:50 pm</title>
+      <description>4800 BLOCK OLD SWIMMING POOL RD, Apt/Unit:HTTPS://A91.IO/45LVJ Radio: 9B Units: FS12, 9B, E121, A129</description>
+      <guid isPermaLink="false">2025-03-04 16:50:00</guid>
+      <pubDate>Tue, 04 Mar 2025 16:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:46 pm</title>
+      <description>10800 BLOCK COOK BROTHERS RD Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2025-03-04 16:46:00</guid>
+      <pubDate>Tue, 04 Mar 2025 16:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 4:10 pm</title>
       <description>10400 BLOCK GREEN VALLEY RD Radio: 9D Units: FS17, 9D, E162, ALS17, RE171, A179, EMS900</description>
@@ -288,24 +306,6 @@
       <description>BOND ST / CARROLL WALK AVE, IAO Units: PE23, E31</description>
       <guid isPermaLink="false">2025-03-03 04:45:00</guid>
       <pubDate>Mon, 03 Mar 2025 04:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:59 am</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: TW1, FS31, PE311</description>
-      <guid isPermaLink="false">2025-03-03 03:59:00</guid>
-      <pubDate>Mon, 03 Mar 2025 03:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:56 am</title>
-      <description>2500 BLOCK SHELLEY CIR, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Units: E11, T50</description>
-      <guid isPermaLink="false">2025-03-03 02:56:00</guid>
-      <pubDate>Mon, 03 Mar 2025 02:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:56 pm</title>
-      <description>2500 BLOCK SHELLEY CIR, Bldg:14, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: 9C, E11, T50</description>
-      <guid isPermaLink="false">2025-03-02 22:56:00</guid>
-      <pubDate>Sun, 02 Mar 2025 22:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
