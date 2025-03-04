@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 13:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 14:02:26 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:58 am</title>
+      <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TW1, 9C</description>
+      <guid isPermaLink="false">2025-03-04 08:58:00</guid>
+      <pubDate>Tue, 04 Mar 2025 08:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:39 am</title>
+      <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-04 08:39:00</guid>
+      <pubDate>Tue, 04 Mar 2025 08:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:33 am</title>
       <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9D Units: E31, R3, CMD33, TRNBC900, K33, ALS4, BC901, EMS901, A159, 9D, A339</description>
@@ -294,18 +306,6 @@
       <description>13700 BLOCK HILLSIDE AVE, IAO Units: BR106</description>
       <guid isPermaLink="false">2025-03-02 15:18:00</guid>
       <pubDate>Sun, 02 Mar 2025 15:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
-      <description>1200 BLOCK W PATRICK ST, FREDERICK SUNOCO - GOLDEN MILE Units: A19, E11</description>
-      <guid isPermaLink="false">2025-03-02 14:59:00</guid>
-      <pubDate>Sun, 02 Mar 2025 14:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:14 pm</title>
-      <description>400 BLOCK GLADHILL RD Units: R6</description>
-      <guid isPermaLink="false">2025-03-02 14:14:00</guid>
-      <pubDate>Sun, 02 Mar 2025 14:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
