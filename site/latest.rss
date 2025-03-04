@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 22:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 22:33:28 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:30 pm</title>
+      <description>3500 BLOCK BASFORD RD Radio: 9C Units: BR285, FS20, 9C</description>
+      <guid isPermaLink="false">2025-03-04 17:30:00</guid>
+      <pubDate>Tue, 04 Mar 2025 17:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
+      <description>RT340EB / RT180 (FREDERICK), RT340EB / RT180 Units: A38, A318, PE311, R3, E31</description>
+      <guid isPermaLink="false">2025-03-04 17:27:00</guid>
+      <pubDate>Tue, 04 Mar 2025 17:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 4:56 pm</title>
       <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: K23, 9C, E251</description>
@@ -294,18 +306,6 @@
       <description>I70EB / RT340-15(RT15-340), I70EB / RT340-15 Units: E31, E121, A129, R3, A39, FS12</description>
       <guid isPermaLink="false">2025-03-03 08:20:00</guid>
       <pubDate>Mon, 03 Mar 2025 08:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:03 am</title>
-      <description>3400 BLOCK KEMPTOWN CHURCH RD, KEMPTOWN ELEMENTARY SCHOOL Units: E251, TT23, FS25</description>
-      <guid isPermaLink="false">2025-03-03 07:03:00</guid>
-      <pubDate>Mon, 03 Mar 2025 07:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 4:45 am</title>
-      <description>BOND ST / CARROLL WALK AVE, IAO Units: PE23, E31</description>
-      <guid isPermaLink="false">2025-03-03 04:45:00</guid>
-      <pubDate>Mon, 03 Mar 2025 04:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
