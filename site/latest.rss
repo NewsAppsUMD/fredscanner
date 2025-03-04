@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Mar 2025 11:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:02:51 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:56 am</title>
+      <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-03-04 06:56:00</guid>
+      <pubDate>Tue, 04 Mar 2025 06:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:23 pm</title>
       <description>400 BLOCK HILLCREST DR Radio: 9D Units: 9D, E11, R3, A19, ALS31, BC903, EMS901</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W POTOMAC ST, Apt/Unit:103 Units: RE52, T5, FS05</description>
       <guid isPermaLink="false">2025-03-02 12:19:00</guid>
       <pubDate>Sun, 02 Mar 2025 12:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:53 am</title>
-      <description>5000 BLOCK JEFFERSON PIKE, Apt/Unit:A Radio: 9C Units: BR205, FS20, 9C</description>
-      <guid isPermaLink="false">2025-03-02 09:53:00</guid>
-      <pubDate>Sun, 02 Mar 2025 09:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
