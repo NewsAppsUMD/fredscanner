@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Mar 2025 12:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 12:43:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:13 am</title>
+      <description>5900 BLOCK GREEN VALLEY RD Radio: 9B Units: A159, 9B, E153, FS15</description>
+      <guid isPermaLink="false">2025-03-05 07:13:00</guid>
+      <pubDate>Wed, 05 Mar 2025 07:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:06 am</title>
+      <description>1600 BLOCK ROSEMONT AVE, TRUIST Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2025-03-05 07:06:00</guid>
+      <pubDate>Wed, 05 Mar 2025 07:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 7:32 pm</title>
       <description>4800 BLOCK BUFFALO RD Radio: 9C Units: C17, CCE141, E172, CCT1, CCK14, 9C, CCC1, CCE101, K17</description>
@@ -294,18 +306,6 @@
       <description>16700 BLOCK RAVEN ROCK RD Radio: 9C Units: FRE42, ACBR3, WCE71, PE102, FRR19, FRA47, ACEK3, FRBR4, ACRE3, K10, 9C</description>
       <guid isPermaLink="false">2025-03-03 13:46:00</guid>
       <pubDate>Mon, 03 Mar 2025 13:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 1:43 pm</title>
-      <description>16700 BLOCK RAVEN ROCK RD Units: FRE42, ACBR3, ACEK3, FRBR4, ACRE3, K10</description>
-      <guid isPermaLink="false">2025-03-03 13:43:00</guid>
-      <pubDate>Mon, 03 Mar 2025 13:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ALERT 1 - MINOR DIFFICULTY: 1:06 pm</title>
-      <description>RUNWAY 23 - FREDERICK REGIONAL AIRPORT, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: E31, SAF901, R3, A39, PE23, A38, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-03-03 13:06:00</guid>
-      <pubDate>Mon, 03 Mar 2025 13:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
