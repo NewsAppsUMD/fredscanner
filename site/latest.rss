@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 01:29:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 02:06:32 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 8:57 pm</title>
+      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Units: E11, PE311, TW1, FS31</description>
+      <guid isPermaLink="false">2025-03-05 20:57:00</guid>
+      <pubDate>Wed, 05 Mar 2025 20:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:36 pm</title>
+      <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9B Units: A248, E111, FS11, 9B</description>
+      <guid isPermaLink="false">2025-03-05 20:36:00</guid>
+      <pubDate>Wed, 05 Mar 2025 20:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:01 pm</title>
       <description>5900 BLOCK QUINN RD Units: E331, TT4, FS33</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, FREDERICK BEDROOMS INC - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: 9C, E11, TT4</description>
       <guid isPermaLink="false">2025-03-04 07:23:00</guid>
       <pubDate>Tue, 04 Mar 2025 07:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:06 am</title>
-      <description>5900 BLOCK JACOBEAN PL Radio: 9C Units: 9C, E153, E331, R15, FS15</description>
-      <guid isPermaLink="false">2025-03-04 07:06:00</guid>
-      <pubDate>Tue, 04 Mar 2025 07:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:56 am</title>
-      <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2025-03-04 06:56:00</guid>
-      <pubDate>Tue, 04 Mar 2025 06:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
