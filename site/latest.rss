@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Mar 2025 06:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 07:02:24 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:56 am</title>
+      <description>5500 BLOCK ETZLER RD Units: E291, BR16</description>
+      <guid isPermaLink="false">2025-03-06 01:56:00</guid>
+      <pubDate>Thu, 06 Mar 2025 01:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:41 am</title>
+      <description>600 BLOCK VILLAGE GROVE DR, Apt/Unit:206, RESERVE OF BALLENGER - 600 BLOCK VILLAGE GROVE DR Units: PE311, E11, E31, PE23, E501, R3, TW1, TT4, A19, ALS4, BC902, BC903, SAF901, FS31</description>
+      <guid isPermaLink="false">2025-03-06 01:41:00</guid>
+      <pubDate>Thu, 06 Mar 2025 01:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 9:55 pm</title>
       <description>MERIDIAN CT / TENNISON DR Radio: 9D Units: PE311, A39, R3, 9D, ALS4, BC901, EMS901, FS31</description>
@@ -294,18 +306,6 @@
       <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311, TT4, FS31, 9C</description>
       <guid isPermaLink="false">2025-03-04 08:39:00</guid>
       <pubDate>Tue, 04 Mar 2025 08:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:33 am</title>
-      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9D Units: E31, R3, CMD33, TRNBC900, K33, ALS4, BC901, EMS901, A159, 9D, A339</description>
-      <guid isPermaLink="false">2025-03-04 07:33:00</guid>
-      <pubDate>Tue, 04 Mar 2025 07:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:28 am</title>
-      <description>RT144 / TERRA FIRMA RD, RT144 / TERRA FIRMA RD Radio: 9D Units: E31, R3, ALS4, BC901, EMS901, FS33, 9D, A339</description>
-      <guid isPermaLink="false">2025-03-04 07:28:00</guid>
-      <pubDate>Tue, 04 Mar 2025 07:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
