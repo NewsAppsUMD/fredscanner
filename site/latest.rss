@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 12:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 13:06:56 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:00 am</title>
+      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: A89, E82, 9B</description>
+      <guid isPermaLink="false">2025-03-07 08:00:00</guid>
+      <pubDate>Fri, 07 Mar 2025 08:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:19 am</title>
       <description>6900 BLOCK EXECUTIVE WAY Radio: 9C Units: PE311, TT4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK BUCKEYSTOWN PIKE Units: PE311, FS31</description>
       <guid isPermaLink="false">2025-03-04 18:54:00</guid>
       <pubDate>Tue, 04 Mar 2025 18:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 6:42 pm</title>
-      <description>14100 BLOCK HOOVERS MILL RD Units: E132, EK134, BR135</description>
-      <guid isPermaLink="false">2025-03-04 18:42:00</guid>
-      <pubDate>Tue, 04 Mar 2025 18:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
