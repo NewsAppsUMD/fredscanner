@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 19:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 19:31:27 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 2:09 pm</title>
+      <description>7500 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: BR125, FS12, 9C</description>
+      <guid isPermaLink="false">2025-03-07 14:09:00</guid>
+      <pubDate>Fri, 07 Mar 2025 14:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 11:40 am</title>
       <description>4200 BLOCK TREGOE MOUNTAIN RD Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BURGESS HILL WAY, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: 9C, TW1</description>
       <guid isPermaLink="false">2025-03-05 08:34:00</guid>
       <pubDate>Wed, 05 Mar 2025 08:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:13 am</title>
-      <description>5900 BLOCK GREEN VALLEY RD Radio: 9B Units: A159, 9B, E153, FS15</description>
-      <guid isPermaLink="false">2025-03-05 07:13:00</guid>
-      <pubDate>Wed, 05 Mar 2025 07:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
