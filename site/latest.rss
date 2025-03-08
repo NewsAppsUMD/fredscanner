@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Mar 2025 23:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:05:51 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:55 pm</title>
+      <description>2600 BLOCK CAULFIELD CT Units: E291</description>
+      <guid isPermaLink="false">2025-03-07 18:55:00</guid>
+      <pubDate>Fri, 07 Mar 2025 18:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:30 pm</title>
+      <description>FINGERBOARD RD / PRICES DISTILLERY RD, IAO Units: E251, FS23, A239</description>
+      <guid isPermaLink="false">2025-03-07 18:30:00</guid>
+      <pubDate>Fri, 07 Mar 2025 18:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:00 pm</title>
       <description>8300 BLOCK HOLLOW RD Radio: 9C Units: TW7, 9C, E121</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S BERLIN PIKE Radio: 6DTAC11 Units: T5</description>
       <guid isPermaLink="false">2025-03-05 13:07:00</guid>
       <pubDate>Wed, 05 Mar 2025 13:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:35 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: 9C, E23, TW1</description>
-      <guid isPermaLink="false">2025-03-05 12:35:00</guid>
-      <pubDate>Wed, 05 Mar 2025 12:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:30 pm</title>
-      <description>7300 BLOCK MARCIES CHOICE LN, Apt/Unit:FIRST, COUNTY DETENTION CENTER Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-05 12:30:00</guid>
-      <pubDate>Wed, 05 Mar 2025 12:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
