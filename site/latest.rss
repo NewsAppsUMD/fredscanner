@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 14:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 14:31:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:08 am</title>
+      <description>RT15NB / COLLEGE LN, RT15NB / COLLEGE LN Radio: 9B Units: PE102, EMS902, FS06, 9B, A69, R6</description>
+      <guid isPermaLink="false">2025-03-08 09:08:00</guid>
+      <pubDate>Sat, 08 Mar 2025 09:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:00 am</title>
+      <description>RT15NB / COLLEGE LN, RT15NB / COLLEGE LN Radio: 9B Units: E61, FS06, 9B, A69</description>
+      <guid isPermaLink="false">2025-03-08 09:00:00</guid>
+      <pubDate>Sat, 08 Mar 2025 09:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 7:42 am</title>
       <description>15000 BLOCK OAK ORCHARD RD Radio: 9C Units: CCLT8D, CCE101, CCR8, K17, 9C, E172, C17, CCEK84</description>
@@ -294,18 +306,6 @@
       <description>7800 BLOCK OLD RECEIVER RD Units: A19, E11</description>
       <guid isPermaLink="false">2025-03-06 05:57:00</guid>
       <pubDate>Thu, 06 Mar 2025 05:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:56 am</title>
-      <description>5500 BLOCK ETZLER RD Units: E291, BR16</description>
-      <guid isPermaLink="false">2025-03-06 01:56:00</guid>
-      <pubDate>Thu, 06 Mar 2025 01:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:41 am</title>
-      <description>600 BLOCK VILLAGE GROVE DR, Apt/Unit:206, RESERVE OF BALLENGER - 600 BLOCK VILLAGE GROVE DR Units: PE311, E11, E31, PE23, E501, R3, TW1, TT4, A19, ALS4, BC902, BC903, SAF901, FS31</description>
-      <guid isPermaLink="false">2025-03-06 01:41:00</guid>
-      <pubDate>Thu, 06 Mar 2025 01:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
