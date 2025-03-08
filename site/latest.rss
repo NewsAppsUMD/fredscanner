@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 14:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 15:01:41 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:54 am</title>
+      <description>7200 BLOCK DOGWOOD LN Radio: 9C Units: FS12, BR125, 9C</description>
+      <guid isPermaLink="false">2025-03-08 09:54:00</guid>
+      <pubDate>Sat, 08 Mar 2025 09:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:08 am</title>
       <description>RT15NB / COLLEGE LN, RT15NB / COLLEGE LN Radio: 9B Units: PE102, EMS902, FS06, 9B, A69, R6</description>
@@ -300,12 +306,6 @@
       <description>S JEFFERSON ST / RAMP RT15NB TO RT340WB RAMP Radio: 9B Units: R3, 9B, A39</description>
       <guid isPermaLink="false">2025-03-06 06:42:00</guid>
       <pubDate>Thu, 06 Mar 2025 06:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:57 am</title>
-      <description>7800 BLOCK OLD RECEIVER RD Units: A19, E11</description>
-      <guid isPermaLink="false">2025-03-06 05:57:00</guid>
-      <pubDate>Thu, 06 Mar 2025 05:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
