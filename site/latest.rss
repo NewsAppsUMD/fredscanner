@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 04:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 04:31:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:29 pm</title>
+      <description>19600 BLOCK KEEP TRYST ROAD Units: A196, RE52, ALS20</description>
+      <guid isPermaLink="false">2025-03-07 23:29:00</guid>
+      <pubDate>Fri, 07 Mar 2025 23:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:04 pm</title>
+      <description>200 BLOCK E CHURCH ST Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-03-07 23:04:00</guid>
+      <pubDate>Fri, 07 Mar 2025 23:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:51 pm</title>
       <description>100 BLOCK WILLOWDALE DR, Apt/Unit:13, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Units: E11</description>
@@ -294,18 +306,6 @@
       <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9B Units: A248, E111, FS11, 9B</description>
       <guid isPermaLink="false">2025-03-05 20:36:00</guid>
       <pubDate>Wed, 05 Mar 2025 20:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:01 pm</title>
-      <description>5900 BLOCK QUINN RD Units: E331, TT4, FS33</description>
-      <guid isPermaLink="false">2025-03-05 19:01:00</guid>
-      <pubDate>Wed, 05 Mar 2025 19:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 6:45 pm</title>
-      <description>12700 BLOCK BUNKER HILL RD Units: E172, CCE81</description>
-      <guid isPermaLink="false">2025-03-05 18:45:00</guid>
-      <pubDate>Wed, 05 Mar 2025 18:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
