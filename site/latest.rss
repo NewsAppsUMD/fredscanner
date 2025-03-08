@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 12:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 12:38:57 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE MALFUNCTION: 7:33 am</title>
+      <description>15000 BLOCK OAK ORCHARD RD Radio: 9C Units: CCE101, CCR8, K17, FS17, 9C, E172</description>
+      <guid isPermaLink="false">2025-03-08 07:33:00</guid>
+      <pubDate>Sat, 08 Mar 2025 07:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:48 am</title>
       <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311, TW1, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>MERIDIAN CT / TENNISON DR Radio: 9D Units: PE311, A39, R3, 9D, ALS4, BC901, EMS901, FS31</description>
       <guid isPermaLink="false">2025-03-05 21:55:00</guid>
       <pubDate>Wed, 05 Mar 2025 21:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 8:57 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Units: E11, PE311, TW1, FS31</description>
-      <guid isPermaLink="false">2025-03-05 20:57:00</guid>
-      <pubDate>Wed, 05 Mar 2025 20:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
