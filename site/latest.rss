@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Mar 2025 15:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 15:31:23 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:17 am</title>
+      <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: BR216, 9C</description>
+      <guid isPermaLink="false">2025-03-09 11:17:00</guid>
+      <pubDate>Sun, 09 Mar 2025 11:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:17 am</title>
+      <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: BR216, BR85, FS21, 9C</description>
+      <guid isPermaLink="false">2025-03-09 11:17:00</guid>
+      <pubDate>Sun, 09 Mar 2025 11:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:07 am</title>
+      <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: BR216, FS21, 9C</description>
+      <guid isPermaLink="false">2025-03-09 11:07:00</guid>
+      <pubDate>Sun, 09 Mar 2025 11:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:46 am</title>
       <description>W PATRICK ST / WILLOWDALE DR Radio: 9D Units: E11, R3, A18, ALS2, BC903, EMS902, 9D</description>
@@ -288,24 +306,6 @@
       <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: A89, E82, 9B</description>
       <guid isPermaLink="false">2025-03-07 08:00:00</guid>
       <pubDate>Fri, 07 Mar 2025 08:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:19 am</title>
-      <description>6900 BLOCK EXECUTIVE WAY Radio: 9C Units: PE311, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-07 05:19:00</guid>
-      <pubDate>Fri, 07 Mar 2025 05:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:47 pm</title>
-      <description>13900 BLOCK PENN SHOP RD, IFO Units: CCM18, BC901, E153, CCR1, R15, FS25, EMS901</description>
-      <guid isPermaLink="false">2025-03-06 21:47:00</guid>
-      <pubDate>Thu, 06 Mar 2025 21:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:28 pm</title>
-      <description>2500 BLOCK HOPTON LN Radio: 9C Units: Q11, E291, FS29, 9C, E111</description>
-      <guid isPermaLink="false">2025-03-06 20:28:00</guid>
-      <pubDate>Thu, 06 Mar 2025 20:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
