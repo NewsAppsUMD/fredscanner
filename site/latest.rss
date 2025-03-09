@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Mar 2025 01:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 01:53:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:46 pm</title>
+      <description>SCHAFFER DR / HAMPSHIRE DR Radio: 9B Units: A18, E11, 9B</description>
+      <guid isPermaLink="false">2025-03-08 20:46:00</guid>
+      <pubDate>Sat, 08 Mar 2025 20:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:36 pm</title>
+      <description>I70EB / MOUNT TABOR RD, I70EB / MOUNT TABOR RD Radio: 9D Units: EMS901, WCE161, E72, R8, WCA751, A89, ALS8, 9D, BC901</description>
+      <guid isPermaLink="false">2025-03-08 20:36:00</guid>
+      <pubDate>Sat, 08 Mar 2025 20:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 6:55 pm</title>
       <description>CLEMSONVILLE RD / UNIONVILLE RD Radio: 9C Units: 9C, E172, BR175</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK W MAIN ST Units: E61, PE102, R6, E132, BC902, ACE232, CMD6</description>
       <guid isPermaLink="false">2025-03-06 14:24:00</guid>
       <pubDate>Thu, 06 Mar 2025 14:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:18 pm</title>
-      <description>800 BLOCK W MAIN ST Units: E61, PE102, R6, ACE232, FS06</description>
-      <guid isPermaLink="false">2025-03-06 14:18:00</guid>
-      <pubDate>Thu, 06 Mar 2025 14:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:16 pm</title>
-      <description>1500 BLOCK TILCO DR, COUNTY WAREHOUSE - 1500 BLOCKB TILCO DR Units: E31, TT4</description>
-      <guid isPermaLink="false">2025-03-06 14:16:00</guid>
-      <pubDate>Thu, 06 Mar 2025 14:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
