@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Mar 2025 23:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 00:06:29 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:55 pm</title>
+      <description>CLEMSONVILLE RD / UNIONVILLE RD Radio: 9C Units: 9C, E172, BR175</description>
+      <guid isPermaLink="false">2025-03-08 18:55:00</guid>
+      <pubDate>Sat, 08 Mar 2025 18:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:54 pm</title>
+      <description>CLEMSONVILLE RD / UNIONVILLE RD Radio: 9C Units: BR176, FS17, 9C</description>
+      <guid isPermaLink="false">2025-03-08 18:54:00</guid>
+      <pubDate>Sat, 08 Mar 2025 18:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:23 pm</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Radio: 9C Units: PE311, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>1500 BLOCK TILCO DR, COUNTY WAREHOUSE - 1500 BLOCKB TILCO DR Units: E31, TT4</description>
       <guid isPermaLink="false">2025-03-06 14:16:00</guid>
       <pubDate>Thu, 06 Mar 2025 14:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:41 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
-      <guid isPermaLink="false">2025-03-06 13:41:00</guid>
-      <pubDate>Thu, 06 Mar 2025 13:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:50 pm</title>
-      <description>1000 BLOCK W PATRICK ST, ALDI - VISTA SHOPS AT GOLDEN MILE Units: TT4, E11</description>
-      <guid isPermaLink="false">2025-03-06 12:50:00</guid>
-      <pubDate>Thu, 06 Mar 2025 12:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
