@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 04:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 05:01:51 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 12:35 am</title>
+      <description>1400 BLOCKB KEY PKWY, Apt/Unit:103 Radio: 9C Units: 9C, E11, E121, TT4</description>
+      <guid isPermaLink="false">2025-03-10 00:35:00</guid>
+      <pubDate>Mon, 10 Mar 2025 00:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:00 pm</title>
       <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Radio: 9B Units: A28, FS29, E291, R24, A299, 9B, PE23</description>
@@ -300,12 +306,6 @@
       <description>15000 BLOCK OAK ORCHARD RD Radio: 9C Units: CCE101, CCR8, K17, FS17, 9C, E172</description>
       <guid isPermaLink="false">2025-03-08 07:33:00</guid>
       <pubDate>Sat, 08 Mar 2025 07:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:48 am</title>
-      <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-08 03:48:00</guid>
-      <pubDate>Sat, 08 Mar 2025 03:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
