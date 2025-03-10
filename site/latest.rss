@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 21:31:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 22:01:52 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 5:52 pm</title>
+      <description>24200 BLOCK BURNT HILL RD Radio: 7A1 Units: K23, TT23</description>
+      <guid isPermaLink="false">2025-03-10 17:52:00</guid>
+      <pubDate>Mon, 10 Mar 2025 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 5:44 pm</title>
+      <description>24300 BLOCK BURNT HILL RD Radio: 7A1 Units: K23</description>
+      <guid isPermaLink="false">2025-03-10 17:44:00</guid>
+      <pubDate>Mon, 10 Mar 2025 17:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:38 pm</title>
+      <description>2000 BLOCK ROSECRANS CT Radio: 9C Units: 9C, E291, FS29</description>
+      <guid isPermaLink="false">2025-03-10 17:38:00</guid>
+      <pubDate>Mon, 10 Mar 2025 17:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 3:33 pm</title>
       <description>1200 BLOCK LEAFY HOLLOW CIR Units: E153</description>
@@ -288,24 +306,6 @@
       <description>1600 BLOCK PINDER ST Radio: 9C Units: TT4, 9C, E23</description>
       <guid isPermaLink="false">2025-03-08 21:13:00</guid>
       <pubDate>Sat, 08 Mar 2025 21:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:52 pm</title>
-      <description>1400 BLOCK BAKER PL W, RESIDENCES AT THE MANOR - 1400 BLOCK BAKER PL Radio: 9C Units: E31, 9C, TT4</description>
-      <guid isPermaLink="false">2025-03-08 20:52:00</guid>
-      <pubDate>Sat, 08 Mar 2025 20:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:46 pm</title>
-      <description>SCHAFFER DR / HAMPSHIRE DR Radio: 9B Units: A18, E11, 9B</description>
-      <guid isPermaLink="false">2025-03-08 20:46:00</guid>
-      <pubDate>Sat, 08 Mar 2025 20:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:36 pm</title>
-      <description>I70EB / MOUNT TABOR RD, I70EB / MOUNT TABOR RD Radio: 9D Units: EMS901, WCE161, E72, R8, WCA751, A89, ALS8, 9D, BC901</description>
-      <guid isPermaLink="false">2025-03-08 20:36:00</guid>
-      <pubDate>Sat, 08 Mar 2025 20:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
