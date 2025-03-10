@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 23:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 23:31:51 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:24 pm</title>
+      <description>MARLEY ST / E MAIN ST Radio: 9C Units: BR156, FS15, 9C</description>
+      <guid isPermaLink="false">2025-03-10 19:24:00</guid>
+      <pubDate>Mon, 10 Mar 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:07 pm</title>
+      <description>200 BLOCK WINTERGREEN LN Radio: 9C Units: FS05, 9C, BR55</description>
+      <guid isPermaLink="false">2025-03-10 19:07:00</guid>
+      <pubDate>Mon, 10 Mar 2025 19:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:01 pm</title>
+      <description>JEFFERSON STATION 1 1050W WASHINGON ST Units: E51</description>
+      <guid isPermaLink="false">2025-03-10 19:01:00</guid>
+      <pubDate>Mon, 10 Mar 2025 19:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:56 pm</title>
       <description>JOHN BROWN FARM RD / MISSION RD Units: WILDLAND7</description>
@@ -288,24 +306,6 @@
       <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: BR216, FS21, 9C</description>
       <guid isPermaLink="false">2025-03-09 11:07:00</guid>
       <pubDate>Sun, 09 Mar 2025 11:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:46 am</title>
-      <description>W PATRICK ST / WILLOWDALE DR Radio: 9D Units: E11, R3, A18, ALS2, BC903, EMS902, 9D</description>
-      <guid isPermaLink="false">2025-03-09 10:46:00</guid>
-      <pubDate>Sun, 09 Mar 2025 10:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:24 am</title>
-      <description>9900 BLOCK LEWIS DR CVS PHARMACY LEWIS DR, CVS PHARMACY LEWIS DR Radio: 7A1 Units: R15, E251</description>
-      <guid isPermaLink="false">2025-03-09 04:24:00</guid>
-      <pubDate>Sun, 09 Mar 2025 04:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 3:11 am</title>
-      <description>20000 BLOCK MARBLE HILL CT Units: T5</description>
-      <guid isPermaLink="false">2025-03-09 03:11:00</guid>
-      <pubDate>Sun, 09 Mar 2025 03:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
