@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 22:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 23:01:55 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 6:56 pm</title>
+      <description>JOHN BROWN FARM RD / MISSION RD Units: WILDLAND7</description>
+      <guid isPermaLink="false">2025-03-10 18:56:00</guid>
+      <pubDate>Mon, 10 Mar 2025 18:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:07 pm</title>
       <description>26300 BLOCK RIDGE RD, STATION MC713 - DAMASCUS Units: E31</description>
@@ -300,12 +306,6 @@
       <description>20000 BLOCK MARBLE HILL CT Units: T5</description>
       <guid isPermaLink="false">2025-03-09 03:11:00</guid>
       <pubDate>Sun, 09 Mar 2025 03:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:59 pm</title>
-      <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Radio: 9B Units: E153, R15, A159, CCA18, FS15, 9B, CCR1</description>
-      <guid isPermaLink="false">2025-03-08 21:59:00</guid>
-      <pubDate>Sat, 08 Mar 2025 21:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
