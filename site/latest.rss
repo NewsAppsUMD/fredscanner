@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Mar 2025 18:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 19:01:47 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 2:58 pm</title>
+      <description>5800 BLOCK HOLLYS WAY Units: BR156, FS15</description>
+      <guid isPermaLink="false">2025-03-10 14:58:00</guid>
+      <pubDate>Mon, 10 Mar 2025 14:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:56 pm</title>
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Units: E291, R10, A229, FS22, ALS30, EK224, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>CLEMSONVILLE RD / UNIONVILLE RD Radio: 9C Units: BR176, FS17, 9C</description>
       <guid isPermaLink="false">2025-03-08 18:54:00</guid>
       <pubDate>Sat, 08 Mar 2025 18:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:23 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-08 17:23:00</guid>
-      <pubDate>Sat, 08 Mar 2025 17:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
