@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Mar 2025 23:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 23:31:38 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 7:16 pm</title>
+      <description>1500 BLOCK MARKER RD Radio: 9C Units: 9C, E72, WCBR8, C7</description>
+      <guid isPermaLink="false">2025-03-11 19:16:00</guid>
+      <pubDate>Tue, 11 Mar 2025 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:08 pm</title>
+      <description>I70EB / I270, I70EB / I270 Radio: 9D Units: 9D, E31, E11, R3, A28, A209, ALS31, EMS901</description>
+      <guid isPermaLink="false">2025-03-11 19:08:00</guid>
+      <pubDate>Tue, 11 Mar 2025 19:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:41 pm</title>
       <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: A318, PE311, 9B</description>
@@ -294,18 +306,6 @@
       <description>5800 BLOCK HAWK RIDGE RD Radio: 9C Units: 9C, E331</description>
       <guid isPermaLink="false">2025-03-10 09:33:00</guid>
       <pubDate>Mon, 10 Mar 2025 09:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:46 am</title>
-      <description>ROHRERSVILLE RD / GAPLAND RD Radio: TAC1OPS Units: RE52, T5, BC903, E72, TAC1OPS</description>
-      <guid isPermaLink="false">2025-03-10 07:46:00</guid>
-      <pubDate>Mon, 10 Mar 2025 07:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:42 am</title>
-      <description>ROHRERERSVILLE / GAPLAND RD Units: RE52, T5</description>
-      <guid isPermaLink="false">2025-03-10 07:42:00</guid>
-      <pubDate>Mon, 10 Mar 2025 07:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
