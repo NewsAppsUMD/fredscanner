@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 17:33:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 18:02:43 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:38 pm</title>
+      <description>300 BLOCK W PATRICK ST Radio: 9C Units: 9C, BR35</description>
+      <guid isPermaLink="false">2025-03-12 13:38:00</guid>
+      <pubDate>Wed, 12 Mar 2025 13:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SELF INFLICTED SHOOTING: 1:33 pm</title>
+      <description>600 BLOCK CULLER AVE Radio: 9B Units: ALS2, PE23, A28, 9B, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-03-12 13:33:00</guid>
+      <pubDate>Wed, 12 Mar 2025 13:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:06 pm</title>
       <description>100 BLOCK BAUGHMANS LN, FREDERICK COUNTY SQUARE - 100 BLOCK BAUGHMANS LN Units: A18, E11</description>
@@ -294,18 +306,6 @@
       <description>24200 BLOCK BURNT HILL RD Radio: 7A1 Units: K23, TT23</description>
       <guid isPermaLink="false">2025-03-10 17:52:00</guid>
       <pubDate>Mon, 10 Mar 2025 17:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 5:44 pm</title>
-      <description>24300 BLOCK BURNT HILL RD Radio: 7A1 Units: K23</description>
-      <guid isPermaLink="false">2025-03-10 17:44:00</guid>
-      <pubDate>Mon, 10 Mar 2025 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:38 pm</title>
-      <description>2000 BLOCK ROSECRANS CT Radio: 9C Units: 9C, E291, FS29</description>
-      <guid isPermaLink="false">2025-03-10 17:38:00</guid>
-      <pubDate>Mon, 10 Mar 2025 17:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
