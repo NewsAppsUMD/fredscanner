@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 21:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 22:02:06 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:36 pm</title>
+      <description>HAGERSTOWN STATION 4, 526 WASHINGTON SQUARE Units: E72</description>
+      <guid isPermaLink="false">2025-03-12 17:36:00</guid>
+      <pubDate>Wed, 12 Mar 2025 17:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SELF INFLICTED SHOOTING: 5:30 pm</title>
+      <description>7900 BLOCK REICHS FORD RD, MACHINE GUN NEST Radio: 9D Units: A38, E31, BC901, EMS901, 9D, ALS4</description>
+      <guid isPermaLink="false">2025-03-12 17:30:00</guid>
+      <pubDate>Wed, 12 Mar 2025 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 4:05 pm</title>
       <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9C Units: E331, BR35, 9C</description>
@@ -294,18 +306,6 @@
       <description>JEFFERSON STATION 1 1050W WASHINGON ST Units: E51</description>
       <guid isPermaLink="false">2025-03-10 19:01:00</guid>
       <pubDate>Mon, 10 Mar 2025 19:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:56 pm</title>
-      <description>JOHN BROWN FARM RD / MISSION RD Units: WILDLAND7</description>
-      <guid isPermaLink="false">2025-03-10 18:56:00</guid>
-      <pubDate>Mon, 10 Mar 2025 18:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:07 pm</title>
-      <description>26300 BLOCK RIDGE RD, STATION MC713 - DAMASCUS Units: E31</description>
-      <guid isPermaLink="false">2025-03-10 18:07:00</guid>
-      <pubDate>Mon, 10 Mar 2025 18:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
