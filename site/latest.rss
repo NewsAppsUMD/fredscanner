@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 23:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 23:32:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
+      <description>OLD NATIONAL PIKE / BOYERS MILL RD Radio: 9B Units: A159, E153, FS15, 9B</description>
+      <guid isPermaLink="false">2025-03-12 19:24:00</guid>
+      <pubDate>Wed, 12 Mar 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:14 pm</title>
+      <description>100 BLOCK W ORNDORFF DR Units: E51, E201, T5, FS05</description>
+      <guid isPermaLink="false">2025-03-12 19:14:00</guid>
+      <pubDate>Wed, 12 Mar 2025 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:36 pm</title>
       <description>HAGERSTOWN STATION 4, 526 WASHINGTON SQUARE Units: E72</description>
@@ -294,18 +306,6 @@
       <description>MARLEY ST / E MAIN ST Radio: 9C Units: BR156, FS15, 9C</description>
       <guid isPermaLink="false">2025-03-10 19:24:00</guid>
       <pubDate>Mon, 10 Mar 2025 19:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:07 pm</title>
-      <description>200 BLOCK WINTERGREEN LN Radio: 9C Units: FS05, 9C, BR55</description>
-      <guid isPermaLink="false">2025-03-10 19:07:00</guid>
-      <pubDate>Mon, 10 Mar 2025 19:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:01 pm</title>
-      <description>JEFFERSON STATION 1 1050W WASHINGON ST Units: E51</description>
-      <guid isPermaLink="false">2025-03-10 19:01:00</guid>
-      <pubDate>Mon, 10 Mar 2025 19:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
