@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Mar 2025 23:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 00:07:30 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:56 pm</title>
+      <description>12900 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: C24, HCK4, CCT1, R24, K17, CCK1, K33, A179, ALS17, BC901, 9D, C11D, FS15, E153, E251, E162, E111, R15, C15, E331, C15B, E172, BC902, SAF901, K23, CCC1</description>
+      <guid isPermaLink="false">2025-03-12 19:56:00</guid>
+      <pubDate>Wed, 12 Mar 2025 19:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:50 pm</title>
+      <description>OLD ANNAPOLIS RD / DETRICK RD Units: CCT1, R24, K17, CCK1, K33, A179, ALS17, BC901, E153, E251, E162, E111, R15, E331, E172, BC902, SAF901, FS15</description>
+      <guid isPermaLink="false">2025-03-12 19:50:00</guid>
+      <pubDate>Wed, 12 Mar 2025 19:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
       <description>OLD NATIONAL PIKE / BOYERS MILL RD Radio: 9B Units: A159, E153, FS15, 9B</description>
@@ -294,18 +306,6 @@
       <description>2000 BLOCK BUTTERFIELD OVERLOOK Radio: 9C Units: FS29, 9C, E291</description>
       <guid isPermaLink="false">2025-03-10 20:54:00</guid>
       <pubDate>Mon, 10 Mar 2025 20:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 7:33 pm</title>
-      <description>1000 BLOCK CARLTON PL, WESTWINDS APTS - 1000 BLOCK CARLTON PL Radio: 9C Units: E11, BR16, 9C</description>
-      <guid isPermaLink="false">2025-03-10 19:33:00</guid>
-      <pubDate>Mon, 10 Mar 2025 19:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:24 pm</title>
-      <description>MARLEY ST / E MAIN ST Radio: 9C Units: BR156, FS15, 9C</description>
-      <guid isPermaLink="false">2025-03-10 19:24:00</guid>
-      <pubDate>Mon, 10 Mar 2025 19:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
