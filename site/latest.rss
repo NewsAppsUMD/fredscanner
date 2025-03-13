@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 12:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 12:43:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:30 am</title>
+      <description>100 BLOCK CARROLL CREEK WAY, SOUTH MARKET CENTER Radio: 9C Units: 9C, E31, TT4</description>
+      <guid isPermaLink="false">2025-03-13 08:30:00</guid>
+      <pubDate>Thu, 13 Mar 2025 08:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:33 am</title>
       <description>100 BLOCK E ALL SAINTS ST Radio: 9C Units: TT4, 9C, E31</description>
@@ -300,12 +306,6 @@
       <description>11300 BLOCK DAYSVILLE RD Radio: 9C Units: E172, 9C, BC902, K17, EK224, BR176, BR116</description>
       <guid isPermaLink="false">2025-03-11 08:39:00</guid>
       <pubDate>Tue, 11 Mar 2025 08:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 8:34 am</title>
-      <description>11300 BLOCK DAYSVILLE RD Radio: 9C Units: E172, 9C, K17, BR176</description>
-      <guid isPermaLink="false">2025-03-11 08:34:00</guid>
-      <pubDate>Tue, 11 Mar 2025 08:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
