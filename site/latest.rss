@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Mar 2025 23:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 00:06:57 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 7:49 pm</title>
+      <description>5400 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK DISTRICT PARK Radio: 9D Units: E11, 9D</description>
+      <guid isPermaLink="false">2025-03-13 19:49:00</guid>
+      <pubDate>Thu, 13 Mar 2025 19:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:42 pm</title>
+      <description>CRESTWOOD BLVD / BALLENGER CREEK PIKE Radio: 9D Units: A318, ALS31, PE311, EMS901, FS31, 9D</description>
+      <guid isPermaLink="false">2025-03-13 19:42:00</guid>
+      <pubDate>Thu, 13 Mar 2025 19:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
       <description>11500 BLOCK HARP HILL RD Radio: 9B Units: E82, 9B, A89, E212</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Radio: 9B Units: E31, R3, A18, A39, 9B, E11</description>
       <guid isPermaLink="false">2025-03-11 17:06:00</guid>
       <pubDate>Tue, 11 Mar 2025 17:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:01 pm</title>
-      <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Radio: 9C Units: CCBR15, E153, 9C, BR156, E251</description>
-      <guid isPermaLink="false">2025-03-11 17:01:00</guid>
-      <pubDate>Tue, 11 Mar 2025 17:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:51 pm</title>
-      <description>100 BLOCK FREDERICK RD, THURMONT COMMUNITY PARK Radio: 9C Units: 9C, PE102, BR106</description>
-      <guid isPermaLink="false">2025-03-11 16:51:00</guid>
-      <pubDate>Tue, 11 Mar 2025 16:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
