@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Mar 2025 00:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 01:29:13 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 8:55 pm</title>
+      <description>6500 BLOCK HOLTER RD, JUMBOS PUMPKIN PATCH Radio: 9C Units: FS12, 9C, BR125</description>
+      <guid isPermaLink="false">2025-03-13 20:55:00</guid>
+      <pubDate>Thu, 13 Mar 2025 20:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:22 pm</title>
       <description>GLENOBLE CT / GLEN HILL CT Radio: 9C Units: BR205, FS20, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70EB / I270, I70EB / I270 Radio: 9D Units: 9D, E31, E11, R3, A28, A209, ALS31, EMS901</description>
       <guid isPermaLink="false">2025-03-11 19:08:00</guid>
       <pubDate>Tue, 11 Mar 2025 19:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:41 pm</title>
-      <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: A318, PE311, 9B</description>
-      <guid isPermaLink="false">2025-03-11 18:41:00</guid>
-      <pubDate>Tue, 11 Mar 2025 18:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
