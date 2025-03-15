@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 06:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 07:02:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:43 am</title>
+      <description>1700 BLOCK N MARKET ST Radio: 9C Units: 9C, PE23, TT4</description>
+      <guid isPermaLink="false">2025-03-15 02:43:00</guid>
+      <pubDate>Sat, 15 Mar 2025 02:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:21 am</title>
       <description>6500 BLOCK MORNINGSIDE CT Radio: 9D Units: RE74, A79, ALS8, BC903, EMS901, 9D, E72</description>
@@ -300,12 +306,6 @@
       <description>12900 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: C24, HCK4, CCT1, R24, K17, CCK1, K33, A179, ALS17, BC901, 9D, C11D, FS15, E153, E251, E162, E111, R15, C15, E331, C15B, E172, BC902, SAF901, K23, CCC1</description>
       <guid isPermaLink="false">2025-03-12 19:56:00</guid>
       <pubDate>Wed, 12 Mar 2025 19:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:50 pm</title>
-      <description>OLD ANNAPOLIS RD / DETRICK RD Units: CCT1, R24, K17, CCK1, K33, A179, ALS17, BC901, E153, E251, E162, E111, R15, E331, E172, BC902, SAF901, FS15</description>
-      <guid isPermaLink="false">2025-03-12 19:50:00</guid>
-      <pubDate>Wed, 12 Mar 2025 19:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
