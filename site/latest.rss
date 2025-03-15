@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 02:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 02:45:59 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:18 pm</title>
+      <description>I70 / HOWARD CO LINE Units: E153</description>
+      <guid isPermaLink="false">2025-03-14 22:18:00</guid>
+      <pubDate>Fri, 14 Mar 2025 22:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 10:14 pm</title>
+      <description>6500 BLOCK HOLTER RD, JUMBOS PUMPKIN PATCH Radio: 9C Units: BR125, FS12, 9C</description>
+      <guid isPermaLink="false">2025-03-14 22:14:00</guid>
+      <pubDate>Fri, 14 Mar 2025 22:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 9:48 pm</title>
       <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Radio: 9C Units: BR55, FS05, 9C</description>
@@ -294,18 +306,6 @@
       <description>HAGERSTOWN STATION 4, 526 WASHINGTON SQUARE Units: E72</description>
       <guid isPermaLink="false">2025-03-12 17:36:00</guid>
       <pubDate>Wed, 12 Mar 2025 17:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SELF INFLICTED SHOOTING: 5:30 pm</title>
-      <description>7900 BLOCK REICHS FORD RD, MACHINE GUN NEST Radio: 9D Units: A38, E31, BC901, EMS901, 9D, ALS4</description>
-      <guid isPermaLink="false">2025-03-12 17:30:00</guid>
-      <pubDate>Wed, 12 Mar 2025 17:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:05 pm</title>
-      <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9C Units: E331, BR35, 9C</description>
-      <guid isPermaLink="false">2025-03-12 16:05:00</guid>
-      <pubDate>Wed, 12 Mar 2025 16:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
