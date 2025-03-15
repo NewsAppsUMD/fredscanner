@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Mar 2025 03:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 03:36:53 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:18 pm</title>
+      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9B Units: E172, 9B, A179, FS17</description>
+      <guid isPermaLink="false">2025-03-14 23:18:00</guid>
+      <pubDate>Fri, 14 Mar 2025 23:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:18 pm</title>
       <description>I70 / HOWARD CO LINE Units: E153</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W ORNDORFF DR Units: E51, E201, T5, FS05</description>
       <guid isPermaLink="false">2025-03-12 19:14:00</guid>
       <pubDate>Wed, 12 Mar 2025 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:36 pm</title>
-      <description>HAGERSTOWN STATION 4, 526 WASHINGTON SQUARE Units: E72</description>
-      <guid isPermaLink="false">2025-03-12 17:36:00</guid>
-      <pubDate>Wed, 12 Mar 2025 17:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
