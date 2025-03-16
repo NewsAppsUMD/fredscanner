@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 01:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 02:11:39 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:58 pm</title>
+      <description>KEY PKWY / WAVERLEY DR Radio: 9B Units: E11, 9B, A19</description>
+      <guid isPermaLink="false">2025-03-15 21:58:00</guid>
+      <pubDate>Sat, 15 Mar 2025 21:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:14 pm</title>
       <description>3600 BLOCK GREEN VALLEY RD, HICKORY PLAINS FARM Radio: 9B Units: FS25, 9B, A259, E251</description>
@@ -300,12 +306,6 @@
       <description>HOLTER RD / BUSSARD RD Radio: 9C Units: FS12, BR125, 9C</description>
       <guid isPermaLink="false">2025-03-13 08:57:00</guid>
       <pubDate>Thu, 13 Mar 2025 08:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 8:55 am</title>
-      <description>4900 BLOCK SMALL GAINS WAY Radio: 9C Units: PE311, E141, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-13 08:55:00</guid>
-      <pubDate>Thu, 13 Mar 2025 08:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
