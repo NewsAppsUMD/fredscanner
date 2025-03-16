@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 13:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 14:01:37 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:34 am</title>
+      <description>11700 BLOCK OLD ANNAPOLIS RD, IAO Units: FS17, BR175</description>
+      <guid isPermaLink="false">2025-03-16 09:34:00</guid>
+      <pubDate>Sun, 16 Mar 2025 09:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:05 am</title>
       <description>300 BLOCK E CHURCH ST Radio: 9C Units: E31, 9C</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK SPRING HOLLOW LN Radio: 9D Units: A239, ALS23, E231, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2025-03-13 16:48:00</guid>
       <pubDate>Thu, 13 Mar 2025 16:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 4:13 pm</title>
-      <description>WOODLAND AVE / BLUE RIDGE AVE Radio: 9C Units: E102, BR135, 9C</description>
-      <guid isPermaLink="false">2025-03-13 16:13:00</guid>
-      <pubDate>Thu, 13 Mar 2025 16:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
