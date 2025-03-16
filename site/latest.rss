@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Mar 2025 20:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 21:01:46 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:45 pm</title>
+      <description>ED SEARS RD / DELLA RD, IAO Units: E141, FS14</description>
+      <guid isPermaLink="false">2025-03-16 16:45:00</guid>
+      <pubDate>Sun, 16 Mar 2025 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:36 pm</title>
+      <description>13400 BLOCK LIBERTY RD, ACROSS FROM Radio: 9C Units: E162, FS17, BR175, 9C, C17C</description>
+      <guid isPermaLink="false">2025-03-16 16:36:00</guid>
+      <pubDate>Sun, 16 Mar 2025 16:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:36 pm</title>
+      <description>13400 BLOCK LIBERTY RD, ACROSS FROM Radio: 9C Units: E162, FS17, BR175, 9C, C17C</description>
+      <guid isPermaLink="false">2025-03-16 16:36:00</guid>
+      <pubDate>Sun, 16 Mar 2025 16:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:35 pm</title>
+      <description>300 BLOCK BIRMINGHAM CT Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-03-16 16:35:00</guid>
+      <pubDate>Sun, 16 Mar 2025 16:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:30 pm</title>
+      <description>13400 BLOCK LIBERTY RD, ACROSS FROM Radio: 9C Units: FS17, BR175, 9C</description>
+      <guid isPermaLink="false">2025-03-16 16:30:00</guid>
+      <pubDate>Sun, 16 Mar 2025 16:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:14 pm</title>
       <description>10700 BLOCK DAYSVILLE RD Radio: 9C Units: BR176, FS17, 9C</description>
@@ -276,36 +306,6 @@
       <description>RT15SB / W SEVENTH ST(W SEVENTH ST), RT15SB / W SEVENTH ST Radio: 9B Units: E11, E501, R2, A28, A19, 9B</description>
       <guid isPermaLink="false">2025-03-14 17:04:00</guid>
       <pubDate>Fri, 14 Mar 2025 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:56 pm</title>
-      <description>10700 BLOCK FINGERBOARD RD Units: E251, R15, EMS901, FS25, TT23, A259, ALS23, BC903</description>
-      <guid isPermaLink="false">2025-03-14 16:56:00</guid>
-      <pubDate>Fri, 14 Mar 2025 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 3:47 pm</title>
-      <description>100 BLOCK GARAGE DR, Apt/Unit:A Radio: 9C Units: E72, 9C</description>
-      <guid isPermaLink="false">2025-03-14 15:47:00</guid>
-      <pubDate>Fri, 14 Mar 2025 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 3:41 pm</title>
-      <description>DEER SPRING RD / DEER SPRING LN Radio: 9C Units: E121, BR125, FS12, 9C</description>
-      <guid isPermaLink="false">2025-03-14 15:41:00</guid>
-      <pubDate>Fri, 14 Mar 2025 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:27 pm</title>
-      <description>100 BLOCK CARROLL CREEK WAY Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2025-03-14 13:27:00</guid>
-      <pubDate>Fri, 14 Mar 2025 13:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 11:58 am</title>
-      <description>ENGLISH MUFFIN WAY / MACK AVE Radio: 9D Units: R3, HM33, HM50, HMSU33, E121, A318, A319, ALS31, BC901, SAF901, EMS902, FS31, 9D, E31, PE311</description>
-      <guid isPermaLink="false">2025-03-14 11:58:00</guid>
-      <pubDate>Fri, 14 Mar 2025 11:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
