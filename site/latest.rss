@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 11:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 12:03:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:57 am</title>
+      <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: A89, E82, 9B</description>
+      <guid isPermaLink="false">2025-03-17 07:57:00</guid>
+      <pubDate>Mon, 17 Mar 2025 07:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:53 am</title>
       <description>3600 BLOCK DENISON ST Radio: 9C Units: E231, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>OLD ANNAPOLIS RD / GREEN VALLEY RD Radio: 9C Units: BR176, 9C, FS17</description>
       <guid isPermaLink="false">2025-03-15 16:48:00</guid>
       <pubDate>Sat, 15 Mar 2025 16:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 2:49 pm</title>
-      <description>100 BLOCK E FOURTH ST Radio: 9D Units: A28, PE23, E31, 9D, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-03-15 14:49:00</guid>
-      <pubDate>Sat, 15 Mar 2025 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
