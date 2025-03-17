@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 20:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 21:01:52 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:51 pm</title>
+      <description>200 BLOCK W SOUTH ST Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-03-17 16:51:00</guid>
+      <pubDate>Mon, 17 Mar 2025 16:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:49 pm</title>
+      <description>I70EB / 42MM, I70EB / 42MM Radio: 9D Units: WCE161, R8, A79, WCA756, ALS8, EMS901, E72, 9D</description>
+      <guid isPermaLink="false">2025-03-17 16:49:00</guid>
+      <pubDate>Mon, 17 Mar 2025 16:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:49 pm</title>
       <description>POOLE JONES RD / CHRISTOPHERS XING Radio: 9B Units: A299, E11, FS29, 9B</description>
@@ -294,18 +306,6 @@
       <description>10200 BLOCK CLARK RD Units: E82</description>
       <guid isPermaLink="false">2025-03-16 08:10:00</guid>
       <pubDate>Sun, 16 Mar 2025 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:07 am</title>
-      <description>1300 BLOCK BUTTERFLY LN Radio: 9C Units: 9C, E11</description>
-      <guid isPermaLink="false">2025-03-16 02:07:00</guid>
-      <pubDate>Sun, 16 Mar 2025 02:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:53 am</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: WCE161, E72, R8, WCA752, A89, EMS901, ALS8, BC903</description>
-      <guid isPermaLink="false">2025-03-16 00:53:00</guid>
-      <pubDate>Sun, 16 Mar 2025 00:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
