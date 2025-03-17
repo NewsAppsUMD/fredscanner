@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 16:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 17:02:06 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:49 pm</title>
+      <description>POOLE JONES RD / CHRISTOPHERS XING Radio: 9B Units: A299, E11, FS29, 9B</description>
+      <guid isPermaLink="false">2025-03-17 12:49:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:20 pm</title>
       <description>100 BLOCK TOLLHOUSE CT Units: T4, T50, A18, ALS2, BC901, SAF901, E11, E33, E501, PE23, E291, R3, BC902</description>
@@ -300,12 +306,6 @@
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: WCE161, E72, R8, WCA752, A89, EMS901, ALS8, BC903</description>
       <guid isPermaLink="false">2025-03-16 00:53:00</guid>
       <pubDate>Sun, 16 Mar 2025 00:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 11:48 pm</title>
-      <description>5600 BLOCK AVONSHIRE PL, Apt/Unit:J Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-15 23:48:00</guid>
-      <pubDate>Sat, 15 Mar 2025 23:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
