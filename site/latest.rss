@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 04:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 04:35:16 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:19 am</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: A19, E11</description>
+      <guid isPermaLink="false">2025-03-17 00:19:00</guid>
+      <pubDate>Mon, 17 Mar 2025 00:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 12:07 am</title>
+      <description>100 BLOCK CITIZENS WAY, CREEKSIDE PLAZA Units: R3</description>
+      <guid isPermaLink="false">2025-03-17 00:07:00</guid>
+      <pubDate>Mon, 17 Mar 2025 00:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:07 pm</title>
       <description>GREEN VALLEY RD / HOUCK RD Units: CCBR85, BR176, FS17</description>
@@ -294,18 +306,6 @@
       <description>I70EB / 61MM, I70EB / 61MM Radio: 9B Units: E153, E331, R15, A339, A159, FS33, 9B</description>
       <guid isPermaLink="false">2025-03-15 13:48:00</guid>
       <pubDate>Sat, 15 Mar 2025 13:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:11 pm</title>
-      <description>RT355 / RT80, RT355 / RT80 Radio: 9C Units: FS23, 9C, BR235</description>
-      <guid isPermaLink="false">2025-03-15 13:11:00</guid>
-      <pubDate>Sat, 15 Mar 2025 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:33 am</title>
-      <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: E11, A19, 9B</description>
-      <guid isPermaLink="false">2025-03-15 11:33:00</guid>
-      <pubDate>Sat, 15 Mar 2025 11:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
