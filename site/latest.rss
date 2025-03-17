@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Mar 2025 16:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 16:37:26 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:20 pm</title>
+      <description>100 BLOCK TOLLHOUSE CT Units: T4, T50, A18, ALS2, BC901, SAF901, E11, E33, E501, PE23, E291, R3, BC902</description>
+      <guid isPermaLink="false">2025-03-17 12:20:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:10 pm</title>
+      <description>100 BLOCK BLK 15N BTWN ANGLEBERGER RD &amp; CATOCTIN FURNACE RD HWY Radio: 9B Units: R10, EK224, 9B, A229</description>
+      <guid isPermaLink="false">2025-03-17 12:10:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 12:07 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, RAINBOW Radio: 9B Units: EMS902, BC903, EMS901, A319, A39, 9B, PE311, ALS31</description>
+      <guid isPermaLink="false">2025-03-17 12:07:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:05 pm</title>
+      <description>100 BLOCK BLK 15N BTWN ANGLEBERGER RD &amp; CATOCTIN FURNACE RD HWY Radio: 9B Units: FS22, R10, EK224, 9B, A229</description>
+      <guid isPermaLink="false">2025-03-17 12:05:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 12:01 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, RAINBOW Radio: 9B Units: BC903, EMS901, A319, A39, 9B, PE311</description>
+      <guid isPermaLink="false">2025-03-17 12:01:00</guid>
+      <pubDate>Mon, 17 Mar 2025 12:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
       <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: T4, 9C, E33</description>
@@ -276,36 +306,6 @@
       <description>5600 BLOCK AVONSHIRE PL, Apt/Unit:J Radio: 9C Units: PE311, FS31, 9C</description>
       <guid isPermaLink="false">2025-03-15 23:48:00</guid>
       <pubDate>Sat, 15 Mar 2025 23:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:40 pm</title>
-      <description>200 BLOCK CHIEFTAN LN Radio: TAC1OPS Units: R8, TAC1OPS</description>
-      <guid isPermaLink="false">2025-03-15 23:40:00</guid>
-      <pubDate>Sat, 15 Mar 2025 23:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:32 pm</title>
-      <description>100 BLOCK BLACK FOREST LN Radio: 6HTAC21 Units: A198, E201, E281, T5, R14</description>
-      <guid isPermaLink="false">2025-03-15 22:32:00</guid>
-      <pubDate>Sat, 15 Mar 2025 22:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:58 pm</title>
-      <description>KEY PKWY / WAVERLEY DR Radio: 9B Units: E11, 9B, A19</description>
-      <guid isPermaLink="false">2025-03-15 21:58:00</guid>
-      <pubDate>Sat, 15 Mar 2025 21:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:14 pm</title>
-      <description>3600 BLOCK GREEN VALLEY RD, HICKORY PLAINS FARM Radio: 9B Units: FS25, 9B, A259, E251</description>
-      <guid isPermaLink="false">2025-03-15 21:14:00</guid>
-      <pubDate>Sat, 15 Mar 2025 21:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:29 pm</title>
-      <description>HAMBURG RD / GAMBRILL PARK RD Radio: 9C Units: BR85, 9C</description>
-      <guid isPermaLink="false">2025-03-15 18:29:00</guid>
-      <pubDate>Sat, 15 Mar 2025 18:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
