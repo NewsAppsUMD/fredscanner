@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Mar 2025 10:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 10:35:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:02 am</title>
+      <description>EVAN CT / GALYN DR Radio: 9D Units: R19, A198, ALS20, EMS901, RE52, FS05, 9D</description>
+      <guid isPermaLink="false">2025-03-18 06:02:00</guid>
+      <pubDate>Tue, 18 Mar 2025 06:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:05 am</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: PRE709, A735, R3, E231, A239</description>
@@ -298,12 +304,6 @@
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:20 pm</title>
       <description>3900 BLOCK BUCKEYSTOWN PIKE, SAINT JOHNS CATHOLIC PREP Radio: 9C Units: PE311, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-16 14:20:00</guid>
-      <pubDate>Sun, 16 Mar 2025 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:20 pm</title>
-      <description>3300 BLOCK SAMS CREEK RD Radio: 9B Units: FS17, 9B, CCBR105</description>
       <guid isPermaLink="false">2025-03-16 14:20:00</guid>
       <pubDate>Sun, 16 Mar 2025 14:20:00 -0400</pubDate>
     </item>
