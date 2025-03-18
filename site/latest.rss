@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Mar 2025 16:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 17:02:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:51 pm</title>
+      <description>11800 BLOCK LIBERTY RD, LIBERTY ELEMENTARY SCHOOL Radio: 9C Units: TW1, RE171, FS17, 9C</description>
+      <guid isPermaLink="false">2025-03-18 12:51:00</guid>
+      <pubDate>Tue, 18 Mar 2025 12:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:31 pm</title>
       <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A299, R2, 9B</description>
@@ -300,12 +306,6 @@
       <description>13400 BLOCK LIBERTY RD, ACROSS FROM Radio: 9C Units: FS17, BR175, 9C</description>
       <guid isPermaLink="false">2025-03-16 16:30:00</guid>
       <pubDate>Sun, 16 Mar 2025 16:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:14 pm</title>
-      <description>10700 BLOCK DAYSVILLE RD Radio: 9C Units: BR176, FS17, 9C</description>
-      <guid isPermaLink="false">2025-03-16 16:14:00</guid>
-      <pubDate>Sun, 16 Mar 2025 16:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
