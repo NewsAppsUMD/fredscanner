@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 17:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 17:33:53 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 1:08 pm</title>
+      <description>BAUGHMANS LN / ROSEMONT AVE Radio: 9D Units: EMS902, 9D, ALS29, E11, A18</description>
+      <guid isPermaLink="false">2025-03-19 13:08:00</guid>
+      <pubDate>Wed, 19 Mar 2025 13:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE - ENTRAPMENT: 11:26 am</title>
       <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: E33, R2, C1C, E281, PE311, E121, K1, K5, A149, A18, E11, C1, E141, E201, T4, EK204, SAF901, C3, BC901, EMS901, TW1, ALS31, BC903</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK 15N BTWN ANGLEBERGER RD &amp; CATOCTIN FURNACE RD HWY Radio: 9B Units: FS22, R10, EK224, 9B, A229</description>
       <guid isPermaLink="false">2025-03-17 12:05:00</guid>
       <pubDate>Mon, 17 Mar 2025 12:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 12:01 pm</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, RAINBOW Radio: 9B Units: BC903, EMS901, A319, A39, 9B, PE311</description>
-      <guid isPermaLink="false">2025-03-17 12:01:00</guid>
-      <pubDate>Mon, 17 Mar 2025 12:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
