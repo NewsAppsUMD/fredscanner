@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 15:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 15:34:40 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 11:26 am</title>
+      <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: E33, R2, C1C, E281, PE311, E121, K1, K5, A149, A18, E11, C1, E141, E201, T4, EK204, SAF901, C3, BC901, EMS901, TW1, ALS31, BC903</description>
+      <guid isPermaLink="false">2025-03-19 11:26:00</guid>
+      <pubDate>Wed, 19 Mar 2025 11:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 11:24 am</title>
+      <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: R2, C1C, E281, PE311, E121, K1, K5, A149, A18, E11, C1, E141, E201, T4, EK204, SAF901, C3, BC901, EMS901, TW1, ALS31, BC903</description>
+      <guid isPermaLink="false">2025-03-19 11:24:00</guid>
+      <pubDate>Wed, 19 Mar 2025 11:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 11:22 am</title>
+      <description>100 BLOCK W MAIN ST, BACKSIDE Radio: 9C Units: E72, 9C</description>
+      <guid isPermaLink="false">2025-03-19 11:22:00</guid>
+      <pubDate>Wed, 19 Mar 2025 11:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 11:19 am</title>
+      <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: R2, E281, PE311, E121, K1, K5, A149, A18, E141, E201, T4, EK204, SAF901, BC901, EMS901, TW1, ALS31, BC903, FS14</description>
+      <guid isPermaLink="false">2025-03-19 11:19:00</guid>
+      <pubDate>Wed, 19 Mar 2025 11:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:05 am</title>
+      <description>6400 BLOCK MERCANTILE DR E Radio: 9C Units: PE311, TW1, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-19 11:05:00</guid>
+      <pubDate>Wed, 19 Mar 2025 11:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:53 am</title>
       <description>FLORIDA AVE / BRUNSWICK ST Radio: 9C Units: E51, 9C, BR55</description>
@@ -276,36 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE, RAINBOW Radio: 9B Units: BC903, EMS901, A319, A39, 9B, PE311</description>
       <guid isPermaLink="false">2025-03-17 12:01:00</guid>
       <pubDate>Mon, 17 Mar 2025 12:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Radio: 9C Units: T4, 9C, E33</description>
-      <guid isPermaLink="false">2025-03-17 09:48:00</guid>
-      <pubDate>Mon, 17 Mar 2025 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:12 am</title>
-      <description>100 BLOCK BLK 15S BTWN LIBERTY RD ON RAMP &amp; OP PIKE BRDGE HWY Radio: 9B Units: A299, E291, FS29, 9B</description>
-      <guid isPermaLink="false">2025-03-17 09:12:00</guid>
-      <pubDate>Mon, 17 Mar 2025 09:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:57 am</title>
-      <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: A89, E82, 9B</description>
-      <guid isPermaLink="false">2025-03-17 07:57:00</guid>
-      <pubDate>Mon, 17 Mar 2025 07:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:53 am</title>
-      <description>3600 BLOCK DENISON ST Radio: 9C Units: E231, FS23, 9C</description>
-      <guid isPermaLink="false">2025-03-17 05:53:00</guid>
-      <pubDate>Mon, 17 Mar 2025 05:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:19 am</title>
-      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: A19, E11</description>
-      <guid isPermaLink="false">2025-03-17 00:19:00</guid>
-      <pubDate>Mon, 17 Mar 2025 00:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
