@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 01:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 02:08:07 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:00 pm</title>
+      <description>12900 BLOCK BRADBERRY AVE Units: K21</description>
+      <guid isPermaLink="false">2025-03-18 22:00:00</guid>
+      <pubDate>Tue, 18 Mar 2025 22:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:28 pm</title>
       <description>COPPERMINE RD / KEYS CHAPEL RD Units: CMD17, CCM109, EMS902, FS17, C17, A169, RE171</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK SHOOKSTOWN RD Units: BR16, E11</description>
       <guid isPermaLink="false">2025-03-16 19:29:00</guid>
       <pubDate>Sun, 16 Mar 2025 19:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:15 pm</title>
-      <description>5200 BLOCK REELS MILL RD Units: E331</description>
-      <guid isPermaLink="false">2025-03-16 19:15:00</guid>
-      <pubDate>Sun, 16 Mar 2025 19:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
