@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 22:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 22:34:14 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 6:24 pm</title>
+      <description>100 BLOCK BLK RAMP I27100 BLOCKNB TO I7100 BLOCKWB RAMP Radio: 9C Units: K1, PE311, 9C, E11</description>
+      <guid isPermaLink="false">2025-03-19 18:24:00</guid>
+      <pubDate>Wed, 19 Mar 2025 18:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 6:14 pm</title>
+      <description>100 BLOCK BLK RAMP I27100 BLOCKNB TO I7100 BLOCKWB RAMP Radio: 9C Units: PE311, BR16, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-19 18:14:00</guid>
+      <pubDate>Wed, 19 Mar 2025 18:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:37 pm</title>
       <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Units: E11, T4</description>
@@ -294,18 +306,6 @@
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Units: PRE709, R729, A735, E231, A239</description>
       <guid isPermaLink="false">2025-03-18 05:04:00</guid>
       <pubDate>Tue, 18 Mar 2025 05:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 11:09 pm</title>
-      <description>2800 BLOCK MILL ISLAND PKWY Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2025-03-17 23:09:00</guid>
-      <pubDate>Mon, 17 Mar 2025 23:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 10:36 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:II, ELMWOOD TERRACE APTS - BLDG II Units: E11, E121, TW1, T4</description>
-      <guid isPermaLink="false">2025-03-17 22:36:00</guid>
-      <pubDate>Mon, 17 Mar 2025 22:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
