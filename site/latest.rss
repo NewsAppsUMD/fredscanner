@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 00:07:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 00:46:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:28 pm</title>
+      <description>COPPERMINE RD / KEYS CHAPEL RD Units: CMD17, CCM109, EMS902, FS17, C17, A169, RE171</description>
+      <guid isPermaLink="false">2025-03-18 20:28:00</guid>
+      <pubDate>Tue, 18 Mar 2025 20:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:26 pm</title>
+      <description>100 BLOCK(341) BLK CRIMSON AVE Units: TW6</description>
+      <guid isPermaLink="false">2025-03-18 20:26:00</guid>
+      <pubDate>Tue, 18 Mar 2025 20:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:12 pm</title>
+      <description>COPPERMINE RD / KEYS CHAPEL RD Units: A169, RE171, FS17</description>
+      <guid isPermaLink="false">2025-03-18 20:12:00</guid>
+      <pubDate>Tue, 18 Mar 2025 20:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:29 pm</title>
       <description>13100 BLOCK TAYLORSTOWN RD Radio: 6B Units: BR285</description>
@@ -288,24 +306,6 @@
       <description>5200 BLOCK REELS MILL RD Units: E331</description>
       <guid isPermaLink="false">2025-03-16 19:15:00</guid>
       <pubDate>Sun, 16 Mar 2025 19:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:02 pm</title>
-      <description>11900 BLOCK STONEHOUSE VIEW CT Radio: 6B Units: TT4</description>
-      <guid isPermaLink="false">2025-03-16 19:02:00</guid>
-      <pubDate>Sun, 16 Mar 2025 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:55 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: PE311, TW1, FS31</description>
-      <guid isPermaLink="false">2025-03-16 18:55:00</guid>
-      <pubDate>Sun, 16 Mar 2025 18:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:54 pm</title>
-      <description>11900 BLOCK STONEHOUSE VIEW CT Radio: 6B Units: TW7, E51, A198</description>
-      <guid isPermaLink="false">2025-03-16 18:54:00</guid>
-      <pubDate>Sun, 16 Mar 2025 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
