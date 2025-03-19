@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Mar 2025 07:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 08:02:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:35 am</title>
+      <description>4600 BLOCK WEDGEWOOD BLVD, Apt/Unit:ST118, SIGHT ONE LANDSCAPE SUPPLY Radio: 9C Units: PE311, T4, 9C, FS31</description>
+      <guid isPermaLink="false">2025-03-19 03:35:00</guid>
+      <pubDate>Wed, 19 Mar 2025 03:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 3:22 am</title>
       <description>11800 BLOCK VINEYARD PATH Units: E251, SAF901, E153, R15, HM33, HMSU33, A159, ALS17, BC901</description>
@@ -300,12 +306,6 @@
       <description>BEL AIRE LN / ATLAS DR Units: A19, SAF901, E501, E33, E291, E121, R3, TW1, T50, ALS4, BC902, BC903, E11</description>
       <guid isPermaLink="false">2025-03-16 20:38:00</guid>
       <pubDate>Sun, 16 Mar 2025 20:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:37 pm</title>
-      <description>11900 BLOCK STONEHOUSE VIEW CT Radio: 6B Units: T5, K5</description>
-      <guid isPermaLink="false">2025-03-16 19:37:00</guid>
-      <pubDate>Sun, 16 Mar 2025 19:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
