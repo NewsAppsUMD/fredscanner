@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 23:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 23:32:36 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 7:11 pm</title>
+      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
+      <guid isPermaLink="false">2025-03-20 19:11:00</guid>
+      <pubDate>Thu, 20 Mar 2025 19:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:44 pm</title>
       <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Units: A179, E172, FS17</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST, BACKSIDE Radio: 9C Units: E72, 9C</description>
       <guid isPermaLink="false">2025-03-19 11:22:00</guid>
       <pubDate>Wed, 19 Mar 2025 11:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 11:19 am</title>
-      <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: R2, E281, PE311, E121, K1, K5, A149, A18, E141, E201, T4, EK204, SAF901, BC901, EMS901, TW1, ALS31, BC903, FS14</description>
-      <guid isPermaLink="false">2025-03-19 11:19:00</guid>
-      <pubDate>Wed, 19 Mar 2025 11:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
