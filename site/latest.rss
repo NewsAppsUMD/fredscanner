@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 17:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 18:02:40 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 1:45 pm</title>
+      <description>600 BLOCK SOLAREX CT, Apt/Unit:STE 200, CENTERPARK PROFESSIONAL CENTER - CENTERGATE Radio: 9C Units: 9C, PE311, E501, TW1, FS31</description>
+      <guid isPermaLink="false">2025-03-20 13:45:00</guid>
+      <pubDate>Thu, 20 Mar 2025 13:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 1:27 pm</title>
       <description>3100 BLOCK BASFORD RD Radio: 9C Units: 9C, E281, E201, C14B</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK WEDGEWOOD BLVD, Apt/Unit:ST118, SIGHT ONE LANDSCAPE SUPPLY Radio: 9C Units: PE311, T4, 9C, FS31</description>
       <guid isPermaLink="false">2025-03-19 03:35:00</guid>
       <pubDate>Wed, 19 Mar 2025 03:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 3:22 am</title>
-      <description>11800 BLOCK VINEYARD PATH Units: E251, SAF901, E153, R15, HM33, HMSU33, A159, ALS17, BC901</description>
-      <guid isPermaLink="false">2025-03-19 03:22:00</guid>
-      <pubDate>Wed, 19 Mar 2025 03:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
