@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 12:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 12:43:19 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 8:23 am</title>
+      <description>BUCKEYSTOWN PIKE / MICHAELS MILL RD Radio: 9C Units: E141, FS14, 9C</description>
+      <guid isPermaLink="false">2025-03-20 08:23:00</guid>
+      <pubDate>Thu, 20 Mar 2025 08:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE - ENTRAPMENT: 8:05 am</title>
+      <description>9000 BLOCK REICHS FORD RD Units: E251, PE311, E153, R3, R15, K33, K23, RID, A339, ALS33, BC901, SAF901, TT23, A39, EMS902, W33, PE23, T4, CMD33, E331, E33, A38, E231, VOLAC900, A149, EMS901</description>
+      <guid isPermaLink="false">2025-03-20 08:05:00</guid>
+      <pubDate>Thu, 20 Mar 2025 08:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 8:02 am</title>
+      <description>9100 BLOCK BALL RD, RIGHTS OF MAN FARM Radio: 9C Units: BR235, BR156, 9C</description>
+      <guid isPermaLink="false">2025-03-20 08:02:00</guid>
+      <pubDate>Thu, 20 Mar 2025 08:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 7:57 am</title>
       <description>9100 BLOCK BALL RD, RIGHTS OF MAN FARM Radio: 9C Units: BR235, FS23, 9C</description>
@@ -288,24 +306,6 @@
       <description>MOUTH OF MONOCACY RD / DICKERSON RD Radio: 7A1 Units: A149</description>
       <guid isPermaLink="false">2025-03-18 15:42:00</guid>
       <pubDate>Tue, 18 Mar 2025 15:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 3:25 pm</title>
-      <description>100 BLOCK E FIFTH ST Radio: 9C Units: R2, 9C</description>
-      <guid isPermaLink="false">2025-03-18 15:25:00</guid>
-      <pubDate>Tue, 18 Mar 2025 15:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:23 pm</title>
-      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: E141, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-18 15:23:00</guid>
-      <pubDate>Tue, 18 Mar 2025 15:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:05 pm</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: 9C, TW1, PE311, FS31</description>
-      <guid isPermaLink="false">2025-03-18 15:05:00</guid>
-      <pubDate>Tue, 18 Mar 2025 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
