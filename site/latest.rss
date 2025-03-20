@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 11:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 12:03:05 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:57 am</title>
+      <description>9100 BLOCK BALL RD, RIGHTS OF MAN FARM Radio: 9C Units: BR235, FS23, 9C</description>
+      <guid isPermaLink="false">2025-03-20 07:57:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 7:55 am</title>
+      <description>BUCKEYSTOWN PIKE / ENGLISH MUFFIN WAY Radio: 9C Units: E141, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-20 07:55:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 7:54 am</title>
+      <description>BUCKEYSTOWN PIKE / ENGLISH MUFFIN WAY Radio: 9C Units: E11, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-20 07:54:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:47 am</title>
+      <description>500 BLOCK N MARKET ST Radio: 9C Units: TW1, E111, 9C</description>
+      <guid isPermaLink="false">2025-03-20 07:47:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:47 am</title>
+      <description>500 BLOCK N MARKET ST, STATION 2 Units: RE74</description>
+      <guid isPermaLink="false">2025-03-20 07:47:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:37 am</title>
+      <description>MOUNT ZION RD / SWEETWATER CT Radio: 9B Units: E121, A129, FS12, 9B</description>
+      <guid isPermaLink="false">2025-03-20 07:37:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:32 am</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E111</description>
+      <guid isPermaLink="false">2025-03-20 07:32:00</guid>
+      <pubDate>Thu, 20 Mar 2025 07:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:25 am</title>
       <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Units: ALS2, EMS900, A229, R10</description>
@@ -264,48 +306,6 @@
       <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: 9C, TW1, PE311, FS31</description>
       <guid isPermaLink="false">2025-03-18 15:05:00</guid>
       <pubDate>Tue, 18 Mar 2025 15:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:13 pm</title>
-      <description>5200 BLOCK KINGSBROOK DR, BALLENGER CREEK ELEMENTARY SCHOOL Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-03-18 14:13:00</guid>
-      <pubDate>Tue, 18 Mar 2025 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:21 pm</title>
-      <description>7000 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226, FS22, 9C</description>
-      <guid isPermaLink="false">2025-03-18 13:21:00</guid>
-      <pubDate>Tue, 18 Mar 2025 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:15 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: E153, T4</description>
-      <guid isPermaLink="false">2025-03-18 13:15:00</guid>
-      <pubDate>Tue, 18 Mar 2025 13:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:51 pm</title>
-      <description>11800 BLOCK LIBERTY RD, LIBERTY ELEMENTARY SCHOOL Radio: 9C Units: TW1, RE171, FS17, 9C</description>
-      <guid isPermaLink="false">2025-03-18 12:51:00</guid>
-      <pubDate>Tue, 18 Mar 2025 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:31 pm</title>
-      <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A299, R2, 9B</description>
-      <guid isPermaLink="false">2025-03-18 12:31:00</guid>
-      <pubDate>Tue, 18 Mar 2025 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:01 pm</title>
-      <description>1000 BLOCK BOYLES ST, NCI - BLDG 1000 BLOCK Radio: 9C Units: T50, BC950, FS50, 9C, E11</description>
-      <guid isPermaLink="false">2025-03-18 12:01:00</guid>
-      <pubDate>Tue, 18 Mar 2025 12:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:45 am</title>
-      <description>100 BLOCK HAMILTON AVE Units: E33</description>
-      <guid isPermaLink="false">2025-03-18 11:45:00</guid>
-      <pubDate>Tue, 18 Mar 2025 11:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
