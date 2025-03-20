@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Mar 2025 17:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 17:33:47 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 1:27 pm</title>
+      <description>3100 BLOCK BASFORD RD Radio: 9C Units: 9C, E281, E201, C14B</description>
+      <guid isPermaLink="false">2025-03-20 13:27:00</guid>
+      <pubDate>Thu, 20 Mar 2025 13:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 1:11 pm</title>
+      <description>3100 BLOCK BASFORD RD Radio: 9C Units: FS28, 9C, E281</description>
+      <guid isPermaLink="false">2025-03-20 13:11:00</guid>
+      <pubDate>Thu, 20 Mar 2025 13:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:06 pm</title>
+      <description>BESSIE CLEMSON RD / NEW WINDSOR RD Radio: 9C Units: BR175, FS17, 9C</description>
+      <guid isPermaLink="false">2025-03-20 13:06:00</guid>
+      <pubDate>Thu, 20 Mar 2025 13:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:23 pm</title>
       <description>11800 BLOCK LIBERTY RD, Apt/Unit:LIBERTY ELEMENTARY, LIBERTY ELEMENTARY SCHOOL Units: FS17, E172, TW1</description>
@@ -288,24 +306,6 @@
       <description>11800 BLOCK VINEYARD PATH Units: E251, SAF901, E153, R15, HM33, HMSU33, A159, ALS17, BC901</description>
       <guid isPermaLink="false">2025-03-19 03:22:00</guid>
       <pubDate>Wed, 19 Mar 2025 03:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:00 pm</title>
-      <description>12900 BLOCK BRADBERRY AVE Units: K21</description>
-      <guid isPermaLink="false">2025-03-18 22:00:00</guid>
-      <pubDate>Tue, 18 Mar 2025 22:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:28 pm</title>
-      <description>COPPERMINE RD / KEYS CHAPEL RD Units: CMD17, CCM109, EMS902, FS17, C17, A169, RE171</description>
-      <guid isPermaLink="false">2025-03-18 20:28:00</guid>
-      <pubDate>Tue, 18 Mar 2025 20:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:26 pm</title>
-      <description>100 BLOCK(341) BLK CRIMSON AVE Units: TW6</description>
-      <guid isPermaLink="false">2025-03-18 20:26:00</guid>
-      <pubDate>Tue, 18 Mar 2025 20:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
