@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 00:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 00:46:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:11 pm</title>
+      <description>200 BLOCK E SECOND ST Units: E33, T4</description>
+      <guid isPermaLink="false">2025-03-20 20:11:00</guid>
+      <pubDate>Thu, 20 Mar 2025 20:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 7:11 pm</title>
       <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK WINCHESTER BLVD, Apt/Unit:102 Units: R2, C1C, E281, PE311, E121, K1, K5, A149, A18, E11, C1, E141, E201, T4, EK204, SAF901, C3, BC901, EMS901, TW1, ALS31, BC903</description>
       <guid isPermaLink="false">2025-03-19 11:24:00</guid>
       <pubDate>Wed, 19 Mar 2025 11:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 11:22 am</title>
-      <description>100 BLOCK W MAIN ST, BACKSIDE Radio: 9C Units: E72, 9C</description>
-      <guid isPermaLink="false">2025-03-19 11:22:00</guid>
-      <pubDate>Wed, 19 Mar 2025 11:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
