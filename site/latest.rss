@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 20:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 20:32:25 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:27 pm</title>
+      <description>1800 BLOCK GLICK PL, Apt/Unit:A, FORT DETRICK - BLDG 1800 BLOCK Radio: 9C Units: 9C, T50, BC950, FS50, E11, E501</description>
+      <guid isPermaLink="false">2025-03-21 16:27:00</guid>
+      <pubDate>Fri, 21 Mar 2025 16:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:10 pm</title>
+      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: E291, 9B, A299, FS29</description>
+      <guid isPermaLink="false">2025-03-21 16:10:00</guid>
+      <pubDate>Fri, 21 Mar 2025 16:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:49 pm</title>
       <description>400 BLOCK W PATRICK ST Radio: 9C Units: E33, T4, 9C</description>
@@ -294,18 +306,6 @@
       <description>13000 BLOCK MYERS RD Radio: 9D Units: E132, E91, TW6, EK134, A169, BR135, BC902, SAF901, 9D, C6, E162, C13, PE102, FS13</description>
       <guid isPermaLink="false">2025-03-19 16:56:00</guid>
       <pubDate>Wed, 19 Mar 2025 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:56 pm</title>
-      <description>13000 BLOCK MYERS RD Radio: 9D Units: E132, E91, TW6, EK134, A169, BR135, BC902, SAF901, 9D, C6, E162, C13</description>
-      <guid isPermaLink="false">2025-03-19 16:56:00</guid>
-      <pubDate>Wed, 19 Mar 2025 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:49 pm</title>
-      <description>13000 BLOCK MYERS RD Radio: 9D Units: E132, E91, TW6, EK134, A169, BR135, BC902, SAF901, FS13, 9D, E162</description>
-      <guid isPermaLink="false">2025-03-19 16:49:00</guid>
-      <pubDate>Wed, 19 Mar 2025 16:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
