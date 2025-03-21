@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Mar 2025 21:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:32 pm</title>
+      <description>RT340EB / RT17, RT340EB / RT17 Radio: 9D Units: A196, ALS4, EMS901, FS05, RE52, R20, 9D, E201, A209</description>
+      <guid isPermaLink="false">2025-03-21 17:32:00</guid>
+      <pubDate>Fri, 21 Mar 2025 17:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:18 pm</title>
       <description>W MAIN ST / N ALTAMONT AVE Units: E132, E61, E162, E91, R10, TW6, R6, A309, ALS30, EK224, BC902, PE102, BC903, SAF901</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP I27100 BLOCKNB TO I7100 BLOCKWB RAMP Radio: 9C Units: PE311, BR16, FS31, 9C</description>
       <guid isPermaLink="false">2025-03-19 18:14:00</guid>
       <pubDate>Wed, 19 Mar 2025 18:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:37 pm</title>
-      <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Units: E11, T4</description>
-      <guid isPermaLink="false">2025-03-19 17:37:00</guid>
-      <pubDate>Wed, 19 Mar 2025 17:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
