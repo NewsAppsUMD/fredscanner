@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 19:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 20:02:10 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 3:30 pm</title>
+      <description>12700 BLOCK WOODSBORO PIKE Units: E91, E162, CCLDR5, EK134, A169, FS09</description>
+      <guid isPermaLink="false">2025-03-22 15:30:00</guid>
+      <pubDate>Sat, 22 Mar 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:42 pm</title>
       <description>100 BLOCK BLK RAMP RT17 TO I7100 BLOCKEB RAMP Radio: 9B Units: A78, E82, 9B</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / ENGLISH MUFFIN WAY Radio: 9C Units: E11, FS31, 9C</description>
       <guid isPermaLink="false">2025-03-20 07:54:00</guid>
       <pubDate>Thu, 20 Mar 2025 07:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:47 am</title>
-      <description>500 BLOCK N MARKET ST Radio: 9C Units: TW1, E111, 9C</description>
-      <guid isPermaLink="false">2025-03-20 07:47:00</guid>
-      <pubDate>Thu, 20 Mar 2025 07:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
