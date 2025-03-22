@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Mar 2025 13:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 13:32:14 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:08 am</title>
+      <description>11200 BLOCK ALLIUM LN Radio: 6DTAC11 Units: T5, E281</description>
+      <guid isPermaLink="false">2025-03-22 09:08:00</guid>
+      <pubDate>Sat, 22 Mar 2025 09:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:58 am</title>
       <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: T50, FS29, 9C, E291</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK REICHS FORD RD Units: E251, PE311, E153, R3, R15, K33, K23, K1, A339, ALS33, BC901, BC903, SAF901, PE23, T4, FS33, E331, E33</description>
       <guid isPermaLink="false">2025-03-20 07:13:00</guid>
       <pubDate>Thu, 20 Mar 2025 07:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:06 am</title>
-      <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Units: A309, PE102, EK224, FS22</description>
-      <guid isPermaLink="false">2025-03-20 07:06:00</guid>
-      <pubDate>Thu, 20 Mar 2025 07:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
