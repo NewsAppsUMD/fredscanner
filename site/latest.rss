@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 20:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 21:01:46 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:47 pm</title>
+      <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, E331, R15, E111, C15B</description>
+      <guid isPermaLink="false">2025-03-23 16:47:00</guid>
+      <pubDate>Sun, 23 Mar 2025 16:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 4:41 pm</title>
+      <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, FS15, E111</description>
+      <guid isPermaLink="false">2025-03-23 16:41:00</guid>
+      <pubDate>Sun, 23 Mar 2025 16:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:28 pm</title>
       <description>100 BLOCK SUMMIT AVE Radio: 9C Units: PE102, 9C</description>
@@ -294,18 +306,6 @@
       <description>I70EB / 38MM Units: E82</description>
       <guid isPermaLink="false">2025-03-20 15:37:00</guid>
       <pubDate>Thu, 20 Mar 2025 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:47 pm</title>
-      <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Radio: 9D Units: E331, ALS4, BC902, EMS902, PE311, R3, A339, A319, 9D</description>
-      <guid isPermaLink="false">2025-03-20 14:47:00</guid>
-      <pubDate>Thu, 20 Mar 2025 14:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:15 pm</title>
-      <description>RIDGE RD / MAIN ST Units: A159</description>
-      <guid isPermaLink="false">2025-03-20 14:15:00</guid>
-      <pubDate>Thu, 20 Mar 2025 14:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
