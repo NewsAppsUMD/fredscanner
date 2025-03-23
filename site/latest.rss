@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Mar 2025 22:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 22:34:12 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:13 pm</title>
+      <description>2700 BLOCK LOCH HAVEN DR Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-03-23 18:13:00</guid>
+      <pubDate>Sun, 23 Mar 2025 18:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:11 pm</title>
+      <description>14600 BLOCK OAK ORCHARD RD Radio: 9C Units: E172, FS17, 9C</description>
+      <guid isPermaLink="false">2025-03-23 18:11:00</guid>
+      <pubDate>Sun, 23 Mar 2025 18:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:01 pm</title>
+      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT BLOSSOM PLACE Radio: 9C Units: PE311, 9C, T4, FS31</description>
+      <guid isPermaLink="false">2025-03-23 18:01:00</guid>
+      <pubDate>Sun, 23 Mar 2025 18:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 4:47 pm</title>
       <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, E331, R15, E111, C15B</description>
@@ -288,24 +306,6 @@
       <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Units: A179, E172, FS17</description>
       <guid isPermaLink="false">2025-03-20 18:44:00</guid>
       <pubDate>Thu, 20 Mar 2025 18:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:16 pm</title>
-      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Units: ALS33, BC903, EMS901, FS15, E331, R15, A159, A339, E153</description>
-      <guid isPermaLink="false">2025-03-20 17:16:00</guid>
-      <pubDate>Thu, 20 Mar 2025 17:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:49 pm</title>
-      <description>S CARROLL ST / HESSIAN ALY Radio: 9B Units: A39, E33, 9B</description>
-      <guid isPermaLink="false">2025-03-20 15:49:00</guid>
-      <pubDate>Thu, 20 Mar 2025 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:37 pm</title>
-      <description>I70EB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2025-03-20 15:37:00</guid>
-      <pubDate>Thu, 20 Mar 2025 15:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
