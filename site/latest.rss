@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 15:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 15:34:24 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:24 am</title>
+      <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: FS23, 9B, A239, E232</description>
+      <guid isPermaLink="false">2025-03-24 11:24:00</guid>
+      <pubDate>Mon, 24 Mar 2025 11:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 11:10 am</title>
+      <description>300 BLOCK W FIFTH ST, HOOD COLLEGE - ONICA PRALL CHILD DEVELOPMENT LABORATORY SCHOOL Radio: 9C Units: R3, 9C, E33, PE23</description>
+      <guid isPermaLink="false">2025-03-24 11:10:00</guid>
+      <pubDate>Mon, 24 Mar 2025 11:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 9:59 am</title>
       <description>5300 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN PIKE OFFICE CENTER - BUCKEYSTOWN PIKE OFFICE CENTER Radio: 9C Units: PE311, 9C, FS31, R3</description>
@@ -294,18 +306,6 @@
       <description>1800 BLOCK GLICK PL, Apt/Unit:A, FORT DETRICK - BLDG 1800 BLOCK Radio: 9C Units: 9C, T50, BC950, FS50, E11, E501</description>
       <guid isPermaLink="false">2025-03-21 16:27:00</guid>
       <pubDate>Fri, 21 Mar 2025 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:10 pm</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: E291, 9B, A299, FS29</description>
-      <guid isPermaLink="false">2025-03-21 16:10:00</guid>
-      <pubDate>Fri, 21 Mar 2025 16:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:49 pm</title>
-      <description>400 BLOCK W PATRICK ST Radio: 9C Units: E33, T4, 9C</description>
-      <guid isPermaLink="false">2025-03-21 14:49:00</guid>
-      <pubDate>Fri, 21 Mar 2025 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
