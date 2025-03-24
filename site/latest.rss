@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 11:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 12:03:18 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 7:35 am</title>
+      <description>8400 BLOCK TOHIVEA WAY Radio: 9C Units: E232, K23, BR235, 9C</description>
+      <guid isPermaLink="false">2025-03-24 07:35:00</guid>
+      <pubDate>Mon, 24 Mar 2025 07:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:20 am</title>
       <description>DANIELLE DR / DAVID LN Radio: 9B Units: A19, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK MOUNT ZION RD, TRACTOR SUPPLY COMPANY - MOUNT ZION RD Radio: 9B Units: E201, FS20, 9B, A209</description>
       <guid isPermaLink="false">2025-03-21 10:15:00</guid>
       <pubDate>Fri, 21 Mar 2025 10:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:11 am</title>
-      <description>COMUS RD / SUGARLOAF MOUNTAIN DR Radio: 9C Units: FS23, BR235, 9C</description>
-      <guid isPermaLink="false">2025-03-21 09:11:00</guid>
-      <pubDate>Fri, 21 Mar 2025 09:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
