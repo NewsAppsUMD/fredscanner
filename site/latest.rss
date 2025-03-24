@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 17:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:53 pm</title>
+      <description>OLD FREDERICK RD / ROCKY RIDGE RD Units: A309, E132, FS13</description>
+      <guid isPermaLink="false">2025-03-24 13:53:00</guid>
+      <pubDate>Mon, 24 Mar 2025 13:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:24 am</title>
       <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: FS23, 9B, A239, E232</description>
@@ -300,12 +306,6 @@
       <description>W MAIN ST / N ALTAMONT AVE Units: E132, E61, E162, E91, R10, TW6, R6, A309, ALS30, EK224, BC902, PE102, BC903, SAF901</description>
       <guid isPermaLink="false">2025-03-21 17:18:00</guid>
       <pubDate>Fri, 21 Mar 2025 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:27 pm</title>
-      <description>1800 BLOCK GLICK PL, Apt/Unit:A, FORT DETRICK - BLDG 1800 BLOCK Radio: 9C Units: 9C, T50, BC950, FS50, E11, E501</description>
-      <guid isPermaLink="false">2025-03-21 16:27:00</guid>
-      <pubDate>Fri, 21 Mar 2025 16:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
