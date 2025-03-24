@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 13:37:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 14:02:07 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:59 am</title>
+      <description>5300 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN PIKE OFFICE CENTER - BUCKEYSTOWN PIKE OFFICE CENTER Radio: 9C Units: PE311, 9C, FS31, R3</description>
+      <guid isPermaLink="false">2025-03-24 09:59:00</guid>
+      <pubDate>Mon, 24 Mar 2025 09:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:10 am</title>
       <description>BUCKEYSTOWN PIKE / LILY PONS RD Radio: 9D Units: A149, R14, TT23, R20, ALS31, BC902, EMS901, PE311, FS14, 9D</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W PATRICK ST Radio: 9C Units: E33, T4, 9C</description>
       <guid isPermaLink="false">2025-03-21 14:49:00</guid>
       <pubDate>Fri, 21 Mar 2025 14:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 11:22 am</title>
-      <description>8900 BLOCK INDIAN SPRINGS RD, BROOK HILL UNITED METHODIST CHURCH Radio: 9D Units: 9D, E291, FS29</description>
-      <guid isPermaLink="false">2025-03-21 11:22:00</guid>
-      <pubDate>Fri, 21 Mar 2025 11:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
