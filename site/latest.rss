@@ -6,7 +6,67 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 19:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 20:02:16 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:58 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: EK114</description>
+      <guid isPermaLink="false">2025-03-24 15:58:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:56 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Radio: 9D Units: E33, E153, E172, RID, CMD15, HCK4, FS15, C15C, EMS902, TTF, K23, CCA19, W15, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, E251, E23, PE713, K713, R15, CCT1, R3, CCK1, K33, K1, 9D, PE311, T4, W25</description>
+      <guid isPermaLink="false">2025-03-24 15:56:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:53 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Units: E33, E153, E172, RID, CMD15, C15C, CCA19, EMS901, W15, FS15, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, E251, PE713, R15, CCT1, R3, CCK1, K33, PE311, T4</description>
+      <guid isPermaLink="false">2025-03-24 15:53:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:51 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Units: E33, E153, E172, HCK4, C15C, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, E251, PE713, R15, CCT1, R3, CCK1, K33, T4</description>
+      <guid isPermaLink="false">2025-03-24 15:51:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:48 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Units: E33, E153, E172, C15C, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, FS15, E251, HCE41, PE713, R15, CCT1, R3, CCK1, K33</description>
+      <guid isPermaLink="false">2025-03-24 15:48:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:46 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Units: E153, E172, K17, A159, CCM18, BC901, BC902, SAF901, FS15, E251, HCE41, PE713, E713B, R15, CCT1, R3, CCK1, K33</description>
+      <guid isPermaLink="false">2025-03-24 15:46:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:46 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Units: E153, E172, C15C, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, FS15, E251, HCE41, PE713, R15, CCT1, R3, CCK1, K33</description>
+      <guid isPermaLink="false">2025-03-24 15:46:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:43 pm</title>
+      <description>RT15SB / 0.6MM Radio: ACOPS2 Units: A69, BR65, E61, EK64, PE102, ACOPS2</description>
+      <guid isPermaLink="false">2025-03-24 15:43:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:40 pm</title>
+      <description>RT15SB / 0.6MM Radio: ACOPS2 Units: A69, BR65, E61, EK64, ACOPS2</description>
+      <guid isPermaLink="false">2025-03-24 15:40:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:29 pm</title>
+      <description>RT15SB / 0.6MM Units: E61, EK64</description>
+      <guid isPermaLink="false">2025-03-24 15:29:00</guid>
+      <pubDate>Mon, 24 Mar 2025 15:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 2:44 pm</title>
       <description>10400 BLOCK MOXLEY RD Radio: 7A1 Units: E251</description>
@@ -246,66 +306,6 @@
       <description>12700 BLOCK WOODSBORO PIKE Units: E91, E162, CCLDR5, EK134, A169, FS09</description>
       <guid isPermaLink="false">2025-03-22 15:30:00</guid>
       <pubDate>Sat, 22 Mar 2025 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:42 pm</title>
-      <description>100 BLOCK BLK RAMP RT17 TO I7100 BLOCKEB RAMP Radio: 9B Units: A78, E82, 9B</description>
-      <guid isPermaLink="false">2025-03-22 13:42:00</guid>
-      <pubDate>Sat, 22 Mar 2025 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:11 pm</title>
-      <description>6000 BLOCK BLUE STONE CIR, TRO Radio: 9C Units: BR226, FS29, 9C</description>
-      <guid isPermaLink="false">2025-03-22 13:11:00</guid>
-      <pubDate>Sat, 22 Mar 2025 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:55 pm</title>
-      <description>W SECOND ST / MIDNITE ALY Radio: 9B Units: A29, T4, 9B</description>
-      <guid isPermaLink="false">2025-03-22 12:55:00</guid>
-      <pubDate>Sat, 22 Mar 2025 12:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 12:40 pm</title>
-      <description>300 BLOCK W MAIN ST, CROWS NEST CAMPGROUND Units: E162, EK224, E61, ALS30, CMD10, C24B, E132, R10, TR29, EMSUTV30, A309, PE102, BC902, SAF901, EMS902, U10, A299</description>
-      <guid isPermaLink="false">2025-03-22 12:40:00</guid>
-      <pubDate>Sat, 22 Mar 2025 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 12:30 pm</title>
-      <description>300 BLOCK W MAIN ST, CROWS NEST CAMPGROUND Units: EK224, E61, E132, R10, TR29, EMSUTV30, A309, PE102, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2025-03-22 12:30:00</guid>
-      <pubDate>Sat, 22 Mar 2025 12:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:06 pm</title>
-      <description>5100 BLOCK CONSTITUTION ST Radio: 9C Units: FS31, 9C, PE311, T4</description>
-      <guid isPermaLink="false">2025-03-22 12:06:00</guid>
-      <pubDate>Sat, 22 Mar 2025 12:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:01 am</title>
-      <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: 9B, FS23, E11, E231, TT23, R3, A239, A18</description>
-      <guid isPermaLink="false">2025-03-22 11:01:00</guid>
-      <pubDate>Sat, 22 Mar 2025 11:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:08 am</title>
-      <description>11200 BLOCK ALLIUM LN Radio: 6DTAC11 Units: T5, E281</description>
-      <guid isPermaLink="false">2025-03-22 09:08:00</guid>
-      <pubDate>Sat, 22 Mar 2025 09:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:58 am</title>
-      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: T50, FS29, 9C, E291</description>
-      <guid isPermaLink="false">2025-03-22 08:58:00</guid>
-      <pubDate>Sat, 22 Mar 2025 08:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:28 pm</title>
-      <description>100 BLOCK LIBERTY RD, WOODSBORO ELEMENTARY SCHOOL Radio: 9C Units: E162, FS16, 9C</description>
-      <guid isPermaLink="false">2025-03-21 22:28:00</guid>
-      <pubDate>Fri, 21 Mar 2025 22:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
