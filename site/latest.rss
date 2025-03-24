@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 18:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 19:01:58 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 2:44 pm</title>
+      <description>10400 BLOCK MOXLEY RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2025-03-24 14:44:00</guid>
+      <pubDate>Mon, 24 Mar 2025 14:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
+      <description>I270NB / RT80, I270NB / RT85 Radio: 9B Units: E232, PRE709, TT23, R3, M729, A319, FS23, 9B</description>
+      <guid isPermaLink="false">2025-03-24 14:36:00</guid>
+      <pubDate>Mon, 24 Mar 2025 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:34 pm</title>
       <description>OSPREY WAY / WILLOWLEAF PEAR ALY Radio: 9B Units: A19, E291, 9B</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK LIBERTY RD, WOODSBORO ELEMENTARY SCHOOL Radio: 9C Units: E162, FS16, 9C</description>
       <guid isPermaLink="false">2025-03-21 22:28:00</guid>
       <pubDate>Fri, 21 Mar 2025 22:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 10:27 pm</title>
-      <description>10200 BLOCK COOLFONT XING Radio: 9C Units: BR156, 9C, FS15</description>
-      <guid isPermaLink="false">2025-03-21 22:27:00</guid>
-      <pubDate>Fri, 21 Mar 2025 22:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 7:23 pm</title>
-      <description>W ORNDORFF DR / PEACH ORCHARD LN Radio: 9C Units: E51, FS05, 9C</description>
-      <guid isPermaLink="false">2025-03-21 19:23:00</guid>
-      <pubDate>Fri, 21 Mar 2025 19:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
