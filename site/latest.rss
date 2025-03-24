@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Mar 2025 18:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 18:37:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:34 pm</title>
+      <description>OSPREY WAY / WILLOWLEAF PEAR ALY Radio: 9B Units: A19, E291, 9B</description>
+      <guid isPermaLink="false">2025-03-24 14:34:00</guid>
+      <pubDate>Mon, 24 Mar 2025 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 2:30 pm</title>
+      <description>I70WB / 46MM, I70WB / 46MM Units: BC903, K1, CMD12, E121, E82</description>
+      <guid isPermaLink="false">2025-03-24 14:30:00</guid>
+      <pubDate>Mon, 24 Mar 2025 14:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 2:13 pm</title>
+      <description>I70WB / 46MM, I70WB / 46MM Units: E121, E82, FS12</description>
+      <guid isPermaLink="false">2025-03-24 14:13:00</guid>
+      <pubDate>Mon, 24 Mar 2025 14:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:53 pm</title>
       <description>OLD FREDERICK RD / ROCKY RIDGE RD Units: A309, E132, FS13</description>
@@ -288,24 +306,6 @@
       <description>W ORNDORFF DR / PEACH ORCHARD LN Radio: 9C Units: E51, FS05, 9C</description>
       <guid isPermaLink="false">2025-03-21 19:23:00</guid>
       <pubDate>Fri, 21 Mar 2025 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:34 pm</title>
-      <description>CAP STINE RD / ELMER DERR RD Radio: 9C Units: 9C, E201</description>
-      <guid isPermaLink="false">2025-03-21 18:34:00</guid>
-      <pubDate>Fri, 21 Mar 2025 18:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:32 pm</title>
-      <description>RT340EB / RT17, RT340EB / RT17 Radio: 9D Units: A196, ALS4, EMS901, FS05, RE52, R20, 9D, E201, A209</description>
-      <guid isPermaLink="false">2025-03-21 17:32:00</guid>
-      <pubDate>Fri, 21 Mar 2025 17:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:18 pm</title>
-      <description>W MAIN ST / N ALTAMONT AVE Units: E132, E61, E162, E91, R10, TW6, R6, A309, ALS30, EK224, BC902, PE102, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-03-21 17:18:00</guid>
-      <pubDate>Fri, 21 Mar 2025 17:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
