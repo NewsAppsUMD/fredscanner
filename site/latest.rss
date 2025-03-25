@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 00:46:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 01:29:13 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 9:24 pm</title>
+      <description>4100 BLOCK JEFFERSON PIKE Radio: 9C Units: EK204, 9C</description>
+      <guid isPermaLink="false">2025-03-24 21:24:00</guid>
+      <pubDate>Mon, 24 Mar 2025 21:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:01 pm</title>
+      <description>5100 BLOCK MOUNT ZION RD Radio: 9C Units: BR125, FS12, 9C</description>
+      <guid isPermaLink="false">2025-03-24 21:01:00</guid>
+      <pubDate>Mon, 24 Mar 2025 21:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 8:40 pm</title>
       <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: 9C, TW1</description>
@@ -294,18 +306,6 @@
       <description>14600 BLOCK OAK ORCHARD RD Radio: 9C Units: E172, FS17, 9C</description>
       <guid isPermaLink="false">2025-03-23 18:11:00</guid>
       <pubDate>Sun, 23 Mar 2025 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:01 pm</title>
-      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT BLOSSOM PLACE Radio: 9C Units: PE311, 9C, T4, FS31</description>
-      <guid isPermaLink="false">2025-03-23 18:01:00</guid>
-      <pubDate>Sun, 23 Mar 2025 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:47 pm</title>
-      <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, E331, R15, E111, C15B</description>
-      <guid isPermaLink="false">2025-03-23 16:47:00</guid>
-      <pubDate>Sun, 23 Mar 2025 16:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
