@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 21:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 21:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:14 pm</title>
+      <description>WOODSBORO PIKE / DETOUR RD Radio: 9B Units: EMS902, 9B, A169, C9B, E91, ALS17</description>
+      <guid isPermaLink="false">2025-03-25 17:14:00</guid>
+      <pubDate>Tue, 25 Mar 2025 17:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:12 pm</title>
+      <description>WOODSBORO PIKE / DETOUR RD Radio: 9B Units: 9B, A169, C9B, E91, FS09</description>
+      <guid isPermaLink="false">2025-03-25 17:12:00</guid>
+      <pubDate>Tue, 25 Mar 2025 17:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 4:50 pm</title>
       <description>5500 BLOCK WOODVILLE RD Radio: 91C Units: CCK1, BR156, 91C, E251</description>
@@ -294,18 +306,6 @@
       <description>5100 BLOCK WOODVILLE RD Units: E153, E172, K17, A159, CCM18, BC901, BC902, SAF901, FS15, E251, HCE41, PE713, E713B, R15, CCT1, R3, CCK1, K33</description>
       <guid isPermaLink="false">2025-03-24 15:46:00</guid>
       <pubDate>Mon, 24 Mar 2025 15:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:46 pm</title>
-      <description>5100 BLOCK WOODVILLE RD Units: E153, E172, C15C, C15, E232, K17, A159, CCM18, BC901, BC902, SAF901, FS15, E251, HCE41, PE713, R15, CCT1, R3, CCK1, K33</description>
-      <guid isPermaLink="false">2025-03-24 15:46:00</guid>
-      <pubDate>Mon, 24 Mar 2025 15:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 3:43 pm</title>
-      <description>RT15SB / 0.6MM Radio: ACOPS2 Units: A69, BR65, E61, EK64, PE102, ACOPS2</description>
-      <guid isPermaLink="false">2025-03-24 15:43:00</guid>
-      <pubDate>Mon, 24 Mar 2025 15:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
