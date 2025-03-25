@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 12:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 12:43:34 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 8:18 am</title>
+      <description>5700 BLOCK CATOCTIN VISTA DR Radio: 9C Units: E251, CCT1, 9C, K33, FS15, E153</description>
+      <guid isPermaLink="false">2025-03-25 08:18:00</guid>
+      <pubDate>Tue, 25 Mar 2025 08:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:05 am</title>
       <description>300 BLOCK N MAIN ST Units: E82</description>
@@ -300,12 +306,6 @@
       <description>8400 BLOCK TOHIVEA WAY Radio: 9C Units: E232, K23, BR235, 9C</description>
       <guid isPermaLink="false">2025-03-24 07:35:00</guid>
       <pubDate>Mon, 24 Mar 2025 07:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:20 am</title>
-      <description>DANIELLE DR / DAVID LN Radio: 9B Units: A19, E11, 9B</description>
-      <guid isPermaLink="false">2025-03-24 06:20:00</guid>
-      <pubDate>Mon, 24 Mar 2025 06:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
