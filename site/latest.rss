@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Mar 2025 00:07:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 00:46:18 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 8:40 pm</title>
+      <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: 9C, TW1</description>
+      <guid isPermaLink="false">2025-03-24 20:40:00</guid>
+      <pubDate>Mon, 24 Mar 2025 20:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:52 pm</title>
       <description>I70WB / 48MM, I70WB / 48MM Radio: 9D Units: E121, E82, R3, A129, A89, EMS901, FS12, 9D, ALS4, BC903</description>
@@ -300,12 +306,6 @@
       <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, E331, R15, E111, C15B</description>
       <guid isPermaLink="false">2025-03-23 16:47:00</guid>
       <pubDate>Sun, 23 Mar 2025 16:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:41 pm</title>
-      <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: 9C, EK114, R24, FS15, E111</description>
-      <guid isPermaLink="false">2025-03-23 16:41:00</guid>
-      <pubDate>Sun, 23 Mar 2025 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
