@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Mar 2025 10:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 10:35:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:25 am</title>
+      <description>RT31 / COPPERMINE RD, RT31 / COPPERMINE RD Radio: 9D Units: FS17, 9D, E161, ALS17, RE171, A179, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-03-26 06:25:00</guid>
+      <pubDate>Wed, 26 Mar 2025 06:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 1:22 am</title>
       <description>2600 BLOCK CAULFIELD CT Radio: 9C Units: PE23, E111, E291, R24, 9C</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK W MAIN ST, WILES BRANCH PARK Radio: 9B Units: A209, TW7, 9B</description>
       <guid isPermaLink="false">2025-03-24 17:18:00</guid>
       <pubDate>Mon, 24 Mar 2025 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:20 pm</title>
-      <description>RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST Radio: 9C Units: E11, E23, 9C</description>
-      <guid isPermaLink="false">2025-03-24 16:20:00</guid>
-      <pubDate>Mon, 24 Mar 2025 16:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
