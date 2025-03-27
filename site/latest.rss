@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 21:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 22:01:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 5:57 pm</title>
+      <description>100 BLOCK EISENTOWN DR Radio: 6DTAC11 Units: E281, T5</description>
+      <guid isPermaLink="false">2025-03-27 17:57:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:51 pm</title>
+      <description>21400 BLOCK LEITER ST, STATION WC009 - LEITERSBURG VFC. INC. Units: E72</description>
+      <guid isPermaLink="false">2025-03-27 17:51:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:46 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: EK114</description>
+      <guid isPermaLink="false">2025-03-27 17:46:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:45 pm</title>
+      <description>BAUGHMANS LN / W PATRICK ST Radio: 9B Units: A18, 9B, E11</description>
+      <guid isPermaLink="false">2025-03-27 17:45:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 5:38 pm</title>
+      <description>14700 BLOCK CHARMIAN RD, HAWLEY MEMORIAL PRESBYTERIAN CHURCH Units: TW6, PE102, E61, A69, BC902, EK64</description>
+      <guid isPermaLink="false">2025-03-27 17:38:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 5:33 pm</title>
+      <description>14700 BLOCK CHARMIAN RD Units: TW6, PE102</description>
+      <guid isPermaLink="false">2025-03-27 17:33:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:23 pm</title>
       <description>5600 BLOCK BURKITTSVILLE RD Radio: 9C Units: E72, JCEK1, K1, CMD5, C14B, E51, 9C, K7, BR55, WCBR8</description>
@@ -270,42 +306,6 @@
       <description>RT31 / COPPERMINE RD, RT31 / COPPERMINE RD Radio: 9D Units: FS17, 9D, E161, ALS17, RE171, A179, BC901, EMS902</description>
       <guid isPermaLink="false">2025-03-26 06:25:00</guid>
       <pubDate>Wed, 26 Mar 2025 06:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:22 am</title>
-      <description>2600 BLOCK CAULFIELD CT Radio: 9C Units: PE23, E111, E291, R24, 9C</description>
-      <guid isPermaLink="false">2025-03-26 01:22:00</guid>
-      <pubDate>Wed, 26 Mar 2025 01:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:17 am</title>
-      <description>2600 BLOCK CAULFIELD CT Radio: 9C Units: E111, E291, R24, FS29, 9C</description>
-      <guid isPermaLink="false">2025-03-26 01:17:00</guid>
-      <pubDate>Wed, 26 Mar 2025 01:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:58 am</title>
-      <description>4800 BLOCK ELMER DERR RD, UNITARIAN CONGREGATION CHURCH Radio: 9C Units: EK204, TW1, FS20, 9C</description>
-      <guid isPermaLink="false">2025-03-26 00:58:00</guid>
-      <pubDate>Wed, 26 Mar 2025 00:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:18 pm</title>
-      <description>APPROX LOC:136 BAUGHMANS LN Radio: 9B Units: 9B, A19, E11</description>
-      <guid isPermaLink="false">2025-03-25 23:18:00</guid>
-      <pubDate>Tue, 25 Mar 2025 23:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:45 pm</title>
-      <description>5100 BLOCK MOUNT ZION RD Radio: 9C Units: BR125, FS12, 9C</description>
-      <guid isPermaLink="false">2025-03-25 18:45:00</guid>
-      <pubDate>Tue, 25 Mar 2025 18:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 6:00 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Units: PE102, E291, TW1, K10, EK224, R10, A229, FS22, BC902</description>
-      <guid isPermaLink="false">2025-03-25 18:00:00</guid>
-      <pubDate>Tue, 25 Mar 2025 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
