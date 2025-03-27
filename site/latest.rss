@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 22:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 22:36:05 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:07 pm</title>
+      <description>600 BLOCK E POTOMAC ST Units: E51, FS05</description>
+      <guid isPermaLink="false">2025-03-27 18:07:00</guid>
+      <pubDate>Thu, 27 Mar 2025 18:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:57 pm</title>
       <description>100 BLOCK EISENTOWN DR Radio: 6DTAC11 Units: E281, T5</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK ALESSANDRA CT, CRYSTAL PARK APTS - 100 BLOCK ALESSANDRA CT Radio: 9C Units: E11, E501, 9C</description>
       <guid isPermaLink="false">2025-03-26 09:39:00</guid>
       <pubDate>Wed, 26 Mar 2025 09:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:25 am</title>
-      <description>RT31 / COPPERMINE RD, RT31 / COPPERMINE RD Radio: 9D Units: FS17, 9D, E161, ALS17, RE171, A179, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-03-26 06:25:00</guid>
-      <pubDate>Wed, 26 Mar 2025 06:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
