@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 21:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 21:31:54 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 5:23 pm</title>
+      <description>5600 BLOCK BURKITTSVILLE RD Radio: 9C Units: E72, JCEK1, K1, CMD5, C14B, E51, 9C, K7, BR55, WCBR8</description>
+      <guid isPermaLink="false">2025-03-27 17:23:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:20 pm</title>
+      <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Radio: 9B Units: A39, E31, 9B</description>
+      <guid isPermaLink="false">2025-03-27 17:20:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:17 pm</title>
+      <description>5600 BLOCK BURKITTSVILLE RD Radio: 9C Units: C14B, E51, 9C, K7, BR55, FS05</description>
+      <guid isPermaLink="false">2025-03-27 17:17:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:16 pm</title>
+      <description>5600 BLOCK BURKITTSVILLE RD Radio: 9C Units: C14B, E51, 9C, BR55, FS05</description>
+      <guid isPermaLink="false">2025-03-27 17:16:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:11 pm</title>
+      <description>5400 BLOCK URBANA PIKE, TARGET - RIVERVIEW PLAZA Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-03-27 17:11:00</guid>
+      <pubDate>Thu, 27 Mar 2025 17:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>CONFINED SPACE RESCUE: 4:33 pm</title>
       <description>100 BLOCK CLARKE PL, Bldg:7, MSD - ELY BUILDING-AUDITORIUM Units: EMS901, HM33, TR29, A39, A29, ALS2, MAU15, BC901, SAF901, E31, PE23, R3, T4</description>
@@ -276,36 +306,6 @@
       <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Units: PE102, E291, TW1, K10, EK224, R10, A229, FS22, BC902</description>
       <guid isPermaLink="false">2025-03-25 18:00:00</guid>
       <pubDate>Tue, 25 Mar 2025 18:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 6:00 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Units: PE102, E291, TW1, K10, EK224, R10, A229, FS22, BC902, K1</description>
-      <guid isPermaLink="false">2025-03-25 18:00:00</guid>
-      <pubDate>Tue, 25 Mar 2025 18:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 5:55 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Units: PE102, E291, TW1, K10, EK224, FS22</description>
-      <guid isPermaLink="false">2025-03-25 17:55:00</guid>
-      <pubDate>Tue, 25 Mar 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:14 pm</title>
-      <description>WOODSBORO PIKE / DETOUR RD Radio: 9B Units: EMS902, 9B, A169, C9B, E91, ALS17</description>
-      <guid isPermaLink="false">2025-03-25 17:14:00</guid>
-      <pubDate>Tue, 25 Mar 2025 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:12 pm</title>
-      <description>WOODSBORO PIKE / DETOUR RD Radio: 9B Units: 9B, A169, C9B, E91, FS09</description>
-      <guid isPermaLink="false">2025-03-25 17:12:00</guid>
-      <pubDate>Tue, 25 Mar 2025 17:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 4:50 pm</title>
-      <description>5500 BLOCK WOODVILLE RD Radio: 91C Units: CCK1, BR156, 91C, E251</description>
-      <guid isPermaLink="false">2025-03-25 16:50:00</guid>
-      <pubDate>Tue, 25 Mar 2025 16:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
