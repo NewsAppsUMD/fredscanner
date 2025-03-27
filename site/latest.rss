@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 00:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 00:46:14 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:33 pm</title>
+      <description>100 BLOCK W ALL SAINTS ST Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-03-26 20:33:00</guid>
+      <pubDate>Wed, 26 Mar 2025 20:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 8:25 pm</title>
+      <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-03-26 20:25:00</guid>
+      <pubDate>Wed, 26 Mar 2025 20:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 6:19 pm</title>
       <description>1000 BLOCK HEATHER RIDGE DR, Bldg:E, Apt/Unit:114, COUNTRY HILL APTS - 1000 BLOCKE HEATHER RIDGE DR Radio: 9C Units: 9C, E291</description>
@@ -294,18 +306,6 @@
       <description>4100 BLOCK JEFFERSON PIKE Radio: 9C Units: EK204, 9C</description>
       <guid isPermaLink="false">2025-03-24 21:24:00</guid>
       <pubDate>Mon, 24 Mar 2025 21:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 9:01 pm</title>
-      <description>5100 BLOCK MOUNT ZION RD Radio: 9C Units: BR125, FS12, 9C</description>
-      <guid isPermaLink="false">2025-03-24 21:01:00</guid>
-      <pubDate>Mon, 24 Mar 2025 21:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:40 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: 9C, TW1</description>
-      <guid isPermaLink="false">2025-03-24 20:40:00</guid>
-      <pubDate>Mon, 24 Mar 2025 20:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
