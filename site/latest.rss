@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Mar 2025 14:35:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 15:02:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:35 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: 9C, T4, PE23</description>
+      <guid isPermaLink="false">2025-03-27 10:35:00</guid>
+      <pubDate>Thu, 27 Mar 2025 10:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 10:28 am</title>
       <description>OLD NATIONAL PIKE / BALTIMORE RD Radio: 9C Units: E331, FS33, 9C</description>
@@ -300,12 +306,6 @@
       <description>10500 BLOCK TRALEE TER Radio: 7A4 Units: R15</description>
       <guid isPermaLink="false">2025-03-25 09:26:00</guid>
       <pubDate>Tue, 25 Mar 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 8:18 am</title>
-      <description>5700 BLOCK CATOCTIN VISTA DR Radio: 9C Units: E251, CCT1, 9C, K33, FS15, E153</description>
-      <guid isPermaLink="false">2025-03-25 08:18:00</guid>
-      <pubDate>Tue, 25 Mar 2025 08:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
