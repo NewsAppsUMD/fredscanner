@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 14:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 14:34:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:15 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Radio: 9C Units: 9C, E82, TW7</description>
+      <guid isPermaLink="false">2025-03-28 10:15:00</guid>
+      <pubDate>Fri, 28 Mar 2025 10:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:34 am</title>
       <description>RT17 / OLD MIDDLETOWN RD, RT17 / OLD MIDDLETOWN RD Radio: 9B Units: E72, 9B, A79, ALS20, EMS901</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK HEATHER RIDGE DR, Bldg:E, Apt/Unit:114, COUNTRY HILL APTS - 1000 BLOCKE HEATHER RIDGE DR Radio: 9C Units: 9C, E291</description>
       <guid isPermaLink="false">2025-03-26 18:19:00</guid>
       <pubDate>Wed, 26 Mar 2025 18:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 6:10 pm</title>
-      <description>3400 BLOCK URBANA PIKE, STARBUCKS - URBANA PIKE Radio: 9D Units: ALS23, E232, A239, EMS901, FS23, 9D</description>
-      <guid isPermaLink="false">2025-03-26 18:10:00</guid>
-      <pubDate>Wed, 26 Mar 2025 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
