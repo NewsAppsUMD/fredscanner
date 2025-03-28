@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Mar 2025 23:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 23:32:09 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:23 pm</title>
+      <description>8200 BLOCK BLK MYERSVILLE RD Units: E121, E212, EK204, E11, R20, E72, E82, TW7, T4, K7, K21, K1, A79, ALS8, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-03-28 19:23:00</guid>
+      <pubDate>Fri, 28 Mar 2025 19:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 7:19 pm</title>
+      <description>100 BLOCK WATER ST, IAO OF TOWN SQUARE Units: BR106</description>
+      <guid isPermaLink="false">2025-03-28 19:19:00</guid>
+      <pubDate>Fri, 28 Mar 2025 19:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:48 pm</title>
       <description>OLD NATIONAL PIKE / BARTONSVILLE RD Units: E331, FS33, A339</description>
@@ -294,18 +306,6 @@
       <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Radio: 9C Units: 9C, T4, PE23</description>
       <guid isPermaLink="false">2025-03-27 10:35:00</guid>
       <pubDate>Thu, 27 Mar 2025 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 10:28 am</title>
-      <description>OLD NATIONAL PIKE / BALTIMORE RD Radio: 9C Units: E331, FS33, 9C</description>
-      <guid isPermaLink="false">2025-03-27 10:28:00</guid>
-      <pubDate>Thu, 27 Mar 2025 10:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:02 am</title>
-      <description>1300 BLOCK W SEVENTH ST, Apt/Unit:RM MAIN FLR 1, GETGO - SEVENTH STREET SHOPPING CENTER Radio: 9D Units: A29, ALS2, PE23, EMS902, 9D</description>
-      <guid isPermaLink="false">2025-03-27 10:02:00</guid>
-      <pubDate>Thu, 27 Mar 2025 10:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
