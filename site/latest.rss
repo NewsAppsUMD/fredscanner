@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Mar 2025 05:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 06:02:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:58 am</title>
+      <description>I70WB / 55MM, I70WB / 55MM Radio: 9D Units: E11, R3, A39, A19, ALS4, BC901, EMS901, 9D, E31</description>
+      <guid isPermaLink="false">2025-03-29 01:58:00</guid>
+      <pubDate>Sat, 29 Mar 2025 01:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CONFINED SPACE RESCUE: 1:51 am</title>
+      <description>13100 BLOCK TAYLORSTOWN RD Radio: 6LTAC31 Units: R20, E281</description>
+      <guid isPermaLink="false">2025-03-29 01:51:00</guid>
+      <pubDate>Sat, 29 Mar 2025 01:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:59 pm</title>
       <description>5200 BLOCK INTERCOASTAL DR, IAO Units: BR156</description>
@@ -294,18 +306,6 @@
       <description>3000 BLOCK DESMOND PL Radio: 9C Units: FS25, 9C, E251</description>
       <guid isPermaLink="false">2025-03-27 14:11:00</guid>
       <pubDate>Thu, 27 Mar 2025 14:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:46 pm</title>
-      <description>100 BLOCK STONEGATE DR Units: E11, E121, E31, E501, E72, R3, T50, R2, A19, ALS4, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-03-27 13:46:00</guid>
-      <pubDate>Thu, 27 Mar 2025 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
-      <description>12300 BLOCK WOODSBORO PIKE Radio: 9B Units: R24, A169, ALS17, EMS902, FS09, E91, 9B</description>
-      <guid isPermaLink="false">2025-03-27 13:42:00</guid>
-      <pubDate>Thu, 27 Mar 2025 13:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
