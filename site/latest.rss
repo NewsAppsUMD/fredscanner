@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 00:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 00:46:32 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:16 pm</title>
+      <description>GLENDALE DR / CLEARFIELD RD, IAO Radio: 9C Units: 9C, E291, FS29</description>
+      <guid isPermaLink="false">2025-03-29 20:16:00</guid>
+      <pubDate>Sat, 29 Mar 2025 20:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 8:07 pm</title>
+      <description>RT180 / OLIVE SCHOOL RD, RT180 / OLIVE SCHOOL RD Radio: 9C Units: BR205, EK204, BR55, C5B, 9C, RE52</description>
+      <guid isPermaLink="false">2025-03-29 20:07:00</guid>
+      <pubDate>Sat, 29 Mar 2025 20:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 8:05 pm</title>
+      <description>RT180 / OLIVE SCHOOL RD, RT180 / OLIVE SCHOOL RD Radio: 9C Units: E51, EK204, BR55, C5B, 9C</description>
+      <guid isPermaLink="false">2025-03-29 20:05:00</guid>
+      <pubDate>Sat, 29 Mar 2025 20:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:02 pm</title>
       <description>6200 BLOCK NIGHTFIRE TER Radio: 9C Units: E331, FS15, 9C</description>
@@ -288,24 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: 9C, PE23, T4</description>
       <guid isPermaLink="false">2025-03-27 21:02:00</guid>
       <pubDate>Thu, 27 Mar 2025 21:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 7:58 pm</title>
-      <description>200 BLOCK S MAPLE AVE, MARC TRAIN STATION - BRUNSWICK Units: E51, HMSU33, E121, A198, A196, ALS4, BC903, SAF901, EMS901, FS05, HM33, HM50, E612B, R19</description>
-      <guid isPermaLink="false">2025-03-27 19:58:00</guid>
-      <pubDate>Thu, 27 Mar 2025 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:41 pm</title>
-      <description>700 BLOCK N MARKET ST Units: A29, ALS2, E11, EMS902</description>
-      <guid isPermaLink="false">2025-03-27 19:41:00</guid>
-      <pubDate>Thu, 27 Mar 2025 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:07 pm</title>
-      <description>600 BLOCK E POTOMAC ST Units: E51, FS05</description>
-      <guid isPermaLink="false">2025-03-27 18:07:00</guid>
-      <pubDate>Thu, 27 Mar 2025 18:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
