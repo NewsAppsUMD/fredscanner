@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 06:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 07:02:07 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:39 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E111</description>
+      <guid isPermaLink="false">2025-03-30 02:39:00</guid>
+      <pubDate>Sun, 30 Mar 2025 02:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:53 am</title>
       <description>3900 BLOCK SKYVIEW DR, IAO Units: A259, E251</description>
@@ -300,12 +306,6 @@
       <description>RT17 / OLD MIDDLETOWN RD, RT17 / OLD MIDDLETOWN RD Radio: 9B Units: E72, 9B, A79, ALS20, EMS901</description>
       <guid isPermaLink="false">2025-03-28 09:34:00</guid>
       <pubDate>Fri, 28 Mar 2025 09:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:33 am</title>
-      <description>RT17 / OLD MIDDLETOWN RD, RT17 / OLD MIDDLETOWN RD Radio: 9B Units: E72, 9B, A79</description>
-      <guid isPermaLink="false">2025-03-28 09:33:00</guid>
-      <pubDate>Fri, 28 Mar 2025 09:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
