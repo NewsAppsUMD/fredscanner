@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Mar 2025 17:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 18:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:57 pm</title>
+      <description>11700 BLOCK HUNT CLUB RD Radio: 9B Units: A169, 9B, E161, FS16</description>
+      <guid isPermaLink="false">2025-03-30 13:57:00</guid>
+      <pubDate>Sun, 30 Mar 2025 13:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:51 pm</title>
+      <description>7900 BLOCK PETERS RD, Bldg:A, MOUNT ANNA PRAYER CHURCH - 7900 BLOCKA PETERS RD Radio: 9C Units: E232, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2025-03-30 13:51:00</guid>
+      <pubDate>Sun, 30 Mar 2025 13:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 1:48 pm</title>
+      <description>2800 BLOCK TRACT RD Units: A69, R6</description>
+      <guid isPermaLink="false">2025-03-30 13:48:00</guid>
+      <pubDate>Sun, 30 Mar 2025 13:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
       <description>RT15SB / RT340 (FREDERICK), RT15SB / RT340 Units: E31, E11, R3, A38, A19</description>
@@ -288,24 +306,6 @@
       <description>13100 BLOCK TAYLORSTOWN RD Radio: 6LTAC31 Units: R20, E281</description>
       <guid isPermaLink="false">2025-03-29 01:51:00</guid>
       <pubDate>Sat, 29 Mar 2025 01:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:59 pm</title>
-      <description>5200 BLOCK INTERCOASTAL DR, IAO Units: BR156</description>
-      <guid isPermaLink="false">2025-03-28 22:59:00</guid>
-      <pubDate>Fri, 28 Mar 2025 22:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:58 pm</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, MCDONALDS - ROSEMONT Units: A19, E11</description>
-      <guid isPermaLink="false">2025-03-28 22:58:00</guid>
-      <pubDate>Fri, 28 Mar 2025 22:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:34 pm</title>
-      <description>13200 BLOCK LOYALTY RD Radio: 6B Units: E141, R20, T5</description>
-      <guid isPermaLink="false">2025-03-28 21:34:00</guid>
-      <pubDate>Fri, 28 Mar 2025 21:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
