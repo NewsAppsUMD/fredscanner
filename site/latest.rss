@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 06:38:43 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:23 am</title>
+      <description>BAUGHMANS LN / SHOOKSTOWN RD Radio: 9B Units: E11, 9B, A19</description>
+      <guid isPermaLink="false">2025-03-31 02:23:00</guid>
+      <pubDate>Mon, 31 Mar 2025 02:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:56 pm</title>
       <description>RT15NB / POWELL RD, RT15NB / POWELL RD Radio: 9B Units: EK224, A229, 9B, E291</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK SUGARLOAF PKWY, GIANT FOOD - URBANA TOWN CENTER Radio: 9B Units: E232, E251, TT23, FS23, 9B</description>
       <guid isPermaLink="false">2025-03-29 17:48:00</guid>
       <pubDate>Sat, 29 Mar 2025 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:40 pm</title>
-      <description>MONROE AVE / MONOCACY BLVD Radio: 9B Units: 9B, A38, E331, A39, ALS2, EMS902</description>
-      <guid isPermaLink="false">2025-03-29 16:40:00</guid>
-      <pubDate>Sat, 29 Mar 2025 16:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
