@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 07:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 08:02:44 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 3:32 am</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Radio: 9D Units: TT23, FS23, 9D</description>
+      <guid isPermaLink="false">2025-03-31 03:32:00</guid>
+      <pubDate>Mon, 31 Mar 2025 03:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 2:57 am</title>
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E331, FS33, 9C</description>
@@ -300,12 +306,6 @@
       <description>ED MCCLAIN RD / BUSH CREEK WAY, IAO Radio: 9C Units: E251, FS25, 9C</description>
       <guid isPermaLink="false">2025-03-29 19:23:00</guid>
       <pubDate>Sat, 29 Mar 2025 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:51 pm</title>
-      <description>10800 BLOCK OLD NATIONAL PIKE Radio: 9B Units: A339, R15, 9B</description>
-      <guid isPermaLink="false">2025-03-29 18:51:00</guid>
-      <pubDate>Sat, 29 Mar 2025 18:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
