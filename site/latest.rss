@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 20:34:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 4:50 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / BOWERS RD Radio: 9C Units: BR125, 9C</description>
+      <guid isPermaLink="false">2025-03-31 16:50:00</guid>
+      <pubDate>Mon, 31 Mar 2025 16:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
+      <description>3400 BLOCK THREE DAUGHTERS CT Radio: 9B Units: E251, FS25, 9B, A259</description>
+      <guid isPermaLink="false">2025-03-31 16:47:00</guid>
+      <pubDate>Mon, 31 Mar 2025 16:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 4:45 pm</title>
+      <description>2200 BLOCK PARISH LN Radio: 9C Units: E291, E111, R24, FS29, 9C</description>
+      <guid isPermaLink="false">2025-03-31 16:45:00</guid>
+      <pubDate>Mon, 31 Mar 2025 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:37 pm</title>
+      <description>100 BLOCK BLK RAMP RT144 TO I7100 BLOCKEB -NEWM RAMP Radio: 9B Units: E331, FS33, 9B, A339</description>
+      <guid isPermaLink="false">2025-03-31 16:37:00</guid>
+      <pubDate>Mon, 31 Mar 2025 16:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:23 pm</title>
       <description>100 BLOCK N MCCAIN DR Radio: 9D Units: R3, ALS4, EMS902, 9D, E11, A39, BC901</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E111</description>
       <guid isPermaLink="false">2025-03-30 02:39:00</guid>
       <pubDate>Sun, 30 Mar 2025 02:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:53 am</title>
-      <description>3900 BLOCK SKYVIEW DR, IAO Units: A259, E251</description>
-      <guid isPermaLink="false">2025-03-30 01:53:00</guid>
-      <pubDate>Sun, 30 Mar 2025 01:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:07 am</title>
-      <description>I70WB / 48MM, I70WB / 48MM Units: E82, A129, A89, E121, R3, FS12</description>
-      <guid isPermaLink="false">2025-03-30 00:07:00</guid>
-      <pubDate>Sun, 30 Mar 2025 00:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:45 pm</title>
-      <description>300 BLOCK S SETON AVE, Apt/Unit:APT 409, SETON VILLAGE APARTMENTS Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2025-03-29 22:45:00</guid>
-      <pubDate>Sat, 29 Mar 2025 22:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:32 pm</title>
-      <description>1400 BLOCK GROUSE CT, IAO Units: E11</description>
-      <guid isPermaLink="false">2025-03-29 22:32:00</guid>
-      <pubDate>Sat, 29 Mar 2025 22:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
