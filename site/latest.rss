@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Mar 2025 19:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 19:31:25 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:03 pm</title>
+      <description>11700 BLOCK THOMAS SPRING RD Radio: 9C Units: FS25, 9C, E251</description>
+      <guid isPermaLink="false">2025-03-31 15:03:00</guid>
+      <pubDate>Mon, 31 Mar 2025 15:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 2:34 pm</title>
       <description>12100 BLOCK LOY WOLFE RD Radio: 9C Units: FS21, 9C, E82</description>
@@ -300,12 +306,6 @@
       <description>S JEFFERSON ST / JEFF ST BRIDGE @ RT15 HWY Radio: 9B Units: A39, ALS31, R3, CMD3, 9B, A19, A18, EMS901</description>
       <guid isPermaLink="false">2025-03-29 22:28:00</guid>
       <pubDate>Sat, 29 Mar 2025 22:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:19 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, MCDONALDS - PROSPECT PLAZA Radio: 9B Units: A39, E31, 9B</description>
-      <guid isPermaLink="false">2025-03-29 22:19:00</guid>
-      <pubDate>Sat, 29 Mar 2025 22:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
