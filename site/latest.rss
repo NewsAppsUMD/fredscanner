@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 00:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 00:46:38 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 8:34 pm</title>
+      <description>23500 BLOCK OLD HUNDRED RD Radio: 7A1 Units: E232</description>
+      <guid isPermaLink="false">2025-03-31 20:34:00</guid>
+      <pubDate>Mon, 31 Mar 2025 20:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SELF INFLICTED SHOOTING: 8:16 pm</title>
+      <description>500 BLOCK E POTOMAC ST Radio: 9D Units: 9D, A196, BC903, EMS901, FS05, ALS20, R19</description>
+      <guid isPermaLink="false">2025-03-31 20:16:00</guid>
+      <pubDate>Mon, 31 Mar 2025 20:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:51 pm</title>
       <description>1700 BLOCK CARRIAGE WAY Units: E291, FS29</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E331, FS33, 9C</description>
       <guid isPermaLink="false">2025-03-30 11:35:00</guid>
       <pubDate>Sun, 30 Mar 2025 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:09 am</title>
-      <description>RT15SB / STULL RD, RT15SB / STULL RD Radio: 9B Units: A229, EK224, FS22, 9B</description>
-      <guid isPermaLink="false">2025-03-30 11:09:00</guid>
-      <pubDate>Sun, 30 Mar 2025 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:49 am</title>
-      <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Radio: 9B Units: EK204, FS20, 9B, A209</description>
-      <guid isPermaLink="false">2025-03-30 10:49:00</guid>
-      <pubDate>Sun, 30 Mar 2025 10:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
