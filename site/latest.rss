@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 12:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 13:09:32 +0000</lastBuildDate>
+    <item>
+      <title>POLICE INCIDENT - EMS STANDBY: 8:16 pm</title>
+      <description>500 BLOCK E POTOMAC ST Radio: 9D Units: 9D, A196, BC903, EMS901, FS05, ALS20, R19</description>
+      <guid isPermaLink="false">2025-04-01 20:16:00</guid>
+      <pubDate>Tue, 01 Apr 2025 20:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:57 am</title>
+      <description>1500 BLOCK LAUREL WOOD WAY Radio: 9C Units: T50, FS29, 9C, E111</description>
+      <guid isPermaLink="false">2025-04-01 08:57:00</guid>
+      <pubDate>Tue, 01 Apr 2025 08:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 4:03 am</title>
       <description>3800 BLOCK SHADYWOOD DR, Apt/Unit:1A, BRIARCREST CONDOS - 3800 BLOCK SHADYWOOD DR Radio: 9C Units: EK204, 9C, FS20</description>
@@ -294,18 +306,6 @@
       <description>5700 BLOCK ROYAL OAK DR Radio: 9C Units: 9C, BC901, CCEMSUTV1, BR175, E153, E251, FS15, BR156, C15C, CMD15</description>
       <guid isPermaLink="false">2025-03-30 12:40:00</guid>
       <pubDate>Sun, 30 Mar 2025 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:29 pm</title>
-      <description>5700 BLOCK ROYAL OAK DR Radio: 9C Units: BR176, BR35, 9C, BC901, CCEMSUTV1, BR175, E153, BR156, C15C, CMD15</description>
-      <guid isPermaLink="false">2025-03-30 12:29:00</guid>
-      <pubDate>Sun, 30 Mar 2025 12:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:22 pm</title>
-      <description>5700 BLOCK ROYAL OAK DR Radio: 9C Units: BR176, 9C, BR175, E153, BR156, C15C</description>
-      <guid isPermaLink="false">2025-03-30 12:22:00</guid>
-      <pubDate>Sun, 30 Mar 2025 12:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
