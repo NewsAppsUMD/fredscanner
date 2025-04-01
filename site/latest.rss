@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Apr 2025 08:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 08:37:15 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 4:03 am</title>
+      <description>3800 BLOCK SHADYWOOD DR, Apt/Unit:1A, BRIARCREST CONDOS - 3800 BLOCK SHADYWOOD DR Radio: 9C Units: EK204, 9C, FS20</description>
+      <guid isPermaLink="false">2025-04-01 04:03:00</guid>
+      <pubDate>Tue, 01 Apr 2025 04:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:49 am</title>
       <description>3800 BLOCK SHADYWOOD DR, Apt/Unit:1A, BRIARCREST CONDOS - 3800 BLOCK SHADYWOOD DR Radio: 9C Units: 9C, EK204, T5, FS20</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK ROYAL OAK DR Radio: 9C Units: BR176, 9C, BR175, E153, BR156, C15C</description>
       <guid isPermaLink="false">2025-03-30 12:22:00</guid>
       <pubDate>Sun, 30 Mar 2025 12:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:07 pm</title>
-      <description>5700 BLOCK ROYAL OAK DR, NEW MARKET NATURE PARK Radio: 9C Units: FS15, 9C, BR156</description>
-      <guid isPermaLink="false">2025-03-30 12:07:00</guid>
-      <pubDate>Sun, 30 Mar 2025 12:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
