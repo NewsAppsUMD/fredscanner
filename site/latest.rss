@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 02:09:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 02:50:47 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:23 pm</title>
+      <description>6200 BLOCK RITTER DR Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-04-02 22:23:00</guid>
+      <pubDate>Wed, 02 Apr 2025 22:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 8:59 pm</title>
       <description>5900 BLOCK FORUM SQ Radio: 9C Units: T4, 9C, E11, PE311</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / POWELL RD, RT15NB / POWELL RD Radio: 9B Units: EK224, FS22, A229, 9B</description>
       <guid isPermaLink="false">2025-03-30 23:50:00</guid>
       <pubDate>Sun, 30 Mar 2025 23:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:45 pm</title>
-      <description>9400 BLOCK ERNEST DR Radio: 91C Units: E331, 91C, BR156</description>
-      <guid isPermaLink="false">2025-03-30 23:45:00</guid>
-      <pubDate>Sun, 30 Mar 2025 23:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
