@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Apr 2025 19:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 20:02:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
+      <description>N MARKET ST / N EAST ST Units: A29, PE23</description>
+      <guid isPermaLink="false">2025-04-03 15:38:00</guid>
+      <pubDate>Thu, 03 Apr 2025 15:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 3:30 pm</title>
+      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9C Units: PE102, 9C</description>
+      <guid isPermaLink="false">2025-04-03 15:30:00</guid>
+      <pubDate>Thu, 03 Apr 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:54 pm</title>
       <description>19800 BLOCK BEALLSVILLE RD STATION 714, STATION 714 Radio: 7A1 Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>ROSEMONT AVE / LEE PL Radio: 9B Units: E11, 9B, A19</description>
       <guid isPermaLink="false">2025-03-31 12:40:00</guid>
       <pubDate>Mon, 31 Mar 2025 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:58 am</title>
-      <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL Radio: 9B Units: 9B, A149, FS14, R14</description>
-      <guid isPermaLink="false">2025-03-31 11:58:00</guid>
-      <pubDate>Mon, 31 Mar 2025 11:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:30 am</title>
-      <description>2700 BLOCK CAMOMILE DR W Radio: 9C Units: E232, FS23, 9C</description>
-      <guid isPermaLink="false">2025-03-31 11:30:00</guid>
-      <pubDate>Mon, 31 Mar 2025 11:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
