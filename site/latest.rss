@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 14:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 14:34:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:16 am</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: E232, A239</description>
+      <guid isPermaLink="false">2025-04-04 10:16:00</guid>
+      <pubDate>Fri, 04 Apr 2025 10:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:05 am</title>
+      <description>WORMANS MILL RD / LIBERTY RD Radio: 9D Units: R24, A249, ALS2, E111, EMS902, R2, MD900, 9D, BC902</description>
+      <guid isPermaLink="false">2025-04-04 10:05:00</guid>
+      <pubDate>Fri, 04 Apr 2025 10:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:05 am</title>
+      <description>WORMANS MILL RD / LIBERTY RD Radio: 9D Units: R24, A249, ALS2, E111, EMS902, R2, MD900, 9D, BC902</description>
+      <guid isPermaLink="false">2025-04-04 10:05:00</guid>
+      <pubDate>Fri, 04 Apr 2025 10:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:00 am</title>
+      <description>WORMANS MILL RD / LIBERTY RD Radio: 9D Units: E161, R24, A249, ALS2, BC901, EMS902, FS11, 9D</description>
+      <guid isPermaLink="false">2025-04-04 10:00:00</guid>
+      <pubDate>Fri, 04 Apr 2025 10:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 9:55 am</title>
       <description>7700 BLOCK SUNDAYS LN, SEVEN ELEVEN - SUNDAYS LN Radio: 9C Units: Q11, E111, EK224, E221, FS29, E291, 9C, BC902</description>
@@ -282,30 +306,6 @@
       <description>5700 BLOCK INDUSTRY LN, WAFY KEY 103 RADIO STATION Radio: 9C Units: T4, FS31, 9C, E31</description>
       <guid isPermaLink="false">2025-04-02 10:40:00</guid>
       <pubDate>Wed, 02 Apr 2025 10:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:41 pm</title>
-      <description>100 BLOCK CATOCTIN AVE Radio: 9C Units: E31, PE23, T4, 9C</description>
-      <guid isPermaLink="false">2025-04-01 21:41:00</guid>
-      <pubDate>Tue, 01 Apr 2025 21:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:18 pm</title>
-      <description>100 BLOCK SUNNY CLOSE Radio: 9C Units: PE102, TW6, 9C</description>
-      <guid isPermaLink="false">2025-04-01 21:18:00</guid>
-      <pubDate>Tue, 01 Apr 2025 21:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>POLICE INCIDENT - EMS STANDBY: 8:16 pm</title>
-      <description>500 BLOCK E POTOMAC ST Radio: 9D Units: 9D, A196, BC903, EMS901, FS05, ALS20, R19</description>
-      <guid isPermaLink="false">2025-04-01 20:16:00</guid>
-      <pubDate>Tue, 01 Apr 2025 20:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:57 am</title>
-      <description>1500 BLOCK LAUREL WOOD WAY Radio: 9C Units: T50, FS29, 9C, E111</description>
-      <guid isPermaLink="false">2025-04-01 08:57:00</guid>
-      <pubDate>Tue, 01 Apr 2025 08:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
