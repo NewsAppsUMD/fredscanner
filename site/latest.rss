@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Apr 2025 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 10:35:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:14 am</title>
+      <description>200 BLOCK E GREEN ST, MIDDLETOWN ELEMENTARY SCHOOL Radio: 9C Units: TW1, 9C, E72</description>
+      <guid isPermaLink="false">2025-04-04 06:14:00</guid>
+      <pubDate>Fri, 04 Apr 2025 06:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:57 am</title>
       <description>10000 BLOCK PICEA CT Radio: 9C Units: FS15, 9C, E152</description>
@@ -300,12 +306,6 @@
       <description>BALTIMORE NATIONAL PIKE PIKE / BOWERS RD Radio: 9C Units: BR125, 9C</description>
       <guid isPermaLink="false">2025-03-31 16:50:00</guid>
       <pubDate>Mon, 31 Mar 2025 16:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
-      <description>3400 BLOCK THREE DAUGHTERS CT Radio: 9B Units: E251, FS25, 9B, A259</description>
-      <guid isPermaLink="false">2025-03-31 16:47:00</guid>
-      <pubDate>Mon, 31 Mar 2025 16:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
