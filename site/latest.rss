@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 18:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 18:35:40 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 2:31 pm</title>
+      <description>100 BLOCK W PATRICK ST, NATIONAL MUSEAUM OF CIVIL WAR Radio: 9B Units: 9B, R3</description>
+      <guid isPermaLink="false">2025-04-05 14:31:00</guid>
+      <pubDate>Sat, 05 Apr 2025 14:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
+      <description>HARMONY RD / BALTIMORE NATIONAL PIKE PIKE Radio: 9B Units: E82, 9B, A89</description>
+      <guid isPermaLink="false">2025-04-05 14:11:00</guid>
+      <pubDate>Sat, 05 Apr 2025 14:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:03 pm</title>
       <description>MA CARRCO: I70EB / RT27, MA CARRCO: I70EB / RT27 Radio: CCA3 Units: A158, CCA3</description>
@@ -294,18 +306,6 @@
       <description>W SEVENTH ST / APPLE AVE Units: PE23, A29</description>
       <guid isPermaLink="false">2025-04-03 16:59:00</guid>
       <pubDate>Thu, 03 Apr 2025 16:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 4:39 pm</title>
-      <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Units: TW1</description>
-      <guid isPermaLink="false">2025-04-03 16:39:00</guid>
-      <pubDate>Thu, 03 Apr 2025 16:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
-      <description>N MARKET ST / N EAST ST Units: A29, PE23</description>
-      <guid isPermaLink="false">2025-04-03 15:38:00</guid>
-      <pubDate>Thu, 03 Apr 2025 15:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
