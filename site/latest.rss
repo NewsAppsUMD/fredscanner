@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 09:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 10:02:06 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:44 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: T4, FS33, 9C, E331</description>
+      <guid isPermaLink="false">2025-04-05 05:44:00</guid>
+      <pubDate>Sat, 05 Apr 2025 05:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:26 am</title>
       <description>I70EB / RT40 (FRED), I70EB / RT40 Units: A89, A129, RE74, E121, R8</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT80(RT80), JUST SOUTH OF THE EXIT Units: EMS901, E232, E251, TT23, R3, A239, A708, FS23</description>
       <guid isPermaLink="false">2025-04-03 10:31:00</guid>
       <pubDate>Thu, 03 Apr 2025 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:29 am</title>
-      <description>I270SB / RT80(RT80), JUST SOUTH OF THE EXIT Units: E232, E251, TT23, R3, A239, A708, FS23</description>
-      <guid isPermaLink="false">2025-04-03 10:29:00</guid>
-      <pubDate>Thu, 03 Apr 2025 10:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
