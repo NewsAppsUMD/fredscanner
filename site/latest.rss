@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 13:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 14:01:46 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:39 am</title>
+      <description>1200 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2025-04-05 09:39:00</guid>
+      <pubDate>Sat, 05 Apr 2025 09:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:44 am</title>
       <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: T4, FS33, 9C, E331</description>
@@ -300,12 +306,6 @@
       <description>19800 BLOCK BEALLSVILLE RD, STATION MC714 - UPPER MONTGOMERY Units: PE311</description>
       <guid isPermaLink="false">2025-04-03 13:34:00</guid>
       <pubDate>Thu, 03 Apr 2025 13:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:31 am</title>
-      <description>I270SB / RT80(RT80), JUST SOUTH OF THE EXIT Units: EMS901, E232, E251, TT23, R3, A239, A708, FS23</description>
-      <guid isPermaLink="false">2025-04-03 10:31:00</guid>
-      <pubDate>Thu, 03 Apr 2025 10:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
