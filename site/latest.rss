@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 16:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 16:35:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:13 pm</title>
+      <description>400 BLOCK PROSPECT BLVD, BEST WESTERN HOTEL Radio: 9C Units: T4, 9C, E33</description>
+      <guid isPermaLink="false">2025-04-05 12:13:00</guid>
+      <pubDate>Sat, 05 Apr 2025 12:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:39 am</title>
       <description>1200 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, T5, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>19800 BLOCK BEALLSVILLE RD STATION 714, STATION 714 Radio: 7A1 Units: PE311</description>
       <guid isPermaLink="false">2025-04-03 13:54:00</guid>
       <pubDate>Thu, 03 Apr 2025 13:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:34 pm</title>
-      <description>19800 BLOCK BEALLSVILLE RD, STATION MC714 - UPPER MONTGOMERY Units: PE311</description>
-      <guid isPermaLink="false">2025-04-03 13:34:00</guid>
-      <pubDate>Thu, 03 Apr 2025 13:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
