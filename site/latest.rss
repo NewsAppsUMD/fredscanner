@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Apr 2025 08:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 08:34:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 am</title>
+      <description>I70EB / RT40 (FRED), I70EB / RT40 Units: A89, A129, RE74, E121, R8</description>
+      <guid isPermaLink="false">2025-04-05 04:26:00</guid>
+      <pubDate>Sat, 05 Apr 2025 04:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:20 am</title>
       <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT80(RT80), JUST SOUTH OF THE EXIT Units: E232, E251, TT23, R3, A239, A708, FS23</description>
       <guid isPermaLink="false">2025-04-03 10:29:00</guid>
       <pubDate>Thu, 03 Apr 2025 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>3400 BLOCK ANGELICA WAY Units: TT23, E232, FS23</description>
-      <guid isPermaLink="false">2025-04-03 09:48:00</guid>
-      <pubDate>Thu, 03 Apr 2025 09:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
