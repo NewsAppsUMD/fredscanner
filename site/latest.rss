@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Apr 2025 11:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 11:31:25 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 7:26 am</title>
+      <description>300 BLOCK FURGESON LN Units: TW1</description>
+      <guid isPermaLink="false">2025-04-06 07:26:00</guid>
+      <pubDate>Sun, 06 Apr 2025 07:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 2:09 am</title>
       <description>RT15SB / RT340 (FREDERICK), RT15SB / RT340 Radio: 9D Units: E11, ALS4, BC902, 9D, R3, A18, A38, E33, EMS902</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT17, I70EB / RT17 Radio: 9I Units: EMS901, A39, ALS8, BC901, E72, E212, R3, A78, 9I</description>
       <guid isPermaLink="false">2025-04-04 08:23:00</guid>
       <pubDate>Fri, 04 Apr 2025 08:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:10 am</title>
-      <description>2400 BLOCK OSPREY WAY, HOMEGOODS - MARKET SQUARE Radio: 9C Units: 9C, FS11, E111, Q11, T4</description>
-      <guid isPermaLink="false">2025-04-04 08:10:00</guid>
-      <pubDate>Fri, 04 Apr 2025 08:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
