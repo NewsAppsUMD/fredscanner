@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 13:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 14:02:18 +0000</lastBuildDate>
+    <item>
+      <title>GARAGE FIRE: 9:59 am</title>
+      <description>14100 BLOCK LOY WOLFE RD Units: WCTT3, WCRE7, K21, WCEK16, WCK9, WCA791, WCM792, E212, BC903, BC900, SAF901, FS21, PE102, WCE71, WCE3, E82, WCE92, WCR10, WCE161</description>
+      <guid isPermaLink="false">2025-04-07 09:59:00</guid>
+      <pubDate>Mon, 07 Apr 2025 09:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:53 am</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Units: R729, A735, A259, E232, PRE709</description>
+      <guid isPermaLink="false">2025-04-07 09:53:00</guid>
+      <pubDate>Mon, 07 Apr 2025 09:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>POLICE INCIDENT - EMS STANDBY: 9:35 am</title>
       <description>10700 BLOCK UTICA MILLS CIR Units: A229, E111, E221, BC902, EMS902, FS22, ALS29</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK N MARKET ST, THE BANNER SCHOOL Radio: 9C Units: PE23, T4, 9C</description>
       <guid isPermaLink="false">2025-04-04 16:06:00</guid>
       <pubDate>Fri, 04 Apr 2025 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:04 pm</title>
-      <description>11800 BLOCK LIBERTY RD, LIBERTY ELEMENTARY SCHOOL Radio: 9C Units: FS17, Q11, 9C, E172</description>
-      <guid isPermaLink="false">2025-04-04 15:04:00</guid>
-      <pubDate>Fri, 04 Apr 2025 15:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 2:54 pm</title>
-      <description>800 BLOCK N MARKET ST Radio: 9C Units: E23, R3, 9C, E31</description>
-      <guid isPermaLink="false">2025-04-04 14:54:00</guid>
-      <pubDate>Fri, 04 Apr 2025 14:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
