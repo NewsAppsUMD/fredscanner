@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 15:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 16:02:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:58 am</title>
+      <description>6000 BLOCK NEW DESIGN RD, TRINITY SCHOOL Radio: 9C Units: PE311, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-04-07 11:58:00</guid>
+      <pubDate>Mon, 07 Apr 2025 11:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 10:26 am</title>
       <description>300 BLOCK MAIN ST, STATION 8 Units: E51, EK204</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK N CLIFTON RD Radio: 9C Units: FS12, 9C, E121</description>
       <guid isPermaLink="false">2025-04-04 22:50:00</guid>
       <pubDate>Fri, 04 Apr 2025 22:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:15 pm</title>
-      <description>I70EB / 49MM, I70EB / 49MM Units: A39, RE74, E121, R8, A89</description>
-      <guid isPermaLink="false">2025-04-04 22:15:00</guid>
-      <pubDate>Fri, 04 Apr 2025 22:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
