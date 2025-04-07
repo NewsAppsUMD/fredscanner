@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 18:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 18:37:33 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:34 pm</title>
+      <description>WOODVILLE RD / JESSE SMITH RD Units: K33, K17, CCA18, RE171, T4, SAFBC900, C15, A158, E153, R3, CCK1, ALS17, CCE12, E251, E331, HCE41, PE713, SAF901, CCM19, BC901, BC903</description>
+      <guid isPermaLink="false">2025-04-07 14:34:00</guid>
+      <pubDate>Mon, 07 Apr 2025 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:31 pm</title>
+      <description>WOODVILLE RD / JESSE SMITH RD Units: K33, K17, CCA18, RE171, T4, E153, R3, CCK1, CCE12, E251, E331, HCE41, PE713, SAF901, FS15, CCM19, BC901, BC903</description>
+      <guid isPermaLink="false">2025-04-07 14:31:00</guid>
+      <pubDate>Mon, 07 Apr 2025 14:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:08 pm</title>
+      <description>5600 BLOCK URBANA PIKE, CARMAX Radio: 9C Units: E33, T4, 9C</description>
+      <guid isPermaLink="false">2025-04-07 14:08:00</guid>
+      <pubDate>Mon, 07 Apr 2025 14:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:03 pm</title>
+      <description>28100 BLOCK RIDGE RD Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-04-07 14:03:00</guid>
+      <pubDate>Mon, 07 Apr 2025 14:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 2:01 pm</title>
+      <description>I70WB / 46MM, I70WB / 46MM Radio: 9C Units: E121, E72, FS12, 9C</description>
+      <guid isPermaLink="false">2025-04-07 14:01:00</guid>
+      <pubDate>Mon, 07 Apr 2025 14:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:42 pm</title>
       <description>9500 BLOCK DOCTOR PERRY RD, P B DYE GOLF COURSE Radio: 9C Units: TT23, E232, FS23, 9C</description>
@@ -276,36 +306,6 @@
       <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: T4, FS33, 9C, E331</description>
       <guid isPermaLink="false">2025-04-05 05:44:00</guid>
       <pubDate>Sat, 05 Apr 2025 05:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:26 am</title>
-      <description>I70EB / RT40 (FRED), I70EB / RT40 Units: A89, A129, RE74, E121, R8</description>
-      <guid isPermaLink="false">2025-04-05 04:26:00</guid>
-      <pubDate>Sat, 05 Apr 2025 04:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:20 am</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2025-04-05 03:20:00</guid>
-      <pubDate>Sat, 05 Apr 2025 03:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:37 am</title>
-      <description>4200 BLOCK BUSSARD RD Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-04-05 01:37:00</guid>
-      <pubDate>Sat, 05 Apr 2025 01:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:13 am</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9B Units: 9B, A318, PE311, FS31</description>
-      <guid isPermaLink="false">2025-04-05 00:13:00</guid>
-      <pubDate>Sat, 05 Apr 2025 00:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:49 pm</title>
-      <description>200 BLOCK KNOTTY ALDER CT Radio: 9C Units: FS16, E161, 9C</description>
-      <guid isPermaLink="false">2025-04-04 23:49:00</guid>
-      <pubDate>Fri, 04 Apr 2025 23:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
