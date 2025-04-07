@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 13:09:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 13:38:03 +0000</lastBuildDate>
+    <item>
+      <title>POLICE INCIDENT - EMS STANDBY: 9:35 am</title>
+      <description>10700 BLOCK UTICA MILLS CIR Units: A229, E111, E221, BC902, EMS902, FS22, ALS29</description>
+      <guid isPermaLink="false">2025-04-07 09:35:00</guid>
+      <pubDate>Mon, 07 Apr 2025 09:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
       <description>3200 BLOCK BENNETT CREEK AVE Units: E232, TT23, FS23</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK N MARKET ST Radio: 9C Units: E23, R3, 9C, E31</description>
       <guid isPermaLink="false">2025-04-04 14:54:00</guid>
       <pubDate>Fri, 04 Apr 2025 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:13 pm</title>
-      <description>3600 BLOCK POFFENBERGER RD, IRO Radio: 9C Units: BR205, FS20, 9C</description>
-      <guid isPermaLink="false">2025-04-04 14:13:00</guid>
-      <pubDate>Fri, 04 Apr 2025 14:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
