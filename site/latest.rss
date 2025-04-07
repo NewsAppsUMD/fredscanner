@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 12:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 12:43:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
+      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: 9C, E141, TT23, FS14</description>
+      <guid isPermaLink="false">2025-04-07 08:22:00</guid>
+      <pubDate>Mon, 07 Apr 2025 08:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:05 am</title>
       <description>LIBERTY RD / N MARKET ST Radio: 9D Units: E111, R24, A249, ALS29, BC902, EMS902, FS11, 9D</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK FUTURITY ST Radio: 9C Units: E11, E291, T50, 9C</description>
       <guid isPermaLink="false">2025-04-04 11:42:00</guid>
       <pubDate>Fri, 04 Apr 2025 11:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:16 am</title>
-      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: E232, A239</description>
-      <guid isPermaLink="false">2025-04-04 10:16:00</guid>
-      <pubDate>Fri, 04 Apr 2025 10:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
