@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Apr 2025 21:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:02:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:54 pm</title>
+      <description>6200 BLOCK CLIFFSIDE TER Radio: 9C Units: E331, T4, FS33, 9C</description>
+      <guid isPermaLink="false">2025-04-07 17:54:00</guid>
+      <pubDate>Mon, 07 Apr 2025 17:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:42 pm</title>
+      <description>3500 BLOCK EMMITSBURG RD, GETTYSBURG AUTO AUCTION Units: TW6</description>
+      <guid isPermaLink="false">2025-04-07 17:42:00</guid>
+      <pubDate>Mon, 07 Apr 2025 17:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
       <description>10400 BLOCK GREEN VALLEY RD Radio: 9B Units: A179, E172, FS17, 9B</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, Apt/Unit:D3, SALLY BEAUTY SUPPLY - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: E33, T4, 9C, E11</description>
       <guid isPermaLink="false">2025-04-05 12:34:00</guid>
       <pubDate>Sat, 05 Apr 2025 12:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:13 pm</title>
-      <description>400 BLOCK PROSPECT BLVD, BEST WESTERN HOTEL Radio: 9C Units: T4, 9C, E33</description>
-      <guid isPermaLink="false">2025-04-05 12:13:00</guid>
-      <pubDate>Sat, 05 Apr 2025 12:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:39 am</title>
-      <description>1200 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, T5, FS05, 9C</description>
-      <guid isPermaLink="false">2025-04-05 09:39:00</guid>
-      <pubDate>Sat, 05 Apr 2025 09:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
