@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 17:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 17:34:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:13 pm</title>
+      <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E33, T4, 9C</description>
+      <guid isPermaLink="false">2025-04-08 13:13:00</guid>
+      <pubDate>Tue, 08 Apr 2025 13:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:36 pm</title>
       <description>WILLOWDALE DR / KEY PKWY, Apt/Unit:HTTPS://A91.IO/75ZJS Radio: 9B Units: 9B, A19, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK NINTH AVE Radio: 9C Units: E51, FS05, 9C</description>
       <guid isPermaLink="false">2025-04-06 09:49:00</guid>
       <pubDate>Sun, 06 Apr 2025 09:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:26 am</title>
-      <description>300 BLOCK FURGESON LN Units: TW1</description>
-      <guid isPermaLink="false">2025-04-06 07:26:00</guid>
-      <pubDate>Sun, 06 Apr 2025 07:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
