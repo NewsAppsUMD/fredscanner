@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Apr 2025 09:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 10:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:35 am</title>
+      <description>I70EB / 40MM, I70EB / 40MM Units: SAF901, R8, HM33, ALS8, BC903, WCM751, A89, EMS901, SAFBC900, CMD8, RE74, WCE161</description>
+      <guid isPermaLink="false">2025-04-08 05:35:00</guid>
+      <pubDate>Tue, 08 Apr 2025 05:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:13 am</title>
       <description>I70EB / 40MM, I70EB / 40MM Units: E72, R8, WCA752, ALS8, BC903, A89, EMS901, WCE161</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK N MARKET ST, OLD BANNER SCHOOL Radio: 9C Units: PE23, Q11, 9C</description>
       <guid isPermaLink="false">2025-04-05 14:43:00</guid>
       <pubDate>Sat, 05 Apr 2025 14:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 2:35 pm</title>
-      <description>100 BLOCK W PATRICK ST, NATIONAL MUSEAUM OF CIVIL WAR Radio: 9B Units: 9B, E33, T4</description>
-      <guid isPermaLink="false">2025-04-05 14:35:00</guid>
-      <pubDate>Sat, 05 Apr 2025 14:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
