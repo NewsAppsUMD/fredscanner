@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 14:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 14:36:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 10:09 am</title>
+      <description>N MCCAIN DR / W PATRICK ST Radio: 9B Units: 9B, A18, ALS23, E11</description>
+      <guid isPermaLink="false">2025-04-09 10:09:00</guid>
+      <pubDate>Wed, 09 Apr 2025 10:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:54 am</title>
       <description>8000 BLOCK OPOSSUMTOWN PIKE, MONOCACY MIDDLE SCHOOL Radio: 9C Units: PE23, 9C, TW1, Q11</description>
@@ -300,12 +306,6 @@
       <description>WOODVILLE RD / JESSE SMITH RD Units: K33, K17, CCA18, RE171, T4, E153, R3, CCK1, CCE12, E251, E331, HCE41, PE713, SAF901, FS15, CCM19, BC901, BC903</description>
       <guid isPermaLink="false">2025-04-07 14:31:00</guid>
       <pubDate>Mon, 07 Apr 2025 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:08 pm</title>
-      <description>5600 BLOCK URBANA PIKE, CARMAX Radio: 9C Units: E33, T4, 9C</description>
-      <guid isPermaLink="false">2025-04-07 14:08:00</guid>
-      <pubDate>Mon, 07 Apr 2025 14:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
