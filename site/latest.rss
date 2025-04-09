@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 07:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 07:32:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:16 am</title>
+      <description>3200 BLOCK IVY MEADOW DR Units: E232, FS23</description>
+      <guid isPermaLink="false">2025-04-09 03:16:00</guid>
+      <pubDate>Wed, 09 Apr 2025 03:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:18 am</title>
       <description>8400 BLOCK PROGRESS DR Units: E111, Q11, PE23, T4</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK MAIN ST, STATION 8 Units: EK204</description>
       <guid isPermaLink="false">2025-04-07 10:21:00</guid>
       <pubDate>Mon, 07 Apr 2025 10:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 10:16 am</title>
-      <description>14100 BLOCK LOY WOLFE RD Units: WCTT3, WCRE7, K21, WCEK16, WCK9, WCA791, WCM792, E212, BC903, SAF901, WCE102, PE102, WCTT4, WCE71, WCK13, WCE3, E82, WCE92, WCR10, WCA751, WCM7910, WCK6, EK224, K10, W21, FS21, WCE161, WCQ27, CMD21, WCM753, WCEK7, BC902, A309, ALS8, EMS901, TTF</description>
-      <guid isPermaLink="false">2025-04-07 10:16:00</guid>
-      <pubDate>Mon, 07 Apr 2025 10:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
