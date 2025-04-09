@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 00:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 00:46:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:34 pm</title>
+      <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Radio: 9B Units: E121, E72, R8, A89, A129, 9B</description>
+      <guid isPermaLink="false">2025-04-08 20:34:00</guid>
+      <pubDate>Tue, 08 Apr 2025 20:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 7:16 pm</title>
+      <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Radio: 9D Units: FS09, 9D, E91</description>
+      <guid isPermaLink="false">2025-04-08 19:16:00</guid>
+      <pubDate>Tue, 08 Apr 2025 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 7:00 pm</title>
+      <description>11900 BLOCK WARNER RD Radio: 9B Units: ALS17, A169, BC902, EMS902, FS09, SU9, 9B</description>
+      <guid isPermaLink="false">2025-04-08 19:00:00</guid>
+      <pubDate>Tue, 08 Apr 2025 19:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 6:29 pm</title>
+      <description>KOOGLES DR / W MAIN ST Radio: 9C Units: BR75, 9C</description>
+      <guid isPermaLink="false">2025-04-08 18:29:00</guid>
+      <pubDate>Tue, 08 Apr 2025 18:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:55 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: T4, 9B, A38</description>
+      <guid isPermaLink="false">2025-04-08 17:55:00</guid>
+      <pubDate>Tue, 08 Apr 2025 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 5:31 pm</title>
+      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: R3, 9C</description>
+      <guid isPermaLink="false">2025-04-08 17:31:00</guid>
+      <pubDate>Tue, 08 Apr 2025 17:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:53 pm</title>
       <description>2500 BLOCK OSPREY WAY, ONELIFE FITNESS - MARKET SQUARE Radio: 9B Units: E291, FS11, 9B, A249</description>
@@ -270,42 +306,6 @@
       <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER Units: PE23, Q11</description>
       <guid isPermaLink="false">2025-04-07 08:50:00</guid>
       <pubDate>Mon, 07 Apr 2025 08:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
-      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: 9C, E141, TT23, FS14</description>
-      <guid isPermaLink="false">2025-04-07 08:22:00</guid>
-      <pubDate>Mon, 07 Apr 2025 08:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:05 am</title>
-      <description>LIBERTY RD / N MARKET ST Radio: 9D Units: E111, R24, A249, ALS29, BC902, EMS902, FS11, 9D</description>
-      <guid isPermaLink="false">2025-04-07 07:05:00</guid>
-      <pubDate>Mon, 07 Apr 2025 07:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:02 pm</title>
-      <description>1200 BLOCK BAKER PL S, Apt/Unit:24, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Units: E11, T4</description>
-      <guid isPermaLink="false">2025-04-06 20:02:00</guid>
-      <pubDate>Sun, 06 Apr 2025 20:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:34 pm</title>
-      <description>600 BLOCK HIMES AVE, LA PETITE ACADEMY - HIMES AVE Units: E11, T4</description>
-      <guid isPermaLink="false">2025-04-06 19:34:00</guid>
-      <pubDate>Sun, 06 Apr 2025 19:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
-      <description>700 BLOCK E PATRICK ST, Bldg:7, FREDERICK FAIRGROUNDS - BLDG 7 - COMMERCIAL EXHIBIT Radio: 9C Units: E33, T4, 9C</description>
-      <guid isPermaLink="false">2025-04-06 16:08:00</guid>
-      <pubDate>Sun, 06 Apr 2025 16:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:22 pm</title>
-      <description>1400 BLOCK TANEY AVE, Apt/Unit:420, TANEY VILLAGE APTS - HEATHER RIDGE Units: E501, E11, PE23, E291, E33, ALS2, BC902, R24, T50, Q11, A19</description>
-      <guid isPermaLink="false">2025-04-06 12:22:00</guid>
-      <pubDate>Sun, 06 Apr 2025 12:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
