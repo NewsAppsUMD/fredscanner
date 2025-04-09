@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Apr 2025 18:02:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 18:38:36 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:19 pm</title>
+      <description>3500 BLOCK HOPELAND RD Radio: 9C Units: E232, FS23, 9C</description>
+      <guid isPermaLink="false">2025-04-09 14:19:00</guid>
+      <pubDate>Wed, 09 Apr 2025 14:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:40 pm</title>
       <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: 9C, PE23, TW1</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK CLIFFSIDE TER Radio: 9C Units: E331, T4, FS33, 9C</description>
       <guid isPermaLink="false">2025-04-07 17:54:00</guid>
       <pubDate>Mon, 07 Apr 2025 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:42 pm</title>
-      <description>3500 BLOCK EMMITSBURG RD, GETTYSBURG AUTO AUCTION Units: TW6</description>
-      <guid isPermaLink="false">2025-04-07 17:42:00</guid>
-      <pubDate>Mon, 07 Apr 2025 17:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
