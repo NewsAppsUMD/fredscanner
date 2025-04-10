@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Apr 2025 20:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 21:01:57 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 4:56 pm</title>
+      <description>2700 BLOCK BILL DORSEY BLVD Units: E141, E281, TT23, SAF901, PE311, BC902, HM33, HMSU33, A149</description>
+      <guid isPermaLink="false">2025-04-10 16:56:00</guid>
+      <pubDate>Thu, 10 Apr 2025 16:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:54 pm</title>
+      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Units: A196, RE52, E201, A209, ALS4, BC903, EMS901, FS05, R20</description>
+      <guid isPermaLink="false">2025-04-10 16:54:00</guid>
+      <pubDate>Thu, 10 Apr 2025 16:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:41 pm</title>
       <description>600 BLOCK MAGNOLIA AVE Units: PE23, A29</description>
@@ -294,18 +306,6 @@
       <description>8400 BLOCK PROGRESS DR Units: E111, Q11, PE23, T4</description>
       <guid isPermaLink="false">2025-04-09 00:18:00</guid>
       <pubDate>Wed, 09 Apr 2025 00:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:13 am</title>
-      <description>8400 BLOCK PROGRESS DR Units: E111, Q11, FS11</description>
-      <guid isPermaLink="false">2025-04-09 00:13:00</guid>
-      <pubDate>Wed, 09 Apr 2025 00:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:47 pm</title>
-      <description>E SOUTH ST / S CARROLL ST Units: BR35</description>
-      <guid isPermaLink="false">2025-04-08 23:47:00</guid>
-      <pubDate>Tue, 08 Apr 2025 23:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
