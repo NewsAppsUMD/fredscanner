@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 16:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 17:02:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:50 pm</title>
+      <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-04-11 12:50:00</guid>
+      <pubDate>Fri, 11 Apr 2025 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:38 pm</title>
+      <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: 9C, E33, T4</description>
+      <guid isPermaLink="false">2025-04-11 12:38:00</guid>
+      <pubDate>Fri, 11 Apr 2025 12:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:31 am</title>
       <description>I270SB / 31MM, I270SB / 31MM Units: A318, E11, FS31</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: R2, A29, A19, E501, 9B, E11</description>
       <guid isPermaLink="false">2025-04-09 17:12:00</guid>
       <pubDate>Wed, 09 Apr 2025 17:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:19 pm</title>
-      <description>3500 BLOCK HOPELAND RD Radio: 9C Units: E232, FS23, 9C</description>
-      <guid isPermaLink="false">2025-04-09 14:19:00</guid>
-      <pubDate>Wed, 09 Apr 2025 14:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:40 pm</title>
-      <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: 9C, PE23, TW1</description>
-      <guid isPermaLink="false">2025-04-09 13:40:00</guid>
-      <pubDate>Wed, 09 Apr 2025 13:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
