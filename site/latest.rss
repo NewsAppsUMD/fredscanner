@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 14:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 14:35:31 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:31 am</title>
+      <description>I270SB / 31MM, I270SB / 31MM Units: A318, E11, FS31</description>
+      <guid isPermaLink="false">2025-04-11 10:31:00</guid>
+      <pubDate>Fri, 11 Apr 2025 10:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:24 am</title>
+      <description>I70EB / 62MM, I70EB / 62MM Radio: 9B Units: A158, FS33, E251, E153, R3, A339, 9B</description>
+      <guid isPermaLink="false">2025-04-11 10:24:00</guid>
+      <pubDate>Fri, 11 Apr 2025 10:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 8:30 am</title>
       <description>5800 BLOCK OAKDALE SCHOOL RD, OAKDALE MIDDLE SCHOOL Units: E331, FS33, R3</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: 9C, PE23, TW1</description>
       <guid isPermaLink="false">2025-04-09 13:40:00</guid>
       <pubDate>Wed, 09 Apr 2025 13:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:12 pm</title>
-      <description>6400 BLOCK OLD MIDDLETOWN RD Radio: 9C Units: 9C, BR75</description>
-      <guid isPermaLink="false">2025-04-09 12:12:00</guid>
-      <pubDate>Wed, 09 Apr 2025 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:12 am</title>
-      <description>LIBERTY RD / LONGMEADOW DR Radio: 9B Units: A249, E111, FS11, 9B</description>
-      <guid isPermaLink="false">2025-04-09 11:12:00</guid>
-      <pubDate>Wed, 09 Apr 2025 11:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
