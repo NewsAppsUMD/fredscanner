@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 18:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 19:01:42 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:39 pm</title>
+      <description>26100 BLOCK RIDGE RD STARBUCKS RIDGE RD, STARBUCKS RIDGE RD Radio: 7A1 Units: E232</description>
+      <guid isPermaLink="false">2025-04-11 14:39:00</guid>
+      <pubDate>Fri, 11 Apr 2025 14:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:36 pm</title>
+      <description>7000 BLOCK BASSWOOD RD Radio: 9D Units: A318, ALS31, BC902, BC903, SAF901, 9D, T4, TW1, PE311, E33, PE23, E331, E501, R3, FS31</description>
+      <guid isPermaLink="false">2025-04-11 14:36:00</guid>
+      <pubDate>Fri, 11 Apr 2025 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:24 pm</title>
       <description>2800 BLOCK CAMOMILE DR E Radio: 9C Units: E232, TT23, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>700 BLOCK E PATRICK ST, Bldg:7, FREDERICK FAIRGROUNDS - BLDG 7 - COMMERCIAL EXHIBIT Radio: 9B Units: E33, T4, 9B</description>
       <guid isPermaLink="false">2025-04-09 18:40:00</guid>
       <pubDate>Wed, 09 Apr 2025 18:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:36 pm</title>
-      <description>RT180 / CATOCTIN CREEK, RT180 / CATOCTIN CREEK Units: E201, R20, A209, ALS20, EMS902</description>
-      <guid isPermaLink="false">2025-04-09 18:36:00</guid>
-      <pubDate>Wed, 09 Apr 2025 18:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:20 pm</title>
-      <description>100 BLOCK SCHOOL HOUSE CT Units: E82</description>
-      <guid isPermaLink="false">2025-04-09 18:20:00</guid>
-      <pubDate>Wed, 09 Apr 2025 18:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
