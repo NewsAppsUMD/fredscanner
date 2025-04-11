@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Apr 2025 17:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 17:32:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:24 pm</title>
+      <description>2800 BLOCK CAMOMILE DR E Radio: 9C Units: E232, TT23, FS23, 9C</description>
+      <guid isPermaLink="false">2025-04-11 13:24:00</guid>
+      <pubDate>Fri, 11 Apr 2025 13:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 1:12 pm</title>
+      <description>10300 BLOCK QUILLBACK ST Radio: 9C Units: E153, E331, R3, FS33, 9C</description>
+      <guid isPermaLink="false">2025-04-11 13:12:00</guid>
+      <pubDate>Fri, 11 Apr 2025 13:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:50 pm</title>
       <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: PE23, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SCHOOL HOUSE CT Units: E82</description>
       <guid isPermaLink="false">2025-04-09 18:20:00</guid>
       <pubDate>Wed, 09 Apr 2025 18:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:23 pm</title>
-      <description>5900 BLOCK BOYERS MILL RD, NEXT TO Radio: 9C Units: BR156, FS15, 9C</description>
-      <guid isPermaLink="false">2025-04-09 17:23:00</guid>
-      <pubDate>Wed, 09 Apr 2025 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:12 pm</title>
-      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: R2, A29, A19, E501, 9B, E11</description>
-      <guid isPermaLink="false">2025-04-09 17:12:00</guid>
-      <pubDate>Wed, 09 Apr 2025 17:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
