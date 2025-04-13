@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 22:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 22:33:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:21 pm</title>
+      <description>4600 BLOCK LANDER RD, IFO WILES FARM Units: A209, ALS20, BC903, EMS901, E201, R20</description>
+      <guid isPermaLink="false">2025-04-13 18:21:00</guid>
+      <pubDate>Sun, 13 Apr 2025 18:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:06 pm</title>
       <description>200 BLOCK E MAIN ST Radio: 9I Units: A68, PE102, E61, EMS901, FS06, 9I</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 62MM, I70EB / 62MM Radio: 9B Units: A158, FS33, E251, E153, R3, A339, 9B</description>
       <guid isPermaLink="false">2025-04-11 10:24:00</guid>
       <pubDate>Fri, 11 Apr 2025 10:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:30 am</title>
-      <description>5800 BLOCK OAKDALE SCHOOL RD, OAKDALE MIDDLE SCHOOL Units: E331, FS33, R3</description>
-      <guid isPermaLink="false">2025-04-11 08:30:00</guid>
-      <pubDate>Fri, 11 Apr 2025 08:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
