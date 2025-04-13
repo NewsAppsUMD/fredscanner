@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 14:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 14:33:16 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:04 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO I27100 BLOCKSB RAMP Radio: 9B Units: 9B, A19, PE311, FS31</description>
+      <guid isPermaLink="false">2025-04-13 10:04:00</guid>
+      <pubDate>Sun, 13 Apr 2025 10:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:50 am</title>
       <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK LOCUST CT Units: E121, C7C, E82, E201, RE74, TW1, ALS8, BC901, BC902, SAF901, E33, E72, R20, A78</description>
       <guid isPermaLink="false">2025-04-11 00:08:00</guid>
       <pubDate>Fri, 11 Apr 2025 00:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:01 am</title>
-      <description>100 BLOCK LOCUST CT Units: E72</description>
-      <guid isPermaLink="false">2025-04-11 00:01:00</guid>
-      <pubDate>Fri, 11 Apr 2025 00:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
