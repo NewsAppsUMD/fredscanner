@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 17:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 17:32:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:19 pm</title>
+      <description>100 BLOCK BLK RAMP RT15SB TO I7100 BLOCKEB RAMP, IAO Radio: 9D Units: E11, E311, R3, A39, A339, ALS4, BC902, EMS901, 9D</description>
+      <guid isPermaLink="false">2025-04-13 13:19:00</guid>
+      <pubDate>Sun, 13 Apr 2025 13:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 12:47 pm</title>
       <description>C&amp;O CANAL LOCK 32, C&amp;O CANAL LOCK 32 Units: EMS902, A196, ALS20</description>
@@ -300,12 +306,6 @@
       <description>8400 BLOCK PROGRESS DR Units: E111, Q11, FS11</description>
       <guid isPermaLink="false">2025-04-11 01:37:00</guid>
       <pubDate>Fri, 11 Apr 2025 01:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 12:13 am</title>
-      <description>100 BLOCK LOCUST CT Units: E121, C7C, E82, E201, RE74, TW1, ALS8, BC901, BC902, SAF901, A129, EMS901, K7, E33, CMD7, E72, R20, A78, BC903, R3, T4</description>
-      <guid isPermaLink="false">2025-04-11 00:13:00</guid>
-      <pubDate>Fri, 11 Apr 2025 00:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
