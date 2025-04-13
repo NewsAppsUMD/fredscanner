@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Apr 2025 23:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 00:31:41 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:21 pm</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: TT23</description>
+      <guid isPermaLink="false">2025-04-12 20:21:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:17 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
+      <guid isPermaLink="false">2025-04-12 20:17:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:17 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
+      <guid isPermaLink="false">2025-04-12 20:17:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:16 pm</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: PE102</description>
+      <guid isPermaLink="false">2025-04-12 20:16:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:13 pm</title>
+      <description>800 BLOCK AZTEC DR Units: E33, Q11, E11, E501, E291, R3, T4, T50, A29, SAF901, CMD2, A38, EMS902, W2, RID, E111, C2B, PE23, ALS2, BC902, BC901, C3B</description>
+      <guid isPermaLink="false">2025-04-12 20:13:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 8:08 pm</title>
+      <description>5900 BLOCK GARDEN WALK DR Units: PE311, E201, R20</description>
+      <guid isPermaLink="false">2025-04-12 20:08:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:04 pm</title>
+      <description>800 BLOCK AZTEC DR Units: E33, E11, E501, E291, R3, T4, T50, A29, SAF901, PE23, ALS2, BC902, BC901</description>
+      <guid isPermaLink="false">2025-04-12 20:04:00</guid>
+      <pubDate>Sat, 12 Apr 2025 20:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:35 pm</title>
       <description>1900 BLOCK FAUNA DR Units: E291, FS29</description>
@@ -264,48 +306,6 @@
       <description>9500 BLOCK DOCTOR PERRY RD, P B DYE GOLF COURSE Units: E232, TT23, FS23</description>
       <guid isPermaLink="false">2025-04-10 15:41:00</guid>
       <pubDate>Thu, 10 Apr 2025 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:44 pm</title>
-      <description>WOODSBORO PIKE / W CRUM RD Units: A249, E111, FS11</description>
-      <guid isPermaLink="false">2025-04-10 14:44:00</guid>
-      <pubDate>Thu, 10 Apr 2025 14:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
-      <description>100 BLOCK SOUDER RD Units: A196, RE52, FS05</description>
-      <guid isPermaLink="false">2025-04-10 14:36:00</guid>
-      <pubDate>Thu, 10 Apr 2025 14:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:35 pm</title>
-      <description>4300 BLOCK REELS MILL RD Units: FS23, BR235</description>
-      <guid isPermaLink="false">2025-04-10 14:35:00</guid>
-      <pubDate>Thu, 10 Apr 2025 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:12 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
-      <guid isPermaLink="false">2025-04-10 13:12:00</guid>
-      <pubDate>Thu, 10 Apr 2025 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:33 pm</title>
-      <description>5900 BLOCK JEFFERSON STATION CT, JEFFERSTATION BLVD Units: E11, T4</description>
-      <guid isPermaLink="false">2025-04-10 12:33:00</guid>
-      <pubDate>Thu, 10 Apr 2025 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:35 am</title>
-      <description>300 BLOCK S SECOND ST Radio: 9C Units: E161, Q11, FS16, 9C</description>
-      <guid isPermaLink="false">2025-04-10 11:35:00</guid>
-      <pubDate>Thu, 10 Apr 2025 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 11:16 am</title>
-      <description>SNOWSHILL ST / MILL POND RD Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2025-04-10 11:16:00</guid>
-      <pubDate>Thu, 10 Apr 2025 11:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
