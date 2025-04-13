@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 23:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 23:32:44 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 7:20 pm</title>
+      <description>13200 BLOCK TOWER RD Units: K10, SAF901, BC902, E212, WCM791, PE102, TW6, K21</description>
+      <guid isPermaLink="false">2025-04-13 19:20:00</guid>
+      <pubDate>Sun, 13 Apr 2025 19:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 7:15 pm</title>
+      <description>13200 BLOCK TOWER RD Units: E212, PE102, TW6, K21, WCA791, FS21</description>
+      <guid isPermaLink="false">2025-04-13 19:15:00</guid>
+      <pubDate>Sun, 13 Apr 2025 19:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:35 pm</title>
       <description>900 BLOCK E C ST Units: E51, FS05, R19</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: PE23, 9C</description>
       <guid isPermaLink="false">2025-04-11 12:50:00</guid>
       <pubDate>Fri, 11 Apr 2025 12:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:38 pm</title>
-      <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: 9C, E33, T4</description>
-      <guid isPermaLink="false">2025-04-11 12:38:00</guid>
-      <pubDate>Fri, 11 Apr 2025 12:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:31 am</title>
-      <description>I270SB / 31MM, I270SB / 31MM Units: A318, E11, FS31</description>
-      <guid isPermaLink="false">2025-04-11 10:31:00</guid>
-      <pubDate>Fri, 11 Apr 2025 10:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
