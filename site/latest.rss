@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 16:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 16:36:45 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 12:05 pm</title>
+      <description>C&amp;O CANAL / 32MM Units: RE52, A196, ALS20</description>
+      <guid isPermaLink="false">2025-04-13 12:05:00</guid>
+      <pubDate>Sun, 13 Apr 2025 12:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:04 am</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO I27100 BLOCKSB RAMP Radio: 9B Units: 9B, A19, PE311, FS31</description>
@@ -298,12 +304,6 @@
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 12:08 am</title>
       <description>100 BLOCK LOCUST CT Units: E121, C7C, E82, E201, RE74, TW1, ALS8, BC901, BC902, SAF901, A129, EMS901, E33, E72, R20, A78</description>
-      <guid isPermaLink="false">2025-04-11 00:08:00</guid>
-      <pubDate>Fri, 11 Apr 2025 00:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:08 am</title>
-      <description>100 BLOCK LOCUST CT Units: E121, C7C, E82, E201, RE74, TW1, ALS8, BC901, BC902, SAF901, E33, E72, R20, A78</description>
       <guid isPermaLink="false">2025-04-11 00:08:00</guid>
       <pubDate>Fri, 11 Apr 2025 00:08:00 -0400</pubDate>
     </item>
