@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Apr 2025 23:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:08:00 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 7:39 pm</title>
+      <description>WEAVERTON CLIFFS PARKING LOT, WEAVERTON CLIFFS PARKING LOT Units: RE52, A196, ALS20</description>
+      <guid isPermaLink="false">2025-04-13 19:39:00</guid>
+      <pubDate>Sun, 13 Apr 2025 19:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 7:20 pm</title>
       <description>13200 BLOCK TOWER RD Units: K10, SAF901, BC902, E212, WCM791, PE102, TW6, K21</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK QUILLBACK ST Radio: 9C Units: E153, E331, R3, FS33, 9C</description>
       <guid isPermaLink="false">2025-04-11 13:12:00</guid>
       <pubDate>Fri, 11 Apr 2025 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:50 pm</title>
-      <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-04-11 12:50:00</guid>
-      <pubDate>Fri, 11 Apr 2025 12:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
