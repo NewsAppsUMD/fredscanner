@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 13:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 14:02:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:42 am</title>
+      <description>N SETON AVE / W NORTH AVE Radio: 9B Units: A68, E61, FS06, 9B</description>
+      <guid isPermaLink="false">2025-04-14 09:42:00</guid>
+      <pubDate>Mon, 14 Apr 2025 09:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
       <description>100 BLOCK W PATRICK ST Radio: 9C Units: 9C, E33</description>
@@ -300,12 +306,6 @@
       <description>E CHURCH ST / HOLDEN RD Radio: 9B Units: 9B, A29, PE23</description>
       <guid isPermaLink="false">2025-04-12 10:06:00</guid>
       <pubDate>Sat, 12 Apr 2025 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:56 am</title>
-      <description>8100 BLOCK YELLOW SPRINGS RD, FAITH REFORMED PRESBYTERIAN Radio: 9D Units: R2, A18, ALS2, EMS902, 9D, E11</description>
-      <guid isPermaLink="false">2025-04-12 03:56:00</guid>
-      <pubDate>Sat, 12 Apr 2025 03:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
