@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 22:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:45 pm</title>
+      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11, A18, ALS2, EMS902, R3</description>
+      <guid isPermaLink="false">2025-04-14 18:45:00</guid>
+      <pubDate>Mon, 14 Apr 2025 18:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:44 pm</title>
+      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11, R2, A18, ALS2, EMS902</description>
+      <guid isPermaLink="false">2025-04-14 18:44:00</guid>
+      <pubDate>Mon, 14 Apr 2025 18:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 6:22 pm</title>
       <description>14000 BLOCK MOTTERS STATION RD, Bldg:A Units: E132, EK134, BR135</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: PE102</description>
       <guid isPermaLink="false">2025-04-12 20:16:00</guid>
       <pubDate>Sat, 12 Apr 2025 20:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:13 pm</title>
-      <description>800 BLOCK AZTEC DR Units: E33, Q11, E11, E501, E291, R3, T4, T50, A29, SAF901, CMD2, A38, EMS902, W2, RID, E111, C2B, PE23, ALS2, BC902, BC901, C3B</description>
-      <guid isPermaLink="false">2025-04-12 20:13:00</guid>
-      <pubDate>Sat, 12 Apr 2025 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 8:08 pm</title>
-      <description>5900 BLOCK GARDEN WALK DR Units: PE311, E201, R20</description>
-      <guid isPermaLink="false">2025-04-12 20:08:00</guid>
-      <pubDate>Sat, 12 Apr 2025 20:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
