@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 22:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 22:34:52 +0000</lastBuildDate>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 6:22 pm</title>
+      <description>14000 BLOCK MOTTERS STATION RD, Bldg:A Units: E132, EK134, BR135</description>
+      <guid isPermaLink="false">2025-04-14 18:22:00</guid>
+      <pubDate>Mon, 14 Apr 2025 18:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE FUEL SPILL: 6:01 pm</title>
+      <description>MONOCACY BLVD / TREATMENT PLANT RD Units: E33, HM33, PE23, HMSU33, BC901, SAF901, CMD2</description>
+      <guid isPermaLink="false">2025-04-14 18:01:00</guid>
+      <pubDate>Mon, 14 Apr 2025 18:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 5:56 pm</title>
       <description>6000 BLOCK KRANTZ DR Units: E11</description>
@@ -294,18 +306,6 @@
       <description>5900 BLOCK GARDEN WALK DR Units: PE311, E201, R20</description>
       <guid isPermaLink="false">2025-04-12 20:08:00</guid>
       <pubDate>Sat, 12 Apr 2025 20:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:04 pm</title>
-      <description>800 BLOCK AZTEC DR Units: E33, E11, E501, E291, R3, T4, T50, A29, SAF901, PE23, ALS2, BC902, BC901</description>
-      <guid isPermaLink="false">2025-04-12 20:04:00</guid>
-      <pubDate>Sat, 12 Apr 2025 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:35 pm</title>
-      <description>1900 BLOCK FAUNA DR Units: E291, FS29</description>
-      <guid isPermaLink="false">2025-04-12 19:35:00</guid>
-      <pubDate>Sat, 12 Apr 2025 19:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
