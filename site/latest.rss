@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 05:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 05:35:02 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 1:18 am</title>
+      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311, FS31, 9C, TW1</description>
+      <guid isPermaLink="false">2025-04-14 01:18:00</guid>
+      <pubDate>Mon, 14 Apr 2025 01:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:33 pm</title>
       <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Units: E121, E11, R3, A18, A129</description>
@@ -300,12 +306,6 @@
       <description>26100 BLOCK RIDGE RD STARBUCKS RIDGE RD, STARBUCKS RIDGE RD Radio: 7A1 Units: E232</description>
       <guid isPermaLink="false">2025-04-11 14:39:00</guid>
       <pubDate>Fri, 11 Apr 2025 14:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:36 pm</title>
-      <description>7000 BLOCK BASSWOOD RD Radio: 9D Units: A318, ALS31, BC902, BC903, SAF901, 9D, T4, TW1, PE311, E33, PE23, E331, E501, R3, FS31</description>
-      <guid isPermaLink="false">2025-04-11 14:36:00</guid>
-      <pubDate>Fri, 11 Apr 2025 14:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
