@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 21:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 22:01:50 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 5:56 pm</title>
+      <description>6000 BLOCK KRANTZ DR Units: E11</description>
+      <guid isPermaLink="false">2025-04-14 17:56:00</guid>
+      <pubDate>Mon, 14 Apr 2025 17:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE FUEL SPILL: 5:55 pm</title>
+      <description>MONOCACY BLVD / TREATMENT PLANT RD Units: E33, HM33, PE23, HMSU33, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-04-14 17:55:00</guid>
+      <pubDate>Mon, 14 Apr 2025 17:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:27 pm</title>
       <description>1200 BLOCK DUTCHMANS CREEK DR, WEIS MARKET - BRUNSWICK CROSSING Radio: 9C Units: T5, FS05, 9C, E51</description>
@@ -294,18 +306,6 @@
       <description>1900 BLOCK FAUNA DR Units: E291, FS29</description>
       <guid isPermaLink="false">2025-04-12 19:35:00</guid>
       <pubDate>Sat, 12 Apr 2025 19:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:07 pm</title>
-      <description>8000 BLOCK FIELDSTONE DR Units: E11</description>
-      <guid isPermaLink="false">2025-04-12 19:07:00</guid>
-      <pubDate>Sat, 12 Apr 2025 19:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 6:08 pm</title>
-      <description>1400 BLOCK TIMBERWOLF DR Units: ALS4, EMS902, A18</description>
-      <guid isPermaLink="false">2025-04-12 18:08:00</guid>
-      <pubDate>Sat, 12 Apr 2025 18:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
