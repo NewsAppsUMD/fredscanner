@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 02:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 02:56:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:33 pm</title>
+      <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Units: E121, E11, R3, A18, A129</description>
+      <guid isPermaLink="false">2025-04-13 22:33:00</guid>
+      <pubDate>Sun, 13 Apr 2025 22:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:30 pm</title>
+      <description>3500 BLOCK HOLBORN PL Units: E232, TT23, FS23</description>
+      <guid isPermaLink="false">2025-04-13 22:30:00</guid>
+      <pubDate>Sun, 13 Apr 2025 22:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 7:39 pm</title>
       <description>WEAVERTON CLIFFS PARKING LOT, WEAVERTON CLIFFS PARKING LOT Units: RE52, A196, ALS20</description>
@@ -294,18 +306,6 @@
       <description>7000 BLOCK BASSWOOD RD Radio: 9D Units: A318, ALS31, BC902, BC903, SAF901, 9D, T4, TW1, PE311, E33, PE23, E331, E501, R3, FS31</description>
       <guid isPermaLink="false">2025-04-11 14:36:00</guid>
       <pubDate>Fri, 11 Apr 2025 14:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:24 pm</title>
-      <description>2800 BLOCK CAMOMILE DR E Radio: 9C Units: E232, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2025-04-11 13:24:00</guid>
-      <pubDate>Fri, 11 Apr 2025 13:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:12 pm</title>
-      <description>10300 BLOCK QUILLBACK ST Radio: 9C Units: E153, E331, R3, FS33, 9C</description>
-      <guid isPermaLink="false">2025-04-11 13:12:00</guid>
-      <pubDate>Fri, 11 Apr 2025 13:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
