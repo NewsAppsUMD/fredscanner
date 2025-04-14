@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Apr 2025 23:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 23:32:19 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:06 pm</title>
+      <description>100 BLOCK WAGON SHED CT Units: E72</description>
+      <guid isPermaLink="false">2025-04-14 19:06:00</guid>
+      <pubDate>Mon, 14 Apr 2025 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:45 pm</title>
       <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11, A18, ALS2, EMS902, R3</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
       <guid isPermaLink="false">2025-04-12 20:17:00</guid>
       <pubDate>Sat, 12 Apr 2025 20:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:16 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: PE102</description>
-      <guid isPermaLink="false">2025-04-12 20:16:00</guid>
-      <pubDate>Sat, 12 Apr 2025 20:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
