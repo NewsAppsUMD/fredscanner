@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 17:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 18:02:27 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 1:34 pm</title>
+      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: E33, 9C, T4</description>
+      <guid isPermaLink="false">2025-04-15 13:34:00</guid>
+      <pubDate>Tue, 15 Apr 2025 13:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 12:43 pm</title>
       <description>100 BLOCK CARROLL CREEK WAY, PARKING GARAGE - SOUTH MARKET CENTER Radio: 9C Units: T4, E33, 9C</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK LANDER RD, IFO WILES FARM Units: A209, ALS20, BC903, EMS901, E201, R20</description>
       <guid isPermaLink="false">2025-04-13 18:21:00</guid>
       <pubDate>Sun, 13 Apr 2025 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:06 pm</title>
-      <description>200 BLOCK E MAIN ST Radio: 9I Units: A68, PE102, E61, EMS901, FS06, 9I</description>
-      <guid isPermaLink="false">2025-04-13 17:06:00</guid>
-      <pubDate>Sun, 13 Apr 2025 17:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
