@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 16:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 17:02:04 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 12:43 pm</title>
+      <description>100 BLOCK CARROLL CREEK WAY, PARKING GARAGE - SOUTH MARKET CENTER Radio: 9C Units: T4, E33, 9C</description>
+      <guid isPermaLink="false">2025-04-15 12:43:00</guid>
+      <pubDate>Tue, 15 Apr 2025 12:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:32 am</title>
       <description>ANGLEBERGER RD / PUTMAN RD Radio: 9D Units: PE102, 9D, R10, A229, ALS30, E221, BC902, EMS902, E291</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK E MAIN ST Radio: 9I Units: A68, PE102, E61, EMS901, FS06, 9I</description>
       <guid isPermaLink="false">2025-04-13 17:06:00</guid>
       <pubDate>Sun, 13 Apr 2025 17:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 4:55 pm</title>
-      <description>100 BLOCK FEATHERSTONE PL Radio: 9D Units: 9D, EMS902, A18, ALS4, E11, BC902</description>
-      <guid isPermaLink="false">2025-04-13 16:55:00</guid>
-      <pubDate>Sun, 13 Apr 2025 16:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
