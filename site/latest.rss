@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 00:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 00:46:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:24 pm</title>
+      <description>3300 BLOCK BLK SIGLER RD Units: E281, E121, A209, ALS20, BC903</description>
+      <guid isPermaLink="false">2025-04-14 20:24:00</guid>
+      <pubDate>Mon, 14 Apr 2025 20:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:56 pm</title>
       <description>3600 BLOCK LANDER RD, Bldg:B, NORTH FORK SCHOOL OF EQUITATION Units: E201, R20, A209, ALS20, BC903, EMS901, FS20</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S COURT ST, STATION 4 Units: TT23</description>
       <guid isPermaLink="false">2025-04-12 20:21:00</guid>
       <pubDate>Sat, 12 Apr 2025 20:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:17 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
-      <guid isPermaLink="false">2025-04-12 20:17:00</guid>
-      <pubDate>Sat, 12 Apr 2025 20:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
