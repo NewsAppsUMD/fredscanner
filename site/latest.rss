@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Apr 2025 15:34:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 16:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:32 am</title>
+      <description>ANGLEBERGER RD / PUTMAN RD Radio: 9D Units: PE102, 9D, R10, A229, ALS30, E221, BC902, EMS902, E291</description>
+      <guid isPermaLink="false">2025-04-15 11:32:00</guid>
+      <pubDate>Tue, 15 Apr 2025 11:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:28 am</title>
       <description>ANGLEBERGER RD / PUTMAN RD Radio: 9D Units: PE102, 9D, R10, A229, ALS30, E221, BC902, EMS902, FS22</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK FEATHERSTONE PL Radio: 9D Units: 9D, EMS902, A18, ALS4, E11, BC902</description>
       <guid isPermaLink="false">2025-04-13 16:55:00</guid>
       <pubDate>Sun, 13 Apr 2025 16:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:34 pm</title>
-      <description>15300 BLOCK SABILLASVILLE RD, IAO Radio: 9C Units: 9C, BR106</description>
-      <guid isPermaLink="false">2025-04-13 16:34:00</guid>
-      <pubDate>Sun, 13 Apr 2025 16:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
