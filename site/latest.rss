@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Apr 2025 00:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 01:29:39 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:13 pm</title>
+      <description>1900 BLOCK FAUNA DR Radio: 9C Units: FS29, E291, 9C</description>
+      <guid isPermaLink="false">2025-04-15 21:13:00</guid>
+      <pubDate>Tue, 15 Apr 2025 21:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:39 pm</title>
       <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E232</description>
@@ -298,12 +304,6 @@
     <item>
       <title>HOUSE FIRE: 3:51 am</title>
       <description>100 BLOCK FRUITWOOD TRL Units: EK64, BC902, E61, R6, A68, TW6</description>
-      <guid isPermaLink="false">2025-04-14 03:51:00</guid>
-      <pubDate>Mon, 14 Apr 2025 03:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:51 am</title>
-      <description>100 BLOCK FRUITWOOD TRL Units: EK64, E61, R6, A68, TW6</description>
       <guid isPermaLink="false">2025-04-14 03:51:00</guid>
       <pubDate>Mon, 14 Apr 2025 03:51:00 -0400</pubDate>
     </item>
