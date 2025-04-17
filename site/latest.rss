@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 13:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 13:36:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:12 am</title>
+      <description>1400 BLOCK TANEY AVE, AMBER RIDGE MEDICAL CENTER Units: T50, E141</description>
+      <guid isPermaLink="false">2025-04-17 09:12:00</guid>
+      <pubDate>Thu, 17 Apr 2025 09:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:10 am</title>
+      <description>1400 BLOCK TANEY AVE, AMBER RIDGE MEDICAL CENTER Units: T50, FS29, PE23</description>
+      <guid isPermaLink="false">2025-04-17 09:10:00</guid>
+      <pubDate>Thu, 17 Apr 2025 09:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:56 am</title>
       <description>I70WB / E PATRICK ST(RT144) Radio: 9C Units: PE311, FS33, 9C, E331</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / MOUNTAINDALE RD, RT15SB / MOUNTAINDALE RD Units: E221, R24, A229, ALS29, EMS902, FS22</description>
       <guid isPermaLink="false">2025-04-14 20:57:00</guid>
       <pubDate>Mon, 14 Apr 2025 20:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:24 pm</title>
-      <description>3300 BLOCK BLK SIGLER RD Units: E281, E121, A209, ALS20, BC903</description>
-      <guid isPermaLink="false">2025-04-14 20:24:00</guid>
-      <pubDate>Mon, 14 Apr 2025 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:56 pm</title>
-      <description>3600 BLOCK LANDER RD, Bldg:B, NORTH FORK SCHOOL OF EQUITATION Units: E201, R20, A209, ALS20, BC903, EMS901, FS20</description>
-      <guid isPermaLink="false">2025-04-14 19:56:00</guid>
-      <pubDate>Mon, 14 Apr 2025 19:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
