@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Apr 2025 12:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 12:43:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
+      <description>5700 BLOCK INDUSTRY LN, RELIANT DRYWALL Radio: 9C Units: 9C, PE311, T4, FS31</description>
+      <guid isPermaLink="false">2025-04-17 08:22:00</guid>
+      <pubDate>Thu, 17 Apr 2025 08:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:53 am</title>
       <description>7300 BLOCK EXECUTIVE WAY, SHEETZ - EXECUTIVE WAY Units: ALS31, BC901, BC902, SAF901, FS31, PE311, E33, E11, PE23, E331, R3, T4, T50, A318</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAGON SHED CT Units: E72</description>
       <guid isPermaLink="false">2025-04-14 19:06:00</guid>
       <pubDate>Mon, 14 Apr 2025 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:45 pm</title>
-      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Units: E11, A18, ALS2, EMS902, R3</description>
-      <guid isPermaLink="false">2025-04-14 18:45:00</guid>
-      <pubDate>Mon, 14 Apr 2025 18:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
