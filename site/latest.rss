@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 00:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 00:46:15 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 8:35 pm</title>
+      <description>200 BLOCK E THIRD ST, Apt/Unit:A Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-04-17 20:35:00</guid>
+      <pubDate>Thu, 17 Apr 2025 20:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:30 pm</title>
+      <description>4700 BLOCK ARCADIA DR Radio: 9C Units: T4, FS31, PE311, 9C</description>
+      <guid isPermaLink="false">2025-04-17 20:30:00</guid>
+      <pubDate>Thu, 17 Apr 2025 20:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:37 pm</title>
       <description>RT340WB / RT180 (PETERSVILLE), RT340WB / RT180 Units: A209, E201, R20, A197, FS20, RE52</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: E33, 9C, T4</description>
       <guid isPermaLink="false">2025-04-15 13:34:00</guid>
       <pubDate>Tue, 15 Apr 2025 13:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:43 pm</title>
-      <description>100 BLOCK CARROLL CREEK WAY, PARKING GARAGE - SOUTH MARKET CENTER Radio: 9C Units: T4, E33, 9C</description>
-      <guid isPermaLink="false">2025-04-15 12:43:00</guid>
-      <pubDate>Tue, 15 Apr 2025 12:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:32 am</title>
-      <description>ANGLEBERGER RD / PUTMAN RD Radio: 9D Units: PE102, 9D, R10, A229, ALS30, E221, BC902, EMS902, E291</description>
-      <guid isPermaLink="false">2025-04-15 11:32:00</guid>
-      <pubDate>Tue, 15 Apr 2025 11:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
