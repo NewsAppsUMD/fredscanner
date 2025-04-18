@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 23:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 23:32:42 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:16 pm</title>
+      <description>ROCKY RIDGE RD / JIMTOWN RD Units: BR106</description>
+      <guid isPermaLink="false">2025-04-18 19:16:00</guid>
+      <pubDate>Fri, 18 Apr 2025 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:13 pm</title>
+      <description>100 BLOCK N BERLIN PIKE Radio: 6B Units: E51</description>
+      <guid isPermaLink="false">2025-04-18 19:13:00</guid>
+      <pubDate>Fri, 18 Apr 2025 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:01 pm</title>
       <description>19800 BLOCK BEALLSVILLE RD, STATION MC714 - UPPER MONTGOMERY Units: A149</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK E CHURCH ST, Apt/Unit:218, OX FIBRE APARTMENTS Units: T4, E33</description>
       <guid isPermaLink="false">2025-04-17 00:46:00</guid>
       <pubDate>Thu, 17 Apr 2025 00:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:22 pm</title>
-      <description>7400 BLOCK HILLSIDE DR, IAO Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-04-16 23:22:00</guid>
-      <pubDate>Wed, 16 Apr 2025 23:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:43 pm</title>
-      <description>4900 BLOCK SMALL GAINS WAY Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-04-16 17:43:00</guid>
-      <pubDate>Wed, 16 Apr 2025 17:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
