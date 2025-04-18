@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 19:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 19:31:30 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:22 pm</title>
+      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E72</description>
+      <guid isPermaLink="false">2025-04-18 15:22:00</guid>
+      <pubDate>Fri, 18 Apr 2025 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:18 pm</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: EMS901, 9D, R3, A38, ALS4, E33</description>
+      <guid isPermaLink="false">2025-04-18 15:18:00</guid>
+      <pubDate>Fri, 18 Apr 2025 15:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:00 pm</title>
+      <description>13000 BLOCK MONTEREY LN, STATION FC004 - BLUE RIDGE SUMMIT FIRE &amp; RESCUE Units: E61</description>
+      <guid isPermaLink="false">2025-04-18 15:00:00</guid>
+      <pubDate>Fri, 18 Apr 2025 15:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:48 pm</title>
       <description>NEW DESIGN RD / CRESTWOOD BLVD Radio: 9B Units: PE311, FS31, 9B, A319</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9B Units: A239, E102, 9B</description>
       <guid isPermaLink="false">2025-04-16 12:16:00</guid>
       <pubDate>Wed, 16 Apr 2025 12:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:08 pm</title>
-      <description>10800 BLOCK BETHESDA CHURCH RD Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2025-04-16 12:08:00</guid>
-      <pubDate>Wed, 16 Apr 2025 12:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:58 am</title>
-      <description>300 BLOCK CATOCTIN AVE, ROLLINS LIFE CELEBRATION CENTER Radio: 9C Units: E23, R3, E33, 9C</description>
-      <guid isPermaLink="false">2025-04-16 10:58:00</guid>
-      <pubDate>Wed, 16 Apr 2025 10:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:51 am</title>
-      <description>7100 BLOCK GEOFFREY WAY, KROGER FULFILLMENT CENTER Radio: 9C Units: PE311, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-04-16 09:51:00</guid>
-      <pubDate>Wed, 16 Apr 2025 09:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
