@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Apr 2025 18:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 19:01:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:48 pm</title>
+      <description>NEW DESIGN RD / CRESTWOOD BLVD Radio: 9B Units: PE311, FS31, 9B, A319</description>
+      <guid isPermaLink="false">2025-04-18 14:48:00</guid>
+      <pubDate>Fri, 18 Apr 2025 14:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:11 pm</title>
       <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: 9C, BR156, FS33</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK GEOFFREY WAY, KROGER FULFILLMENT CENTER Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2025-04-16 09:51:00</guid>
       <pubDate>Wed, 16 Apr 2025 09:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:22 am</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, H L HARTZ COMPANY Radio: 9C Units: E33, T4, 9C</description>
-      <guid isPermaLink="false">2025-04-16 06:22:00</guid>
-      <pubDate>Wed, 16 Apr 2025 06:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
