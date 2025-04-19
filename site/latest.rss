@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 17:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 18:02:08 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 1:49 pm</title>
+      <description>14000 BLOCK TOWER RD Units: E212, PE102, R10, K21, WCE71, K10, C24B</description>
+      <guid isPermaLink="false">2025-04-19 13:49:00</guid>
+      <pubDate>Sat, 19 Apr 2025 13:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 1:44 pm</title>
+      <description>14000 BLOCK TOWER RD Units: E212, PE102, R10, K21, FS21</description>
+      <guid isPermaLink="false">2025-04-19 13:44:00</guid>
+      <pubDate>Sat, 19 Apr 2025 13:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 1:44 pm</title>
+      <description>100 BLOCK POTTERFIELD DR Radio: 6B Units: A196, RE52</description>
+      <guid isPermaLink="false">2025-04-19 13:44:00</guid>
+      <pubDate>Sat, 19 Apr 2025 13:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 1:09 pm</title>
       <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: R3, 9C</description>
       <guid isPermaLink="false">2025-04-17 20:50:00</guid>
       <pubDate>Thu, 17 Apr 2025 20:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR OUTSIDE: 8:35 pm</title>
-      <description>200 BLOCK E THIRD ST, Apt/Unit:A Radio: 9C Units: E33, 9C</description>
-      <guid isPermaLink="false">2025-04-17 20:35:00</guid>
-      <pubDate>Thu, 17 Apr 2025 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:30 pm</title>
-      <description>4700 BLOCK ARCADIA DR Radio: 9C Units: T4, FS31, PE311, 9C</description>
-      <guid isPermaLink="false">2025-04-17 20:30:00</guid>
-      <pubDate>Thu, 17 Apr 2025 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:37 pm</title>
-      <description>RT340WB / RT180 (PETERSVILLE), RT340WB / RT180 Units: A209, E201, R20, A197, FS20, RE52</description>
-      <guid isPermaLink="false">2025-04-17 19:37:00</guid>
-      <pubDate>Thu, 17 Apr 2025 19:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
