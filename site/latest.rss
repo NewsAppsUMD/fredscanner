@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 20:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 21:01:54 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:36 pm</title>
+      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
+      <guid isPermaLink="false">2025-04-19 16:36:00</guid>
+      <pubDate>Sat, 19 Apr 2025 16:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 3:25 pm</title>
       <description>6200 BLOCK CLIFFSIDE TER Units: TT4, E331</description>
@@ -300,12 +306,6 @@
       <description>26600 BLOCK HANEY AVE Radio: 7A1 Units: R15</description>
       <guid isPermaLink="false">2025-04-18 09:15:00</guid>
       <pubDate>Fri, 18 Apr 2025 09:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:21 am</title>
-      <description>5200 BLOCK BUCKEYSTOWN PIKE Units: PE311, T4, FS31</description>
-      <guid isPermaLink="false">2025-04-18 08:21:00</guid>
-      <pubDate>Fri, 18 Apr 2025 08:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
