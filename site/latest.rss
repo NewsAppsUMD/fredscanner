@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 12:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 12:43:00 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:38 am</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: E111</description>
+      <guid isPermaLink="false">2025-04-20 08:38:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:34 am</title>
+      <description>13700 BLOCK JOHN CLINE RD Radio: 9C Units: BR216, FS21, 9C</description>
+      <guid isPermaLink="false">2025-04-20 08:34:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:30 am</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: E152</description>
+      <guid isPermaLink="false">2025-04-20 08:30:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:30 am</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: TT23</description>
+      <guid isPermaLink="false">2025-04-20 08:30:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:19 am</title>
+      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, EMS901, A19, RID, E51, R3, CMD20, K5</description>
+      <guid isPermaLink="false">2025-04-20 08:19:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:19 am</title>
+      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, EMS901, A19, RID, E51, R3, CMD20</description>
+      <guid isPermaLink="false">2025-04-20 08:19:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:17 am</title>
+      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, FS20, EMS901, A19, RID, E51, R3</description>
+      <guid isPermaLink="false">2025-04-20 08:17:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:13 am</title>
+      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, E121, E33, K1, K7, A209, ALS20, BC903, 9D, E201, PE311, PE23, E72, BC902, SAF901, FS20</description>
+      <guid isPermaLink="false">2025-04-20 08:13:00</guid>
+      <pubDate>Sun, 20 Apr 2025 08:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:03 am</title>
       <description>9600 BLOCK ETHAN RIDGE DR Units: E232</description>
@@ -258,54 +306,6 @@
       <description>100 BLOCK N COURT ST, CITY HALL OF FREDERICK Units: E33, T4</description>
       <guid isPermaLink="false">2025-04-19 14:45:00</guid>
       <pubDate>Sat, 19 Apr 2025 14:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:29 pm</title>
-      <description>NEW WINDSOR RD / CLEMSONVILLE RD Units: E172, CCE102, RE171, A179, ALS17, EMS902, C17, CCA89, CCM149, SAF901, ALS29, BC902, W17, CCM109, CMD17, C17B</description>
-      <guid isPermaLink="false">2025-04-19 14:29:00</guid>
-      <pubDate>Sat, 19 Apr 2025 14:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:15 pm</title>
-      <description>NEW WINDSOR RD / CLEMSONVILLE RD Units: CCE102, RE171, A179, ALS17, EMS902, C17, BC902, E162</description>
-      <guid isPermaLink="false">2025-04-19 14:15:00</guid>
-      <pubDate>Sat, 19 Apr 2025 14:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:10 pm</title>
-      <description>NEW WINDSOR RD / CLEMSONVILLE RD Units: CCE102, RE171, A179, ALS17, EMS902, FS17, BC902</description>
-      <guid isPermaLink="false">2025-04-19 14:10:00</guid>
-      <pubDate>Sat, 19 Apr 2025 14:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:49 pm</title>
-      <description>14000 BLOCK TOWER RD Units: E212, PE102, R10, K21, WCE71, K10, C24B</description>
-      <guid isPermaLink="false">2025-04-19 13:49:00</guid>
-      <pubDate>Sat, 19 Apr 2025 13:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:44 pm</title>
-      <description>14000 BLOCK TOWER RD Units: E212, PE102, R10, K21, FS21</description>
-      <guid isPermaLink="false">2025-04-19 13:44:00</guid>
-      <pubDate>Sat, 19 Apr 2025 13:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:44 pm</title>
-      <description>100 BLOCK POTTERFIELD DR Radio: 6B Units: A196, RE52</description>
-      <guid isPermaLink="false">2025-04-19 13:44:00</guid>
-      <pubDate>Sat, 19 Apr 2025 13:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:09 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
-      <guid isPermaLink="false">2025-04-19 13:09:00</guid>
-      <pubDate>Sat, 19 Apr 2025 13:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:36 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Units: R3</description>
-      <guid isPermaLink="false">2025-04-19 12:36:00</guid>
-      <pubDate>Sat, 19 Apr 2025 12:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
