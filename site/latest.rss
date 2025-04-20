@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 15:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 16:02:16 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:58 am</title>
+      <description>10400 BLOCK HESSONG BRIDGE RD Units: R2, EK224, K1, K10, A229, ALS29, BC902, BC901, SAF901, FS22, E221, E291, E111, E11, PE102, E501, R24, Q11</description>
+      <guid isPermaLink="false">2025-04-20 11:58:00</guid>
+      <pubDate>Sun, 20 Apr 2025 11:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:55 am</title>
+      <description>9900 BLOCK KEYSVILLE RD Radio: 9C Units: FS06, 9C, BR65</description>
+      <guid isPermaLink="false">2025-04-20 11:55:00</guid>
+      <pubDate>Sun, 20 Apr 2025 11:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:28 am</title>
       <description>5000 BLOCK WESLEY SQ Radio: 9C Units: 9C, PE311, TW1, FS31</description>
@@ -294,18 +306,6 @@
       <description>12600 BLOCK JAMES MONROE HWY Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2025-04-19 20:33:00</guid>
       <pubDate>Sat, 19 Apr 2025 20:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:00 pm</title>
-      <description>CHESTNUT GROVE RD / LIBERTY RD Radio: 9C Units: E172, FS17, 9C</description>
-      <guid isPermaLink="false">2025-04-19 20:00:00</guid>
-      <pubDate>Sat, 19 Apr 2025 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:18 pm</title>
-      <description>5900 BLOCK BOYERS MILL RD Radio: 9C Units: BR156, FS15, 9C</description>
-      <guid isPermaLink="false">2025-04-19 18:18:00</guid>
-      <pubDate>Sat, 19 Apr 2025 18:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
