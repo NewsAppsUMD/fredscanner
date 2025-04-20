@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Apr 2025 23:32:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:08:22 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:00 pm</title>
+      <description>CHESTNUT GROVE RD / LIBERTY RD Radio: 9C Units: E172, FS17, 9C</description>
+      <guid isPermaLink="false">2025-04-19 20:00:00</guid>
+      <pubDate>Sat, 19 Apr 2025 20:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:18 pm</title>
       <description>5900 BLOCK BOYERS MILL RD Radio: 9C Units: BR156, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>S JEFFERSON ST / PROSPECT BLVD Radio: 9B Units: T4, 9B, A18</description>
       <guid isPermaLink="false">2025-04-18 10:37:00</guid>
       <pubDate>Fri, 18 Apr 2025 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:09 am</title>
-      <description>11600 BLOCK BROWNINGSVILLE RD Units: A259, R15, FS25</description>
-      <guid isPermaLink="false">2025-04-18 10:09:00</guid>
-      <pubDate>Fri, 18 Apr 2025 10:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
