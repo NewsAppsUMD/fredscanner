@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 19:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 20:02:03 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:44 pm</title>
+      <description>9400 BLOCK WAYNESBORO RD Radio: 9C Units: FS06, 9C, BR65</description>
+      <guid isPermaLink="false">2025-04-20 15:44:00</guid>
+      <pubDate>Sun, 20 Apr 2025 15:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:48 pm</title>
       <description>S SETON AVE / OLD EMMITSBURG RD, IAO Radio: 9C Units: FS06, 9C, BR65</description>
@@ -294,12 +300,6 @@
       <description>RT15NB / LOHR RD, RT15NB / LOHR RD Radio: 9D Units: E61, R10, A69, CCM58, BC902, 9D, EMS902</description>
       <guid isPermaLink="false">2025-04-19 22:23:00</guid>
       <pubDate>Sat, 19 Apr 2025 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:20 pm</title>
-      <description>13400 BLOCK WOLFSVILLE RD Radio: 9C Units: BR106, BR216, 9C, BR85</description>
-      <guid isPermaLink="false">2025-04-19 22:20:00</guid>
-      <pubDate>Sat, 19 Apr 2025 22:20:00 -0400</pubDate>
     </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:20 pm</title>
