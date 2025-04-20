@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Apr 2025 02:57:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 03:21:16 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:19 pm</title>
+      <description>16100 BLOCK SABILLASVILLE RD Units: BR106</description>
+      <guid isPermaLink="false">2025-04-19 23:19:00</guid>
+      <pubDate>Sat, 19 Apr 2025 23:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:15 pm</title>
+      <description>7300 BLOCKE FRIENDS CREEK RD Radio: 9C Units: EK64, FR19, 9C</description>
+      <guid isPermaLink="false">2025-04-19 23:15:00</guid>
+      <pubDate>Sat, 19 Apr 2025 23:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:07 pm</title>
+      <description>400 BLOCK CENTRAL AVE, BRUNSWICK EAGLES CLUB Radio: 9C Units: 9C, T5, E51, FS05</description>
+      <guid isPermaLink="false">2025-04-19 23:07:00</guid>
+      <pubDate>Sat, 19 Apr 2025 23:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 10:58 pm</title>
+      <description>10600 BLOCK HIGHLAND SCHOOL RD Radio: 9C Units: BR216, E72, K21, BR85, BR75, 9C, E212</description>
+      <guid isPermaLink="false">2025-04-19 22:58:00</guid>
+      <pubDate>Sat, 19 Apr 2025 22:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 10:56 pm</title>
+      <description>TOMS CREEK CHURCH RD / BOLLINGER SCHOOL RD Radio: 9C Units: BR65, 9C</description>
+      <guid isPermaLink="false">2025-04-19 22:56:00</guid>
+      <pubDate>Sat, 19 Apr 2025 22:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 10:53 pm</title>
       <description>10600 BLOCK HIGHLAND SCHOOL RD Radio: 9C Units: E72, K21, BR85, BR75, 9C, E212</description>
@@ -276,36 +306,6 @@
       <description>11100 BLOCK BALDWIN RD W, ADVENTURE PARK USA Radio: 9C Units: 9C, E152, FS15</description>
       <guid isPermaLink="false">2025-04-19 04:54:00</guid>
       <pubDate>Sat, 19 Apr 2025 04:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:48 am</title>
-      <description>11100 BLOCK BALDWIN RD W, ADVENTURE PARK USA Radio: 9C Units: E152, FS15, 9C</description>
-      <guid isPermaLink="false">2025-04-19 04:48:00</guid>
-      <pubDate>Sat, 19 Apr 2025 04:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:12 am</title>
-      <description>11100 BLOCK BALDWIN RD W Radio: 9C Units: E152, TT23, FS15, 9C</description>
-      <guid isPermaLink="false">2025-04-19 04:12:00</guid>
-      <pubDate>Sat, 19 Apr 2025 04:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 12:22 am</title>
-      <description>8400 BLOCK PALMER RD Radio: 9D Units: E82, 9D</description>
-      <guid isPermaLink="false">2025-04-19 00:22:00</guid>
-      <pubDate>Sat, 19 Apr 2025 00:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:12 pm</title>
-      <description>RT15NB / 35MM, RT15NB / COLLEGE LN Units: A69, EK64, FS06</description>
-      <guid isPermaLink="false">2025-04-18 21:12:00</guid>
-      <pubDate>Fri, 18 Apr 2025 21:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:04 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET, SUNOCO GAS MART CIGARETTE OUTLET Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-04-18 21:04:00</guid>
-      <pubDate>Fri, 18 Apr 2025 21:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
