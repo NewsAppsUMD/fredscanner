@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 19:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 20:02:29 +0000</lastBuildDate>
+    <item>
+      <title>GARAGE FIRE: 3:57 pm</title>
+      <description>3600 BLOCK GREEN VALLEY RD Radio: 9D Units: TTF, VOLAC900, E141, E251, K23, K735, K33, A158, ALS23, BC901, EMS902, C15B, E172, M713, E152, A179, CCK1, EK204, K1, W25, C15, PRE709, E331, PE713, R15, TT23, BC903, SAF901, E232, R3, C23B, K17, CMD15, RID, TW735, 9D</description>
+      <guid isPermaLink="false">2025-04-21 15:57:00</guid>
+      <pubDate>Mon, 21 Apr 2025 15:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 3:52 pm</title>
+      <description>3600 BLOCK GREEN VALLEY RD Radio: 9D Units: K713, E251, K23, K709, K33, A158, ALS23, BC901, EMS902, C15B, E172, M713, EMS901, E152, C15, PRE709, E331, PE713, R15, TT23, BC903, SAF901, E232, R3, C23B, K17, CMD15, RID, TW735, 9D</description>
+      <guid isPermaLink="false">2025-04-21 15:52:00</guid>
+      <pubDate>Mon, 21 Apr 2025 15:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 3:51 pm</title>
+      <description>3600 BLOCK GREEN VALLEY RD Units: K713, E251, K23, K709, K33, A158, ALS23, BC901, EMS902, C15B, E152, C15, PRE709, E331, PE713, R15, TT23, BC903, SAF901, E232, R3, C23B, K17, CMD15</description>
+      <guid isPermaLink="false">2025-04-21 15:51:00</guid>
+      <pubDate>Mon, 21 Apr 2025 15:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 3:42 pm</title>
+      <description>3600 BLOCK GREEN VALLEY RD Units: E251, K23, K709, K33, A158, ALS23, BC901, E152, PRE709, E331, PE713, R15, TT23, BC903, SAF901, FS25, E232, R3</description>
+      <guid isPermaLink="false">2025-04-21 15:42:00</guid>
+      <pubDate>Mon, 21 Apr 2025 15:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:07 pm</title>
       <description>5600 BLOCK PEBBLE DR Radio: 9C Units: PE311, FS31, 9C</description>
@@ -282,30 +306,6 @@
       <description>7200 BLOCK BLACK RD Radio: 9C Units: BR106, 9C</description>
       <guid isPermaLink="false">2025-04-20 05:46:00</guid>
       <pubDate>Sun, 20 Apr 2025 05:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:39 am</title>
-      <description>10600 BLOCK HIGHLAND SCHOOL RD Radio: 9C Units: 9C, K21, BR216</description>
-      <guid isPermaLink="false">2025-04-20 01:39:00</guid>
-      <pubDate>Sun, 20 Apr 2025 01:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:20 am</title>
-      <description>200 BLOCK S MAIN ST Radio: PS1 Units: R8, PS1</description>
-      <guid isPermaLink="false">2025-04-20 01:20:00</guid>
-      <pubDate>Sun, 20 Apr 2025 01:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:13 am</title>
-      <description>FOXVILLE DEERFIELD RD / RT550, FOXVILLE DEERFIELD RD / RT550 Radio: 9C Units: BR106, 9C</description>
-      <guid isPermaLink="false">2025-04-20 01:13:00</guid>
-      <pubDate>Sun, 20 Apr 2025 01:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:43 am</title>
-      <description>13800 BLOCK MOTTERS STATION RD Radio: 9C Units: 9C, E132, FS13</description>
-      <guid isPermaLink="false">2025-04-20 00:43:00</guid>
-      <pubDate>Sun, 20 Apr 2025 00:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
