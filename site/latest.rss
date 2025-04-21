@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 17:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 18:02:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:39 pm</title>
+      <description>WOODSBORO PIKE / WOODSBORO RD Radio: 9B Units: A169, A249, ALS17, EMS902, E162, 9B</description>
+      <guid isPermaLink="false">2025-04-21 13:39:00</guid>
+      <pubDate>Mon, 21 Apr 2025 13:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:35 pm</title>
+      <description>WOODSBORO PIKE / WOODSBORO RD, IAO Radio: 9B Units: A169, FS16, E162, 9B</description>
+      <guid isPermaLink="false">2025-04-21 13:35:00</guid>
+      <pubDate>Mon, 21 Apr 2025 13:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:31 pm</title>
       <description>100 BLOCK E CHURCH ST, EVANGELICAL LUTHERAN CHURCH - FREDERICK Radio: 9C Units: E23, TT4, 9C</description>
@@ -294,18 +306,6 @@
       <description>FISHERS HOLLOW RD / HARMONY RD Radio: 9D Units: E212, A89, ALS8, BC901, EMS901, 9D, E72, RE74</description>
       <guid isPermaLink="false">2025-04-19 23:44:00</guid>
       <pubDate>Sat, 19 Apr 2025 23:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:23 pm</title>
-      <description>COPPERMINE RD / COPPER OAKS DR Units: E162</description>
-      <guid isPermaLink="false">2025-04-19 23:23:00</guid>
-      <pubDate>Sat, 19 Apr 2025 23:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:19 pm</title>
-      <description>16100 BLOCK SABILLASVILLE RD Units: BR106</description>
-      <guid isPermaLink="false">2025-04-19 23:19:00</guid>
-      <pubDate>Sat, 19 Apr 2025 23:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
