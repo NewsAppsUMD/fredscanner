@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Apr 2025 20:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 21:02:01 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 4:55 pm</title>
+      <description>1500 BLOCK TILCO DR, MARYLAND VEHICLE EMISSIONS INSPECTION STATION Radio: 9C Units: EK114, BR35, 9C</description>
+      <guid isPermaLink="false">2025-04-21 16:55:00</guid>
+      <pubDate>Mon, 21 Apr 2025 16:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:52 pm</title>
+      <description>1500 BLOCK TILCO DR, MARYLAND VEHICLE EMISSIONS INSPECTION STATION Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-04-21 16:52:00</guid>
+      <pubDate>Mon, 21 Apr 2025 16:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 4:22 pm</title>
       <description>7100 BLOCKC CYPRESS CT Radio: 9C Units: TT4, FS31, PE311, E11, 9C</description>
@@ -294,18 +306,6 @@
       <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, EMS901, A19, RID, E51, R3, CMD20, K5</description>
       <guid isPermaLink="false">2025-04-20 08:19:00</guid>
       <pubDate>Sun, 20 Apr 2025 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:19 am</title>
-      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, EMS901, A19, RID, E51, R3, CMD20</description>
-      <guid isPermaLink="false">2025-04-20 08:19:00</guid>
-      <pubDate>Sun, 20 Apr 2025 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:17 am</title>
-      <description>4800 BLOCK PIONEER CIR Radio: 9D Units: R20, TW1, TT4, EK204, A38, E121, E33, K1, K7, A209, ALS20, BC903, 9D, C20B, C3D, E201, PE311, PE23, E72, BC902, SAF901, W20, FS20, EMS901, A19, RID, E51, R3</description>
-      <guid isPermaLink="false">2025-04-20 08:17:00</guid>
-      <pubDate>Sun, 20 Apr 2025 08:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
