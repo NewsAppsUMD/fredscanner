@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 21:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 22:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:38 pm</title>
+      <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: A28, E111, R2, A299, FS29, 9B, E291</description>
+      <guid isPermaLink="false">2025-04-22 17:38:00</guid>
+      <pubDate>Tue, 22 Apr 2025 17:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:56 pm</title>
       <description>URBANA PIKE / BALL RD Radio: 9B Units: E232, FS23, 9B, A239</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK FAUNA DR Radio: 9C Units: E291, FS29, 9C</description>
       <guid isPermaLink="false">2025-04-20 17:28:00</guid>
       <pubDate>Sun, 20 Apr 2025 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:07 pm</title>
-      <description>HERMAN HAUVER RD / FOXVILLE DEERFIELD RD Radio: 9C Units: BR216, FS21, 9C</description>
-      <guid isPermaLink="false">2025-04-20 17:07:00</guid>
-      <pubDate>Sun, 20 Apr 2025 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
