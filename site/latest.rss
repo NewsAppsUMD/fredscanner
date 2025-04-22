@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 12:43:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 13:09:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:07 am</title>
+      <description>11900 BLOCK COPPERMINE RD, IAO Units: E172, A179, FS17, ALS17</description>
+      <guid isPermaLink="false">2025-04-22 09:07:00</guid>
+      <pubDate>Tue, 22 Apr 2025 09:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 8:28 am</title>
       <description>CHERRY LN / HOLTER RD, IAO Radio: 9C Units: E201, FS12, 9C, E121</description>
@@ -300,12 +306,6 @@
       <description>10400 BLOCK HESSONG BRIDGE RD Units: R2, EK224, K1, K10, A229, ALS29, BC902, BC901, SAF901, FS22, E221, E291, E111, E11, PE102, E501, R24, Q11</description>
       <guid isPermaLink="false">2025-04-20 11:58:00</guid>
       <pubDate>Sun, 20 Apr 2025 11:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:55 am</title>
-      <description>9900 BLOCK KEYSVILLE RD Radio: 9C Units: FS06, 9C, BR65</description>
-      <guid isPermaLink="false">2025-04-20 11:55:00</guid>
-      <pubDate>Sun, 20 Apr 2025 11:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
