@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Apr 2025 17:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 18:02:27 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 1:52 pm</title>
+      <description>TUSCARORA RD / CHICK RD Radio: 9D Units: PE311, R14, 9D, A149, M714, FS14</description>
+      <guid isPermaLink="false">2025-04-22 13:52:00</guid>
+      <pubDate>Tue, 22 Apr 2025 13:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:24 pm</title>
       <description>2100 BLOCK CHESTNUT LN, Apt/Unit:LOT 195 Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>I270NB / NEW DESIGN RD, I270NB / 32MM Radio: 9C Units: PE311, BR16, FS31, 9C</description>
       <guid isPermaLink="false">2025-04-20 16:09:00</guid>
       <pubDate>Sun, 20 Apr 2025 16:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:44 pm</title>
-      <description>9400 BLOCK WAYNESBORO RD Radio: 9C Units: FS06, 9C, BR65</description>
-      <guid isPermaLink="false">2025-04-20 15:44:00</guid>
-      <pubDate>Sun, 20 Apr 2025 15:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
