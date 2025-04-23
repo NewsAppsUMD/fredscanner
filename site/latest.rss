@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Apr 2025 00:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 01:29:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:11 pm</title>
+      <description>I70WB / RT17, I70WB / RT17 Units: E72, A38, WCE161, A39, A89, A79, ALS8, BC901, EMS901, EMS902, ALS20, HTRP3, CMD7, ALS4, W7, R3, WCE101, SAF901, C7</description>
+      <guid isPermaLink="false">2025-04-22 21:11:00</guid>
+      <pubDate>Tue, 22 Apr 2025 21:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:58 pm</title>
+      <description>I70WB / RT17, I70WB / RT17 Units: E72, A38, WCE161, A39, A89, A79, ALS8, BC901, EMS901, EMS902, ALS20, ALS31, R3, SAF901, C7</description>
+      <guid isPermaLink="false">2025-04-22 20:58:00</guid>
+      <pubDate>Tue, 22 Apr 2025 20:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:55 pm</title>
+      <description>I70WB / RT17, I70WB / RT17 Units: E72, WCE161, RE74, A89, A79, ALS8, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-04-22 20:55:00</guid>
+      <pubDate>Tue, 22 Apr 2025 20:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:29 pm</title>
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E153, E111</description>
@@ -288,24 +306,6 @@
       <description>8700 BLOCK OLD KILN RD Radio: 9C Units: BR106, 9C</description>
       <guid isPermaLink="false">2025-04-21 11:28:00</guid>
       <pubDate>Mon, 21 Apr 2025 11:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:16 am</title>
-      <description>300 BLOCK S SETON AVE, Apt/Unit:409, SETON VILLAGE APARTMENTS Radio: 9C Units: E61, TW6, FS06, 9C</description>
-      <guid isPermaLink="false">2025-04-21 11:16:00</guid>
-      <pubDate>Mon, 21 Apr 2025 11:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:49 am</title>
-      <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Radio: 9B Units: E33, R3, A39, A18, 9B, E11</description>
-      <guid isPermaLink="false">2025-04-21 01:49:00</guid>
-      <pubDate>Mon, 21 Apr 2025 01:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:19 pm</title>
-      <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: 9C, FS11, BR116</description>
-      <guid isPermaLink="false">2025-04-20 22:19:00</guid>
-      <pubDate>Sun, 20 Apr 2025 22:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
