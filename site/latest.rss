@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 21:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 21:33:36 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:13 pm</title>
+      <description>800 BLOCK S WASHINGTON ST, STATION FC003 - RESCUE HOSE CO #1 Units: EK64</description>
+      <guid isPermaLink="false">2025-04-24 17:13:00</guid>
+      <pubDate>Thu, 24 Apr 2025 17:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:09 pm</title>
+      <description>APPROX LOC:15021 RODDY RD Radio: 9B Units: R10, 9B, A309</description>
+      <guid isPermaLink="false">2025-04-24 17:09:00</guid>
+      <pubDate>Thu, 24 Apr 2025 17:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:54 pm</title>
       <description>11100 BLOCK LINCOLN AVE, STATION WC026 - VFC OF HALFWAY Units: TT4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK RAILROAD LN Units: E61, EK64</description>
       <guid isPermaLink="false">2025-04-22 05:24:00</guid>
       <pubDate>Tue, 22 Apr 2025 05:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:22 am</title>
-      <description>100 BLOCK RAILROAD LN Units: E61</description>
-      <guid isPermaLink="false">2025-04-22 05:22:00</guid>
-      <pubDate>Tue, 22 Apr 2025 05:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:10 pm</title>
-      <description>200 BLOCK SHOREBIRD ST, BUFFALO WILD WINGS - MARKET SQUARE Radio: 9C Units: E111, Q11, FS11, 9C</description>
-      <guid isPermaLink="false">2025-04-21 23:10:00</guid>
-      <pubDate>Mon, 21 Apr 2025 23:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
