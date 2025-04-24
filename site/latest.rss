@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 19:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 20:02:17 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:47 pm</title>
+      <description>1700 BLOCK PINE RD Units: WILDLAND7, BR75</description>
+      <guid isPermaLink="false">2025-04-24 15:47:00</guid>
+      <pubDate>Thu, 24 Apr 2025 15:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:44 pm</title>
+      <description>200 BLOCKBLK SOUTGATE DR Units: E82</description>
+      <guid isPermaLink="false">2025-04-24 15:44:00</guid>
+      <pubDate>Thu, 24 Apr 2025 15:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
       <description>100 BLOCK NEW CASTLE CT Radio: 9C Units: 9C, E11, T50</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCKC CYPRESS CT Radio: 9C Units: TT4, FS31, PE311, E11, 9C</description>
       <guid isPermaLink="false">2025-04-21 16:22:00</guid>
       <pubDate>Mon, 21 Apr 2025 16:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:10 pm</title>
-      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: RE74</description>
-      <guid isPermaLink="false">2025-04-21 16:10:00</guid>
-      <pubDate>Mon, 21 Apr 2025 16:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:07 pm</title>
-      <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Units: EK114</description>
-      <guid isPermaLink="false">2025-04-21 16:07:00</guid>
-      <pubDate>Mon, 21 Apr 2025 16:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
