@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 15:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 15:35:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:09 am</title>
+      <description>WELLER RD / LYNN BURKE RD Radio: 9B Units: E251, R15, A259, FS25, 9B</description>
+      <guid isPermaLink="false">2025-04-24 11:09:00</guid>
+      <pubDate>Thu, 24 Apr 2025 11:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:05 am</title>
+      <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, TT4, 9C</description>
+      <guid isPermaLink="false">2025-04-24 11:05:00</guid>
+      <pubDate>Thu, 24 Apr 2025 11:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:22 am</title>
       <description>100 BLOCK E ALL SAINTS ST, SCHAEFER BUILDING Radio: 9C Units: E33, TT4, 9C</description>
@@ -294,18 +306,6 @@
       <description>3600 BLOCK GREEN VALLEY RD Units: K713, E251, K23, K709, K33, A158, ALS23, BC901, EMS902, C15B, E152, C15, PRE709, E331, PE713, R15, TT23, BC903, SAF901, E232, R3, C23B, K17, CMD15</description>
       <guid isPermaLink="false">2025-04-21 15:51:00</guid>
       <pubDate>Mon, 21 Apr 2025 15:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 3:42 pm</title>
-      <description>3600 BLOCK GREEN VALLEY RD Units: E251, K23, K709, K33, A158, ALS23, BC901, E152, PRE709, E331, PE713, R15, TT23, BC903, SAF901, FS25, E232, R3</description>
-      <guid isPermaLink="false">2025-04-21 15:42:00</guid>
-      <pubDate>Mon, 21 Apr 2025 15:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:07 pm</title>
-      <description>5600 BLOCK PEBBLE DR Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-04-21 14:07:00</guid>
-      <pubDate>Mon, 21 Apr 2025 14:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
