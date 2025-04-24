@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 22:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 22:35:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9B Units: CCE12, E152, R15, A158, CCA18, FS15, 9B</description>
+      <guid isPermaLink="false">2025-04-24 18:14:00</guid>
+      <pubDate>Thu, 24 Apr 2025 18:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:13 pm</title>
       <description>800 BLOCK S WASHINGTON ST, STATION FC003 - RESCUE HOSE CO #1 Units: EK64</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 6 Units: EK114</description>
       <guid isPermaLink="false">2025-04-22 05:44:00</guid>
       <pubDate>Tue, 22 Apr 2025 05:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:24 am</title>
-      <description>100 BLOCK RAILROAD LN Units: E61, EK64</description>
-      <guid isPermaLink="false">2025-04-22 05:24:00</guid>
-      <pubDate>Tue, 22 Apr 2025 05:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
