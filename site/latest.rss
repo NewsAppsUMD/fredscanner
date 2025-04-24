@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 20:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:54 pm</title>
+      <description>11100 BLOCK LINCOLN AVE, STATION WC026 - VFC OF HALFWAY Units: TT4</description>
+      <guid isPermaLink="false">2025-04-24 16:54:00</guid>
+      <pubDate>Thu, 24 Apr 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
+      <description>100 BLOCK BULLFROG RD Units: A68, A69, E61, R6</description>
+      <guid isPermaLink="false">2025-04-24 16:43:00</guid>
+      <pubDate>Thu, 24 Apr 2025 16:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:41 pm</title>
+      <description>600 BLOCK W POTOMAC ST, HOPWOOD SELF STORAGE Radio: 9C Units: FS05, BR55, 9C</description>
+      <guid isPermaLink="false">2025-04-24 16:41:00</guid>
+      <pubDate>Thu, 24 Apr 2025 16:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:40 pm</title>
+      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9D Units: A299, ALS29, E291, EMS902, FS29, 9D</description>
+      <guid isPermaLink="false">2025-04-24 16:40:00</guid>
+      <pubDate>Thu, 24 Apr 2025 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:28 pm</title>
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, FS29, 9C, Q11</description>
@@ -282,30 +306,6 @@
       <description>200 BLOCK SHOREBIRD ST, BUFFALO WILD WINGS - MARKET SQUARE Radio: 9C Units: E111, Q11, FS11, 9C</description>
       <guid isPermaLink="false">2025-04-21 23:10:00</guid>
       <pubDate>Mon, 21 Apr 2025 23:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:28 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2025-04-21 22:28:00</guid>
-      <pubDate>Mon, 21 Apr 2025 22:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 8:04 pm</title>
-      <description>1300 BLOCKBLK MCCOYS FERRY RD Units: WILDLAND7</description>
-      <guid isPermaLink="false">2025-04-21 20:04:00</guid>
-      <pubDate>Mon, 21 Apr 2025 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:54 pm</title>
-      <description>10700 BLOCKA ETZLER MILL RD Radio: 9C Units: 9C, BR176, K17, E162</description>
-      <guid isPermaLink="false">2025-04-21 19:54:00</guid>
-      <pubDate>Mon, 21 Apr 2025 19:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:45 pm</title>
-      <description>10700 BLOCKA ETZLER MILL RD Radio: 9C Units: 9C, E162, FS16</description>
-      <guid isPermaLink="false">2025-04-21 19:45:00</guid>
-      <pubDate>Mon, 21 Apr 2025 19:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
