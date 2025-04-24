@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Apr 2025 17:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
+      <description>100 BLOCK NEW CASTLE CT Radio: 9C Units: 9C, E11, T50</description>
+      <guid isPermaLink="false">2025-04-24 13:38:00</guid>
+      <pubDate>Thu, 24 Apr 2025 13:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 1:13 pm</title>
       <description>100 BLOCK MONOCACY BLVD, Apt/Unit:B18, MID ATLANTIC FASTNERS Radio: 9C Units: PE23, A38, C3C, TT4, CMD3, R3, 9C, E33, E331, BC901</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Units: EK114</description>
       <guid isPermaLink="false">2025-04-21 16:07:00</guid>
       <pubDate>Mon, 21 Apr 2025 16:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:06 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK64</description>
-      <guid isPermaLink="false">2025-04-21 16:06:00</guid>
-      <pubDate>Mon, 21 Apr 2025 16:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
