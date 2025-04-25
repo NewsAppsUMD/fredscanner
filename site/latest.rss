@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 22:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:37 pm</title>
+      <description>2200 BLOCK THURSTON RD Units: E232, FS23</description>
+      <guid isPermaLink="false">2025-04-25 18:37:00</guid>
+      <pubDate>Fri, 25 Apr 2025 18:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
       <description>6900 BLOCK EAGLEHEAD DR Units: FS15, A158, E152</description>
@@ -300,12 +306,6 @@
       <description>8000 BLOCK GAMBRILL PARK RD Units: E121, E82, E72, E33, E501, R3, TW7, TW1, K7, K1, EK114, A129, ALS20, BC903, BC902, SAF901, PE23, FS12</description>
       <guid isPermaLink="false">2025-04-22 18:00:00</guid>
       <pubDate>Tue, 22 Apr 2025 18:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:38 pm</title>
-      <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: A28, E111, R2, A299, FS29, 9B, E291</description>
-      <guid isPermaLink="false">2025-04-22 17:38:00</guid>
-      <pubDate>Tue, 22 Apr 2025 17:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
