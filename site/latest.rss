@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 00:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 01:29:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:13 pm</title>
+      <description>100 BLOCK E SECOND ST, Apt/Unit:3 Radio: 9C Units: TT4, 9C, E33</description>
+      <guid isPermaLink="false">2025-04-24 21:13:00</guid>
+      <pubDate>Thu, 24 Apr 2025 21:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:48 pm</title>
+      <description>WOODVILLE RD / PEDDICORD RD Radio: 9C Units: BR175, FS17, 9C</description>
+      <guid isPermaLink="false">2025-04-24 20:48:00</guid>
+      <pubDate>Thu, 24 Apr 2025 20:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:15 pm</title>
       <description>900 BLOCK MANSION DR, PROSPECT HALL APARTMENTS - 900 BLOCK MANSION DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -294,18 +306,6 @@
       <description>8100 BLOCK CRUM RD Radio: 9C Units: E111, Q11, FS11, 9C</description>
       <guid isPermaLink="false">2025-04-22 09:11:00</guid>
       <pubDate>Tue, 22 Apr 2025 09:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:07 am</title>
-      <description>11900 BLOCK COPPERMINE RD, IAO Units: E172, A179, FS17, ALS17</description>
-      <guid isPermaLink="false">2025-04-22 09:07:00</guid>
-      <pubDate>Tue, 22 Apr 2025 09:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:28 am</title>
-      <description>CHERRY LN / HOLTER RD, IAO Radio: 9C Units: E201, FS12, 9C, E121</description>
-      <guid isPermaLink="false">2025-04-22 08:28:00</guid>
-      <pubDate>Tue, 22 Apr 2025 08:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
