@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Apr 2025 19:31:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 20:02:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:55 pm</title>
+      <description>NEW WINDSOR RD / CLEMSONVILLE RD Radio: 9B Units: FS17, A179, E172, 9B</description>
+      <guid isPermaLink="false">2025-04-25 15:55:00</guid>
+      <pubDate>Fri, 25 Apr 2025 15:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 2:04 pm</title>
       <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Units: E11, A19, ALS4, BC901, EMS902, R3, A18</description>
@@ -300,12 +306,6 @@
       <description>TUSCARORA RD / CHICK RD Radio: 9D Units: PE311, R14, 9D, A149, M714, FS14</description>
       <guid isPermaLink="false">2025-04-22 13:52:00</guid>
       <pubDate>Tue, 22 Apr 2025 13:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:24 pm</title>
-      <description>2100 BLOCK CHESTNUT LN, Apt/Unit:LOT 195 Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-04-22 13:24:00</guid>
-      <pubDate>Tue, 22 Apr 2025 13:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
