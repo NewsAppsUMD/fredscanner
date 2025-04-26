@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 20:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 20:32:46 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 4:05 pm</title>
+      <description>2100 BLOCK ARTILLERY RD Radio: 9D Units: C3B, TT4, A299, EMS902, E291, T50, ALS29, BC902, BC901, SAF901, E11, E501, E221, R3, 9D, E33</description>
+      <guid isPermaLink="false">2025-04-26 16:05:00</guid>
+      <pubDate>Sat, 26 Apr 2025 16:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 4:03 pm</title>
+      <description>2100 BLOCK ARTILLERY RD Units: TT4, A299, E291, R2, T50, ALS29, BC902, BC901, SAF901, FS29, E11, E501, E221, E33</description>
+      <guid isPermaLink="false">2025-04-26 16:03:00</guid>
+      <pubDate>Sat, 26 Apr 2025 16:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 3:08 pm</title>
       <description>STEINER SMITH RD / DUBLIN RD Radio: 9I Units: E162, R24, A169, ALS17, FS16, 9I, EMS901</description>
@@ -294,18 +306,6 @@
       <description>11100 BLOCK LINCOLN AVE, STATION WC026 - VFC OF HALFWAY Units: TT4</description>
       <guid isPermaLink="false">2025-04-24 16:54:00</guid>
       <pubDate>Thu, 24 Apr 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:43 pm</title>
-      <description>100 BLOCK BULLFROG RD Units: A68, A69, E61, R6</description>
-      <guid isPermaLink="false">2025-04-24 16:43:00</guid>
-      <pubDate>Thu, 24 Apr 2025 16:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:41 pm</title>
-      <description>600 BLOCK W POTOMAC ST, HOPWOOD SELF STORAGE Radio: 9C Units: FS05, BR55, 9C</description>
-      <guid isPermaLink="false">2025-04-24 16:41:00</guid>
-      <pubDate>Thu, 24 Apr 2025 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
