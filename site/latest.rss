@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 19:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 19:31:27 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:08 pm</title>
+      <description>STEINER SMITH RD / DUBLIN RD Radio: 9I Units: E162, R24, A169, ALS17, FS16, 9I, EMS901</description>
+      <guid isPermaLink="false">2025-04-26 15:08:00</guid>
+      <pubDate>Sat, 26 Apr 2025 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 3:02 pm</title>
+      <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9D Units: BR106, 9D</description>
+      <guid isPermaLink="false">2025-04-26 15:02:00</guid>
+      <pubDate>Sat, 26 Apr 2025 15:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 3:00 pm</title>
+      <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9B Units: CMD10, R10, EMS902, 9B, BC902, E221, SU51, E61, ALS30, E102, A309</description>
+      <guid isPermaLink="false">2025-04-26 15:00:00</guid>
+      <pubDate>Sat, 26 Apr 2025 15:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:56 pm</title>
       <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9B Units: CMD10, R10, EMS902, 9B, BC902, E221, SU51, ALS30, E102, A309</description>
@@ -288,24 +306,6 @@
       <description>600 BLOCK W POTOMAC ST, HOPWOOD SELF STORAGE Radio: 9C Units: FS05, BR55, 9C</description>
       <guid isPermaLink="false">2025-04-24 16:41:00</guid>
       <pubDate>Thu, 24 Apr 2025 16:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 4:40 pm</title>
-      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9D Units: A299, ALS29, E291, EMS902, FS29, 9D</description>
-      <guid isPermaLink="false">2025-04-24 16:40:00</guid>
-      <pubDate>Thu, 24 Apr 2025 16:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:28 pm</title>
-      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, FS29, 9C, Q11</description>
-      <guid isPermaLink="false">2025-04-24 16:28:00</guid>
-      <pubDate>Thu, 24 Apr 2025 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:27 pm</title>
-      <description>16100 BLOCK ELLIOTT PARKWAY Units: ABT28</description>
-      <guid isPermaLink="false">2025-04-24 16:27:00</guid>
-      <pubDate>Thu, 24 Apr 2025 16:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
