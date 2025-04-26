@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 00:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 00:46:20 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:32 pm</title>
+      <description>3300 BLOCK YORKSHIRE CT Units: E141, E232, TT23, FS14</description>
+      <guid isPermaLink="false">2025-04-25 20:32:00</guid>
+      <pubDate>Fri, 25 Apr 2025 20:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:13 pm</title>
+      <description>1100 BLOCK DAFFODIL DR Units: E11, TW1</description>
+      <guid isPermaLink="false">2025-04-25 20:13:00</guid>
+      <pubDate>Fri, 25 Apr 2025 20:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 8:07 pm</title>
+      <description>100 BLOCK HAMILTON AVE Units: E331, E33, TT4</description>
+      <guid isPermaLink="false">2025-04-25 20:07:00</guid>
+      <pubDate>Fri, 25 Apr 2025 20:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:05 pm</title>
+      <description>300 BLOCK KENWOOD CT Units: R24, Q11, BC901, SAF901, E111, E162, E91, A249, FS11, ALS17, BC902, E172, E221, R2</description>
+      <guid isPermaLink="false">2025-04-25 20:05:00</guid>
+      <pubDate>Fri, 25 Apr 2025 20:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:21 pm</title>
       <description>I70EB / RT40 (FRED), I70EB / RT40 Units: E82, E121</description>
@@ -282,30 +306,6 @@
       <description>I70WB / RT17, I70WB / RT17 Units: E72, WCE161, RE74, A89, A79, ALS8, BC901, EMS901</description>
       <guid isPermaLink="false">2025-04-22 20:55:00</guid>
       <pubDate>Tue, 22 Apr 2025 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:29 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E153, E111</description>
-      <guid isPermaLink="false">2025-04-22 18:29:00</guid>
-      <pubDate>Tue, 22 Apr 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:20 pm</title>
-      <description>400 BLOCK FRANKLIN ST, STATION 7 Units: TT23</description>
-      <guid isPermaLink="false">2025-04-22 18:20:00</guid>
-      <pubDate>Tue, 22 Apr 2025 18:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:16 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E153</description>
-      <guid isPermaLink="false">2025-04-22 18:16:00</guid>
-      <pubDate>Tue, 22 Apr 2025 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:12 pm</title>
-      <description>8000 BLOCK GAMBRILL PARK RD Units: E121, E82, E72, E33, E501, R3, TW7, W12, TW1, K7, K1, EK114, A129, ALS20, BC903, BC902, SAF901, PE23, CMD12, C2B, RID, E291, TT4, C1, A89, EMS902</description>
-      <guid isPermaLink="false">2025-04-22 18:12:00</guid>
-      <pubDate>Tue, 22 Apr 2025 18:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
