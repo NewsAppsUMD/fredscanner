@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Apr 2025 22:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 23:02:14 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:39 pm</title>
+      <description>RT340WB / 5MM, RT340WB / 5MM Radio: 9C Units: BR55, FS20, 9C, BR205</description>
+      <guid isPermaLink="false">2025-04-26 18:39:00</guid>
+      <pubDate>Sat, 26 Apr 2025 18:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:52 pm</title>
       <description>300 BLOCK PROSPECT BLVD, Bldg:A, CASCADES OF FREDERICK Radio: 9C Units: 9C, TT4, E33</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK MANSION DR, PROSPECT HALL APARTMENTS - 900 BLOCK MANSION DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2025-04-24 19:15:00</guid>
       <pubDate>Thu, 24 Apr 2025 19:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9B Units: CCE12, E152, R15, A158, CCA18, FS15, 9B</description>
-      <guid isPermaLink="false">2025-04-24 18:14:00</guid>
-      <pubDate>Thu, 24 Apr 2025 18:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
