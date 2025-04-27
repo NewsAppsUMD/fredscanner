@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 08:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 08:35:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:30 am</title>
+      <description>9600 BLOCK DOCTOR PERRY RD, Apt/Unit:109, SUGARLOAF BUSINESS CENTER Radio: 9C Units: E232, E251, E331, TT23, A239, BC901, SAF901, CMD23, K23, K33, 9C</description>
+      <guid isPermaLink="false">2025-04-27 04:30:00</guid>
+      <pubDate>Sun, 27 Apr 2025 04:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:02 am</title>
+      <description>9600 BLOCK DOCTOR PERRY RD, Apt/Unit:109, SUGARLOAF BUSINESS CENTER Radio: 9C Units: E232, E251, E331, TT23, A239, BC901, SAF901, K23, 9C</description>
+      <guid isPermaLink="false">2025-04-27 04:02:00</guid>
+      <pubDate>Sun, 27 Apr 2025 04:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:54 am</title>
       <description>9600 BLOCK DOCTOR PERRY RD, Apt/Unit:109, SUGARLOAF BUSINESS CENTER Radio: 9C Units: E232, E251, E331, TT23, A239, BC901, SAF901, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>NEW WINDSOR RD / CLEMSONVILLE RD Radio: 9B Units: FS17, A179, E172, 9B</description>
       <guid isPermaLink="false">2025-04-25 15:55:00</guid>
       <pubDate>Fri, 25 Apr 2025 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:04 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Units: E11, A19, ALS4, BC901, EMS902, R3, A18</description>
-      <guid isPermaLink="false">2025-04-25 14:04:00</guid>
-      <pubDate>Fri, 25 Apr 2025 14:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:17 pm</title>
-      <description>3400 BLOCK URBANA PIKE, Bldg:D, KIDDIE ACADEMY OF URBANA Units: E331, E311, E152, R3, BC903, SAF901, FS23, PRE709, E232, TT4, A239, ALS23, BC901, TT23</description>
-      <guid isPermaLink="false">2025-04-25 12:17:00</guid>
-      <pubDate>Fri, 25 Apr 2025 12:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
