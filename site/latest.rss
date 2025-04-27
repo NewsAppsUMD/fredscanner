@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 21:31:25 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 5:24 pm</title>
+      <description>1800 BLOCK GREENLEESE DR N Units: CMD11, EK114, HM33, HMSU33, K1, A299, ALS2, SAF901, PE23, R24, BC902, E111</description>
+      <guid isPermaLink="false">2025-04-27 17:24:00</guid>
+      <pubDate>Sun, 27 Apr 2025 17:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 5:19 pm</title>
+      <description>1800 BLOCK GREENLEESE DR N Units: K1, FS11, EK114, PE23, R24</description>
+      <guid isPermaLink="false">2025-04-27 17:19:00</guid>
+      <pubDate>Sun, 27 Apr 2025 17:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 5:12 pm</title>
+      <description>1400 BLOCK KEY PKWY, Bldg:B, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Units: E11</description>
+      <guid isPermaLink="false">2025-04-27 17:12:00</guid>
+      <pubDate>Sun, 27 Apr 2025 17:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:12 pm</title>
       <description>1800 BLOCK ROHRERSVILLE RD Radio: TAC1OPS Units: RE52, A196, ALS20, TAC1OPS</description>
@@ -288,24 +306,6 @@
       <description>1100 BLOCK DAFFODIL DR Units: E11, TW1</description>
       <guid isPermaLink="false">2025-04-25 20:13:00</guid>
       <pubDate>Fri, 25 Apr 2025 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 8:07 pm</title>
-      <description>100 BLOCK HAMILTON AVE Units: E331, E33, TT4</description>
-      <guid isPermaLink="false">2025-04-25 20:07:00</guid>
-      <pubDate>Fri, 25 Apr 2025 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:05 pm</title>
-      <description>300 BLOCK KENWOOD CT Units: R24, Q11, BC901, SAF901, E111, E162, E91, A249, FS11, ALS17, BC902, E172, E221, R2</description>
-      <guid isPermaLink="false">2025-04-25 20:05:00</guid>
-      <pubDate>Fri, 25 Apr 2025 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:21 pm</title>
-      <description>I70EB / RT40 (FRED), I70EB / RT40 Units: E82, E121</description>
-      <guid isPermaLink="false">2025-04-25 19:21:00</guid>
-      <pubDate>Fri, 25 Apr 2025 19:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
