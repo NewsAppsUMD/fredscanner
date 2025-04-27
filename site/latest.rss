@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Apr 2025 21:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 22:02:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:58 pm</title>
+      <description>4600 BLOCK-A LANDER RD Units: E201, T5</description>
+      <guid isPermaLink="false">2025-04-27 17:58:00</guid>
+      <pubDate>Sun, 27 Apr 2025 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:56 pm</title>
+      <description>SPRUCE RUN RD / RT17, SPRUCE RUN RD / RT17 Units: BR216, FS21</description>
+      <guid isPermaLink="false">2025-04-27 17:56:00</guid>
+      <pubDate>Sun, 27 Apr 2025 17:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:24 pm</title>
       <description>1800 BLOCK GREENLEESE DR N Units: CMD11, EK114, HM33, HMSU33, K1, A299, ALS2, SAF901, PE23, R24, BC902, E111</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK MILLBANK CT Units: E11</description>
       <guid isPermaLink="false">2025-04-25 21:05:00</guid>
       <pubDate>Fri, 25 Apr 2025 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:32 pm</title>
-      <description>3300 BLOCK YORKSHIRE CT Units: E141, E232, TT23, FS14</description>
-      <guid isPermaLink="false">2025-04-25 20:32:00</guid>
-      <pubDate>Fri, 25 Apr 2025 20:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:13 pm</title>
-      <description>1100 BLOCK DAFFODIL DR Units: E11, TW1</description>
-      <guid isPermaLink="false">2025-04-25 20:13:00</guid>
-      <pubDate>Fri, 25 Apr 2025 20:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
