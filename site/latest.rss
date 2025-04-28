@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 12:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 12:44:32 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:24 am</title>
+      <description>JEFFERSON PIKE / COPPERFIELD DR Units: FS20, BR205</description>
+      <guid isPermaLink="false">2025-04-28 08:24:00</guid>
+      <pubDate>Mon, 28 Apr 2025 08:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:24 am</title>
+      <description>OLD NATIONAL PIKE / EDGEMONT RD Units: E121, A129, FS12</description>
+      <guid isPermaLink="false">2025-04-28 08:24:00</guid>
+      <pubDate>Mon, 28 Apr 2025 08:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:53 am</title>
       <description>I270SB / BAKER VALLEY RD, I270SB / BAKER VALLEY RD Radio: 9B Units: E232, PE311, TT23, R3, A319, A239, FS31, 9B</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Units: TT23, FS14, E141</description>
       <guid isPermaLink="false">2025-04-26 08:42:00</guid>
       <pubDate>Sat, 26 Apr 2025 08:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:12 am</title>
-      <description>E NINTH ST / PINE AVE Units: A28, PE23</description>
-      <guid isPermaLink="false">2025-04-26 08:12:00</guid>
-      <pubDate>Sat, 26 Apr 2025 08:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:33 am</title>
-      <description>2400 BLOCK WHITTIER DR, WHITTIER LAKE PARK Units: E11</description>
-      <guid isPermaLink="false">2025-04-26 07:33:00</guid>
-      <pubDate>Sat, 26 Apr 2025 07:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
