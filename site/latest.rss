@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 22:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 23:02:02 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 6:44 pm</title>
+      <description>1100 BLOCK KEY PKWY, Apt/Unit:102, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9B Units: A18, ALS4, 9B, E232, EMS902</description>
+      <guid isPermaLink="false">2025-04-28 18:44:00</guid>
+      <pubDate>Mon, 28 Apr 2025 18:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:42 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD Radio: 9C Units: TT23, FS14, 9C, E281</description>
+      <guid isPermaLink="false">2025-04-28 18:42:00</guid>
+      <pubDate>Mon, 28 Apr 2025 18:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 6:24 pm</title>
       <description>RT85 / MICHAELS MILL RD, RT85 / MICHAELS MILL RD Units: R14, A149, E152, ALS31, BC901, EMS900, FS14</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK LONGS MILL RD Radio: 9B Units: E132, BC902, EMS902, A169, ALS30, 9B</description>
       <guid isPermaLink="false">2025-04-27 10:38:00</guid>
       <pubDate>Sun, 27 Apr 2025 10:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>POLICE INCIDENT - EMS STANDBY: 10:32 am</title>
-      <description>10000 BLOCK LONGS MILL RD Radio: 9B Units: E132, BC902, EMS902, FS13, A169, ALS30, 9B</description>
-      <guid isPermaLink="false">2025-04-27 10:32:00</guid>
-      <pubDate>Sun, 27 Apr 2025 10:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL DELIVERY VEHICLE FIRE: 6:52 am</title>
-      <description>I70EB / MOUNT PHILLIP RD, I70EB / MOUNT PHILLIP RD Units: BC903, E121, E33, FS12</description>
-      <guid isPermaLink="false">2025-04-27 06:52:00</guid>
-      <pubDate>Sun, 27 Apr 2025 06:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
