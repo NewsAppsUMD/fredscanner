@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 15:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 16:02:27 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:50 am</title>
+      <description>OLD CATOCTIN RD / STOTTLEMYER RD Radio: 9C Units: BR216, 9C, PE102, FS21</description>
+      <guid isPermaLink="false">2025-04-28 11:50:00</guid>
+      <pubDate>Mon, 28 Apr 2025 11:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:50 am</title>
+      <description>OLD CATOCTIN RD / STOTTLEMYER RD Radio: 9C Units: BR216, 9C</description>
+      <guid isPermaLink="false">2025-04-28 11:50:00</guid>
+      <pubDate>Mon, 28 Apr 2025 11:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:44 am</title>
+      <description>OLD CATOCTIN RD / STOTTLEMYER RD Radio: 9C Units: BR216, FS21, 9C</description>
+      <guid isPermaLink="false">2025-04-28 11:44:00</guid>
+      <pubDate>Mon, 28 Apr 2025 11:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:43 am</title>
+      <description>14800 BLOCK INGALLS CT Radio: 6DTAC11 Units: E281</description>
+      <guid isPermaLink="false">2025-04-28 11:43:00</guid>
+      <pubDate>Mon, 28 Apr 2025 11:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:32 am</title>
       <description>200 BLOCK E SIXTH ST, IN THE ALLY BEHIND THIS ADDRESS Radio: 9C Units: PE23, 9C</description>
@@ -282,30 +306,6 @@
       <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9B Units: PE102, 9B, A309</description>
       <guid isPermaLink="false">2025-04-26 14:39:00</guid>
       <pubDate>Sat, 26 Apr 2025 14:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:42 pm</title>
-      <description>100 BLOCK CUMMINGS DR, BRUNSWICK HIGH SCHOOL Radio: 9C Units: E51, T5, K5, 9C</description>
-      <guid isPermaLink="false">2025-04-26 13:42:00</guid>
-      <pubDate>Sat, 26 Apr 2025 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:37 pm</title>
-      <description>100 BLOCK CUMMINGS DR, BRUNSWICK HIGH SCHOOL Radio: 9C Units: E51, T5, FS05, 9C</description>
-      <guid isPermaLink="false">2025-04-26 13:37:00</guid>
-      <pubDate>Sat, 26 Apr 2025 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:01 pm</title>
-      <description>1200 BLOCK APOLLO DR Units: E291, FS29</description>
-      <guid isPermaLink="false">2025-04-26 13:01:00</guid>
-      <pubDate>Sat, 26 Apr 2025 13:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:06 pm</title>
-      <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Units: E11</description>
-      <guid isPermaLink="false">2025-04-26 12:06:00</guid>
-      <pubDate>Sat, 26 Apr 2025 12:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
