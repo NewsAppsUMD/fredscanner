@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 13:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 13:43:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:26 am</title>
+      <description>6200 BLOCK TANEYTOWN PIKE Units: A68, A69, R6</description>
+      <guid isPermaLink="false">2025-04-28 09:26:00</guid>
+      <pubDate>Mon, 28 Apr 2025 09:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:20 am</title>
+      <description>BUCKEYSTOWN PIKE / 270N BTWN RT 85N OFF RAMP &amp; RT 85N ON RAMP HWY Radio: 9B Units: A239, PE311, FS23, 9B</description>
+      <guid isPermaLink="false">2025-04-28 09:20:00</guid>
+      <pubDate>Mon, 28 Apr 2025 09:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:24 am</title>
       <description>JEFFERSON PIKE / COPPERFIELD DR Units: FS20, BR205</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E MAIN ST Units: BR106</description>
       <guid isPermaLink="false">2025-04-26 10:07:00</guid>
       <pubDate>Sat, 26 Apr 2025 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:25 am</title>
-      <description>1500 BLOCK OPOSSUMTOWN PIKE, HAMPTON INN - OPOSSUMTOWN PIKE Units: FS29, R2, E291</description>
-      <guid isPermaLink="false">2025-04-26 09:25:00</guid>
-      <pubDate>Sat, 26 Apr 2025 09:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:42 am</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Units: TT23, FS14, E141</description>
-      <guid isPermaLink="false">2025-04-26 08:42:00</guid>
-      <pubDate>Sat, 26 Apr 2025 08:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
