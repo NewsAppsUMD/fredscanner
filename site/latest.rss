@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 20:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 20:33:08 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:19 pm</title>
+      <description>I270SB / RT85(RT85), I270SB / RT85 Radio: 9B Units: A18, E11, 9B</description>
+      <guid isPermaLink="false">2025-04-28 16:19:00</guid>
+      <pubDate>Mon, 28 Apr 2025 16:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:40 pm</title>
       <description>I70WB / 67MM, I70WB / 67MM Radio: 9D Units: A158, CCM18, BC903, EMS901, CCR1, 9D, HCRE4, E152</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK ARTILLERY RD Units: TT4, A299, E291, R2, T50, ALS29, BC902, BC901, SAF901, FS29, E11, E501, E221, E33</description>
       <guid isPermaLink="false">2025-04-26 16:03:00</guid>
       <pubDate>Sat, 26 Apr 2025 16:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:08 pm</title>
-      <description>STEINER SMITH RD / DUBLIN RD Radio: 9I Units: E162, R24, A169, ALS17, FS16, 9I, EMS901</description>
-      <guid isPermaLink="false">2025-04-26 15:08:00</guid>
-      <pubDate>Sat, 26 Apr 2025 15:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
