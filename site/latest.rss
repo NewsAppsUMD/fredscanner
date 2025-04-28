@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 21:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 22:01:58 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:59 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: K7, RE52</description>
+      <guid isPermaLink="false">2025-04-28 17:59:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:58 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
+      <guid isPermaLink="false">2025-04-28 17:58:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:55 pm</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E102</description>
+      <guid isPermaLink="false">2025-04-28 17:55:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:51 pm</title>
+      <description>6900 BLOCK GREENVALE CT Units: EMS902, R3, K1, SAF901, C950, C11, E291, E501, E11, E31, EK114, R2, K23, C3B, E111, T50, K33, EK204, A299, ALS29, BC902, BC903, C1</description>
+      <guid isPermaLink="false">2025-04-28 17:51:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:46 pm</title>
+      <description>POOLE JONES RD / RUNNYMEADE DR Units: R3, K1, SAF901, FS29, E291, E501, E11, E31, EK114, R2, E111, T50, K33, EK204, A299, ALS29, BC902, BC903</description>
+      <guid isPermaLink="false">2025-04-28 17:46:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 5:45 pm</title>
+      <description>RUNNYMEADE DR / POOLE JONES RD Radio: 9C Units: 9C, E291, FS29</description>
+      <guid isPermaLink="false">2025-04-28 17:45:00</guid>
+      <pubDate>Mon, 28 Apr 2025 17:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:29 pm</title>
       <description>WATER STREET RD / DAYSVILLE RD Radio: 9C Units: 9C, BR116, FS11</description>
@@ -270,42 +306,6 @@
       <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9D Units: EMS901, FS15, 9D, E152, BC901, CCE12, R15, A158, CCM18</description>
       <guid isPermaLink="false">2025-04-27 02:03:00</guid>
       <pubDate>Sun, 27 Apr 2025 02:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:27 am</title>
-      <description>3300 BLOCK GALENA DR, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E232, TT23, FS23, 9C</description>
-      <guid isPermaLink="false">2025-04-27 00:27:00</guid>
-      <pubDate>Sun, 27 Apr 2025 00:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:32 pm</title>
-      <description>7100 BLOCK FISH HATCHERY RD Radio: 9C Units: BR226, 9C</description>
-      <guid isPermaLink="false">2025-04-26 23:32:00</guid>
-      <pubDate>Sat, 26 Apr 2025 23:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:37 pm</title>
-      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: TT4, FS33, 9C, E331</description>
-      <guid isPermaLink="false">2025-04-26 20:37:00</guid>
-      <pubDate>Sat, 26 Apr 2025 20:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 8:34 pm</title>
-      <description>2000 BLOCK CHAMBERLAIN DR Radio: 9C Units: FS29, 9C, E291</description>
-      <guid isPermaLink="false">2025-04-26 20:34:00</guid>
-      <pubDate>Sat, 26 Apr 2025 20:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 7:23 pm</title>
-      <description>1500 BLOCK CRAMPTON ST Radio: 9C Units: E51, E201, T5, FS05, 9C</description>
-      <guid isPermaLink="false">2025-04-26 19:23:00</guid>
-      <pubDate>Sat, 26 Apr 2025 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:00 pm</title>
-      <description>CRESTWOOD BLVD / NEW DESIGN RD Units: PE311, FS31, A318</description>
-      <guid isPermaLink="false">2025-04-26 19:00:00</guid>
-      <pubDate>Sat, 26 Apr 2025 19:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
