@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 19:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 19:31:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:02 pm</title>
+      <description>10200 BLOCK CLARK RD, CATOCTIN FISH AND GAME CLUB Radio: 9C Units: E82, WCT6, 9C</description>
+      <guid isPermaLink="false">2025-04-28 15:02:00</guid>
+      <pubDate>Mon, 28 Apr 2025 15:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 1:25 pm</title>
       <description>300 BLOCK W C ST Radio: 9C Units: PE612B, T5, FS05, 9C, RE52</description>
@@ -300,12 +306,6 @@
       <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9D Units: BR106, 9D</description>
       <guid isPermaLink="false">2025-04-26 15:02:00</guid>
       <pubDate>Sat, 26 Apr 2025 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 3:00 pm</title>
-      <description>RT77 / HUNTING CREEK, RT77 / HUNTING CREEK Radio: 9B Units: CMD10, R10, EMS902, 9B, BC902, E221, SU51, E61, ALS30, E102, A309</description>
-      <guid isPermaLink="false">2025-04-26 15:00:00</guid>
-      <pubDate>Sat, 26 Apr 2025 15:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
