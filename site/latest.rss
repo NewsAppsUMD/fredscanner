@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Apr 2025 20:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 21:01:56 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:57 pm</title>
+      <description>ROPP LN / FAIRBROOK LN Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2025-04-28 16:57:00</guid>
+      <pubDate>Mon, 28 Apr 2025 16:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
+      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9B Units: E201, R3, A18, A209, 9B, E11</description>
+      <guid isPermaLink="false">2025-04-28 16:54:00</guid>
+      <pubDate>Mon, 28 Apr 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:49 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, FS12, A129, 9B</description>
+      <guid isPermaLink="false">2025-04-28 16:49:00</guid>
+      <pubDate>Mon, 28 Apr 2025 16:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:19 pm</title>
       <description>I270SB / RT85(RT85), I270SB / RT85 Radio: 9B Units: A18, E11, 9B</description>
@@ -288,24 +306,6 @@
       <description>BEALLS FARM RD / SPRIGG ST N Radio: 9C Units: E232, 9C</description>
       <guid isPermaLink="false">2025-04-26 17:50:00</guid>
       <pubDate>Sat, 26 Apr 2025 17:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:29 pm</title>
-      <description>600 BLOCK FRANCIS SCOTT KEY HWY Radio: CCA2 Units: K9, CCA2</description>
-      <guid isPermaLink="false">2025-04-26 17:29:00</guid>
-      <pubDate>Sat, 26 Apr 2025 17:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:05 pm</title>
-      <description>2100 BLOCK ARTILLERY RD Radio: 9D Units: C3B, TT4, A299, EMS902, E291, T50, ALS29, BC902, BC901, SAF901, E11, E501, E221, R3, 9D, E33</description>
-      <guid isPermaLink="false">2025-04-26 16:05:00</guid>
-      <pubDate>Sat, 26 Apr 2025 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:03 pm</title>
-      <description>2100 BLOCK ARTILLERY RD Units: TT4, A299, E291, R2, T50, ALS29, BC902, BC901, SAF901, FS29, E11, E501, E221, E33</description>
-      <guid isPermaLink="false">2025-04-26 16:03:00</guid>
-      <pubDate>Sat, 26 Apr 2025 16:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
