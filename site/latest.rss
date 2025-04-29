@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 17:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 17:34:06 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:12 pm</title>
+      <description>7500 BLOCK GREEN VALLEY RD, HIDDEN HILLS FARM AND VINEYARD Radio: 9C Units: 9C, E172, Q11, FS17</description>
+      <guid isPermaLink="false">2025-04-29 13:12:00</guid>
+      <pubDate>Tue, 29 Apr 2025 13:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:58 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9D Units: C23, CMD23, 9D, E232, TT23, A239, EMS901, A149, SAF901, ALS23, BC901, A259</description>
+      <guid isPermaLink="false">2025-04-29 12:58:00</guid>
+      <pubDate>Tue, 29 Apr 2025 12:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:54 pm</title>
       <description>URBANA PIKE / PARK MILLS RD Radio: 9D Units: EMS900, FS23, 9D, E232, TT23, R3, A239, SAF901, ALS23, BC901, A259</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK E SIXTH ST, IN THE ALLY BEHIND THIS ADDRESS Radio: 9C Units: PE23, 9C</description>
       <guid isPermaLink="false">2025-04-28 10:32:00</guid>
       <pubDate>Mon, 28 Apr 2025 10:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:31 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, VALUE CITY FURNITURE - FRANCIS SCOTT KEY MALL Radio: 9C Units: PE311, 9C, TT4, FS31</description>
-      <guid isPermaLink="false">2025-04-28 10:31:00</guid>
-      <pubDate>Mon, 28 Apr 2025 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:56 am</title>
-      <description>100 BLOCK SMITHFIELD DR Radio: 9C Units: E72, 9C</description>
-      <guid isPermaLink="false">2025-04-28 09:56:00</guid>
-      <pubDate>Mon, 28 Apr 2025 09:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
