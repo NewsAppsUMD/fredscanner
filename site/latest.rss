@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 16:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 17:01:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:54 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9D Units: EMS900, FS23, 9D, E232, TT23, R3, A239, SAF901, ALS23, BC901, A259</description>
+      <guid isPermaLink="false">2025-04-29 12:54:00</guid>
+      <pubDate>Tue, 29 Apr 2025 12:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:53 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9D Units: EMS900, FS23, 9D, E232, TT23, R3, A239, ALS23, BC901</description>
+      <guid isPermaLink="false">2025-04-29 12:53:00</guid>
+      <pubDate>Tue, 29 Apr 2025 12:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:38 am</title>
       <description>100 BLOCK E ALL SAINTS ST, SCHAEFER BUILDING Radio: 9C Units: E31, TT4, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SMITHFIELD DR Radio: 9C Units: E72, 9C</description>
       <guid isPermaLink="false">2025-04-28 09:56:00</guid>
       <pubDate>Mon, 28 Apr 2025 09:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:26 am</title>
-      <description>6200 BLOCK TANEYTOWN PIKE Units: A68, A69, R6</description>
-      <guid isPermaLink="false">2025-04-28 09:26:00</guid>
-      <pubDate>Mon, 28 Apr 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:20 am</title>
-      <description>BUCKEYSTOWN PIKE / 270N BTWN RT 85N OFF RAMP &amp; RT 85N ON RAMP HWY Radio: 9B Units: A239, PE311, FS23, 9B</description>
-      <guid isPermaLink="false">2025-04-28 09:20:00</guid>
-      <pubDate>Mon, 28 Apr 2025 09:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
