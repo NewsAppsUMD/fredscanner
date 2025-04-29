@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 13:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 14:02:29 +0000</lastBuildDate>
+    <item>
+      <title>REKINDLE: 9:58 am</title>
+      <description>6900 BLOCK GREENVALE CT Radio: 9C Units: 9C, FS29, E11</description>
+      <guid isPermaLink="false">2025-04-29 09:58:00</guid>
+      <pubDate>Tue, 29 Apr 2025 09:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 9:40 am</title>
+      <description>300 BLOCK N MARKET ST, Apt/Unit:D Radio: 9C Units: R3, 9C</description>
+      <guid isPermaLink="false">2025-04-29 09:40:00</guid>
+      <pubDate>Tue, 29 Apr 2025 09:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:38 am</title>
+      <description>22700 BLOCK FREDERICK RD Radio: 7A1 Units: TT23</description>
+      <guid isPermaLink="false">2025-04-29 09:38:00</guid>
+      <pubDate>Tue, 29 Apr 2025 09:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:31 am</title>
       <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: TT4, FS33, 9C, E331</description>
@@ -288,24 +306,6 @@
       <description>OLD NATIONAL PIKE / EDGEMONT RD Units: E121, A129, FS12</description>
       <guid isPermaLink="false">2025-04-28 08:24:00</guid>
       <pubDate>Mon, 28 Apr 2025 08:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:53 am</title>
-      <description>I270SB / BAKER VALLEY RD, I270SB / BAKER VALLEY RD Radio: 9B Units: E232, PE311, TT23, R3, A319, A239, FS31, 9B</description>
-      <guid isPermaLink="false">2025-04-28 07:53:00</guid>
-      <pubDate>Mon, 28 Apr 2025 07:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:53 am</title>
-      <description>6800 BLOCK SOUTHRIDGE WAY Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-04-28 01:53:00</guid>
-      <pubDate>Mon, 28 Apr 2025 01:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:08 pm</title>
-      <description>8000 BLOCK ROCKY SPRINGS RD Units: A299, E11</description>
-      <guid isPermaLink="false">2025-04-27 20:08:00</guid>
-      <pubDate>Sun, 27 Apr 2025 20:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
