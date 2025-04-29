@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Apr 2025 03:40:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 04:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:42 pm</title>
+      <description>12700 BLOCK FINGERBOARD RD Units: FS25, A259, E251</description>
+      <guid isPermaLink="false">2025-04-28 23:42:00</guid>
+      <pubDate>Mon, 28 Apr 2025 23:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 8:47 pm</title>
       <description>200 BLOCK E FOURTH ST Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK ROHRERSVILLE RD Radio: TAC1OPS Units: RE52, A196, ALS20, TAC1OPS</description>
       <guid isPermaLink="false">2025-04-27 16:12:00</guid>
       <pubDate>Sun, 27 Apr 2025 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:21 pm</title>
-      <description>9600 BLOCK DOCTOR PERRY RD, Apt/Unit:105, SUGARLOAF BUSINESS CENTER Radio: 9C Units: E232, FS23, 9C</description>
-      <guid isPermaLink="false">2025-04-27 13:21:00</guid>
-      <pubDate>Sun, 27 Apr 2025 13:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
