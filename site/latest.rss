@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 09:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 10:02:24 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:51 am</title>
+      <description>WEST OAK DR / MOLETON DR Radio: 9B Units: A259, E251, FS25, 9B</description>
+      <guid isPermaLink="false">2025-04-30 05:51:00</guid>
+      <pubDate>Wed, 30 Apr 2025 05:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 4:03 am</title>
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: TT4, E331, 9C, K23, E31, K33</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCKC STARK ST Radio: 9C Units: E501, E11, T50, BC950, FS50, 9C</description>
       <guid isPermaLink="false">2025-04-28 17:24:00</guid>
       <pubDate>Mon, 28 Apr 2025 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:15 pm</title>
-      <description>300 BLOCK N MARKET ST, GALE HOUSE Radio: 9C Units: E31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-04-28 17:15:00</guid>
-      <pubDate>Mon, 28 Apr 2025 17:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
