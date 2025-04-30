@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 07:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 07:32:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:28 am</title>
+      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: TT4, E331, 9C, E31, K33</description>
+      <guid isPermaLink="false">2025-04-30 03:28:00</guid>
+      <pubDate>Wed, 30 Apr 2025 03:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:10 am</title>
+      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E331, FS33, 9C, E31, K33</description>
+      <guid isPermaLink="false">2025-04-30 03:10:00</guid>
+      <pubDate>Wed, 30 Apr 2025 03:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:10 am</title>
       <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E232, TT23, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>ROPP LN / FAIRBROOK LN Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2025-04-28 16:57:00</guid>
       <pubDate>Mon, 28 Apr 2025 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
-      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9B Units: E201, R3, A18, A209, 9B, E11</description>
-      <guid isPermaLink="false">2025-04-28 16:54:00</guid>
-      <pubDate>Mon, 28 Apr 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:49 pm</title>
-      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, FS12, A129, 9B</description>
-      <guid isPermaLink="false">2025-04-28 16:49:00</guid>
-      <pubDate>Mon, 28 Apr 2025 16:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
