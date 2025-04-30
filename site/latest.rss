@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 18:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 19:01:40 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:52 pm</title>
+      <description>5500 BLOCK HAYLOFT CT Radio: 9C Units: E121, FS20, 9C</description>
+      <guid isPermaLink="false">2025-04-30 14:52:00</guid>
+      <pubDate>Wed, 30 Apr 2025 14:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:55 pm</title>
       <description>4600 BLOCK LANDER RD, STATION 20 Units: E152</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
       <guid isPermaLink="false">2025-04-28 17:58:00</guid>
       <pubDate>Mon, 28 Apr 2025 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:55 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E102</description>
-      <guid isPermaLink="false">2025-04-28 17:55:00</guid>
-      <pubDate>Mon, 28 Apr 2025 17:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
