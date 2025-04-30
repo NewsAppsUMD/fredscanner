@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 20:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 20:34:21 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:23 pm</title>
+      <description>BUCKEYSTOWN PIKE / PEGASUS CT Radio: 9B Units: A38, R3, FS31, 9B</description>
+      <guid isPermaLink="false">2025-04-30 16:23:00</guid>
+      <pubDate>Wed, 30 Apr 2025 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:04 pm</title>
+      <description>RT550 / LONGS MILL RD, RT550 / LONGS MILL RD Radio: 9B Units: E162, FS16, 9B, A169</description>
+      <guid isPermaLink="false">2025-04-30 16:04:00</guid>
+      <pubDate>Wed, 30 Apr 2025 16:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:14 pm</title>
       <description>100 BLOCK S MAIN ST, STATION AC006 - BIGLERVILLE FIRE HOSE AND TRUCK COMPANY #1 Units: EK64</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E232, K7</description>
       <guid isPermaLink="false">2025-04-28 18:03:00</guid>
       <pubDate>Mon, 28 Apr 2025 18:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:01 pm</title>
-      <description>6900 BLOCK GREENVALE CT Units: EMS902, R3, K1, SAF901, C950, C11, E291, CMD29, E501, E11, E31, EK114, R2, C3B, E111, T50, K33, EK204, A299, ALS29, BC902, BC903, C2B, PE311, C1</description>
-      <guid isPermaLink="false">2025-04-28 18:01:00</guid>
-      <pubDate>Mon, 28 Apr 2025 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:59 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: K7, RE52</description>
-      <guid isPermaLink="false">2025-04-28 17:59:00</guid>
-      <pubDate>Mon, 28 Apr 2025 17:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
