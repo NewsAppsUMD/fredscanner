@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Apr 2025 23:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 23:32:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:14 pm</title>
+      <description>RT15SB / SAINT ANTHONYS RD, RT15SB / SAINT ANTHONYS RD Radio: 9D Units: E61, R6, BC902, EMS902, FS06, 9D, PE102, A68</description>
+      <guid isPermaLink="false">2025-04-30 19:14:00</guid>
+      <pubDate>Wed, 30 Apr 2025 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:31 pm</title>
       <description>1900 BLOCK FIELDSTONE WAY Radio: 9C Units: 9C, E291, T50, FS29</description>
@@ -300,12 +306,6 @@
       <description>RT85 / MICHAELS MILL RD, RT85 / MICHAELS MILL RD Units: R14, A149, E152, ALS31, BC901, EMS900, FS14</description>
       <guid isPermaLink="false">2025-04-28 18:24:00</guid>
       <pubDate>Mon, 28 Apr 2025 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:06 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: EK134, E91</description>
-      <guid isPermaLink="false">2025-04-28 18:06:00</guid>
-      <pubDate>Mon, 28 Apr 2025 18:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
