@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 00:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:46:41 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:22 pm</title>
+      <description>SHOOKSTOWN RD / BOWERS RD Radio: 9D Units: E11, E121, E501, E291, E111, R3, T50, TT4, PRE709, BC903, SAF901, A38, BC902, 9D</description>
+      <guid isPermaLink="false">2025-04-30 20:22:00</guid>
+      <pubDate>Wed, 30 Apr 2025 20:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:14 pm</title>
       <description>RT15SB / SAINT ANTHONYS RD, RT15SB / SAINT ANTHONYS RD Radio: 9D Units: E61, R6, BC902, EMS902, FS06, 9D, PE102, A68</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK PLEASANT VIEW RD Radio: 9C Units: TT23, FS14, 9C, E281</description>
       <guid isPermaLink="false">2025-04-28 18:42:00</guid>
       <pubDate>Mon, 28 Apr 2025 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:24 pm</title>
-      <description>RT85 / MICHAELS MILL RD, RT85 / MICHAELS MILL RD Units: R14, A149, E152, ALS31, BC901, EMS900, FS14</description>
-      <guid isPermaLink="false">2025-04-28 18:24:00</guid>
-      <pubDate>Mon, 28 Apr 2025 18:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
