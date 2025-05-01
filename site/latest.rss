@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 16:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 16:37:26 +0000</lastBuildDate>
+    <item>
+      <title>ALERT 2 - MAJOR DIFFICULTY: 12:20 pm</title>
+      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: SAFBC900, E31, E111, EK204, R2, K33, K1, HM33, HMSU33, A319, A318, A248, K23, PE311, E11, R3, CMD3, ALS4, ALS31, BC901, SAF901, EMS902, C3, A18</description>
+      <guid isPermaLink="false">2025-05-01 12:20:00</guid>
+      <pubDate>Thu, 01 May 2025 12:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ALERT 2 - MAJOR DIFFICULTY: 12:15 pm</title>
+      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: E31, E111, R2, K33, K1, HM33, HMSU33, A319, A318, A169, PE311, E11, R3, ALS4, ALS31, BC901, SAF901, EMS902, A18</description>
+      <guid isPermaLink="false">2025-05-01 12:15:00</guid>
+      <pubDate>Thu, 01 May 2025 12:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:09 pm</title>
+      <description>200 BLOCK E FOURTH ST, THE GLASS FACTORY Units: E31, R2, A28, ALS2, EMS902</description>
+      <guid isPermaLink="false">2025-05-01 12:09:00</guid>
+      <pubDate>Thu, 01 May 2025 12:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:41 am</title>
       <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E232, TT23, FS23, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK E ALL SAINTS ST, SCHAEFER BUILDING Radio: 9C Units: E31, TT4, 9C</description>
       <guid isPermaLink="false">2025-04-29 11:38:00</guid>
       <pubDate>Tue, 29 Apr 2025 11:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 10:19 am</title>
-      <description>6900 BLOCK GREENVALE CT Radio: 9C Units: 9C, K1, E11</description>
-      <guid isPermaLink="false">2025-04-29 10:19:00</guid>
-      <pubDate>Tue, 29 Apr 2025 10:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 9:58 am</title>
-      <description>6900 BLOCK GREENVALE CT Radio: 9C Units: 9C, FS29, E11</description>
-      <guid isPermaLink="false">2025-04-29 09:58:00</guid>
-      <pubDate>Tue, 29 Apr 2025 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 9:40 am</title>
-      <description>300 BLOCK N MARKET ST, Apt/Unit:D Radio: 9C Units: R3, 9C</description>
-      <guid isPermaLink="false">2025-04-29 09:40:00</guid>
-      <pubDate>Tue, 29 Apr 2025 09:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
