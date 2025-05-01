@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 May 2025 00:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 01:30:02 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 9:03 pm</title>
+      <description>OLD NATIONAL PIKE / MOSER RD Units: R8</description>
+      <guid isPermaLink="false">2025-04-30 21:03:00</guid>
+      <pubDate>Wed, 30 Apr 2025 21:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:02 pm</title>
+      <description>BUCKEYSTOWN PIKE / FRANCIS SCOTT KEY DR Radio: 9B Units: A38, R3, 9B</description>
+      <guid isPermaLink="false">2025-04-30 21:02:00</guid>
+      <pubDate>Wed, 30 Apr 2025 21:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:55 pm</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: 9B, A299, E291, FS29</description>
+      <guid isPermaLink="false">2025-04-30 20:55:00</guid>
+      <pubDate>Wed, 30 Apr 2025 20:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:22 pm</title>
       <description>SHOOKSTOWN RD / BOWERS RD Radio: 9D Units: E11, E121, E501, E291, E111, R3, T50, TT4, PRE709, BC903, SAF901, A38, BC902, 9D</description>
@@ -288,24 +306,6 @@
       <description>17300 BLOCK N SETON AVE Units: BR65, FS06</description>
       <guid isPermaLink="false">2025-04-28 19:50:00</guid>
       <pubDate>Mon, 28 Apr 2025 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:16 pm</title>
-      <description>6900 BLOCK GREENVALE CT Units: R3, K1, SAF901, C11, E291, CMD29, E501, E11, E31, EK114, R2, E111, T50, K33, A299, ALS29, BC902, BC903, C2B, PE311, E121</description>
-      <guid isPermaLink="false">2025-04-28 19:16:00</guid>
-      <pubDate>Mon, 28 Apr 2025 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 6:44 pm</title>
-      <description>1100 BLOCK KEY PKWY, Apt/Unit:102, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9B Units: A18, ALS4, 9B, E232, EMS902</description>
-      <guid isPermaLink="false">2025-04-28 18:44:00</guid>
-      <pubDate>Mon, 28 Apr 2025 18:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:42 pm</title>
-      <description>2400 BLOCK PLEASANT VIEW RD Radio: 9C Units: TT23, FS14, 9C, E281</description>
-      <guid isPermaLink="false">2025-04-28 18:42:00</guid>
-      <pubDate>Mon, 28 Apr 2025 18:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
