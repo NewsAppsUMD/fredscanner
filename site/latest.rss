@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 01:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 02:13:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:51 pm</title>
+      <description>1200 BLOCK APOLLO DR Radio: 9C Units: 9C, E291, TW1, FS29</description>
+      <guid isPermaLink="false">2025-05-01 21:51:00</guid>
+      <pubDate>Thu, 01 May 2025 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:40 pm</title>
+      <description>E CHURCH ST / MONOCACY BLVD, **PH2** Radio: 9B Units: A28, PE23, 9B</description>
+      <guid isPermaLink="false">2025-05-01 21:40:00</guid>
+      <pubDate>Thu, 01 May 2025 21:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 8:45 pm</title>
       <description>200 BLOCK E FOURTH ST, CAFE BUENO Radio: 9D Units: A39, ALS2, 9D, PE23, EMS902</description>
@@ -294,18 +306,6 @@
       <description>2600 BLOCK CAMERON WAY Radio: 9C Units: 9C, E291, E111, Q11, FS29</description>
       <guid isPermaLink="false">2025-04-29 17:32:00</guid>
       <pubDate>Tue, 29 Apr 2025 17:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:19 pm</title>
-      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Radio: 9B Units: E11, A18, 9B</description>
-      <guid isPermaLink="false">2025-04-29 14:19:00</guid>
-      <pubDate>Tue, 29 Apr 2025 14:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 1:55 pm</title>
-      <description>100 BLOCK MOUNTAIN OVERLOOK DR Units: K5, BC903, RE52, EK204</description>
-      <guid isPermaLink="false">2025-04-29 13:55:00</guid>
-      <pubDate>Tue, 29 Apr 2025 13:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
