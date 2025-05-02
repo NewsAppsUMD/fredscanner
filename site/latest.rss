@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 18:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 18:38:08 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:32 pm</title>
+      <description>15000 BLOCK SABILLASVILLE RD Radio: 9C Units: BR106, 9C</description>
+      <guid isPermaLink="false">2025-05-02 14:32:00</guid>
+      <pubDate>Fri, 02 May 2025 14:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 1:49 pm</title>
       <description>1300 BLOCK MOTTER AVE, Apt/Unit:81, FREDERICK GREENES APTS Radio: 9C Units: 9C, PE23, E31, TW1</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / PEGASUS CT Radio: 9B Units: A38, R3, FS31, 9B</description>
       <guid isPermaLink="false">2025-04-30 16:23:00</guid>
       <pubDate>Wed, 30 Apr 2025 16:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:04 pm</title>
-      <description>RT550 / LONGS MILL RD, RT550 / LONGS MILL RD Radio: 9B Units: E162, FS16, 9B, A169</description>
-      <guid isPermaLink="false">2025-04-30 16:04:00</guid>
-      <pubDate>Wed, 30 Apr 2025 16:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
