@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 10:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 10:36:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:10 am</title>
+      <description>ROCKY RIDGE RD / SUNNY WAY Radio: 9B Units: PE102, EMS902, R10, A309, ALS30, 9B</description>
+      <guid isPermaLink="false">2025-05-02 06:10:00</guid>
+      <pubDate>Fri, 02 May 2025 06:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:12 am</title>
       <description>3600 BLOCK URBANA PIKE, STATION 23 Units: E121</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: TT4, E331, 9C, E31, K33</description>
       <guid isPermaLink="false">2025-04-30 03:28:00</guid>
       <pubDate>Wed, 30 Apr 2025 03:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 3:10 am</title>
-      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E331, FS33, 9C, E31, K33</description>
-      <guid isPermaLink="false">2025-04-30 03:10:00</guid>
-      <pubDate>Wed, 30 Apr 2025 03:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
