@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 May 2025 12:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 12:43:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:24 am</title>
+      <description>GRUBER RD / WOODSBORO PIKE Radio: 9C Units: E162, BR96, 9C</description>
+      <guid isPermaLink="false">2025-05-02 08:24:00</guid>
+      <pubDate>Fri, 02 May 2025 08:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:20 am</title>
+      <description>7400 BLOCK NEW HORIZON WAY, US DEPARTMENT OF VETERANS AFFAIRS Radio: 9C Units: R3, 9C</description>
+      <guid isPermaLink="false">2025-05-02 08:20:00</guid>
+      <pubDate>Fri, 02 May 2025 08:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:19 am</title>
+      <description>GRUBER RD / WOODSBORO PIKE Radio: 9C Units: BR96, FS09, 9C</description>
+      <guid isPermaLink="false">2025-05-02 08:19:00</guid>
+      <pubDate>Fri, 02 May 2025 08:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:11 am</title>
+      <description>600 BLOCK WILSON PL Radio: 9C Units: E11, PE23, T50, 9C</description>
+      <guid isPermaLink="false">2025-05-02 08:11:00</guid>
+      <pubDate>Fri, 02 May 2025 08:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:10 am</title>
       <description>ROCKY RIDGE RD / SUNNY WAY Radio: 9B Units: PE102, EMS902, R10, A309, ALS30, 9B</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK CONCORD DR Units: E201, AE612B, JCRE1, R19, TW7, R20, A196, ALS4, BC901, BC903, SAF901, FS05, RE52, E281</description>
       <guid isPermaLink="false">2025-04-30 13:33:00</guid>
       <pubDate>Wed, 30 Apr 2025 13:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:29 am</title>
-      <description>NEW DESIGN RD / HARSHMAN WAY Radio: 9B Units: A319, 9B, PE311, FS31</description>
-      <guid isPermaLink="false">2025-04-30 07:29:00</guid>
-      <pubDate>Wed, 30 Apr 2025 07:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:51 am</title>
-      <description>WEST OAK DR / MOLETON DR Radio: 9B Units: A259, E251, FS25, 9B</description>
-      <guid isPermaLink="false">2025-04-30 05:51:00</guid>
-      <pubDate>Wed, 30 Apr 2025 05:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 4:03 am</title>
-      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: TT4, E331, 9C, K23, E31, K33</description>
-      <guid isPermaLink="false">2025-04-30 04:03:00</guid>
-      <pubDate>Wed, 30 Apr 2025 04:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 3:28 am</title>
-      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: TT4, E331, 9C, E31, K33</description>
-      <guid isPermaLink="false">2025-04-30 03:28:00</guid>
-      <pubDate>Wed, 30 Apr 2025 03:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
