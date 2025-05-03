@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 May 2025 21:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 21:31:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
+      <description>1500 BLOCK ANDOVER LN Units: A129, E121, FS12</description>
+      <guid isPermaLink="false">2025-05-03 16:59:00</guid>
+      <pubDate>Sat, 03 May 2025 16:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:44 pm</title>
       <description>I70EB / WEIGH STATION (NEWM), I70EB / WEIGH STATION Units: CCE12, FS15, E152</description>
@@ -300,12 +306,6 @@
       <description>N CHURCH ST / WOODSIDE AVE Units: A309, E102</description>
       <guid isPermaLink="false">2025-05-01 13:37:00</guid>
       <pubDate>Thu, 01 May 2025 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ALERT 2 - MAJOR DIFFICULTY: 12:20 pm</title>
-      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: SAFBC900, E31, E111, EK204, R2, K33, K1, HM33, HMSU33, A319, A318, A248, K23, PE311, E11, R3, CMD3, ALS4, ALS31, BC901, SAF901, EMS902, C3, A18</description>
-      <guid isPermaLink="false">2025-05-01 12:20:00</guid>
-      <pubDate>Thu, 01 May 2025 12:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
