@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 May 2025 17:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 17:32:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
+      <description>7600 BLOCK BALTIMORE NATIONAL PIKE PIKE Units: A129, E121, FS12</description>
+      <guid isPermaLink="false">2025-05-03 13:21:00</guid>
+      <pubDate>Sat, 03 May 2025 13:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:22 pm</title>
       <description>1700 BLOCK CASTLE ROCK RD Units: FS11, E111</description>
@@ -300,12 +306,6 @@
       <description>11900 BLOCK BEAVER DAM RD Units: E91, E172, CCE81, CCLDR5, CCEK84, CCA89, BC901, SAF901, FS09</description>
       <guid isPermaLink="false">2025-05-01 04:59:00</guid>
       <pubDate>Thu, 01 May 2025 04:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:02 pm</title>
-      <description>200 BLOCK MADISON ST, Bldg:1, CARVER APTS BUILDING 1 Radio: 9B Units: A38, E31, 9B</description>
-      <guid isPermaLink="false">2025-04-30 23:02:00</guid>
-      <pubDate>Wed, 30 Apr 2025 23:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
