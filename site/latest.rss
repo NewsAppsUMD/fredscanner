@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 11:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 11:31:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:14 am</title>
+      <description>600 BLOCK TIVOLI RD Radio: 9C Units: TW1, PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-05-04 07:14:00</guid>
+      <pubDate>Sun, 04 May 2025 07:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 4:24 am</title>
       <description>5200 BLOCK MUSSETTER RD Units: E152, E331, R15, FS15</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK WILSON PL Radio: 9C Units: E11, PE23, T50, 9C</description>
       <guid isPermaLink="false">2025-05-02 08:11:00</guid>
       <pubDate>Fri, 02 May 2025 08:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:10 am</title>
-      <description>ROCKY RIDGE RD / SUNNY WAY Radio: 9B Units: PE102, EMS902, R10, A309, ALS30, 9B</description>
-      <guid isPermaLink="false">2025-05-02 06:10:00</guid>
-      <pubDate>Fri, 02 May 2025 06:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
