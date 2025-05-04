@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 18:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 18:36:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:05 pm</title>
+      <description>RT40 / BOWERS RD (W), RT40 / BOWERS RD Units: E121, FS12, A129</description>
+      <guid isPermaLink="false">2025-05-04 14:05:00</guid>
+      <pubDate>Sun, 04 May 2025 14:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:15 pm</title>
       <description>500 BLOCK EISENHOWER DR Units: E11</description>
@@ -300,12 +306,6 @@
       <description>4200 BLOCK GARFIELD RD Radio: 9D Units: WCE71, WCRE7, R10, WCM791, E212, EMS902, FS21, BC902, 9D</description>
       <guid isPermaLink="false">2025-05-02 16:12:00</guid>
       <pubDate>Fri, 02 May 2025 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:41 pm</title>
-      <description>1900 BLOCK N MARKET ST, Bldg:1162, FORT DETRICK - BLDG 1162 Radio: 9C Units: E111, BC950, FS50, 9C, Q11</description>
-      <guid isPermaLink="false">2025-05-02 14:41:00</guid>
-      <pubDate>Fri, 02 May 2025 14:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
