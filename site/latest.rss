@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 17:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 17:32:39 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:15 pm</title>
+      <description>500 BLOCK EISENHOWER DR Units: E11</description>
+      <guid isPermaLink="false">2025-05-04 13:15:00</guid>
+      <pubDate>Sun, 04 May 2025 13:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:03 pm</title>
+      <description>3600 BLOCK FLATWOODS DR Units: FS23, E232</description>
+      <guid isPermaLink="false">2025-05-04 13:03:00</guid>
+      <pubDate>Sun, 04 May 2025 13:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:45 pm</title>
       <description>400 BLOCK E SEVENTH ST, Apt/Unit:305 Units: E11, E331, PE23, TT4, TT23, A28, ALS2, BC901, BC903, E31, PE311, R3, SAF901</description>
@@ -294,18 +306,6 @@
       <description>1900 BLOCK N MARKET ST, Bldg:1162, FORT DETRICK - BLDG 1162 Radio: 9C Units: E111, BC950, FS50, 9C, Q11</description>
       <guid isPermaLink="false">2025-05-02 14:41:00</guid>
       <pubDate>Fri, 02 May 2025 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:32 pm</title>
-      <description>15000 BLOCK SABILLASVILLE RD Radio: 9C Units: BR106, 9C</description>
-      <guid isPermaLink="false">2025-05-02 14:32:00</guid>
-      <pubDate>Fri, 02 May 2025 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:49 pm</title>
-      <description>1300 BLOCK MOTTER AVE, Apt/Unit:81, FREDERICK GREENES APTS Radio: 9C Units: 9C, PE23, E31, TW1</description>
-      <guid isPermaLink="false">2025-05-02 13:49:00</guid>
-      <pubDate>Fri, 02 May 2025 13:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
