@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 May 2025 00:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 01:29:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:05 pm</title>
+      <description>1800 BLOCK BALLENGER CREEK PIKE, STATION 28 Radio: 9C Units: E141, T5, FS28, 9C</description>
+      <guid isPermaLink="false">2025-05-03 21:05:00</guid>
+      <pubDate>Sat, 03 May 2025 21:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 8:26 pm</title>
       <description>RT140 / RT15, RT140 / RT15 Radio: 9D Units: A18, ALS33, EMS902, 9D, FS06, E61, R6</description>
@@ -300,12 +306,6 @@
       <description>E CHURCH ST / MONOCACY BLVD, **PH2** Radio: 9B Units: A28, PE23, 9B</description>
       <guid isPermaLink="false">2025-05-01 21:40:00</guid>
       <pubDate>Thu, 01 May 2025 21:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:45 pm</title>
-      <description>200 BLOCK E FOURTH ST, CAFE BUENO Radio: 9D Units: A39, ALS2, 9D, PE23, EMS902</description>
-      <guid isPermaLink="false">2025-05-01 20:45:00</guid>
-      <pubDate>Thu, 01 May 2025 20:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
