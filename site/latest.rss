@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 15:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 16:02:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:33 am</title>
+      <description>100 BLOCK S MARKET ST, TAFT PROPERTIES Radio: 9C Units: E31, TT4, 9C</description>
+      <guid isPermaLink="false">2025-05-05 11:33:00</guid>
+      <pubDate>Mon, 05 May 2025 11:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:26 am</title>
       <description>600 BLOCK E MAIN ST Radio: 9C Units: 9C, E72</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK MARIANNE DR Radio: 9D Units: R15, A259, CCM18, BC901, SAF901, EMS901, FS25, E251, 9D</description>
       <guid isPermaLink="false">2025-05-03 15:09:00</guid>
       <pubDate>Sat, 03 May 2025 15:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 3:05 pm</title>
-      <description>1400 BLOCK TIMBERWOLF DR Radio: 9C Units: E121, 9C</description>
-      <guid isPermaLink="false">2025-05-03 15:05:00</guid>
-      <pubDate>Sat, 03 May 2025 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
