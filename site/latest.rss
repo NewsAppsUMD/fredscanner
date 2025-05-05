@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 17:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 18:02:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
+      <description>5700 BLOCK HAWK RIDGE RD Radio: 9C Units: FS33, 9C, E331, TT4</description>
+      <guid isPermaLink="false">2025-05-05 13:38:00</guid>
+      <pubDate>Mon, 05 May 2025 13:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 12:48 pm</title>
       <description>11000 BLOCK BAKER RD Radio: 9C Units: E111, 9C, E91, E161, Q11, K9</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK ANDOVER LN Units: A129, E121, FS12</description>
       <guid isPermaLink="false">2025-05-03 16:59:00</guid>
       <pubDate>Sat, 03 May 2025 16:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:44 pm</title>
-      <description>I70EB / WEIGH STATION (NEWM), I70EB / WEIGH STATION Units: CCE12, FS15, E152</description>
-      <guid isPermaLink="false">2025-05-03 16:44:00</guid>
-      <pubDate>Sat, 03 May 2025 16:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
