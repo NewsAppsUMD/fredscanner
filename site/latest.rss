@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 13:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 14:02:15 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 9:54 am</title>
+      <description>RT194 / RT550, RT194 / RT550 Units: E161, FS16</description>
+      <guid isPermaLink="false">2025-05-05 09:54:00</guid>
+      <pubDate>Mon, 05 May 2025 09:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:30 am</title>
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E11, R3, A239, A735, FS23, 9B, E232, TT23</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK MUSTANG CT Units: E291, TW1, FS29</description>
       <guid isPermaLink="false">2025-05-03 14:40:00</guid>
       <pubDate>Sat, 03 May 2025 14:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:39 pm</title>
-      <description>3800 BLOCK JEFFERSON PIKE Units: E201, T5</description>
-      <guid isPermaLink="false">2025-05-03 14:39:00</guid>
-      <pubDate>Sat, 03 May 2025 14:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
