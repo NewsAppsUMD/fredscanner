@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 13:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:38:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:30 am</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E11, R3, A239, A735, FS23, 9B, E232, TT23</description>
+      <guid isPermaLink="false">2025-05-05 09:30:00</guid>
+      <pubDate>Mon, 05 May 2025 09:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:10 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2025-05-05 09:10:00</guid>
+      <pubDate>Mon, 05 May 2025 09:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:08 am</title>
+      <description>200 BLOCK E CHURCH ST Radio: 9C Units: E31, TT4, 9C</description>
+      <guid isPermaLink="false">2025-05-05 09:08:00</guid>
+      <pubDate>Mon, 05 May 2025 09:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:33 am</title>
       <description>APPROX LOC:512 W SOUTH ST Radio: 9B Units: TT4, A39, 9B</description>
@@ -288,24 +306,6 @@
       <description>3800 BLOCK JEFFERSON PIKE Units: E201, T5</description>
       <guid isPermaLink="false">2025-05-03 14:39:00</guid>
       <pubDate>Sat, 03 May 2025 14:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
-      <description>7600 BLOCK BALTIMORE NATIONAL PIKE PIKE Units: A129, E121, FS12</description>
-      <guid isPermaLink="false">2025-05-03 13:21:00</guid>
-      <pubDate>Sat, 03 May 2025 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:22 pm</title>
-      <description>1700 BLOCK CASTLE ROCK RD Units: FS11, E111</description>
-      <guid isPermaLink="false">2025-05-03 12:22:00</guid>
-      <pubDate>Sat, 03 May 2025 12:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:09 am</title>
-      <description>600 BLOCK BLANDWOOD RD Units: TT23, PE23</description>
-      <guid isPermaLink="false">2025-05-03 09:09:00</guid>
-      <pubDate>Sat, 03 May 2025 09:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
