@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 22:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 22:35:37 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:21 pm</title>
+      <description>LEGORE BRIDGE RD / LEGORE RD Units: BR96, E161</description>
+      <guid isPermaLink="false">2025-05-05 18:21:00</guid>
+      <pubDate>Mon, 05 May 2025 18:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 6:18 pm</title>
+      <description>LEGORE BRIDGE RD / RT194, LEGORE BRIDGE RD / RT194 Units: E161, FS16</description>
+      <guid isPermaLink="false">2025-05-05 18:18:00</guid>
+      <pubDate>Mon, 05 May 2025 18:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:11 pm</title>
+      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Units: JCRE1, WCE81, A197, A196, ALS20, BC903, EMS901, FS05, RE52, R19</description>
+      <guid isPermaLink="false">2025-05-05 18:11:00</guid>
+      <pubDate>Mon, 05 May 2025 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 5:08 pm</title>
       <description>1900 BLOCK REGIMENT WAY Radio: 9C Units: E291, 9C, TW1</description>
@@ -288,24 +306,6 @@
       <description>RT140 / RT15, RT140 / RT15 Radio: 9D Units: A18, ALS33, EMS902, 9D, FS06, E61, R6</description>
       <guid isPermaLink="false">2025-05-03 20:26:00</guid>
       <pubDate>Sat, 03 May 2025 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:25 pm</title>
-      <description>7200 BLOCKB KEHNE RD Units: BC903</description>
-      <guid isPermaLink="false">2025-05-03 19:25:00</guid>
-      <pubDate>Sat, 03 May 2025 19:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:22 pm</title>
-      <description>GAMBRILL PARK RD / BALTIMORE NATIONAL PIKE PIKE Radio: 9C Units: 9C, E121</description>
-      <guid isPermaLink="false">2025-05-03 19:22:00</guid>
-      <pubDate>Sat, 03 May 2025 19:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:19 pm</title>
-      <description>GAMBRILL PARK RD / BALTIMORE NATIONAL PIKE PIKE Radio: 9C Units: BR125, FS12, 9C</description>
-      <guid isPermaLink="false">2025-05-03 19:19:00</guid>
-      <pubDate>Sat, 03 May 2025 19:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
