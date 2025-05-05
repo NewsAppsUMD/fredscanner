@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 12:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 12:43:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:33 am</title>
+      <description>APPROX LOC:512 W SOUTH ST Radio: 9B Units: TT4, A39, 9B</description>
+      <guid isPermaLink="false">2025-05-05 08:33:00</guid>
+      <pubDate>Mon, 05 May 2025 08:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>CONFINED SPACE RESCUE: 6:24 am</title>
       <description>SPRINGHOLLOW LN / TAYLORSTOWN RD Radio: 6LTAC31 Units: R20</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK BLANDWOOD RD Units: TT23, PE23</description>
       <guid isPermaLink="false">2025-05-03 09:09:00</guid>
       <pubDate>Sat, 03 May 2025 09:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:19 am</title>
-      <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Units: E291, FS29, E501</description>
-      <guid isPermaLink="false">2025-05-03 08:19:00</guid>
-      <pubDate>Sat, 03 May 2025 08:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
