@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 15:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 15:34:33 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:26 am</title>
+      <description>600 BLOCK E MAIN ST Radio: 9C Units: 9C, E72</description>
+      <guid isPermaLink="false">2025-05-05 11:26:00</guid>
+      <pubDate>Mon, 05 May 2025 11:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:54 am</title>
       <description>RT194 / RT550, RT194 / RT550 Units: E161, FS16</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK TIMBERWOLF DR Radio: 9C Units: E121, 9C</description>
       <guid isPermaLink="false">2025-05-03 15:05:00</guid>
       <pubDate>Sat, 03 May 2025 15:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:40 pm</title>
-      <description>2000 BLOCK MUSTANG CT Units: E291, TW1, FS29</description>
-      <guid isPermaLink="false">2025-05-03 14:40:00</guid>
-      <pubDate>Sat, 03 May 2025 14:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
