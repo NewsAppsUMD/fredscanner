@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 May 2025 23:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 23:32:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:24 pm</title>
+      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Units: E201, A209, A197, FS20, BC903, EMS901, E141, ALS20, R20</description>
+      <guid isPermaLink="false">2025-05-05 19:24:00</guid>
+      <pubDate>Mon, 05 May 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:22 pm</title>
+      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Units: E201, A209, A197, FS20, E141, R20</description>
+      <guid isPermaLink="false">2025-05-05 19:22:00</guid>
+      <pubDate>Mon, 05 May 2025 19:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:13 pm</title>
+      <description>CATOCTIN HOLLOW RD / WILLIAM HOUCK DR Units: BR106</description>
+      <guid isPermaLink="false">2025-05-05 19:13:00</guid>
+      <pubDate>Mon, 05 May 2025 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:33 pm</title>
       <description>6300 BLOCK WALCOTT LN Units: PE311, FS31</description>
@@ -288,24 +306,6 @@
       <description>BOWERS RD / BALTIMORE NATIONAL PIKE PIKE Radio: 9B Units: A129, FS12, 9B, E121</description>
       <guid isPermaLink="false">2025-05-04 00:12:00</guid>
       <pubDate>Sun, 04 May 2025 00:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:42 pm</title>
-      <description>3300 BLOCK CENTENNIAL WAY, Apt/Unit:406, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: 9C, E232, TT23, FS23</description>
-      <guid isPermaLink="false">2025-05-03 22:42:00</guid>
-      <pubDate>Sat, 03 May 2025 22:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:12 pm</title>
-      <description>NEW DESIGN RD / ADAMSTOWN RD Radio: 9C Units: BR145, 9C</description>
-      <guid isPermaLink="false">2025-05-03 22:12:00</guid>
-      <pubDate>Sat, 03 May 2025 22:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:05 pm</title>
-      <description>1800 BLOCK BALLENGER CREEK PIKE, STATION 28 Radio: 9C Units: E141, T5, FS28, 9C</description>
-      <guid isPermaLink="false">2025-05-03 21:05:00</guid>
-      <pubDate>Sat, 03 May 2025 21:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
