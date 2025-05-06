@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 May 2025 19:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 19:31:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:03 pm</title>
+      <description>RT75 / RAILROAD, RT75 / RAILROAD Radio: 9B Units: A259, 9B, E251, FS25</description>
+      <guid isPermaLink="false">2025-05-06 15:03:00</guid>
+      <pubDate>Tue, 06 May 2025 15:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL SPILL: 3:01 pm</title>
+      <description>RT194 / CRUM RD, RT194 / CRUM RD Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-05-06 15:01:00</guid>
+      <pubDate>Tue, 06 May 2025 15:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:15 pm</title>
       <description>100 BLOCK E CHURCH ST, EVANGELICAL LUTHERAN CHURCH - FREDERICK Radio: 9C Units: E31, TT4, 9C</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK E CHURCH ST Radio: 9C Units: E31, TT4, 9C</description>
       <guid isPermaLink="false">2025-05-05 09:08:00</guid>
       <pubDate>Mon, 05 May 2025 09:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:33 am</title>
-      <description>APPROX LOC:512 W SOUTH ST Radio: 9B Units: TT4, A39, 9B</description>
-      <guid isPermaLink="false">2025-05-05 08:33:00</guid>
-      <pubDate>Mon, 05 May 2025 08:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CONFINED SPACE RESCUE: 6:24 am</title>
-      <description>SPRINGHOLLOW LN / TAYLORSTOWN RD Radio: 6LTAC31 Units: R20</description>
-      <guid isPermaLink="false">2025-05-05 06:24:00</guid>
-      <pubDate>Mon, 05 May 2025 06:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
