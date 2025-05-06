@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 May 2025 21:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 21:32:48 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 5:04 pm</title>
+      <description>DICKERSON RD / GREENFIELD RD Units: E281, FS14</description>
+      <guid isPermaLink="false">2025-05-06 17:04:00</guid>
+      <pubDate>Tue, 06 May 2025 17:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 4:44 pm</title>
       <description>4000 BLOCK MANHEIM CT Radio: 9C Units: E201, E121, R20, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT194 / RT550, RT194 / RT550 Units: E161, FS16</description>
       <guid isPermaLink="false">2025-05-05 09:54:00</guid>
       <pubDate>Mon, 05 May 2025 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:30 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E11, R3, A239, A735, FS23, 9B, E232, TT23</description>
-      <guid isPermaLink="false">2025-05-05 09:30:00</guid>
-      <pubDate>Mon, 05 May 2025 09:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
