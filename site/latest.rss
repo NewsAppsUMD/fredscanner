@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 May 2025 20:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:44 pm</title>
+      <description>4000 BLOCK MANHEIM CT Radio: 9C Units: E201, E121, R20, 9C</description>
+      <guid isPermaLink="false">2025-05-06 16:44:00</guid>
+      <pubDate>Tue, 06 May 2025 16:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:36 pm</title>
+      <description>100 BLOCK HAMPTON PL Radio: 9C Units: BR116, FS11, 9C</description>
+      <guid isPermaLink="false">2025-05-06 16:36:00</guid>
+      <pubDate>Tue, 06 May 2025 16:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:03 pm</title>
       <description>RT75 / RAILROAD, RT75 / RAILROAD Radio: 9B Units: A259, 9B, E251, FS25</description>
@@ -294,18 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E11, R3, A239, A735, FS23, 9B, E232, TT23</description>
       <guid isPermaLink="false">2025-05-05 09:30:00</guid>
       <pubDate>Mon, 05 May 2025 09:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:10 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2025-05-05 09:10:00</guid>
-      <pubDate>Mon, 05 May 2025 09:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:08 am</title>
-      <description>200 BLOCK E CHURCH ST Radio: 9C Units: E31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-05-05 09:08:00</guid>
-      <pubDate>Mon, 05 May 2025 09:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
