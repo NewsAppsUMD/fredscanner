@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 May 2025 10:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 10:36:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:31 am</title>
+      <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Radio: 9D Units: A28, R3, ALS2, BC902, EMS902, 9D, PE23</description>
+      <guid isPermaLink="false">2025-05-06 06:31:00</guid>
+      <pubDate>Tue, 06 May 2025 06:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:47 pm</title>
       <description>100 BLOCK S MARKET ST, THE ORIGINAL POPCORN HOUSE Units: E31, T50</description>
@@ -300,12 +306,6 @@
       <description>I270NB / RT80, I270NB / RT80 Radio: 9D Units: E232, E251, TT23, R3, A239, A259, ALS23, BC903, EMS901, FS23, 9D</description>
       <guid isPermaLink="false">2025-05-04 11:11:00</guid>
       <pubDate>Sun, 04 May 2025 11:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 10:48 am</title>
-      <description>6500 BLOCK BROADMOOR TER S Radio: 9C Units: E331, E152, R3, FS33, 9C</description>
-      <guid isPermaLink="false">2025-05-04 10:48:00</guid>
-      <pubDate>Sun, 04 May 2025 10:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
