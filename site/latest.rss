@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 17:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 17:34:36 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:14 pm</title>
+      <description>OLD CAMP RD / GARRETT DR Radio: 9B Units: A129, 9B, E121, A19</description>
+      <guid isPermaLink="false">2025-05-07 13:14:00</guid>
+      <pubDate>Wed, 07 May 2025 13:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:04 pm</title>
+      <description>CATOCTIN HOLLOW RD / WILLIAM HOUCK DR Radio: 9C Units: BR106, 9C</description>
+      <guid isPermaLink="false">2025-05-07 13:04:00</guid>
+      <pubDate>Wed, 07 May 2025 13:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:55 am</title>
       <description>LANDER RD / MOUNTVILLE RD Radio: 9B Units: R20, ALS20, EMS901, FS20, E201, 9B, A209</description>
@@ -294,18 +306,6 @@
       <description>LEGORE BRIDGE RD / LEGORE RD Units: BR96, E161</description>
       <guid isPermaLink="false">2025-05-05 18:21:00</guid>
       <pubDate>Mon, 05 May 2025 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:18 pm</title>
-      <description>LEGORE BRIDGE RD / RT194, LEGORE BRIDGE RD / RT194 Units: E161, FS16</description>
-      <guid isPermaLink="false">2025-05-05 18:18:00</guid>
-      <pubDate>Mon, 05 May 2025 18:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:11 pm</title>
-      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Units: JCRE1, WCE81, A197, A196, ALS20, BC903, EMS901, FS05, RE52, R19</description>
-      <guid isPermaLink="false">2025-05-05 18:11:00</guid>
-      <pubDate>Mon, 05 May 2025 18:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
