@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 05:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 05:35:12 +0000</lastBuildDate>
+    <item>
+      <title>STABBING - ALS: 1:17 am</title>
+      <description>9500 BLOCK GLADE AVE Radio: 9D Units: A248, 9D, ALS29, E111, BC902, EMS902, FS11</description>
+      <guid isPermaLink="false">2025-05-07 01:17:00</guid>
+      <pubDate>Wed, 07 May 2025 01:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - FIRE: 8:28 pm</title>
       <description>6900 BLOCK URNER AVE, BRADDOCK MOTORS - 6900 BLOCK URNER AVE Units: A129, FS12, E72, E121</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK HAWK RIDGE RD Radio: 9C Units: FS33, 9C, E331, TT4</description>
       <guid isPermaLink="false">2025-05-05 13:38:00</guid>
       <pubDate>Mon, 05 May 2025 13:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 12:48 pm</title>
-      <description>11000 BLOCK BAKER RD Radio: 9C Units: E111, 9C, E91, E161, Q11, K9</description>
-      <guid isPermaLink="false">2025-05-05 12:48:00</guid>
-      <pubDate>Mon, 05 May 2025 12:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
