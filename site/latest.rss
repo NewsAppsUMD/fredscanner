@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 20:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 20:35:16 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:28 pm</title>
+      <description>FINGERBOARD RD / KEMPTOWN CHURCH RD Radio: 9D Units: CCR1, PE713, EMS901, 9D, R15, E251, A259</description>
+      <guid isPermaLink="false">2025-05-07 16:28:00</guid>
+      <pubDate>Wed, 07 May 2025 16:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:24 pm</title>
+      <description>FINGERBOARD RD / KEMPTOWN CHURCH RD Radio: 9D Units: CCR1, PE713, EMS901, FS25, 9D, E251, A259</description>
+      <guid isPermaLink="false">2025-05-07 16:24:00</guid>
+      <pubDate>Wed, 07 May 2025 16:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 3:38 pm</title>
       <description>100 BLOCK CONSETT PL Radio: 9C Units: E11, 9C</description>
@@ -294,18 +306,6 @@
       <description>1200 BLOCK N MARKET ST Units: A39, PE23</description>
       <guid isPermaLink="false">2025-05-05 20:30:00</guid>
       <pubDate>Mon, 05 May 2025 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:24 pm</title>
-      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Units: E201, A209, A197, FS20, BC903, EMS901, E141, ALS20, R20</description>
-      <guid isPermaLink="false">2025-05-05 19:24:00</guid>
-      <pubDate>Mon, 05 May 2025 19:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:22 pm</title>
-      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Units: E201, A209, A197, FS20, E141, R20</description>
-      <guid isPermaLink="false">2025-05-05 19:22:00</guid>
-      <pubDate>Mon, 05 May 2025 19:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
