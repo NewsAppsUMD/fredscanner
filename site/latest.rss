@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 May 2025 18:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 19:01:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
+      <description>RT15 / 1MM, Apt/Unit:HTTPS://A91.IO/69DUV, RT15 / 1MM Radio: 9B Units: A149, E281, FS28, 9B</description>
+      <guid isPermaLink="false">2025-05-07 14:46:00</guid>
+      <pubDate>Wed, 07 May 2025 14:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:50 pm</title>
       <description>7100 BLOCK FOXCROFT DR, CRESTWOOD MIDDLE SCHOOL Radio: 9C Units: FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>CATOCTIN HOLLOW RD / WILLIAM HOUCK DR Units: BR106</description>
       <guid isPermaLink="false">2025-05-05 19:13:00</guid>
       <pubDate>Mon, 05 May 2025 19:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:33 pm</title>
-      <description>6300 BLOCK WALCOTT LN Units: PE311, FS31</description>
-      <guid isPermaLink="false">2025-05-05 18:33:00</guid>
-      <pubDate>Mon, 05 May 2025 18:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
