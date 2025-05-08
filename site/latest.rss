@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 22:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 22:35:11 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:00 pm</title>
+      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-05-08 18:00:00</guid>
+      <pubDate>Thu, 08 May 2025 18:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:52 pm</title>
       <description>FAIRVIEW AVE / W SEVENTH ST Radio: 9B Units: A19, PE23, 9B</description>
@@ -300,12 +306,6 @@
       <description>DICKERSON RD / GREENFIELD RD Units: E281, FS14</description>
       <guid isPermaLink="false">2025-05-06 17:04:00</guid>
       <pubDate>Tue, 06 May 2025 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:44 pm</title>
-      <description>4000 BLOCK MANHEIM CT Radio: 9C Units: E201, E121, R20, 9C</description>
-      <guid isPermaLink="false">2025-05-06 16:44:00</guid>
-      <pubDate>Tue, 06 May 2025 16:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
