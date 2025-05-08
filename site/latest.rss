@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 May 2025 01:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 02:14:58 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:48 pm</title>
+      <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET, SUNOCO GAS MART CIGARETTE OUTLET Radio: 6DTAC11 Units: EK204, E281, HMSU33, T5, E141, R20, A209, HM50</description>
+      <guid isPermaLink="false">2025-05-07 21:48:00</guid>
+      <pubDate>Wed, 07 May 2025 21:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:43 pm</title>
+      <description>6400 BLOCK BELLEVUE PL Radio: 9C Units: E152, R15, 9C, E331, R3</description>
+      <guid isPermaLink="false">2025-05-07 21:43:00</guid>
+      <pubDate>Wed, 07 May 2025 21:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:38 pm</title>
+      <description>6400 BLOCK BELLEVUE PL Radio: 9C Units: E152, R15, FS33, 9C, E331</description>
+      <guid isPermaLink="false">2025-05-07 21:38:00</guid>
+      <pubDate>Wed, 07 May 2025 21:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:12 pm</title>
       <description>6700 BLOCK FALLOW HILL CT, IRO Radio: 9C Units: BR35, FS31, 9C</description>
@@ -288,24 +306,6 @@
       <description>POTOMAC RIVER/ BASS ROCK Units: ALS20, BT19, BT28, A196</description>
       <guid isPermaLink="false">2025-05-05 21:46:00</guid>
       <pubDate>Mon, 05 May 2025 21:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:38 pm</title>
-      <description>13000 BLOCK MARTIN RD, Bldg:B Units: BR85</description>
-      <guid isPermaLink="false">2025-05-05 21:38:00</guid>
-      <pubDate>Mon, 05 May 2025 21:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:36 pm</title>
-      <description>12700 BLOCK BRANDENBURG HOLLOW RD, WOLFSVILLE RURITAN Units: BR85, BR216</description>
-      <guid isPermaLink="false">2025-05-05 21:36:00</guid>
-      <pubDate>Mon, 05 May 2025 21:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:31 pm</title>
-      <description>12700 BLOCK BRANDENBURG HOLLOW RD, WOLFSVILLE RURITAN Units: BR216, FS21</description>
-      <guid isPermaLink="false">2025-05-05 21:31:00</guid>
-      <pubDate>Mon, 05 May 2025 21:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
