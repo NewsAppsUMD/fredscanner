@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 23:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 23:31:59 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:27 pm</title>
+      <description>7800 BLOCK FRIENDS CREEK RD Units: BR65, FS06</description>
+      <guid isPermaLink="false">2025-05-09 19:27:00</guid>
+      <pubDate>Fri, 09 May 2025 19:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 7:02 pm</title>
+      <description>1100 BLOCK KEY PKWY, Apt/Unit:102, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Units: E11, E31, TT4</description>
+      <guid isPermaLink="false">2025-05-09 19:02:00</guid>
+      <pubDate>Fri, 09 May 2025 19:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:17 pm</title>
       <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, E251, R15, C15C, E152, BC901, ALS17, CMD15</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCK FOXCROFT DR, CRESTWOOD MIDDLE SCHOOL Radio: 9C Units: FS31, 9C, PE311</description>
       <guid isPermaLink="false">2025-05-07 13:50:00</guid>
       <pubDate>Wed, 07 May 2025 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:14 pm</title>
-      <description>OLD CAMP RD / GARRETT DR Radio: 9B Units: A129, 9B, E121, A19</description>
-      <guid isPermaLink="false">2025-05-07 13:14:00</guid>
-      <pubDate>Wed, 07 May 2025 13:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:04 pm</title>
-      <description>CATOCTIN HOLLOW RD / WILLIAM HOUCK DR Radio: 9C Units: BR106, 9C</description>
-      <guid isPermaLink="false">2025-05-07 13:04:00</guid>
-      <pubDate>Wed, 07 May 2025 13:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
