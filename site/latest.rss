@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 May 2025 22:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 22:34:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:17 pm</title>
+      <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, E251, R15, C15C, E152, BC901, ALS17, CMD15</description>
+      <guid isPermaLink="false">2025-05-09 18:17:00</guid>
+      <pubDate>Fri, 09 May 2025 18:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:11 pm</title>
+      <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, FS15, R15, E152, CCM18</description>
+      <guid isPermaLink="false">2025-05-09 18:11:00</guid>
+      <pubDate>Fri, 09 May 2025 18:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:09 pm</title>
+      <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, R15, FS15</description>
+      <guid isPermaLink="false">2025-05-09 18:09:00</guid>
+      <pubDate>Fri, 09 May 2025 18:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:19 pm</title>
       <description>FINGERBOARD RD / GREEN VALLEY RD Radio: 9B Units: E251, FS25, 9B, A159</description>
@@ -288,24 +306,6 @@
       <description>CATOCTIN HOLLOW RD / WILLIAM HOUCK DR Radio: 9C Units: BR106, 9C</description>
       <guid isPermaLink="false">2025-05-07 13:04:00</guid>
       <pubDate>Wed, 07 May 2025 13:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:55 am</title>
-      <description>LANDER RD / MOUNTVILLE RD Radio: 9B Units: R20, ALS20, EMS901, FS20, E201, 9B, A209</description>
-      <guid isPermaLink="false">2025-05-07 10:55:00</guid>
-      <pubDate>Wed, 07 May 2025 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 8:18 am</title>
-      <description>200 BLOCK S SETON AVE Radio: 9C Units: E61, FS06, 9C</description>
-      <guid isPermaLink="false">2025-05-07 08:18:00</guid>
-      <pubDate>Wed, 07 May 2025 08:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 8:15 am</title>
-      <description>HITESHOW DR / MADIGAN TRL Radio: 9C Units: FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-05-07 08:15:00</guid>
-      <pubDate>Wed, 07 May 2025 08:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
