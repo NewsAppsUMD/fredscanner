@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 18:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 18:36:17 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:32 pm</title>
+      <description>NEW DESIGN RD / GUILFORD DR Radio: 9B Units: PE311, A318, R3, ALS31, EMS902, FS31, 9B</description>
+      <guid isPermaLink="false">2025-05-10 14:32:00</guid>
+      <pubDate>Sat, 10 May 2025 14:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 1:47 pm</title>
       <description>1100 BLOCK SAXTON DR Radio: 9C Units: E291, 9C</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK BELLEVUE PL Radio: 9C Units: E152, R15, FS33, 9C, E331</description>
       <guid isPermaLink="false">2025-05-07 21:38:00</guid>
       <pubDate>Wed, 07 May 2025 21:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:12 pm</title>
-      <description>6700 BLOCK FALLOW HILL CT, IRO Radio: 9C Units: BR35, FS31, 9C</description>
-      <guid isPermaLink="false">2025-05-07 20:12:00</guid>
-      <pubDate>Wed, 07 May 2025 20:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
