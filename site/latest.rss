@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 16:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 17:01:41 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:50 pm</title>
+      <description>RT194 / RT77 Radio: CCA3 Units: CCA3, E91</description>
+      <guid isPermaLink="false">2025-05-10 12:50:00</guid>
+      <pubDate>Sat, 10 May 2025 12:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:09 pm</title>
       <description>100 BLOCK STEINER WAY, Bldg:B Radio: 9B Units: A39, TT4, 9B</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK TALLADEGA CT, Apt/Unit:B Radio: 9C Units: E311, TW1, FS31, 9C</description>
       <guid isPermaLink="false">2025-05-07 20:10:00</guid>
       <pubDate>Wed, 07 May 2025 20:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
-      <description>200 BLOCK EDWIN RD Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-05-07 19:30:00</guid>
-      <pubDate>Wed, 07 May 2025 19:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
