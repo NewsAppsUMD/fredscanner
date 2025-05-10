@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 20:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 20:33:02 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:23 pm</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: E31</description>
+      <guid isPermaLink="false">2025-05-10 16:23:00</guid>
+      <pubDate>Sat, 10 May 2025 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:12 pm</title>
+      <description>15300 BLOCK SABILLASVILLE RD Units: E291, CMD10, C6B, PE102, EK224, A307, ALS30, E111, WCRE7, E161, E212, ACEK23, SU51, E91, R24, FRE42, FRE191, BC902, BC901, SAF901, RID, A68, EMS902, E61, E133, ACRE3, R10, TW6, Q11, K10, EK64</description>
+      <guid isPermaLink="false">2025-05-10 16:12:00</guid>
+      <pubDate>Sat, 10 May 2025 16:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:06 pm</title>
+      <description>15300 BLOCK SABILLASVILLE RD Units: CMD10, C6B, PE102, EK224, A307, ALS30, E161, E212, ACEK23, SU51, E91, R24, FRE42, FRE191, BC902, BC901, SAF901, RID, A68, EMS902, W10, E61, E221, E133, ACRE3, R10, TW6, Q11, K10, EK64</description>
+      <guid isPermaLink="false">2025-05-10 16:06:00</guid>
+      <pubDate>Sat, 10 May 2025 16:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:02 pm</title>
+      <description>15300 BLOCK SABILLASVILLE RD Units: C6B, PE102, EK224, A307, ALS30, E161, E212, ACEK23, FRE42, FRE191, BC902, BC901, SAF901, E61, E221, E133, ACRE3, R10, TW6, Q11, K10, EK64</description>
+      <guid isPermaLink="false">2025-05-10 16:02:00</guid>
+      <pubDate>Sat, 10 May 2025 16:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 3:55 pm</title>
       <description>15300 BLOCK SABILLASVILLE RD Units: PE102, EK224, A307, ALS30, BC902, BC901, SAF901, E61, FRE193, E221, E133, ACRE3, R10, TW6, Q11, K10, EK64</description>
@@ -282,30 +306,6 @@
       <description>5100 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:SUITE 182, MIRACLE EAR Radio: 9C Units: PE311, E31, R3, FS31, 9C</description>
       <guid isPermaLink="false">2025-05-08 09:18:00</guid>
       <pubDate>Thu, 08 May 2025 09:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:42 am</title>
-      <description>4600 BLOCK WEDGEWOOD BLVD, Bldg:N, Apt/Unit:O Radio: 9C Units: TT4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-05-08 07:42:00</guid>
-      <pubDate>Thu, 08 May 2025 07:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 10:39 pm</title>
-      <description>400 BLOCK E SEVENTH ST Units: E31, TT4, PE23</description>
-      <guid isPermaLink="false">2025-05-07 22:39:00</guid>
-      <pubDate>Wed, 07 May 2025 22:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 9:48 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET, SUNOCO GAS MART CIGARETTE OUTLET Radio: 6DTAC11 Units: EK204, E281, HMSU33, T5, E141, R20, A209, HM50</description>
-      <guid isPermaLink="false">2025-05-07 21:48:00</guid>
-      <pubDate>Wed, 07 May 2025 21:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 9:43 pm</title>
-      <description>6400 BLOCK BELLEVUE PL Radio: 9C Units: E152, R15, 9C, E331, R3</description>
-      <guid isPermaLink="false">2025-05-07 21:43:00</guid>
-      <pubDate>Wed, 07 May 2025 21:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
