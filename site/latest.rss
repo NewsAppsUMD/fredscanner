@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 22:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 23:01:50 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:41 pm</title>
+      <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23, E11, R2, 9C</description>
+      <guid isPermaLink="false">2025-05-10 18:41:00</guid>
+      <pubDate>Sat, 10 May 2025 18:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:23 pm</title>
       <description>WAVERLEY DR / W PATRICK ST Radio: 9B Units: A19, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9B Units: E232, R14, A239, 9B, E11, A19, FS23, TT23</description>
       <guid isPermaLink="false">2025-05-08 09:48:00</guid>
       <pubDate>Thu, 08 May 2025 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:27 am</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:SUITE 182, MIRACLE EAR Radio: 9C Units: PE311, TT4, E31, R3, 9C, CMD31</description>
-      <guid isPermaLink="false">2025-05-08 09:27:00</guid>
-      <pubDate>Thu, 08 May 2025 09:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
