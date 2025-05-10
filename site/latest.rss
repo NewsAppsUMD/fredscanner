@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 May 2025 17:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 18:02:13 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 1:47 pm</title>
+      <description>1100 BLOCK SAXTON DR Radio: 9C Units: E291, 9C</description>
+      <guid isPermaLink="false">2025-05-10 13:47:00</guid>
+      <pubDate>Sat, 10 May 2025 13:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 12:50 pm</title>
       <description>RT194 / RT77 Radio: CCA3 Units: CCA3, E91</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK FALLOW HILL CT, IRO Radio: 9C Units: BR35, FS31, 9C</description>
       <guid isPermaLink="false">2025-05-07 20:12:00</guid>
       <pubDate>Wed, 07 May 2025 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:10 pm</title>
-      <description>5300 BLOCK TALLADEGA CT, Apt/Unit:B Radio: 9C Units: E311, TW1, FS31, 9C</description>
-      <guid isPermaLink="false">2025-05-07 20:10:00</guid>
-      <pubDate>Wed, 07 May 2025 20:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
