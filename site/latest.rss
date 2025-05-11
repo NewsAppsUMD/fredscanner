@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 06:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 07:02:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 2:38 am</title>
+      <description>500 BLOCK MAIN ST Radio: 9C Units: WCE61, RE74, E11, E121, 9C</description>
+      <guid isPermaLink="false">2025-05-11 02:38:00</guid>
+      <pubDate>Sun, 11 May 2025 02:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:34 am</title>
       <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: RE74, WCM751, E11, WCE161, R8, A89, 9B</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK MOUNTAINVIEW DR Radio: 9C Units: PE23, K33, TT4, 9C, E501, K1</description>
       <guid isPermaLink="false">2025-05-08 11:21:00</guid>
       <pubDate>Thu, 08 May 2025 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 11:17 am</title>
-      <description>6600 BLOCK MOUNTAINVIEW DR Radio: 9C Units: PE23, TT4, 9C, E501, K1</description>
-      <guid isPermaLink="false">2025-05-08 11:17:00</guid>
-      <pubDate>Thu, 08 May 2025 11:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
