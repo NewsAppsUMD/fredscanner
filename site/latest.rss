@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 15:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 16:02:08 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 11:38 am</title>
+      <description>SHIELDS DR / RT355, SHIELDS DR / RT355 Radio: 9C Units: 9C, E31</description>
+      <guid isPermaLink="false">2025-05-11 11:38:00</guid>
+      <pubDate>Sun, 11 May 2025 11:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:24 am</title>
       <description>BALLENGER CREEK PIKE / CORPORATE DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>9400 BLOCK CARRIAGE HILL ST Units: FS23, E232</description>
       <guid isPermaLink="false">2025-05-08 15:37:00</guid>
       <pubDate>Thu, 08 May 2025 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:18 pm</title>
-      <description>3200 BLOCK WARD KLINE RD Radio: 9B Units: E82, 9B, A89</description>
-      <guid isPermaLink="false">2025-05-08 15:18:00</guid>
-      <pubDate>Thu, 08 May 2025 15:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
