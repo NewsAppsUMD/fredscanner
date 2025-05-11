@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 06:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 06:37:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:34 am</title>
+      <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: RE74, WCM751, E11, WCE161, R8, A89, 9B</description>
+      <guid isPermaLink="false">2025-05-11 02:34:00</guid>
+      <pubDate>Sun, 11 May 2025 02:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:26 am</title>
+      <description>500 BLOCK MAIN ST Radio: 9C Units: E212, E121, TW7, 9C</description>
+      <guid isPermaLink="false">2025-05-11 02:26:00</guid>
+      <pubDate>Sun, 11 May 2025 02:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:25 am</title>
+      <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: E72, WCE161, R8, A89, WCA752, 9B</description>
+      <guid isPermaLink="false">2025-05-11 02:25:00</guid>
+      <pubDate>Sun, 11 May 2025 02:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 9:56 pm</title>
       <description>1000 BLOCK W PATRICK ST, WAWA - GOLDEN MILE Radio: 9D Units: E11, R3, EMS902, A19, ALS4, 9D</description>
@@ -288,24 +306,6 @@
       <description>6600 BLOCK MOUNTAINVIEW DR Radio: 9C Units: PE23, TT4, 9C, E501, K1</description>
       <guid isPermaLink="false">2025-05-08 11:17:00</guid>
       <pubDate>Thu, 08 May 2025 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 11:16 am</title>
-      <description>6600 BLOCK MOUNTAINVIEW DR Radio: 9C Units: E82, TT4, 9C, E501, K1</description>
-      <guid isPermaLink="false">2025-05-08 11:16:00</guid>
-      <pubDate>Thu, 08 May 2025 11:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:08 am</title>
-      <description>I270NB / 26MM, I270NB / 26MM Radio: 9I Units: 9I, E232, E251, TT23, R3, A239, A735, PE735, EMS901, FS23</description>
-      <guid isPermaLink="false">2025-05-08 11:08:00</guid>
-      <pubDate>Thu, 08 May 2025 11:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 11:04 am</title>
-      <description>400 BLOCK MATLOCK LN Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2025-05-08 11:04:00</guid>
-      <pubDate>Thu, 08 May 2025 11:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
