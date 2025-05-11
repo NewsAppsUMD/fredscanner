@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 May 2025 00:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 01:29:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:59 pm</title>
+      <description>10000 BLOCK BETHEL RD Radio: 9B Units: A229, E221, FS22, 9B</description>
+      <guid isPermaLink="false">2025-05-10 20:59:00</guid>
+      <pubDate>Sat, 10 May 2025 20:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:11 pm</title>
       <description>5500 BLOCK HAYLOFT CT, Apt/Unit:HTTPS://A91.IO/MIJ39 Radio: 9D Units: R20, FS20, E201, ALS20, 9D, A209, EMS901</description>
@@ -300,12 +306,6 @@
       <description>4500 BLOCK TAMKO DR, TAMKO BUILDING PRODUCTS Radio: 9D Units: E11, BC902, SAF901, 9D, HM33, HMSU33, A318, ALS31, R14, PE23</description>
       <guid isPermaLink="false">2025-05-08 10:03:00</guid>
       <pubDate>Thu, 08 May 2025 10:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 10:01 am</title>
-      <description>4500 BLOCK TAMKO DR, TAMKO BUILDING PRODUCTS Radio: 9D Units: E141, E11, BC902, SAF901, 9D, R20, HM33, HMSU33, A318, ALS31</description>
-      <guid isPermaLink="false">2025-05-08 10:01:00</guid>
-      <pubDate>Thu, 08 May 2025 10:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
