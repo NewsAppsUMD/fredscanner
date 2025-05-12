@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 16:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 16:38:30 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 12:13 pm</title>
+      <description>4400 BLOCK GEORGIA PACIFIC BLVD Radio: 9C Units: FS31, 9C, PE311</description>
+      <guid isPermaLink="false">2025-05-12 12:13:00</guid>
+      <pubDate>Mon, 12 May 2025 12:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:51 am</title>
       <description>10700 BLOCK EASTERDAY RD Units: E82</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / GUILFORD DR Radio: 9B Units: PE311, A318, R3, ALS31, EMS902, FS31, 9B</description>
       <guid isPermaLink="false">2025-05-10 14:32:00</guid>
       <pubDate>Sat, 10 May 2025 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 1:47 pm</title>
-      <description>1100 BLOCK SAXTON DR Radio: 9C Units: E291, 9C</description>
-      <guid isPermaLink="false">2025-05-10 13:47:00</guid>
-      <pubDate>Sat, 10 May 2025 13:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
