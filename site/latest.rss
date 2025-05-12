@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 11:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:03:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
+      <description>YELLOW SPRINGS RD / OLD FARM DR Radio: 9B Units: E11, 9B, A19</description>
+      <guid isPermaLink="false">2025-05-12 07:57:00</guid>
+      <pubDate>Mon, 12 May 2025 07:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:52 am</title>
       <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: 9B, E11, R3, A19, A39, E31</description>
@@ -300,12 +306,6 @@
       <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, E251, R15, C15C, E152, BC901, ALS17, CMD15</description>
       <guid isPermaLink="false">2025-05-09 18:17:00</guid>
       <pubDate>Fri, 09 May 2025 18:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:11 pm</title>
-      <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, FS15, R15, E152, CCM18</description>
-      <guid isPermaLink="false">2025-05-09 18:11:00</guid>
-      <pubDate>Fri, 09 May 2025 18:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
