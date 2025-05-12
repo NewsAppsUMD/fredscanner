@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 16:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 17:02:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
+      <description>1500 BLOCK OPOSSUMTOWN PIKE Radio: 9B Units: A299, E291, 9B, FS29</description>
+      <guid isPermaLink="false">2025-05-12 12:40:00</guid>
+      <pubDate>Mon, 12 May 2025 12:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 12:13 pm</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD Radio: 9C Units: FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>15300 BLOCK SABILLASVILLE RD Units: PE102, EK224, A307, ALS30, BC902, BC901, SAF901, E61, FRE193, E221, E133, ACRE3, R10, TW6, Q11, K10, EK64</description>
       <guid isPermaLink="false">2025-05-10 15:55:00</guid>
       <pubDate>Sat, 10 May 2025 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:32 pm</title>
-      <description>NEW DESIGN RD / GUILFORD DR Radio: 9B Units: PE311, A318, R3, ALS31, EMS902, FS31, 9B</description>
-      <guid isPermaLink="false">2025-05-10 14:32:00</guid>
-      <pubDate>Sat, 10 May 2025 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
