@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 13:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 13:39:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
+      <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: 9C, RE52, T5, FS05</description>
+      <guid isPermaLink="false">2025-05-12 09:32:00</guid>
+      <pubDate>Mon, 12 May 2025 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:01 am</title>
       <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: E11, R3, A38, A19, 9B, E31</description>
@@ -300,12 +306,6 @@
       <description>1100 BLOCK POTOMAC VIEW PKWY Units: RE52, T5, FS05</description>
       <guid isPermaLink="false">2025-05-09 21:44:00</guid>
       <pubDate>Fri, 09 May 2025 21:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:34 pm</title>
-      <description>6300 BLOCK SPRING FOREST RD Units: E331, FS33</description>
-      <guid isPermaLink="false">2025-05-09 20:34:00</guid>
-      <pubDate>Fri, 09 May 2025 20:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
