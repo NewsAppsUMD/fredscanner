@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 12:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:43:49 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 8:16 am</title>
+      <description>SCHAFFER DR / BISHOPS GLEN DR Radio: 9C Units: 9C, E291</description>
+      <guid isPermaLink="false">2025-05-12 08:16:00</guid>
+      <pubDate>Mon, 12 May 2025 08:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:04 am</title>
+      <description>400 BLOCK CORMORANT PL, Apt/Unit:3402 Radio: 9C Units: FS29, E111, Q11, 9C</description>
+      <guid isPermaLink="false">2025-05-12 08:04:00</guid>
+      <pubDate>Mon, 12 May 2025 08:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
       <description>YELLOW SPRINGS RD / OLD FARM DR Radio: 9B Units: E11, 9B, A19</description>
@@ -294,18 +306,6 @@
       <description>7800 BLOCK FRIENDS CREEK RD Units: BR65, FS06</description>
       <guid isPermaLink="false">2025-05-09 19:27:00</guid>
       <pubDate>Fri, 09 May 2025 19:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 7:02 pm</title>
-      <description>1100 BLOCK KEY PKWY, Apt/Unit:102, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Units: E11, E31, TT4</description>
-      <guid isPermaLink="false">2025-05-09 19:02:00</guid>
-      <pubDate>Fri, 09 May 2025 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:17 pm</title>
-      <description>12400 BLOCK OLD NATIONAL PIKE Units: A339, EMS901, E251, R15, C15C, E152, BC901, ALS17, CMD15</description>
-      <guid isPermaLink="false">2025-05-09 18:17:00</guid>
-      <pubDate>Fri, 09 May 2025 18:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
