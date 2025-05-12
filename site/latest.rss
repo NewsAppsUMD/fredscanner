@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 May 2025 15:35:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 16:02:34 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:51 am</title>
+      <description>10700 BLOCK EASTERDAY RD Units: E82</description>
+      <guid isPermaLink="false">2025-05-12 11:51:00</guid>
+      <pubDate>Mon, 12 May 2025 11:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 11:51 am</title>
+      <description>10700 BLOCK EASTERDAY RD Units: E82</description>
+      <guid isPermaLink="false">2025-05-12 11:51:00</guid>
+      <pubDate>Mon, 12 May 2025 11:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
       <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: RE52, T5, FS05, 9C</description>
@@ -294,18 +306,6 @@
       <description>1100 BLOCK SAXTON DR Radio: 9C Units: E291, 9C</description>
       <guid isPermaLink="false">2025-05-10 13:47:00</guid>
       <pubDate>Sat, 10 May 2025 13:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 12:50 pm</title>
-      <description>RT194 / RT77 Radio: CCA3 Units: CCA3, E91</description>
-      <guid isPermaLink="false">2025-05-10 12:50:00</guid>
-      <pubDate>Sat, 10 May 2025 12:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:09 pm</title>
-      <description>100 BLOCK STEINER WAY, Bldg:B Radio: 9B Units: A39, TT4, 9B</description>
-      <guid isPermaLink="false">2025-05-10 12:09:00</guid>
-      <pubDate>Sat, 10 May 2025 12:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
