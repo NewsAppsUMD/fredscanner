@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 May 2025 18:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 19:01:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:53 pm</title>
+      <description>200 BLOCK S CHURCH ST, LEE DELAUTER &amp; SONS - MIDDLETOWN Radio: 9C Units: TW7, 9C, E72</description>
+      <guid isPermaLink="false">2025-05-13 14:53:00</guid>
+      <pubDate>Tue, 13 May 2025 14:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:50 pm</title>
+      <description>600 BLOCK ANGELWING LN Radio: 9C Units: E11, E121, TT4, 9C, T1</description>
+      <guid isPermaLink="false">2025-05-13 14:50:00</guid>
+      <pubDate>Tue, 13 May 2025 14:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:47 pm</title>
+      <description>600 BLOCK ANGELWING LN Radio: 9C Units: E121, FS12, 9C, E31, T1</description>
+      <guid isPermaLink="false">2025-05-13 14:47:00</guid>
+      <pubDate>Tue, 13 May 2025 14:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:58 pm</title>
       <description>7900 BLOCK YELLOW SPRINGS RD Radio: 9C Units: E11, 9C</description>
@@ -288,24 +306,6 @@
       <description>6000 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, TW7, FS12, 9C</description>
       <guid isPermaLink="false">2025-05-11 15:57:00</guid>
       <pubDate>Sun, 11 May 2025 15:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:40 pm</title>
-      <description>3800 BLOCK JEFFERSON PIKE Units: A209, E201</description>
-      <guid isPermaLink="false">2025-05-11 15:40:00</guid>
-      <pubDate>Sun, 11 May 2025 15:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 2:38 pm</title>
-      <description>E CHURCH ST / OLD GAS HOUSE PIKE Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-05-11 14:38:00</guid>
-      <pubDate>Sun, 11 May 2025 14:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:17 pm</title>
-      <description>I270NB / RT80(RT80), I270NB / RT80 Radio: 9D Units: FS23, 9D, R3, A238, E231, PRE709, TT23, A259, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-05-11 14:17:00</guid>
-      <pubDate>Sun, 11 May 2025 14:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
