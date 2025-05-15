@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 14:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 15:02:19 +0000</lastBuildDate>
+    <item>
+      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 10:59 am</title>
+      <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9C Units: E281, HM33, 9C</description>
+      <guid isPermaLink="false">2025-05-15 10:59:00</guid>
+      <pubDate>Thu, 15 May 2025 10:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR OUTSIDE: 10:55 am</title>
+      <description>100 BLOCK FAIRFIELD DR Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2025-05-15 10:55:00</guid>
+      <pubDate>Thu, 15 May 2025 10:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 10:52 am</title>
+      <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9C Units: E281, FS28, 9C</description>
+      <guid isPermaLink="false">2025-05-15 10:52:00</guid>
+      <pubDate>Thu, 15 May 2025 10:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:29 am</title>
       <description>8900 BLOCK HAWBOTTOM RD Radio: 9C Units: E72, 9C</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, SUPER 8 MOTEL - FREDERICK Units: E31, TT4</description>
       <guid isPermaLink="false">2025-05-14 05:21:00</guid>
       <pubDate>Wed, 14 May 2025 05:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:03 am</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / HAWBOTTOM RD Units: R8, A89, ALS8, BC903, E121, EMS902</description>
-      <guid isPermaLink="false">2025-05-14 00:03:00</guid>
-      <pubDate>Wed, 14 May 2025 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:35 pm</title>
-      <description>GLISSANS MILL RD / HARRISVILLE RD Radio: 9C Units: E172, 9C, FS17</description>
-      <guid isPermaLink="false">2025-05-13 23:35:00</guid>
-      <pubDate>Tue, 13 May 2025 23:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:29 pm</title>
-      <description>3800 BLOCK BEDFORD DR Radio: 9B Units: 9B, FS20, E201</description>
-      <guid isPermaLink="false">2025-05-13 23:29:00</guid>
-      <pubDate>Tue, 13 May 2025 23:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
