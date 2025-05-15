@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 May 2025 12:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 13:09:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 8:55 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: E232, 9D, PRE709</description>
+      <guid isPermaLink="false">2025-05-15 08:55:00</guid>
+      <pubDate>Thu, 15 May 2025 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:53 am</title>
+      <description>800 BLOCK N MARKET ST Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-05-15 08:53:00</guid>
+      <pubDate>Thu, 15 May 2025 08:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:29 am</title>
       <description>800 BLOCK W MAIN ST Radio: 9C Units: E61, FS06, 9C</description>
@@ -294,18 +306,6 @@
       <description>HINEY RD / HAUGHS CHURCH RD Radio: 9C Units: BR135, FS13, 9C</description>
       <guid isPermaLink="false">2025-05-13 19:23:00</guid>
       <pubDate>Tue, 13 May 2025 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:09 pm</title>
-      <description>1900 BLOCK REGIMENT WAY Units: E11</description>
-      <guid isPermaLink="false">2025-05-13 19:09:00</guid>
-      <pubDate>Tue, 13 May 2025 19:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:08 pm</title>
-      <description>PLEASANT VIEW RD / DOUBS RD Radio: 9C Units: E141, FS14, 9C</description>
-      <guid isPermaLink="false">2025-05-13 19:08:00</guid>
-      <pubDate>Tue, 13 May 2025 19:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
