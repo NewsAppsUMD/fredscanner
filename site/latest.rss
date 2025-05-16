@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 20:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 21:01:56 +0000</lastBuildDate>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 4:54 pm</title>
+      <description>3400 BLOCK WESTPORT DR Radio: 9C Units: 9C, E121, E51, T5, R20, E201, C20</description>
+      <guid isPermaLink="false">2025-05-16 16:54:00</guid>
+      <pubDate>Fri, 16 May 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 4:49 pm</title>
+      <description>3400 BLOCK WESTPORT DR Radio: 9C Units: 9C, E51, T5, FS20, E201</description>
+      <guid isPermaLink="false">2025-05-16 16:49:00</guid>
+      <pubDate>Fri, 16 May 2025 16:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:36 pm</title>
+      <description>BERLIN TPKE / EAGLE ROCK LN Radio: 6B Units: RE52, A197</description>
+      <guid isPermaLink="false">2025-05-16 16:36:00</guid>
+      <pubDate>Fri, 16 May 2025 16:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 3:47 pm</title>
       <description>14600 BLOCK NINA CT Radio: 6DTAC11 Units: R20, T5</description>
@@ -288,24 +306,6 @@
       <description>1200 BLOCK W PATRICK ST, DENNYS RESTAURANT - GOLDEN MARKET MARKETPLACE Radio: 9B Units: A19, E11, 9B</description>
       <guid isPermaLink="false">2025-05-14 21:22:00</guid>
       <pubDate>Wed, 14 May 2025 21:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:05 pm</title>
-      <description>11900 BLOCK ROPP LN Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-05-14 20:05:00</guid>
-      <pubDate>Wed, 14 May 2025 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRANDED IN FLOODWATER: 7:06 pm</title>
-      <description>NEW DESIGN RD / BOAT RAMP Radio: 9C Units: BT28, A149, 9C, R14, SAF901, BT28B, BR285, C14</description>
-      <guid isPermaLink="false">2025-05-14 19:06:00</guid>
-      <pubDate>Wed, 14 May 2025 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRANDED IN FLOODWATER: 7:03 pm</title>
-      <description>NEW DESIGN RD / BOAT RAMP Radio: 9C Units: E141, ABT28, A149, FS14, 9C</description>
-      <guid isPermaLink="false">2025-05-14 19:03:00</guid>
-      <pubDate>Wed, 14 May 2025 19:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
