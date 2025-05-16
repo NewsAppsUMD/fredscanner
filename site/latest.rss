@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 00:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 01:29:43 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 9:17 pm</title>
+      <description>300 BLOCK CORMORANT PL, Apt/Unit:1307, THE RETREAT AT MARKET SQUARE Radio: 9C Units: E291, E111, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-05-15 21:17:00</guid>
+      <pubDate>Thu, 15 May 2025 21:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 8:49 pm</title>
+      <description>1400 BLOCK DOCKSIDE CT Radio: 9C Units: PE23, 9C, E31, TT4</description>
+      <guid isPermaLink="false">2025-05-15 20:49:00</guid>
+      <pubDate>Thu, 15 May 2025 20:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 8:00 pm</title>
       <description>3200 BLOCK SAMS CREEK RD, IAO Radio: 9C Units: CCBR105, FS17, 9C</description>
@@ -294,18 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: RE74</description>
       <guid isPermaLink="false">2025-05-14 14:30:00</guid>
       <pubDate>Wed, 14 May 2025 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:18 pm</title>
-      <description>100 BLOCK E CHURCH ST, EVANGELICAL LUTHERAN CHURCH - FREDERICK Radio: 9C Units: TT4, 9C, E31</description>
-      <guid isPermaLink="false">2025-05-14 14:18:00</guid>
-      <pubDate>Wed, 14 May 2025 14:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
-      <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: PE102, TW6, 9C</description>
-      <guid isPermaLink="false">2025-05-14 13:46:00</guid>
-      <pubDate>Wed, 14 May 2025 13:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
