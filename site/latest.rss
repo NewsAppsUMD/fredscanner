@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 May 2025 21:01:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 21:32:29 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 5:25 pm</title>
+      <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:25:00</guid>
+      <pubDate>Fri, 16 May 2025 17:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 5:23 pm</title>
+      <description>4500 BLOCK BILL MOXLEY RD Radio: 9C Units: FS25, E251, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:23:00</guid>
+      <pubDate>Fri, 16 May 2025 17:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:19 pm</title>
+      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, 9C, BR116</description>
+      <guid isPermaLink="false">2025-05-16 17:19:00</guid>
+      <pubDate>Fri, 16 May 2025 17:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:14 pm</title>
+      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, FS17, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:14:00</guid>
+      <pubDate>Fri, 16 May 2025 17:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:11 pm</title>
+      <description>RT26 / RT75, RT26 / RT75 Radio: 9C Units: BR176, FS17, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:11:00</guid>
+      <pubDate>Fri, 16 May 2025 17:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 5:06 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: BR106, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:06:00</guid>
+      <pubDate>Fri, 16 May 2025 17:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:02 pm</title>
+      <description>7900 BLOCK LEWISTOWN RD Radio: 9C Units: BR226, FS22, 9C</description>
+      <guid isPermaLink="false">2025-05-16 17:02:00</guid>
+      <pubDate>Fri, 16 May 2025 17:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHTNING STRIKE - STRUCTURE: 4:54 pm</title>
       <description>3400 BLOCK WESTPORT DR Radio: 9C Units: 9C, E121, E51, T5, R20, E201, C20</description>
@@ -264,48 +306,6 @@
       <description>800 BLOCK W MAIN ST Radio: 9C Units: E61, FS06, 9C</description>
       <guid isPermaLink="false">2025-05-15 08:29:00</guid>
       <pubDate>Thu, 15 May 2025 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:04 am</title>
-      <description>1300 BLOCK MONOCACY CROSSING PKWY Radio: 9C Units: E51, FS05, 9C</description>
-      <guid isPermaLink="false">2025-05-15 07:04:00</guid>
-      <pubDate>Thu, 15 May 2025 07:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:32 am</title>
-      <description>900 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E201, 9C, R19, T5, RE52</description>
-      <guid isPermaLink="false">2025-05-15 00:32:00</guid>
-      <pubDate>Thu, 15 May 2025 00:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:26 am</title>
-      <description>900 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E201, 9C, E51, T5, FS05</description>
-      <guid isPermaLink="false">2025-05-15 00:26:00</guid>
-      <pubDate>Thu, 15 May 2025 00:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 11:04 pm</title>
-      <description>1000 BLOCK KEY PKWY, WALGREENS PHARMACY - KEY PKWY Radio: 9D Units: A18, ALS2, 9D, E11, EMS902</description>
-      <guid isPermaLink="false">2025-05-14 23:04:00</guid>
-      <pubDate>Wed, 14 May 2025 23:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:10 pm</title>
-      <description>7100 BLOCK BLUE MOUNTAIN RD Radio: 9C Units: PE102, 9C</description>
-      <guid isPermaLink="false">2025-05-14 22:10:00</guid>
-      <pubDate>Wed, 14 May 2025 22:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:00 pm</title>
-      <description>100 BLOCK SANDSTONE DR, Apt/Unit:301, VICTORIA PARK AT WALKERSVILLE Radio: 9C Units: 9C, E111, E161, Q11, FS11</description>
-      <guid isPermaLink="false">2025-05-14 22:00:00</guid>
-      <pubDate>Wed, 14 May 2025 22:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:22 pm</title>
-      <description>1200 BLOCK W PATRICK ST, DENNYS RESTAURANT - GOLDEN MARKET MARKETPLACE Radio: 9B Units: A19, E11, 9B</description>
-      <guid isPermaLink="false">2025-05-14 21:22:00</guid>
-      <pubDate>Wed, 14 May 2025 21:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
