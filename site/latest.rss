@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 May 2025 12:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 12:43:15 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:36 am</title>
+      <description>6700 BLOCK BURKITTSVILLE RD Radio: 9C Units: BR75, 9C</description>
+      <guid isPermaLink="false">2025-05-17 08:36:00</guid>
+      <pubDate>Sat, 17 May 2025 08:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:26 am</title>
       <description>5500 BLOCK YOUNG FAMILY TRL E Radio: 9C Units: E141, FS14, 9C</description>
@@ -300,12 +306,6 @@
       <description>PETERSVILLE RD / W B ST Units: R19, EMS902, FS05, RE52, A196, ALS20</description>
       <guid isPermaLink="false">2025-05-15 14:27:00</guid>
       <pubDate>Thu, 15 May 2025 14:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
-      <description>4800 BLOCK WINCHESTER BLVD Units: EK204, TT4, FS14</description>
-      <guid isPermaLink="false">2025-05-15 13:46:00</guid>
-      <pubDate>Thu, 15 May 2025 13:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
