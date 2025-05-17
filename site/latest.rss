@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 May 2025 18:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 18:37:07 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:24 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: E501, R2, A18, A28, ALS2, 9D, E11, EMS902</description>
+      <guid isPermaLink="false">2025-05-17 14:24:00</guid>
+      <pubDate>Sat, 17 May 2025 14:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 1:55 pm</title>
       <description>6500 BLOCK WILLARD HORINE CT Radio: 9C Units: FS31, PE311, 9C</description>
@@ -300,12 +306,6 @@
       <description>EDGEMONT RD / OLD NATIONAL PIKE Radio: 9C Units: E121, FS12, 9C</description>
       <guid isPermaLink="false">2025-05-15 19:11:00</guid>
       <pubDate>Thu, 15 May 2025 19:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:39 pm</title>
-      <description>8600 BLOCK SHRYOCK MILL RD Radio: 9C Units: BR226, FS22, 9C</description>
-      <guid isPermaLink="false">2025-05-15 18:39:00</guid>
-      <pubDate>Thu, 15 May 2025 18:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
