@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 May 2025 20:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 20:33:36 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:24 pm</title>
+      <description>6600 BLOCK COLDSTREAM DR W Radio: 9D Units: ALS33, E152, EMS901, FS15, 9D, A159</description>
+      <guid isPermaLink="false">2025-05-17 16:24:00</guid>
+      <pubDate>Sat, 17 May 2025 16:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:20 pm</title>
+      <description>6100 BLOCK SPRINGWATER PL, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331, FS33, R3, 9C</description>
+      <guid isPermaLink="false">2025-05-17 16:20:00</guid>
+      <pubDate>Sat, 17 May 2025 16:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, REGAL CINEMAS WESTVIEW STADIUM 16 - WESTVIEW PROMENADE Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-05-17 16:08:00</guid>
+      <pubDate>Sat, 17 May 2025 16:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 2:24 pm</title>
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: E501, R2, A18, A28, ALS2, 9D, E11, EMS902</description>
@@ -288,24 +306,6 @@
       <description>3200 BLOCK SAMS CREEK RD, IAO Radio: 9C Units: CCBR105, FS17, 9C</description>
       <guid isPermaLink="false">2025-05-15 20:00:00</guid>
       <pubDate>Thu, 15 May 2025 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:26 pm</title>
-      <description>7900 BLOCK MAPLEVILLE RD Units: E82</description>
-      <guid isPermaLink="false">2025-05-15 19:26:00</guid>
-      <pubDate>Thu, 15 May 2025 19:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:16 pm</title>
-      <description>1600 BLOCK PINDER ST, Apt/Unit:105 Radio: 9C Units: PE23, TT4, 9C</description>
-      <guid isPermaLink="false">2025-05-15 19:16:00</guid>
-      <pubDate>Thu, 15 May 2025 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 7:11 pm</title>
-      <description>EDGEMONT RD / OLD NATIONAL PIKE Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-05-15 19:11:00</guid>
-      <pubDate>Thu, 15 May 2025 19:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
