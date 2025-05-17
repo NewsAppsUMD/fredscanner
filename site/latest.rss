@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 May 2025 02:56:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 03:20:03 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 11:12 pm</title>
+      <description>400 BLOCK E SEVENTH ST, WE ARE OUTSIDE Units: E111, PE23, E31, E331, E501, R3, TW1, T50, A28, ALS2, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-05-16 23:12:00</guid>
+      <pubDate>Fri, 16 May 2025 23:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:06 pm</title>
+      <description>4900 BLOCKC MERIDIAN WAY, Apt/Unit:32 Units: PE311, TT4, FS31</description>
+      <guid isPermaLink="false">2025-05-16 23:06:00</guid>
+      <pubDate>Fri, 16 May 2025 23:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:06 pm</title>
       <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS - YELLOW SPRINGS Radio: 9C Units: 9C, E11, E501, T50</description>
@@ -294,18 +306,6 @@
       <description>POTOMAC RIVER / LOCK33 Units: A197, RE52, ALS20, BT19, BC903</description>
       <guid isPermaLink="false">2025-05-15 12:20:00</guid>
       <pubDate>Thu, 15 May 2025 12:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 11:31 am</title>
-      <description>600 BLOCK SOLAREX CT, Apt/Unit:SUIT 202, CENTERPARK PROFESSIONAL CENTER - CENTERGATE Radio: 9C Units: PE311, FS31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-05-15 11:31:00</guid>
-      <pubDate>Thu, 15 May 2025 11:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:21 am</title>
-      <description>WOODSBORO PIKE / COPPERMINE RD Units: C16, E161, ALS17, BC902, EMS902, SAF901, R24, C9C, RE171, FS16, CMD16, A249, A169</description>
-      <guid isPermaLink="false">2025-05-15 11:21:00</guid>
-      <pubDate>Thu, 15 May 2025 11:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
