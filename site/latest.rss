@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 00:46:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 01:29:50 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:12 pm</title>
+      <description>11900 BLOCK WOODLAND WAY RD Radio: 9C Units: BR216, FS21, 9C</description>
+      <guid isPermaLink="false">2025-05-17 21:12:00</guid>
+      <pubDate>Sat, 17 May 2025 21:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:17 pm</title>
       <description>3600 BLOCK PETERSVILLE RD Units: PE612B, T5, R20, A197, ALS20, BC902, BC900, SAF901, FS05, E51, E201, E281, JCRE1, R19</description>
@@ -300,12 +306,6 @@
       <description>WOODSBORO PIKE / GLADE RD, IAO Radio: 9B Units: A169, E162, FS16, 9B</description>
       <guid isPermaLink="false">2025-05-16 09:10:00</guid>
       <pubDate>Fri, 16 May 2025 09:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:10 am</title>
-      <description>1700 BLOCK SPRINGHOUSE CT Units: E291, T50, FS29, E501</description>
-      <guid isPermaLink="false">2025-05-16 04:10:00</guid>
-      <pubDate>Fri, 16 May 2025 04:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
