@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 23:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 23:32:39 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:10 pm</title>
+      <description>5600 BLOCK PINE BLUFF CT Radio: 9C Units: E331, 9C, FS33</description>
+      <guid isPermaLink="false">2025-05-18 19:10:00</guid>
+      <pubDate>Sun, 18 May 2025 19:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 5:04 pm</title>
       <description>APPLES CHURCH RD / OWENS CREEK XING Radio: 9B Units: A69, E102, 9B, R10, ALS30, EMS901</description>
@@ -300,12 +306,6 @@
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / RT40 Units: WCE161, WCA752, A89, E72, R8</description>
       <guid isPermaLink="false">2025-05-16 18:24:00</guid>
       <pubDate>Fri, 16 May 2025 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:13 pm</title>
-      <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Units: A249, E111, FS11</description>
-      <guid isPermaLink="false">2025-05-16 18:13:00</guid>
-      <pubDate>Fri, 16 May 2025 18:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
