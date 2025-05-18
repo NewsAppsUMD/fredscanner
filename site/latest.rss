@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 19:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 19:31:23 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:14 pm</title>
+      <description>MOTTER AVE / RAMP MOTTER AVE TO RT15NB RAMP Radio: 9B Units: 9B, A19, PE23</description>
+      <guid isPermaLink="false">2025-05-18 15:14:00</guid>
+      <pubDate>Sun, 18 May 2025 15:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
+      <description>10000 BLOCK OLD NATIONAL PIKE Radio: 9B Units: A339, E331, FS33, 9B</description>
+      <guid isPermaLink="false">2025-05-18 14:59:00</guid>
+      <pubDate>Sun, 18 May 2025 14:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:10 pm</title>
       <description>1000 BLOCKG HEATHER RIDGE DR, Apt/Unit:211 Radio: 9D Units: A299, ALS29, PE23, E11, E291, E501, E31, R3, T50, TW1, BC903, SAF901, BC902, 9D, C2B, E111, FS29</description>
@@ -294,18 +306,6 @@
       <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, 9C, BR116</description>
       <guid isPermaLink="false">2025-05-16 17:19:00</guid>
       <pubDate>Fri, 16 May 2025 17:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:14 pm</title>
-      <description>10300 BLOCK OLD LIBERTY RD Radio: 9C Units: BR175, FS17, 9C</description>
-      <guid isPermaLink="false">2025-05-16 17:14:00</guid>
-      <pubDate>Fri, 16 May 2025 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:11 pm</title>
-      <description>RT26 / RT75, RT26 / RT75 Radio: 9C Units: BR176, FS17, 9C</description>
-      <guid isPermaLink="false">2025-05-16 17:11:00</guid>
-      <pubDate>Fri, 16 May 2025 17:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
