@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 May 2025 11:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 12:02:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:33 am</title>
+      <description>I270NB / RT80, I270NB / RT80 Radio: 9D Units: BC901, EMS901, 9D, E232, E251, TT23, R3, A238, FS23, A735, ALS23</description>
+      <guid isPermaLink="false">2025-05-18 07:33:00</guid>
+      <pubDate>Sun, 18 May 2025 07:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:55 am</title>
       <description>I70WB / RT180, I70WB / MOUNT PHILLIP RD Radio: 9B Units: A38, A129, 9B, E121, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>10900 BLOCK TANEYTOWN PIKE, TOMS CREEK CHURCH CEMETERY Radio: 91C Units: FS06, 91C, R6</description>
       <guid isPermaLink="false">2025-05-16 15:01:00</guid>
       <pubDate>Fri, 16 May 2025 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 1:25 pm</title>
-      <description>200 BLOCK DILL AVE Radio: 9C Units: E23, E33, 9C, R3</description>
-      <guid isPermaLink="false">2025-05-16 13:25:00</guid>
-      <pubDate>Fri, 16 May 2025 13:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
