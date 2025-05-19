@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 May 2025 16:38:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 17:01:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:58 pm</title>
+      <description>19000 BLOCK SANDY HOOK RD Radio: PS2 Units: RE52, A196, ALS20, PS2</description>
+      <guid isPermaLink="false">2025-05-19 12:58:00</guid>
+      <pubDate>Mon, 19 May 2025 12:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:39 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, Q11, EK114, 9C, BC902, E221, E291, K1</description>
+      <guid isPermaLink="false">2025-05-19 12:39:00</guid>
+      <pubDate>Mon, 19 May 2025 12:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:38 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, Q11, 9C, BC902, E221, E291, K1</description>
+      <guid isPermaLink="false">2025-05-19 12:38:00</guid>
+      <pubDate>Mon, 19 May 2025 12:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:38 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, Q11, 9C, BC902, E221, E291, K1</description>
+      <guid isPermaLink="false">2025-05-19 12:38:00</guid>
+      <pubDate>Mon, 19 May 2025 12:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:38 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, Q11, 9C, BC902, E221, E291, K1</description>
+      <guid isPermaLink="false">2025-05-19 12:38:00</guid>
+      <pubDate>Mon, 19 May 2025 12:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:36 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, 9C, BC902, E221, E291</description>
+      <guid isPermaLink="false">2025-05-19 12:36:00</guid>
+      <pubDate>Mon, 19 May 2025 12:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL BUILDING FIRE: 12:33 pm</title>
       <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, E291, 9C, E221, FS22</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK BLK RAMP RT85 TO I7100 BLOCKEB RAMP Radio: 9B Units: E31, 9B, A39</description>
       <guid isPermaLink="false">2025-05-17 11:00:00</guid>
       <pubDate>Sat, 17 May 2025 11:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:57 am</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS - YELLOW SPRINGS Radio: 9C Units: E501, T50, 9C, E11</description>
-      <guid isPermaLink="false">2025-05-17 10:57:00</guid>
-      <pubDate>Sat, 17 May 2025 10:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:36 am</title>
-      <description>6700 BLOCK BURKITTSVILLE RD Radio: 9C Units: BR75, 9C</description>
-      <guid isPermaLink="false">2025-05-17 08:36:00</guid>
-      <pubDate>Sat, 17 May 2025 08:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:26 am</title>
-      <description>5500 BLOCK YOUNG FAMILY TRL E Radio: 9C Units: E141, FS14, 9C</description>
-      <guid isPermaLink="false">2025-05-17 07:26:00</guid>
-      <pubDate>Sat, 17 May 2025 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:13 am</title>
-      <description>NEW DESIGN RD / ADAMSTOWN RD Radio: 9C Units: BR145, FS14, 9C</description>
-      <guid isPermaLink="false">2025-05-17 07:13:00</guid>
-      <pubDate>Sat, 17 May 2025 07:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:26 am</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS - YELLOW SPRINGS Units: E11, PE23, T50</description>
-      <guid isPermaLink="false">2025-05-17 05:26:00</guid>
-      <pubDate>Sat, 17 May 2025 05:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:42 am</title>
-      <description>11700 BLOCK BROWNINGSVILLE RD Units: E251, FS25</description>
-      <guid isPermaLink="false">2025-05-17 04:42:00</guid>
-      <pubDate>Sat, 17 May 2025 04:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
