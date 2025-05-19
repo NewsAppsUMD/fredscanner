@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 May 2025 21:32:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 22:02:15 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:31 pm</title>
+      <description>6600 BLOCK MOUNT PHILLIP RD Radio: 9C Units: E121, FS12, 9C</description>
+      <guid isPermaLink="false">2025-05-19 17:31:00</guid>
+      <pubDate>Mon, 19 May 2025 17:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 3:32 pm</title>
       <description>100 BLOCK AIRPORT DR E(P), FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: E331, FS33, 9C</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK WILLARD HORINE CT Radio: 9C Units: FS31, PE311, 9C</description>
       <guid isPermaLink="false">2025-05-17 13:55:00</guid>
       <pubDate>Sat, 17 May 2025 13:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 1:42 pm</title>
-      <description>10900 BLOCK RUM SPRING RD Radio: 9D Units: E121, FS21, 9D</description>
-      <guid isPermaLink="false">2025-05-17 13:42:00</guid>
-      <pubDate>Sat, 17 May 2025 13:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
