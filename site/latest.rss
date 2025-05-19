@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 May 2025 16:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 16:38:03 +0000</lastBuildDate>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:33 pm</title>
+      <description>10900 BLOCK BETHEL RD Radio: 9C Units: PE102, R10, EK224, A229, E291, 9C, E221, FS22</description>
+      <guid isPermaLink="false">2025-05-19 12:33:00</guid>
+      <pubDate>Mon, 19 May 2025 12:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:12 pm</title>
+      <description>100 BLOCK S LOUDOUN ST LOVETTSVILLE ES, LOVETTSVILLE ES Radio: 6B Units: T5</description>
+      <guid isPermaLink="false">2025-05-19 12:12:00</guid>
+      <pubDate>Mon, 19 May 2025 12:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>WATER RESCUE: 11:45 am</title>
       <description>POTOMAC RIVER/ WEAVERTON LAUNCH, BYPASSED TO: WASHINGTON COUNTY HUMAN DEVELOPMENT,5430 MOUNT ZION RD,FREDERICK Units: BT19, A197, BT28, ALS20</description>
@@ -294,18 +306,6 @@
       <description>11700 BLOCK BROWNINGSVILLE RD Units: E251, FS25</description>
       <guid isPermaLink="false">2025-05-17 04:42:00</guid>
       <pubDate>Sat, 17 May 2025 04:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:34 am</title>
-      <description>9700 BLOCK REICHS FORD RD Units: A259, E251, FS25</description>
-      <guid isPermaLink="false">2025-05-17 00:34:00</guid>
-      <pubDate>Sat, 17 May 2025 00:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:12 pm</title>
-      <description>400 BLOCK E SEVENTH ST, WE ARE OUTSIDE Units: E111, PE23, E31, E331, E501, R3, TW1, T50, A28, ALS2, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-05-16 23:12:00</guid>
-      <pubDate>Fri, 16 May 2025 23:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
