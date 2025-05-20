@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 19:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 19:31:28 +0000</lastBuildDate>
+    <item>
+      <title>BUS ACCIDENT: 2:59 pm</title>
+      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9D Units: A179, E152, W17, VOLDC900, C15C, RE171, R15, C15, A259, A339, 9D, A249, C900, CMD17, A169, ALS17, EMS901</description>
+      <guid isPermaLink="false">2025-05-20 14:59:00</guid>
+      <pubDate>Tue, 20 May 2025 14:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:38 pm</title>
       <description>OLD NATIONAL PIKE / IJAMSVILLE RD Radio: 9B Units: A39, E331, FS33, 9B</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCKG HEATHER RIDGE DR, Apt/Unit:211 Radio: 9D Units: A299, ALS29, PE23, E11, E291, E501, E31, R3, T50, TW1, BC903, SAF901, BC902, 9D, C2B, E111, FS29</description>
       <guid isPermaLink="false">2025-05-18 13:10:00</guid>
       <pubDate>Sun, 18 May 2025 13:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:09 pm</title>
-      <description>1000 BLOCKG HEATHER RIDGE DR, Apt/Unit:211 Radio: 9D Units: A299, ALS29, PE23, E11, E291, E501, E31, R3, T50, TW1, BC903, SAF901, FS29, BC902, 9D</description>
-      <guid isPermaLink="false">2025-05-18 13:09:00</guid>
-      <pubDate>Sun, 18 May 2025 13:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
