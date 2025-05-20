@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 18:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 18:39:37 +0000</lastBuildDate>
+    <item>
+      <title>BUS ACCIDENT: 2:27 pm</title>
+      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9D Units: A179, E152, E251, RE171, R15, A259, A339, FS17, 9D, A169, ALS17, EMS901</description>
+      <guid isPermaLink="false">2025-05-20 14:27:00</guid>
+      <pubDate>Tue, 20 May 2025 14:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:06 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: BC901, SAFCAPT900, BC903, PE23</description>
+      <guid isPermaLink="false">2025-05-20 14:06:00</guid>
+      <pubDate>Tue, 20 May 2025 14:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:54 pm</title>
       <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: E11, TT4, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>CATOCTIN FURNACE RD / HILLSIDE AVE Units: A307, R10</description>
       <guid isPermaLink="false">2025-05-18 10:47:00</guid>
       <pubDate>Sun, 18 May 2025 10:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:10 am</title>
-      <description>3200 BLOCK PRICES DISTILLERY RD Radio: 9C Units: BR235, FS25, 9C</description>
-      <guid isPermaLink="false">2025-05-18 10:10:00</guid>
-      <pubDate>Sun, 18 May 2025 10:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 9:10 am</title>
-      <description>URBANA PIKE / FINGERBOARD RD Radio: 9D Units: A238, ALS23, EMS902, FS23, 9D, E232, TT23, R3</description>
-      <guid isPermaLink="false">2025-05-18 09:10:00</guid>
-      <pubDate>Sun, 18 May 2025 09:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
