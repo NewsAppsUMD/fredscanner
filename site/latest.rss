@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 15:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 15:35:45 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:26 am</title>
+      <description>4200 BLOCK REELS MILL RD Radio: 9C Units: BR235, FS23, 9C</description>
+      <guid isPermaLink="false">2025-05-20 11:26:00</guid>
+      <pubDate>Tue, 20 May 2025 11:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:45 am</title>
       <description>9100 BLOCK VANGUARD LN Radio: 9C Units: FS23, E232, 9C, T23</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Radio: 9D Units: A18, BC902, EMS902, 9D, ALS2, E11</description>
       <guid isPermaLink="false">2025-05-17 22:08:00</guid>
       <pubDate>Sat, 17 May 2025 22:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:12 pm</title>
-      <description>11900 BLOCK WOODLAND WAY RD Radio: 9C Units: BR216, FS21, 9C</description>
-      <guid isPermaLink="false">2025-05-17 21:12:00</guid>
-      <pubDate>Sat, 17 May 2025 21:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
