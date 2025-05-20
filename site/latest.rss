@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 13:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 13:39:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:14 am</title>
+      <description>I70WB / APPALACHIAN TRAIL, I70WB / APPALACHIAN TRAIL Radio: 9B Units: WCE161, E72, R8, A89, WCA756, 9B</description>
+      <guid isPermaLink="false">2025-05-20 09:14:00</guid>
+      <pubDate>Tue, 20 May 2025 09:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 11:31 pm</title>
       <description>200 BLOCK FREDERICK RD, HIGHS STORE - THURMONT Radio: 9C Units: E102, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BUELL DR Radio: 9B Units: A28, E291, 9B, FS29</description>
       <guid isPermaLink="false">2025-05-17 20:01:00</guid>
       <pubDate>Sat, 17 May 2025 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:41 pm</title>
-      <description>1200 BLOCK ALBAN CT, Apt/Unit:TA, THE GROVE AT ALBAN - 1200 BLOCK ALBAN CT Radio: 9D Units: E31, E121, R3, TT4, T50, E501, 9D, E11, A19, ALS4, BC903, BC901, SAF901, PE23</description>
-      <guid isPermaLink="false">2025-05-17 19:41:00</guid>
-      <pubDate>Sat, 17 May 2025 19:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
