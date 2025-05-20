@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 May 2025 13:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 14:02:10 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 9:42 am</title>
+      <description>8300 BLOCK REVELATION AVE Units: E111</description>
+      <guid isPermaLink="false">2025-05-20 09:42:00</guid>
+      <pubDate>Tue, 20 May 2025 09:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:14 am</title>
       <description>I70WB / APPALACHIAN TRAIL, I70WB / APPALACHIAN TRAIL Radio: 9B Units: WCE161, E72, R8, A89, WCA756, 9B</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK PETERSVILLE RD Units: PE612B, T5, R20, A197, ALS20, BC902, BC900, SAF901, FS05, E51, E201, E281, JCRE1, R19</description>
       <guid isPermaLink="false">2025-05-17 20:17:00</guid>
       <pubDate>Sat, 17 May 2025 20:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:01 pm</title>
-      <description>100 BLOCK BUELL DR Radio: 9B Units: A28, E291, 9B, FS29</description>
-      <guid isPermaLink="false">2025-05-17 20:01:00</guid>
-      <pubDate>Sat, 17 May 2025 20:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
