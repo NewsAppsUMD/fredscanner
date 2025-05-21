@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 20:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 21:02:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
+      <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A318, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2025-05-21 16:49:00</guid>
+      <pubDate>Wed, 21 May 2025 16:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:38 pm</title>
       <description>100 BLOCK LINDEN BLVD Radio: 9C Units: 9C, E72</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK FOX CHASE RD Units: A339, R3, E152, C15B, BC903, R15, A159, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24</description>
       <guid isPermaLink="false">2025-05-19 18:16:00</guid>
       <pubDate>Mon, 19 May 2025 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:10 pm</title>
-      <description>6900 BLOCK FOX CHASE RD Units: FS15, E152, R15, A159, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24, BC902</description>
-      <guid isPermaLink="false">2025-05-19 18:10:00</guid>
-      <pubDate>Mon, 19 May 2025 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
