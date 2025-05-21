@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 01:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 02:15:24 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:56 pm</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: K1</description>
+      <guid isPermaLink="false">2025-05-20 21:56:00</guid>
+      <pubDate>Tue, 20 May 2025 21:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:54 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, CMD6, EK114, E132, EMS902, C6, ACRE2, PE102, CCE111, C13B, R6, TW6, ACEK3, E61, CCLDR5, EK64, K10, A69, ALS30, BC902, BC901, SAF901, ACE232, CCEK54, ACEK23, ACE22, E91, TTF, CCEK84, EK224, RID, W6, ACE11, R10, ACT1, A309</description>
+      <guid isPermaLink="false">2025-05-20 21:54:00</guid>
+      <pubDate>Tue, 20 May 2025 21:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:49 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, CMD6, E132, EMS902, C6, ACRE2, PE102, CCE111, FS06, R6, TW6, ACEK3, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, CCEK54, ACEK23, ACE22, E91, K9, TTF, CCEK84, CCEK112, EK224, RID, W6, ACE11, R10, ACT1, A309</description>
+      <guid isPermaLink="false">2025-05-20 21:49:00</guid>
+      <pubDate>Tue, 20 May 2025 21:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:41 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, R10, E132, C6, FS06, PE102, CCE111, ACE22, R6, TW6, E221, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91, ACEK23, CCEK54, K9, TTF, ACRE2, CCEK112, EK224, ACK22, ACE232, W6</description>
+      <guid isPermaLink="false">2025-05-20 21:41:00</guid>
+      <pubDate>Tue, 20 May 2025 21:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:37 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, ACT1, R10, E132, C6, PE102, CCE111, ACE22, R6, TW6, E221, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91, ACEK23, CCEK54</description>
+      <guid isPermaLink="false">2025-05-20 21:37:00</guid>
+      <pubDate>Tue, 20 May 2025 21:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:33 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: E132, E133, PE102, CCE111, ACE22, R6, TW6, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91</description>
+      <guid isPermaLink="false">2025-05-20 21:33:00</guid>
+      <pubDate>Tue, 20 May 2025 21:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:32 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: FS06, E132, E133, PE102, CCE111, ACE22, R6, TW6, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-05-20 21:32:00</guid>
+      <pubDate>Tue, 20 May 2025 21:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:32 pm</title>
       <description>1800 BLOCK KING PL, FORT DETRICK - BLDG 1800 BLOCK Units: HM33, ALS29, BC902, SAF901, E501, E11, T50, BC950, HMSU33, A18</description>
@@ -264,48 +306,6 @@
       <description>100 BLOCK S LOUDOUN ST LOVETTSVILLE ES, LOVETTSVILLE ES Radio: 6B Units: T5</description>
       <guid isPermaLink="false">2025-05-19 12:12:00</guid>
       <pubDate>Mon, 19 May 2025 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 11:45 am</title>
-      <description>POTOMAC RIVER/ WEAVERTON LAUNCH, BYPASSED TO: WASHINGTON COUNTY HUMAN DEVELOPMENT,5430 MOUNT ZION RD,FREDERICK Units: BT19, A197, BT28, ALS20</description>
-      <guid isPermaLink="false">2025-05-19 11:45:00</guid>
-      <pubDate>Mon, 19 May 2025 11:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:42 am</title>
-      <description>100 BLOCK CUMMINGS DR, BRUNSWICK HIGH SCHOOL Units: TW1, E51, T5, E281</description>
-      <guid isPermaLink="false">2025-05-19 10:42:00</guid>
-      <pubDate>Mon, 19 May 2025 10:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:35 am</title>
-      <description>100 BLOCK CUMMINGS DR, BRUNSWICK HIGH SCHOOL Units: E51, T5, FS05</description>
-      <guid isPermaLink="false">2025-05-19 10:35:00</guid>
-      <pubDate>Mon, 19 May 2025 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:31 pm</title>
-      <description>100 BLOCK AIRPORT DR E(P), FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: FS33, 9C, E331, TW1</description>
-      <guid isPermaLink="false">2025-05-18 23:31:00</guid>
-      <pubDate>Sun, 18 May 2025 23:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:26 pm</title>
-      <description>100 BLOCK W CHURCH ST Radio: 9C Units: PE23, TT4, 9C</description>
-      <guid isPermaLink="false">2025-05-18 23:26:00</guid>
-      <pubDate>Sun, 18 May 2025 23:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:54 pm</title>
-      <description>E PATRICK ST / MONOCACY BLVD Radio: 9C Units: E31, 9C</description>
-      <guid isPermaLink="false">2025-05-18 19:54:00</guid>
-      <pubDate>Sun, 18 May 2025 19:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:10 pm</title>
-      <description>5600 BLOCK PINE BLUFF CT Radio: 9C Units: E331, 9C, FS33</description>
-      <guid isPermaLink="false">2025-05-18 19:10:00</guid>
-      <pubDate>Sun, 18 May 2025 19:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
