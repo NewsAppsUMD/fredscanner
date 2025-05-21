@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 18:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 19:01:42 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:38 pm</title>
+      <description>100 BLOCK LINDEN BLVD Radio: 9C Units: 9C, E72</description>
+      <guid isPermaLink="false">2025-05-21 14:38:00</guid>
+      <pubDate>Wed, 21 May 2025 14:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:49 pm</title>
       <description>3700 BLOCK LAWSON RD Radio: 9B Units: A259, E251, FS25, 9B</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK FOX CHASE RD Units: FS15, E152, R15, A159, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24, BC902</description>
       <guid isPermaLink="false">2025-05-19 18:10:00</guid>
       <pubDate>Mon, 19 May 2025 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:31 pm</title>
-      <description>6600 BLOCK MOUNT PHILLIP RD Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-05-19 17:31:00</guid>
-      <pubDate>Mon, 19 May 2025 17:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
