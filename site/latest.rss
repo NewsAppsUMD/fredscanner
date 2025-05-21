@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 22:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 22:35:27 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:32 pm</title>
+      <description>9200 BLOCK BEALLS FARM RD Radio: 9C Units: E232, FS23, 9C</description>
+      <guid isPermaLink="false">2025-05-21 18:32:00</guid>
+      <pubDate>Wed, 21 May 2025 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
       <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK FOX CHASE RD Units: A339, E152, C15B, BC903, RID, E31, R3, A159, EMS902, W15, FS15, CMD15, R15, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24</description>
       <guid isPermaLink="false">2025-05-19 18:25:00</guid>
       <pubDate>Mon, 19 May 2025 18:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:16 pm</title>
-      <description>6900 BLOCK FOX CHASE RD Units: A339, R3, E152, C15B, BC903, R15, A159, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24</description>
-      <guid isPermaLink="false">2025-05-19 18:16:00</guid>
-      <pubDate>Mon, 19 May 2025 18:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
