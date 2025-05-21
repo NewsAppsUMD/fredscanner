@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 13:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 May 2025 13:39:18 +0000</lastBuildDate>
+    <item>
+      <title>REKINDLE: 9:26 am</title>
+      <description>10300 BLOCK KEYSVILLE RD Units: E61</description>
+      <guid isPermaLink="false">2025-05-21 09:26:00</guid>
+      <pubDate>Wed, 21 May 2025 09:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 7:47 am</title>
       <description>300 BLOCK W MAIN ST, CROWS NEST CAMPGROUND Radio: 9C Units: PE102, K10, 9C</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / LAMBERT DR Radio: 9D Units: PE311, EMS901, FS31, 9D, A318</description>
       <guid isPermaLink="false">2025-05-19 14:30:00</guid>
       <pubDate>Mon, 19 May 2025 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:19 pm</title>
-      <description>3600 BLOCK SPRIGG ST S Radio: 9C Units: T23, FS23, 9C</description>
-      <guid isPermaLink="false">2025-05-19 13:19:00</guid>
-      <pubDate>Mon, 19 May 2025 13:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
