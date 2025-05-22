@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 09:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 10:02:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:56 am</title>
+      <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: EMS901, 9D, BC903, E121, E31, R3, A129, A39, ALS4</description>
+      <guid isPermaLink="false">2025-05-22 05:56:00</guid>
+      <pubDate>Thu, 22 May 2025 05:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:52 am</title>
+      <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: EMS901, 9D, E121, E31, R3, A129, A39, ALS4</description>
+      <guid isPermaLink="false">2025-05-22 05:52:00</guid>
+      <pubDate>Thu, 22 May 2025 05:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 3:38 am</title>
       <description>6500 BLOCK SPRINGWATER CT, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E31, R3, 9C, E331, FS33</description>
@@ -294,18 +306,6 @@
       <description>9100 BLOCK VANGUARD LN Radio: 9C Units: FS23, E232, 9C, T23</description>
       <guid isPermaLink="false">2025-05-20 10:45:00</guid>
       <pubDate>Tue, 20 May 2025 10:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:42 am</title>
-      <description>8300 BLOCK REVELATION AVE Units: E111</description>
-      <guid isPermaLink="false">2025-05-20 09:42:00</guid>
-      <pubDate>Tue, 20 May 2025 09:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:14 am</title>
-      <description>I70WB / APPALACHIAN TRAIL, I70WB / APPALACHIAN TRAIL Radio: 9B Units: WCE161, E72, R8, A89, WCA756, 9B</description>
-      <guid isPermaLink="false">2025-05-20 09:14:00</guid>
-      <pubDate>Tue, 20 May 2025 09:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
