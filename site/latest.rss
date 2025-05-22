@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 22:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 22:35:29 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:28 pm</title>
+      <description>200 BLOCK AMBER DR, AMBER MEADOWS PARK Radio: 9C Units: E291, 9C, FS29</description>
+      <guid isPermaLink="false">2025-05-22 18:28:00</guid>
+      <pubDate>Thu, 22 May 2025 18:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
       <description>BUCKEYSTOWN PIKE / GREENFIELD RD Units: A149, FS14, R14</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Units: BC901, SAFCAPT900, BC903, PE23</description>
       <guid isPermaLink="false">2025-05-20 14:06:00</guid>
       <pubDate>Tue, 20 May 2025 14:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:54 pm</title>
-      <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: E11, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-05-20 13:54:00</guid>
-      <pubDate>Tue, 20 May 2025 13:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
