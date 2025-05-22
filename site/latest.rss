@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 May 2025 07:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 08:02:34 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 3:38 am</title>
+      <description>6500 BLOCK SPRINGWATER CT, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E31, R3, 9C, E331, FS33</description>
+      <guid isPermaLink="false">2025-05-22 03:38:00</guid>
+      <pubDate>Thu, 22 May 2025 03:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:29 am</title>
       <description>5600 BLOCK BUTTERFLY LN Radio: 9C Units: E121, FS12, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / APPALACHIAN TRAIL, I70WB / APPALACHIAN TRAIL Radio: 9B Units: WCE161, E72, R8, A89, WCA756, 9B</description>
       <guid isPermaLink="false">2025-05-20 09:14:00</guid>
       <pubDate>Tue, 20 May 2025 09:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 11:31 pm</title>
-      <description>200 BLOCK FREDERICK RD, HIGHS STORE - THURMONT Radio: 9C Units: E102, 9C</description>
-      <guid isPermaLink="false">2025-05-19 23:31:00</guid>
-      <pubDate>Mon, 19 May 2025 23:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
