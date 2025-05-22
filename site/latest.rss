@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 May 2025 23:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 00:07:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:48 pm</title>
+      <description>I70WB / LINGANORE RD, I70WB / LINGANORE RD Radio: 9B Units: R15, A339, A39, FS33, 9B, E331, E152</description>
+      <guid isPermaLink="false">2025-05-21 19:48:00</guid>
+      <pubDate>Wed, 21 May 2025 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:32 pm</title>
       <description>9200 BLOCK BEALLS FARM RD Radio: 9C Units: E232, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 51MM, I70WB / 51MM Radio: 9C Units: E11, E121, HM50, BC902, 9C</description>
       <guid isPermaLink="false">2025-05-19 19:00:00</guid>
       <pubDate>Mon, 19 May 2025 19:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:25 pm</title>
-      <description>6900 BLOCK FOX CHASE RD Units: A339, E152, C15B, BC903, RID, E31, R3, A159, EMS902, W15, FS15, CMD15, R15, ALS17, BC901, SAF901, E331, E172, E111, PE23, Q11, R24</description>
-      <guid isPermaLink="false">2025-05-19 18:25:00</guid>
-      <pubDate>Mon, 19 May 2025 18:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
