@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 03:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 03:44:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:35 pm</title>
+      <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: TW1, 9C, E31</description>
+      <guid isPermaLink="false">2025-05-22 23:35:00</guid>
+      <pubDate>Thu, 22 May 2025 23:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 8:46 pm</title>
       <description>100 BLOCK WILLOWDALE DR, Apt/Unit:24, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, E31, TT4, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: A89, FS12, RE74, E11, 9B, R8, A38</description>
       <guid isPermaLink="false">2025-05-20 15:34:00</guid>
       <pubDate>Tue, 20 May 2025 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 2:59 pm</title>
-      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9D Units: A179, E152, W17, VOLDC900, C15C, RE171, R15, C15, A259, A339, 9D, A249, C900, CMD17, A169, ALS17, EMS901</description>
-      <guid isPermaLink="false">2025-05-20 14:59:00</guid>
-      <pubDate>Tue, 20 May 2025 14:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
