@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 19:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 19:31:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:05 pm</title>
+      <description>E MOSER RD / FREDERICK RD, IAO Radio: 9B Units: A309, PE102, 9B</description>
+      <guid isPermaLink="false">2025-05-23 15:05:00</guid>
+      <pubDate>Fri, 23 May 2025 15:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:54 pm</title>
       <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: R3, EMS902, 9D, HM33, E111, R24, A249, ALS31, BC903</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, R10, E132, C6, FS06, PE102, CCE111, ACE22, R6, TW6, E221, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91, ACEK23, CCEK54, K9, TTF, ACRE2, CCEK112, EK224, ACK22, ACE232, W6</description>
       <guid isPermaLink="false">2025-05-20 21:41:00</guid>
       <pubDate>Tue, 20 May 2025 21:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:37 pm</title>
-      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, ACT1, R10, E132, C6, PE102, CCE111, ACE22, R6, TW6, E221, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91, ACEK23, CCEK54</description>
-      <guid isPermaLink="false">2025-05-20 21:37:00</guid>
-      <pubDate>Tue, 20 May 2025 21:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
