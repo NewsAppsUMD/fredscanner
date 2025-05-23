@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 13:09:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 13:38:25 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 9:32 am</title>
+      <description>4400 BLOCK TULIP LN Radio: 9C Units: 9C, FS25, E251</description>
+      <guid isPermaLink="false">2025-05-23 09:32:00</guid>
+      <pubDate>Fri, 23 May 2025 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:35 pm</title>
       <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: TW1, 9C, E31</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK ENGLISH MUFFIN WAY, Apt/Unit:APT 120, SPRING ARBOR LIVING Radio: 9C Units: PE311, FS31, 9C</description>
       <guid isPermaLink="false">2025-05-20 15:37:00</guid>
       <pubDate>Tue, 20 May 2025 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:34 pm</title>
-      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: A89, FS12, RE74, E11, 9B, R8, A38</description>
-      <guid isPermaLink="false">2025-05-20 15:34:00</guid>
-      <pubDate>Tue, 20 May 2025 15:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
