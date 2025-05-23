@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 23:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 23:33:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:07 pm</title>
+      <description>100 BLOCK S EAST ST, FIRST UNITED BANK - S EAST ST - FREDERICK Units: TT4, E33</description>
+      <guid isPermaLink="false">2025-05-23 19:07:00</guid>
+      <pubDate>Fri, 23 May 2025 19:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 4:57 pm</title>
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: TT4, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N CHURCH ST, STATION 10 Units: K1</description>
       <guid isPermaLink="false">2025-05-20 21:56:00</guid>
       <pubDate>Tue, 20 May 2025 21:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:54 pm</title>
-      <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, CMD6, EK114, E132, EMS902, C6, ACRE2, PE102, CCE111, C13B, R6, TW6, ACEK3, E61, CCLDR5, EK64, K10, A69, ALS30, BC902, BC901, SAF901, ACE232, CCEK54, ACEK23, ACE22, E91, TTF, CCEK84, EK224, RID, W6, ACE11, R10, ACT1, A309</description>
-      <guid isPermaLink="false">2025-05-20 21:54:00</guid>
-      <pubDate>Tue, 20 May 2025 21:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
