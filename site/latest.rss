@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 May 2025 17:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 18:02:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:54 pm</title>
+      <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: R3, EMS902, 9D, HM33, E111, R24, A249, ALS31, BC903</description>
+      <guid isPermaLink="false">2025-05-23 13:54:00</guid>
+      <pubDate>Fri, 23 May 2025 13:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 pm</title>
+      <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS31, BC903</description>
+      <guid isPermaLink="false">2025-05-23 13:52:00</guid>
+      <pubDate>Fri, 23 May 2025 13:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:47 pm</title>
+      <description>N BENTZ ST / CARROLL PKWY Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-05-23 13:47:00</guid>
+      <pubDate>Fri, 23 May 2025 13:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:34 pm</title>
+      <description>1600 BLOCK DWIGHT D EISENHOWER HWY, SOUTH MOUNTAIN REST AREA I70WB Radio: 9C Units: E82, 9C</description>
+      <guid isPermaLink="false">2025-05-23 13:34:00</guid>
+      <pubDate>Fri, 23 May 2025 13:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:23 pm</title>
       <description>RT15SB / 3.2MM Radio: ACOPS2 Units: E61, A68, A69, ACOPS2</description>
@@ -282,30 +306,6 @@
       <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, ACT1, R10, E132, C6, PE102, CCE111, ACE22, R6, TW6, E221, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91, ACEK23, CCEK54</description>
       <guid isPermaLink="false">2025-05-20 21:37:00</guid>
       <pubDate>Tue, 20 May 2025 21:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:33 pm</title>
-      <description>10300 BLOCK KEYSVILLE RD Units: E132, E133, PE102, CCE111, ACE22, R6, TW6, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901, E91</description>
-      <guid isPermaLink="false">2025-05-20 21:33:00</guid>
-      <pubDate>Tue, 20 May 2025 21:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:32 pm</title>
-      <description>10300 BLOCK KEYSVILLE RD Units: FS06, E132, E133, PE102, CCE111, ACE22, R6, TW6, E61, CCLDR5, EK64, EK134, K10, A69, ALS30, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-05-20 21:32:00</guid>
-      <pubDate>Tue, 20 May 2025 21:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:32 pm</title>
-      <description>1800 BLOCK KING PL, FORT DETRICK - BLDG 1800 BLOCK Units: HM33, ALS29, BC902, SAF901, E501, E11, T50, BC950, HMSU33, A18</description>
-      <guid isPermaLink="false">2025-05-20 20:32:00</guid>
-      <pubDate>Tue, 20 May 2025 20:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:31 pm</title>
-      <description>1800 BLOCK KING PL, FORT DETRICK - BLDG 1800 BLOCK Units: E501, E11, T50, BC950, FS50</description>
-      <guid isPermaLink="false">2025-05-20 20:31:00</guid>
-      <pubDate>Tue, 20 May 2025 20:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
