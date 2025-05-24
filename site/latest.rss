@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 22:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 23:01:51 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:56 pm</title>
+      <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, R3, 9C, PE23, BC902, CMD2</description>
+      <guid isPermaLink="false">2025-05-24 18:56:00</guid>
+      <pubDate>Sat, 24 May 2025 18:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:56 pm</title>
+      <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, E11, R3, 9C, PE23, BC902, CMD2</description>
+      <guid isPermaLink="false">2025-05-24 18:56:00</guid>
+      <pubDate>Sat, 24 May 2025 18:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:46 pm</title>
+      <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, R3, 9C, PE23</description>
+      <guid isPermaLink="false">2025-05-24 18:46:00</guid>
+      <pubDate>Sat, 24 May 2025 18:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:16 pm</title>
       <description>11500 BLOCK MICA PL Radio: 6B Units: E281</description>
@@ -288,24 +306,6 @@
       <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: EMS901, 9D, BC903, E121, E31, R3, A129, A39, ALS4</description>
       <guid isPermaLink="false">2025-05-22 05:56:00</guid>
       <pubDate>Thu, 22 May 2025 05:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:52 am</title>
-      <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: EMS901, 9D, E121, E31, R3, A129, A39, ALS4</description>
-      <guid isPermaLink="false">2025-05-22 05:52:00</guid>
-      <pubDate>Thu, 22 May 2025 05:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 3:38 am</title>
-      <description>6500 BLOCK SPRINGWATER CT, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E31, R3, 9C, E331, FS33</description>
-      <guid isPermaLink="false">2025-05-22 03:38:00</guid>
-      <pubDate>Thu, 22 May 2025 03:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:29 am</title>
-      <description>5600 BLOCK BUTTERFLY LN Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-05-22 01:29:00</guid>
-      <pubDate>Thu, 22 May 2025 01:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
