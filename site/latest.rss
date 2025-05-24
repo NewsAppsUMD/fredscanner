@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 22:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 22:34:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:16 pm</title>
+      <description>11500 BLOCK MICA PL Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2025-05-24 18:16:00</guid>
+      <pubDate>Sat, 24 May 2025 18:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:04 pm</title>
+      <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, E291, PE23, TW1, C2B, C3B, EK114, E501, E33, 9D, C3D, R3, T50, FS29</description>
+      <guid isPermaLink="false">2025-05-24 18:04:00</guid>
+      <pubDate>Sat, 24 May 2025 18:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:03 pm</title>
+      <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, E291, PE23, TW1, C2B, C3B, EK114, E501, E33, 9D, C3D</description>
+      <guid isPermaLink="false">2025-05-24 18:03:00</guid>
+      <pubDate>Sat, 24 May 2025 18:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:58 pm</title>
       <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, FS29, E291, E111, PE23, TW1, E501, E33, 9D</description>
@@ -288,24 +306,6 @@
       <description>5600 BLOCK BUTTERFLY LN Radio: 9C Units: E121, FS12, 9C</description>
       <guid isPermaLink="false">2025-05-22 01:29:00</guid>
       <pubDate>Thu, 22 May 2025 01:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:18 pm</title>
-      <description>4500 BLOCK PINE VALLEY CT Radio: 9B Units: E121, FS12, 9B, A129</description>
-      <guid isPermaLink="false">2025-05-21 21:18:00</guid>
-      <pubDate>Wed, 21 May 2025 21:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:55 pm</title>
-      <description>5100 BLOCK OLD NATIONAL PIKE, TROUT LIQUORS Radio: 9B Units: A129, FS12, 9B, E121</description>
-      <guid isPermaLink="false">2025-05-21 20:55:00</guid>
-      <pubDate>Wed, 21 May 2025 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:48 pm</title>
-      <description>I70WB / LINGANORE RD, I70WB / LINGANORE RD Radio: 9B Units: R15, A339, A39, FS33, 9B, E331, E152</description>
-      <guid isPermaLink="false">2025-05-21 19:48:00</guid>
-      <pubDate>Wed, 21 May 2025 19:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
