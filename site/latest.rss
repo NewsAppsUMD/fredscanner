@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 14:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 15:01:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 10:54 am</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9C Units: FS23, 9C, PRE709, E232</description>
+      <guid isPermaLink="false">2025-05-24 10:54:00</guid>
+      <pubDate>Sat, 24 May 2025 10:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:37 am</title>
+      <description>16400 BLOCK OLD EMMITSBURG RD Radio: 9C Units: FS06, 9C, E61</description>
+      <guid isPermaLink="false">2025-05-24 10:37:00</guid>
+      <pubDate>Sat, 24 May 2025 10:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:17 am</title>
       <description>600 BLOCK BUSHYTAIL CT Radio: 9C Units: FS12, E121, 9C</description>
@@ -294,18 +306,6 @@
       <description>SANDYHOOK RD / RAILROAD BRDGE Radio: TAC1OPS Units: E51, TAC1OPS</description>
       <guid isPermaLink="false">2025-05-21 12:54:00</guid>
       <pubDate>Wed, 21 May 2025 12:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 10:00 am</title>
-      <description>300 BLOCK N COLLEGE PKWY Radio: 9C Units: E23, 9C</description>
-      <guid isPermaLink="false">2025-05-21 10:00:00</guid>
-      <pubDate>Wed, 21 May 2025 10:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 9:26 am</title>
-      <description>10300 BLOCK KEYSVILLE RD Units: E61</description>
-      <guid isPermaLink="false">2025-05-21 09:26:00</guid>
-      <pubDate>Wed, 21 May 2025 09:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
