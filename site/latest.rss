@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 01:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 02:12:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:30 pm</title>
+      <description>ROSEMONT AVE / TUSCANNEY DR Units: A18, E11</description>
+      <guid isPermaLink="false">2025-05-23 21:30:00</guid>
+      <pubDate>Fri, 23 May 2025 21:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:07 pm</title>
       <description>100 BLOCK S EAST ST, FIRST UNITED BANK - S EAST ST - FREDERICK Units: TT4, E33</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK KEYSVILLE RD Units: FRE193, E162, CMD6, EK114, C900, MAU15, E132, EMS902, C6, ACRE2, VOLDC900, PE102, CCE111, C13B, R6, TW6, ACEK3, E61, CCLDR5, EK64, K10, A69, ALS30, BC902, SAF901, ACE232, CCEK54, ACEK23, ACE22, E91, TTF, CCEK84, EK224, RID, W6, ACT1, A309</description>
       <guid isPermaLink="false">2025-05-20 22:52:00</guid>
       <pubDate>Tue, 20 May 2025 22:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:56 pm</title>
-      <description>100 BLOCK N CHURCH ST, STATION 10 Units: K1</description>
-      <guid isPermaLink="false">2025-05-20 21:56:00</guid>
-      <pubDate>Tue, 20 May 2025 21:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
