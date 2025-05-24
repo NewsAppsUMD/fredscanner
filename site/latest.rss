@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 May 2025 12:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 12:43:13 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:17 am</title>
+      <description>600 BLOCK BUSHYTAIL CT Radio: 9C Units: FS12, E121, 9C</description>
+      <guid isPermaLink="false">2025-05-24 08:17:00</guid>
+      <pubDate>Sat, 24 May 2025 08:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:56 am</title>
       <description>9100 BLOCK FROSTOWN RD, LUCY SCHOOL Radio: 9C Units: TW7, 9C, E82</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK KEYSVILLE RD Units: E61</description>
       <guid isPermaLink="false">2025-05-21 09:26:00</guid>
       <pubDate>Wed, 21 May 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:47 am</title>
-      <description>300 BLOCK W MAIN ST, CROWS NEST CAMPGROUND Radio: 9C Units: PE102, K10, 9C</description>
-      <guid isPermaLink="false">2025-05-21 07:47:00</guid>
-      <pubDate>Wed, 21 May 2025 07:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
