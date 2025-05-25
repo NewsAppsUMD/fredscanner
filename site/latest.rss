@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 21:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 21:31:51 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:20 pm</title>
+      <description>OLD NATIONAL PIKE / ROTARY AVE, CVS PHARMACY - NEW MARKET Units: R3, A259, FS15</description>
+      <guid isPermaLink="false">2025-05-25 17:20:00</guid>
+      <pubDate>Sun, 25 May 2025 17:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 5:11 pm</title>
+      <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Radio: 9D Units: E172, E31, CCR1, E152, E331, R15, A159, A339, CCM18, BC901, EMS901, 9D, HMSU33, HM50, E251, HTRP3, C15, CMD15, K33, CCK1, SAF901, ALS17, W15</description>
+      <guid isPermaLink="false">2025-05-25 17:11:00</guid>
+      <pubDate>Sun, 25 May 2025 17:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:59 pm</title>
+      <description>WOLF ROCK - CATOCTIN MOUNTAIN PARK, WOLF ROCK - CATOCTIN MOUNTAIN PARK Radio: 9I Units: E221, E61, E212, PE102, BC902, ALS30, EMSUTV30, EMS902, 9I, E132, R10, A309, TR29, A299, A308</description>
+      <guid isPermaLink="false">2025-05-25 16:59:00</guid>
+      <pubDate>Sun, 25 May 2025 16:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 4:52 pm</title>
       <description>WOLF ROCK - CATOCTIN MOUNTAIN PARK, WOLF ROCK - CATOCTIN MOUNTAIN PARK Radio: 9I Units: E221, E61, E212, PE102, BC902, EMSUTV30, EMS902, 9I, R10, A309, TR29</description>
@@ -288,24 +306,6 @@
       <description>E MOSER RD / FREDERICK RD, IAO Radio: 9B Units: A309, PE102, 9B</description>
       <guid isPermaLink="false">2025-05-23 15:05:00</guid>
       <pubDate>Fri, 23 May 2025 15:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:54 pm</title>
-      <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: R3, EMS902, 9D, HM33, E111, R24, A249, ALS31, BC903</description>
-      <guid isPermaLink="false">2025-05-23 13:54:00</guid>
-      <pubDate>Fri, 23 May 2025 13:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 pm</title>
-      <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS31, BC903</description>
-      <guid isPermaLink="false">2025-05-23 13:52:00</guid>
-      <pubDate>Fri, 23 May 2025 13:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:47 pm</title>
-      <description>N BENTZ ST / CARROLL PKWY Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-05-23 13:47:00</guid>
-      <pubDate>Fri, 23 May 2025 13:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
