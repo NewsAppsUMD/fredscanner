@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 03:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 03:44:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:36 pm</title>
+      <description>8000 BLOCK CAPTAINS CT Radio: 9C Units: E111, Q11, FS11, 9C</description>
+      <guid isPermaLink="false">2025-05-24 23:36:00</guid>
+      <pubDate>Sat, 24 May 2025 23:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:01 pm</title>
+      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Units: A19, E11</description>
+      <guid isPermaLink="false">2025-05-24 23:01:00</guid>
+      <pubDate>Sat, 24 May 2025 23:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 6:56 pm</title>
       <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, R3, 9C, PE23, BC902, CMD2</description>
@@ -294,18 +306,6 @@
       <description>12300 BLOCK WHITE ROCK RD AT&amp;T TWR, AT&amp;T TWR Radio: 6B Units: T5</description>
       <guid isPermaLink="false">2025-05-22 09:26:00</guid>
       <pubDate>Thu, 22 May 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 7:39 am</title>
-      <description>400 BLOCK E PATRICK ST, SAPUTO DAIRY Radio: 9C Units: E31, R3, A39, 9C</description>
-      <guid isPermaLink="false">2025-05-22 07:39:00</guid>
-      <pubDate>Thu, 22 May 2025 07:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:56 am</title>
-      <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9D Units: EMS901, 9D, BC903, E121, E31, R3, A129, A39, ALS4</description>
-      <guid isPermaLink="false">2025-05-22 05:56:00</guid>
-      <pubDate>Thu, 22 May 2025 05:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
