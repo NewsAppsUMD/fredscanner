@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 22:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 22:35:11 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 6:11 pm</title>
+      <description>100 BLOCK MERCER CT, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Radio: 9C Units: 9C, TW1</description>
+      <guid isPermaLink="false">2025-05-25 18:11:00</guid>
+      <pubDate>Sun, 25 May 2025 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:46 pm</title>
       <description>OLD NATIONAL PIKE / ROTARY AVE, CVS PHARMACY - NEW MARKET Units: FS15, E501, A259</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: TT4, 9C</description>
       <guid isPermaLink="false">2025-05-23 16:57:00</guid>
       <pubDate>Fri, 23 May 2025 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 4:54 pm</title>
-      <description>8600 BLOCK CHESTNUT GROVE RD Radio: 9C Units: E111, RE171, A179, FS17, 9C</description>
-      <guid isPermaLink="false">2025-05-23 16:54:00</guid>
-      <pubDate>Fri, 23 May 2025 16:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
