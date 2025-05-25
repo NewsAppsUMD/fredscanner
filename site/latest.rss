@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 11:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 12:03:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:32 am</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, E121, R8, A129, E72, A89, FS12</description>
+      <guid isPermaLink="false">2025-05-25 07:32:00</guid>
+      <pubDate>Sun, 25 May 2025 07:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:55 am</title>
       <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: A259, 9B, A159</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Units: E331, T23</description>
       <guid isPermaLink="false">2025-05-22 15:32:00</guid>
       <pubDate>Thu, 22 May 2025 15:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:31 pm</title>
-      <description>1100 BLOCKB ORCHARD TER, Apt/Unit:302B Units: E291, R3, TT4, PE23, E121, Q11, A18, ALS31, BC901, BC902, SAF901, E11, E31</description>
-      <guid isPermaLink="false">2025-05-22 15:31:00</guid>
-      <pubDate>Thu, 22 May 2025 15:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
