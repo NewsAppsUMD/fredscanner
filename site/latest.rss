@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 May 2025 14:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 15:02:02 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:44 am</title>
+      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2025-05-25 10:44:00</guid>
+      <pubDate>Sun, 25 May 2025 10:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:31 am</title>
       <description>5700 BLOCK TRAILVIEW CT, MOUNTAIN GLEN APTS - 5700 BLOCK TRAILVIEW CT Units: A318, PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK AMBER DR, AMBER MEADOWS PARK Radio: 9C Units: E291, 9C, FS29</description>
       <guid isPermaLink="false">2025-05-22 18:28:00</guid>
       <pubDate>Thu, 22 May 2025 18:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:05 pm</title>
-      <description>BUCKEYSTOWN PIKE / GREENFIELD RD Units: A149, FS14, R14</description>
-      <guid isPermaLink="false">2025-05-22 17:05:00</guid>
-      <pubDate>Thu, 22 May 2025 17:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
