@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 18:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 18:38:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:31 pm</title>
+      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: A239, E232</description>
+      <guid isPermaLink="false">2025-05-26 14:31:00</guid>
+      <pubDate>Mon, 26 May 2025 14:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:14 pm</title>
       <description>600 BLOCK CAWLEY DR Radio: 9C Units: PE311, 9C, TT4, FS31</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, Bldg:A, ORIOLES CLUB - WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: E11, TT4, 9C, E33</description>
       <guid isPermaLink="false">2025-05-24 17:32:00</guid>
       <pubDate>Sat, 24 May 2025 17:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
-      <description>RT26 / WATERSIDE DR, RT26 / WATERSIDE DR Units: A249, E111, FS11</description>
-      <guid isPermaLink="false">2025-05-24 15:22:00</guid>
-      <pubDate>Sat, 24 May 2025 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
