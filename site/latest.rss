@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 20:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 21:02:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:46 pm</title>
+      <description>I270NB / 30MM, I270NB / 30MM Radio: 9D Units: A19, ALS23, BC903, EMS901, FS23, A239, E31, R3, E232, 9D</description>
+      <guid isPermaLink="false">2025-05-26 16:46:00</guid>
+      <pubDate>Mon, 26 May 2025 16:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:38 pm</title>
+      <description>2400 BLOCK HIGHPOINT VIEW CT, Apt/Unit:403, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Units: TW1</description>
+      <guid isPermaLink="false">2025-05-26 16:38:00</guid>
+      <pubDate>Mon, 26 May 2025 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 4:12 pm</title>
       <description>5800 BLOCK ZOE LN Radio: 9C Units: E152, R15, FS33, E331, 9C</description>
@@ -294,18 +306,6 @@
       <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, E291, PE23, TW1, C2B, C3B, EK114, E501, E33, 9D, C3D, R3, T50, FS29</description>
       <guid isPermaLink="false">2025-05-24 18:04:00</guid>
       <pubDate>Sat, 24 May 2025 18:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:03 pm</title>
-      <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, E291, PE23, TW1, C2B, C3B, EK114, E501, E33, 9D, C3D</description>
-      <guid isPermaLink="false">2025-05-24 18:03:00</guid>
-      <pubDate>Sat, 24 May 2025 18:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:58 pm</title>
-      <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, FS29, E291, E111, PE23, TW1, E501, E33, 9D</description>
-      <guid isPermaLink="false">2025-05-24 17:58:00</guid>
-      <pubDate>Sat, 24 May 2025 17:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
