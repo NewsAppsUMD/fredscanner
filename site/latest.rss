@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 16:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 16:37:14 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 12:19 pm</title>
+      <description>500 BLOCK BANQUET LN Radio: 9C Units: E31, TT4, 9C, PE23</description>
+      <guid isPermaLink="false">2025-05-26 12:19:00</guid>
+      <pubDate>Mon, 26 May 2025 12:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:02 am</title>
       <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9B Units: E111, FS11, 9B, A249</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9C Units: FS23, 9C, PRE709, E232</description>
       <guid isPermaLink="false">2025-05-24 10:54:00</guid>
       <pubDate>Sat, 24 May 2025 10:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:37 am</title>
-      <description>16400 BLOCK OLD EMMITSBURG RD Radio: 9C Units: FS06, 9C, E61</description>
-      <guid isPermaLink="false">2025-05-24 10:37:00</guid>
-      <pubDate>Sat, 24 May 2025 10:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
