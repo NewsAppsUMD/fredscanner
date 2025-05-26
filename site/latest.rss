@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 22:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 22:35:06 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:00 pm</title>
+      <description>BUCHANAN DR / REVEILLE CT Units: Q11, R2, EK224, K1, K9, A249, BC901, E291, E11, E501, E31, R24, ALS2, BC902, SAF901, FS11, E111, E221</description>
+      <guid isPermaLink="false">2025-05-26 18:00:00</guid>
+      <pubDate>Mon, 26 May 2025 18:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:46 pm</title>
       <description>I270NB / 30MM, I270NB / 30MM Radio: 9D Units: A19, ALS23, BC903, EMS901, FS23, A239, E31, R3, E232, 9D</description>
@@ -300,12 +306,6 @@
       <description>11500 BLOCK MICA PL Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2025-05-24 18:16:00</guid>
       <pubDate>Sat, 24 May 2025 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:04 pm</title>
-      <description>3000 BLOCK JACOBS GARDEN LN Radio: 9D Units: R24, Q11, A299, ALS29, BC902, BC901, SAF901, E291, PE23, TW1, C2B, C3B, EK114, E501, E33, 9D, C3D, R3, T50, FS29</description>
-      <guid isPermaLink="false">2025-05-24 18:04:00</guid>
-      <pubDate>Sat, 24 May 2025 18:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
