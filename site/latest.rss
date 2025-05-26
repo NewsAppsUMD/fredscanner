@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 15:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 15:34:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:02 am</title>
+      <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9B Units: E111, FS11, 9B, A249</description>
+      <guid isPermaLink="false">2025-05-26 11:02:00</guid>
+      <pubDate>Mon, 26 May 2025 11:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:59 am</title>
       <description>RT15 / 2MM, RT15 / 2MM Radio: 9B Units: 9B, A149, E281, FS28, BC901, R14, ALS20, EMS901</description>
@@ -300,12 +306,6 @@
       <description>16400 BLOCK OLD EMMITSBURG RD Radio: 9C Units: FS06, 9C, E61</description>
       <guid isPermaLink="false">2025-05-24 10:37:00</guid>
       <pubDate>Sat, 24 May 2025 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:17 am</title>
-      <description>600 BLOCK BUSHYTAIL CT Radio: 9C Units: FS12, E121, 9C</description>
-      <guid isPermaLink="false">2025-05-24 08:17:00</guid>
-      <pubDate>Sat, 24 May 2025 08:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
