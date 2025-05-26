@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 16:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 17:02:03 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:43 pm</title>
+      <description>2200 BLOCK WAYNESBORO PIKE Units: R6</description>
+      <guid isPermaLink="false">2025-05-26 12:43:00</guid>
+      <pubDate>Mon, 26 May 2025 12:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:36 pm</title>
+      <description>9300 BLOCK PENROSE ST Radio: 9B Units: A239, E232, FS23, 9B</description>
+      <guid isPermaLink="false">2025-05-26 12:36:00</guid>
+      <pubDate>Mon, 26 May 2025 12:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 12:19 pm</title>
       <description>500 BLOCK BANQUET LN Radio: 9C Units: E31, TT4, 9C, PE23</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK MILL POND RD Radio: 9C Units: E291, 9C, FS29</description>
       <guid isPermaLink="false">2025-05-24 14:26:00</guid>
       <pubDate>Sat, 24 May 2025 14:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:04 pm</title>
-      <description>11500 BLOCK MICA PL Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-05-24 13:04:00</guid>
-      <pubDate>Sat, 24 May 2025 13:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 10:54 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9C Units: FS23, 9C, PRE709, E232</description>
-      <guid isPermaLink="false">2025-05-24 10:54:00</guid>
-      <pubDate>Sat, 24 May 2025 10:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
