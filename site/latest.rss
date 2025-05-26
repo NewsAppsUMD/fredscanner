@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 04:05:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 04:38:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 12:12 am</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9C Units: 9C, E251, K33, E331</description>
+      <guid isPermaLink="false">2025-05-26 00:12:00</guid>
+      <pubDate>Mon, 26 May 2025 00:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 12:09 am</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9C Units: 9C, E251, FS15, E331</description>
+      <guid isPermaLink="false">2025-05-26 00:09:00</guid>
+      <pubDate>Mon, 26 May 2025 00:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:52 pm</title>
       <description>YARROWSBURG RD / ROHRERSVILLE RD Units: RE52, R19</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / RT26, RT15NB / RT26 Radio: 9B Units: A28, PE23, 9B</description>
       <guid isPermaLink="false">2025-05-24 02:19:00</guid>
       <pubDate>Sat, 24 May 2025 02:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:51 am</title>
-      <description>RT340 / KEEP TRYST RD Units: A197, RE52</description>
-      <guid isPermaLink="false">2025-05-24 01:51:00</guid>
-      <pubDate>Sat, 24 May 2025 01:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - FIRE: 10:42 pm</title>
-      <description>9500 BLOCK GAMBRILL PARK RD, PAST THE OVERLOOK Units: A89, E82, E121</description>
-      <guid isPermaLink="false">2025-05-23 22:42:00</guid>
-      <pubDate>Fri, 23 May 2025 22:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
