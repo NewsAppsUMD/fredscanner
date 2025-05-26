@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 03:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 04:05:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:52 pm</title>
+      <description>YARROWSBURG RD / ROHRERSVILLE RD Units: RE52, R19</description>
+      <guid isPermaLink="false">2025-05-25 23:52:00</guid>
+      <pubDate>Sun, 25 May 2025 23:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE THREATENING A STRUCTURE: 8:41 pm</title>
       <description>6200 BLOCK FULMER RD Radio: 9C Units: A129, BR125, BC903, SAF901, FS12, 9C, TW7, EK204, E121, E201, E72</description>
@@ -300,12 +306,6 @@
       <description>9500 BLOCK GAMBRILL PARK RD, PAST THE OVERLOOK Units: A89, E82, E121</description>
       <guid isPermaLink="false">2025-05-23 22:42:00</guid>
       <pubDate>Fri, 23 May 2025 22:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:31 pm</title>
-      <description>9500 BLOCK GAMBRILL PARK RD, PAST THE OVERLOOK Units: A89, E82</description>
-      <guid isPermaLink="false">2025-05-23 22:31:00</guid>
-      <pubDate>Fri, 23 May 2025 22:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
