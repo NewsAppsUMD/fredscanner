@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 May 2025 13:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 14:35:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:59 am</title>
+      <description>RT15 / 2MM, RT15 / 2MM Radio: 9B Units: 9B, A149, E281, FS28, BC901, R14, ALS20, EMS901</description>
+      <guid isPermaLink="false">2025-05-26 09:59:00</guid>
+      <pubDate>Mon, 26 May 2025 09:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:58 am</title>
+      <description>RT15 / 2MM, RT15 / 2MM Radio: 9B Units: 9B, A149, E281, FS28</description>
+      <guid isPermaLink="false">2025-05-26 09:58:00</guid>
+      <pubDate>Mon, 26 May 2025 09:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:07 am</title>
       <description>MAR-LU-RIDGE RD / MOUNTVILLE RD, PH2 Radio: 9B Units: E201, FS20, 9B, A209</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK BUSHYTAIL CT Radio: 9C Units: FS12, E121, 9C</description>
       <guid isPermaLink="false">2025-05-24 08:17:00</guid>
       <pubDate>Sat, 24 May 2025 08:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:56 am</title>
-      <description>9100 BLOCK FROSTOWN RD, LUCY SCHOOL Radio: 9C Units: TW7, 9C, E82</description>
-      <guid isPermaLink="false">2025-05-24 02:56:00</guid>
-      <pubDate>Sat, 24 May 2025 02:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:33 am</title>
-      <description>WIGVILLE RD / FOX TOWER RD Radio: 9B Units: A309, E212, R10, 9B</description>
-      <guid isPermaLink="false">2025-05-24 02:33:00</guid>
-      <pubDate>Sat, 24 May 2025 02:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
