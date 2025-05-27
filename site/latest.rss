@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 00:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 01:29:44 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 8:50 pm</title>
+      <description>400 BLOCK HARLAN WAY, Apt/Unit:303, THE FRED APARTMENTS - 407 HARLAN WAY Radio: 9C Units: E11, E121, TT4, 9C</description>
+      <guid isPermaLink="false">2025-05-26 20:50:00</guid>
+      <pubDate>Mon, 26 May 2025 20:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 8:26 pm</title>
       <description>6900 BLOCK ROOKS CT, KINGSCREST APTS - 6900 BLOCK ROOKS CT Units: PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, E11, R3, 9C, PE23, BC902, CMD2</description>
       <guid isPermaLink="false">2025-05-24 18:56:00</guid>
       <pubDate>Sat, 24 May 2025 18:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:46 pm</title>
-      <description>100 BLOCK W THIRD ST Radio: 9C Units: E33, R3, 9C, PE23</description>
-      <guid isPermaLink="false">2025-05-24 18:46:00</guid>
-      <pubDate>Sat, 24 May 2025 18:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
