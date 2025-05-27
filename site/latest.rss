@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 15:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 15:35:23 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:28 am</title>
+      <description>100 BLOCK N MARKET ST, ACNB BANK - 100 BLOCK N MARKET ST - FREDERIICK Radio: 9C Units: E31, 9C</description>
+      <guid isPermaLink="false">2025-05-27 11:28:00</guid>
+      <pubDate>Tue, 27 May 2025 11:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:17 am</title>
+      <description>9600 BLOCK STEINER SMITH RD Radio: 9B Units: A169, E162, 9B, PE102, EMS902, FS16, R24</description>
+      <guid isPermaLink="false">2025-05-27 11:17:00</guid>
+      <pubDate>Tue, 27 May 2025 11:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:15 am</title>
+      <description>9600 BLOCK STEINER SMITH RD Radio: 9B Units: A169, E162, FS16, 9B</description>
+      <guid isPermaLink="false">2025-05-27 11:15:00</guid>
+      <pubDate>Tue, 27 May 2025 11:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:40 am</title>
       <description>5500 BLOCK URBANA PIKE, T J MAXX - RIVERVIEW PLAZA Radio: 9C Units: E31, TT4, 9C</description>
@@ -288,24 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, E121, R8, A129, E72, A89, FS12</description>
       <guid isPermaLink="false">2025-05-25 07:32:00</guid>
       <pubDate>Sun, 25 May 2025 07:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:55 am</title>
-      <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: A259, 9B, A159</description>
-      <guid isPermaLink="false">2025-05-25 04:55:00</guid>
-      <pubDate>Sun, 25 May 2025 04:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:42 am</title>
-      <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: R15, 9B, A159, A259</description>
-      <guid isPermaLink="false">2025-05-25 03:42:00</guid>
-      <pubDate>Sun, 25 May 2025 03:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:35 am</title>
-      <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: R15, FS15, 9B, A159</description>
-      <guid isPermaLink="false">2025-05-25 03:35:00</guid>
-      <pubDate>Sun, 25 May 2025 03:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
