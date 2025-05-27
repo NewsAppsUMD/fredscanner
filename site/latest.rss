@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 13:11:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 13:39:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:35 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, Apt/Unit:205, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, TT4, FS33, 9C</description>
+      <guid isPermaLink="false">2025-05-27 09:35:00</guid>
+      <pubDate>Tue, 27 May 2025 09:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 9:01 am</title>
       <description>I70EB / EXIT 68, I70EB / EXIT 68 Radio: 9D Units: BC901, E152, HCRE4, CCR1, CCM18, CCA19, EMS901, FS15, 9D</description>
@@ -300,12 +306,6 @@
       <description>8000 BLOCK CAPTAINS CT Radio: 9C Units: E111, Q11, FS11, 9C</description>
       <guid isPermaLink="false">2025-05-24 23:36:00</guid>
       <pubDate>Sat, 24 May 2025 23:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:01 pm</title>
-      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Units: A19, E11</description>
-      <guid isPermaLink="false">2025-05-24 23:01:00</guid>
-      <pubDate>Sat, 24 May 2025 23:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
