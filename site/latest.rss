@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 May 2025 16:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 16:38:20 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:34 pm</title>
+      <description>500 BLOCK BRADLEY CT, Apt/Unit:L, BUCKINGHAM CONDOS - 500 BLOCK BRADLEY CT Units: PE311</description>
+      <guid isPermaLink="false">2025-05-27 12:34:00</guid>
+      <pubDate>Tue, 27 May 2025 12:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 12:18 pm</title>
+      <description>100 BLOCK W SEVENTH ST Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-05-27 12:18:00</guid>
+      <pubDate>Tue, 27 May 2025 12:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 12:17 pm</title>
+      <description>HAYWARD RD / AMBER DR Radio: 9D Units: A28, ALS29, E291, EMS902, FS29, 9D</description>
+      <guid isPermaLink="false">2025-05-27 12:17:00</guid>
+      <pubDate>Tue, 27 May 2025 12:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:28 am</title>
       <description>100 BLOCK N MARKET ST, ACNB BANK - 100 BLOCK N MARKET ST - FREDERIICK Radio: 9C Units: E31, 9C</description>
@@ -288,24 +306,6 @@
       <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-05-25 11:32:00</guid>
       <pubDate>Sun, 25 May 2025 11:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:44 am</title>
-      <description>13000 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-05-25 10:44:00</guid>
-      <pubDate>Sun, 25 May 2025 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:31 am</title>
-      <description>5700 BLOCK TRAILVIEW CT, MOUNTAIN GLEN APTS - 5700 BLOCK TRAILVIEW CT Units: A318, PE311, FS31</description>
-      <guid isPermaLink="false">2025-05-25 08:31:00</guid>
-      <pubDate>Sun, 25 May 2025 08:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:32 am</title>
-      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: 9B, E121, R8, A129, E72, A89, FS12</description>
-      <guid isPermaLink="false">2025-05-25 07:32:00</guid>
-      <pubDate>Sun, 25 May 2025 07:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
