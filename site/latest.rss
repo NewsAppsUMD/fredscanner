@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 21:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:42 pm</title>
+      <description>6800 BLOCK WOODRISE RD Radio: 9C Units: FS11, E152, 9C</description>
+      <guid isPermaLink="false">2025-05-28 17:42:00</guid>
+      <pubDate>Wed, 28 May 2025 17:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:39 pm</title>
+      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, TT4, 9C</description>
+      <guid isPermaLink="false">2025-05-28 17:39:00</guid>
+      <pubDate>Wed, 28 May 2025 17:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 4:54 pm</title>
       <description>5200 BLOCK BUCKEYSTOWN PIKE, FIREBIRDS WOOD FIRED GRILL - WESTVIEW PROMENADE Radio: 9D Units: A318, PE311, EMS901, FS31, 9D</description>
@@ -294,18 +306,6 @@
       <description>YARROWSBURG RD / ROHRERSVILLE RD Units: RE52, R19</description>
       <guid isPermaLink="false">2025-05-25 23:52:00</guid>
       <pubDate>Sun, 25 May 2025 23:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 8:41 pm</title>
-      <description>6200 BLOCK FULMER RD Radio: 9C Units: A129, BR125, BC903, SAF901, FS12, 9C, TW7, EK204, E121, E201, E72</description>
-      <guid isPermaLink="false">2025-05-25 20:41:00</guid>
-      <pubDate>Sun, 25 May 2025 20:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:42 pm</title>
-      <description>8900 BLOCK URBANA CHURCH RD Radio: 9C Units: 9C, BR235, FS23</description>
-      <guid isPermaLink="false">2025-05-25 19:42:00</guid>
-      <pubDate>Sun, 25 May 2025 19:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
