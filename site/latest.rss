@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 15:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 16:02:30 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 11:36 am</title>
+      <description>100 BLOCK WICOMICO CT Radio: 9C Units: BR156, FS15, 9C</description>
+      <guid isPermaLink="false">2025-05-28 11:36:00</guid>
+      <pubDate>Wed, 28 May 2025 11:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:18 am</title>
       <description>20000 BLOCK S270 X22 TO X18 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A239, E232</description>
@@ -300,12 +306,6 @@
       <description>OLD NATIONAL PIKE / ROTARY AVE, CVS PHARMACY - NEW MARKET Units: R3, A259, FS15</description>
       <guid isPermaLink="false">2025-05-25 17:20:00</guid>
       <pubDate>Sun, 25 May 2025 17:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 5:11 pm</title>
-      <description>I70WB / BARTHOLOWS RD, I70WB / BARTHOLOWS RD Radio: 9D Units: E172, E31, CCR1, E152, E331, R15, A159, A339, CCM18, BC901, EMS901, 9D, HMSU33, HM50, E251, HTRP3, C15, CMD15, K33, CCK1, SAF901, ALS17, W15</description>
-      <guid isPermaLink="false">2025-05-25 17:11:00</guid>
-      <pubDate>Sun, 25 May 2025 17:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
