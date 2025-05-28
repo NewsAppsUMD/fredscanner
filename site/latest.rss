@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 19:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 20:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:32 pm</title>
+      <description>3300 BLOCK WORTHINGTON BLVD, IFO BLACK HOG BBQ &amp; BAR - URBANA Radio: 9B Units: A239, E232, FS23, 9B</description>
+      <guid isPermaLink="false">2025-05-28 15:32:00</guid>
+      <pubDate>Wed, 28 May 2025 15:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:53 pm</title>
       <description>100 BLOCK WESTVIEW DR Radio: 9C Units: PE102, 9C</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK PEMBERTON PARK LN Radio: 9C Units: TW1, FS12, E121, 9C</description>
       <guid isPermaLink="false">2025-05-25 18:57:00</guid>
       <pubDate>Sun, 25 May 2025 18:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:11 pm</title>
-      <description>100 BLOCK MERCER CT, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Radio: 9C Units: 9C, TW1</description>
-      <guid isPermaLink="false">2025-05-25 18:11:00</guid>
-      <pubDate>Sun, 25 May 2025 18:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
