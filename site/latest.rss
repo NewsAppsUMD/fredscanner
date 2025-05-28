@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 00:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 00:46:34 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 8:29 pm</title>
+      <description>LIBERTY RD / WOODSBORO PIKE Radio: 9D Units: 9D, CMD11, A247, ALS29, E111, EMS902, BC902, Q11</description>
+      <guid isPermaLink="false">2025-05-27 20:29:00</guid>
+      <pubDate>Tue, 27 May 2025 20:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 8:23 pm</title>
+      <description>LIBERTY RD / WOODSBORO PIKE Radio: 9D Units: 9D, A247, ALS29, E111, EMS902, FS11</description>
+      <guid isPermaLink="false">2025-05-27 20:23:00</guid>
+      <pubDate>Tue, 27 May 2025 20:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:11 pm</title>
       <description>PARK MILLS RD / URBANA PIKE Radio: 9B Units: E232, FS23, 9B, A239</description>
@@ -294,18 +306,6 @@
       <description>6900 BLOCK MEADOWPOINT TER Radio: 9D Units: E152, A159, ALS17, EMS902, FS15, R15, 9D</description>
       <guid isPermaLink="false">2025-05-25 14:08:00</guid>
       <pubDate>Sun, 25 May 2025 14:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:55 pm</title>
-      <description>I70WB / E PATRICK ST(RT144), I70WB / E PATRICK ST Units: BR35, FS33, E331</description>
-      <guid isPermaLink="false">2025-05-25 13:55:00</guid>
-      <pubDate>Sun, 25 May 2025 13:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:56 pm</title>
-      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / BLUE MOUNTAIN RD Radio: 9B Units: A307, A68, R10, 9B</description>
-      <guid isPermaLink="false">2025-05-25 12:56:00</guid>
-      <pubDate>Sun, 25 May 2025 12:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
