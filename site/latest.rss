@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 May 2025 10:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 10:37:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:11 am</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E232, PRE709, FS23, 9B</description>
+      <guid isPermaLink="false">2025-05-28 06:11:00</guid>
+      <pubDate>Wed, 28 May 2025 06:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:44 am</title>
       <description>BELLS LN / BARTONSVILLE RD Units: E331, R15, FS33, A339, ALS4, BC901, EMS901</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 62, I70WB / EXIT 62 Radio: 9D Units: E152, E331, R15, A159, A339, CCM18, BC901, EMS901, 9D, HTRP3, CMD15, K33, CCE12, CCK1, ALS17, SAF901, C15</description>
       <guid isPermaLink="false">2025-05-25 16:23:00</guid>
       <pubDate>Sun, 25 May 2025 16:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 4:14 pm</title>
-      <description>I70WB / EXIT 62, I70WB / EXIT 62 Radio: 9D Units: E152, E331, R15, A159, A339, CCM18, BC901, EMS901, 9D, K33, SAF901, C15</description>
-      <guid isPermaLink="false">2025-05-25 16:14:00</guid>
-      <pubDate>Sun, 25 May 2025 16:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
