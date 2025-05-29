@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 19:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 20:02:29 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:44 pm</title>
+      <description>MOTTERS STATION RD / ROCKY RIDGE RD Radio: 9I Units: E132, R10, A309, PE102, EMS900, FS13, 9I</description>
+      <guid isPermaLink="false">2025-05-29 15:44:00</guid>
+      <pubDate>Thu, 29 May 2025 15:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 3:35 pm</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: 9D, E31</description>
+      <guid isPermaLink="false">2025-05-29 15:35:00</guid>
+      <pubDate>Thu, 29 May 2025 15:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:21 pm</title>
       <description>BALTIMORE NATIONAL PIKE PIKE / BOWERS RD Radio: 91D Units: E121, EMS902, FS12, 91D, ALS8, BC902, R3, A129</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK HARLAN WAY, Apt/Unit:303, THE FRED APARTMENTS - 407 HARLAN WAY Radio: 9C Units: E11, E121, TT4, 9C</description>
       <guid isPermaLink="false">2025-05-26 20:50:00</guid>
       <pubDate>Mon, 26 May 2025 20:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 8:26 pm</title>
-      <description>6900 BLOCK ROOKS CT, KINGSCREST APTS - 6900 BLOCK ROOKS CT Units: PE311, FS31</description>
-      <guid isPermaLink="false">2025-05-26 20:26:00</guid>
-      <pubDate>Mon, 26 May 2025 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:00 pm</title>
-      <description>BUCHANAN DR / REVEILLE CT Units: Q11, R2, EK224, K1, K9, A249, BC901, E291, E11, E501, E31, R24, ALS2, BC902, SAF901, FS11, E111, E221</description>
-      <guid isPermaLink="false">2025-05-26 18:00:00</guid>
-      <pubDate>Mon, 26 May 2025 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
