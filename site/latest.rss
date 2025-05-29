@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 01:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 02:15:46 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:56 pm</title>
+      <description>400 BLOCK BANKSIA DR Units: E31</description>
+      <guid isPermaLink="false">2025-05-28 21:56:00</guid>
+      <pubDate>Wed, 28 May 2025 21:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 8:06 pm</title>
       <description>14100 BLOCK FOUR COUNTY DR Units: FS15, CCE12, E152</description>
@@ -300,12 +306,6 @@
       <description>MAR-LU-RIDGE RD / MOUNTVILLE RD, PH2 Radio: 9B Units: E201, FS20, 9B, A209</description>
       <guid isPermaLink="false">2025-05-26 09:07:00</guid>
       <pubDate>Mon, 26 May 2025 09:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:10 am</title>
-      <description>14300 BLOCK STOTTLEMYER RD, IFO Radio: 9B Units: R10, FS21, WCM791, E212, 9B</description>
-      <guid isPermaLink="false">2025-05-26 01:10:00</guid>
-      <pubDate>Mon, 26 May 2025 01:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
