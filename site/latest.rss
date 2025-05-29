@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 11:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 12:03:20 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:59 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
+      <guid isPermaLink="false">2025-05-29 07:59:00</guid>
+      <pubDate>Thu, 29 May 2025 07:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:52 am</title>
+      <description>300 BLOCK CARROLL AVE Units: T23, BC901, E331, C15, E152, E251</description>
+      <guid isPermaLink="false">2025-05-29 07:52:00</guid>
+      <pubDate>Thu, 29 May 2025 07:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:48 am</title>
+      <description>300 BLOCK CARROLL AVE Units: T23, BC901, C15, E152, E251</description>
+      <guid isPermaLink="false">2025-05-29 07:48:00</guid>
+      <pubDate>Thu, 29 May 2025 07:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:44 am</title>
+      <description>300 BLOCK CARROLL AVE Units: E152, E251</description>
+      <guid isPermaLink="false">2025-05-29 07:44:00</guid>
+      <pubDate>Thu, 29 May 2025 07:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:40 am</title>
+      <description>7100 BLOCK GEOFFREY WAY, GILBANE BUILDING CO Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-05-29 07:40:00</guid>
+      <pubDate>Thu, 29 May 2025 07:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:16 am</title>
       <description>6700 BLOCK DEER SPRING LN Radio: 9C Units: E121, FS12, 9C</description>
@@ -276,36 +306,6 @@
       <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: A239, E232</description>
       <guid isPermaLink="false">2025-05-26 14:31:00</guid>
       <pubDate>Mon, 26 May 2025 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:14 pm</title>
-      <description>600 BLOCK CAWLEY DR Radio: 9C Units: PE311, 9C, TT4, FS31</description>
-      <guid isPermaLink="false">2025-05-26 13:14:00</guid>
-      <pubDate>Mon, 26 May 2025 13:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 12:43 pm</title>
-      <description>2200 BLOCK WAYNESBORO PIKE Units: R6</description>
-      <guid isPermaLink="false">2025-05-26 12:43:00</guid>
-      <pubDate>Mon, 26 May 2025 12:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:36 pm</title>
-      <description>9300 BLOCK PENROSE ST Radio: 9B Units: A239, E232, FS23, 9B</description>
-      <guid isPermaLink="false">2025-05-26 12:36:00</guid>
-      <pubDate>Mon, 26 May 2025 12:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 12:19 pm</title>
-      <description>500 BLOCK BANQUET LN Radio: 9C Units: E31, TT4, 9C, PE23</description>
-      <guid isPermaLink="false">2025-05-26 12:19:00</guid>
-      <pubDate>Mon, 26 May 2025 12:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:02 am</title>
-      <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9B Units: E111, FS11, 9B, A249</description>
-      <guid isPermaLink="false">2025-05-26 11:02:00</guid>
-      <pubDate>Mon, 26 May 2025 11:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
