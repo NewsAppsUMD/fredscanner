@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 11:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 11:31:46 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:16 am</title>
+      <description>6700 BLOCK DEER SPRING LN Radio: 9C Units: E121, FS12, 9C</description>
+      <guid isPermaLink="false">2025-05-29 07:16:00</guid>
+      <pubDate>Thu, 29 May 2025 07:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:57 am</title>
       <description>8700 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9B Units: E111, FS11, 9B, A249</description>
       <guid isPermaLink="false">2025-05-26 11:02:00</guid>
       <pubDate>Mon, 26 May 2025 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:59 am</title>
-      <description>RT15 / 2MM, RT15 / 2MM Radio: 9B Units: 9B, A149, E281, FS28, BC901, R14, ALS20, EMS901</description>
-      <guid isPermaLink="false">2025-05-26 09:59:00</guid>
-      <pubDate>Mon, 26 May 2025 09:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
