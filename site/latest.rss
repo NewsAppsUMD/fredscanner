@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 May 2025 15:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 15:34:55 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:02 am</title>
+      <description>100 BLOCK W MAIN ST, Apt/Unit:1, WOODSBORO CRAFTSMEN Radio: 9C Units: BR106, 9C</description>
+      <guid isPermaLink="false">2025-05-29 11:02:00</guid>
+      <pubDate>Thu, 29 May 2025 11:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:59 am</title>
       <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK ZOE LN Radio: 9C Units: E152, R15, FS33, E331, 9C</description>
       <guid isPermaLink="false">2025-05-26 16:12:00</guid>
       <pubDate>Mon, 26 May 2025 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:31 pm</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: A239, E232</description>
-      <guid isPermaLink="false">2025-05-26 14:31:00</guid>
-      <pubDate>Mon, 26 May 2025 14:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
