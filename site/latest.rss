@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 15:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 16:02:27 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:53 am</title>
+      <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2025-05-30 11:53:00</guid>
+      <pubDate>Fri, 30 May 2025 11:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:42 am</title>
+      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E82, C3D, E11, R3, A129, A89, 9B, C3B</description>
+      <guid isPermaLink="false">2025-05-30 11:42:00</guid>
+      <pubDate>Fri, 30 May 2025 11:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:40 am</title>
+      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E82, E11, R3, A129, A89, FS12, 9B</description>
+      <guid isPermaLink="false">2025-05-30 11:40:00</guid>
+      <pubDate>Fri, 30 May 2025 11:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:53 am</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, STATE HIGHWAY ADMINISTRATION Radio: 9C Units: PE311, TT4, FS31, 9C</description>
@@ -288,24 +306,6 @@
       <description>I270SB / 25MM, I270SB / 25MM Units: E232, A259, FS23, R3</description>
       <guid isPermaLink="false">2025-05-27 21:06:00</guid>
       <pubDate>Tue, 27 May 2025 21:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:05 pm</title>
-      <description>I270SB / 25MM, I270SB / 25MM Units: A259, A735, FS23, PE735, PRE709, R3</description>
-      <guid isPermaLink="false">2025-05-27 21:05:00</guid>
-      <pubDate>Tue, 27 May 2025 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:29 pm</title>
-      <description>LIBERTY RD / WOODSBORO PIKE Radio: 9D Units: 9D, CMD11, A247, ALS29, E111, EMS902, BC902, Q11</description>
-      <guid isPermaLink="false">2025-05-27 20:29:00</guid>
-      <pubDate>Tue, 27 May 2025 20:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:23 pm</title>
-      <description>LIBERTY RD / WOODSBORO PIKE Radio: 9D Units: 9D, A247, ALS29, E111, EMS902, FS11</description>
-      <guid isPermaLink="false">2025-05-27 20:23:00</guid>
-      <pubDate>Tue, 27 May 2025 20:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
