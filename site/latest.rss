@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 18:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 19:01:43 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 2:49 pm</title>
+      <description>18400 BLOCK BEALLSVILLE RD Radio: 7A1 Units: E141, K23</description>
+      <guid isPermaLink="false">2025-05-30 14:49:00</guid>
+      <pubDate>Fri, 30 May 2025 14:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:46 pm</title>
+      <description>18400 BLOCK BEALLSVILLE RD Radio: 7A1 Units: E141</description>
+      <guid isPermaLink="false">2025-05-30 14:46:00</guid>
+      <pubDate>Fri, 30 May 2025 14:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:38 pm</title>
+      <description>5400 BLOCK URBANA PIKE Radio: 9C Units: E31, TT4, 9C</description>
+      <guid isPermaLink="false">2025-05-30 14:38:00</guid>
+      <pubDate>Fri, 30 May 2025 14:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
       <description>TANEYTOWN PIKE / FOUR POINTS BRIDGE RD Radio: 9B Units: A68, E61, FS06, 9B</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK HODSON DR, HOOD COLLEGE - SHRINER HALL Radio: 9C Units: 9C, PE23, TW1</description>
       <guid isPermaLink="false">2025-05-28 07:55:00</guid>
       <pubDate>Wed, 28 May 2025 07:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DETAIL: 7:29 am</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PSTF ANNEX Units: R15</description>
-      <guid isPermaLink="false">2025-05-28 07:29:00</guid>
-      <pubDate>Wed, 28 May 2025 07:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:11 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E232, PRE709, FS23, 9B</description>
-      <guid isPermaLink="false">2025-05-28 06:11:00</guid>
-      <pubDate>Wed, 28 May 2025 06:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:44 am</title>
-      <description>BELLS LN / BARTONSVILLE RD Units: E331, R15, FS33, A339, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-05-28 05:44:00</guid>
-      <pubDate>Wed, 28 May 2025 05:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
