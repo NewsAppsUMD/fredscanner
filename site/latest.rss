@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 17:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 18:02:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
+      <description>TANEYTOWN PIKE / FOUR POINTS BRIDGE RD Radio: 9B Units: A68, E61, FS06, 9B</description>
+      <guid isPermaLink="false">2025-05-30 13:40:00</guid>
+      <pubDate>Fri, 30 May 2025 13:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:53 am</title>
       <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>BELLS LN / BARTONSVILLE RD Units: E331, R15, FS33, A339, ALS4, BC901, EMS901</description>
       <guid isPermaLink="false">2025-05-28 05:44:00</guid>
       <pubDate>Wed, 28 May 2025 05:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:06 pm</title>
-      <description>I270SB / 25MM, I270SB / 25MM Units: E232, A259, FS23, R3</description>
-      <guid isPermaLink="false">2025-05-27 21:06:00</guid>
-      <pubDate>Tue, 27 May 2025 21:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
