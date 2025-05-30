@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 01:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 02:14:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:34 pm</title>
+      <description>I70EB / 57MM, I70WB / 57MM Radio: 9B Units: R2, A339, E331, E31, A159, FS33, 9B</description>
+      <guid isPermaLink="false">2025-05-29 21:34:00</guid>
+      <pubDate>Thu, 29 May 2025 21:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:34 pm</title>
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A239, E232</description>
@@ -300,12 +306,6 @@
       <description>9600 BLOCK STEINER SMITH RD Radio: 9B Units: A169, E162, FS16, 9B</description>
       <guid isPermaLink="false">2025-05-27 11:15:00</guid>
       <pubDate>Tue, 27 May 2025 11:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:40 am</title>
-      <description>5500 BLOCK URBANA PIKE, T J MAXX - RIVERVIEW PLAZA Radio: 9C Units: E31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-05-27 10:40:00</guid>
-      <pubDate>Tue, 27 May 2025 10:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
