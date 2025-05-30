@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 May 2025 00:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 00:46:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:34 pm</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A239, E232</description>
+      <guid isPermaLink="false">2025-05-29 20:34:00</guid>
+      <pubDate>Thu, 29 May 2025 20:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 8:23 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:LL, Apt/Unit:106, ELMWOOD TERRACE APTS - BLDG LL Radio: 9C Units: E121, TT4, 9C, E11</description>
+      <guid isPermaLink="false">2025-05-29 20:23:00</guid>
+      <pubDate>Thu, 29 May 2025 20:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:20 pm</title>
       <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: 9C, PE23, TT4</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK URBANA PIKE, T J MAXX - RIVERVIEW PLAZA Radio: 9C Units: E31, TT4, 9C</description>
       <guid isPermaLink="false">2025-05-27 10:40:00</guid>
       <pubDate>Tue, 27 May 2025 10:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:34 am</title>
-      <description>1800 BLOCK DERRS CT Radio: 9C Units: E111, 9C, FS11</description>
-      <guid isPermaLink="false">2025-05-27 10:34:00</guid>
-      <pubDate>Tue, 27 May 2025 10:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:35 am</title>
-      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, Apt/Unit:205, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, TT4, FS33, 9C</description>
-      <guid isPermaLink="false">2025-05-27 09:35:00</guid>
-      <pubDate>Tue, 27 May 2025 09:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
