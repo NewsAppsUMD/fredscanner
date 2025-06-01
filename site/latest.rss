@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 14:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 15:01:51 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 10:48 am</title>
+      <description>4900 BLOCK WHITNEY TER Radio: 9C Units: E141, R3, 9C, PE311, FS31</description>
+      <guid isPermaLink="false">2025-06-01 10:48:00</guid>
+      <pubDate>Sun, 01 Jun 2025 10:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 10:33 am</title>
+      <description>7900 BLOCK OPOSSUMTOWN PIKE, FREDERICK COMMUNITY COLLEGE Radio: 9D Units: E501, R3, A299, ALS29, EMS902, FS29, 9D</description>
+      <guid isPermaLink="false">2025-06-01 10:33:00</guid>
+      <pubDate>Sun, 01 Jun 2025 10:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:14 am</title>
       <description>1300 BLOCK MOTTER AVE, Apt/Unit:109, FREDERICK GREENES APTS Radio: 9C Units: TT4, 9C, PE23</description>
@@ -294,18 +306,6 @@
       <description>5800 BLOCK ELMER DERR RD Radio: 9D Units: A318, R20, ALS31, BC903, EMS902, FS31, 9D, PE311</description>
       <guid isPermaLink="false">2025-05-29 16:58:00</guid>
       <pubDate>Thu, 29 May 2025 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:44 pm</title>
-      <description>MOTTERS STATION RD / ROCKY RIDGE RD Radio: 9I Units: E132, R10, A309, PE102, EMS900, FS13, 9I</description>
-      <guid isPermaLink="false">2025-05-29 15:44:00</guid>
-      <pubDate>Thu, 29 May 2025 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 3:35 pm</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: 9D, E31</description>
-      <guid isPermaLink="false">2025-05-29 15:35:00</guid>
-      <pubDate>Thu, 29 May 2025 15:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
