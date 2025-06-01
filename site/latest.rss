@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Jun 2025 16:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 16:37:17 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 12:24 pm</title>
+      <description>14500 BLOCK BLACK ANKLE RD Radio: 9D Units: FS17, 9D, R15, CCM18, BC901, EMS901, E172</description>
+      <guid isPermaLink="false">2025-06-01 12:24:00</guid>
+      <pubDate>Sun, 01 Jun 2025 12:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 11:53 am</title>
       <description>800 BLOCK JEFFERSON PIKE, MCDONALDS - BRUNSWICK Units: A196, A198, ALS20, BC903, SAF901, EMS902, FS05, E51, E201, R19, HM33, HM50, HMSU33, E121</description>
@@ -300,12 +306,6 @@
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A239, E232</description>
       <guid isPermaLink="false">2025-05-29 20:34:00</guid>
       <pubDate>Thu, 29 May 2025 20:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 8:23 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:LL, Apt/Unit:106, ELMWOOD TERRACE APTS - BLDG LL Radio: 9C Units: E121, TT4, 9C, E11</description>
-      <guid isPermaLink="false">2025-05-29 20:23:00</guid>
-      <pubDate>Thu, 29 May 2025 20:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
