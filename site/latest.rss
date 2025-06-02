@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 10:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:37:40 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:02 am</title>
+      <description>100 BLOCK SECOND AVE Radio: 9C Units: ACE232, FS06, 9C, E61, PE102, R6</description>
+      <guid isPermaLink="false">2025-06-02 06:02:00</guid>
+      <pubDate>Mon, 02 Jun 2025 06:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 5:46 am</title>
       <description>9400 BLOCK HARMONY RD Radio: 9D Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, 9D, E72, A129, E82, E121, E212, E31, PE23, TW7, TW1, SAF901, SAFBC900, E291, WCK6, K33, E501, EMS901, VOLAC900</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STONEY PARK WAY Radio: 9C Units: PE102, 9C</description>
       <guid isPermaLink="false">2025-05-30 20:00:00</guid>
       <pubDate>Fri, 30 May 2025 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:56 pm</title>
-      <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Radio: 9B Units: A28, PE23, 9B</description>
-      <guid isPermaLink="false">2025-05-30 19:56:00</guid>
-      <pubDate>Fri, 30 May 2025 19:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
