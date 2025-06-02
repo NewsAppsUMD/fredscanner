@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 05:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:03:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:56 am</title>
+      <description>8900 BLOCK BENNETT CREEK BLVD, SOCIAL SECURITY ADMINISTRATION NATIONAL SUPPORT CENTER Radio: 9C Units: E232, FS23, T23, 9C</description>
+      <guid isPermaLink="false">2025-06-02 01:56:00</guid>
+      <pubDate>Mon, 02 Jun 2025 01:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>STRUCTURAL COLLAPSE: 9:55 pm</title>
       <description>1400 BLOCKC KEY PKWY, Apt/Unit:C6 Units: E11, TRSU29, A18, R3, TT4, HM33, TR29, BC903, EMS902, E121, A19, ALS4, SAF901</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / GREENFIELD RD Radio: 9B Units: E281, 9B, R14, A149, PE311, EMS901, FS14</description>
       <guid isPermaLink="false">2025-05-30 15:45:00</guid>
       <pubDate>Fri, 30 May 2025 15:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 2:49 pm</title>
-      <description>18400 BLOCK BEALLSVILLE RD Radio: 7A1 Units: E141, K23</description>
-      <guid isPermaLink="false">2025-05-30 14:49:00</guid>
-      <pubDate>Fri, 30 May 2025 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
