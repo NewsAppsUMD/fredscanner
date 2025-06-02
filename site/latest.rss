@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 19:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 19:31:30 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 3:14 pm</title>
+      <description>MOUNT ZION RD / JEFFERSON PIKE Radio: 9C Units: E201, E11, HM33, HMSU33, 9C</description>
+      <guid isPermaLink="false">2025-06-02 15:14:00</guid>
+      <pubDate>Mon, 02 Jun 2025 15:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:09 pm</title>
+      <description>5600 BLOCK PEBBLE DR Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-02 15:09:00</guid>
+      <pubDate>Mon, 02 Jun 2025 15:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:36 pm</title>
       <description>RT15 / RT464, RT15 / RT464 Radio: 9C Units: FS28, 9C, BR285</description>
@@ -294,18 +306,6 @@
       <description>2600 BLOCK EMMITSBURG RD, ASPIRE HOTEL Radio: ACOPS2 Units: ACOPS2, E61</description>
       <guid isPermaLink="false">2025-05-31 15:01:00</guid>
       <pubDate>Sat, 31 May 2025 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:32 pm</title>
-      <description>9000 BLOCK AMELUNG ST Radio: 9C Units: E232, T23, FS23, 9C</description>
-      <guid isPermaLink="false">2025-05-31 13:32:00</guid>
-      <pubDate>Sat, 31 May 2025 13:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:03 am</title>
-      <description>7100 BLOCK W FAGAN LN Radio: 9C Units: 9C, FS50, E501, PE23, T50, BC950</description>
-      <guid isPermaLink="false">2025-05-31 10:03:00</guid>
-      <pubDate>Sat, 31 May 2025 10:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
