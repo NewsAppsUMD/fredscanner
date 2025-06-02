@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 22:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 22:35:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:26 pm</title>
+      <description>RT15SB / 17MM, RT15SB / 17MM Radio: 9D Units: E291, E11, R2, EMS902, FS29, A299, A29, ALS29, BC902, 9D</description>
+      <guid isPermaLink="false">2025-06-02 18:26:00</guid>
+      <pubDate>Mon, 02 Jun 2025 18:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
+      <description>I70EB / MONUMENT RD, I70EB / MONUMENT RD Radio: 9B Units: WCA756, A79, E72, WCE161, R8, 9B</description>
+      <guid isPermaLink="false">2025-06-02 18:14:00</guid>
+      <pubDate>Mon, 02 Jun 2025 18:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 5:57 pm</title>
       <description>POTOMAC RIVER / SANDY HOOK Radio: TAC3OPS Units: BT28, A196, ALS20, TAC3OPS, BTSU19, BT19</description>
@@ -294,18 +306,6 @@
       <description>8500 BLOCK FINGERBOARD RD Radio: 9B Units: A239, FS23, 9B, E232</description>
       <guid isPermaLink="false">2025-05-31 17:58:00</guid>
       <pubDate>Sat, 31 May 2025 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:28 pm</title>
-      <description>I70WB / QUINN RD, JUST PAST QUINN Radio: 9D Units: E331, E31, R15, A339, A39, ALS31, BC901, EMS901, FS33, 9D</description>
-      <guid isPermaLink="false">2025-05-31 17:28:00</guid>
-      <pubDate>Sat, 31 May 2025 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 5:10 pm</title>
-      <description>1300 BLOCK S MAIN ST, FOOD LION - RIDGEVILLE SHOPPING CENTER Radio: CCA7 Units: E152, CCA7, R15</description>
-      <guid isPermaLink="false">2025-05-31 17:10:00</guid>
-      <pubDate>Sat, 31 May 2025 17:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
