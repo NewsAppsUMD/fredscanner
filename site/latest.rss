@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 09:35:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:02:15 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 5:46 am</title>
+      <description>9400 BLOCK HARMONY RD Radio: 9D Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, 9D, E72, A129, E82, E121, E212, E31, PE23, TW7, TW1, SAF901, SAFBC900, E291, WCK6, K33, E501, EMS901, VOLAC900</description>
+      <guid isPermaLink="false">2025-06-02 05:46:00</guid>
+      <pubDate>Mon, 02 Jun 2025 05:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 5:41 am</title>
+      <description>9400 BLOCK HARMONY RD Radio: 9D Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, 9D, E72, A129, E82, E121, E212, E31, PE23, TW7, TW1, SAF901, SAFBC900, EMS901</description>
+      <guid isPermaLink="false">2025-06-02 05:41:00</guid>
+      <pubDate>Mon, 02 Jun 2025 05:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:41 am</title>
+      <description>9400 BLOCK HARMONY RD Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, E72, E82, E121, E212, E31, PE23, TW7, TW1, SAF901</description>
+      <guid isPermaLink="false">2025-06-02 05:41:00</guid>
+      <pubDate>Mon, 02 Jun 2025 05:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:31 am</title>
       <description>400 BLOCK POTTING SHED WAY Units: E291, FS29</description>
@@ -288,24 +306,6 @@
       <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Radio: 9B Units: A28, PE23, 9B</description>
       <guid isPermaLink="false">2025-05-30 19:56:00</guid>
       <pubDate>Fri, 30 May 2025 19:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:29 pm</title>
-      <description>100 BLOCK N MARKET ST, CURIOUS IGUANA Units: PE23, R3, E31</description>
-      <guid isPermaLink="false">2025-05-30 18:29:00</guid>
-      <pubDate>Fri, 30 May 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 5:09 pm</title>
-      <description>100 BLOCK SANDSTONE DR, CIRCLE K Units: E111, E162, HM33, HMSU33</description>
-      <guid isPermaLink="false">2025-05-30 17:09:00</guid>
-      <pubDate>Fri, 30 May 2025 17:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:55 pm</title>
-      <description>10000 BLOCK BETHEL RD Radio: 9B Units: A299, E291, FS22, 9B</description>
-      <guid isPermaLink="false">2025-05-30 15:55:00</guid>
-      <pubDate>Fri, 30 May 2025 15:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
