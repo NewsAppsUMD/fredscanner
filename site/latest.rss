@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 20:35:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 21:34:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
+      <description>I70EB / 37MM Units: A89, E82</description>
+      <guid isPermaLink="false">2025-06-02 17:27:00</guid>
+      <pubDate>Mon, 02 Jun 2025 17:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:17 pm</title>
       <description>100 BLOCK PARK DR Radio: 9C Units: E61, FS06, 9C</description>
@@ -300,12 +306,6 @@
       <description>APPROX LOC:10900 NEW MARKET CT Radio: 9B Units: A159, FS15, 9B, E152</description>
       <guid isPermaLink="false">2025-05-31 16:57:00</guid>
       <pubDate>Sat, 31 May 2025 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 3:47 pm</title>
-      <description>11400 BLOCK WOLFSVILLE RD Radio: 9C Units: 9C, BR216, FS21</description>
-      <guid isPermaLink="false">2025-05-31 15:47:00</guid>
-      <pubDate>Sat, 31 May 2025 15:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
