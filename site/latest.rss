@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Jun 2025 16:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 16:39:04 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 12:36 pm</title>
+      <description>RT15 / RT464, RT15 / RT464 Radio: 9C Units: FS28, 9C, BR285</description>
+      <guid isPermaLink="false">2025-06-02 12:36:00</guid>
+      <pubDate>Mon, 02 Jun 2025 12:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 11:58 am</title>
       <description>I70WB / MOUNT TABOR RD, I70WB / MOUNT TABOR RD Radio: 9C Units: E82, WCE161, 9C</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK W FAGAN LN Radio: 9C Units: 9C, FS50, E501, PE23, T50, BC950</description>
       <guid isPermaLink="false">2025-05-31 10:03:00</guid>
       <pubDate>Sat, 31 May 2025 10:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:02 am</title>
-      <description>6000 BLOCK KEYSER LN Radio: 9C Units: E291, 9C</description>
-      <guid isPermaLink="false">2025-05-31 10:02:00</guid>
-      <pubDate>Sat, 31 May 2025 10:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
