@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 04:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 04:38:33 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 12:04 am</title>
+      <description>900 BLOCK JUBAL WAY Radio: 9C Units: 9C, E31, E221, Q11, FS29</description>
+      <guid isPermaLink="false">2025-06-03 00:04:00</guid>
+      <pubDate>Tue, 03 Jun 2025 00:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:01 am</title>
       <description>6900 BLOCK URNER AVE, BRADDOCK MOTORS - 6900 BLOCK URNER AVE Radio: 9C Units: 9C, BR125, FS12</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK MOTTER AVE, Apt/Unit:109, FREDERICK GREENES APTS Radio: 9C Units: TT4, 9C, PE23</description>
       <guid isPermaLink="false">2025-06-01 10:14:00</guid>
       <pubDate>Sun, 01 Jun 2025 10:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:02 am</title>
-      <description>6900 BLOCK BRIGHTON CT, Apt/Unit:101, KINGSCREST APTS - 6900 BLOCK BRIGHTON CT Radio: 9C Units: FS31, 9C, PE311, TT4</description>
-      <guid isPermaLink="false">2025-06-01 08:02:00</guid>
-      <pubDate>Sun, 01 Jun 2025 08:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
