@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 12:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 13:12:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:06 am</title>
+      <description>11300 BLOCK WINDSOR RD Radio: 9B Units: E251, FS25, 9B, A259</description>
+      <guid isPermaLink="false">2025-06-03 09:06:00</guid>
+      <pubDate>Tue, 03 Jun 2025 09:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUS ACCIDENT: 6:41 am</title>
       <description>11200 BLOCK HARNEY RD Radio: 9D Units: A69, ALS30, BC902, CCA58, A307, SAF901, EMS902, FS06, 9D, E61, CCE111, R6, R10, A68</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK BERRY ROSE CT Radio: 9C Units: PE23, R3, 9C, E31</description>
       <guid isPermaLink="false">2025-06-01 11:27:00</guid>
       <pubDate>Sun, 01 Jun 2025 11:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 10:48 am</title>
-      <description>4900 BLOCK WHITNEY TER Radio: 9C Units: E141, R3, 9C, PE311, FS31</description>
-      <guid isPermaLink="false">2025-06-01 10:48:00</guid>
-      <pubDate>Sun, 01 Jun 2025 10:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
