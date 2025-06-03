@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 21:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:02:19 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 5:57 pm</title>
+      <description>4300 BLOCK DOVER DR, TRO Radio: 9C Units: BR145, FS14, 9C</description>
+      <guid isPermaLink="false">2025-06-03 17:57:00</guid>
+      <pubDate>Tue, 03 Jun 2025 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:55 pm</title>
+      <description>2900 BLOCK GREENHILL CT Radio: 9C Units: A259, 9C, E251</description>
+      <guid isPermaLink="false">2025-06-03 17:55:00</guid>
+      <pubDate>Tue, 03 Jun 2025 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:55 pm</title>
+      <description>2900 BLOCK GREENHILL CT Radio: 9C Units: 9C, E251, FS25</description>
+      <guid isPermaLink="false">2025-06-03 17:55:00</guid>
+      <pubDate>Tue, 03 Jun 2025 17:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
       <description>JEFFERSON PIKE / TEEN BARNES RD Radio: 9B Units: A209, FS20, 9B, E201</description>
@@ -288,24 +306,6 @@
       <description>700 BLOCK E PATRICK ST Radio: 9C Units: RE74, TW6, 9C</description>
       <guid isPermaLink="false">2025-06-01 15:09:00</guid>
       <pubDate>Sun, 01 Jun 2025 15:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 2:52 pm</title>
-      <description>25300 BLOCK MILITARY RD Units: R10</description>
-      <guid isPermaLink="false">2025-06-01 14:52:00</guid>
-      <pubDate>Sun, 01 Jun 2025 14:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
-      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Radio: 9B Units: E251, PRE709, R15, A29, A259, FS31, 9B</description>
-      <guid isPermaLink="false">2025-06-01 14:42:00</guid>
-      <pubDate>Sun, 01 Jun 2025 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:14 pm</title>
-      <description>100 BLOCK S COURT ST, STATION 4 Units: TW6</description>
-      <guid isPermaLink="false">2025-06-01 13:14:00</guid>
-      <pubDate>Sun, 01 Jun 2025 13:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
