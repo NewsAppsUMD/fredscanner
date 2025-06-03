@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 10:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 11:02:12 +0000</lastBuildDate>
+    <item>
+      <title>BUS ACCIDENT: 6:41 am</title>
+      <description>11200 BLOCK HARNEY RD Radio: 9D Units: A69, ALS30, BC902, CCA58, A307, SAF901, EMS902, FS06, 9D, E61, CCE111, R6, R10, A68</description>
+      <guid isPermaLink="false">2025-06-03 06:41:00</guid>
+      <pubDate>Tue, 03 Jun 2025 06:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:16 am</title>
       <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7402, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: TT4, FS33, E331, 9C</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK WHITNEY TER Radio: 9C Units: E141, R3, 9C, PE311, FS31</description>
       <guid isPermaLink="false">2025-06-01 10:48:00</guid>
       <pubDate>Sun, 01 Jun 2025 10:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:33 am</title>
-      <description>7900 BLOCK OPOSSUMTOWN PIKE, FREDERICK COMMUNITY COLLEGE Radio: 9D Units: E501, R3, A299, ALS29, EMS902, FS29, 9D</description>
-      <guid isPermaLink="false">2025-06-01 10:33:00</guid>
-      <pubDate>Sun, 01 Jun 2025 10:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
