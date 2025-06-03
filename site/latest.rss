@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Jun 2025 22:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:35:44 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:29 pm</title>
+      <description>8700 BLOCK INSPIRATION CT Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-06-03 18:29:00</guid>
+      <pubDate>Tue, 03 Jun 2025 18:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:57 pm</title>
       <description>4300 BLOCK DOVER DR, TRO Radio: 9C Units: BR145, FS14, 9C</description>
@@ -300,12 +306,6 @@
       <description>7800 BLOCK WORMANS MILL RD, WEGMANS - CLEMSON CORNER Radio: 9C Units: CCE101, FS11, 9C</description>
       <guid isPermaLink="false">2025-06-01 15:34:00</guid>
       <pubDate>Sun, 01 Jun 2025 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:09 pm</title>
-      <description>700 BLOCK E PATRICK ST Radio: 9C Units: RE74, TW6, 9C</description>
-      <guid isPermaLink="false">2025-06-01 15:09:00</guid>
-      <pubDate>Sun, 01 Jun 2025 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
