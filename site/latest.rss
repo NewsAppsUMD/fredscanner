@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jun 2025 03:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 03:49:27 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:33 pm</title>
+      <description>8500 BLOCK EDGEWOOD CHURCH RD Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-06-03 23:33:00</guid>
+      <pubDate>Tue, 03 Jun 2025 23:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 10:55 pm</title>
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9C Units: E121, E82, FS12, 9C</description>
@@ -300,12 +306,6 @@
       <description>8900 BLOCK BENNETT CREEK BLVD, SOCIAL SECURITY ADMINISTRATION NATIONAL SUPPORT CENTER Radio: 9C Units: E232, FS23, T23, 9C</description>
       <guid isPermaLink="false">2025-06-02 01:56:00</guid>
       <pubDate>Mon, 02 Jun 2025 01:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRUCTURAL COLLAPSE: 9:55 pm</title>
-      <description>1400 BLOCKC KEY PKWY, Apt/Unit:C6 Units: E11, TRSU29, A18, R3, TT4, HM33, TR29, BC903, EMS902, E121, A19, ALS4, SAF901</description>
-      <guid isPermaLink="false">2025-06-01 21:55:00</guid>
-      <pubDate>Sun, 01 Jun 2025 21:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
