@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Jun 2025 12:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 12:43:58 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:12 am</title>
+      <description>7800 BLOCK WORMANS MILL RD, Bldg:D, Apt/Unit:Z, CHIPOTLE Units: E111, Q11, R24, PE23</description>
+      <guid isPermaLink="false">2025-06-04 08:12:00</guid>
+      <pubDate>Wed, 04 Jun 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:07 am</title>
+      <description>7800 BLOCK WORMANS MILL RD, Bldg:D, Apt/Unit:Z, CHIPOTLE Units: E111, Q11, K1, FS11, PE23</description>
+      <guid isPermaLink="false">2025-06-04 08:07:00</guid>
+      <pubDate>Wed, 04 Jun 2025 08:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:46 am</title>
       <description>ENGLISH MUFFIN WAY / HARSHMAN WAY Units: ALS31, EMS901, FS31, PE311, R14, A319</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SECOND AVE Radio: 9C Units: ACE232, FS06, 9C, E61, PE102, R6</description>
       <guid isPermaLink="false">2025-06-02 06:02:00</guid>
       <pubDate>Mon, 02 Jun 2025 06:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 5:46 am</title>
-      <description>9400 BLOCK HARMONY RD Radio: 9D Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, 9D, E72, A129, E82, E121, E212, E31, PE23, TW7, TW1, SAF901, SAFBC900, E291, WCK6, K33, E501, EMS901, VOLAC900</description>
-      <guid isPermaLink="false">2025-06-02 05:46:00</guid>
-      <pubDate>Mon, 02 Jun 2025 05:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 5:41 am</title>
-      <description>9400 BLOCK HARMONY RD Radio: 9D Units: R3, K7, K21, K1, A89, ALS8, BC903, BC902, 9D, E72, A129, E82, E121, E212, E31, PE23, TW7, TW1, SAF901, SAFBC900, EMS901</description>
-      <guid isPermaLink="false">2025-06-02 05:41:00</guid>
-      <pubDate>Mon, 02 Jun 2025 05:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
