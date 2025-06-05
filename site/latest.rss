@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 16:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 16:38:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:24 pm</title>
+      <description>200 BLOCK E PATRICK ST, FREDERICK POST OFFICE - E PATRICK ST Radio: 9C Units: E31, TW1, 9C</description>
+      <guid isPermaLink="false">2025-06-05 12:24:00</guid>
+      <pubDate>Thu, 05 Jun 2025 12:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:11 pm</title>
+      <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Radio: 9D Units: ALS20, EMS901, FS28, E281, 9D, R20, A149</description>
+      <guid isPermaLink="false">2025-06-05 12:11:00</guid>
+      <pubDate>Thu, 05 Jun 2025 12:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE MALFUNCTION: 12:07 pm</title>
+      <description>7100 BLOCK OBERLIN CIR Radio: 9C Units: E31, PE311, TT4, R3, 9C</description>
+      <guid isPermaLink="false">2025-06-05 12:07:00</guid>
+      <pubDate>Thu, 05 Jun 2025 12:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE MALFUNCTION: 12:05 pm</title>
+      <description>7100 BLOCK OBERLIN CIR Radio: 9C Units: E31, PE23, FS31, R3, 9C</description>
+      <guid isPermaLink="false">2025-06-05 12:05:00</guid>
+      <pubDate>Thu, 05 Jun 2025 12:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
       <description>5600 BLOCK SPECTRUM DR Radio: 9C Units: 9C, PE311, TT4, FS31</description>
@@ -282,30 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, KOHLS DEPARTMENT STORE - FREDERICK CROSSING Radio: 9C Units: 9C, PE311, FS31</description>
       <guid isPermaLink="false">2025-06-03 20:38:00</guid>
       <pubDate>Tue, 03 Jun 2025 20:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:52 pm</title>
-      <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Radio: 9C Units: E232, FS23, 9C, T23</description>
-      <guid isPermaLink="false">2025-06-03 18:52:00</guid>
-      <pubDate>Tue, 03 Jun 2025 18:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:29 pm</title>
-      <description>8700 BLOCK INSPIRATION CT Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2025-06-03 18:29:00</guid>
-      <pubDate>Tue, 03 Jun 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:57 pm</title>
-      <description>4300 BLOCK DOVER DR, TRO Radio: 9C Units: BR145, FS14, 9C</description>
-      <guid isPermaLink="false">2025-06-03 17:57:00</guid>
-      <pubDate>Tue, 03 Jun 2025 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:55 pm</title>
-      <description>2900 BLOCK GREENHILL CT Radio: 9C Units: A259, 9C, E251</description>
-      <guid isPermaLink="false">2025-06-03 17:55:00</guid>
-      <pubDate>Tue, 03 Jun 2025 17:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
