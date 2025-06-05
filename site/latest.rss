@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 00:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 00:46:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:29 pm</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: T5, FS05, E51, 9C</description>
+      <guid isPermaLink="false">2025-06-04 20:29:00</guid>
+      <pubDate>Wed, 04 Jun 2025 20:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:50 pm</title>
       <description>N MARKET ST / E SIXTH ST Radio: 9D Units: ALS2, EMS902, 9D</description>
@@ -300,12 +306,6 @@
       <description>MOUNT ZION RD / JEFFERSON PIKE Radio: 9C Units: E201, E11, HM33, HMSU33, 9C</description>
       <guid isPermaLink="false">2025-06-02 15:14:00</guid>
       <pubDate>Mon, 02 Jun 2025 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:09 pm</title>
-      <description>5600 BLOCK PEBBLE DR Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-02 15:09:00</guid>
-      <pubDate>Mon, 02 Jun 2025 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
