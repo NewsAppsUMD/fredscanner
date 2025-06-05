@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 12:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 12:43:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
+      <description>7800 BLOCK ROCKY SPRINGS RD, DAYBREAK ADULT DAYCARE Radio: 9C Units: E11, T50, 9C</description>
+      <guid isPermaLink="false">2025-06-05 08:12:00</guid>
+      <pubDate>Thu, 05 Jun 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
+      <description>7800 BLOCK ROCKY SPRINGS RD, DAYBREAK ADULT DAYCARE Radio: 9C Units: E11, T50, 9C</description>
+      <guid isPermaLink="false">2025-06-05 08:12:00</guid>
+      <pubDate>Thu, 05 Jun 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:03 am</title>
+      <description>400 BLOCK W SEVENTH ST Radio: 9B Units: 9B, PE23, A29</description>
+      <guid isPermaLink="false">2025-06-05 08:03:00</guid>
+      <pubDate>Thu, 05 Jun 2025 08:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:00 am</title>
       <description>100 BLOCK E ALL SAINTS ST, SCHAEFER BUILDING Radio: 9C Units: E31, TW1, 9C</description>
@@ -288,24 +306,6 @@
       <description>11300 BLOCK WINDSOR RD Radio: 9B Units: E251, FS25, 9B, A259</description>
       <guid isPermaLink="false">2025-06-03 09:06:00</guid>
       <pubDate>Tue, 03 Jun 2025 09:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 6:41 am</title>
-      <description>11200 BLOCK HARNEY RD Radio: 9D Units: A69, ALS30, BC902, CCA58, A307, SAF901, EMS902, FS06, 9D, E61, CCE111, R6, R10, A68</description>
-      <guid isPermaLink="false">2025-06-03 06:41:00</guid>
-      <pubDate>Tue, 03 Jun 2025 06:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:16 am</title>
-      <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7402, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: TT4, FS33, E331, 9C</description>
-      <guid isPermaLink="false">2025-06-03 01:16:00</guid>
-      <pubDate>Tue, 03 Jun 2025 01:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 12:04 am</title>
-      <description>900 BLOCK JUBAL WAY Radio: 9C Units: 9C, E31, E221, Q11, FS29</description>
-      <guid isPermaLink="false">2025-06-03 00:04:00</guid>
-      <pubDate>Tue, 03 Jun 2025 00:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
