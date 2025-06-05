@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 21:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 22:01:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
+      <description>WILLOWDALE DR / KEY PKWY Units: A18, E11</description>
+      <guid isPermaLink="false">2025-06-05 17:58:00</guid>
+      <pubDate>Thu, 05 Jun 2025 17:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 4:34 pm</title>
       <description>MA WASHCO: RT340 / POTOMAC RIVER BRIDGE, MA WASHCO: RT340 / POTOMAC RIVER BRIDGE Units: A196, RE52, E51</description>
@@ -300,12 +306,6 @@
       <description>8500 BLOCK EDGEWOOD CHURCH RD Radio: 9C Units: E11, 9C</description>
       <guid isPermaLink="false">2025-06-03 23:33:00</guid>
       <pubDate>Tue, 03 Jun 2025 23:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 10:55 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9C Units: E121, E82, FS12, 9C</description>
-      <guid isPermaLink="false">2025-06-03 22:55:00</guid>
-      <pubDate>Tue, 03 Jun 2025 22:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
