@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 12:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 13:11:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:07 am</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: TT4, E31, 9C</description>
+      <guid isPermaLink="false">2025-06-05 09:07:00</guid>
+      <pubDate>Thu, 05 Jun 2025 09:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:00 am</title>
+      <description>DEVILBISS BRIDGE RD / OLD FREDERICK RD Radio: 9D Units: C21B, R24, A299, ALS29, E221, BC902, EMS902, R3, A249, ALS2, E291, 9D</description>
+      <guid isPermaLink="false">2025-06-05 09:00:00</guid>
+      <pubDate>Thu, 05 Jun 2025 09:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:58 am</title>
+      <description>DEVILBISS BRIDGE RD / OLD FREDERICK RD Radio: 9D Units: R24, A299, ALS29, E221, BC902, EMS902, E291, FS22, 9D</description>
+      <guid isPermaLink="false">2025-06-05 08:58:00</guid>
+      <pubDate>Thu, 05 Jun 2025 08:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 8:45 am</title>
+      <description>27400 BLOCK CLARKSBURG RD Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-06-05 08:45:00</guid>
+      <pubDate>Thu, 05 Jun 2025 08:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
       <description>7800 BLOCK ROCKY SPRINGS RD, DAYBREAK ADULT DAYCARE Radio: 9C Units: E11, T50, 9C</description>
@@ -282,30 +306,6 @@
       <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-06-03 13:33:00</guid>
       <pubDate>Tue, 03 Jun 2025 13:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 10:33 am</title>
-      <description>9400 BLOCK CARRIAGE HILL ST Units: E232, FS23</description>
-      <guid isPermaLink="false">2025-06-03 10:33:00</guid>
-      <pubDate>Tue, 03 Jun 2025 10:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:28 am</title>
-      <description>OLD MIDDLETOWN RD / CHERRY LN Units: FS20, BR205</description>
-      <guid isPermaLink="false">2025-06-03 10:28:00</guid>
-      <pubDate>Tue, 03 Jun 2025 10:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:53 am</title>
-      <description>7400 BLOCK HAYWARD RD, MONOCACY ELEMENTARY SCHOOL Radio: 9C Units: E291, FS29, 9C, T50</description>
-      <guid isPermaLink="false">2025-06-03 09:53:00</guid>
-      <pubDate>Tue, 03 Jun 2025 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:06 am</title>
-      <description>11300 BLOCK WINDSOR RD Radio: 9B Units: E251, FS25, 9B, A259</description>
-      <guid isPermaLink="false">2025-06-03 09:06:00</guid>
-      <pubDate>Tue, 03 Jun 2025 09:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
