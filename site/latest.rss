@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 19:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 19:31:26 +0000</lastBuildDate>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 3:20 pm</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: 9C, TW1, BC903, E51, E201, T5</description>
+      <guid isPermaLink="false">2025-06-06 15:20:00</guid>
+      <pubDate>Fri, 06 Jun 2025 15:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 3:15 pm</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: FS05, 9C, E51, E201, T5</description>
+      <guid isPermaLink="false">2025-06-06 15:15:00</guid>
+      <pubDate>Fri, 06 Jun 2025 15:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:10 pm</title>
       <description>5500 BLOCK URBANA PIKE, STAPLES - RIVERVIEW PLAZA Radio: 9C Units: E31, 9C, TT4</description>
@@ -294,18 +306,6 @@
       <description>N MARKET ST / E SIXTH ST Radio: 9D Units: ALS2, EMS902, 9D</description>
       <guid isPermaLink="false">2025-06-04 17:50:00</guid>
       <pubDate>Wed, 04 Jun 2025 17:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:16 pm</title>
-      <description>W SEVENTH ST / TOLL HOUSE AVE Radio: 9D Units: A29, ALS29, R2, EMS902, 9D</description>
-      <guid isPermaLink="false">2025-06-04 17:16:00</guid>
-      <pubDate>Wed, 04 Jun 2025 17:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:22 pm</title>
-      <description>200 BLOCKA W PATRICK ST Radio: 9C Units: E31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-06-04 15:22:00</guid>
-      <pubDate>Wed, 04 Jun 2025 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
