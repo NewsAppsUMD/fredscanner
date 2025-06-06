@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 23:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 23:33:27 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:21 pm</title>
+      <description>1000 BLOCK EASTBOURNE CT Radio: 9C Units: E11, E501, T50, 9C</description>
+      <guid isPermaLink="false">2025-06-06 19:21:00</guid>
+      <pubDate>Fri, 06 Jun 2025 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:16 pm</title>
+      <description>4100 BLOCK PRICES DISTILLERY RD, SAINT IGNATIUS ROMAN CATHOLIC CHURCH Radio: 9C Units: E251, T23, FS25, 9C</description>
+      <guid isPermaLink="false">2025-06-06 19:16:00</guid>
+      <pubDate>Fri, 06 Jun 2025 19:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 6:02 pm</title>
       <description>WINCHESTER BLVD / MOUNTVILLE RD Radio: 9D Units: E281, 9D</description>
@@ -294,18 +306,6 @@
       <description>4300 BLOCK REELS MILL RD Radio: 9C Units: E232, FS23, 9C</description>
       <guid isPermaLink="false">2025-06-05 04:47:00</guid>
       <pubDate>Thu, 05 Jun 2025 04:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:44 am</title>
-      <description>6400 BLOCK ALAN LINTON BLVD E Radio: 9C Units: PE311, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-05 00:44:00</guid>
-      <pubDate>Thu, 05 Jun 2025 00:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:37 am</title>
-      <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: E201, TW1, FS20, 9C</description>
-      <guid isPermaLink="false">2025-06-05 00:37:00</guid>
-      <pubDate>Thu, 05 Jun 2025 00:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
