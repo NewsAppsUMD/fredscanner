@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Jun 2025 23:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 00:07:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:48 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: A159</description>
+      <guid isPermaLink="false">2025-06-05 19:48:00</guid>
+      <pubDate>Thu, 05 Jun 2025 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:03 pm</title>
       <description>GAS HOUSE PIKE / PROGRESS DR Radio: 9B Units: A29, PE23, 9B</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK BILLET ST Units: TT4, FS33, E152</description>
       <guid isPermaLink="false">2025-06-04 03:10:00</guid>
       <pubDate>Wed, 04 Jun 2025 03:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:17 am</title>
-      <description>1300 BLOCK HOLLING PL, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Units: PE23, TT4</description>
-      <guid isPermaLink="false">2025-06-04 01:17:00</guid>
-      <pubDate>Wed, 04 Jun 2025 01:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
