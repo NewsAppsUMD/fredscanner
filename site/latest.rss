@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 20:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 4:40 pm</title>
+      <description>CORPORATE DR / BENTLEY WAY Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-06 16:40:00</guid>
+      <pubDate>Fri, 06 Jun 2025 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:01 pm</title>
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: E231, A239</description>
@@ -300,12 +306,6 @@
       <description>4400 BLOCK NEW DESIGN RD Radio: 9D Units: E31, 9D</description>
       <guid isPermaLink="false">2025-06-04 21:58:00</guid>
       <pubDate>Wed, 04 Jun 2025 21:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:49 pm</title>
-      <description>4400 BLOCK NEW DESIGN RD Radio: 9B Units: A149, E311, FS14, 9B</description>
-      <guid isPermaLink="false">2025-06-04 21:49:00</guid>
-      <pubDate>Wed, 04 Jun 2025 21:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
