@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 15:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 16:02:35 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:36 am</title>
+      <description>13500 BLOCK LOY WOLFE RD Units: BR216</description>
+      <guid isPermaLink="false">2025-06-06 11:36:00</guid>
+      <pubDate>Fri, 06 Jun 2025 11:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:25 am</title>
       <description>PARKVIEW CT / PARKVIEW DR Units: BR125</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK POTTING SHED WAY Radio: 9C Units: E291, FS29, 9C</description>
       <guid isPermaLink="false">2025-06-04 12:51:00</guid>
       <pubDate>Wed, 04 Jun 2025 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:56 am</title>
-      <description>I70WB / RT351, I70WB / RT351 Units: A39, A79, E31, R3, E72</description>
-      <guid isPermaLink="false">2025-06-04 10:56:00</guid>
-      <pubDate>Wed, 04 Jun 2025 10:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
