@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Jun 2025 22:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 22:35:42 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 6:02 pm</title>
+      <description>WINCHESTER BLVD / MOUNTVILLE RD Radio: 9D Units: E281, 9D</description>
+      <guid isPermaLink="false">2025-06-06 18:02:00</guid>
+      <pubDate>Fri, 06 Jun 2025 18:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 5:57 pm</title>
       <description>MOUNTVILLE RD / MAR-LU-RIDGE RD Units: EMS901, E141, R20, ALS20, A149, E201, A198, BC903, ALS4, C20</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK MOUNT ZION RD, GLADHILL TRACTOR Radio: 9C Units: E201, TW1, FS20, 9C</description>
       <guid isPermaLink="false">2025-06-05 00:37:00</guid>
       <pubDate>Thu, 05 Jun 2025 00:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 12:28 am</title>
-      <description>300 BLOCK N MARKET ST, UP ON MARKET Radio: 9C Units: 9C, PE23</description>
-      <guid isPermaLink="false">2025-06-05 00:28:00</guid>
-      <pubDate>Thu, 05 Jun 2025 00:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
