@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 09:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 10:02:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:58 am</title>
+      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2025-06-07 05:58:00</guid>
+      <pubDate>Sat, 07 Jun 2025 05:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 5:02 am</title>
       <description>CATOCTIN HOLLOW RD / CATOCTIN MOUNTAIN HWY Radio: 9C Units: 9C, PE102</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK SPECTRUM DR Radio: 9C Units: 9C, PE311, TT4, FS31</description>
       <guid isPermaLink="false">2025-06-05 11:48:00</guid>
       <pubDate>Thu, 05 Jun 2025 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:34 am</title>
-      <description>3900 BLOCK BRAVEHEART CIR Radio: 9C Units: FS23, E232, 9C</description>
-      <guid isPermaLink="false">2025-06-05 11:34:00</guid>
-      <pubDate>Thu, 05 Jun 2025 11:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
