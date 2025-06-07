@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 18:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 18:37:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:12 pm</title>
+      <description>5100 BLOCK WOODVILLE RD Radio: 9B Units: 9B, A159, R15, FS15</description>
+      <guid isPermaLink="false">2025-06-07 14:12:00</guid>
+      <pubDate>Sat, 07 Jun 2025 14:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
+      <guid isPermaLink="false">2025-06-07 14:11:00</guid>
+      <pubDate>Sat, 07 Jun 2025 14:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:41 pm</title>
       <description>SENECA DR / HILLCREST DR Radio: 9B Units: A18, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>5100 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:158 Units: E311, FS31</description>
       <guid isPermaLink="false">2025-06-06 08:59:00</guid>
       <pubDate>Fri, 06 Jun 2025 08:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 8:25 pm</title>
-      <description>100 BLOCK MAIN ST Units: E82, RE74, A89, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-06-05 20:25:00</guid>
-      <pubDate>Thu, 05 Jun 2025 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:48 pm</title>
-      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: A159</description>
-      <guid isPermaLink="false">2025-06-05 19:48:00</guid>
-      <pubDate>Thu, 05 Jun 2025 19:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
