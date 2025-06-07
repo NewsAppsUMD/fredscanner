@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 10:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 10:36:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:01 am</title>
+      <description>CATOCTIN HOLLOW RD / WIGVILLE RD Radio: 9C Units: PE102, 9C</description>
+      <guid isPermaLink="false">2025-06-07 06:01:00</guid>
+      <pubDate>Sat, 07 Jun 2025 06:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:58 am</title>
       <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK OBERLIN CIR Radio: 9C Units: E31, PE23, FS31, R3, 9C</description>
       <guid isPermaLink="false">2025-06-05 12:05:00</guid>
       <pubDate>Thu, 05 Jun 2025 12:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
-      <description>5600 BLOCK SPECTRUM DR Radio: 9C Units: 9C, PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2025-06-05 11:48:00</guid>
-      <pubDate>Thu, 05 Jun 2025 11:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
