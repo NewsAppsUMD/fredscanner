@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 11:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 12:03:02 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:59 am</title>
+      <description>1700 BLOCK EAGLE ROCK LN Radio: 9C Units: E11, E501, T50, 9C</description>
+      <guid isPermaLink="false">2025-06-07 07:59:00</guid>
+      <pubDate>Sat, 07 Jun 2025 07:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 7:50 am</title>
+      <description>3400 BLOCK URBANA PIKE, STARBUCKS - URBANA PIKE Radio: 9C Units: E251, E231, T23, FS23, 9C</description>
+      <guid isPermaLink="false">2025-06-07 07:50:00</guid>
+      <pubDate>Sat, 07 Jun 2025 07:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:01 am</title>
       <description>CATOCTIN HOLLOW RD / WIGVILLE RD Radio: 9C Units: PE102, 9C</description>
@@ -294,18 +306,6 @@
       <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Radio: 9D Units: ALS20, EMS901, FS28, E281, 9D, R20, A149</description>
       <guid isPermaLink="false">2025-06-05 12:11:00</guid>
       <pubDate>Thu, 05 Jun 2025 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE MALFUNCTION: 12:07 pm</title>
-      <description>7100 BLOCK OBERLIN CIR Radio: 9C Units: E31, PE311, TT4, R3, 9C</description>
-      <guid isPermaLink="false">2025-06-05 12:07:00</guid>
-      <pubDate>Thu, 05 Jun 2025 12:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE MALFUNCTION: 12:05 pm</title>
-      <description>7100 BLOCK OBERLIN CIR Radio: 9C Units: E31, PE23, FS31, R3, 9C</description>
-      <guid isPermaLink="false">2025-06-05 12:05:00</guid>
-      <pubDate>Thu, 05 Jun 2025 12:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
