@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Jun 2025 15:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 16:02:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:41 am</title>
+      <description>3000 BLOCK GREEN VALLEY RD, IAO Radio: 9B Units: E251, FS25, 9B, A259</description>
+      <guid isPermaLink="false">2025-06-07 11:41:00</guid>
+      <pubDate>Sat, 07 Jun 2025 11:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 11:39 am</title>
+      <description>1400 BLOCK HOPE FARM CT Radio: 9C Units: E51, E201, T5, FS05, 9C</description>
+      <guid isPermaLink="false">2025-06-07 11:39:00</guid>
+      <pubDate>Sat, 07 Jun 2025 11:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:08 am</title>
       <description>100 BLOCK IRONMASTER CT Units: PE102</description>
@@ -294,18 +306,6 @@
       <description>WILLOWDALE DR / KEY PKWY Units: A18, E11</description>
       <guid isPermaLink="false">2025-06-05 17:58:00</guid>
       <pubDate>Thu, 05 Jun 2025 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:34 pm</title>
-      <description>MA WASHCO: RT340 / POTOMAC RIVER BRIDGE, MA WASHCO: RT340 / POTOMAC RIVER BRIDGE Units: A196, RE52, E51</description>
-      <guid isPermaLink="false">2025-06-05 16:34:00</guid>
-      <pubDate>Thu, 05 Jun 2025 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:29 pm</title>
-      <description>MA WASHCO: RT340 / POTOMAC RIVER BRIDGE, MA WASHCO: RT340 / POTOMAC RIVER BRIDGE Units: A196, RE52, E51</description>
-      <guid isPermaLink="false">2025-06-05 16:29:00</guid>
-      <pubDate>Thu, 05 Jun 2025 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
