@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 20:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 21:01:45 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 4:35 pm</title>
+      <description>1000 BLOCK NORWICK RD Units: PE23, E31, E291, E121, A18, E501, ALS4, BC902, BC903, SAF901, R3, T50, TT4</description>
+      <guid isPermaLink="false">2025-06-08 16:35:00</guid>
+      <pubDate>Sun, 08 Jun 2025 16:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:10 pm</title>
       <description>I70EB / I270, I70EB / I270 Radio: 9B Units: A18, E11, 9B</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK BLACK RD Radio: 9B Units: A69, R10, 9B</description>
       <guid isPermaLink="false">2025-06-07 12:55:00</guid>
       <pubDate>Sat, 07 Jun 2025 12:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:41 am</title>
-      <description>3000 BLOCK GREEN VALLEY RD, IAO Radio: 9B Units: E251, FS25, 9B, A259</description>
-      <guid isPermaLink="false">2025-06-07 11:41:00</guid>
-      <pubDate>Sat, 07 Jun 2025 11:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
