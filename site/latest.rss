@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Jun 2025 12:03:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 12:43:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
+      <description>1000 BLOCK FAIRVIEW AVE Radio: 9C Units: PE23, T50, 9C</description>
+      <guid isPermaLink="false">2025-06-08 08:38:00</guid>
+      <pubDate>Sun, 08 Jun 2025 08:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:40 am</title>
       <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9B Units: A249, FS11, 9B, E111</description>
@@ -300,12 +306,6 @@
       <description>CATOCTIN HOLLOW RD / CATOCTIN MOUNTAIN HWY Radio: 9C Units: 9C, PE102</description>
       <guid isPermaLink="false">2025-06-07 05:02:00</guid>
       <pubDate>Sat, 07 Jun 2025 05:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:57 am</title>
-      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9B Units: EMS901, E231, ALS23, R3, A239, A38, 9B, E11</description>
-      <guid isPermaLink="false">2025-06-07 03:57:00</guid>
-      <pubDate>Sat, 07 Jun 2025 03:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
