@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 20:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 21:02:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:38 pm</title>
+      <description>200 BLOCK KNOXVILLE RD Radio: 9B Units: R19, 9B, A198, E51, RE52, ALS20, EMS901, FS05</description>
+      <guid isPermaLink="false">2025-06-09 16:38:00</guid>
+      <pubDate>Mon, 09 Jun 2025 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:09 pm</title>
       <description>300 BLOCK W PATRICK ST Radio: 9C Units: 9C, BR35</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
       <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: A229, E221, A249, E291, FS22</description>
-      <guid isPermaLink="false">2025-06-07 16:49:00</guid>
-      <pubDate>Sat, 07 Jun 2025 16:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
-      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: A229, E221</description>
       <guid isPermaLink="false">2025-06-07 16:49:00</guid>
       <pubDate>Sat, 07 Jun 2025 16:49:00 -0400</pubDate>
     </item>
