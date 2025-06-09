@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 02:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 03:02:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:18 pm</title>
+      <description>NEW DESIGN RD / RT355, NEW DESIGN RD / RT355 Radio: 9B Units: A38, 9B, E31</description>
+      <guid isPermaLink="false">2025-06-08 22:18:00</guid>
+      <pubDate>Sun, 08 Jun 2025 22:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 9:16 pm</title>
       <description>1800 BLOCK GREENSPRING PL Radio: 9D Units: SAF901, E501, PE23, E291, E31, R3, T50, TT4, A18, ALS2, BC902, 9D, E11, BC903</description>
@@ -300,12 +306,6 @@
       <description>5100 BLOCK WOODVILLE RD Radio: 9B Units: 9B, A159, R15, FS15</description>
       <guid isPermaLink="false">2025-06-07 14:12:00</guid>
       <pubDate>Sat, 07 Jun 2025 14:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
-      <guid isPermaLink="false">2025-06-07 14:11:00</guid>
-      <pubDate>Sat, 07 Jun 2025 14:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
