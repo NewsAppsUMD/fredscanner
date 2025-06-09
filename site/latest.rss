@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 23:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 23:33:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:03 pm</title>
+      <description>6800 BLOCK ENGLISH MUFFIN WAY, UNITED RENTALS Radio: 9B Units: PE311, FS31, 9B, A149</description>
+      <guid isPermaLink="false">2025-06-09 19:03:00</guid>
+      <pubDate>Mon, 09 Jun 2025 19:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:00 pm</title>
+      <description>4900 BLOCK SMALL GAINS WAY Radio: 9C Units: PE311, TW1, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-09 19:00:00</guid>
+      <pubDate>Mon, 09 Jun 2025 19:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:06 pm</title>
       <description>4000 BLOCK BAKER VALLEY RD Units: BR235, FS23</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: 9C, E31</description>
       <guid isPermaLink="false">2025-06-07 17:14:00</guid>
       <pubDate>Sat, 07 Jun 2025 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
-      <description>400 BLOCK RICHARD ROBERTS ST Radio: 9B Units: A159, E152, FS15, 9B</description>
-      <guid isPermaLink="false">2025-06-07 16:55:00</guid>
-      <pubDate>Sat, 07 Jun 2025 16:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:52 pm</title>
-      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: BC902, A229, E221, PE102, FS22, A68, A249, E291</description>
-      <guid isPermaLink="false">2025-06-07 16:52:00</guid>
-      <pubDate>Sat, 07 Jun 2025 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
