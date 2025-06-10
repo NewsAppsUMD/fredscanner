@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 18:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 19:01:45 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:54 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: A159</description>
+      <guid isPermaLink="false">2025-06-10 14:54:00</guid>
+      <pubDate>Tue, 10 Jun 2025 14:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
+      <description>I70WB / W WATERSVILLE RD Units: E152, R15</description>
+      <guid isPermaLink="false">2025-06-10 14:37:00</guid>
+      <pubDate>Tue, 10 Jun 2025 14:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:34 pm</title>
       <description>I70WB / W WATERSVILLE RD Units: R15</description>
@@ -294,18 +306,6 @@
       <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9D Units: 9D, PE102, R10, A309, ALS29, BC902, EMS902</description>
       <guid isPermaLink="false">2025-06-08 11:48:00</guid>
       <pubDate>Sun, 08 Jun 2025 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
-      <description>1000 BLOCK FAIRVIEW AVE Radio: 9C Units: PE23, T50, 9C</description>
-      <guid isPermaLink="false">2025-06-08 08:38:00</guid>
-      <pubDate>Sun, 08 Jun 2025 08:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:40 am</title>
-      <description>8400 BLOCK WOODSBORO PIKE, SEVEN ELEVEN - DISCOVERY Radio: 9B Units: A249, FS11, 9B, E111</description>
-      <guid isPermaLink="false">2025-06-08 07:40:00</guid>
-      <pubDate>Sun, 08 Jun 2025 07:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
