@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 00:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:46:28 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 8:25 pm</title>
+      <description>9200 BLOCK LANDON HOUSE WAY Radio: 9C Units: E251, T23, FS23, 9C, E231</description>
+      <guid isPermaLink="false">2025-06-09 20:25:00</guid>
+      <pubDate>Mon, 09 Jun 2025 20:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:48 pm</title>
       <description>9700 BLOCK LIBERTY RD, BARNES STORE Radio: 9D Units: EMS902, FS11, 9D, E111, R24, A249, ALS17, BC902</description>
@@ -300,12 +306,6 @@
       <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: E102, E61, R10, K10, A68, 9C</description>
       <guid isPermaLink="false">2025-06-07 17:38:00</guid>
       <pubDate>Sat, 07 Jun 2025 17:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:17 pm</title>
-      <description>7800 BLOCK SUGARLOAF MOUNTAIN DR Radio: 9I Units: PRE714, R14, M714, FS23, 9I, PRE709, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-06-07 17:17:00</guid>
-      <pubDate>Sat, 07 Jun 2025 17:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
