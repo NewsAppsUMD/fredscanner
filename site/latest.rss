@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 17:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 17:34:44 +0000</lastBuildDate>
+    <item>
+      <title>ALERT 2 - MAJOR DIFFICULTY: 1:23 pm</title>
+      <description>300 BLOCK AVIATION WAY, RUNWAY 23 - FREDERICK REGIONAL AIRPORT Radio: 9D Units: E31, A319, BC901, PE311, E11, E111, R3, R2, K33, K1, HM33, HMSU33, A39, A318, A18, ALS2, ALS31, SAF901, EMS901, 9D</description>
+      <guid isPermaLink="false">2025-06-10 13:23:00</guid>
+      <pubDate>Tue, 10 Jun 2025 13:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:43 pm</title>
       <description>I70EB / RT40 (FRED), I70WB / 47MM Radio: 9C Units: E82, 9C, E121</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK N MAPLE AVE Radio: 9C Units: E51, PE612, R19, FS05, 9C</description>
       <guid isPermaLink="false">2025-06-08 01:00:00</guid>
       <pubDate>Sun, 08 Jun 2025 01:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:29 pm</title>
-      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9B Units: E11, R3, A18, A209, 9B, E201</description>
-      <guid isPermaLink="false">2025-06-07 22:29:00</guid>
-      <pubDate>Sat, 07 Jun 2025 22:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
