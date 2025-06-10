@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Jun 2025 23:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 00:08:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:48 pm</title>
+      <description>9700 BLOCK LIBERTY RD, BARNES STORE Radio: 9D Units: EMS902, FS11, 9D, E111, R24, A249, ALS17, BC902</description>
+      <guid isPermaLink="false">2025-06-09 19:48:00</guid>
+      <pubDate>Mon, 09 Jun 2025 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:03 pm</title>
       <description>6800 BLOCK ENGLISH MUFFIN WAY, UNITED RENTALS Radio: 9B Units: PE311, FS31, 9B, A149</description>
@@ -300,12 +306,6 @@
       <description>7800 BLOCK SUGARLOAF MOUNTAIN DR Radio: 9I Units: PRE714, R14, M714, FS23, 9I, PRE709, BC901, EMS901</description>
       <guid isPermaLink="false">2025-06-07 17:17:00</guid>
       <pubDate>Sat, 07 Jun 2025 17:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 5:14 pm</title>
-      <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: 9C, E31</description>
-      <guid isPermaLink="false">2025-06-07 17:14:00</guid>
-      <pubDate>Sat, 07 Jun 2025 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
