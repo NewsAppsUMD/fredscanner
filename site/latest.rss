@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Jun 2025 23:33:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:08:02 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:42 pm</title>
+      <description>11300 BLOCK KEYMAR RD Units: K17, BC901, C17C, BC902, SAF901, E111, T50, CCEK54, K33, EK224, C17, E172, E152, Q11, R24, K9, CCEK84, A179, ALS17, CCE101, E91, CCE81, E162, E132, R15</description>
+      <guid isPermaLink="false">2025-06-10 19:42:00</guid>
+      <pubDate>Tue, 10 Jun 2025 19:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:36 pm</title>
+      <description>11300 BLOCK KEYMAR RD Units: K17, BC901, BC902, SAF901, FS17, E172, E152, Q11, R24, K9, CCEK84, A179, ALS17, E91, CCE81, E162, E132, R15</description>
+      <guid isPermaLink="false">2025-06-10 19:36:00</guid>
+      <pubDate>Tue, 10 Jun 2025 19:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 7:25 pm</title>
       <description>900 BLOCK HALLECK DR Radio: 9C Units: FS29, E111, E291, Q11, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT75 RAMP Radio: 9B Units: R15, FS15, 9B, A159</description>
       <guid isPermaLink="false">2025-06-08 18:30:00</guid>
       <pubDate>Sun, 08 Jun 2025 18:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:35 pm</title>
-      <description>1000 BLOCK NORWICK RD Units: PE23, E31, E291, E121, A18, E501, ALS4, BC902, BC903, SAF901, R3, T50, TT4</description>
-      <guid isPermaLink="false">2025-06-08 16:35:00</guid>
-      <pubDate>Sun, 08 Jun 2025 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:10 pm</title>
-      <description>I70EB / I270, I70EB / I270 Radio: 9B Units: A18, E11, 9B</description>
-      <guid isPermaLink="false">2025-06-08 16:10:00</guid>
-      <pubDate>Sun, 08 Jun 2025 16:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
