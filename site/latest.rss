@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Jun 2025 20:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 21:01:42 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 4:45 pm</title>
+      <description>13900 BLOCK JIMTOWN RD Units: BR106</description>
+      <guid isPermaLink="false">2025-06-11 16:45:00</guid>
+      <pubDate>Wed, 11 Jun 2025 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:29 pm</title>
+      <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-06-11 16:29:00</guid>
+      <pubDate>Wed, 11 Jun 2025 16:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - FIRE: 4:18 pm</title>
       <description>1600 BLOCK JEFFERSON PIKE Radio: 9B Units: A209, FS05, 9B, E51</description>
@@ -294,18 +306,6 @@
       <description>4000 BLOCK BAKER VALLEY RD Units: BR235, FS23</description>
       <guid isPermaLink="false">2025-06-09 18:06:00</guid>
       <pubDate>Mon, 09 Jun 2025 18:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:38 pm</title>
-      <description>200 BLOCK KNOXVILLE RD Radio: 9B Units: R19, 9B, A198, E51, RE52, ALS20, EMS901, FS05</description>
-      <guid isPermaLink="false">2025-06-09 16:38:00</guid>
-      <pubDate>Mon, 09 Jun 2025 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:09 pm</title>
-      <description>300 BLOCK W PATRICK ST Radio: 9C Units: 9C, BR35</description>
-      <guid isPermaLink="false">2025-06-09 16:09:00</guid>
-      <pubDate>Mon, 09 Jun 2025 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
