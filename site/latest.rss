@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Jun 2025 20:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 21:02:20 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 4:40 pm</title>
+      <description>1400 BLOCK WHEYFIELD DR Radio: 9C Units: FS11, E111, 9C</description>
+      <guid isPermaLink="false">2025-06-12 16:40:00</guid>
+      <pubDate>Thu, 12 Jun 2025 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 4:31 pm</title>
       <description>PINE AVE / E FIFTH ST, IAO Radio: 9C Units: 9C, E23</description>
@@ -300,12 +306,6 @@
       <description>I70WB / W WATERSVILLE RD Units: E152, R15</description>
       <guid isPermaLink="false">2025-06-10 14:37:00</guid>
       <pubDate>Tue, 10 Jun 2025 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:34 pm</title>
-      <description>I70WB / W WATERSVILLE RD Units: R15</description>
-      <guid isPermaLink="false">2025-06-10 14:34:00</guid>
-      <pubDate>Tue, 10 Jun 2025 14:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
