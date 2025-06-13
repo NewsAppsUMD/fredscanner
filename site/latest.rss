@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 20:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 20:35:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:10 pm</title>
+      <description>RT15SB / N FRANKLINVILLE RD (S), GATEWAY FARM MARKET Radio: 9B Units: A229, E102, 9B</description>
+      <guid isPermaLink="false">2025-06-13 16:10:00</guid>
+      <pubDate>Fri, 13 Jun 2025 16:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:30 pm</title>
       <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT FIDDLERS GREEN Radio: 9C Units: 9C, TT4, FS31, PE311</description>
@@ -300,12 +306,6 @@
       <description>SUGARLOAF PKWY / WORTHINGTON BLVD Radio: 9D Units: E231, A259, A239, ALS23, T23, 9D</description>
       <guid isPermaLink="false">2025-06-11 11:01:00</guid>
       <pubDate>Wed, 11 Jun 2025 11:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
-      <description>SUGARLOAF PKWY / WORTHINGTON BLVD Radio: 9D Units: E231, PRE709, R3, A239, ALS23, BC901, EMS902, FS23, 9D</description>
-      <guid isPermaLink="false">2025-06-11 10:56:00</guid>
-      <pubDate>Wed, 11 Jun 2025 10:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
