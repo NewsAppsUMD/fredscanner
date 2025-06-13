@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 19:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 20:02:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:30 pm</title>
+      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT FIDDLERS GREEN Radio: 9C Units: 9C, TT4, FS31, PE311</description>
+      <guid isPermaLink="false">2025-06-13 15:30:00</guid>
+      <pubDate>Fri, 13 Jun 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
       <description>27600 BLOCK RIDGE RD Radio: 7A1 Units: A259</description>
@@ -300,12 +306,6 @@
       <description>SUGARLOAF PKWY / WORTHINGTON BLVD Radio: 9D Units: E231, PRE709, R3, A239, ALS23, BC901, EMS902, FS23, 9D</description>
       <guid isPermaLink="false">2025-06-11 10:56:00</guid>
       <pubDate>Wed, 11 Jun 2025 10:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:49 am</title>
-      <description>JEFFERSON PIKE / WESTON DR Radio: 9C Units: BR55, FS05, 9C</description>
-      <guid isPermaLink="false">2025-06-11 09:49:00</guid>
-      <pubDate>Wed, 11 Jun 2025 09:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
