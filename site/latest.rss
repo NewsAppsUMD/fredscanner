@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Jun 2025 16:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 17:01:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:50 pm</title>
+      <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS29, E291, C24B</description>
+      <guid isPermaLink="false">2025-06-13 12:50:00</guid>
+      <pubDate>Fri, 13 Jun 2025 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:49 pm</title>
+      <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS29, FS11</description>
+      <guid isPermaLink="false">2025-06-13 12:49:00</guid>
+      <pubDate>Fri, 13 Jun 2025 12:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
       <description>1500 BLOCK OPOSSUMTOWN PIKE, OPOSSUMTOWN PIKE VET - NORTH AMBER BUSINESS PARK Radio: 9B Units: A299, 9B, E291</description>
@@ -294,18 +306,6 @@
       <description>4900 BLOCK NEW DESIGN RD, MONOCACY SURGERY CENTER Radio: 9C Units: TT4, FS31, 9C, PE311</description>
       <guid isPermaLink="false">2025-06-11 07:00:00</guid>
       <pubDate>Wed, 11 Jun 2025 07:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:36 am</title>
-      <description>BUCKEYSTOWN PIKE / SPECTRUM DR Radio: 9B Units: A318, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-06-11 04:36:00</guid>
-      <pubDate>Wed, 11 Jun 2025 04:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 1:24 am</title>
-      <description>100 BLOCK E FREDERICK ST, MCDONALDS - WALKERSVILLE Radio: 9C Units: E111, FS11, 9C</description>
-      <guid isPermaLink="false">2025-06-11 01:24:00</guid>
-      <pubDate>Wed, 11 Jun 2025 01:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
