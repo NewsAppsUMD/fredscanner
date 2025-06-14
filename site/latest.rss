@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 12:02:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 12:43:25 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:41 am</title>
+      <description>300 BLOCK W COLLEGE TER Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-06-14 08:41:00</guid>
+      <pubDate>Sat, 14 Jun 2025 08:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:15 am</title>
       <description>41300 BLOCK EAGLE RIDGE LN Radio: 6B Units: E281</description>
@@ -300,12 +306,6 @@
       <description>6100 BLOCK BALDRIDGE TER Units: E331</description>
       <guid isPermaLink="false">2025-06-11 19:15:00</guid>
       <pubDate>Wed, 11 Jun 2025 19:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR OUTSIDE: 6:10 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, WEIS MARKET - AMBER MEADOWS Radio: 9C Units: FS29, 9C, E291</description>
-      <guid isPermaLink="false">2025-06-11 18:10:00</guid>
-      <pubDate>Wed, 11 Jun 2025 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
