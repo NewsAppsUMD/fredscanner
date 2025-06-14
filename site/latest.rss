@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 01:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 02:14:47 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:56 pm</title>
+      <description>1600 BLOCK PINDER ST, Apt/Unit:126 Units: PE23, TW1</description>
+      <guid isPermaLink="false">2025-06-13 21:56:00</guid>
+      <pubDate>Fri, 13 Jun 2025 21:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:22 pm</title>
       <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Radio: 9C Units: E141, T23, FS14, 9C</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK THRASHER CT Units: A259, EMS901, FS25, PE713, E251</description>
       <guid isPermaLink="false">2025-06-11 13:06:00</guid>
       <pubDate>Wed, 11 Jun 2025 13:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:39 pm</title>
-      <description>5400 BLOCK BUCKEYSTOWN PIKE, SHELL STATION - BUCKEYSTOWN PIKE Units: PE311, FS31, A319</description>
-      <guid isPermaLink="false">2025-06-11 12:39:00</guid>
-      <pubDate>Wed, 11 Jun 2025 12:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
