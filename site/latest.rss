@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 14:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 14:34:03 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:33 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE I - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, E11, PE23, T50, CMD29, BC902</description>
+      <guid isPermaLink="false">2025-06-14 10:33:00</guid>
+      <pubDate>Sat, 14 Jun 2025 10:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:12 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE I - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, PE23, E111, BC902</description>
+      <guid isPermaLink="false">2025-06-14 10:12:00</guid>
+      <pubDate>Sat, 14 Jun 2025 10:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:07 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE I - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29, E111</description>
+      <guid isPermaLink="false">2025-06-14 10:07:00</guid>
+      <pubDate>Sat, 14 Jun 2025 10:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:41 am</title>
       <description>300 BLOCK W COLLEGE TER Radio: 9C Units: PE23, 9C</description>
@@ -288,24 +306,6 @@
       <description>IJAMSVILLE CT / MUSSETTER RD Radio: 9B Units: A259, FS25, 9B, E251</description>
       <guid isPermaLink="false">2025-06-11 22:02:00</guid>
       <pubDate>Wed, 11 Jun 2025 22:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATERCRAFT IN DISTRESS: 8:34 pm</title>
-      <description>POTOMAC RIVER @ HEATERS ISLAND, POTOMAC RIVER @ HEATERS ISLAND Radio: 9C Units: E141, BT28, BT28B, A149, FS28, 9C</description>
-      <guid isPermaLink="false">2025-06-11 20:34:00</guid>
-      <pubDate>Wed, 11 Jun 2025 20:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATERCRAFT IN DISTRESS: 8:34 pm</title>
-      <description>POTOMAC RIVER @ HEATERS ISLAND, POTOMAC RIVER @ HEATERS ISLAND Radio: 9C Units: E141, BT28, BT28B, A149, FS28, 9C</description>
-      <guid isPermaLink="false">2025-06-11 20:34:00</guid>
-      <pubDate>Wed, 11 Jun 2025 20:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:15 pm</title>
-      <description>6100 BLOCK BALDRIDGE TER Units: E331</description>
-      <guid isPermaLink="false">2025-06-11 19:15:00</guid>
-      <pubDate>Wed, 11 Jun 2025 19:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
