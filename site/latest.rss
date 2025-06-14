@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 15:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 15:33:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:28 am</title>
+      <description>13600 BLOCKA MOSER RD Radio: 9B Units: A307, PE102, 9B</description>
+      <guid isPermaLink="false">2025-06-14 11:28:00</guid>
+      <pubDate>Sat, 14 Jun 2025 11:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:10 am</title>
+      <description>RAY SMITH RD / QUINN ORCHARD RD Radio: 9C Units: 9C, E331, FS33</description>
+      <guid isPermaLink="false">2025-06-14 11:10:00</guid>
+      <pubDate>Sat, 14 Jun 2025 11:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:59 am</title>
       <description>JEFFERSON BLVD / TEEN BARNES RD, IAO Radio: 9C Units: BR205, FS20, 9C</description>
@@ -294,18 +306,6 @@
       <description>ENGLISH MUFFIN WAY / NEW DESIGN RD Radio: 9B Units: A318, FS31, PE311, 9B</description>
       <guid isPermaLink="false">2025-06-12 03:12:00</guid>
       <pubDate>Thu, 12 Jun 2025 03:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:20 am</title>
-      <description>SUNNY CLOSE / SUNNY WAY Radio: 9C Units: PE102, 9C</description>
-      <guid isPermaLink="false">2025-06-12 00:20:00</guid>
-      <pubDate>Thu, 12 Jun 2025 00:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:06 pm</title>
-      <description>S EAST ST / ROUNDABOUT, S EAST ST / ROUNDABOUT Radio: 9B Units: 9B, E33, A38</description>
-      <guid isPermaLink="false">2025-06-11 22:06:00</guid>
-      <pubDate>Wed, 11 Jun 2025 22:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
