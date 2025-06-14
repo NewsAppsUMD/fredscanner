@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 18:38:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 19:01:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:49 pm</title>
+      <description>1000 BLOCK W PATRICK ST, SEVEN ELEVEN - FREDERICK COUNTY SQUARE Radio: 9B Units: A18, E11, 9B</description>
+      <guid isPermaLink="false">2025-06-14 14:49:00</guid>
+      <pubDate>Sat, 14 Jun 2025 14:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 2:04 pm</title>
       <description>RT77 / RAILROAD OVERPASS (13), RT77 / RAILROAD OVERPASS Radio: 9D Units: E132, ALS30, BC902, R10, A307, EMS902, FS13, 9D</description>
@@ -300,12 +306,6 @@
       <description>9700 BLOCK BRAIDWOOD TER Units: FS23, E231</description>
       <guid isPermaLink="false">2025-06-12 07:30:00</guid>
       <pubDate>Thu, 12 Jun 2025 07:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 5:32 am</title>
-      <description>ENGLISH MUFFIN WAY / NEW DESIGN RD Radio: 9C Units: PE311, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-12 05:32:00</guid>
-      <pubDate>Thu, 12 Jun 2025 05:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
