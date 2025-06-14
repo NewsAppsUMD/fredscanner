@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Jun 2025 08:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 08:36:05 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:13 am</title>
+      <description>300 BLOCK COPPER OAKS DR Radio: 9C Units: E162, FS16, 9C</description>
+      <guid isPermaLink="false">2025-06-14 04:13:00</guid>
+      <pubDate>Sat, 14 Jun 2025 04:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:12 am</title>
       <description>100 BLOCKA COUNCIL ST Radio: 9C Units: TT4, 9C, E33</description>
@@ -300,12 +306,6 @@
       <description>13900 BLOCK JIMTOWN RD Units: BR106</description>
       <guid isPermaLink="false">2025-06-11 16:45:00</guid>
       <pubDate>Wed, 11 Jun 2025 16:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:29 pm</title>
-      <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-06-11 16:29:00</guid>
-      <pubDate>Wed, 11 Jun 2025 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
