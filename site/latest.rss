@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 11:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 12:03:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: 9D, PE735, R3, A239, SAF901, A259, E231, RE709, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-06-16 07:58:00</guid>
+      <pubDate>Mon, 16 Jun 2025 07:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:56 am</title>
+      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9D Units: FS23, 9D, R3, A239, E231, RE709, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-06-16 07:56:00</guid>
+      <pubDate>Mon, 16 Jun 2025 07:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 2:44 am</title>
       <description>20700 BLOCK MARTINSBURG RD DICKERSON CONSERVATION PARK PP, DICKERSON CONSERVATION PARK PP Radio: 7A1 Units: E141, BR285, E281</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, T50, FS29, 9C</description>
       <guid isPermaLink="false">2025-06-13 09:04:00</guid>
       <pubDate>Fri, 13 Jun 2025 09:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:25 am</title>
-      <description>OLD MIDDLETOWN RD / COOL CREST DR Radio: 9D Units: FS20, 9D, E201, R20, BC903, EMS901, A209, ALS20</description>
-      <guid isPermaLink="false">2025-06-13 04:25:00</guid>
-      <pubDate>Fri, 13 Jun 2025 04:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 1:24 am</title>
-      <description>2200 BLOCK WETHERBURNE WAY Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-06-13 01:24:00</guid>
-      <pubDate>Fri, 13 Jun 2025 01:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
