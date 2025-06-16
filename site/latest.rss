@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 12:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 12:43:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:13 am</title>
+      <description>LIBERTY RD / KELLY RD Radio: 9I Units: E111, A249, R24, ALS17, C11B, RE171, BC902, EMS902, 9I</description>
+      <guid isPermaLink="false">2025-06-16 08:13:00</guid>
+      <pubDate>Mon, 16 Jun 2025 08:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:13 am</title>
+      <description>LIBERTY RD / KELLY RD Radio: 9I Units: E111, A249, R24, ALS17, C11B, RE171, BC902, EMS902, 9I</description>
+      <guid isPermaLink="false">2025-06-16 08:13:00</guid>
+      <pubDate>Mon, 16 Jun 2025 08:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:11 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: 9D, HM33, PE735, CMD23, A239, A259, RE709, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-06-16 08:11:00</guid>
+      <pubDate>Mon, 16 Jun 2025 08:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:08 am</title>
+      <description>LIBERTY RD / KELLY RD Radio: 9I Units: E111, A249, R24, ALS17, FS11, BC902, EMS902, 9I</description>
+      <guid isPermaLink="false">2025-06-16 08:08:00</guid>
+      <pubDate>Mon, 16 Jun 2025 08:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 am</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: 9D, PE735, R3, A239, SAF901, A259, E231, RE709, ALS23, BC901, EMS901</description>
@@ -282,30 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR, Apt/Unit:123, WOODSPRING SUITES - BALLENGER CREEK CENTER Units: E311, FS31, TT4</description>
       <guid isPermaLink="false">2025-06-13 14:22:00</guid>
       <pubDate>Fri, 13 Jun 2025 14:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:50 pm</title>
-      <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS29, E291, C24B</description>
-      <guid isPermaLink="false">2025-06-13 12:50:00</guid>
-      <pubDate>Fri, 13 Jun 2025 12:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:49 pm</title>
-      <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9D Units: EMS902, 9D, E111, R24, A249, ALS29, FS11</description>
-      <guid isPermaLink="false">2025-06-13 12:49:00</guid>
-      <pubDate>Fri, 13 Jun 2025 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
-      <description>1500 BLOCK OPOSSUMTOWN PIKE, OPOSSUMTOWN PIKE VET - NORTH AMBER BUSINESS PARK Radio: 9B Units: A299, 9B, E291</description>
-      <guid isPermaLink="false">2025-06-13 11:08:00</guid>
-      <pubDate>Fri, 13 Jun 2025 11:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:04 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, T50, FS29, 9C</description>
-      <guid isPermaLink="false">2025-06-13 09:04:00</guid>
-      <pubDate>Fri, 13 Jun 2025 09:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
