@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 22:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 23:02:05 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:36 pm</title>
+      <description>900 BLOCK N EAST ST, AR WORKSHOP - MONOCACY VILLAGE SHOPPING CENTER Radio: 9C Units: 9C, PE23</description>
+      <guid isPermaLink="false">2025-06-16 18:36:00</guid>
+      <pubDate>Mon, 16 Jun 2025 18:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 2:14 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9B Units: PE23, 9B</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK WILD PLUM DR Radio: 9C Units: FS31, 9C, PE311</description>
       <guid isPermaLink="false">2025-06-13 22:40:00</guid>
       <pubDate>Fri, 13 Jun 2025 22:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:56 pm</title>
-      <description>1600 BLOCK PINDER ST, Apt/Unit:126 Units: PE23, TW1</description>
-      <guid isPermaLink="false">2025-06-13 21:56:00</guid>
-      <pubDate>Fri, 13 Jun 2025 21:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
