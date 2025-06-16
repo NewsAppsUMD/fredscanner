@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 06:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 06:41:38 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 2:28 am</title>
+      <description>100 BLOCK W ALL SAINTS ST Radio: 9C Units: E33, PE23, 9C, R3</description>
+      <guid isPermaLink="false">2025-06-16 02:28:00</guid>
+      <pubDate>Mon, 16 Jun 2025 02:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:14 am</title>
+      <description>20700 BLOCK MARTINSBURG RD DICKERSON CONSERVATION PARK PP, DICKERSON CONSERVATION PARK PP Radio: 7A1 Units: E141</description>
+      <guid isPermaLink="false">2025-06-16 02:14:00</guid>
+      <pubDate>Mon, 16 Jun 2025 02:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:10 am</title>
+      <description>20700 BLOCK MARTINSBURG RD DICKERSON CONSERVATION PARK PP Radio: 7A3 Units: E141</description>
+      <guid isPermaLink="false">2025-06-16 02:10:00</guid>
+      <pubDate>Mon, 16 Jun 2025 02:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:56 pm</title>
       <description>12500 BLOCK STOTTLEMYER RD Units: WCE71, PE102, WCE61, E72, R10, WCT6, TW7, K21, WCEK7, K10, A89, ALS8, BC903, E212, E82, BC901, FS21</description>
@@ -288,24 +306,6 @@
       <description>I70EB / RT340-15, I70EB / RT340-15 Radio: 9D Units: E121, E33, R3, A129, A38, ALS31, BC903, EMS901, FS12, 9D</description>
       <guid isPermaLink="false">2025-06-13 00:22:00</guid>
       <pubDate>Fri, 13 Jun 2025 00:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:40 pm</title>
-      <description>3500 BLOCK JOHN SIMMONS ST, URBANA LIQUORS - URBANA TOWN CENTER Units: E231, T23, FS23</description>
-      <guid isPermaLink="false">2025-06-12 22:40:00</guid>
-      <pubDate>Thu, 12 Jun 2025 22:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:53 pm</title>
-      <description>1400 BLOCK RIVERWALK PL, Apt/Unit:242, FAIRWAY VISTA APTS - 1400 BLOCK RIVERWALK PL Units: E33, E291, E11, E501, R3, Q11, TT4, A29, BC902, PE23, ALS4, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-06-12 21:53:00</guid>
-      <pubDate>Thu, 12 Jun 2025 21:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:50 pm</title>
-      <description>1200 BLOCK RIVERWALK PL, FAIRWAY VISTA CLUBHOUSE &amp; POOL Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-06-12 21:50:00</guid>
-      <pubDate>Thu, 12 Jun 2025 21:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
