@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Jun 2025 00:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 00:46:37 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:13 pm</title>
+      <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2025-06-15 20:13:00</guid>
+      <pubDate>Sun, 15 Jun 2025 20:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:11 pm</title>
+      <description>2000 BLOCK YELLOW SPRINGS RD Radio: 9B Units: A29, E11, 9B</description>
+      <guid isPermaLink="false">2025-06-15 20:11:00</guid>
+      <pubDate>Sun, 15 Jun 2025 20:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:01 pm</title>
       <description>2000 BLOCK YELLOW SPRINGS RD Radio: 9B Units: A29, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Units: A299, E291, FS29</description>
       <guid isPermaLink="false">2025-06-12 19:53:00</guid>
       <pubDate>Thu, 12 Jun 2025 19:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:36 pm</title>
-      <description>300 BLOCK W B ST Units: R19, RE52, A198</description>
-      <guid isPermaLink="false">2025-06-12 19:36:00</guid>
-      <pubDate>Thu, 12 Jun 2025 19:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:08 pm</title>
-      <description>URBANA PIKE / GALENA DR Units: E231, FS23, A239</description>
-      <guid isPermaLink="false">2025-06-12 18:08:00</guid>
-      <pubDate>Thu, 12 Jun 2025 18:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
