@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 17:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:02:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:51 pm</title>
+      <description>100 BLOCK W SEVENTH ST, Apt/Unit:201 Radio: 9C Units: TT4, 9C, E33</description>
+      <guid isPermaLink="false">2025-06-17 13:51:00</guid>
+      <pubDate>Tue, 17 Jun 2025 13:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
+      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: 9C, E111, T50, FS11</description>
+      <guid isPermaLink="false">2025-06-17 13:38:00</guid>
+      <pubDate>Tue, 17 Jun 2025 13:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, T23, FS31, 9C</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, SEVEN ELEVEN - FREDERICK COUNTY SQUARE Radio: 9B Units: A18, E11, 9B</description>
       <guid isPermaLink="false">2025-06-14 14:49:00</guid>
       <pubDate>Sat, 14 Jun 2025 14:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:04 pm</title>
-      <description>RT77 / RAILROAD OVERPASS (13), RT77 / RAILROAD OVERPASS Radio: 9D Units: E132, ALS30, BC902, R10, A307, EMS902, FS13, 9D</description>
-      <guid isPermaLink="false">2025-06-14 14:04:00</guid>
-      <pubDate>Sat, 14 Jun 2025 14:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:34 pm</title>
-      <description>CRESTWOOD BLVD / HOBBLE BUSH CT Radio: 9B Units: A318, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-06-14 13:34:00</guid>
-      <pubDate>Sat, 14 Jun 2025 13:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
