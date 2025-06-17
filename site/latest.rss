@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 17:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 17:35:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, T23, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-17 13:28:00</guid>
+      <pubDate>Tue, 17 Jun 2025 13:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:24 pm</title>
+      <description>400 BLOCK TILLER ST Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-17 13:24:00</guid>
+      <pubDate>Tue, 17 Jun 2025 13:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:58 pm</title>
       <description>5200 BLOCK BUCKEYSTOWN PIKE, IHOP RESTAURANT - WESTVIEW PROMENADE Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -294,18 +306,6 @@
       <description>CRESTWOOD BLVD / HOBBLE BUSH CT Radio: 9B Units: A318, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2025-06-14 13:34:00</guid>
       <pubDate>Sat, 14 Jun 2025 13:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:02 pm</title>
-      <description>100 BLOCK S MARKET ST, Bldg:A, CARRIAGE HOUSE APTS Radio: 9C Units: TT4, 9C, E33</description>
-      <guid isPermaLink="false">2025-06-14 12:02:00</guid>
-      <pubDate>Sat, 14 Jun 2025 12:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:28 am</title>
-      <description>13600 BLOCKA MOSER RD Radio: 9B Units: A307, PE102, 9B</description>
-      <guid isPermaLink="false">2025-06-14 11:28:00</guid>
-      <pubDate>Sat, 14 Jun 2025 11:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
