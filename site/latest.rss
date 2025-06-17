@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 18:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:40:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:25 pm</title>
+      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-17 14:25:00</guid>
+      <pubDate>Tue, 17 Jun 2025 14:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:51 pm</title>
       <description>100 BLOCK W SEVENTH ST, Apt/Unit:201 Radio: 9C Units: TT4, 9C, E33</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / CRESTWOOD BLVD Radio: 9B Units: A38, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2025-06-14 16:09:00</guid>
       <pubDate>Sat, 14 Jun 2025 16:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:49 pm</title>
-      <description>1000 BLOCK W PATRICK ST, SEVEN ELEVEN - FREDERICK COUNTY SQUARE Radio: 9B Units: A18, E11, 9B</description>
-      <guid isPermaLink="false">2025-06-14 14:49:00</guid>
-      <pubDate>Sat, 14 Jun 2025 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
