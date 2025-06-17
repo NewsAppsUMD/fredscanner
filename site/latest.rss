@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Jun 2025 11:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 12:03:22 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:39 am</title>
+      <description>1400 BLOCK DAVID LN Units: E121, R3, TT4, T50, A18, ALS4, BC902, E11, E33, PE23, E501, BC903</description>
+      <guid isPermaLink="false">2025-06-17 07:39:00</guid>
+      <pubDate>Tue, 17 Jun 2025 07:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:24 am</title>
       <description>5600 BLOCK SINGLETREE DR Units: PE311, FS31</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK WATERSIDE DR, PARK PLACE I - WORMANS MILL Radio: 9C Units: 9C, E291, Q11, FS29, E111</description>
       <guid isPermaLink="false">2025-06-14 10:07:00</guid>
       <pubDate>Sat, 14 Jun 2025 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:41 am</title>
-      <description>300 BLOCK W COLLEGE TER Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-06-14 08:41:00</guid>
-      <pubDate>Sat, 14 Jun 2025 08:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
