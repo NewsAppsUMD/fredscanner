@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 08:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 08:38:39 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:14 am</title>
+      <description>100 BLOCK E EIGHTH ST, Apt/Unit:119, EIGHTH ST CT APARTMENTS Radio: 9C Units: PE23, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-18 04:14:00</guid>
+      <pubDate>Wed, 18 Jun 2025 04:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:54 am</title>
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: E291, T50, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>20700 BLOCK MARTINSBURG RD DICKERSON CONSERVATION PARK PP Radio: 7A3 Units: E141</description>
       <guid isPermaLink="false">2025-06-16 02:10:00</guid>
       <pubDate>Mon, 16 Jun 2025 02:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:56 pm</title>
-      <description>12500 BLOCK STOTTLEMYER RD Units: WCE71, PE102, WCE61, E72, R10, WCT6, TW7, K21, WCEK7, K10, A89, ALS8, BC903, E212, E82, BC901, FS21</description>
-      <guid isPermaLink="false">2025-06-15 21:56:00</guid>
-      <pubDate>Sun, 15 Jun 2025 21:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
