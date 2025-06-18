@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 23:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 23:33:19 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:29 pm</title>
+      <description>5700 BLOCK MORLAND DR N Units: FS14, E141</description>
+      <guid isPermaLink="false">2025-06-18 19:29:00</guid>
+      <pubDate>Wed, 18 Jun 2025 19:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:00 pm</title>
+      <description>800 BLOCK CENTRAL AVE Units: E51, FS05</description>
+      <guid isPermaLink="false">2025-06-18 19:00:00</guid>
+      <pubDate>Wed, 18 Jun 2025 19:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:00 pm</title>
       <description>5200 BLOCK BUCKEYSTOWN PIKE, OLIVE &amp; BASKET - WESTVIEW PROMENADE Units: FS31, E231, T23</description>
@@ -294,18 +306,6 @@
       <description>I70WB / RT40A(BRADDOCK), I70WB / RT144 Radio: 9B Units: E82, E121, R3, A129, A89, FS12, 9B</description>
       <guid isPermaLink="false">2025-06-17 10:31:00</guid>
       <pubDate>Tue, 17 Jun 2025 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
-      <description>14800 BLOCK MANAHAN RD, CAMP ROUND MEADOW - CATOCTIN MOUNTAIN PARK Radio: 9C Units: PE102, TW6, FS21, 9C, E212</description>
-      <guid isPermaLink="false">2025-06-17 09:58:00</guid>
-      <pubDate>Tue, 17 Jun 2025 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:39 am</title>
-      <description>1400 BLOCK DAVID LN Units: E121, R3, TT4, T50, A18, ALS4, BC902, E11, E33, PE23, E501, BC903</description>
-      <guid isPermaLink="false">2025-06-17 07:39:00</guid>
-      <pubDate>Tue, 17 Jun 2025 07:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
