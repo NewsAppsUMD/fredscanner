@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Jun 2025 07:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 07:34:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:17 am</title>
+      <description>20000 BLOCK S270 X22 TO X18 HWY BEFORE THE WEIGH STATION, BEFORE THE WEIGH STATION Radio: 7A1 Units: A239, E231</description>
+      <guid isPermaLink="false">2025-06-18 03:17:00</guid>
+      <pubDate>Wed, 18 Jun 2025 03:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHTNING STRIKE - STRUCTURE: 2:01 am</title>
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: PE23, FS29, E291, Q11, 9C</description>
@@ -300,12 +306,6 @@
       <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231, FS23, 9C</description>
       <guid isPermaLink="false">2025-06-15 20:13:00</guid>
       <pubDate>Sun, 15 Jun 2025 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:11 pm</title>
-      <description>2000 BLOCK YELLOW SPRINGS RD Radio: 9B Units: A29, E11, 9B</description>
-      <guid isPermaLink="false">2025-06-15 20:11:00</guid>
-      <pubDate>Sun, 15 Jun 2025 20:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
