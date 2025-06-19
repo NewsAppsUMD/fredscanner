@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 06:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 06:40:33 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:17 am</title>
+      <description>16800 BLOCK S SETON AVE, Bldg:C, NATIONAL EMERGENCY TRAINING CENTER Radio: 9C Units: E61, CCLDR5, FS06, 9C</description>
+      <guid isPermaLink="false">2025-06-19 02:17:00</guid>
+      <pubDate>Thu, 19 Jun 2025 02:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:06 am</title>
+      <description>4300 BLOCK IJAMSVILLE RD Radio: 9D Units: R14, FS25, K33, SAF901, 9D, E251, T23, R3, K23, BC903, E231, E331, E152, PRE709, E33, R15, K709, A259, ALS23, BC901</description>
+      <guid isPermaLink="false">2025-06-19 02:06:00</guid>
+      <pubDate>Thu, 19 Jun 2025 02:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:06 am</title>
+      <description>4300 BLOCK IJAMSVILLE RD Radio: 9D Units: K33, SAF901, 9D, E251, T23, R3, K23, BC903, E231, E331, E152, PRE709, E33, R15, K709, A259, ALS23, BC901</description>
+      <guid isPermaLink="false">2025-06-19 02:06:00</guid>
+      <pubDate>Thu, 19 Jun 2025 02:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:01 am</title>
+      <description>4300 BLOCK IJAMSVILLE RD Radio: 9D Units: K33, SAF901, FS25, 9D, E251, T23, R3, K23, BC903, E231, E331, E152, PRE709, E33, R15, K709, A259, ALS23, BC901</description>
+      <guid isPermaLink="false">2025-06-19 02:01:00</guid>
+      <pubDate>Thu, 19 Jun 2025 02:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>WATER RESCUE: 12:03 am</title>
       <description>200 BLOCK E PATRICK ST Radio: 9D Units: R3, T50, TR29, BT29, BT15, A38, A39, ALS31, BC901, E33, PE311, SAF901, EMS901, 9D</description>
@@ -282,30 +306,6 @@
       <description>MYERSVILLE RD / BIDLE HILL CT, I70EB / 43MM Radio: 9C Units: E82, 9C</description>
       <guid isPermaLink="false">2025-06-17 17:17:00</guid>
       <pubDate>Tue, 17 Jun 2025 17:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:56 pm</title>
-      <description>5800 BLOCK URBANA PIKE, MARIACHI RESTAURANT Radio: 9B Units: R3, A38, 9B</description>
-      <guid isPermaLink="false">2025-06-17 15:56:00</guid>
-      <pubDate>Tue, 17 Jun 2025 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:25 pm</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311, TT4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-17 14:25:00</guid>
-      <pubDate>Tue, 17 Jun 2025 14:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:51 pm</title>
-      <description>100 BLOCK W SEVENTH ST, Apt/Unit:201 Radio: 9C Units: TT4, 9C, E33</description>
-      <guid isPermaLink="false">2025-06-17 13:51:00</guid>
-      <pubDate>Tue, 17 Jun 2025 13:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
-      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: 9C, E111, T50, FS11</description>
-      <guid isPermaLink="false">2025-06-17 13:38:00</guid>
-      <pubDate>Tue, 17 Jun 2025 13:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
