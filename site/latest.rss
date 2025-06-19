@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 17:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 18:02:22 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:50 pm</title>
+      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Units: E152</description>
+      <guid isPermaLink="false">2025-06-19 13:50:00</guid>
+      <pubDate>Thu, 19 Jun 2025 13:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 1:26 pm</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
@@ -300,12 +306,6 @@
       <description>1100 BLOCK E PATRICK ST, CARROLL MOTOR FUELS Radio: 9B Units: A38, R3, 9B</description>
       <guid isPermaLink="false">2025-06-18 06:39:00</guid>
       <pubDate>Wed, 18 Jun 2025 06:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:14 am</title>
-      <description>100 BLOCK E EIGHTH ST, Apt/Unit:119, EIGHTH ST CT APARTMENTS Radio: 9C Units: PE23, TT4, 9C</description>
-      <guid isPermaLink="false">2025-06-18 04:14:00</guid>
-      <pubDate>Wed, 18 Jun 2025 04:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
