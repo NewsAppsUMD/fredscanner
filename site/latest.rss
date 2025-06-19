@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 17:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 17:35:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 1:26 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2025-06-19 13:26:00</guid>
+      <pubDate>Thu, 19 Jun 2025 13:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:12 pm</title>
+      <description>3600 BLOCK MOONGLOW CT Units: E231, FS23</description>
+      <guid isPermaLink="false">2025-06-19 13:12:00</guid>
+      <pubDate>Thu, 19 Jun 2025 13:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:49 am</title>
       <description>4400 BLOCK CROUSE DR Units: BR205, FS20</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E EIGHTH ST, Apt/Unit:119, EIGHTH ST CT APARTMENTS Radio: 9C Units: PE23, TT4, 9C</description>
       <guid isPermaLink="false">2025-06-18 04:14:00</guid>
       <pubDate>Wed, 18 Jun 2025 04:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:54 am</title>
-      <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: E291, T50, FS29, 9C</description>
-      <guid isPermaLink="false">2025-06-18 03:54:00</guid>
-      <pubDate>Wed, 18 Jun 2025 03:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:17 am</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY BEFORE THE WEIGH STATION, BEFORE THE WEIGH STATION Radio: 7A1 Units: A239, E231</description>
-      <guid isPermaLink="false">2025-06-18 03:17:00</guid>
-      <pubDate>Wed, 18 Jun 2025 03:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
