@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 00:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 01:29:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:20 pm</title>
+      <description>3000 BLOCK GREEN VALLEY RD, IFO Units: A259, FS25, E251, PRE709, R15, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-06-18 21:20:00</guid>
+      <pubDate>Wed, 18 Jun 2025 21:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:19 pm</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Units: E72, TW7</description>
+      <guid isPermaLink="false">2025-06-18 21:19:00</guid>
+      <pubDate>Wed, 18 Jun 2025 21:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:18 pm</title>
+      <description>3000 BLOCK GREEN VALLEY RD, IFO Units: A259, E251, FS25</description>
+      <guid isPermaLink="false">2025-06-18 21:18:00</guid>
+      <pubDate>Wed, 18 Jun 2025 21:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:16 pm</title>
       <description>9100 BLOCK LIBERTY KNOLLS CT Units: E172, FS17</description>
@@ -288,24 +306,6 @@
       <description>400 BLOCK TILLER ST Radio: 9C Units: E33, TT4, 9C</description>
       <guid isPermaLink="false">2025-06-17 13:24:00</guid>
       <pubDate>Tue, 17 Jun 2025 13:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:58 pm</title>
-      <description>5200 BLOCK BUCKEYSTOWN PIKE, IHOP RESTAURANT - WESTVIEW PROMENADE Radio: 9B Units: A318, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-06-17 12:58:00</guid>
-      <pubDate>Tue, 17 Jun 2025 12:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:52 am</title>
-      <description>6300 BLOCK SPRING RIDGE PKWY, SPRING RIDGE SENIOR APTS Radio: 9C Units: TT4, FS33, 9C, E331</description>
-      <guid isPermaLink="false">2025-06-17 11:52:00</guid>
-      <pubDate>Tue, 17 Jun 2025 11:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:23 am</title>
-      <description>2100 BLOCKA WHITTIER DR Radio: 9C Units: 9C, E11, T50</description>
-      <guid isPermaLink="false">2025-06-17 11:23:00</guid>
-      <pubDate>Tue, 17 Jun 2025 11:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
