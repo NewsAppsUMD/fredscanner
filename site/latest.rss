@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 20:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 20:35:36 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:30 pm</title>
+      <description>300 BLOCK SECOND AVE Units: BR55, FS05</description>
+      <guid isPermaLink="false">2025-06-19 16:30:00</guid>
+      <pubDate>Thu, 19 Jun 2025 16:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:16 pm</title>
+      <description>1500 BLOCK TILCO DR Radio: 9C Units: TT4, E33, 9C</description>
+      <guid isPermaLink="false">2025-06-19 16:16:00</guid>
+      <pubDate>Thu, 19 Jun 2025 16:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:51 pm</title>
       <description>8800 BLOCK BALL RD, AT PUMPSTATION TO WEST OF THIS ADDRESS Units: E231, FS23</description>
@@ -294,18 +306,6 @@
       <description>N EAST ST / E CHURCH ST Radio: 9B Units: A39, R3, 9B</description>
       <guid isPermaLink="false">2025-06-18 16:26:00</guid>
       <pubDate>Wed, 18 Jun 2025 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:21 pm</title>
-      <description>40900 BLOCK TAYLORSTOWN MEADOWS PL Radio: 6DTAC11 Units: T5, E281</description>
-      <guid isPermaLink="false">2025-06-18 15:21:00</guid>
-      <pubDate>Wed, 18 Jun 2025 15:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 3:11 pm</title>
-      <description>6900 BLOCK BOWERS RD Radio: 9C Units: E121, FS12, 9C</description>
-      <guid isPermaLink="false">2025-06-18 15:11:00</guid>
-      <pubDate>Wed, 18 Jun 2025 15:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
