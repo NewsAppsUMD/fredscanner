@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Jun 2025 19:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 20:02:24 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:51 pm</title>
+      <description>8800 BLOCK BALL RD, AT PUMPSTATION TO WEST OF THIS ADDRESS Units: E231, FS23</description>
+      <guid isPermaLink="false">2025-06-19 15:51:00</guid>
+      <pubDate>Thu, 19 Jun 2025 15:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:47 pm</title>
+      <description>2200 BLOCK QUEBEC SCHOOL RD Units: E72</description>
+      <guid isPermaLink="false">2025-06-19 15:47:00</guid>
+      <pubDate>Thu, 19 Jun 2025 15:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:44 pm</title>
+      <description>200 BLOCK MAPLE AVE Units: PE23</description>
+      <guid isPermaLink="false">2025-06-19 15:44:00</guid>
+      <pubDate>Thu, 19 Jun 2025 15:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:40 pm</title>
+      <description>500 BLOCK GOLDSPIRE CIR Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-06-19 15:40:00</guid>
+      <pubDate>Thu, 19 Jun 2025 15:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:20 pm</title>
       <description>5300 BLOCK NEW DESIGN RD, GIANT GAS STATION - KINGSBROOK PLAZA Units: E501, E231, R3, T50, T23, PE23, E141, A318, ALS31, BC901, BC902, SAF901, E33, FS31</description>
@@ -282,30 +306,6 @@
       <description>6900 BLOCK BOWERS RD Radio: 9C Units: E121, FS12, 9C</description>
       <guid isPermaLink="false">2025-06-18 15:11:00</guid>
       <pubDate>Wed, 18 Jun 2025 15:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:42 pm</title>
-      <description>6700 BLOCK S CLIFTON RD, IFO Radio: 9C Units: FS12, 9C, BR125</description>
-      <guid isPermaLink="false">2025-06-18 13:42:00</guid>
-      <pubDate>Wed, 18 Jun 2025 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:24 pm</title>
-      <description>5700 BLOCK BUCKEYSTOWN PIKE, ONE LIFE FITNESS Radio: 9C Units: TT4, 9C, E33</description>
-      <guid isPermaLink="false">2025-06-18 13:24:00</guid>
-      <pubDate>Wed, 18 Jun 2025 13:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:23 pm</title>
-      <description>2100 BLOCK WAINWRIGHT CT, Apt/Unit:2D, OLD FARM CONDOS - 2100 BLOCK WAINWRIGHT CT Radio: 9C Units: E11, T50, 9C</description>
-      <guid isPermaLink="false">2025-06-18 13:23:00</guid>
-      <pubDate>Wed, 18 Jun 2025 13:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:19 pm</title>
-      <description>40200 BLOCK QUAILRUN CT Radio: 6DTAC11 Units: T5, E281</description>
-      <guid isPermaLink="false">2025-06-18 13:19:00</guid>
-      <pubDate>Wed, 18 Jun 2025 13:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
