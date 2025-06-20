@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Jun 2025 03:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 03:44:48 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:13 pm</title>
+      <description>5900 BLOCK BOYERS MILL RD Units: BR156, FS15</description>
+      <guid isPermaLink="false">2025-06-19 23:13:00</guid>
+      <pubDate>Thu, 19 Jun 2025 23:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:04 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Units: FS14, E141</description>
+      <guid isPermaLink="false">2025-06-19 23:04:00</guid>
+      <pubDate>Thu, 19 Jun 2025 23:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:45 pm</title>
       <description>1200 BLOCK W PATRICK ST, GIANT EAGLE - FREDERICK SHOPPERS WORLD Units: E11, TT4</description>
@@ -294,18 +306,6 @@
       <description>4300 BLOCK IJAMSVILLE RD Radio: 9D Units: K33, SAF901, FS25, 9D, E251, T23, R3, K23, BC903, E231, E331, E152, PRE709, E33, R15, K709, A259, ALS23, BC901</description>
       <guid isPermaLink="false">2025-06-19 02:01:00</guid>
       <pubDate>Thu, 19 Jun 2025 02:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 12:03 am</title>
-      <description>200 BLOCK E PATRICK ST Radio: 9D Units: R3, T50, TR29, BT29, BT15, A38, A39, ALS31, BC901, E33, PE311, SAF901, EMS901, 9D</description>
-      <guid isPermaLink="false">2025-06-19 00:03:00</guid>
-      <pubDate>Thu, 19 Jun 2025 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:40 pm</title>
-      <description>100 BLOCK N COURT ST Units: PE23, E11, TT4</description>
-      <guid isPermaLink="false">2025-06-18 23:40:00</guid>
-      <pubDate>Wed, 18 Jun 2025 23:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
