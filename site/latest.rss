@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Jun 2025 01:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 02:17:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:13 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Units: T23, FS14, E141</description>
+      <guid isPermaLink="false">2025-06-19 22:13:00</guid>
+      <pubDate>Thu, 19 Jun 2025 22:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:21 pm</title>
       <description>12400 BLOCK LIME PLANT RD Radio: 9C Units: BR156, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>3000 BLOCK GREEN VALLEY RD, IFO Units: A259, FS25, E251, PRE709, R15, ALS23, BC901, EMS901</description>
       <guid isPermaLink="false">2025-06-18 21:20:00</guid>
       <pubDate>Wed, 18 Jun 2025 21:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:19 pm</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Units: E72, TW7</description>
-      <guid isPermaLink="false">2025-06-18 21:19:00</guid>
-      <pubDate>Wed, 18 Jun 2025 21:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
