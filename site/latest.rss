@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jun 2025 14:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 14:34:54 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:23 am</title>
+      <description>4200 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: R14, FS14, 9C</description>
+      <guid isPermaLink="false">2025-06-21 10:23:00</guid>
+      <pubDate>Sat, 21 Jun 2025 10:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 8:44 am</title>
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9D Units: E102, EMS902, 9D, A229, ALS30, BC902, E221, R10</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR, ULTA COSMETICS - FREDERICK CROSSING Units: PE311, TT4, FS31</description>
       <guid isPermaLink="false">2025-06-19 15:13:00</guid>
       <pubDate>Thu, 19 Jun 2025 15:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 3:12 pm</title>
-      <description>9700 BLOCK HALL RD Units: FS33, BR156</description>
-      <guid isPermaLink="false">2025-06-19 15:12:00</guid>
-      <pubDate>Thu, 19 Jun 2025 15:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
