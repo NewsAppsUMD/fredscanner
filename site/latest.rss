@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Jun 2025 14:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 15:01:58 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 10:47 am</title>
+      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: BC903, U14, BC602, E141, CMD14, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, BTSU28, C14, BR285</description>
+      <guid isPermaLink="false">2025-06-21 10:47:00</guid>
+      <pubDate>Sat, 21 Jun 2025 10:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 10:46 am</title>
+      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: U14, E141, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, C14</description>
+      <guid isPermaLink="false">2025-06-21 10:46:00</guid>
+      <pubDate>Sat, 21 Jun 2025 10:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:45 am</title>
+      <description>200 BLOCK ENSEMBLE WAY Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-06-21 10:45:00</guid>
+      <pubDate>Sat, 21 Jun 2025 10:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 10:42 am</title>
+      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: E141, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, FS14</description>
+      <guid isPermaLink="false">2025-06-21 10:42:00</guid>
+      <pubDate>Sat, 21 Jun 2025 10:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:23 am</title>
       <description>4200 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: R14, FS14, 9C</description>
@@ -282,30 +306,6 @@
       <description>500 BLOCK GOLDSPIRE CIR Units: E33, TT4</description>
       <guid isPermaLink="false">2025-06-19 15:40:00</guid>
       <pubDate>Thu, 19 Jun 2025 15:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:20 pm</title>
-      <description>5300 BLOCK NEW DESIGN RD, GIANT GAS STATION - KINGSBROOK PLAZA Units: E501, E231, R3, T50, T23, PE23, E141, A318, ALS31, BC901, BC902, SAF901, E33, FS31</description>
-      <guid isPermaLink="false">2025-06-19 15:20:00</guid>
-      <pubDate>Thu, 19 Jun 2025 15:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:18 pm</title>
-      <description>5300 BLOCK NEW DESIGN RD, GIANT GAS STATION - KINGSBROOK PLAZA Units: E33, T50, FS31</description>
-      <guid isPermaLink="false">2025-06-19 15:18:00</guid>
-      <pubDate>Thu, 19 Jun 2025 15:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:14 pm</title>
-      <description>GAMBRILL PARK RD / SHOOKSTOWN RD Units: BR125, E82, FS12</description>
-      <guid isPermaLink="false">2025-06-19 15:14:00</guid>
-      <pubDate>Thu, 19 Jun 2025 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:13 pm</title>
-      <description>7300 BLOCK GUILFORD DR, ULTA COSMETICS - FREDERICK CROSSING Units: PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2025-06-19 15:13:00</guid>
-      <pubDate>Thu, 19 Jun 2025 15:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
