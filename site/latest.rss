@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Jun 2025 17:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 17:34:56 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 1:17 pm</title>
+      <description>600 BLOCK GALA WAY Radio: 9C Units: E152, E251, R15, K33, FS15, 9C</description>
+      <guid isPermaLink="false">2025-06-22 13:17:00</guid>
+      <pubDate>Sun, 22 Jun 2025 13:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 1:01 pm</title>
+      <description>I70EB / MUSSETTER RD, I70EB / MUSSETTER RD Radio: 9D Units: 9D, BC901, E331, A339, R15, A159, ALS17, E251, FS33, E152, EMS901</description>
+      <guid isPermaLink="false">2025-06-22 13:01:00</guid>
+      <pubDate>Sun, 22 Jun 2025 13:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 1:01 pm</title>
+      <description>I70EB / MUSSETTER RD, I70EB / MUSSETTER RD Radio: 9D Units: 9D, BC901, E331, A339, R15, A159, ALS17, E152, EMS901</description>
+      <guid isPermaLink="false">2025-06-22 13:01:00</guid>
+      <pubDate>Sun, 22 Jun 2025 13:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:00 pm</title>
+      <description>500 BLOCK S MARKET ST Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-22 13:00:00</guid>
+      <pubDate>Sun, 22 Jun 2025 13:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 12:55 pm</title>
       <description>I70EB / RT75(RT75), I70EB / RT75 Radio: 9D Units: FS15, 9D, E331, A339, R15, A159, ALS17, E152, EMS901</description>
@@ -282,30 +306,6 @@
       <description>7900 BLOCK ROCKY RIDGE RD, THURMONT PRIMARY SCHOOL Radio: 9D Units: A308, A169, PE102, BC902, SAF901, EMS901, 9D, R10</description>
       <guid isPermaLink="false">2025-06-20 09:56:00</guid>
       <pubDate>Fri, 20 Jun 2025 09:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:46 am</title>
-      <description>JEFFERSON STATION BLVD / JEFFERSON COMMONS WAY Units: E11, A19</description>
-      <guid isPermaLink="false">2025-06-20 09:46:00</guid>
-      <pubDate>Fri, 20 Jun 2025 09:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:12 am</title>
-      <description>1300 BLOCK BAKER PL E, Apt/Unit:32, RESIDENCES AT THE MANOR - 1300 BLOCK BAKER PL Units: E11, E33, PE23, E121, R3, A18, ALS4, BC903, BC902, SAF901, TT4, T50, E501</description>
-      <guid isPermaLink="false">2025-06-20 00:12:00</guid>
-      <pubDate>Fri, 20 Jun 2025 00:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:13 pm</title>
-      <description>5900 BLOCK BOYERS MILL RD Units: BR156, FS15</description>
-      <guid isPermaLink="false">2025-06-19 23:13:00</guid>
-      <pubDate>Thu, 19 Jun 2025 23:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:04 pm</title>
-      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Units: FS14, E141</description>
-      <guid isPermaLink="false">2025-06-19 23:04:00</guid>
-      <pubDate>Thu, 19 Jun 2025 23:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
