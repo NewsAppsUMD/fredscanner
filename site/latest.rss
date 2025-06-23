@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 17:35:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 18:02:32 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:49 pm</title>
+      <description>400 BLOCK W SOUTH ST Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-06-23 13:49:00</guid>
+      <pubDate>Mon, 23 Jun 2025 13:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:33 pm</title>
+      <description>100 BLOCK S WISNER ST Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-23 13:33:00</guid>
+      <pubDate>Mon, 23 Jun 2025 13:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:12 pm</title>
       <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Radio: 9B Units: E11, R3, A18, A29, 9B, E23</description>
@@ -294,18 +306,6 @@
       <description>OLD FREDERICK RD / DEVILBISS BRIDGE RD Radio: 9B Units: A229, E221, FS22, 9B</description>
       <guid isPermaLink="false">2025-06-21 11:25:00</guid>
       <pubDate>Sat, 21 Jun 2025 11:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 10:47 am</title>
-      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: BC903, U14, BC602, E141, CMD14, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, BTSU28, C14, BR285</description>
-      <guid isPermaLink="false">2025-06-21 10:47:00</guid>
-      <pubDate>Sat, 21 Jun 2025 10:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 10:46 am</title>
-      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: U14, E141, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, C14</description>
-      <guid isPermaLink="false">2025-06-21 10:46:00</guid>
-      <pubDate>Sat, 21 Jun 2025 10:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
