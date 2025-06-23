@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 17:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 17:35:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:12 pm</title>
+      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Radio: 9B Units: E11, R3, A18, A29, 9B, E23</description>
+      <guid isPermaLink="false">2025-06-23 13:12:00</guid>
+      <pubDate>Mon, 23 Jun 2025 13:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:10 pm</title>
+      <description>4800 BLOCK GOVERNORS WAY Radio: 9C Units: PE311, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-23 13:10:00</guid>
+      <pubDate>Mon, 23 Jun 2025 13:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:02 pm</title>
+      <description>4800 BLOCK GOVERNORS WAY Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-23 13:02:00</guid>
+      <pubDate>Mon, 23 Jun 2025 13:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:09 pm</title>
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E61, E101</description>
@@ -288,24 +306,6 @@
       <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: U14, E141, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, C14</description>
       <guid isPermaLink="false">2025-06-21 10:46:00</guid>
       <pubDate>Sat, 21 Jun 2025 10:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:45 am</title>
-      <description>200 BLOCK ENSEMBLE WAY Radio: 9C Units: E33, 9C</description>
-      <guid isPermaLink="false">2025-06-21 10:45:00</guid>
-      <pubDate>Sat, 21 Jun 2025 10:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 10:42 am</title>
-      <description>MONOCACY RIVER / DICKERSON RD Radio: 9D Units: E141, 9D, E231, R20, T23, TR29, BT28, SW610, BT19, A149, A239, ALS23, BC901, SAF901, EMS901, FS14</description>
-      <guid isPermaLink="false">2025-06-21 10:42:00</guid>
-      <pubDate>Sat, 21 Jun 2025 10:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:23 am</title>
-      <description>4200 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: R14, FS14, 9C</description>
-      <guid isPermaLink="false">2025-06-21 10:23:00</guid>
-      <pubDate>Sat, 21 Jun 2025 10:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
