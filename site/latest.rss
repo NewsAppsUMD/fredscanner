@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 00:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 01:30:18 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 9:15 pm</title>
+      <description>400 BLOCK HARLAN WAY, Apt/Unit:103, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-06-22 21:15:00</guid>
+      <pubDate>Sun, 22 Jun 2025 21:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:39 pm</title>
+      <description>5700 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: 9C, E201</description>
+      <guid isPermaLink="false">2025-06-22 20:39:00</guid>
+      <pubDate>Sun, 22 Jun 2025 20:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 8:36 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:II, Apt/Unit:109, ELMWOOD TERRACE APTS - BLDG II Radio: 9D Units: E121, ALS4, BC903, BC902, SAF901, 9D, E33, PE23, E501, R3, TT4, T50, A129, E11</description>
+      <guid isPermaLink="false">2025-06-22 20:36:00</guid>
+      <pubDate>Sun, 22 Jun 2025 20:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:33 pm</title>
+      <description>9700 BLOCK WYNDHAM DR Radio: 9C Units: E231, 9C, FS23</description>
+      <guid isPermaLink="false">2025-06-22 20:33:00</guid>
+      <pubDate>Sun, 22 Jun 2025 20:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:13 pm</title>
+      <description>MUSSETTER RD / WHITEROSE DR Radio: 9B Units: 9B, FS15, A39, E152</description>
+      <guid isPermaLink="false">2025-06-22 20:13:00</guid>
+      <pubDate>Sun, 22 Jun 2025 20:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 4:57 pm</title>
       <description>1400 BLOCK MUSGROVE ALY Radio: 9C Units: E201, T5, E51, 9C, C5</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, Bldg:B, Apt/Unit:102, WILLOWDALE CROSSING APTS - 100 BLOCKB WILLOWDALE DR Radio: 9C Units: TT4, E11, 9C</description>
       <guid isPermaLink="false">2025-06-20 23:13:00</guid>
       <pubDate>Fri, 20 Jun 2025 23:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:45 pm</title>
-      <description>WATERS EDGE CT / NORTH SHORE WAY Radio: 9C Units: E152, FS15, 9C</description>
-      <guid isPermaLink="false">2025-06-20 22:45:00</guid>
-      <pubDate>Fri, 20 Jun 2025 22:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:23 pm</title>
-      <description>3000 BLOCK ANNAS TER Radio: 9C Units: E291, FS29, Q11, 9C</description>
-      <guid isPermaLink="false">2025-06-20 20:23:00</guid>
-      <pubDate>Fri, 20 Jun 2025 20:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:45 pm</title>
-      <description>5800 BLOCK WINDING OAKS CT Radio: 9C Units: R3, FS33, 9C, E331, E33</description>
-      <guid isPermaLink="false">2025-06-20 19:45:00</guid>
-      <pubDate>Fri, 20 Jun 2025 19:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:31 pm</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9C Units: E82, E33, 9C, BC903, E121</description>
-      <guid isPermaLink="false">2025-06-20 18:31:00</guid>
-      <pubDate>Fri, 20 Jun 2025 18:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:29 pm</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9C Units: E82, FS12, 9C, E121</description>
-      <guid isPermaLink="false">2025-06-20 18:29:00</guid>
-      <pubDate>Fri, 20 Jun 2025 18:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
