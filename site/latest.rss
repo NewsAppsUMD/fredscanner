@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 21:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 21:33:41 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:03 pm</title>
+      <description>8200 BLOCK EDGEWOOD CHURCH RD Radio: 9B Units: A18, E11, 9B</description>
+      <guid isPermaLink="false">2025-06-23 17:03:00</guid>
+      <pubDate>Mon, 23 Jun 2025 17:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:16 pm</title>
       <description>11000 BLOCK FINGERBOARD RD, AT&amp;T FACILITY Radio: 9C Units: E251, FS25, 9C, T23</description>
@@ -300,12 +306,6 @@
       <description>16000 BLOCKA OLD FREDERICK RD Radio: 9C Units: E61, FS06, 9C</description>
       <guid isPermaLink="false">2025-06-21 19:42:00</guid>
       <pubDate>Sat, 21 Jun 2025 19:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:04 pm</title>
-      <description>5400 BLOCK THORNWOOD TER Radio: 9B Units: CCA19, E152, CCE12, 9B</description>
-      <guid isPermaLink="false">2025-06-21 19:04:00</guid>
-      <pubDate>Sat, 21 Jun 2025 19:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
