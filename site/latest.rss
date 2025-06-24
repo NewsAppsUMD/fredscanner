@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 18:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 19:01:48 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:44 pm</title>
+      <description>ROCKY RIDGE RD / HOOVERS MILL RD Radio: 9B Units: 9B, A309, FS13, E132</description>
+      <guid isPermaLink="false">2025-06-24 14:44:00</guid>
+      <pubDate>Tue, 24 Jun 2025 14:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:36 pm</title>
       <description>100 BLOCK W MAIN ST Units: E251, E152, E331, FS15, R3, A159, ALS17, E172, E33, R15, TT4, BC901, BC903, SAF901</description>
@@ -300,12 +306,6 @@
       <description>MUSSETTER RD / WHITEROSE DR Radio: 9B Units: 9B, FS15, A39, E152</description>
       <guid isPermaLink="false">2025-06-22 20:13:00</guid>
       <pubDate>Sun, 22 Jun 2025 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 4:57 pm</title>
-      <description>1400 BLOCK MUSGROVE ALY Radio: 9C Units: E201, T5, E51, 9C, C5</description>
-      <guid isPermaLink="false">2025-06-22 16:57:00</guid>
-      <pubDate>Sun, 22 Jun 2025 16:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
