@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 12:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 13:12:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:50 am</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E33, 9C, TT4</description>
+      <guid isPermaLink="false">2025-06-24 08:50:00</guid>
+      <pubDate>Tue, 24 Jun 2025 08:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:41 am</title>
+      <description>5900 BLOCK WHITE FLINT DR Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-06-24 08:41:00</guid>
+      <pubDate>Tue, 24 Jun 2025 08:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:30 am</title>
       <description>I70EB / HOLLOW RD, I70EB / HOLLOW RD Radio: 9C Units: 9C, E121, E82</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK LAKERIDGE DR Radio: 9C Units: FS15, 9C, E152</description>
       <guid isPermaLink="false">2025-06-22 14:18:00</guid>
       <pubDate>Sun, 22 Jun 2025 14:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:17 pm</title>
-      <description>600 BLOCK GALA WAY Radio: 9C Units: E152, E251, R15, K33, FS15, 9C</description>
-      <guid isPermaLink="false">2025-06-22 13:17:00</guid>
-      <pubDate>Sun, 22 Jun 2025 13:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:01 pm</title>
-      <description>I70EB / MUSSETTER RD, I70EB / MUSSETTER RD Radio: 9D Units: 9D, BC901, E331, A339, R15, A159, ALS17, E251, FS33, E152, EMS901</description>
-      <guid isPermaLink="false">2025-06-22 13:01:00</guid>
-      <pubDate>Sun, 22 Jun 2025 13:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
