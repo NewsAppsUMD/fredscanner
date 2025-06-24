@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Jun 2025 23:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:08:03 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 7:38 pm</title>
+      <description>300 BLOCK MONTEVUE LN, BOURNE BUILDING Units: E11</description>
+      <guid isPermaLink="false">2025-06-23 19:38:00</guid>
+      <pubDate>Mon, 23 Jun 2025 19:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:57 pm</title>
       <description>6000 BLOCK ETTERBEEK ST Units: E331, FS33</description>
@@ -300,12 +306,6 @@
       <description>8200 BLOCK DEVILBISS BRIDGE RD, DEVILBISS BRIDGE LANDING Radio: 9D Units: E162, E111, R24, Q11, TR29, A249, ALS29, BC902, BTSU15, E221, BT29, BT15, A229, 9D, SAF901, EMS902, C11D</description>
       <guid isPermaLink="false">2025-06-21 23:25:00</guid>
       <pubDate>Sat, 21 Jun 2025 23:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 11:19 pm</title>
-      <description>8200 BLOCK DEVILBISS BRIDGE RD, DEVILBISS BRIDGE LANDING Radio: 9D Units: E111, R24, Q11, TR29, A249, ALS29, BC902, E221, BT29, BT15, A229, 9D, SAF901, EMS902, FS22</description>
-      <guid isPermaLink="false">2025-06-21 23:19:00</guid>
-      <pubDate>Sat, 21 Jun 2025 23:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
