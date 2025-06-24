@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 21:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 21:33:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 5:29 pm</title>
+      <description>8900 BLOCK OLD HARMONY RD Radio: 9C Units: E72, EMSBC900, E82, A89, BC903, SAF901, E11, 9C, E121, TW7, K7</description>
+      <guid isPermaLink="false">2025-06-24 17:29:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 5:28 pm</title>
+      <description>8900 BLOCK OLD HARMONY RD Radio: 9C Units: E72, EMSBC900, E82, A89, BC903, SAF901, 9C, E121, TW7, K7</description>
+      <guid isPermaLink="false">2025-06-24 17:28:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 5:22 pm</title>
+      <description>8900 BLOCK OLD HARMONY RD Radio: 9C Units: E72, E82, A89, BC903, SAF901, FS21, 9C, E121, TW7, K7</description>
+      <guid isPermaLink="false">2025-06-24 17:22:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:05 pm</title>
+      <description>NEW DESIGN RD / WEDGEWOOD BLVD Radio: 9D Units: PE311, EMS901, FS31, A318, 9D</description>
+      <guid isPermaLink="false">2025-06-24 17:05:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:32 pm</title>
       <description>1700 BLOCK BROOKSHIRE RUN Radio: 9C Units: 9C, E281, FS28</description>
@@ -282,30 +306,6 @@
       <description>BALTIMORE RD / BELLS LN Units: A339, E331, FS33</description>
       <guid isPermaLink="false">2025-06-23 08:54:00</guid>
       <pubDate>Mon, 23 Jun 2025 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:30 am</title>
-      <description>1400 BLOCK BAKER PL W, Apt/Unit:12, RESIDENCES AT THE MANOR - 1400 BLOCK BAKER PL Units: E11</description>
-      <guid isPermaLink="false">2025-06-23 07:30:00</guid>
-      <pubDate>Mon, 23 Jun 2025 07:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:15 pm</title>
-      <description>400 BLOCK HARLAN WAY, Apt/Unit:103, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-06-22 21:15:00</guid>
-      <pubDate>Sun, 22 Jun 2025 21:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:39 pm</title>
-      <description>5700 BLOCK CATHOLIC CHURCH RD Radio: 9C Units: 9C, E201</description>
-      <guid isPermaLink="false">2025-06-22 20:39:00</guid>
-      <pubDate>Sun, 22 Jun 2025 20:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:36 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:II, Apt/Unit:109, ELMWOOD TERRACE APTS - BLDG II Radio: 9D Units: E121, ALS4, BC903, BC902, SAF901, 9D, E33, PE23, E501, R3, TT4, T50, A129, E11</description>
-      <guid isPermaLink="false">2025-06-22 20:36:00</guid>
-      <pubDate>Sun, 22 Jun 2025 20:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
