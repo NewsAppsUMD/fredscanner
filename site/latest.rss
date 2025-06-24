@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 18:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 18:40:09 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:36 pm</title>
+      <description>100 BLOCK W MAIN ST Units: E251, E152, E331, FS15, R3, A159, ALS17, E172, E33, R15, TT4, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-06-24 14:36:00</guid>
+      <pubDate>Tue, 24 Jun 2025 14:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:34 pm</title>
+      <description>100 BLOCK ST, STATION AC005 - ARENDTSVILLE COMMUNITY FC Units: EK64, FS06</description>
+      <guid isPermaLink="false">2025-06-24 14:34:00</guid>
+      <pubDate>Tue, 24 Jun 2025 14:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:40 pm</title>
       <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Radio: 9C Units: BR96, FS09, 9C</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK MUSGROVE ALY Radio: 9C Units: E201, T5, E51, 9C, C5</description>
       <guid isPermaLink="false">2025-06-22 16:57:00</guid>
       <pubDate>Sun, 22 Jun 2025 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 4:52 pm</title>
-      <description>1400 BLOCK MUSGROVE ALY Radio: 9C Units: E201, T5, E51, FS05, 9C</description>
-      <guid isPermaLink="false">2025-06-22 16:52:00</guid>
-      <pubDate>Sun, 22 Jun 2025 16:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:45 pm</title>
-      <description>I70WB / EXIT 49 (RT40A), I70WB / EXIT 49 Radio: 9D Units: E82, E121, R3, A129, FS12, A79, ALS4, BC901, EMS901, 9D</description>
-      <guid isPermaLink="false">2025-06-22 16:45:00</guid>
-      <pubDate>Sun, 22 Jun 2025 16:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
