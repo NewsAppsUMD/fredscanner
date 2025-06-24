@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 00:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 00:46:30 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 8:42 pm</title>
+      <description>37400 BLOCK ADVENTURE CENTER LN HARPERS FERRY ADVENTURE CTR, HARPERS FERRY ADVENTURE CTR Radio: 6DTAC11 Units: ALS20, RE74, R20, A198, E51</description>
+      <guid isPermaLink="false">2025-06-23 20:42:00</guid>
+      <pubDate>Mon, 23 Jun 2025 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:41 pm</title>
+      <description>6900 BLOCK N CLIFTON RD Units: E121, FS12</description>
+      <guid isPermaLink="false">2025-06-23 20:41:00</guid>
+      <pubDate>Mon, 23 Jun 2025 20:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 8:26 pm</title>
+      <description>3500 BLOCK SUGARLOAF PKWY, GIANT FOOD - URBANA TOWN CENTER Units: E231, E251, T23, FS23</description>
+      <guid isPermaLink="false">2025-06-23 20:26:00</guid>
+      <pubDate>Mon, 23 Jun 2025 20:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 7:38 pm</title>
       <description>300 BLOCK MONTEVUE LN, BOURNE BUILDING Units: E11</description>
@@ -288,24 +306,6 @@
       <description>10800 BLOCK RIDGEWOOD PL Units: E152, FS15</description>
       <guid isPermaLink="false">2025-06-22 05:51:00</guid>
       <pubDate>Sun, 22 Jun 2025 05:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 11:45 pm</title>
-      <description>1000 BLOCK SAXTON DR Radio: 9C Units: 9C, E11, FS29</description>
-      <guid isPermaLink="false">2025-06-21 23:45:00</guid>
-      <pubDate>Sat, 21 Jun 2025 23:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 11:39 pm</title>
-      <description>8200 BLOCK DEVILBISS BRIDGE RD, DEVILBISS BRIDGE LANDING Radio: 9D Units: E162, E111, R24, Q11, TR29, E331, A249, ALS29, BC902, BTSU15, BT29, BT15, A229, 9D, CMD22, SAF901, EMS902, C24B, C11D</description>
-      <guid isPermaLink="false">2025-06-21 23:39:00</guid>
-      <pubDate>Sat, 21 Jun 2025 23:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 11:25 pm</title>
-      <description>8200 BLOCK DEVILBISS BRIDGE RD, DEVILBISS BRIDGE LANDING Radio: 9D Units: E162, E111, R24, Q11, TR29, A249, ALS29, BC902, BTSU15, E221, BT29, BT15, A229, 9D, SAF901, EMS902, C11D</description>
-      <guid isPermaLink="false">2025-06-21 23:25:00</guid>
-      <pubDate>Sat, 21 Jun 2025 23:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
