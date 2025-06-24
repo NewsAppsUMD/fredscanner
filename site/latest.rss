@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Jun 2025 21:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jun 2025 22:02:10 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 5:57 pm</title>
+      <description>11500 BLOCK OLD ANNAPOLIS RD Units: RE171, A179, ALS17, BC901, EMS902, FS17, E152</description>
+      <guid isPermaLink="false">2025-06-24 17:57:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:43 pm</title>
+      <description>7400 BLOCK SKYLINE DR Units: A19, E11</description>
+      <guid isPermaLink="false">2025-06-24 17:43:00</guid>
+      <pubDate>Tue, 24 Jun 2025 17:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 5:29 pm</title>
       <description>8900 BLOCK OLD HARMONY RD Radio: 9C Units: E72, EMSBC900, E82, A89, BC903, SAF901, E11, 9C, E121, TW7, K7</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK S CLIFTON RD Units: E72, TW7, K7, FS12, E121</description>
       <guid isPermaLink="false">2025-06-23 10:55:00</guid>
       <pubDate>Mon, 23 Jun 2025 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:51 am</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Units: PE311, TT4, FS31</description>
-      <guid isPermaLink="false">2025-06-23 10:51:00</guid>
-      <pubDate>Mon, 23 Jun 2025 10:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:54 am</title>
-      <description>BALTIMORE RD / BELLS LN Units: A339, E331, FS33</description>
-      <guid isPermaLink="false">2025-06-23 08:54:00</guid>
-      <pubDate>Mon, 23 Jun 2025 08:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
