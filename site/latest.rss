@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 17:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 18:02:35 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR OUTSIDE: 1:54 pm</title>
+      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: E162, FS16, 9C</description>
+      <guid isPermaLink="false">2025-06-25 13:54:00</guid>
+      <pubDate>Wed, 25 Jun 2025 13:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 11:19 am</title>
       <description>SANDYHOOK RD / HARPERS FERRY RD Units: A198, E51</description>
@@ -300,12 +306,6 @@
       <description>11000 BLOCK FINGERBOARD RD, AT&amp;T FACILITY Radio: 9C Units: E251, FS25, 9C, T23</description>
       <guid isPermaLink="false">2025-06-23 16:16:00</guid>
       <pubDate>Mon, 23 Jun 2025 16:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:11 pm</title>
-      <description>800 BLOCK E SOUTH ST, FARMERS COOP Radio: 9C Units: 9C, BR35</description>
-      <guid isPermaLink="false">2025-06-23 16:11:00</guid>
-      <pubDate>Mon, 23 Jun 2025 16:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
