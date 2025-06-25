@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 06:03:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 06:41:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:20 am</title>
+      <description>I70WB / I270-RT15, I70WB / I270-RT15 Radio: 9B Units: E121, E33, R3, A38, A129, 9B</description>
+      <guid isPermaLink="false">2025-06-25 02:20:00</guid>
+      <pubDate>Wed, 25 Jun 2025 02:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:54 pm</title>
       <description>6800 BLOCK BALLENGER RUN BLVD Radio: 9B Units: A318, PE311, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E61</description>
       <guid isPermaLink="false">2025-06-23 12:03:00</guid>
       <pubDate>Mon, 23 Jun 2025 12:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:55 am</title>
-      <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: E72</description>
-      <guid isPermaLink="false">2025-06-23 11:55:00</guid>
-      <pubDate>Mon, 23 Jun 2025 11:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
