@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 20:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 20:35:49 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 4:09 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-06-25 16:09:00</guid>
+      <pubDate>Wed, 25 Jun 2025 16:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 4:05 pm</title>
+      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: E141, E33, E11, E201, R3, T50, PE311, BC901, FS31, TT4, 9C, ALS31, A319, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-06-25 16:05:00</guid>
+      <pubDate>Wed, 25 Jun 2025 16:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:01 pm</title>
+      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-25 16:01:00</guid>
+      <pubDate>Wed, 25 Jun 2025 16:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR OUTSIDE: 3:41 pm</title>
       <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: HMSU33, BC902, CMD16, K10, E162, 9C, K9, A169, HM33</description>
@@ -288,24 +306,6 @@
       <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, TT4, 9C</description>
       <guid isPermaLink="false">2025-06-24 01:45:00</guid>
       <pubDate>Tue, 24 Jun 2025 01:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:23 pm</title>
-      <description>5600 BLOCK BUTTERFLY LN Units: E121, R2, A129, BC903, BC902, SAF901, FS12, E11, E33, R3, ALS4, PE311, E501, TT4</description>
-      <guid isPermaLink="false">2025-06-23 23:23:00</guid>
-      <pubDate>Mon, 23 Jun 2025 23:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 10:45 pm</title>
-      <description>5200 BLOCK WESTVIEW DR, EXTENDED STAY AMERICA Units: PE311, E33, R3, FS31</description>
-      <guid isPermaLink="false">2025-06-23 22:45:00</guid>
-      <pubDate>Mon, 23 Jun 2025 22:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 9:02 pm</title>
-      <description>5200 BLOCK WESTVIEW DR, EXTENDED STAY AMERICA Units: FS31, PE311</description>
-      <guid isPermaLink="false">2025-06-23 21:02:00</guid>
-      <pubDate>Mon, 23 Jun 2025 21:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
