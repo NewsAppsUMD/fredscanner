@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 15:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 15:36:24 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 11:19 am</title>
+      <description>SANDYHOOK RD / HARPERS FERRY RD Units: A198, E51</description>
+      <guid isPermaLink="false">2025-06-25 11:19:00</guid>
+      <pubDate>Wed, 25 Jun 2025 11:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:11 am</title>
+      <description>11200 BLOCK FINGERBOARD RD, POTOMAC EDISON SUBSTATION - MONROVIA Radio: 9B Units: E251, 9B, A239, FS25</description>
+      <guid isPermaLink="false">2025-06-25 11:11:00</guid>
+      <pubDate>Wed, 25 Jun 2025 11:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:59 am</title>
       <description>800 BLOCK OAK ST Radio: 9C Units: 9C, E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK E SOUTH ST, FARMERS COOP Radio: 9C Units: 9C, BR35</description>
       <guid isPermaLink="false">2025-06-23 16:11:00</guid>
       <pubDate>Mon, 23 Jun 2025 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9B Units: A39, R3, 9B</description>
-      <guid isPermaLink="false">2025-06-23 15:38:00</guid>
-      <pubDate>Mon, 23 Jun 2025 15:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
-      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: E331, 9B, E152, E251, R15, A259, A339</description>
-      <guid isPermaLink="false">2025-06-23 15:13:00</guid>
-      <pubDate>Mon, 23 Jun 2025 15:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
