@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 03:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 04:08:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:54 pm</title>
+      <description>6800 BLOCK BALLENGER RUN BLVD Radio: 9B Units: A318, PE311, FS31, 9B</description>
+      <guid isPermaLink="false">2025-06-24 23:54:00</guid>
+      <pubDate>Tue, 24 Jun 2025 23:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>ATV ACCIDENT: 5:57 pm</title>
       <description>11500 BLOCK OLD ANNAPOLIS RD Units: RE171, A179, ALS17, BC901, EMS902, FS17, E152</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: E72</description>
       <guid isPermaLink="false">2025-06-23 11:55:00</guid>
       <pubDate>Mon, 23 Jun 2025 11:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:55 am</title>
-      <description>6600 BLOCK S CLIFTON RD Units: E72, TW7, K7, FS12, E121</description>
-      <guid isPermaLink="false">2025-06-23 10:55:00</guid>
-      <pubDate>Mon, 23 Jun 2025 10:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
