@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Jun 2025 11:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 11:33:12 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:31 am</title>
+      <description>1600 BLOCK DWIGHT D EISENHOWER HWY, SOUTH MOUNTAIN REST AREA I70WB Radio: 9D Units: ALS8, A89, E82, EMS901, 9D</description>
+      <guid isPermaLink="false">2025-06-25 07:31:00</guid>
+      <pubDate>Wed, 25 Jun 2025 07:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:51 am</title>
       <description>7300 BLOCK GOVERNORS WAY Radio: 9C Units: PE311, FS31, 9C, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S WISNER ST Radio: 9C Units: E33, TT4, 9C</description>
       <guid isPermaLink="false">2025-06-23 13:33:00</guid>
       <pubDate>Mon, 23 Jun 2025 13:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:12 pm</title>
-      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Radio: 9B Units: E11, R3, A18, A29, 9B, E23</description>
-      <guid isPermaLink="false">2025-06-23 13:12:00</guid>
-      <pubDate>Mon, 23 Jun 2025 13:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
