@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 20:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 21:02:20 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:39 pm</title>
+      <description>STOTTLEMYER RD / FOX TOWER RD Radio: 9B Units: BR106, BR216, 9B, FS21</description>
+      <guid isPermaLink="false">2025-06-26 16:39:00</guid>
+      <pubDate>Thu, 26 Jun 2025 16:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:39 pm</title>
+      <description>STOTTLEMYER RD / FOX TOWER RD Radio: 9B Units: BR106, BR216, 9B, FS21</description>
+      <guid isPermaLink="false">2025-06-26 16:39:00</guid>
+      <pubDate>Thu, 26 Jun 2025 16:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:35 pm</title>
+      <description>1800 BLOCK CYRIL CT Radio: 9D Units: T50, ALS29, BC902, 9D, E111, R3, E291, PE23, E11, E501, R24, Q11, A249, BC901, SAF901, C11</description>
+      <guid isPermaLink="false">2025-06-26 16:35:00</guid>
+      <pubDate>Thu, 26 Jun 2025 16:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:33 pm</title>
+      <description>STOTTLEMYER RD / FOX TOWER RD Radio: 9B Units: BR216, FS21, 9B</description>
+      <guid isPermaLink="false">2025-06-26 16:33:00</guid>
+      <pubDate>Thu, 26 Jun 2025 16:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:31 pm</title>
       <description>1800 BLOCK CYRIL CT Radio: 9D Units: T50, ALS29, BC902, 9D, E111, E291, PE23, E11, E501, R24, Q11, A249, BC901, SAF901, FS11</description>
@@ -282,30 +306,6 @@
       <description>4100 BLOCK AYODHYA WAY, SRI BHAKTHA ANJANEYA TEMPLE Radio: 9C Units: E251, T23, FS25, 9C</description>
       <guid isPermaLink="false">2025-06-25 06:16:00</guid>
       <pubDate>Wed, 25 Jun 2025 06:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:10 am</title>
-      <description>5600 BLOCK URBANA PIKE, Apt/Unit:A, KEY PLAZA Radio: 9C Units: TT4, 9C, PE311</description>
-      <guid isPermaLink="false">2025-06-25 05:10:00</guid>
-      <pubDate>Wed, 25 Jun 2025 05:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:47 am</title>
-      <description>9700 BLOCK WYNDHAM DR Radio: 9C Units: E231, FS23, 9C</description>
-      <guid isPermaLink="false">2025-06-25 02:47:00</guid>
-      <pubDate>Wed, 25 Jun 2025 02:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:20 am</title>
-      <description>I70WB / I270-RT15, I70WB / I270-RT15 Radio: 9B Units: E121, E33, R3, A38, A129, 9B</description>
-      <guid isPermaLink="false">2025-06-25 02:20:00</guid>
-      <pubDate>Wed, 25 Jun 2025 02:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:54 pm</title>
-      <description>6800 BLOCK BALLENGER RUN BLVD Radio: 9B Units: A318, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-06-24 23:54:00</guid>
-      <pubDate>Tue, 24 Jun 2025 23:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
