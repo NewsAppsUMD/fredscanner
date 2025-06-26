@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 13:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 13:40:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:27 am</title>
+      <description>6100 BLOCK NEWPORT TER Radio: 9C Units: E331, TT4, FS33, 9C</description>
+      <guid isPermaLink="false">2025-06-26 09:27:00</guid>
+      <pubDate>Thu, 26 Jun 2025 09:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 8:47 am</title>
       <description>2500 BLOCK FIVE SHILLINGS RD Radio: 9C Units: E291, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK ST, STATION AC005 - ARENDTSVILLE COMMUNITY FC Units: EK64, FS06</description>
       <guid isPermaLink="false">2025-06-24 14:34:00</guid>
       <pubDate>Tue, 24 Jun 2025 14:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:40 pm</title>
-      <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Radio: 9C Units: BR96, FS09, 9C</description>
-      <guid isPermaLink="false">2025-06-24 13:40:00</guid>
-      <pubDate>Tue, 24 Jun 2025 13:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
