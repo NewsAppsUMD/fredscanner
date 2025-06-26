@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 14:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 14:36:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:07 am</title>
+      <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: E33, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-26 10:07:00</guid>
+      <pubDate>Thu, 26 Jun 2025 10:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:55 am</title>
       <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: FS31, 9C, PE311, T23</description>
@@ -300,12 +306,6 @@
       <description>ROCKY RIDGE RD / HOOVERS MILL RD Radio: 9B Units: 9B, A309, FS13, E132</description>
       <guid isPermaLink="false">2025-06-24 14:44:00</guid>
       <pubDate>Tue, 24 Jun 2025 14:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:36 pm</title>
-      <description>100 BLOCK W MAIN ST Units: E251, E152, E331, FS15, R3, A159, ALS17, E172, E33, R15, TT4, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-06-24 14:36:00</guid>
-      <pubDate>Tue, 24 Jun 2025 14:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
