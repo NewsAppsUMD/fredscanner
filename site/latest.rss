@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Jun 2025 15:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 16:02:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:44 am</title>
+      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Radio: 9C Units: E11, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-26 11:44:00</guid>
+      <pubDate>Thu, 26 Jun 2025 11:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 11:42 am</title>
+      <description>16700 BLOCK THURSTON RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2025-06-26 11:42:00</guid>
+      <pubDate>Thu, 26 Jun 2025 11:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:37 am</title>
+      <description>400 BLOCK RICHARD ROBERTS ST Radio: 9C Units: FS15, 9C, E152</description>
+      <guid isPermaLink="false">2025-06-26 11:37:00</guid>
+      <pubDate>Thu, 26 Jun 2025 11:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:53 am</title>
       <description>200 BLOCK E CHURCH ST Radio: 9C Units: TT4, 9C, E33</description>
@@ -288,24 +306,6 @@
       <description>8900 BLOCK OLD HARMONY RD Radio: 9C Units: E72, E82, A89, BC903, SAF901, FS21, 9C, E121, TW7, K7</description>
       <guid isPermaLink="false">2025-06-24 17:22:00</guid>
       <pubDate>Tue, 24 Jun 2025 17:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:05 pm</title>
-      <description>NEW DESIGN RD / WEDGEWOOD BLVD Radio: 9D Units: PE311, EMS901, FS31, A318, 9D</description>
-      <guid isPermaLink="false">2025-06-24 17:05:00</guid>
-      <pubDate>Tue, 24 Jun 2025 17:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:32 pm</title>
-      <description>1700 BLOCK BROOKSHIRE RUN Radio: 9C Units: 9C, E281, FS28</description>
-      <guid isPermaLink="false">2025-06-24 16:32:00</guid>
-      <pubDate>Tue, 24 Jun 2025 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:40 pm</title>
-      <description>CHRISTOPHERS XING / YELLOW SPRINGS RD Radio: 9B Units: A18, E11, 9B</description>
-      <guid isPermaLink="false">2025-06-24 15:40:00</guid>
-      <pubDate>Tue, 24 Jun 2025 15:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
