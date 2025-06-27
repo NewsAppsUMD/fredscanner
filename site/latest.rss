@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 09:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 10:02:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:45 am</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: E121, BC903, R8, A129, A89, ALS8, 9D, CMD8, HMSU33, RE74</description>
+      <guid isPermaLink="false">2025-06-27 05:45:00</guid>
+      <pubDate>Fri, 27 Jun 2025 05:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:24 am</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E121, BC903, R8, A129, A89, ALS8, EMS901, RE74</description>
+      <guid isPermaLink="false">2025-06-27 05:24:00</guid>
+      <pubDate>Fri, 27 Jun 2025 05:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:15 am</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E121, E72, R8, A129, A89, FS12</description>
+      <guid isPermaLink="false">2025-06-27 05:15:00</guid>
+      <pubDate>Fri, 27 Jun 2025 05:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:57 am</title>
       <description>100 BLOCK TILLMAN PL Units: TT4, E11</description>
@@ -288,24 +306,6 @@
       <description>800 BLOCK E MAIN ST, SAFEWAY - TOWN CENTER PLAZA Radio: 9C Units: E72, 9C</description>
       <guid isPermaLink="false">2025-06-25 15:35:00</guid>
       <pubDate>Wed, 25 Jun 2025 15:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 3:34 pm</title>
-      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: HMSU33, BC902, E162, 9C, K9, A169, HM33</description>
-      <guid isPermaLink="false">2025-06-25 15:34:00</guid>
-      <pubDate>Wed, 25 Jun 2025 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:09 pm</title>
-      <description>100 BLOCK POPLAR AVE, R R DONNELLY CO Radio: 9C Units: Q11, 9C, PE102</description>
-      <guid isPermaLink="false">2025-06-25 15:09:00</guid>
-      <pubDate>Wed, 25 Jun 2025 15:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:58 pm</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: FS31, 9C, PE311, TT4</description>
-      <guid isPermaLink="false">2025-06-25 14:58:00</guid>
-      <pubDate>Wed, 25 Jun 2025 14:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
