@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 11:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:03:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: TW7, 9C, E72</description>
+      <guid isPermaLink="false">2025-06-27 07:30:00</guid>
+      <pubDate>Fri, 27 Jun 2025 07:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 5:45 am</title>
       <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: E121, BC903, R8, A129, A89, ALS8, 9D, CMD8, HMSU33, RE74</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: HMSU33, BC902, CMD16, K10, E162, 9C, K9, A169, HM33</description>
       <guid isPermaLink="false">2025-06-25 15:41:00</guid>
       <pubDate>Wed, 25 Jun 2025 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:35 pm</title>
-      <description>800 BLOCK E MAIN ST, SAFEWAY - TOWN CENTER PLAZA Radio: 9C Units: E72, 9C</description>
-      <guid isPermaLink="false">2025-06-25 15:35:00</guid>
-      <pubDate>Wed, 25 Jun 2025 15:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
