@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 16:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 16:37:29 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:19 pm</title>
+      <description>1900 BLOCK FAUNA DR Radio: 9C Units: E11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-06-27 12:19:00</guid>
+      <pubDate>Fri, 27 Jun 2025 12:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:58 am</title>
       <description>300 BLOCK CORMORANT PL, Bldg:1000/2000 Radio: 9C Units: E291, Q11, FS29, 9C</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51, FS05, 9C</description>
       <guid isPermaLink="false">2025-06-25 18:21:00</guid>
       <pubDate>Wed, 25 Jun 2025 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 4:41 pm</title>
-      <description>TUSCANNEY DR / YELLOW SPRINGS RD Radio: 9I Units: 9I, A18, PE23, E11, EMS902</description>
-      <guid isPermaLink="false">2025-06-25 16:41:00</guid>
-      <pubDate>Wed, 25 Jun 2025 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
