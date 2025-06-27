@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 15:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 16:02:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:58 am</title>
+      <description>300 BLOCK CORMORANT PL, Bldg:1000/2000 Radio: 9C Units: E291, Q11, FS29, 9C</description>
+      <guid isPermaLink="false">2025-06-27 11:58:00</guid>
+      <pubDate>Fri, 27 Jun 2025 11:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:06 am</title>
       <description>RT85 / I270, RT85 / I270 Radio: 9B Units: FS31, 9B, PE311, A318</description>
@@ -300,12 +306,6 @@
       <description>TUSCANNEY DR / YELLOW SPRINGS RD Radio: 9I Units: 9I, A18, PE23, E11, EMS902</description>
       <guid isPermaLink="false">2025-06-25 16:41:00</guid>
       <pubDate>Wed, 25 Jun 2025 16:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 4:09 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-06-25 16:09:00</guid>
-      <pubDate>Wed, 25 Jun 2025 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
