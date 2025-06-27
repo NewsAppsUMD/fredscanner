@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Jun 2025 12:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 12:43:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:18 am</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: FS23, 9D, E231, E251, PRE709, R3, A239, A708B, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-06-27 08:18:00</guid>
+      <pubDate>Fri, 27 Jun 2025 08:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
       <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: TW7, 9C, E72</description>
@@ -294,12 +300,6 @@
       <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: PE311, TT4, FS31, 9C</description>
       <guid isPermaLink="false">2025-06-25 16:01:00</guid>
       <pubDate>Wed, 25 Jun 2025 16:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 3:41 pm</title>
-      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: HMSU33, BC902, CMD16, K10, E162, 9C, K9, A169, HM33</description>
-      <guid isPermaLink="false">2025-06-25 15:41:00</guid>
-      <pubDate>Wed, 25 Jun 2025 15:41:00 -0400</pubDate>
     </item>
     <item>
       <title>UNKNOWN ODOR OUTSIDE: 3:41 pm</title>
