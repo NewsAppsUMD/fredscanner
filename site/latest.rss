@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 19:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 20:02:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:29 pm</title>
+      <description>100 BLOCK WAVERLEY DR, WEST FREDERICK CENTER Units: TT4, E121, E11</description>
+      <guid isPermaLink="false">2025-06-28 15:29:00</guid>
+      <pubDate>Sat, 28 Jun 2025 15:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:28 pm</title>
+      <description>100 BLOCK WAVERLEY DR, WEST FREDERICK CENTER Units: TT4, E11</description>
+      <guid isPermaLink="false">2025-06-28 15:28:00</guid>
+      <pubDate>Sat, 28 Jun 2025 15:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
       <description>I270SB / RT85, I270SB / RT85 Units: E231, E11, R3, A18, A149</description>
@@ -294,18 +306,6 @@
       <description>1900 BLOCK FAUNA DR Radio: 9C Units: E11, FS29, 9C</description>
       <guid isPermaLink="false">2025-06-27 12:19:00</guid>
       <pubDate>Fri, 27 Jun 2025 12:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:58 am</title>
-      <description>300 BLOCK CORMORANT PL, Bldg:1000/2000 Radio: 9C Units: E291, Q11, FS29, 9C</description>
-      <guid isPermaLink="false">2025-06-27 11:58:00</guid>
-      <pubDate>Fri, 27 Jun 2025 11:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:06 am</title>
-      <description>RT85 / I270, RT85 / I270 Radio: 9B Units: FS31, 9B, PE311, A318</description>
-      <guid isPermaLink="false">2025-06-27 10:06:00</guid>
-      <pubDate>Fri, 27 Jun 2025 10:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
