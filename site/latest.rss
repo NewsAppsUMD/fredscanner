@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 23:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 23:33:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:14 pm</title>
+      <description>9300 BLOCK DEVILBISS BRIDGE RD Radio: 9C Units: FS11, 9C, BR116</description>
+      <guid isPermaLink="false">2025-06-28 19:14:00</guid>
+      <pubDate>Sat, 28 Jun 2025 19:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:06 pm</title>
+      <description>800 BLOCK E SOUTH ST Radio: 9C Units: BR35, 9C</description>
+      <guid isPermaLink="false">2025-06-28 19:06:00</guid>
+      <pubDate>Sat, 28 Jun 2025 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:59 pm</title>
       <description>BOYLE RD / STULTZ RD Radio: ACOPS2 Units: R6, ACOPS2, A68</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E61</description>
       <guid isPermaLink="false">2025-06-27 23:01:00</guid>
       <pubDate>Fri, 27 Jun 2025 23:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:49 pm</title>
-      <description>6300 BLOCK FULMER RD Radio: 9D Units: E33, PE23, R20, C20, CMD12, K23, E121, E72, E201, E11, EK114, BC901, SAF901, TW7, TT4, K7, K1, K33, A129, ALS20, BC903, 9D</description>
-      <guid isPermaLink="false">2025-06-27 22:49:00</guid>
-      <pubDate>Fri, 27 Jun 2025 22:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:43 pm</title>
-      <description>6300 BLOCK FULMER RD Radio: 9D Units: E33, PE23, R20, C20, K23, E121, E72, E201, E11, BC901, SAF901, TW7, TT4, K7, K1, K33, A129, ALS20, BC903, 9D</description>
-      <guid isPermaLink="false">2025-06-27 22:43:00</guid>
-      <pubDate>Fri, 27 Jun 2025 22:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
