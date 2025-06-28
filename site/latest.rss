@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 18:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 18:39:06 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:12 pm</title>
+      <description>MONOCACY BLVD / QUINCY WAY Units: A299, E291, FS29</description>
+      <guid isPermaLink="false">2025-06-28 14:12:00</guid>
+      <pubDate>Sat, 28 Jun 2025 14:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:56 pm</title>
       <description>1000 BLOCK W PATRICK ST, Apt/Unit:31-32, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Units: E11, T50</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT340-15(RT15-340), I70EB / RT340-15 Radio: 9C Units: E33, FS12, 9C, E121</description>
       <guid isPermaLink="false">2025-06-27 09:21:00</guid>
       <pubDate>Fri, 27 Jun 2025 09:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:18 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: FS23, 9D, E231, E251, PRE709, R3, A239, A708B, ALS23, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-06-27 08:18:00</guid>
-      <pubDate>Fri, 27 Jun 2025 08:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
