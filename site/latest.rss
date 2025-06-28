@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 19:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 19:31:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
+      <description>I270SB / RT85, I270SB / RT85 Units: E231, E11, R3, A18, A149</description>
+      <guid isPermaLink="false">2025-06-28 15:13:00</guid>
+      <pubDate>Sat, 28 Jun 2025 15:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>REKINDLE: 2:45 pm</title>
       <description>15700 BLOCK KELBAUGH RD Units: E61</description>
@@ -300,12 +306,6 @@
       <description>RT85 / I270, RT85 / I270 Radio: 9B Units: FS31, 9B, PE311, A318</description>
       <guid isPermaLink="false">2025-06-27 10:06:00</guid>
       <pubDate>Fri, 27 Jun 2025 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:27 am</title>
-      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9C Units: E82, E33, 9C, C3C, E121</description>
-      <guid isPermaLink="false">2025-06-27 09:27:00</guid>
-      <pubDate>Fri, 27 Jun 2025 09:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
