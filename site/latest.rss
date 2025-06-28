@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 16:37:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 17:01:42 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 12:45 pm</title>
+      <description>1200 BLOCK VILLAGE GREEN WAY Units: E51, FS05</description>
+      <guid isPermaLink="false">2025-06-28 12:45:00</guid>
+      <pubDate>Sat, 28 Jun 2025 12:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:58 am</title>
       <description>JEFFERSON PIKE / HIMES AVE Units: PE311, A318</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK SILVERSIDE ST, THE GODDARD SCHOOL OF NEW MARKET Radio: 9C Units: TT4, FS15, 9C, E152</description>
       <guid isPermaLink="false">2025-06-26 20:35:00</guid>
       <pubDate>Thu, 26 Jun 2025 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:26 pm</title>
-      <description>CORNWELL MEADOW ST / CARRIAGE HILL DR Radio: 9C Units: 9C, BR235, FS23</description>
-      <guid isPermaLink="false">2025-06-26 20:26:00</guid>
-      <pubDate>Thu, 26 Jun 2025 20:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
