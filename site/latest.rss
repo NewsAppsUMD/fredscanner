@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 17:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 17:33:47 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
+      <description>100 BLOCK PROSPECT ST, SAINT THOMAS MOORE ACADEMY Units: E72, TW7</description>
+      <guid isPermaLink="false">2025-06-28 13:30:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 1:25 pm</title>
+      <description>5400 BLOCK SHOOKSTOWN RD Radio: 9I Units: RE74, 9I, E11, A18, ALS4, EMS900</description>
+      <guid isPermaLink="false">2025-06-28 13:25:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:21 pm</title>
+      <description>FINGERBOARD RD / BENNETT CREEK AVE Units: E231, R3, BC901, EMS901, FS23, A39, PE311</description>
+      <guid isPermaLink="false">2025-06-28 13:21:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:14 pm</title>
+      <description>9000 BLOCK MCPHERSON ST Units: R3, A38, PE23, EMS902, FS23, BC901, PE311</description>
+      <guid isPermaLink="false">2025-06-28 13:14:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 12:45 pm</title>
       <description>1200 BLOCK VILLAGE GREEN WAY Units: E51, FS05</description>
@@ -282,30 +306,6 @@
       <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E121, BC903, R8, A129, A89, ALS8, EMS901, RE74</description>
       <guid isPermaLink="false">2025-06-27 05:24:00</guid>
       <pubDate>Fri, 27 Jun 2025 05:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:15 am</title>
-      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E121, E72, R8, A129, A89, FS12</description>
-      <guid isPermaLink="false">2025-06-27 05:15:00</guid>
-      <pubDate>Fri, 27 Jun 2025 05:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:57 am</title>
-      <description>100 BLOCK TILLMAN PL Units: TT4, E11</description>
-      <guid isPermaLink="false">2025-06-27 02:57:00</guid>
-      <pubDate>Fri, 27 Jun 2025 02:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:29 pm</title>
-      <description>RT340EB / GENE HEMP RD, RT340EB / GENE HEMP RD Units: E11, FS20, E201, R20, A209, A18</description>
-      <guid isPermaLink="false">2025-06-26 22:29:00</guid>
-      <pubDate>Thu, 26 Jun 2025 22:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:35 pm</title>
-      <description>10300 BLOCK SILVERSIDE ST, THE GODDARD SCHOOL OF NEW MARKET Radio: 9C Units: TT4, FS15, 9C, E152</description>
-      <guid isPermaLink="false">2025-06-26 20:35:00</guid>
-      <pubDate>Thu, 26 Jun 2025 20:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
