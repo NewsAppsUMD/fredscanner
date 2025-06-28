@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 09:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 10:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:57 am</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E121, R8, CMD12, BC903, R3, E33, E11</description>
+      <guid isPermaLink="false">2025-06-28 05:57:00</guid>
+      <pubDate>Sat, 28 Jun 2025 05:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:41 am</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E121, R8, BC903, R3, E33</description>
+      <guid isPermaLink="false">2025-06-28 05:41:00</guid>
+      <pubDate>Sat, 28 Jun 2025 05:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:30 am</title>
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E121, R8, R3, E33</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK SHELLEY CIR, Apt/Unit:1B, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11, 9C, T50</description>
       <guid isPermaLink="false">2025-06-26 18:42:00</guid>
       <pubDate>Thu, 26 Jun 2025 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:31 pm</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9B Units: R15, A159, CCR1, 9B, A259</description>
-      <guid isPermaLink="false">2025-06-26 17:31:00</guid>
-      <pubDate>Thu, 26 Jun 2025 17:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:10 pm</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9B Units: E152, R15, A159, CCE12, CCA19, FS15, 9B</description>
-      <guid isPermaLink="false">2025-06-26 17:10:00</guid>
-      <pubDate>Thu, 26 Jun 2025 17:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
