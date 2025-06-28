@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 02:15:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 02:59:06 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:49 pm</title>
+      <description>6300 BLOCK FULMER RD Radio: 9D Units: E33, PE23, R20, C20, CMD12, K23, E121, E72, E201, E11, EK114, BC901, SAF901, TW7, TT4, K7, K1, K33, A129, ALS20, BC903, 9D</description>
+      <guid isPermaLink="false">2025-06-27 22:49:00</guid>
+      <pubDate>Fri, 27 Jun 2025 22:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:43 pm</title>
+      <description>6300 BLOCK FULMER RD Radio: 9D Units: E33, PE23, R20, C20, K23, E121, E72, E201, E11, BC901, SAF901, TW7, TT4, K7, K1, K33, A129, ALS20, BC903, 9D</description>
+      <guid isPermaLink="false">2025-06-27 22:43:00</guid>
+      <pubDate>Fri, 27 Jun 2025 22:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:37 pm</title>
+      <description>6300 BLOCK FULMER RD Radio: 9D Units: E33, PE23, R20, E121, E72, E201, E11, FS12, BC901, SAF901, TW7, TT4, K7, K1, K33, A129, ALS20, BC903, 9D</description>
+      <guid isPermaLink="false">2025-06-27 22:37:00</guid>
+      <pubDate>Fri, 27 Jun 2025 22:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:56 pm</title>
       <description>I270NB / I70, I270NB / I70 Radio: 9C Units: PE311, FS31, 9C</description>
@@ -288,24 +306,6 @@
       <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: E33, FS31, 9C</description>
       <guid isPermaLink="false">2025-06-26 10:07:00</guid>
       <pubDate>Thu, 26 Jun 2025 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:55 am</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: FS31, 9C, PE311, T23</description>
-      <guid isPermaLink="false">2025-06-26 09:55:00</guid>
-      <pubDate>Thu, 26 Jun 2025 09:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:27 am</title>
-      <description>6100 BLOCK NEWPORT TER Radio: 9C Units: E331, TT4, FS33, 9C</description>
-      <guid isPermaLink="false">2025-06-26 09:27:00</guid>
-      <pubDate>Thu, 26 Jun 2025 09:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 8:47 am</title>
-      <description>2500 BLOCK FIVE SHILLINGS RD Radio: 9C Units: E291, FS29, 9C</description>
-      <guid isPermaLink="false">2025-06-26 08:47:00</guid>
-      <pubDate>Thu, 26 Jun 2025 08:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
