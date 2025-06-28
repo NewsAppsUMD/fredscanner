@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 13:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 14:01:51 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 9:41 am</title>
+      <description>600 BLOCK CROSSOVER CT Radio: 9C Units: E121, E11, TT4, FS12, 9C</description>
+      <guid isPermaLink="false">2025-06-28 09:41:00</guid>
+      <pubDate>Sat, 28 Jun 2025 09:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:44 am</title>
       <description>I70EB / 37MM Units: E82, A89, ALS8</description>
@@ -300,12 +306,6 @@
       <description>11000 BLOCK HESSONG BRIDGE RD Radio: 9C Units: 9C, BR226, FS22</description>
       <guid isPermaLink="false">2025-06-26 20:07:00</guid>
       <pubDate>Thu, 26 Jun 2025 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:26 pm</title>
-      <description>EAGLEHEAD DR / WOODRIDGE RD, IAO Radio: 9C Units: BR156, FS15, 9C</description>
-      <guid isPermaLink="false">2025-06-26 19:26:00</guid>
-      <pubDate>Thu, 26 Jun 2025 19:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
