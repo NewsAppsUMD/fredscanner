@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 15:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 16:02:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:58 am</title>
+      <description>JEFFERSON PIKE / HIMES AVE Units: PE311, A318</description>
+      <guid isPermaLink="false">2025-06-28 11:58:00</guid>
+      <pubDate>Sat, 28 Jun 2025 11:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 11:45 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2025-06-28 11:45:00</guid>
+      <pubDate>Sat, 28 Jun 2025 11:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 9:41 am</title>
       <description>600 BLOCK CROSSOVER CT Radio: 9C Units: E121, E11, TT4, FS12, 9C</description>
@@ -294,18 +306,6 @@
       <description>CORNWELL MEADOW ST / CARRIAGE HILL DR Radio: 9C Units: 9C, BR235, FS23</description>
       <guid isPermaLink="false">2025-06-26 20:26:00</guid>
       <pubDate>Thu, 26 Jun 2025 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:15 pm</title>
-      <description>KEY PKWY / BAKER PL S Radio: 9B Units: A19, E11, 9B</description>
-      <guid isPermaLink="false">2025-06-26 20:15:00</guid>
-      <pubDate>Thu, 26 Jun 2025 20:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:07 pm</title>
-      <description>11000 BLOCK HESSONG BRIDGE RD Radio: 9C Units: 9C, BR226, FS22</description>
-      <guid isPermaLink="false">2025-06-26 20:07:00</guid>
-      <pubDate>Thu, 26 Jun 2025 20:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
