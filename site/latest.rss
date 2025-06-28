@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 07:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 07:32:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:25 am</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9I Units: A129, A89, E72, EMS901, ALS8, R8, FS12, E121, BC903, 9I</description>
+      <guid isPermaLink="false">2025-06-28 03:25:00</guid>
+      <pubDate>Sat, 28 Jun 2025 03:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:57 am</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>STOTTLEMYER RD / FOX TOWER RD Radio: 9B Units: BR216, FS21, 9B</description>
       <guid isPermaLink="false">2025-06-26 16:33:00</guid>
       <pubDate>Thu, 26 Jun 2025 16:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:31 pm</title>
-      <description>1800 BLOCK CYRIL CT Radio: 9D Units: T50, ALS29, BC902, 9D, E111, E291, PE23, E11, E501, R24, Q11, A249, BC901, SAF901, FS11</description>
-      <guid isPermaLink="false">2025-06-26 16:31:00</guid>
-      <pubDate>Thu, 26 Jun 2025 16:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
