@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 05:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 06:02:18 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:57 am</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: RE74</description>
+      <guid isPermaLink="false">2025-06-28 01:57:00</guid>
+      <pubDate>Sat, 28 Jun 2025 01:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 1:49 am</title>
+      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, VOLDC900, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, CCEK112, K1, ACE232, R2, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132, ACE22, ACR1</description>
+      <guid isPermaLink="false">2025-06-28 01:49:00</guid>
+      <pubDate>Sat, 28 Jun 2025 01:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 1:45 am</title>
+      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, VOLDC900, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, CCEK112, K1, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132, ACE22, ACR1</description>
+      <guid isPermaLink="false">2025-06-28 01:45:00</guid>
+      <pubDate>Sat, 28 Jun 2025 01:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 1:39 am</title>
+      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, ACE22, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132</description>
+      <guid isPermaLink="false">2025-06-28 01:39:00</guid>
+      <pubDate>Sat, 28 Jun 2025 01:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GARAGE FIRE: 1:35 am</title>
+      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: ACE22, R6, ACEK23, EK224, 9D, EK64, EK134, HM33, A309, ALS30, A68, HMSU33, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, EMS901, W10, PE102, E61, E132</description>
+      <guid isPermaLink="false">2025-06-28 01:35:00</guid>
+      <pubDate>Sat, 28 Jun 2025 01:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>EXPLOSION - STRUCTURE: 1:31 am</title>
       <description>15700 BLOCK KELBAUGH RD Units: ACE22, R6, ACEK23, EK224, EK64, EK134, HM33, A309, ALS30, HMSU33, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, ACE232, BC902, BC901, SAF901, PE102, E61, E132</description>
@@ -276,36 +306,6 @@
       <description>1800 BLOCK CYRIL CT Radio: 9D Units: T50, ALS29, BC902, 9D, E111, E291, PE23, E11, E501, R24, Q11, A249, BC901, SAF901, FS11</description>
       <guid isPermaLink="false">2025-06-26 16:31:00</guid>
       <pubDate>Thu, 26 Jun 2025 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:54 pm</title>
-      <description>200 BLOCK W SECOND ST Units: PE23</description>
-      <guid isPermaLink="false">2025-06-26 13:54:00</guid>
-      <pubDate>Thu, 26 Jun 2025 13:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:35 pm</title>
-      <description>13900 BLOCK JIMTOWN RD Units: PE102</description>
-      <guid isPermaLink="false">2025-06-26 13:35:00</guid>
-      <pubDate>Thu, 26 Jun 2025 13:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:16 pm</title>
-      <description>1500 BLOCK SEARCHLIGHT WAY Units: R15, E152</description>
-      <guid isPermaLink="false">2025-06-26 13:16:00</guid>
-      <pubDate>Thu, 26 Jun 2025 13:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:14 pm</title>
-      <description>1500 BLOCK SEARCHLIGHT WAY Units: E152</description>
-      <guid isPermaLink="false">2025-06-26 13:14:00</guid>
-      <pubDate>Thu, 26 Jun 2025 13:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:44 am</title>
-      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Radio: 9C Units: E11, TT4, 9C</description>
-      <guid isPermaLink="false">2025-06-26 11:44:00</guid>
-      <pubDate>Thu, 26 Jun 2025 11:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
