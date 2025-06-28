@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 17:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 18:02:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:56 pm</title>
+      <description>1000 BLOCK W PATRICK ST, Apt/Unit:31-32, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Units: E11, T50</description>
+      <guid isPermaLink="false">2025-06-28 13:56:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 1:55 pm</title>
+      <description>800 BLOCK N EAST ST, SHOWROOM Units: E33, PE23, TT4</description>
+      <guid isPermaLink="false">2025-06-28 13:55:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:32 pm</title>
+      <description>100 BLOCK PROSPECT ST, SAINT THOMAS MOORE ACADEMY Units: E121, E72, TW7</description>
+      <guid isPermaLink="false">2025-06-28 13:32:00</guid>
+      <pubDate>Sat, 28 Jun 2025 13:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
       <description>100 BLOCK PROSPECT ST, SAINT THOMAS MOORE ACADEMY Units: E72, TW7</description>
@@ -288,24 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: FS23, 9D, E231, E251, PRE709, R3, A239, A708B, ALS23, BC901, EMS901</description>
       <guid isPermaLink="false">2025-06-27 08:18:00</guid>
       <pubDate>Fri, 27 Jun 2025 08:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:30 am</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: TW7, 9C, E72</description>
-      <guid isPermaLink="false">2025-06-27 07:30:00</guid>
-      <pubDate>Fri, 27 Jun 2025 07:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:45 am</title>
-      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: E121, BC903, R8, A129, A89, ALS8, 9D, CMD8, HMSU33, RE74</description>
-      <guid isPermaLink="false">2025-06-27 05:45:00</guid>
-      <pubDate>Fri, 27 Jun 2025 05:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:24 am</title>
-      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Units: E121, BC903, R8, A129, A89, ALS8, EMS901, RE74</description>
-      <guid isPermaLink="false">2025-06-27 05:24:00</guid>
-      <pubDate>Fri, 27 Jun 2025 05:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
