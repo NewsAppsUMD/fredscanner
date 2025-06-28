@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Jun 2025 20:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 20:34:07 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:11 pm</title>
+      <description>100 BLOCK E MAIN ST Radio: 9C Units: RE74, 9C</description>
+      <guid isPermaLink="false">2025-06-28 16:11:00</guid>
+      <pubDate>Sat, 28 Jun 2025 16:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:29 pm</title>
       <description>100 BLOCK WAVERLEY DR, WEST FREDERICK CENTER Units: TT4, E121, E11</description>
@@ -300,12 +306,6 @@
       <description>4400 BLOCK HIGHBORO DR Radio: 9C Units: CCK1, FS25, 9C, E251, CCE12, R15</description>
       <guid isPermaLink="false">2025-06-27 13:12:00</guid>
       <pubDate>Fri, 27 Jun 2025 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:19 pm</title>
-      <description>1900 BLOCK FAUNA DR Radio: 9C Units: E11, FS29, 9C</description>
-      <guid isPermaLink="false">2025-06-27 12:19:00</guid>
-      <pubDate>Fri, 27 Jun 2025 12:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
