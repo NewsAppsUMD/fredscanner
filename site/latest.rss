@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 13:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 14:01:47 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:47 am</title>
+      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Radio: 9C Units: 9C, E11, E501</description>
+      <guid isPermaLink="false">2025-06-29 09:47:00</guid>
+      <pubDate>Sun, 29 Jun 2025 09:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:45 am</title>
+      <description>7400 BLOCK WILLOW RD, Apt/Unit:UNIT OFFICE, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: 9C, R2, E291, TW1</description>
+      <guid isPermaLink="false">2025-06-29 09:45:00</guid>
+      <pubDate>Sun, 29 Jun 2025 09:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:42 am</title>
+      <description>7400 BLOCK WILLOW RD, Apt/Unit:UNIT OFFICE, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: 9C, E291, FS29, TW1</description>
+      <guid isPermaLink="false">2025-06-29 09:42:00</guid>
+      <pubDate>Sun, 29 Jun 2025 09:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:01 am</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E72, WCE161, E82, 9C</description>
@@ -288,24 +306,6 @@
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
       <guid isPermaLink="false">2025-06-28 11:45:00</guid>
       <pubDate>Sat, 28 Jun 2025 11:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 9:41 am</title>
-      <description>600 BLOCK CROSSOVER CT Radio: 9C Units: E121, E11, TT4, FS12, 9C</description>
-      <guid isPermaLink="false">2025-06-28 09:41:00</guid>
-      <pubDate>Sat, 28 Jun 2025 09:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:44 am</title>
-      <description>I70EB / 37MM Units: E82, A89, ALS8</description>
-      <guid isPermaLink="false">2025-06-28 08:44:00</guid>
-      <pubDate>Sat, 28 Jun 2025 08:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:10 am</title>
-      <description>200 BLOCK STAUFFER CT, Bldg:D, SELF STORAGE PLUS Radio: 9C Units: Q11, FS11, 9C, E111</description>
-      <guid isPermaLink="false">2025-06-28 08:10:00</guid>
-      <pubDate>Sat, 28 Jun 2025 08:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
