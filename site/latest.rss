@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 10:36:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 11:01:43 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 6:43 am</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Units: TT4</description>
+      <guid isPermaLink="false">2025-06-29 06:43:00</guid>
+      <pubDate>Sun, 29 Jun 2025 06:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>SHOOTING - ALS: 6:27 am</title>
       <description>200 BLOCK SHANNONBROOK LN Units: ALS4, E11, BC903, EMS902, A18</description>
@@ -300,12 +306,6 @@
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9B Units: R3, E72, E11, FS12, 9B, A129, A89</description>
       <guid isPermaLink="false">2025-06-28 05:09:00</guid>
       <pubDate>Sat, 28 Jun 2025 05:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:06 am</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9I Units: E11, A129, HM33, R8, HMSU33, CMD12, E121, 9I</description>
-      <guid isPermaLink="false">2025-06-28 04:06:00</guid>
-      <pubDate>Sat, 28 Jun 2025 04:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
