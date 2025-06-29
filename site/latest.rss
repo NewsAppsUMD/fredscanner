@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 21:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 22:02:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:42 pm</title>
+      <description>I270SB / RT85, I270SB / RT85 Radio: 9B Units: PRE709, E11, R3, A19, A259, 9B</description>
+      <guid isPermaLink="false">2025-06-29 17:42:00</guid>
+      <pubDate>Sun, 29 Jun 2025 17:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 5:29 pm</title>
+      <description>FINGERBOARD RD / PARK MILLS RD Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2025-06-29 17:29:00</guid>
+      <pubDate>Sun, 29 Jun 2025 17:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 5:06 pm</title>
       <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9C Units: E11, PE23, 9C</description>
@@ -294,18 +306,6 @@
       <description>15700 BLOCK KELBAUGH RD Units: E61</description>
       <guid isPermaLink="false">2025-06-28 14:45:00</guid>
       <pubDate>Sat, 28 Jun 2025 14:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:12 pm</title>
-      <description>MONOCACY BLVD / QUINCY WAY Units: A299, E291, FS29</description>
-      <guid isPermaLink="false">2025-06-28 14:12:00</guid>
-      <pubDate>Sat, 28 Jun 2025 14:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:56 pm</title>
-      <description>1000 BLOCK W PATRICK ST, Apt/Unit:31-32, CROSSROADS ANIMAL REFERRAL AND EMERGENCY - VISTA SHOPS AT GOLDEN MILE Units: E11, T50</description>
-      <guid isPermaLink="false">2025-06-28 13:56:00</guid>
-      <pubDate>Sat, 28 Jun 2025 13:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
