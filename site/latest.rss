@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 03:07:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 03:48:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:28 pm</title>
+      <description>100 BLOCK BLK RAMP RT85 TO I27100 BLOCKNB RAMP Radio: 9D Units: 9D, BC901, EMS901, FS31, PE311, R3, A318, ALS31</description>
+      <guid isPermaLink="false">2025-06-28 23:28:00</guid>
+      <pubDate>Sat, 28 Jun 2025 23:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:26 pm</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2025-06-28 23:26:00</guid>
+      <pubDate>Sat, 28 Jun 2025 23:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:02 pm</title>
       <description>RT40A / COBLENTZ RD, RT40A / COBLENTZ RD Radio: 9B Units: RE74, 9B, A79</description>
@@ -294,18 +306,6 @@
       <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, VOLDC900, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, CCEK112, K1, ACE232, R2, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132, ACE22, ACR1</description>
       <guid isPermaLink="false">2025-06-28 01:49:00</guid>
       <pubDate>Sat, 28 Jun 2025 01:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 1:45 am</title>
-      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, VOLDC900, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, CCEK112, K1, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132, ACE22, ACR1</description>
-      <guid isPermaLink="false">2025-06-28 01:45:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 1:39 am</title>
-      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, ACE22, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132</description>
-      <guid isPermaLink="false">2025-06-28 01:39:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
