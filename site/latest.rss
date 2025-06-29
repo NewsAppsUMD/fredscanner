@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 01:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 02:20:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:02 pm</title>
+      <description>RT40A / COBLENTZ RD, RT40A / COBLENTZ RD Radio: 9B Units: RE74, 9B, A79</description>
+      <guid isPermaLink="false">2025-06-28 22:02:00</guid>
+      <pubDate>Sat, 28 Jun 2025 22:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:A308 Radio: 9C Units: TT4, FS31, 9C, PE311</description>
+      <guid isPermaLink="false">2025-06-28 21:32:00</guid>
+      <pubDate>Sat, 28 Jun 2025 21:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:20 pm</title>
       <description>9600 BLOCK BOTHWELL LN Radio: 9C Units: E251, T23, FS23, 9C, E231</description>
@@ -294,18 +306,6 @@
       <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, ACE22, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132</description>
       <guid isPermaLink="false">2025-06-28 01:39:00</guid>
       <pubDate>Sat, 28 Jun 2025 01:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 1:35 am</title>
-      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: ACE22, R6, ACEK23, EK224, 9D, EK64, EK134, HM33, A309, ALS30, A68, HMSU33, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, ACE232, BC902, BC901, SAF901, FM901, RID, E91, R24, EMS901, W10, PE102, E61, E132</description>
-      <guid isPermaLink="false">2025-06-28 01:35:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - STRUCTURE: 1:31 am</title>
-      <description>15700 BLOCK KELBAUGH RD Units: ACE22, R6, ACEK23, EK224, EK64, EK134, HM33, A309, ALS30, HMSU33, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, ACE232, BC902, BC901, SAF901, PE102, E61, E132</description>
-      <guid isPermaLink="false">2025-06-28 01:31:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
