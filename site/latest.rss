@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 07:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 08:02:20 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:44 am</title>
+      <description>10600 BLOCK EASTERDAY RD Radio: 9C Units: E82, 9C</description>
+      <guid isPermaLink="false">2025-06-29 03:44:00</guid>
+      <pubDate>Sun, 29 Jun 2025 03:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:34 am</title>
+      <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER Radio: 9C Units: PE311, TT4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-29 03:34:00</guid>
+      <pubDate>Sun, 29 Jun 2025 03:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:28 pm</title>
       <description>100 BLOCK BLK RAMP RT85 TO I27100 BLOCKNB RAMP Radio: 9D Units: 9D, BC901, EMS901, FS31, PE311, R3, A318, ALS31</description>
@@ -294,18 +306,6 @@
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9I Units: A129, A89, E72, EMS901, ALS8, R8, FS12, E121, BC903, 9I</description>
       <guid isPermaLink="false">2025-06-28 03:25:00</guid>
       <pubDate>Sat, 28 Jun 2025 03:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:57 am</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: RE74</description>
-      <guid isPermaLink="false">2025-06-28 01:57:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 1:49 am</title>
-      <description>15700 BLOCK KELBAUGH RD Radio: 9D Units: U10, R6, 9D, EK64, EK134, HM33, A309, ALS30, A68, VOLDC900, HMSU33, K22, TTF, E221, FRE193, R10, CCLDR5, Q11, K10, EMS902, CMD10, E162, EK224, K9, K21, ACEK23, CCEK112, K1, ACE232, R2, BC902, BC901, SAF901, FM901, RID, E91, R24, W10, PE102, E61, E132, ACE22, ACR1</description>
-      <guid isPermaLink="false">2025-06-28 01:49:00</guid>
-      <pubDate>Sat, 28 Jun 2025 01:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
