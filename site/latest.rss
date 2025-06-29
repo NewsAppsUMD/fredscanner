@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 29 Jun 2025 09:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 09:33:39 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:05 am</title>
+      <description>19200 BLOCK BURNSIDE BRIDGE RD Units: E72</description>
+      <guid isPermaLink="false">2025-06-29 05:05:00</guid>
+      <pubDate>Sun, 29 Jun 2025 05:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:44 am</title>
       <description>10600 BLOCK EASTERDAY RD Radio: 9C Units: E82, 9C</description>
@@ -300,12 +306,6 @@
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9I Units: A129, A89, E72, EMS901, ALS8, HM33, R8, HMSU33, E121, BC903, 9I</description>
       <guid isPermaLink="false">2025-06-28 03:34:00</guid>
       <pubDate>Sat, 28 Jun 2025 03:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:25 am</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9I Units: A129, A89, E72, EMS901, ALS8, R8, FS12, E121, BC903, 9I</description>
-      <guid isPermaLink="false">2025-06-28 03:25:00</guid>
-      <pubDate>Sat, 28 Jun 2025 03:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
