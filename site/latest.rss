@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 07:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 07:34:28 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:31 am</title>
+      <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E331, 9C, FS33</description>
+      <guid isPermaLink="false">2025-06-30 03:31:00</guid>
+      <pubDate>Mon, 30 Jun 2025 03:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:33 pm</title>
       <description>2100 BLOCK WHITTIER DR, Bldg:B, SOMERFORD HOUSE - WHITTIER Radio: 9C Units: E11, E291, T50, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E MAIN ST Radio: 9C Units: RE74, 9C</description>
       <guid isPermaLink="false">2025-06-28 16:11:00</guid>
       <pubDate>Sat, 28 Jun 2025 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:29 pm</title>
-      <description>100 BLOCK WAVERLEY DR, WEST FREDERICK CENTER Units: TT4, E121, E11</description>
-      <guid isPermaLink="false">2025-06-28 15:29:00</guid>
-      <pubDate>Sat, 28 Jun 2025 15:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
