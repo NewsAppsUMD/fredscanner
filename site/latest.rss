@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 00:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 01:30:12 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:03 pm</title>
+      <description>5700 BLOCK TUSCARORA RD Radio: 9C Units: BR145, FS14, 9C</description>
+      <guid isPermaLink="false">2025-06-29 21:03:00</guid>
+      <pubDate>Sun, 29 Jun 2025 21:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:16 pm</title>
       <description>6800 BLOCK MORROW WAY Radio: 9C Units: E33, E11, R3, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, WEST FREDERICK CENTER Units: TT4, E11</description>
       <guid isPermaLink="false">2025-06-28 15:28:00</guid>
       <pubDate>Sat, 28 Jun 2025 15:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
-      <description>I270SB / RT85, I270SB / RT85 Units: E231, E11, R3, A18, A149</description>
-      <guid isPermaLink="false">2025-06-28 15:13:00</guid>
-      <pubDate>Sat, 28 Jun 2025 15:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
