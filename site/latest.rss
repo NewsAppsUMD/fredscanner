@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Jun 2025 00:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 00:46:41 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:16 pm</title>
+      <description>6800 BLOCK MORROW WAY Radio: 9C Units: E33, E11, R3, FS31, 9C</description>
+      <guid isPermaLink="false">2025-06-29 20:16:00</guid>
+      <pubDate>Sun, 29 Jun 2025 20:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:42 pm</title>
       <description>I270SB / RT85, I270SB / RT85 Radio: 9B Units: PRE709, E11, R3, A19, A259, 9B</description>
@@ -300,12 +306,6 @@
       <description>I270SB / RT85, I270SB / RT85 Units: E231, E11, R3, A18, A149</description>
       <guid isPermaLink="false">2025-06-28 15:13:00</guid>
       <pubDate>Sat, 28 Jun 2025 15:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 2:45 pm</title>
-      <description>15700 BLOCK KELBAUGH RD Units: E61</description>
-      <guid isPermaLink="false">2025-06-28 14:45:00</guid>
-      <pubDate>Sat, 28 Jun 2025 14:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
