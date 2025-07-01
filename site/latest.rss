@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 14:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 14:35:29 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:30 am</title>
+      <description>20600 BLOCK FREDERICK RD, STATION MC734 - GERMANTOWN/MILESTONE Units: TW7</description>
+      <guid isPermaLink="false">2025-07-01 10:30:00</guid>
+      <pubDate>Tue, 01 Jul 2025 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:29 am</title>
+      <description>22600 BLOCK GATEWAY CENTER DR, Apt/Unit:300, STATION MC735 - CLARKSBURG Units: E152</description>
+      <guid isPermaLink="false">2025-07-01 10:29:00</guid>
+      <pubDate>Tue, 01 Jul 2025 10:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:07 am</title>
+      <description>FOXVILLE RD / PARK CENTRAL RD Radio: 9C Units: 9C, BR106</description>
+      <guid isPermaLink="false">2025-07-01 10:07:00</guid>
+      <pubDate>Tue, 01 Jul 2025 10:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:27 am</title>
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E72</description>
@@ -288,24 +306,6 @@
       <description>13000 BLOCK HINEY RD Radio: 9C Units: BR135, FS13, 9C</description>
       <guid isPermaLink="false">2025-06-29 08:39:00</guid>
       <pubDate>Sun, 29 Jun 2025 08:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:15 am</title>
-      <description>TANEYTOWN PIKE / HARNEY RD Radio: 9B Units: 9B, A68, A307, E61, FS06</description>
-      <guid isPermaLink="false">2025-06-29 08:15:00</guid>
-      <pubDate>Sun, 29 Jun 2025 08:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 6:43 am</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Units: TT4</description>
-      <guid isPermaLink="false">2025-06-29 06:43:00</guid>
-      <pubDate>Sun, 29 Jun 2025 06:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 6:27 am</title>
-      <description>200 BLOCK SHANNONBROOK LN Units: ALS4, E11, BC903, EMS902, A18</description>
-      <guid isPermaLink="false">2025-06-29 06:27:00</guid>
-      <pubDate>Sun, 29 Jun 2025 06:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
