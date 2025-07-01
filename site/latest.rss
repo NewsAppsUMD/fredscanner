@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 21:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 21:33:42 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 5:23 pm</title>
+      <description>1300 BLOCK W SEVENTH ST, GETGO - SEVENTH STREET SHOPPING CENTER Units: E501, E11, HM33, HMSU33</description>
+      <guid isPermaLink="false">2025-07-01 17:23:00</guid>
+      <pubDate>Tue, 01 Jul 2025 17:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:08 pm</title>
       <description>OPOSSUMTOWN PIKE / AMBER DR, IAO Radio: 9D Units: R2, A299, ALS4, E291, BC902, EMS902, FS29, 9D</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK TANEY AVE Radio: 9C Units: PE23, 9C, E501, T50</description>
       <guid isPermaLink="false">2025-06-29 14:17:00</guid>
       <pubDate>Sun, 29 Jun 2025 14:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 1:11 pm</title>
-      <description>700 BLOCK WEMBLY DR, Apt/Unit:D, DERBYSHIRE APTS - 700 BLOCKE WEMBLY DR Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-06-29 13:11:00</guid>
-      <pubDate>Sun, 29 Jun 2025 13:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
