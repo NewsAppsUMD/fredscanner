@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Jul 2025 08:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 08:39:12 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:29 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: PE102</description>
+      <guid isPermaLink="false">2025-07-01 04:29:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - HAZMAT: 4:27 am</title>
+      <description>2600 BLOCK W LIBERTY RD, VANESSAS PUB Units: EK114, E172, Q11, E152, E251, R15, BC902</description>
+      <guid isPermaLink="false">2025-07-01 04:27:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:20 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E33</description>
+      <guid isPermaLink="false">2025-07-01 04:20:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - HAZMAT: 4:15 am</title>
+      <description>2600 BLOCK W LIBERTY RD, VANESSAS PUB Units: RE171, K17, E172, Q11, E152, E251, R15, BC900</description>
+      <guid isPermaLink="false">2025-07-01 04:15:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:12 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK114</description>
+      <guid isPermaLink="false">2025-07-01 04:12:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - HAZMAT: 4:06 am</title>
+      <description>2600 BLOCK W LIBERTY RD, VANESSAS PUB Units: RE171, K17, E172</description>
+      <guid isPermaLink="false">2025-07-01 04:06:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - HAZMAT: 4:03 am</title>
+      <description>2600 BLOCK W LIBERTY RD, VANESSAS PUB Units: K17, E172</description>
+      <guid isPermaLink="false">2025-07-01 04:03:00</guid>
+      <pubDate>Tue, 01 Jul 2025 04:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 3:07 am</title>
       <description>100 BLOCK VICTORIA SQ Radio: 9C Units: E11, 9C</description>
@@ -264,48 +306,6 @@
       <description>RT40A / COBLENTZ RD, RT40A / COBLENTZ RD Radio: 9B Units: RE74, 9B, A79</description>
       <guid isPermaLink="false">2025-06-28 22:02:00</guid>
       <pubDate>Sat, 28 Jun 2025 22:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:32 pm</title>
-      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:A308 Radio: 9C Units: TT4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-06-28 21:32:00</guid>
-      <pubDate>Sat, 28 Jun 2025 21:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:20 pm</title>
-      <description>9600 BLOCK BOTHWELL LN Radio: 9C Units: E251, T23, FS23, 9C, E231</description>
-      <guid isPermaLink="false">2025-06-28 21:20:00</guid>
-      <pubDate>Sat, 28 Jun 2025 21:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:00 pm</title>
-      <description>1300 BLOCK W PATRICK ST, WEST FREDERICK CENTER Radio: 9C Units: E11, TT4, 9C</description>
-      <guid isPermaLink="false">2025-06-28 21:00:00</guid>
-      <pubDate>Sat, 28 Jun 2025 21:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 8:35 pm</title>
-      <description>I270NB / RT85(RT85), I270NB / RT85 Radio: 9C Units: BR235, BR16, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-28 20:35:00</guid>
-      <pubDate>Sat, 28 Jun 2025 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:14 pm</title>
-      <description>9300 BLOCK DEVILBISS BRIDGE RD Radio: 9C Units: FS11, 9C, BR116</description>
-      <guid isPermaLink="false">2025-06-28 19:14:00</guid>
-      <pubDate>Sat, 28 Jun 2025 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:06 pm</title>
-      <description>800 BLOCK E SOUTH ST Radio: 9C Units: BR35, 9C</description>
-      <guid isPermaLink="false">2025-06-28 19:06:00</guid>
-      <pubDate>Sat, 28 Jun 2025 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:59 pm</title>
-      <description>BOYLE RD / STULTZ RD Radio: ACOPS2 Units: R6, ACOPS2, A68</description>
-      <guid isPermaLink="false">2025-06-28 18:59:00</guid>
-      <pubDate>Sat, 28 Jun 2025 18:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
