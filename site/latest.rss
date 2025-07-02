@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 03:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 03:45:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:21 pm</title>
+      <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Units: TT4, FS31, PE311</description>
+      <guid isPermaLink="false">2025-07-01 23:21:00</guid>
+      <pubDate>Tue, 01 Jul 2025 23:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:42 pm</title>
       <description>900 BLOCK N MARKET ST Radio: 9D Units: PE23, E33, E501, E11, E291, R3, TT4, T50, A29, ALS2, BC902, BC901, SAF901, 9D</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK TUSCARORA RD Radio: 9C Units: BR145, FS14, 9C</description>
       <guid isPermaLink="false">2025-06-29 21:03:00</guid>
       <pubDate>Sun, 29 Jun 2025 21:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:16 pm</title>
-      <description>6800 BLOCK MORROW WAY Radio: 9C Units: E33, E11, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2025-06-29 20:16:00</guid>
-      <pubDate>Sun, 29 Jun 2025 20:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
