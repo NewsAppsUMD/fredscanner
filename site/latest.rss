@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 14:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 14:36:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:22 am</title>
+      <description>7300 BLOCK GUILFORD DR Radio: 9C Units: PE311, T50, FS31, 9C</description>
+      <guid isPermaLink="false">2025-07-02 10:22:00</guid>
+      <pubDate>Wed, 02 Jul 2025 10:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:10 am</title>
+      <description>7400 BLOCK NEW HORIZON WAY, US DEPARTMENT OF VETERANS AFFAIRS Radio: 9C Units: E33, TT4, 9C</description>
+      <guid isPermaLink="false">2025-07-02 10:10:00</guid>
+      <pubDate>Wed, 02 Jul 2025 10:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:49 am</title>
       <description>8500 BLOCK WOODSBORO PIKE Radio: 9B Units: FS11, A299, E111, 9B</description>
@@ -294,18 +306,6 @@
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Units: E291, FS29, T50</description>
       <guid isPermaLink="false">2025-06-30 15:41:00</guid>
       <pubDate>Mon, 30 Jun 2025 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:50 pm</title>
-      <description>400 BLOCKB W SOUTH ST Units: TT4</description>
-      <guid isPermaLink="false">2025-06-30 14:50:00</guid>
-      <pubDate>Mon, 30 Jun 2025 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 1:45 pm</title>
-      <description>FREDERICK RD / THURMONT BLVD Units: A307, PE102, EMS902</description>
-      <guid isPermaLink="false">2025-06-30 13:45:00</guid>
-      <pubDate>Mon, 30 Jun 2025 13:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
