@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 11:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 11:32:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:11 am</title>
+      <description>5200 BLOCK FOXVILLE RD, IAO Radio: 9D Units: PE102, 9D, R10, WCA791, ALS30, E212, BC903, EMS902, FS21</description>
+      <guid isPermaLink="false">2025-07-02 07:11:00</guid>
+      <pubDate>Wed, 02 Jul 2025 07:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 6:55 am</title>
       <description>100 BLOCK E MAIN ST Radio: 9C Units: BR106, 9C</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: WCT6, 9C, E72</description>
       <guid isPermaLink="false">2025-06-30 11:13:00</guid>
       <pubDate>Mon, 30 Jun 2025 11:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:31 am</title>
-      <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E331, 9C, FS33</description>
-      <guid isPermaLink="false">2025-06-30 03:31:00</guid>
-      <pubDate>Mon, 30 Jun 2025 03:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
