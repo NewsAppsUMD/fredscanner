@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Jul 2025 15:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 16:02:24 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 11:57 am</title>
+      <description>8700 BLOCK MOUNT TABOR RD Radio: 9D Units: A89, ALS8, EMS902, 9D</description>
+      <guid isPermaLink="false">2025-07-02 11:57:00</guid>
+      <pubDate>Wed, 02 Jul 2025 11:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:07 am</title>
       <description>1600 BLOCK CORN CRIB PL Radio: 9C Units: 9C, E11</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK BOYERS MILL RD Units: E152, FS15</description>
       <guid isPermaLink="false">2025-06-30 18:48:00</guid>
       <pubDate>Mon, 30 Jun 2025 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:41 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Radio: 9C Units: E11, FS31, TT4, 9C</description>
-      <guid isPermaLink="false">2025-06-30 16:41:00</guid>
-      <pubDate>Mon, 30 Jun 2025 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
