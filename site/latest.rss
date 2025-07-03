@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 14:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 14:36:10 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:07 am</title>
+      <description>11300 BLOCK NEVETS PL, NEVETS PL / RT75 Radio: 9C Units: E251, FS25, 9C</description>
+      <guid isPermaLink="false">2025-07-03 10:07:00</guid>
+      <pubDate>Thu, 03 Jul 2025 10:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
       <description>6500 BLOCK WILD PLUM DR Radio: 9C Units: TT4, FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E72</description>
       <guid isPermaLink="false">2025-07-01 09:27:00</guid>
       <pubDate>Tue, 01 Jul 2025 09:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:16 am</title>
-      <description>1300 BLOCK OLD WAYNESBORO RD, STATION AC003 - FOUNTAINDALE VFC Units: E101</description>
-      <guid isPermaLink="false">2025-07-01 09:16:00</guid>
-      <pubDate>Tue, 01 Jul 2025 09:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
