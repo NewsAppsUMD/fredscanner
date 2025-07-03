@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 22:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 22:35:30 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:19 pm</title>
+      <description>100 BLOCK THIRD ST, STATION 16 Units: EK64</description>
+      <guid isPermaLink="false">2025-07-03 18:19:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:16 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
+      <guid isPermaLink="false">2025-07-03 18:16:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:14 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: PE102</description>
+      <guid isPermaLink="false">2025-07-03 18:14:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:11 pm</title>
+      <description>12600 BLOCK COPPERMINE RD Units: E251, EK224, K33, FS17, R24, CCA89, EMS902, W17, CCM149, BC903, E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, SAF901, EK114, CMD17, TTF, E291, R15, K9, EK134, CCEK84, BC902, K22, RID</description>
+      <guid isPermaLink="false">2025-07-03 18:11:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:10 pm</title>
+      <description>12600 BLOCK COPPERMINE RD Units: E251, R24, CCA89, EMS902, W17, CCM149, BC903, E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, SAF901, EK114, R15, K9, CCEK84, BC902, RID</description>
+      <guid isPermaLink="false">2025-07-03 18:10:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:08 pm</title>
+      <description>12600 BLOCK COPPERMINE RD Units: E251, R24, CCA89, EMS902, W17, FS17, CCM149, BC903, E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, SAF901, R15, K9, CCEK84, BC902, RID</description>
+      <guid isPermaLink="false">2025-07-03 18:08:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:02 pm</title>
+      <description>12600 BLOCK COPPERMINE RD Units: E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, CCM109, SAF901, FS17, R15, K9, CCEK84, BC902</description>
+      <guid isPermaLink="false">2025-07-03 18:02:00</guid>
+      <pubDate>Thu, 03 Jul 2025 18:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>MEDIUM TANK FIRE (&gt;5-249 GAL): 5:55 pm</title>
       <description>5800 BLOCK SHEPHERD DR Units: E33, E152, HM50, A38</description>
@@ -264,48 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 6 Units: E132</description>
       <guid isPermaLink="false">2025-07-01 18:25:00</guid>
       <pubDate>Tue, 01 Jul 2025 18:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:24 pm</title>
-      <description>400 BLOCK CHERRY OAK CT, BYPASSED TO: 0(400 BLOCK) BLK CHERRY OAK CT,TANEYTOWN Radio: CCA7 Units: EK64, R6, E61, CCA7</description>
-      <guid isPermaLink="false">2025-07-01 18:24:00</guid>
-      <pubDate>Tue, 01 Jul 2025 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:14 pm</title>
-      <description>100 BLOCK(4100 BLOCK1) BLK CHERRY OAK CT Units: E61</description>
-      <guid isPermaLink="false">2025-07-01 18:14:00</guid>
-      <pubDate>Tue, 01 Jul 2025 18:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 5:23 pm</title>
-      <description>1300 BLOCK W SEVENTH ST, GETGO - SEVENTH STREET SHOPPING CENTER Units: E501, E11, HM33, HMSU33</description>
-      <guid isPermaLink="false">2025-07-01 17:23:00</guid>
-      <pubDate>Tue, 01 Jul 2025 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:08 pm</title>
-      <description>OPOSSUMTOWN PIKE / AMBER DR, IAO Radio: 9D Units: R2, A299, ALS4, E291, BC902, EMS902, FS29, 9D</description>
-      <guid isPermaLink="false">2025-07-01 15:08:00</guid>
-      <pubDate>Tue, 01 Jul 2025 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:54 pm</title>
-      <description>I70EB / RT40A (BRADDOCK), I70EB / RT40A Radio: 9D Units: E121, R8, A89, A129, ALS8, BC901, EMS901, 9D, E72</description>
-      <guid isPermaLink="false">2025-07-01 14:54:00</guid>
-      <pubDate>Tue, 01 Jul 2025 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:55 pm</title>
-      <description>MONOCACY BLVD / LIBERTY RD Radio: 9B Units: A249, E111, FS11, 9B</description>
-      <guid isPermaLink="false">2025-07-01 13:55:00</guid>
-      <pubDate>Tue, 01 Jul 2025 13:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:55 pm</title>
-      <description>9100 BLOCK BEALLS FARM RD Units: E231, FS23</description>
-      <guid isPermaLink="false">2025-07-01 12:55:00</guid>
-      <pubDate>Tue, 01 Jul 2025 12:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
