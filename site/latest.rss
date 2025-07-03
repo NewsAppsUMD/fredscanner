@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Jul 2025 14:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 15:02:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:53 am</title>
+      <description>7300 BLOCK GUILFORD DR Radio: 9B Units: TT4, FS31, 9B, PE311</description>
+      <guid isPermaLink="false">2025-07-03 10:53:00</guid>
+      <pubDate>Thu, 03 Jul 2025 10:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:47 am</title>
+      <description>3000 BLOCK HERB GARDEN DR Radio: 9C Units: E231, FS23, 9C</description>
+      <guid isPermaLink="false">2025-07-03 10:47:00</guid>
+      <pubDate>Thu, 03 Jul 2025 10:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:07 am</title>
       <description>11300 BLOCK NEVETS PL, NEVETS PL / RT75 Radio: 9C Units: E251, FS25, 9C</description>
@@ -294,18 +306,6 @@
       <description>22600 BLOCK GATEWAY CENTER DR, Apt/Unit:300, STATION MC735 - CLARKSBURG Units: E152</description>
       <guid isPermaLink="false">2025-07-01 10:29:00</guid>
       <pubDate>Tue, 01 Jul 2025 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:07 am</title>
-      <description>FOXVILLE RD / PARK CENTRAL RD Radio: 9C Units: 9C, BR106</description>
-      <guid isPermaLink="false">2025-07-01 10:07:00</guid>
-      <pubDate>Tue, 01 Jul 2025 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:27 am</title>
-      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E72</description>
-      <guid isPermaLink="false">2025-07-01 09:27:00</guid>
-      <pubDate>Tue, 01 Jul 2025 09:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
