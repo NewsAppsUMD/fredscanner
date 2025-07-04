@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 19:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 20:02:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:29 pm</title>
+      <description>GAMBRILL PARK RD / COXEY BROWN RD Radio: 9D Units: E121, R8, ALS29, E212, BC901, EMS902, 9D, A19</description>
+      <guid isPermaLink="false">2025-07-04 15:29:00</guid>
+      <pubDate>Fri, 04 Jul 2025 15:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 2:01 pm</title>
       <description>I70EB / 51MM, I70EB / 51MM Radio: 9D Units: E33, R3, A129, A38, FS12, E121, 9D, ALS23, BC903, EMS902</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 36MM Units: E82</description>
       <guid isPermaLink="false">2025-07-02 15:36:00</guid>
       <pubDate>Wed, 02 Jul 2025 15:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:52 pm</title>
-      <description>3800 BLOCK JEFFERSON PIKE, JEFFERSON UNITED CHURCH OF CHRIST Radio: 9C Units: TW7, 9C, E201</description>
-      <guid isPermaLink="false">2025-07-02 14:52:00</guid>
-      <pubDate>Wed, 02 Jul 2025 14:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
