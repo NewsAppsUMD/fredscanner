@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Jul 2025 00:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 00:46:31 +0000</lastBuildDate>
+    <item>
+      <title>WATER RESCUE: 8:42 pm</title>
+      <description>DEER PARK RD / BALT CO LINE Units: DSU15</description>
+      <guid isPermaLink="false">2025-07-03 20:42:00</guid>
+      <pubDate>Thu, 03 Jul 2025 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:20 pm</title>
+      <description>11100 BLOCK LIBERTY RD, SHADE TREES &amp; EVERGREENS Radio: 9B Units: A179, PE102, FS17, 9B</description>
+      <guid isPermaLink="false">2025-07-03 20:20:00</guid>
+      <pubDate>Thu, 03 Jul 2025 20:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:36 pm</title>
       <description>RT15SB / SUNDAYS LN, RT15SB / SUNDAYS LN Radio: 9I Units: PE23, E111, E221, CMD11, A29, C11, BC901, EMS901, 9I, K22, RE74, A299, ALS2</description>
@@ -294,18 +306,6 @@
       <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Units: TT4, FS31, PE311</description>
       <guid isPermaLink="false">2025-07-01 23:21:00</guid>
       <pubDate>Tue, 01 Jul 2025 23:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:42 pm</title>
-      <description>900 BLOCK N MARKET ST Radio: 9D Units: PE23, E33, E501, E11, E291, R3, TT4, T50, A29, ALS2, BC902, BC901, SAF901, 9D</description>
-      <guid isPermaLink="false">2025-07-01 22:42:00</guid>
-      <pubDate>Tue, 01 Jul 2025 22:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:12 pm</title>
-      <description>W PATRICK ST / KLINE BLVD, IAO Radio: 9C Units: 9C, BR35</description>
-      <guid isPermaLink="false">2025-07-01 22:12:00</guid>
-      <pubDate>Tue, 01 Jul 2025 22:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
