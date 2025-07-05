@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 08:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 08:36:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:19 am</title>
+      <description>I70WB / 52MM, I70WB / 52MM Radio: 9C Units: E121, 9C, E33</description>
+      <guid isPermaLink="false">2025-07-05 04:19:00</guid>
+      <pubDate>Sat, 05 Jul 2025 04:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:04 am</title>
       <description>I70WB / RT17, I70WB / RT17 Radio: 9B Units: 9B, A89, E82</description>
@@ -300,12 +306,6 @@
       <description>12600 BLOCK COPPERMINE RD Units: E251, EK224, K33, FS17, R24, CCA89, EMS902, W17, CCM149, BC903, E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, SAF901, EK114, CMD17, TTF, E291, R15, K9, EK134, CCEK84, BC902, K22, RID</description>
       <guid isPermaLink="false">2025-07-03 18:11:00</guid>
       <pubDate>Thu, 03 Jul 2025 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:10 pm</title>
-      <description>12600 BLOCK COPPERMINE RD Units: E251, R24, CCA89, EMS902, W17, CCM149, BC903, E172, E162, E91, E111, CCE101, E132, CCR8, Q11, K17, A169, SAF901, EK114, R15, K9, CCEK84, BC902, RID</description>
-      <guid isPermaLink="false">2025-07-03 18:10:00</guid>
-      <pubDate>Thu, 03 Jul 2025 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
