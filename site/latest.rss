@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 17:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 17:34:06 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:29 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9D Units: ALS4, BC901, BC903, SAF901, E11, E31, 9D, PE23, E121, E291, R3, T50, Q11, A39</description>
+      <guid isPermaLink="false">2025-07-05 13:29:00</guid>
+      <pubDate>Sat, 05 Jul 2025 13:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:20 pm</title>
+      <description>7400 BLOCK KELLYS STORE RD Radio: 9B Units: BR106, 9B</description>
+      <guid isPermaLink="false">2025-07-05 13:20:00</guid>
+      <pubDate>Sat, 05 Jul 2025 13:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:28 pm</title>
       <description>RT15NB / MOTTER AVE Radio: 9B Units: 9B, E11, E31, R2, A29, A19</description>
@@ -294,18 +306,6 @@
       <description>FARMBROOK DR / BRACE CT Radio: 9B Units: A39, PE311, FS31, 9B</description>
       <guid isPermaLink="false">2025-07-03 23:32:00</guid>
       <pubDate>Thu, 03 Jul 2025 23:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:16 pm</title>
-      <description>4600 BLOCK PLUM RD Radio: 9C Units: E251, TW7, FS25, 9C</description>
-      <guid isPermaLink="false">2025-07-03 23:16:00</guid>
-      <pubDate>Thu, 03 Jul 2025 23:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:37 pm</title>
-      <description>11900 BLOCK ARLINGTON MILL RD Radio: 9B Units: 9B, A179, E172, FS17</description>
-      <guid isPermaLink="false">2025-07-03 22:37:00</guid>
-      <pubDate>Thu, 03 Jul 2025 22:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
