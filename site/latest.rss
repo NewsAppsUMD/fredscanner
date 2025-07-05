@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 04:38:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 05:02:06 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:49 am</title>
+      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9I Units: E111, E162, E172, E121, E91, TW7, K1, K33, K22, 9I, BC900, FS11, E201, R24, Q11, A247, A249, ALS33, E221, BC903</description>
+      <guid isPermaLink="false">2025-07-05 00:49:00</guid>
+      <pubDate>Sat, 05 Jul 2025 00:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 12:48 am</title>
+      <description>100 BLOCK S JEFFERSON ST, BESIDE Radio: 9D Units: RID, PE311, E23, R20, E11, SAF901, 9D, A299, EMS902, W3, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902, A339, E33, EMS901, CMD3</description>
+      <guid isPermaLink="false">2025-07-05 00:48:00</guid>
+      <pubDate>Sat, 05 Jul 2025 00:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 12:45 am</title>
+      <description>100 BLOCK S JEFFERSON ST, BESIDE Radio: 9D Units: E23, E11, SAF901, 9D, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902, A339, E33, EMS901</description>
+      <guid isPermaLink="false">2025-07-05 00:45:00</guid>
+      <pubDate>Sat, 05 Jul 2025 00:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 12:42 am</title>
+      <description>100 BLOCK S JEFFERSON ST Radio: 9D Units: E23, E11, SAF901, 9D, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902</description>
+      <guid isPermaLink="false">2025-07-05 00:42:00</guid>
+      <pubDate>Sat, 05 Jul 2025 00:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 12:30 am</title>
       <description>4900 BLOCK CHRISTIAN KEMP DR S Units: FS31, E141</description>
@@ -282,30 +306,6 @@
       <description>5800 BLOCK SHEPHERD DR Units: E33, E152, HM50, A38</description>
       <guid isPermaLink="false">2025-07-03 17:55:00</guid>
       <pubDate>Thu, 03 Jul 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:53 pm</title>
-      <description>5800 BLOCK SHEPHERD DR Radio: 9C Units: E331, FS33, 9C</description>
-      <guid isPermaLink="false">2025-07-03 17:53:00</guid>
-      <pubDate>Thu, 03 Jul 2025 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
-      <description>5800 BLOCK MEADOW DR Units: A18, E11</description>
-      <guid isPermaLink="false">2025-07-03 17:34:00</guid>
-      <pubDate>Thu, 03 Jul 2025 17:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:24 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9B Units: A38, R3, 9B</description>
-      <guid isPermaLink="false">2025-07-03 17:24:00</guid>
-      <pubDate>Thu, 03 Jul 2025 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:09 pm</title>
-      <description>RT15NB / MOTTER AVE(MOTTER AVE), RT15NB / MOTTER AVE Radio: 9B Units: A29, PE23, 9B</description>
-      <guid isPermaLink="false">2025-07-03 16:09:00</guid>
-      <pubDate>Thu, 03 Jul 2025 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
