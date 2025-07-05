@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 12:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 13:08:28 +0000</lastBuildDate>
+    <item>
+      <title>REKINDLE: 8:53 am</title>
+      <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33, 9C</description>
+      <guid isPermaLink="false">2025-07-05 08:53:00</guid>
+      <pubDate>Sat, 05 Jul 2025 08:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 8:47 am</title>
+      <description>8300 BLOCK OLD KILN RD Units: K22, ACE232, W10, CMD10, CCLDR5, ALS30, CCE111, E61, ACE22, E132, E162, E91, E291, R10, ACEK23, EK224, CCEK112, PE102, R6, K10, EK64, EK134, A307, BC902, BC901, SAF901, TTF, K9, ACK22, Q11</description>
+      <guid isPermaLink="false">2025-07-05 08:47:00</guid>
+      <pubDate>Sat, 05 Jul 2025 08:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 8:39 am</title>
       <description>8300 BLOCK OLD KILN RD Units: K22, ACE232, W10, CMD10, CCLDR5, ALS30, E61, ACE22, E132, E162, E91, E291, R10, ACEK23, PE102, R6, K10, EK64, EK134, A307, E221, BC902, BC901, SAF901, TTF, K9, ACK22, Q11</description>
@@ -294,18 +306,6 @@
       <description>DEER PARK RD / BALT CO LINE Units: DSU15</description>
       <guid isPermaLink="false">2025-07-03 20:42:00</guid>
       <pubDate>Thu, 03 Jul 2025 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:20 pm</title>
-      <description>11100 BLOCK LIBERTY RD, SHADE TREES &amp; EVERGREENS Radio: 9B Units: A179, PE102, FS17, 9B</description>
-      <guid isPermaLink="false">2025-07-03 20:20:00</guid>
-      <pubDate>Thu, 03 Jul 2025 20:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:36 pm</title>
-      <description>RT15SB / SUNDAYS LN, RT15SB / SUNDAYS LN Radio: 9I Units: PE23, E111, E221, CMD11, A29, C11, BC901, EMS901, 9I, K22, RE74, A299, ALS2</description>
-      <guid isPermaLink="false">2025-07-03 19:36:00</guid>
-      <pubDate>Thu, 03 Jul 2025 19:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
