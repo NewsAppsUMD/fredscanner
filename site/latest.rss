@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 18:37:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 19:01:36 +0000</lastBuildDate>
+    <item>
+      <title>REKINDLE: 2:50 pm</title>
+      <description>8300 BLOCK OLD KILN RD Radio: 9C Units: PE102, 9C</description>
+      <guid isPermaLink="false">2025-07-05 14:50:00</guid>
+      <pubDate>Sat, 05 Jul 2025 14:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:29 pm</title>
       <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11, 9C</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:100, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: TT4, PE311, FS31, 9C</description>
       <guid isPermaLink="false">2025-07-04 11:09:00</guid>
       <pubDate>Fri, 04 Jul 2025 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
-      <description>APPROX LOC:270N BTWN BENNETT CRK OVRPSS &amp; CROSSOVR HWY Radio: 9B Units: A239, A259, E231, PRE709, 9B, R729</description>
-      <guid isPermaLink="false">2025-07-04 11:08:00</guid>
-      <pubDate>Fri, 04 Jul 2025 11:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
