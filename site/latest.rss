@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 18:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 18:37:37 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:29 pm</title>
+      <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11, 9C</description>
+      <guid isPermaLink="false">2025-07-05 14:29:00</guid>
+      <pubDate>Sat, 05 Jul 2025 14:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:16 pm</title>
+      <description>11600 BLOCK HARPERS FERRY RD SWEET RUN STATE PARK, SWEET RUN STATE PARK Radio: 6B Units: PE23, ALS31, A209</description>
+      <guid isPermaLink="false">2025-07-05 14:16:00</guid>
+      <pubDate>Sat, 05 Jul 2025 14:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATER RESCUE: 2:11 pm</title>
+      <description>37400 BLOCK ADVENTURE CENTER LN Units: BT28, A196, ALS20, BT19</description>
+      <guid isPermaLink="false">2025-07-05 14:11:00</guid>
+      <pubDate>Sat, 05 Jul 2025 14:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:05 pm</title>
+      <description>BERLIN TPKE / TOLLHOUSE RD Radio: 6B Units: E51, A196</description>
+      <guid isPermaLink="false">2025-07-05 14:05:00</guid>
+      <pubDate>Sat, 05 Jul 2025 14:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:40 pm</title>
       <description>7400 BLOCK KELLYS STORE RD Radio: 9B Units: EK224, BR106, 9B</description>
@@ -282,30 +306,6 @@
       <description>APPROX LOC:270N BTWN BENNETT CRK OVRPSS &amp; CROSSOVR HWY Radio: 9B Units: A239, A259, E231, PRE709, 9B, R729</description>
       <guid isPermaLink="false">2025-07-04 11:08:00</guid>
       <pubDate>Fri, 04 Jul 2025 11:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 9:47 am</title>
-      <description>100 BLOCK E MAIN ST Radio: 9C Units: E72, 9C</description>
-      <guid isPermaLink="false">2025-07-04 09:47:00</guid>
-      <pubDate>Fri, 04 Jul 2025 09:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:35 am</title>
-      <description>4000 BLOCK ROCK HALL RD Radio: 9C Units: FS28, BR285, 9C</description>
-      <guid isPermaLink="false">2025-07-04 09:35:00</guid>
-      <pubDate>Fri, 04 Jul 2025 09:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:50 am</title>
-      <description>I70WB / E PATRICK ST(RT144), I70WB / E PATRICK ST Radio: 9D Units: E33, E331, R3, A39, A339, ALS33, EMS901, FS33, 9D</description>
-      <guid isPermaLink="false">2025-07-04 08:50:00</guid>
-      <pubDate>Fri, 04 Jul 2025 08:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:16 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-07-04 05:16:00</guid>
-      <pubDate>Fri, 04 Jul 2025 05:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
