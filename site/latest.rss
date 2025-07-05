@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 11:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 11:31:42 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:26 am</title>
+      <description>6900 BLOCK KIMMEL RD Radio: 9B Units: E172, A179, 9B</description>
+      <guid isPermaLink="false">2025-07-05 07:26:00</guid>
+      <pubDate>Sat, 05 Jul 2025 07:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:34 am</title>
       <description>I70WB / RT40A(BRADDOCK), I70WB / EXIT 49 Radio: 9B Units: E82, R3, A129, A78, E121, FS12, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
       <guid isPermaLink="false">2025-07-03 18:16:00</guid>
       <pubDate>Thu, 03 Jul 2025 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:14 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: PE102</description>
-      <guid isPermaLink="false">2025-07-03 18:14:00</guid>
-      <pubDate>Thu, 03 Jul 2025 18:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
