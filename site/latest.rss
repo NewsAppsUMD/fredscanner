@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Jul 2025 21:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 22:01:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:52 pm</title>
+      <description>100 BLOCK MONOCACY BLVD, FREDERICK WINE HOUSE Radio: 9I Units: ALS4, BC901, EMS901, 9I, E31, R3, A39</description>
+      <guid isPermaLink="false">2025-07-05 17:52:00</guid>
+      <pubDate>Sat, 05 Jul 2025 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>REKINDLE: 5:51 pm</title>
+      <description>8300 BLOCK OLD KILN RD Radio: 9C Units: E102, 9C</description>
+      <guid isPermaLink="false">2025-07-05 17:51:00</guid>
+      <pubDate>Sat, 05 Jul 2025 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 5:40 pm</title>
+      <description>4100 BLOCK FRANCIS SCOTT KEY HWY Units: EK64, BR65</description>
+      <guid isPermaLink="false">2025-07-05 17:40:00</guid>
+      <pubDate>Sat, 05 Jul 2025 17:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:39 pm</title>
+      <description>ROCKY RIDGE RD / OLD MILL RD Radio: 9D Units: EMS902, FS13, E132, R10, A307, PE102, BC902, 9D</description>
+      <guid isPermaLink="false">2025-07-05 17:39:00</guid>
+      <pubDate>Sat, 05 Jul 2025 17:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 5:30 pm</title>
+      <description>4100 BLOCK FRANCIS SCOTT KEY HWY Units: BR65</description>
+      <guid isPermaLink="false">2025-07-05 17:30:00</guid>
+      <pubDate>Sat, 05 Jul 2025 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
       <description>5900 BLOCK ETTERBEEK ST Radio: 9C Units: T4, 9C, FS33, E331</description>
@@ -276,36 +306,6 @@
       <description>MALVERN WAY / MCCLELLAN DR Radio: 9B Units: A299, E291, FS29, 9B</description>
       <guid isPermaLink="false">2025-07-04 16:54:00</guid>
       <pubDate>Fri, 04 Jul 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:29 pm</title>
-      <description>GAMBRILL PARK RD / COXEY BROWN RD Radio: 9D Units: E121, R8, ALS29, E212, BC901, EMS902, 9D, A19</description>
-      <guid isPermaLink="false">2025-07-04 15:29:00</guid>
-      <pubDate>Fri, 04 Jul 2025 15:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:01 pm</title>
-      <description>I70EB / 51MM, I70EB / 51MM Radio: 9D Units: E33, R3, A129, A38, FS12, E121, 9D, ALS23, BC903, EMS902</description>
-      <guid isPermaLink="false">2025-07-04 14:01:00</guid>
-      <pubDate>Fri, 04 Jul 2025 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:40 pm</title>
-      <description>6100 BLOCK FALLFISH CT Radio: 9C Units: FS33, 9C, E331</description>
-      <guid isPermaLink="false">2025-07-04 13:40:00</guid>
-      <pubDate>Fri, 04 Jul 2025 13:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:39 pm</title>
-      <description>APPROX LOC:198 SHOREBIRD ST Radio: 9B Units: A249, E111, FS11, 9B</description>
-      <guid isPermaLink="false">2025-07-04 12:39:00</guid>
-      <pubDate>Fri, 04 Jul 2025 12:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 11:14 am</title>
-      <description>400 BLOCK PROSPECT BLVD, WEIS MARKET - FESTIVAL CENTER Radio: 9C Units: R3, 9C, E33, E11</description>
-      <guid isPermaLink="false">2025-07-04 11:14:00</guid>
-      <pubDate>Fri, 04 Jul 2025 11:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
