@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 17:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 18:02:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:43 pm</title>
+      <description>SHOOKSTOWN RD / LAKEVIEW DR Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2025-07-06 13:43:00</guid>
+      <pubDate>Sun, 06 Jul 2025 13:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
+      <description>2600 BLOCK HERB SHED WAY Radio: 9C Units: T50, FS29, 9C, E291</description>
+      <guid isPermaLink="false">2025-07-06 13:38:00</guid>
+      <pubDate>Sun, 06 Jul 2025 13:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 1:03 pm</title>
       <description>9500 BLOCK OLD NATIONAL PIKE, TREE TREKKERS Radio: 9C Units: E331, FS33, 9C</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S JEFFERSON ST, BESIDE Radio: 9D Units: E23, E11, SAF901, 9D, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902, A339, E33, EMS901</description>
       <guid isPermaLink="false">2025-07-05 00:45:00</guid>
       <pubDate>Sat, 05 Jul 2025 00:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:42 am</title>
-      <description>100 BLOCK S JEFFERSON ST Radio: 9D Units: E23, E11, SAF901, 9D, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902</description>
-      <guid isPermaLink="false">2025-07-05 00:42:00</guid>
-      <pubDate>Sat, 05 Jul 2025 00:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 12:30 am</title>
-      <description>4900 BLOCK CHRISTIAN KEMP DR S Units: FS31, E141</description>
-      <guid isPermaLink="false">2025-07-05 00:30:00</guid>
-      <pubDate>Sat, 05 Jul 2025 00:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
