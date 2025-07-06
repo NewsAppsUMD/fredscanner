@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 15:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 16:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 11:21 am</title>
+      <description>12500 BLOCK WOODSBORO PIKE Radio: 9D Units: SAF901, CCEMS102, CCU8, C9, TR29, BC902, EMS902, HTRP3, CMD9, CCA89, E91, CCR5, CCR8, A169, ALS17, E162, A249, CCM59, C9B, 9D, EMS901</description>
+      <guid isPermaLink="false">2025-07-06 11:21:00</guid>
+      <pubDate>Sun, 06 Jul 2025 11:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:10 am</title>
+      <description>RT15SB / 2.4MM Units: A68, E61</description>
+      <guid isPermaLink="false">2025-07-06 11:10:00</guid>
+      <pubDate>Sun, 06 Jul 2025 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 11:04 am</title>
+      <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Radio: 9D Units: E132, FS09, 9D</description>
+      <guid isPermaLink="false">2025-07-06 11:04:00</guid>
+      <pubDate>Sun, 06 Jul 2025 11:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:54 am</title>
       <description>12500 BLOCK WOODSBORO PIKE Radio: 9D Units: FS09, BC902, EMS902, E91, CCR5, CCR8, A169, ALS17, 9D</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK PICKETT ST Units: E61</description>
       <guid isPermaLink="false">2025-07-04 23:47:00</guid>
       <pubDate>Fri, 04 Jul 2025 23:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 11:25 pm</title>
-      <description>600 BLOCK LEE PL Radio: 91I Units: A19, EMS902, 91I, ALS2, E11</description>
-      <guid isPermaLink="false">2025-07-04 23:25:00</guid>
-      <pubDate>Fri, 04 Jul 2025 23:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:19 pm</title>
-      <description>10400 BLOCK QUILLBACK ST Radio: 9C Units: FS33, E331, 9C</description>
-      <guid isPermaLink="false">2025-07-04 23:19:00</guid>
-      <pubDate>Fri, 04 Jul 2025 23:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 11:11 pm</title>
-      <description>S EAST ST / MONOCACY BLVD, ROUND ABOUT Radio: 9D Units: ALS4, EMS901, 9D, E33, R3, A39, BC903</description>
-      <guid isPermaLink="false">2025-07-04 23:11:00</guid>
-      <pubDate>Fri, 04 Jul 2025 23:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
