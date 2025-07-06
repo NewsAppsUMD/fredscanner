@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 20:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 21:01:44 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:42 pm</title>
+      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, FS31, R3, 9C</description>
+      <guid isPermaLink="false">2025-07-06 16:42:00</guid>
+      <pubDate>Sun, 06 Jul 2025 16:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:41 pm</title>
+      <description>STOTTLEMYER RD / FOX TOWER RD, RT77 / STOTTLEMEYER RD Radio: 9C Units: BR216, FS21, 9C</description>
+      <guid isPermaLink="false">2025-07-06 16:41:00</guid>
+      <pubDate>Sun, 06 Jul 2025 16:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:04 pm</title>
       <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: C5, E51, A198, A196, JCRE1, R19, E201, 9B, R20</description>
@@ -294,18 +306,6 @@
       <description>2700 BLOCK MONOCACY BLVD, CLERESTORY PARK Radio: 9C Units: BR116, FS29, 9C</description>
       <guid isPermaLink="false">2025-07-05 01:33:00</guid>
       <pubDate>Sat, 05 Jul 2025 01:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:00 am</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
-      <guid isPermaLink="false">2025-07-05 01:00:00</guid>
-      <pubDate>Sat, 05 Jul 2025 01:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:49 am</title>
-      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9I Units: E111, E162, E172, E121, E91, TW7, K1, K33, K22, 9I, BC900, FS11, E201, R24, Q11, A247, A249, ALS33, E221, BC903</description>
-      <guid isPermaLink="false">2025-07-05 00:49:00</guid>
-      <pubDate>Sat, 05 Jul 2025 00:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
