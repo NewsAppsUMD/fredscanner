@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 10:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 10:36:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:19 am</title>
+      <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK Radio: 9D Units: E61, SU51, PE102, R10, A309, ALS30, BC902, EMS902, 9D</description>
+      <guid isPermaLink="false">2025-07-06 06:19:00</guid>
+      <pubDate>Sun, 06 Jul 2025 06:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:12 am</title>
+      <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK Radio: 9D Units: PE102, R10, A309, ALS30, BC902, EMS902, 9D</description>
+      <guid isPermaLink="false">2025-07-06 06:12:00</guid>
+      <pubDate>Sun, 06 Jul 2025 06:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:15 am</title>
       <description>3300 BLOCK CENTENNIAL WAY, Bldg:5, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E231, TW7, FS23, 9C</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK CARROLL WALK AVE Radio: 9C Units: E33, 9C</description>
       <guid isPermaLink="false">2025-07-04 22:10:00</guid>
       <pubDate>Fri, 04 Jul 2025 22:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 8:27 pm</title>
-      <description>14200 BLOCK RIDENOUR RD Radio: 9D Units: WCA791, WCM792, WCEK7, E212, BC901, EMS902, FS21, 9D</description>
-      <guid isPermaLink="false">2025-07-04 20:27:00</guid>
-      <pubDate>Fri, 04 Jul 2025 20:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:09 pm</title>
-      <description>3900 BLOCK TURF CT N Radio: 9C Units: E251, 9C, FS25</description>
-      <guid isPermaLink="false">2025-07-04 19:09:00</guid>
-      <pubDate>Fri, 04 Jul 2025 19:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
