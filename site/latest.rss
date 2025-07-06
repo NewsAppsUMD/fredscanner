@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 14:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 14:34:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:16 am</title>
+      <description>YELLOW SPRINGS RD / OLD FARM DR Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2025-07-06 10:16:00</guid>
+      <pubDate>Sun, 06 Jul 2025 10:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:26 am</title>
       <description>5500 BLOCK PRINCE WILLIAM CT Radio: 9C Units: PE311, T4, FS31, 9C</description>
@@ -300,12 +306,6 @@
       <description>S EAST ST / MONOCACY BLVD, ROUND ABOUT Radio: 9D Units: ALS4, EMS901, 9D, E33, R3, A39</description>
       <guid isPermaLink="false">2025-07-04 23:10:00</guid>
       <pubDate>Fri, 04 Jul 2025 23:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:58 pm</title>
-      <description>100 BLOCK E A ST Radio: 9C Units: E51, R19, FS05, 9C</description>
-      <guid isPermaLink="false">2025-07-04 22:58:00</guid>
-      <pubDate>Fri, 04 Jul 2025 22:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
