@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Jul 2025 20:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 20:34:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:04 pm</title>
+      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: C5, E51, A198, A196, JCRE1, R19, E201, 9B, R20</description>
+      <guid isPermaLink="false">2025-07-06 16:04:00</guid>
+      <pubDate>Sun, 06 Jul 2025 16:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
+      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: E51, A198, A196, JCRE1, R19, FS05, 9B</description>
+      <guid isPermaLink="false">2025-07-06 15:59:00</guid>
+      <pubDate>Sun, 06 Jul 2025 15:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:43 pm</title>
       <description>SHOOKSTOWN RD / LAKEVIEW DR Radio: 9B Units: A19, E11, 9B</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9I Units: E111, E162, E172, E121, E91, TW7, K1, K33, K22, 9I, BC900, FS11, E201, R24, Q11, A247, A249, ALS33, E221, BC903</description>
       <guid isPermaLink="false">2025-07-05 00:49:00</guid>
       <pubDate>Sat, 05 Jul 2025 00:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 12:48 am</title>
-      <description>100 BLOCK S JEFFERSON ST, BESIDE Radio: 9D Units: RID, PE311, E23, R20, E11, SAF901, 9D, A299, EMS902, W3, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902, A339, E33, EMS901, CMD3</description>
-      <guid isPermaLink="false">2025-07-05 00:48:00</guid>
-      <pubDate>Sat, 05 Jul 2025 00:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 12:45 am</title>
-      <description>100 BLOCK S JEFFERSON ST, BESIDE Radio: 9D Units: E23, E11, SAF901, 9D, E501, E331, E291, R3, T4, T50, A29, ALS29, BC901, BC902, A339, E33, EMS901</description>
-      <guid isPermaLink="false">2025-07-05 00:45:00</guid>
-      <pubDate>Sat, 05 Jul 2025 00:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
