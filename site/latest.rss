@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 17:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 17:35:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 1:13 pm</title>
+      <description>8000 BLOCK HILLMARK CT Radio: 9C Units: 9C, E311, E31, K1, FS33</description>
+      <guid isPermaLink="false">2025-07-07 13:13:00</guid>
+      <pubDate>Mon, 07 Jul 2025 13:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 1:04 pm</title>
+      <description>500 BLOCK WILSON PL Radio: 9C Units: E501, T50, E11, 9C</description>
+      <guid isPermaLink="false">2025-07-07 13:04:00</guid>
+      <pubDate>Mon, 07 Jul 2025 13:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:21 pm</title>
       <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, TW7, FS14, 9C</description>
@@ -294,18 +306,6 @@
       <description>5900 BLOCK ETTERBEEK ST Radio: 9C Units: T4, 9C, FS33, E331</description>
       <guid isPermaLink="false">2025-07-05 16:54:00</guid>
       <pubDate>Sat, 05 Jul 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 2:50 pm</title>
-      <description>8300 BLOCK OLD KILN RD Radio: 9C Units: PE102, 9C</description>
-      <guid isPermaLink="false">2025-07-05 14:50:00</guid>
-      <pubDate>Sat, 05 Jul 2025 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:29 pm</title>
-      <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11, 9C</description>
-      <guid isPermaLink="false">2025-07-05 14:29:00</guid>
-      <pubDate>Sat, 05 Jul 2025 14:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
