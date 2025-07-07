@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 19:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 19:32:33 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 3:05 pm</title>
+      <description>1000 BLOCK W SEVENTH ST, Apt/Unit:205, DUNKIN DONUTS - FAIRVIEW CENTER Radio: 9C Units: R2, 9C</description>
+      <guid isPermaLink="false">2025-07-07 15:05:00</guid>
+      <pubDate>Mon, 07 Jul 2025 15:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 1:13 pm</title>
       <description>8000 BLOCK HILLMARK CT Radio: 9C Units: 9C, E311, E31, K1, FS33</description>
@@ -300,12 +306,6 @@
       <description>4100 BLOCK FRANCIS SCOTT KEY HWY Units: BR65</description>
       <guid isPermaLink="false">2025-07-05 17:30:00</guid>
       <pubDate>Sat, 05 Jul 2025 17:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
-      <description>5900 BLOCK ETTERBEEK ST Radio: 9C Units: T4, 9C, FS33, E331</description>
-      <guid isPermaLink="false">2025-07-05 16:54:00</guid>
-      <pubDate>Sat, 05 Jul 2025 16:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
