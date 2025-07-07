@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 00:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 01:30:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:11 pm</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9D Units: FS23, 9D, E251, R3, A318, A259, ALS31, BC903, E231, PRE709, EMS901</description>
+      <guid isPermaLink="false">2025-07-06 21:11:00</guid>
+      <pubDate>Sun, 06 Jul 2025 21:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:11 pm</title>
       <description>W SEVENTH ST / MOTTER AVE Radio: 9B Units: A29, PE23, 9B</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK KIMMEL RD Radio: 9B Units: E172, A179, 9B</description>
       <guid isPermaLink="false">2025-07-05 07:26:00</guid>
       <pubDate>Sat, 05 Jul 2025 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:34 am</title>
-      <description>I70WB / RT40A(BRADDOCK), I70WB / EXIT 49 Radio: 9B Units: E82, R3, A129, A78, E121, FS12, 9B</description>
-      <guid isPermaLink="false">2025-07-05 06:34:00</guid>
-      <pubDate>Sat, 05 Jul 2025 06:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
