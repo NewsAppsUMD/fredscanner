@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 13:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 13:40:47 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:10 am</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, TW7, FS14, 9C</description>
+      <guid isPermaLink="false">2025-07-07 09:10:00</guid>
+      <pubDate>Mon, 07 Jul 2025 09:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 8:43 am</title>
       <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: E31, 9C</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / MOTTER AVE Radio: 9B Units: 9B, E11, E31, R2, A29, A19</description>
       <guid isPermaLink="false">2025-07-05 12:28:00</guid>
       <pubDate>Sat, 05 Jul 2025 12:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:43 am</title>
-      <description>1800 BLOCK MONOCACY BLVD, AT HOME - RIVERSIDE CENTER Radio: 9C Units: 9C, FS11, BR116</description>
-      <guid isPermaLink="false">2025-07-05 11:43:00</guid>
-      <pubDate>Sat, 05 Jul 2025 11:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
