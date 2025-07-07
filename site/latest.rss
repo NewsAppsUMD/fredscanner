@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 04:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 04:41:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:33 am</title>
+      <description>100 BLOCK E ALL SAINTS ST, ALL SAINTS PARKING DECK Radio: 9C Units: 9C, E31, T4</description>
+      <guid isPermaLink="false">2025-07-07 00:33:00</guid>
+      <pubDate>Mon, 07 Jul 2025 00:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 10:38 pm</title>
       <description>400 BLOCK GRANT PL Radio: 9C Units: E11, E501, T50, 9C</description>
@@ -300,12 +306,6 @@
       <description>8300 BLOCK OLD KILN RD Units: K22, ACE232, W10, CMD10, CCLDR5, ALS30, E61, ACE22, E132, E162, E91, E291, R10, ACEK23, PE102, R6, K10, EK64, EK134, A307, E221, BC902, BC901, SAF901, TTF, K9, ACK22, Q11</description>
       <guid isPermaLink="false">2025-07-05 08:39:00</guid>
       <pubDate>Sat, 05 Jul 2025 08:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 8:38 am</title>
-      <description>8300 BLOCK OLD KILN RD Units: CMD10, CCLDR5, ALS30, E61, E132, E162, E91, E291, R10, PE102, R6, K10, EK64, EK134, A307, E221, BC902, BC901, SAF901, Q11</description>
-      <guid isPermaLink="false">2025-07-05 08:38:00</guid>
-      <pubDate>Sat, 05 Jul 2025 08:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
