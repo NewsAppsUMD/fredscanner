@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 08:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 09:03:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:40 am</title>
+      <description>100 BLOCK HARPERS WAY Radio: 9C Units: T50, FS29, 9C, E291</description>
+      <guid isPermaLink="false">2025-07-07 04:40:00</guid>
+      <pubDate>Mon, 07 Jul 2025 04:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:54 am</title>
       <description>3400 BLOCK FLATWOODS DR Radio: 9C Units: E231, TW7, FS23, 9C</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111, FS11, 9C</description>
       <guid isPermaLink="false">2025-07-05 10:13:00</guid>
       <pubDate>Sat, 05 Jul 2025 10:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 8:53 am</title>
-      <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33, 9C</description>
-      <guid isPermaLink="false">2025-07-05 08:53:00</guid>
-      <pubDate>Sat, 05 Jul 2025 08:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
