@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Jul 2025 23:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 23:33:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:21 pm</title>
+      <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9B Units: PE102, 9B, A309</description>
+      <guid isPermaLink="false">2025-07-07 19:21:00</guid>
+      <pubDate>Mon, 07 Jul 2025 19:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:59 pm</title>
       <description>8700 BLOCK VICTORY CT Radio: 9C Units: E111, Q11, FS11, 9C</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK MADISON ST, LINCOLN ELEMENTARY SCHOOL Radio: 9B Units: A39, 9B, ALS4, EMS901</description>
       <guid isPermaLink="false">2025-07-05 20:09:00</guid>
       <pubDate>Sat, 05 Jul 2025 20:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:02 pm</title>
-      <description>200 BLOCK MADISON ST, LINCOLN ELEMENTARY SCHOOL Radio: 9B Units: A39, 9B, E31</description>
-      <guid isPermaLink="false">2025-07-05 20:02:00</guid>
-      <pubDate>Sat, 05 Jul 2025 20:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
