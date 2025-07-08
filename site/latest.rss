@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 03:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 03:45:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:30 pm</title>
+      <description>12000 BLOCK MAIN ST, Apt/Unit:3 Radio: 9C Units: Q11, FS17, 9C, E172</description>
+      <guid isPermaLink="false">2025-07-07 23:30:00</guid>
+      <pubDate>Mon, 07 Jul 2025 23:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:20 pm</title>
+      <description>100 BLOCK E ALL SAINTS ST, ALL SAINTS PARKING DECK Radio: 9C Units: T4, 9C, E31</description>
+      <guid isPermaLink="false">2025-07-07 23:20:00</guid>
+      <pubDate>Mon, 07 Jul 2025 23:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:46 pm</title>
       <description>CATOCTIN HOLLOW RD / CATOCTIN MOUNTAIN HWY Radio: 9C Units: BR106, 9C</description>
@@ -294,18 +306,6 @@
       <description>S JEFFERSON ST / W SOUTH ST Radio: 9C Units: BR35, 9C</description>
       <guid isPermaLink="false">2025-07-06 07:09:00</guid>
       <pubDate>Sun, 06 Jul 2025 07:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:19 am</title>
-      <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK Radio: 9D Units: E61, SU51, PE102, R10, A309, ALS30, BC902, EMS902, 9D</description>
-      <guid isPermaLink="false">2025-07-06 06:19:00</guid>
-      <pubDate>Sun, 06 Jul 2025 06:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:12 am</title>
-      <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK Radio: 9D Units: PE102, R10, A309, ALS30, BC902, EMS902, 9D</description>
-      <guid isPermaLink="false">2025-07-06 06:12:00</guid>
-      <pubDate>Sun, 06 Jul 2025 06:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
