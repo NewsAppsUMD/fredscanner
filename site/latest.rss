@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 18:40:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 19:02:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:49 pm</title>
+      <description>7300 BLOCK GUILFORD DR Radio: 9C Units: E31, T4, FS31, 9C</description>
+      <guid isPermaLink="false">2025-07-08 14:49:00</guid>
+      <pubDate>Tue, 08 Jul 2025 14:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:48 pm</title>
+      <description>4700 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: 9C, BR205, FS31</description>
+      <guid isPermaLink="false">2025-07-08 14:48:00</guid>
+      <pubDate>Tue, 08 Jul 2025 14:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:46 pm</title>
+      <description>9000 BLOCK ALLINGTON MANOR CIR W Units: PE311, FS31</description>
+      <guid isPermaLink="false">2025-07-08 14:46:00</guid>
+      <pubDate>Tue, 08 Jul 2025 14:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 2:29 pm</title>
       <description>12800 BLOCK BERLIN TPKE FS612 NEW LOVETTSVILLE VFD STATION SITE, FS612 NEW LOVETTSVILLE VFD STATION SITE Radio: 6B Units: E51, A196</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - MEMORIAL HALL Radio: 9C Units: PE23, T50, 9C</description>
       <guid isPermaLink="false">2025-07-06 19:17:00</guid>
       <pubDate>Sun, 06 Jul 2025 19:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:37 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9B Units: 9B, A19, E11</description>
-      <guid isPermaLink="false">2025-07-06 17:37:00</guid>
-      <pubDate>Sun, 06 Jul 2025 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 4:42 pm</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, FS31, R3, 9C</description>
-      <guid isPermaLink="false">2025-07-06 16:42:00</guid>
-      <pubDate>Sun, 06 Jul 2025 16:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:41 pm</title>
-      <description>STOTTLEMYER RD / FOX TOWER RD, RT77 / STOTTLEMEYER RD Radio: 9C Units: BR216, FS21, 9C</description>
-      <guid isPermaLink="false">2025-07-06 16:41:00</guid>
-      <pubDate>Sun, 06 Jul 2025 16:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
