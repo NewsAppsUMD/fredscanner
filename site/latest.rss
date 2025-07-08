@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Jul 2025 13:41:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 14:02:01 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:45 am</title>
+      <description>5500 BLOCK WOODVILLE RD, MOUNT AIRY AUTO &amp; TRUCK PARTS Radio: 9C Units: FS15, 9C, BR156</description>
+      <guid isPermaLink="false">2025-07-08 09:45:00</guid>
+      <pubDate>Tue, 08 Jul 2025 09:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:27 am</title>
       <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, 9C</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK URBANA PIKE, HYATT CENTER Radio: 9I Units: A239, PRE709, EMS901, FS23, 9I</description>
       <guid isPermaLink="false">2025-07-06 12:26:00</guid>
       <pubDate>Sun, 06 Jul 2025 12:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 11:21 am</title>
-      <description>12500 BLOCK WOODSBORO PIKE Radio: 9D Units: SAF901, CCEMS102, CCU8, C9, TR29, BC902, EMS902, HTRP3, CMD9, CCA89, E91, CCR5, CCR8, A169, ALS17, E162, A249, CCM59, C9B, 9D, EMS901</description>
-      <guid isPermaLink="false">2025-07-06 11:21:00</guid>
-      <pubDate>Sun, 06 Jul 2025 11:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
