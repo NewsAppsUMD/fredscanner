@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 12:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 13:12:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:08 am</title>
+      <description>I270NB / RT85(RT85), I270NB / RT85 Radio: 9B Units: PE311, R3, A318, E11, A18, FS31, 9B</description>
+      <guid isPermaLink="false">2025-07-09 09:08:00</guid>
+      <pubDate>Wed, 09 Jul 2025 09:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 8:29 am</title>
       <description>16900 BLOCK EYLERS VALLEY RD Radio: 9C Units: FRE193, EK64, 9C, BR65</description>
@@ -294,12 +300,6 @@
       <description>1300 BLOCK MONOCACY CROSSING PKWY Radio: 9C Units: R20, E51, E201, R19, 9C, C5B</description>
       <guid isPermaLink="false">2025-07-07 11:47:00</guid>
       <pubDate>Mon, 07 Jul 2025 11:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:46 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: T4, E111, Q11, 9C</description>
-      <guid isPermaLink="false">2025-07-07 11:46:00</guid>
-      <pubDate>Mon, 07 Jul 2025 11:46:00 -0400</pubDate>
     </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:46 am</title>
