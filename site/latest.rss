@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Jul 2025 18:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 18:40:48 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 2:36 pm</title>
+      <description>200 BLOCK POLARIS DR Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-07-09 14:36:00</guid>
+      <pubDate>Wed, 09 Jul 2025 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:50 pm</title>
       <description>3500 BLOCK S MOUNTAIN RD, DOWN THE LANE Radio: 9C Units: BR55, FS05, 9C</description>
@@ -300,12 +306,6 @@
       <description>7100 BLOCK GUILFORD DR Radio: 9B Units: E311, FS31, 9B, A319</description>
       <guid isPermaLink="false">2025-07-07 16:34:00</guid>
       <pubDate>Mon, 07 Jul 2025 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 3:05 pm</title>
-      <description>1000 BLOCK W SEVENTH ST, Apt/Unit:205, DUNKIN DONUTS - FAIRVIEW CENTER Radio: 9C Units: R2, 9C</description>
-      <guid isPermaLink="false">2025-07-07 15:05:00</guid>
-      <pubDate>Mon, 07 Jul 2025 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
