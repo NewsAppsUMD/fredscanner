@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 13:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 14:02:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:59 am</title>
+      <description>9200 BLOCK DEVILBISS BRIDGE RD, HERITAGE FARM PARK Radio: 9C Units: E162, Q11, FS11, 9C</description>
+      <guid isPermaLink="false">2025-07-10 09:59:00</guid>
+      <pubDate>Thu, 10 Jul 2025 09:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 9:31 am</title>
       <description>10400 BLOCK WHITEROSE DR Radio: 9C Units: E152, FS15, 9C</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK HOLIDAY DR Radio: 9C Units: 9C, PE311, T4, FS31</description>
       <guid isPermaLink="false">2025-07-08 11:12:00</guid>
       <pubDate>Tue, 08 Jul 2025 11:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:45 am</title>
-      <description>5500 BLOCK WOODVILLE RD, MOUNT AIRY AUTO &amp; TRUCK PARTS Radio: 9C Units: FS15, 9C, BR156</description>
-      <guid isPermaLink="false">2025-07-08 09:45:00</guid>
-      <pubDate>Tue, 08 Jul 2025 09:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
