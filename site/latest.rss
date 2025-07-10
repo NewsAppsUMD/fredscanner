@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 14:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 15:02:16 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 10:52 am</title>
+      <description>600 BLOCK E CHURCH ST, Apt/Unit:C, FHH MATERIALS CENTER Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-07-10 10:52:00</guid>
+      <pubDate>Thu, 10 Jul 2025 10:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:59 am</title>
       <description>9200 BLOCK DEVILBISS BRIDGE RD, HERITAGE FARM PARK Radio: 9C Units: E162, Q11, FS11, 9C</description>
@@ -300,12 +306,6 @@
       <description>RAY SMITH RD / QUINN ORCHARD RD Radio: 9C Units: E331, FS33, 9C</description>
       <guid isPermaLink="false">2025-07-08 12:31:00</guid>
       <pubDate>Tue, 08 Jul 2025 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:12 am</title>
-      <description>5400 BLOCK HOLIDAY DR Radio: 9C Units: 9C, PE311, T4, FS31</description>
-      <guid isPermaLink="false">2025-07-08 11:12:00</guid>
-      <pubDate>Tue, 08 Jul 2025 11:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
