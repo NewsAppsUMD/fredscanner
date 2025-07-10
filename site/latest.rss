@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 15:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 15:36:25 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 11:19 am</title>
+      <description>2900 BLOCK IVY MEADOW DR Units: E231</description>
+      <guid isPermaLink="false">2025-07-10 11:19:00</guid>
+      <pubDate>Thu, 10 Jul 2025 11:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:09 am</title>
+      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: EK204, T4, FS20, 9C</description>
+      <guid isPermaLink="false">2025-07-10 11:09:00</guid>
+      <pubDate>Thu, 10 Jul 2025 11:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:52 am</title>
       <description>600 BLOCK E CHURCH ST, Apt/Unit:C, FHH MATERIALS CENTER Radio: 9C Units: PE23, 9C</description>
@@ -294,18 +306,6 @@
       <description>42400 BLOCK LOVETTSVILLE RD Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2025-07-08 13:55:00</guid>
       <pubDate>Tue, 08 Jul 2025 13:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 1:15 pm</title>
-      <description>POTOMAC RIVER / RT340 BRIDGE Units: A198, ALS20, C5B, EMS902, E51, SOBC900, BT19</description>
-      <guid isPermaLink="false">2025-07-08 13:15:00</guid>
-      <pubDate>Tue, 08 Jul 2025 13:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:31 pm</title>
-      <description>RAY SMITH RD / QUINN ORCHARD RD Radio: 9C Units: E331, FS33, 9C</description>
-      <guid isPermaLink="false">2025-07-08 12:31:00</guid>
-      <pubDate>Tue, 08 Jul 2025 12:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
