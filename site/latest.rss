@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 00:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 01:29:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:51 pm</title>
+      <description>7300 BLOCK GUILFORD DR Units: PE311, FS31</description>
+      <guid isPermaLink="false">2025-07-09 20:51:00</guid>
+      <pubDate>Wed, 09 Jul 2025 20:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 8:08 pm</title>
       <description>6800 BLOCK E SHAVANO RD Units: E172, E331, Q11, E152</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR Radio: 9C Units: PE311, T4, FS31, 9C</description>
       <guid isPermaLink="false">2025-07-07 22:03:00</guid>
       <pubDate>Mon, 07 Jul 2025 22:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:21 pm</title>
-      <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9B Units: PE102, 9B, A309</description>
-      <guid isPermaLink="false">2025-07-07 19:21:00</guid>
-      <pubDate>Mon, 07 Jul 2025 19:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
