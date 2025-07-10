@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 23:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 23:33:46 +0000</lastBuildDate>
+    <item>
+      <title>STABBING - ALS: 7:24 pm</title>
+      <description>1200 BLOCK DAPHNE WAY Units: A299, ALS29, E291, BC902, EMS902, FS29</description>
+      <guid isPermaLink="false">2025-07-10 19:24:00</guid>
+      <pubDate>Thu, 10 Jul 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:21 pm</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Units: E231, E251, PRE709, R3, A238, A259, ALS23, BC901, EMS901, FS23</description>
+      <guid isPermaLink="false">2025-07-10 19:21:00</guid>
+      <pubDate>Thu, 10 Jul 2025 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:06 pm</title>
+      <description>ENGLISH MUFFIN WAY / WEDGEWOOD BLVD Units: BR35, FS31, PE311</description>
+      <guid isPermaLink="false">2025-07-10 19:06:00</guid>
+      <pubDate>Thu, 10 Jul 2025 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 6:41 pm</title>
       <description>800 BLOCK BADGER AVE Units: T50, E291, PE23, E31, E111, R3, ALS2, E221, BC902, BC903, E501, TW1, A299, SAF901, FS29</description>
@@ -288,24 +306,6 @@
       <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: E31, R24, A18, A39, FS29, 9B, E501</description>
       <guid isPermaLink="false">2025-07-08 15:56:00</guid>
       <pubDate>Tue, 08 Jul 2025 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:53 pm</title>
-      <description>RT15SB / RT26, RT15SB / RT26 Radio: 9B Units: E501, A29, FS29, 9B, R2, A299, E291</description>
-      <guid isPermaLink="false">2025-07-08 15:53:00</guid>
-      <pubDate>Tue, 08 Jul 2025 15:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
-      <description>OLD RECEIVER RD / DOWN HILL RUN Radio: 9B Units: A19, 9B, E11</description>
-      <guid isPermaLink="false">2025-07-08 15:38:00</guid>
-      <pubDate>Tue, 08 Jul 2025 15:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:49 pm</title>
-      <description>7300 BLOCK GUILFORD DR Radio: 9C Units: E31, T4, FS31, 9C</description>
-      <guid isPermaLink="false">2025-07-08 14:49:00</guid>
-      <pubDate>Tue, 08 Jul 2025 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
