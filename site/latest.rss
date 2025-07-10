@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 21:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 22:01:57 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:35 pm</title>
+      <description>7100 BLOCK STARMOUNT CT Radio: 9C Units: E111, FS11, 9C</description>
+      <guid isPermaLink="false">2025-07-10 17:35:00</guid>
+      <pubDate>Thu, 10 Jul 2025 17:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 5:17 pm</title>
       <description>100 BLOCK BELLA LANE Radio: TAC1OPS Units: E82, TAC1OPS</description>
@@ -300,12 +306,6 @@
       <description>12800 BLOCK BERLIN TPKE FS612 NEW LOVETTSVILLE VFD STATION SITE, FS612 NEW LOVETTSVILLE VFD STATION SITE Radio: 6B Units: E51, A196</description>
       <guid isPermaLink="false">2025-07-08 14:29:00</guid>
       <pubDate>Tue, 08 Jul 2025 14:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:10 pm</title>
-      <description>600 BLOCK E E ST Units: R20, FS05, R19, A196, PE612, C5C, E201, SAF901</description>
-      <guid isPermaLink="false">2025-07-08 14:10:00</guid>
-      <pubDate>Tue, 08 Jul 2025 14:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
