@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 22:35:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:41 pm</title>
+      <description>800 BLOCK BADGER AVE Units: T50, E291, PE23, E31, E111, R3, ALS2, E221, BC902, BC903, E501, TW1, A299, SAF901, FS29</description>
+      <guid isPermaLink="false">2025-07-10 18:41:00</guid>
+      <pubDate>Thu, 10 Jul 2025 18:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:23 pm</title>
       <description>I70WB/36MM Units: E82</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK GUILFORD DR Radio: 9C Units: E31, T4, FS31, 9C</description>
       <guid isPermaLink="false">2025-07-08 14:49:00</guid>
       <pubDate>Tue, 08 Jul 2025 14:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:48 pm</title>
-      <description>4700 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: 9C, BR205, FS31</description>
-      <guid isPermaLink="false">2025-07-08 14:48:00</guid>
-      <pubDate>Tue, 08 Jul 2025 14:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
