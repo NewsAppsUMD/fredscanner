@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 20:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 20:35:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:05 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: 9B, E11, E31, R3, A39, A29</description>
+      <guid isPermaLink="false">2025-07-11 16:05:00</guid>
+      <pubDate>Fri, 11 Jul 2025 16:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:33 pm</title>
       <description>EXECUTIVE WAY / WESTVIEW DR, BASKIN ROBBINS / DUNKIN DONUTS - WESTVIEW Radio: 9B Units: PE311, A318, FS31, 9B</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP I27100 BLOCKNB TO RT8100 BLOCK RAMP Units: A238, E231, FS23</description>
       <guid isPermaLink="false">2025-07-09 11:55:00</guid>
       <pubDate>Wed, 09 Jul 2025 11:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:24 am</title>
-      <description>3700 BLOCK JEFFERSON PIKE, JEFFERSON MARKET Units: A209, E201</description>
-      <guid isPermaLink="false">2025-07-09 10:24:00</guid>
-      <pubDate>Wed, 09 Jul 2025 10:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
