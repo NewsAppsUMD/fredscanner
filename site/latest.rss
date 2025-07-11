@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 11:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 11:33:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:18 am</title>
+      <description>5300 BLOCK KINGS CT Radio: 9C Units: 9C, EK204, TW1, FS20</description>
+      <guid isPermaLink="false">2025-07-11 07:18:00</guid>
+      <pubDate>Fri, 11 Jul 2025 07:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:22 am</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9D Units: PE311, PRE709, R3, E231, A238, A319, ALS23, EMS901, FS23, 9D</description>
@@ -300,12 +306,6 @@
       <description>11000 BLOCK COUNTRY CLUB RD Radio: 9C Units: FS15, 9C, E152</description>
       <guid isPermaLink="false">2025-07-08 21:02:00</guid>
       <pubDate>Tue, 08 Jul 2025 21:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:08 pm</title>
-      <description>7300 BLOCK GUILFORD DR Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-07-08 19:08:00</guid>
-      <pubDate>Tue, 08 Jul 2025 19:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
