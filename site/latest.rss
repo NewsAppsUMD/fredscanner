@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 00:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 01:30:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:09 pm</title>
+      <description>3500 BLOCK CAMPUS DR, BRIGHT EYES CHILD CARE - URBANA Units: TW7, E231, FS23</description>
+      <guid isPermaLink="false">2025-07-10 21:09:00</guid>
+      <pubDate>Thu, 10 Jul 2025 21:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>STABBING - ALS: 7:24 pm</title>
       <description>1200 BLOCK DAPHNE WAY Units: A299, ALS29, E291, BC902, EMS902, FS29</description>
@@ -300,12 +306,6 @@
       <description>8800 BLOCK DEVILBISS BRIDGE RD Radio: 9C Units: E162, EK114, BR226, 9C</description>
       <guid isPermaLink="false">2025-07-08 16:06:00</guid>
       <pubDate>Tue, 08 Jul 2025 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:56 pm</title>
-      <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: E31, R24, A18, A39, FS29, 9B, E501</description>
-      <guid isPermaLink="false">2025-07-08 15:56:00</guid>
-      <pubDate>Tue, 08 Jul 2025 15:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
