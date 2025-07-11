@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 08:39:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 09:02:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:37 am</title>
+      <description>I270NB / RT85, I270NB / RT85 Radio: 9D Units: E11, PE311, R3, A18, A318, ALS31, EMS901, FS31, 9D</description>
+      <guid isPermaLink="false">2025-07-11 04:37:00</guid>
+      <pubDate>Fri, 11 Jul 2025 04:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:01 am</title>
       <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:B101 Radio: 9C Units: T4, FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK OVERTON CIR, Apt/Unit:28C, WELLINGTON TRACE APTS - 6700 BLOCK OVERTON CIR Radio: 9C Units: PE311, E31, R14, FS31, 9C</description>
       <guid isPermaLink="false">2025-07-08 18:49:00</guid>
       <pubDate>Tue, 08 Jul 2025 18:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:10 pm</title>
-      <description>14600 BLOCK CARS MILL RD, STATION HC013 - GLENWOOD Units: E152</description>
-      <guid isPermaLink="false">2025-07-08 17:10:00</guid>
-      <pubDate>Tue, 08 Jul 2025 17:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
