@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Jul 2025 16:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 16:38:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:32 pm</title>
+      <description>I70EB / REST AREA (MOUNT AIRY), I70EB / REST AREA Radio: 9C Units: E152, CCE12, FS15, 9C</description>
+      <guid isPermaLink="false">2025-07-11 12:32:00</guid>
+      <pubDate>Fri, 11 Jul 2025 12:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 12:30 pm</title>
+      <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9C Units: E72, WCE161, 9C</description>
+      <guid isPermaLink="false">2025-07-11 12:30:00</guid>
+      <pubDate>Fri, 11 Jul 2025 12:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:15 pm</title>
+      <description>BARLOW-GREENMOUNT RD / RIDGE RD Units: E61, A68, A69</description>
+      <guid isPermaLink="false">2025-07-11 12:15:00</guid>
+      <pubDate>Fri, 11 Jul 2025 12:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:49 am</title>
       <description>I70WB / RT85, I70WB / RT85 Radio: 9D Units: E31, 9D, A18, ALS4, BC901, EMS901, A39, E11, R3</description>
@@ -288,24 +306,6 @@
       <description>1300 BLOCK SAINT MICHAELS RD Units: E152, R15</description>
       <guid isPermaLink="false">2025-07-09 09:19:00</guid>
       <pubDate>Wed, 09 Jul 2025 09:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:08 am</title>
-      <description>I270NB / RT85(RT85), I270NB / RT85 Radio: 9B Units: PE311, R3, A318, E11, A18, FS31, 9B</description>
-      <guid isPermaLink="false">2025-07-09 09:08:00</guid>
-      <pubDate>Wed, 09 Jul 2025 09:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 8:29 am</title>
-      <description>16900 BLOCK EYLERS VALLEY RD Radio: 9C Units: FRE193, EK64, 9C, BR65</description>
-      <guid isPermaLink="false">2025-07-09 08:29:00</guid>
-      <pubDate>Wed, 09 Jul 2025 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:22 am</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: 9B, A38, R3</description>
-      <guid isPermaLink="false">2025-07-09 08:22:00</guid>
-      <pubDate>Wed, 09 Jul 2025 08:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
