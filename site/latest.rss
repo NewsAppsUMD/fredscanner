@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 00:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 00:46:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:23 pm</title>
+      <description>6900 BLOCK ENGLISH MUFFIN WAY, Bldg:A, HERC RENTALS Radio: 9B Units: R14, FS31, 9B, A318</description>
+      <guid isPermaLink="false">2025-07-11 20:23:00</guid>
+      <pubDate>Fri, 11 Jul 2025 20:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 8:03 pm</title>
       <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9C Units: T4, E31, 9C, PE311, R3</description>
@@ -300,12 +306,6 @@
       <description>6800 BLOCK E SHAVANO RD Units: E172, E331, Q11, E152</description>
       <guid isPermaLink="false">2025-07-09 20:08:00</guid>
       <pubDate>Wed, 09 Jul 2025 20:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 8:03 pm</title>
-      <description>6800 BLOCK E SHAVANO RD Units: FS15, E331, Q11, E152</description>
-      <guid isPermaLink="false">2025-07-09 20:03:00</guid>
-      <pubDate>Wed, 09 Jul 2025 20:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
