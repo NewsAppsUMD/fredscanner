@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 14:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 15:02:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:48 am</title>
+      <description>9200 BLOCK DEVILBISS BRIDGE RD Radio: 9B Units: E111, FS11, A249, 9B</description>
+      <guid isPermaLink="false">2025-07-12 10:48:00</guid>
+      <pubDate>Sat, 12 Jul 2025 10:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:01 am</title>
       <description>14900 BLOCK SABILLASVILLE RD, CAMP AIRY Radio: 9C Units: 9C, BR106</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: EK204, T4, FS20, 9C</description>
       <guid isPermaLink="false">2025-07-10 11:09:00</guid>
       <pubDate>Thu, 10 Jul 2025 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 10:52 am</title>
-      <description>600 BLOCK E CHURCH ST, Apt/Unit:C, FHH MATERIALS CENTER Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-07-10 10:52:00</guid>
-      <pubDate>Thu, 10 Jul 2025 10:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
