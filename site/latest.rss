@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 21:33:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 22:02:13 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:50 pm</title>
+      <description>3000 BLOCK GREEN VALLEY RD Radio: 9D Units: 9D, E251, R15, A259, PRE709, EMS901, FS25</description>
+      <guid isPermaLink="false">2025-07-12 17:50:00</guid>
+      <pubDate>Sat, 12 Jul 2025 17:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:42 pm</title>
       <description>RT40 / BOWERS RD (W), RT40 / BOWERS RD Radio: 9D Units: E121, R3, A129, ALS4, BC903, EMS902, FS12, 9D</description>
@@ -300,12 +306,6 @@
       <description>I70WB/36MM Units: E82</description>
       <guid isPermaLink="false">2025-07-10 18:23:00</guid>
       <pubDate>Thu, 10 Jul 2025 18:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:01 pm</title>
-      <description>6300 BLOCK REMINGTON CT Units: E331, E31, R3, FS33</description>
-      <guid isPermaLink="false">2025-07-10 18:01:00</guid>
-      <pubDate>Thu, 10 Jul 2025 18:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
