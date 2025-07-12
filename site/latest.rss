@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Jul 2025 22:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 23:02:20 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:46 pm</title>
+      <description>6200 BLOCK ALAN LINTON BLVD W Radio: 9D Units: 9D, PE311, EK204, C1, E31, E501, R20, TW1, T50, A318, E141, ALS31, BC903, BC901, SAF901, FS31, R15</description>
+      <guid isPermaLink="false">2025-07-12 18:46:00</guid>
+      <pubDate>Sat, 12 Jul 2025 18:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:44 pm</title>
+      <description>6200 BLOCK ALAN LINTON BLVD W Radio: 9D Units: 9D, PE311, EK204, C1, E31, E501, R20, TW1, T50, A318, E141, ALS31, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-07-12 18:44:00</guid>
+      <pubDate>Sat, 12 Jul 2025 18:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:40 pm</title>
+      <description>6200 BLOCK ALAN LINTON BLVD W Units: PE311, E141, EK204, FS31, E31, E501, R20, TW1, T50, A318, ALS31, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-07-12 18:40:00</guid>
+      <pubDate>Sat, 12 Jul 2025 18:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:37 pm</title>
+      <description>8400 BLOCK SPIRES WAY, Bldg:CC, FREDERICK CLASSICAL CHARTER SCHOOL - RIVERSIDE CORPORATE PARK Radio: 9C Units: PE23, T4, FS11, 9C</description>
+      <guid isPermaLink="false">2025-07-12 18:37:00</guid>
+      <pubDate>Sat, 12 Jul 2025 18:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 6:30 pm</title>
       <description>2600 BLOCK MONOCACY FORD RD Radio: 9I Units: CMD29, R3, E111, U11, E291, TR29, A29, BC902, EMS902, ALS29, 9I, Q11, BT29, BT19, A249</description>
@@ -282,30 +306,6 @@
       <description>I270NB / RT85, I270NB / RT85 Radio: 9D Units: E11, PE311, R3, A18, A318, ALS31, EMS901, FS31, 9D</description>
       <guid isPermaLink="false">2025-07-11 04:37:00</guid>
       <pubDate>Fri, 11 Jul 2025 04:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:01 am</title>
-      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:B101 Radio: 9C Units: T4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-07-11 01:01:00</guid>
-      <pubDate>Fri, 11 Jul 2025 01:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:49 pm</title>
-      <description>CATOCTIN AVE / BIRMINGHAM DR Units: BR35</description>
-      <guid isPermaLink="false">2025-07-10 21:49:00</guid>
-      <pubDate>Thu, 10 Jul 2025 21:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:09 pm</title>
-      <description>3500 BLOCK CAMPUS DR, BRIGHT EYES CHILD CARE - URBANA Units: TW7, E231, FS23</description>
-      <guid isPermaLink="false">2025-07-10 21:09:00</guid>
-      <pubDate>Thu, 10 Jul 2025 21:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 7:24 pm</title>
-      <description>1200 BLOCK DAPHNE WAY Units: A299, ALS29, E291, BC902, EMS902, FS29</description>
-      <guid isPermaLink="false">2025-07-10 19:24:00</guid>
-      <pubDate>Thu, 10 Jul 2025 19:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
