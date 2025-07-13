@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 14:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 15:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:40 am</title>
+      <description>7600 BLOCK OLD RECEIVER RD Radio: 9B Units: A19, E11, 9B</description>
+      <guid isPermaLink="false">2025-07-13 10:40:00</guid>
+      <pubDate>Sun, 13 Jul 2025 10:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 10:36 am</title>
+      <description>600 BLOCK GALA WAY Radio: 9C Units: E152, FS15, 9C</description>
+      <guid isPermaLink="false">2025-07-13 10:36:00</guid>
+      <pubDate>Sun, 13 Jul 2025 10:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:50 am</title>
       <description>5800 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK SHOPPING CENTER Radio: 9C Units: PE311, FS31, 9C, TW1</description>
@@ -294,18 +306,6 @@
       <description>7500 BLOCK FINGERBOARD RD, PH 2 Radio: 9D Units: E231, R14, A238, ALS31, BC901, EMS902, FS23, 9D</description>
       <guid isPermaLink="false">2025-07-11 17:44:00</guid>
       <pubDate>Fri, 11 Jul 2025 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 4:34 pm</title>
-      <description>1000 BLOCKF HEATHER RIDGE DR, Apt/Unit:311 Radio: 9C Units: T50, FS29, 9C, E291, PE23</description>
-      <guid isPermaLink="false">2025-07-11 16:34:00</guid>
-      <pubDate>Fri, 11 Jul 2025 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:05 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: 9B, E11, E31, R3, A39, A29</description>
-      <guid isPermaLink="false">2025-07-11 16:05:00</guid>
-      <pubDate>Fri, 11 Jul 2025 16:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
