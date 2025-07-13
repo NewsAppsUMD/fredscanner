@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 15:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 16:02:09 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 11:58 am</title>
+      <description>100 BLOCK S MAPLE AVE, THE RESIDENCES AT RAILROAD SQUARE Radio: 9C Units: E51, R19, FS05, 9C</description>
+      <guid isPermaLink="false">2025-07-13 11:58:00</guid>
+      <pubDate>Sun, 13 Jul 2025 11:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:57 am</title>
+      <description>200 BLOCK SHOREBIRD ST, Bldg:C, CAVA - MARKET SQUARE Radio: 9C Units: 9C, E111, Q11, FS11</description>
+      <guid isPermaLink="false">2025-07-13 11:57:00</guid>
+      <pubDate>Sun, 13 Jul 2025 11:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
+      <description>RT144 / MEADOW RD, RT144 / MEADOW RD Radio: 9B Units: E331, FS33, 9B, A339</description>
+      <guid isPermaLink="false">2025-07-13 11:53:00</guid>
+      <pubDate>Sun, 13 Jul 2025 11:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:40 am</title>
       <description>7600 BLOCK OLD RECEIVER RD Radio: 9B Units: A19, E11, 9B</description>
@@ -288,24 +306,6 @@
       <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9C Units: E61, FS06, 9C</description>
       <guid isPermaLink="false">2025-07-11 18:39:00</guid>
       <pubDate>Fri, 11 Jul 2025 18:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:57 pm</title>
-      <description>7500 BLOCK FINGERBOARD RD, PH 2 Radio: 9D Units: C23, TW7, E231, CMD23, R14, A238, ALS31, EMS902, 9D, A149</description>
-      <guid isPermaLink="false">2025-07-11 17:57:00</guid>
-      <pubDate>Fri, 11 Jul 2025 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:55 pm</title>
-      <description>CORPORATE DR / NEW DESIGN RD, IAO Radio: 9B Units: A319, PE311, FS31, 9B</description>
-      <guid isPermaLink="false">2025-07-11 17:55:00</guid>
-      <pubDate>Fri, 11 Jul 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:44 pm</title>
-      <description>7500 BLOCK FINGERBOARD RD, PH 2 Radio: 9D Units: E231, R14, A238, ALS31, BC901, EMS902, FS23, 9D</description>
-      <guid isPermaLink="false">2025-07-11 17:44:00</guid>
-      <pubDate>Fri, 11 Jul 2025 17:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
