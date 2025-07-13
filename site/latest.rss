@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 13:38:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 14:01:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:50 am</title>
+      <description>5800 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK SHOPPING CENTER Radio: 9C Units: PE311, FS31, 9C, TW1</description>
+      <guid isPermaLink="false">2025-07-13 09:50:00</guid>
+      <pubDate>Sun, 13 Jul 2025 09:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:43 am</title>
+      <description>400 BLOCK SAGNER AVE, ATTABOY BREWERY AND TAPROOM Radio: 9C Units: 9C, E31, T4</description>
+      <guid isPermaLink="false">2025-07-13 09:43:00</guid>
+      <pubDate>Sun, 13 Jul 2025 09:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:03 am</title>
       <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: TW7, E231</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: 9B, E11, E31, R3, A39, A29</description>
       <guid isPermaLink="false">2025-07-11 16:05:00</guid>
       <pubDate>Fri, 11 Jul 2025 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:33 pm</title>
-      <description>EXECUTIVE WAY / WESTVIEW DR, BASKIN ROBBINS / DUNKIN DONUTS - WESTVIEW Radio: 9B Units: PE311, A318, FS31, 9B</description>
-      <guid isPermaLink="false">2025-07-11 15:33:00</guid>
-      <pubDate>Fri, 11 Jul 2025 15:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
-      <description>LIBERTY RD / WATERSIDE DR, **PH2 Radio: 9B Units: A38, Q11, FS11, 9B</description>
-      <guid isPermaLink="false">2025-07-11 13:00:00</guid>
-      <pubDate>Fri, 11 Jul 2025 13:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
