@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 11:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 11:32:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:24 am</title>
+      <description>2100 BLOCKB WHITTIER DR Units: E11, T50</description>
+      <guid isPermaLink="false">2025-07-13 07:24:00</guid>
+      <pubDate>Sun, 13 Jul 2025 07:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:10 am</title>
       <description>5000 BLOCK BUCKEYSTOWN PIKE, Bldg:1, BELLE NAILS - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: T4, FS31, 9C, PE311</description>
@@ -300,12 +306,6 @@
       <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9C Units: E72, WCE161, 9C</description>
       <guid isPermaLink="false">2025-07-11 12:30:00</guid>
       <pubDate>Fri, 11 Jul 2025 12:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 12:15 pm</title>
-      <description>BARLOW-GREENMOUNT RD / RIDGE RD Units: E61, A68, A69</description>
-      <guid isPermaLink="false">2025-07-11 12:15:00</guid>
-      <pubDate>Fri, 11 Jul 2025 12:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
