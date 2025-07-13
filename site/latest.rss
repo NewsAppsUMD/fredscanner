@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 12:43:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 13:09:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:03 am</title>
+      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: TW7, E231</description>
+      <guid isPermaLink="false">2025-07-13 09:03:00</guid>
+      <pubDate>Sun, 13 Jul 2025 09:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:02 am</title>
+      <description>7100 BLOCK SUNDAYS LN Radio: 9C Units: E291, FS29, 9C</description>
+      <guid isPermaLink="false">2025-07-13 09:02:00</guid>
+      <pubDate>Sun, 13 Jul 2025 09:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:24 am</title>
       <description>2100 BLOCKB WHITTIER DR Units: E11, T50</description>
@@ -294,18 +306,6 @@
       <description>LIBERTY RD / WATERSIDE DR, **PH2 Radio: 9B Units: A38, Q11, FS11, 9B</description>
       <guid isPermaLink="false">2025-07-11 13:00:00</guid>
       <pubDate>Fri, 11 Jul 2025 13:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:32 pm</title>
-      <description>I70EB / REST AREA (MOUNT AIRY), I70EB / REST AREA Radio: 9C Units: E152, CCE12, FS15, 9C</description>
-      <guid isPermaLink="false">2025-07-11 12:32:00</guid>
-      <pubDate>Fri, 11 Jul 2025 12:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:30 pm</title>
-      <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9C Units: E72, WCE161, 9C</description>
-      <guid isPermaLink="false">2025-07-11 12:30:00</guid>
-      <pubDate>Fri, 11 Jul 2025 12:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
