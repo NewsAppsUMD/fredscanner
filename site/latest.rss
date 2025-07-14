@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Jul 2025 23:34:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 00:08:50 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:40 pm</title>
+      <description>200 BLOCK E FIFTH ST, BEHIND Radio: 9C Units: PE23, 9C</description>
+      <guid isPermaLink="false">2025-07-13 19:40:00</guid>
+      <pubDate>Sun, 13 Jul 2025 19:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:57 pm</title>
       <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - MEMORIAL HALL Radio: 9C Units: 9C, PE23, TW1</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Radio: 9C Units: E51, FS05, 9C</description>
       <guid isPermaLink="false">2025-07-11 23:27:00</guid>
       <pubDate>Fri, 11 Jul 2025 23:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:05 pm</title>
-      <description>8400 BLOCK DEVON LN Radio: 9C Units: 9C, E111, E162, Q11, K22, E221, K9</description>
-      <guid isPermaLink="false">2025-07-11 21:05:00</guid>
-      <pubDate>Fri, 11 Jul 2025 21:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
