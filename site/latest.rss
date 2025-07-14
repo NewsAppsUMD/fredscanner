@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 21:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 21:33:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:17 pm</title>
+      <description>9700 BLOCK WYNDHAM DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-07-14 17:17:00</guid>
+      <pubDate>Mon, 14 Jul 2025 17:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
       <description>5200 BLOCK BLACK LOCUST DR, Bldg:D Radio: 9C Units: PE311, TW1</description>
@@ -300,12 +306,6 @@
       <description>I270NB / RT85(RT85), I270NB / RT85 Radio: 9D Units: PE311, E11, R3, 9D, A318, A19, BC901, EMS901, FS31</description>
       <guid isPermaLink="false">2025-07-12 21:35:00</guid>
       <pubDate>Sat, 12 Jul 2025 21:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:56 pm</title>
-      <description>9500 BLOCK HYDE PL Radio: 9C Units: E231, 9C, TW7, FS23</description>
-      <guid isPermaLink="false">2025-07-12 20:56:00</guid>
-      <pubDate>Sat, 12 Jul 2025 20:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
