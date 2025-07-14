@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 16:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 16:39:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:19 pm</title>
+      <description>RT194 / GLADE RD, RT194 / GLADE RD Radio: 9B Units: A169, E162</description>
+      <guid isPermaLink="false">2025-07-14 12:19:00</guid>
+      <pubDate>Mon, 14 Jul 2025 12:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE UNIT ASSISTING OTHER AGENCY: 11:54 am</title>
       <description>100 BLOCK S COURT ST, STATION 4 Units: T4</description>
@@ -300,12 +306,6 @@
       <description>MONOCACY RIVER / LIBERTY RD Radio: 9I Units: E111, BC902, SAF901, EMS902, ALS29, FS11, 9I, PE23, R24, Q11, BT29, BT15, BT19, A299, A249</description>
       <guid isPermaLink="false">2025-07-12 18:02:00</guid>
       <pubDate>Sat, 12 Jul 2025 18:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:01 pm</title>
-      <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9B Units: 9B, E291, TW1, FS29</description>
-      <guid isPermaLink="false">2025-07-12 18:01:00</guid>
-      <pubDate>Sat, 12 Jul 2025 18:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
