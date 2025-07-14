@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 22:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 22:36:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:16 pm</title>
+      <description>500 BLOCK LEAHY CT, BUCKINGHAM CONDOS - 500 BLOCK LEAHY CT Units: PE311, T4, FS31</description>
+      <guid isPermaLink="false">2025-07-14 18:16:00</guid>
+      <pubDate>Mon, 14 Jul 2025 18:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:12 pm</title>
+      <description>100 BLOCK TUSCANNEY DR, OLD FARM VET Units: T50, E11</description>
+      <guid isPermaLink="false">2025-07-14 18:12:00</guid>
+      <pubDate>Mon, 14 Jul 2025 18:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:36 pm</title>
       <description>14100 BLOCK PLEASANT VALLEY RD, WOLFES ORCHARD Radio: 9C Units: BR216</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK SHOREBIRD ST, Bldg:C Radio: 9C Units: Q11, FS11, E111, 9C</description>
       <guid isPermaLink="false">2025-07-13 01:35:00</guid>
       <pubDate>Sun, 13 Jul 2025 01:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 12:20 am</title>
-      <description>10200 BLOCK QUILLBACK ST Radio: 9C Units: 9C, E152, R15, E331, FS33</description>
-      <guid isPermaLink="false">2025-07-13 00:20:00</guid>
-      <pubDate>Sun, 13 Jul 2025 00:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:04 pm</title>
-      <description>3600 BLOCK STONE BARN DR Radio: 9C Units: FS23, 9C, BR235</description>
-      <guid isPermaLink="false">2025-07-12 23:04:00</guid>
-      <pubDate>Sat, 12 Jul 2025 23:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
