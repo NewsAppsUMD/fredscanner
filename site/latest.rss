@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 15:36:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 16:02:17 +0000</lastBuildDate>
+    <item>
+      <title>FIRE UNIT ASSISTING OTHER AGENCY: 11:54 am</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: T4</description>
+      <guid isPermaLink="false">2025-07-14 11:54:00</guid>
+      <pubDate>Mon, 14 Jul 2025 11:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:31 am</title>
       <description>3700 BLOCK KEMPTOWN CHURCH RD Units: A159, E251, EMS902</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9B Units: 9B, E291, TW1, FS29</description>
       <guid isPermaLink="false">2025-07-12 18:01:00</guid>
       <pubDate>Sat, 12 Jul 2025 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:50 pm</title>
-      <description>3000 BLOCK GREEN VALLEY RD Radio: 9D Units: 9D, E251, R15, A259, PRE709, EMS901, FS25</description>
-      <guid isPermaLink="false">2025-07-12 17:50:00</guid>
-      <pubDate>Sat, 12 Jul 2025 17:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
