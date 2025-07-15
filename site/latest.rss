@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Jul 2025 23:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 00:08:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:04 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM Units: E82, A129, A89, BC903, EMS901, FS12, E121, R3, ALS4</description>
+      <guid isPermaLink="false">2025-07-14 20:04:00</guid>
+      <pubDate>Mon, 14 Jul 2025 20:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:02 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM Units: E82, E121, R3, A89</description>
+      <guid isPermaLink="false">2025-07-14 20:02:00</guid>
+      <pubDate>Mon, 14 Jul 2025 20:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:49 pm</title>
       <description>5700 BLOCK BUCKEYSTOWN PIKE, THE LUBE CENTER - EVERGREEN POINT Units: PE311, T4</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCK SUNDAYS LN Radio: 9C Units: E291, FS29, 9C</description>
       <guid isPermaLink="false">2025-07-13 09:02:00</guid>
       <pubDate>Sun, 13 Jul 2025 09:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:24 am</title>
-      <description>2100 BLOCKB WHITTIER DR Units: E11, T50</description>
-      <guid isPermaLink="false">2025-07-13 07:24:00</guid>
-      <pubDate>Sun, 13 Jul 2025 07:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:10 am</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, Bldg:1, BELLE NAILS - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: T4, FS31, 9C, PE311</description>
-      <guid isPermaLink="false">2025-07-13 04:10:00</guid>
-      <pubDate>Sun, 13 Jul 2025 04:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
