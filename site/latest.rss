@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Jul 2025 13:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 14:02:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
+      <description>1200 BLOCK E PATRICK ST, 2A GUNS AND AMMO Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2025-07-15 09:58:00</guid>
+      <pubDate>Tue, 15 Jul 2025 09:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
       <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: 9C, PE311, TW1, FS31</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, E82, FS12, 9C</description>
       <guid isPermaLink="false">2025-07-13 12:48:00</guid>
       <pubDate>Sun, 13 Jul 2025 12:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:42 pm</title>
-      <description>GREEN VALLEY RD / PRICE RD Radio: 9B Units: 9B, A259, E251, FS25</description>
-      <guid isPermaLink="false">2025-07-13 12:42:00</guid>
-      <pubDate>Sun, 13 Jul 2025 12:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
