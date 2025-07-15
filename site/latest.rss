@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Jul 2025 16:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 17:35:48 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 1:21 pm</title>
+      <description>9600 BLOCK MAIN ST VICTORY HAVEN SENIOR APTS, VICTORY HAVEN SENIOR APTS Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-07-15 13:21:00</guid>
+      <pubDate>Tue, 15 Jul 2025 13:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:13 pm</title>
+      <description>200 BLOCK FIFTH AVE Radio: 9C Units: E51, R19</description>
+      <guid isPermaLink="false">2025-07-15 13:13:00</guid>
+      <pubDate>Tue, 15 Jul 2025 13:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:07 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, PE311, R3, A39, A19</description>
+      <guid isPermaLink="false">2025-07-15 13:07:00</guid>
+      <pubDate>Tue, 15 Jul 2025 13:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:04 pm</title>
+      <description>10600 BLOCK WHISKEY RD Radio: 9B Units: A238, E251</description>
+      <guid isPermaLink="false">2025-07-15 13:04:00</guid>
+      <pubDate>Tue, 15 Jul 2025 13:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:55 pm</title>
+      <description>500 BLOCK S MARKET ST, MOUNT OLIVET CEMETERY Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2025-07-15 12:55:00</guid>
+      <pubDate>Tue, 15 Jul 2025 12:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:03 pm</title>
       <description>BAUGHMANS LN / KEY PKWY Radio: 9B Units: A18, E11</description>
@@ -276,36 +306,6 @@
       <description>6600 BLOCK S CLIFTON RD Radio: 9C Units: 9C, E121, FS12</description>
       <guid isPermaLink="false">2025-07-13 21:43:00</guid>
       <pubDate>Sun, 13 Jul 2025 21:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 9:05 pm</title>
-      <description>POTOMAC RIVER / BASS ROCKS Radio: TAC3OPS Units: BT19, A196, ALS20, TAC3OPS, BT28</description>
-      <guid isPermaLink="false">2025-07-13 21:05:00</guid>
-      <pubDate>Sun, 13 Jul 2025 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:40 pm</title>
-      <description>200 BLOCK E FIFTH ST, BEHIND Radio: 9C Units: PE23, 9C</description>
-      <guid isPermaLink="false">2025-07-13 19:40:00</guid>
-      <pubDate>Sun, 13 Jul 2025 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:57 pm</title>
-      <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - MEMORIAL HALL Radio: 9C Units: 9C, PE23, TW1</description>
-      <guid isPermaLink="false">2025-07-13 17:57:00</guid>
-      <pubDate>Sun, 13 Jul 2025 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 4:41 pm</title>
-      <description>6700 BLOCK AMERICAN HOLLY DR Radio: 9C Units: E31, E11, R3, FS31, 9C</description>
-      <guid isPermaLink="false">2025-07-13 16:41:00</guid>
-      <pubDate>Sun, 13 Jul 2025 16:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:38 pm</title>
-      <description>100 BLOCK S MAPLE AVE, THE RESIDENCES AT RAILROAD SQUARE Radio: 9C Units: R19, FS05, R20, 9C</description>
-      <guid isPermaLink="false">2025-07-13 13:38:00</guid>
-      <pubDate>Sun, 13 Jul 2025 13:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
