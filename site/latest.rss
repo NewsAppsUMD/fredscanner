@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 12:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:44:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:24 am</title>
+      <description>2400 BLOCK MONOCACY BLVD, GLADE VALLEY ANIMAL HOSPITAL Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-07-16 08:24:00</guid>
+      <pubDate>Wed, 16 Jul 2025 08:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ALARM: 7:31 am</title>
       <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E152, HM50, BC902, TT4</description>
@@ -300,12 +306,6 @@
       <description>9700 BLOCK WYNDHAM DR Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-07-14 17:17:00</guid>
       <pubDate>Mon, 14 Jul 2025 17:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Bldg:D Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-07-14 16:54:00</guid>
-      <pubDate>Mon, 14 Jul 2025 16:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
