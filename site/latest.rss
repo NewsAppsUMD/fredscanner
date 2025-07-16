@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 00:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 01:30:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:13 pm</title>
+      <description>8700 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-07-15 21:13:00</guid>
+      <pubDate>Tue, 15 Jul 2025 21:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 7:26 pm</title>
       <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Radio: 9C Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Units: A735, EMS902, FS23, E231, PE735, R3, A238, ALS23</description>
       <guid isPermaLink="false">2025-07-14 09:29:00</guid>
       <pubDate>Mon, 14 Jul 2025 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:48 am</title>
-      <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-07-14 08:48:00</guid>
-      <pubDate>Mon, 14 Jul 2025 08:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
