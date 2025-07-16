@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 11:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:03:18 +0000</lastBuildDate>
+    <item>
+      <title>GAS ALARM: 7:31 am</title>
+      <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E152, HM50, BC902, TT4</description>
+      <guid isPermaLink="false">2025-07-16 07:31:00</guid>
+      <pubDate>Wed, 16 Jul 2025 07:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 6:42 am</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: HM33</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, Bldg:D Radio: 9C Units: PE311, TW1</description>
       <guid isPermaLink="false">2025-07-14 16:54:00</guid>
       <pubDate>Mon, 14 Jul 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:36 pm</title>
-      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, FS12, 9B, E82, R3, A198, A89</description>
-      <guid isPermaLink="false">2025-07-14 16:36:00</guid>
-      <pubDate>Mon, 14 Jul 2025 16:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
