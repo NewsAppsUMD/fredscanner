@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Jul 2025 10:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 11:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:42 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: HM33</description>
+      <guid isPermaLink="false">2025-07-16 06:42:00</guid>
+      <pubDate>Wed, 16 Jul 2025 06:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 6:37 am</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: E231, A238, ALS31, BC901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, FS12, 9B, E82, R3, A198, A89</description>
       <guid isPermaLink="false">2025-07-14 16:36:00</guid>
       <pubDate>Mon, 14 Jul 2025 16:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:49 pm</title>
-      <description>9200 BLOCK HARMONY RD Radio: 9D Units: BC902, EMS902, E72, 9D, R8, A78, ALS8</description>
-      <guid isPermaLink="false">2025-07-14 15:49:00</guid>
-      <pubDate>Mon, 14 Jul 2025 15:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
