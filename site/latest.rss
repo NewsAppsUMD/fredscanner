@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 02:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 03:05:33 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:34 pm</title>
+      <description>100 BLOCK TOLLHOUSE CT Radio: 9B Units: E11, E31, TT4</description>
+      <guid isPermaLink="false">2025-07-16 22:34:00</guid>
+      <pubDate>Wed, 16 Jul 2025 22:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:21 pm</title>
       <description>1900 BLOCK WETTERHORN CT Radio: 9C Units: E291, E501, HM33, HMSU33, A299, ALS29, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK CARRIAGE CT Radio: 9D Units: A299, ALS29, E291, BC903, EMS902</description>
       <guid isPermaLink="false">2025-07-15 15:41:00</guid>
       <pubDate>Tue, 15 Jul 2025 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:21 pm</title>
-      <description>9600 BLOCK MAIN ST VICTORY HAVEN SENIOR APTS, VICTORY HAVEN SENIOR APTS Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2025-07-15 13:21:00</guid>
-      <pubDate>Tue, 15 Jul 2025 13:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
