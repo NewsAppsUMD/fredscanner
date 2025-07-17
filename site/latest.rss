@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 20:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 20:36:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
+      <description>RT340WB / LANDER RD, RT340EB / LANDER RD Radio: 9B Units: E201, E11, R20, A19, A209</description>
+      <guid isPermaLink="false">2025-07-17 16:12:00</guid>
+      <pubDate>Thu, 17 Jul 2025 16:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:28 pm</title>
       <description>10000 BLOCK HANSONVILLE RD, CACTUS FLATS Radio: 9B Units: A229, E291, EK224</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - EJECTION: 11:25 pm</title>
       <description>9200 BLOCK SHAFERS MILL DR, SHAFERS MILL VILLAGE FITNESS CENTER Radio: 9D Units: W23</description>
-      <guid isPermaLink="false">2025-07-15 23:25:00</guid>
-      <pubDate>Tue, 15 Jul 2025 23:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 11:25 pm</title>
-      <description>9200 BLOCK SHAFERS MILL DR, SHAFERS MILL VILLAGE FITNESS CENTER Radio: 9D Units: E251, ALS31, PE311, TW7</description>
       <guid isPermaLink="false">2025-07-15 23:25:00</guid>
       <pubDate>Tue, 15 Jul 2025 23:25:00 -0400</pubDate>
     </item>
