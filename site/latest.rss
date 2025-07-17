@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 10:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 10:38:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:25 am</title>
+      <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD Radio: 9D Units: E61, R6, A69, PE102, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-07-17 06:25:00</guid>
+      <pubDate>Thu, 17 Jul 2025 06:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 12:27 am</title>
       <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:B110 Radio: 9C Units: PE311, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>OSPREY WAY / MILL POND RD Radio: 9C Units: E291</description>
       <guid isPermaLink="false">2025-07-15 16:56:00</guid>
       <pubDate>Tue, 15 Jul 2025 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 4:24 pm</title>
-      <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Units: E162</description>
-      <guid isPermaLink="false">2025-07-15 16:24:00</guid>
-      <pubDate>Tue, 15 Jul 2025 16:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
