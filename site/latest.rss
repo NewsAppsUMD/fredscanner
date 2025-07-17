@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 04:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 04:42:45 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 12:27 am</title>
+      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:B110 Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2025-07-17 00:27:00</guid>
+      <pubDate>Thu, 17 Jul 2025 00:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 10:34 pm</title>
       <description>100 BLOCK TOLLHOUSE CT Radio: 9B Units: E11, E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK WOODSBORO PIKE, STATION 9 Units: E162</description>
       <guid isPermaLink="false">2025-07-15 16:24:00</guid>
       <pubDate>Tue, 15 Jul 2025 16:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 3:41 pm</title>
-      <description>1700 BLOCK CARRIAGE CT Radio: 9D Units: A299, ALS29, E291, BC903, EMS902</description>
-      <guid isPermaLink="false">2025-07-15 15:41:00</guid>
-      <pubDate>Tue, 15 Jul 2025 15:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
