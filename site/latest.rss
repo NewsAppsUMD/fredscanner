@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 00:08:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 00:46:38 +0000</lastBuildDate>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 8:37 pm</title>
+      <description>3500 BLOCK CASAMENTO PL Units: E201, EK204, T5</description>
+      <guid isPermaLink="false">2025-07-16 20:37:00</guid>
+      <pubDate>Wed, 16 Jul 2025 20:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 8:11 pm</title>
+      <description>JAMES MONROE HWY / SAINT CLAIR LN Radio: 6B Units: E141</description>
+      <guid isPermaLink="false">2025-07-16 20:11:00</guid>
+      <pubDate>Wed, 16 Jul 2025 20:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:10 pm</title>
+      <description>600 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: E51</description>
+      <guid isPermaLink="false">2025-07-16 20:10:00</guid>
+      <pubDate>Wed, 16 Jul 2025 20:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - PERIPHERAL: 8:01 pm</title>
       <description>4600 BLOCK LANDER RD, STATION 20 Radio: 9B Units: E201, R20, A198</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK FIFTH AVE Radio: 9C Units: E51, R19</description>
       <guid isPermaLink="false">2025-07-15 13:13:00</guid>
       <pubDate>Tue, 15 Jul 2025 13:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:07 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, PE311, R3, A39, A19</description>
-      <guid isPermaLink="false">2025-07-15 13:07:00</guid>
-      <pubDate>Tue, 15 Jul 2025 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:04 pm</title>
-      <description>10600 BLOCK WHISKEY RD Radio: 9B Units: A238, E251</description>
-      <guid isPermaLink="false">2025-07-15 13:04:00</guid>
-      <pubDate>Tue, 15 Jul 2025 13:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:55 pm</title>
-      <description>500 BLOCK S MARKET ST, MOUNT OLIVET CEMETERY Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2025-07-15 12:55:00</guid>
-      <pubDate>Tue, 15 Jul 2025 12:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
