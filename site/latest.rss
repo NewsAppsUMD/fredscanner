@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Jul 2025 12:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 12:44:06 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:24 am</title>
+      <description>300 BLOCK S JEFFERSON ST, SEVEN ELEVEN - CATOCTIN PARK Radio: 9B Units: TT4</description>
+      <guid isPermaLink="false">2025-07-17 08:24:00</guid>
+      <pubDate>Thu, 17 Jul 2025 08:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:01 am</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE, EVERGREEN SQUARE Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-07-17 08:01:00</guid>
+      <pubDate>Thu, 17 Jul 2025 08:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:25 am</title>
       <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD Radio: 9D Units: E61, R6, A69, PE102, BC902, EMS902</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK ARNOLDTOWN RD, MOUNTAINSCAPE ANGUS FARM Radio: 9B Units: A79, RE74</description>
       <guid isPermaLink="false">2025-07-15 17:06:00</guid>
       <pubDate>Tue, 15 Jul 2025 17:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:02 pm</title>
-      <description>HARRISVILLE RD / WOODVILLE RD Radio: 9D Units: RE171, A179, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-15 17:02:00</guid>
-      <pubDate>Tue, 15 Jul 2025 17:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:56 pm</title>
-      <description>OSPREY WAY / MILL POND RD Radio: 9C Units: E291</description>
-      <guid isPermaLink="false">2025-07-15 16:56:00</guid>
-      <pubDate>Tue, 15 Jul 2025 16:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
