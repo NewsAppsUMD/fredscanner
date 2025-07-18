@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 11:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 11:33:55 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 7:27 am</title>
+      <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2025-07-18 07:27:00</guid>
+      <pubDate>Fri, 18 Jul 2025 07:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:29 am</title>
       <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>I70EB / MOUNT TABOR RD, I70EB / MOUNT TABOR RD Units: HM33, HMSU33</description>
       <guid isPermaLink="false">2025-07-16 10:18:00</guid>
       <pubDate>Wed, 16 Jul 2025 10:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:10 am</title>
-      <description>900 BLOCK SHENANDOAH VIEW PKWY Radio: 9C Units: E51</description>
-      <guid isPermaLink="false">2025-07-16 10:10:00</guid>
-      <pubDate>Wed, 16 Jul 2025 10:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
