@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 15:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 15:36:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:18 am</title>
+      <description>100 BLOCK E CHURCH ST Radio: 9C Units: E291</description>
+      <guid isPermaLink="false">2025-07-18 11:18:00</guid>
+      <pubDate>Fri, 18 Jul 2025 11:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 11:14 am</title>
+      <description>N MARKET ST / E CHURCH ST, CANDY KITCHEN Radio: 9I Units: A38, ALS31, EMS901</description>
+      <guid isPermaLink="false">2025-07-18 11:14:00</guid>
+      <pubDate>Fri, 18 Jul 2025 11:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:04 am</title>
+      <description>5900 BLOCK OAKCROSS LN Units: E331, E152, E31, PE311, PE23, R15, T23, A339, ALS4, BC901, BC902, SAF901, TT4</description>
+      <guid isPermaLink="false">2025-07-18 11:04:00</guid>
+      <pubDate>Fri, 18 Jul 2025 11:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 8:14 am</title>
       <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: TT4</description>
@@ -288,24 +306,6 @@
       <description>14500 BLOCK STOTTLEMYER RD Units: BR216</description>
       <guid isPermaLink="false">2025-07-16 11:54:00</guid>
       <pubDate>Wed, 16 Jul 2025 11:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 11:48 am</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-07-16 11:48:00</guid>
-      <pubDate>Wed, 16 Jul 2025 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:27 am</title>
-      <description>4300 BLOCK TUSCARORA RD Radio: 9B Units: A149, E281</description>
-      <guid isPermaLink="false">2025-07-16 11:27:00</guid>
-      <pubDate>Wed, 16 Jul 2025 11:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:05 am</title>
-      <description>BUCKEYSTOWN PIKE / 270S BTWN RT 85S OFF RAMP &amp; BUCKEYSTOWN PKE BRDGE HWY Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-07-16 11:05:00</guid>
-      <pubDate>Wed, 16 Jul 2025 11:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
