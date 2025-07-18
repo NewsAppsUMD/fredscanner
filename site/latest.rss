@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 18:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 19:02:51 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:52 pm</title>
+      <description>7900 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: E291</description>
+      <guid isPermaLink="false">2025-07-18 14:52:00</guid>
+      <pubDate>Fri, 18 Jul 2025 14:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 2:51 pm</title>
+      <description>RT144 / MONOCACY RIVER, RT144 / MONOCACY RIVER Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-07-18 14:51:00</guid>
+      <pubDate>Fri, 18 Jul 2025 14:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 1:07 pm</title>
       <description>LANDER BOAT RAMP, LANDER BOAT RAMP Units: BT15</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HAMILTON AVE Radio: 9D Units: A39, PE311, EMS901, TT4</description>
       <guid isPermaLink="false">2025-07-16 16:52:00</guid>
       <pubDate>Wed, 16 Jul 2025 16:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:45 pm</title>
-      <description>100 BLOCK E PATRICK ST, Apt/Unit:4 Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2025-07-16 16:45:00</guid>
-      <pubDate>Wed, 16 Jul 2025 16:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:41 pm</title>
-      <description>6900 BLOCK SLATE LN Radio: 9C Units: BR125</description>
-      <guid isPermaLink="false">2025-07-16 13:41:00</guid>
-      <pubDate>Wed, 16 Jul 2025 13:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
