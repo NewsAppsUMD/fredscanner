@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 00:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 02:39:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:23 pm</title>
+      <description>1900 BLOCK ROCKY WAY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-07-17 22:23:00</guid>
+      <pubDate>Thu, 17 Jul 2025 22:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:55 pm</title>
+      <description>ROSEMONT AVE / BIGGS AVE Radio: 9B Units: BC903</description>
+      <guid isPermaLink="false">2025-07-17 20:55:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:54 pm</title>
+      <description>ROSEMONT AVE / BIGGS AVE Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2025-07-17 20:54:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:32 pm</title>
       <description>NOLANDS FERRY PARKING LOT, NOLANDS FERRY PARKING LOT Radio: 9C Units: BR285</description>
@@ -288,24 +306,6 @@
       <description>3500 BLOCK CAMPUS DR, URBANA DAYCARE Radio: 9C Units: E231, TW7</description>
       <guid isPermaLink="false">2025-07-16 09:29:00</guid>
       <pubDate>Wed, 16 Jul 2025 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:00 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291, E501, R2</description>
-      <guid isPermaLink="false">2025-07-16 09:00:00</guid>
-      <pubDate>Wed, 16 Jul 2025 09:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:24 am</title>
-      <description>2400 BLOCK MONOCACY BLVD, GLADE VALLEY ANIMAL HOSPITAL Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-07-16 08:24:00</guid>
-      <pubDate>Wed, 16 Jul 2025 08:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ALARM: 7:31 am</title>
-      <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E152, HM50, BC902, TT4</description>
-      <guid isPermaLink="false">2025-07-16 07:31:00</guid>
-      <pubDate>Wed, 16 Jul 2025 07:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
