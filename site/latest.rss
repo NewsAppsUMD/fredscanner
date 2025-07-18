@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 16:39:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 17:03:54 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 12:57 pm</title>
+      <description>LANDER BOAT RAMP, LANDER BOAT RAMP Radio: 9D Units: E201, R20, R19, TR29, BT28, BT19, BT29, A209, A197, ALS4, BC903, EMS901, E51</description>
+      <guid isPermaLink="false">2025-07-18 12:57:00</guid>
+      <pubDate>Fri, 18 Jul 2025 12:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 11:43 am</title>
       <description>RT26 / WATERSIDE DR, RT26 / WATERSIDE DR Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK ROSEMONT AVE Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2025-07-16 12:01:00</guid>
       <pubDate>Wed, 16 Jul 2025 12:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:00 pm</title>
-      <description>14500 BLOCK STOTTLEMYER RD Units: E102</description>
-      <guid isPermaLink="false">2025-07-16 12:00:00</guid>
-      <pubDate>Wed, 16 Jul 2025 12:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
