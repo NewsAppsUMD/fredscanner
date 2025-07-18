@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 00:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 00:46:43 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:32 pm</title>
+      <description>NOLANDS FERRY PARKING LOT, NOLANDS FERRY PARKING LOT Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2025-07-17 20:32:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:31 pm</title>
+      <description>5200 BLOCK RED MAPLE DR Radio: 9D Units: PE311, E31, PE23, E141, E501, R3, TW1, A19, ALS4, BC903, BC901, SAF901, TT4</description>
+      <guid isPermaLink="false">2025-07-17 20:31:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:30 pm</title>
+      <description>5200 BLOCK RED MAPLE DR Radio: 9D Units: PE311, E31, PE23, E141, E501, R3, TW1, A19, ALS4, BC903, BC901, SAF901, TT4</description>
+      <guid isPermaLink="false">2025-07-17 20:30:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 8:29 pm</title>
+      <description>NOLANDS FERRY PARKING LOT, NOLANDS FERRY PARKING LOT Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2025-07-17 20:29:00</guid>
+      <pubDate>Thu, 17 Jul 2025 20:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:30 pm</title>
       <description>I70EB / RT144 (FRED), I70EB / RT144 Radio: 9C Units: E31, E331</description>
@@ -282,30 +306,6 @@
       <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E152, HM50, BC902, TT4</description>
       <guid isPermaLink="false">2025-07-16 07:31:00</guid>
       <pubDate>Wed, 16 Jul 2025 07:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:42 am</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: HM33</description>
-      <guid isPermaLink="false">2025-07-16 06:42:00</guid>
-      <pubDate>Wed, 16 Jul 2025 06:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:37 am</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: E231, A238, ALS31, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-07-16 06:37:00</guid>
-      <pubDate>Wed, 16 Jul 2025 06:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:59 am</title>
-      <description>100 BLOCK LEFEVER ST Units: TW6</description>
-      <guid isPermaLink="false">2025-07-16 04:59:00</guid>
-      <pubDate>Wed, 16 Jul 2025 04:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:14 am</title>
-      <description>8500 BLOCK INSPIRATION AVE Units: E111</description>
-      <guid isPermaLink="false">2025-07-16 04:14:00</guid>
-      <pubDate>Wed, 16 Jul 2025 04:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
