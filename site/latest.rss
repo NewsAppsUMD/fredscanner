@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Jul 2025 12:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 12:44:31 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:14 am</title>
+      <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2025-07-18 08:14:00</guid>
+      <pubDate>Fri, 18 Jul 2025 08:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 7:41 am</title>
       <description>100 BLOCK S MARKET ST, Apt/Unit:2, HARDING APTS Radio: 9C Units: TT4</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / 270S BTWN RT 85S OFF RAMP &amp; BUCKEYSTOWN PKE BRDGE HWY Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2025-07-16 11:05:00</guid>
       <pubDate>Wed, 16 Jul 2025 11:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:47 am</title>
-      <description>100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-16 10:47:00</guid>
-      <pubDate>Wed, 16 Jul 2025 10:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
