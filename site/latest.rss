@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 03:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 04:08:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:01 am</title>
+      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:B212 Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-07-19 00:01:00</guid>
+      <pubDate>Sat, 19 Jul 2025 00:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:13 pm</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT4100 BLOCKEB RAMP, I7100 BLOCKEB / RT4100 BLOCK Radio: 9B Units: E121, E82, R3, A89</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK TOLLHOUSE CT Radio: 9B Units: E11, E31, TT4</description>
       <guid isPermaLink="false">2025-07-16 22:34:00</guid>
       <pubDate>Wed, 16 Jul 2025 22:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:21 pm</title>
-      <description>1900 BLOCK WETTERHORN CT Radio: 9C Units: E291, E501, HM33, HMSU33, A299, ALS29, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-07-16 21:21:00</guid>
-      <pubDate>Wed, 16 Jul 2025 21:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
