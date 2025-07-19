@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 19:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 20:02:18 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 3:57 pm</title>
+      <description>2900 BLOCK SUMANTOWN RD, CATOCTIN CREEK PARK &amp; NATURE CENTER Radio: 9D Units: E201, E72, R20, TR29, A209, ALS20, BC903, SAF901, EMS902, E51</description>
+      <guid isPermaLink="false">2025-07-19 15:57:00</guid>
+      <pubDate>Sat, 19 Jul 2025 15:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 3:30 pm</title>
+      <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9D Units: R20, T23, TR29, ALS31, EMS902</description>
+      <guid isPermaLink="false">2025-07-19 15:30:00</guid>
+      <pubDate>Sat, 19 Jul 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>STRANDED IN FLOODWATER - NO DISTRESS: 3:26 pm</title>
       <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9D Units: E141, BT28, A149</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, T23</description>
       <guid isPermaLink="false">2025-07-17 18:27:00</guid>
       <pubDate>Thu, 17 Jul 2025 18:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
-      <description>13800 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-07-17 18:10:00</guid>
-      <pubDate>Thu, 17 Jul 2025 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:28 pm</title>
-      <description>12000 BLOCK WOLFSVILLE RD Radio: 9B Units: A89, E82, E212</description>
-      <guid isPermaLink="false">2025-07-17 17:28:00</guid>
-      <pubDate>Thu, 17 Jul 2025 17:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
