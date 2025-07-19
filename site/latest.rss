@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 16:38:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 17:02:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:52 pm</title>
+      <description>EDGEWOOD CHURCH RD / MOJAVE CT Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-07-19 12:52:00</guid>
+      <pubDate>Sat, 19 Jul 2025 12:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 11:38 am</title>
       <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD Radio: 9B Units: E11, E201, R20, A18, A209, ALS20, EMS902</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK WESTVIEW DR, FAIRFIELD INN BY MARRIOTT Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2025-07-17 14:37:00</guid>
       <pubDate>Thu, 17 Jul 2025 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:20 pm</title>
-      <description>2100 BLOCK OLD FARM DR, Apt/Unit:1F, YELLOW SPRINGS DENTAL Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-17 14:20:00</guid>
-      <pubDate>Thu, 17 Jul 2025 14:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
