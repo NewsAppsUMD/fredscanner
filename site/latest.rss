@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Jul 2025 18:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 18:39:30 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 2:07 pm</title>
+      <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-07-19 14:07:00</guid>
+      <pubDate>Sat, 19 Jul 2025 14:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:54 pm</title>
       <description>5000 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>BURNS ISLAND / POTOMAC RIVER Units: BT28, A197</description>
       <guid isPermaLink="false">2025-07-17 16:49:00</guid>
       <pubDate>Thu, 17 Jul 2025 16:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
-      <description>RT340WB / LANDER RD, RT340EB / LANDER RD Radio: 9B Units: E201, E11, R20, A19, A209</description>
-      <guid isPermaLink="false">2025-07-17 16:12:00</guid>
-      <pubDate>Thu, 17 Jul 2025 16:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
