@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 00:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 00:48:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:36 pm</title>
+      <description>4400 BLOCK STOVEPIPE LN Radio: 9D Units: E251, R15, A259, ALS23, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-07-19 20:36:00</guid>
+      <pubDate>Sat, 19 Jul 2025 20:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:30 pm</title>
+      <description>LIBERTY RD / CLEMSONVILLE RD Radio: 9B Units: E162</description>
+      <guid isPermaLink="false">2025-07-19 20:30:00</guid>
+      <pubDate>Sat, 19 Jul 2025 20:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 8:25 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: E111</description>
+      <guid isPermaLink="false">2025-07-19 20:25:00</guid>
+      <pubDate>Sat, 19 Jul 2025 20:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:14 pm</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:O, ELMWOOD TERRACE APTS - BLDG O Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-07-19 20:14:00</guid>
+      <pubDate>Sat, 19 Jul 2025 20:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 8:09 pm</title>
+      <description>14700 BLOCK NEW WINDSOR RD Radio: 9D Units: K17</description>
+      <guid isPermaLink="false">2025-07-19 20:09:00</guid>
+      <pubDate>Sat, 19 Jul 2025 20:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 8:05 pm</title>
       <description>14700 BLOCK NEW WINDSOR RD Radio: 9D Units: RE171, A179, ALS17, BC901, EMS902</description>
@@ -276,36 +306,6 @@
       <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-07-18 00:29:00</guid>
       <pubDate>Fri, 18 Jul 2025 00:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:39 pm</title>
-      <description>100 BLOCK E MAIN ST Radio: 9C Units: RE74</description>
-      <guid isPermaLink="false">2025-07-17 22:39:00</guid>
-      <pubDate>Thu, 17 Jul 2025 22:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:23 pm</title>
-      <description>1900 BLOCK ROCKY WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-17 22:23:00</guid>
-      <pubDate>Thu, 17 Jul 2025 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:55 pm</title>
-      <description>ROSEMONT AVE / BIGGS AVE Radio: 9B Units: BC903</description>
-      <guid isPermaLink="false">2025-07-17 20:55:00</guid>
-      <pubDate>Thu, 17 Jul 2025 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:54 pm</title>
-      <description>ROSEMONT AVE / BIGGS AVE Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2025-07-17 20:54:00</guid>
-      <pubDate>Thu, 17 Jul 2025 20:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:32 pm</title>
-      <description>NOLANDS FERRY PARKING LOT, NOLANDS FERRY PARKING LOT Radio: 9C Units: BR285</description>
-      <guid isPermaLink="false">2025-07-17 20:32:00</guid>
-      <pubDate>Thu, 17 Jul 2025 20:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
