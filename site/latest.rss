@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 01:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 02:44:46 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:17 pm</title>
+      <description>1200 BLOCK BAKER PL S, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-07-19 22:17:00</guid>
+      <pubDate>Sat, 19 Jul 2025 22:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 8:36 pm</title>
       <description>4400 BLOCK STOVEPIPE LN Radio: 9D Units: E251, R15, A259, ALS23, BC903, EMS901</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: PE311, E31, R3</description>
       <guid isPermaLink="false">2025-07-18 07:27:00</guid>
       <pubDate>Fri, 18 Jul 2025 07:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:29 am</title>
-      <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-18 00:29:00</guid>
-      <pubDate>Fri, 18 Jul 2025 00:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
