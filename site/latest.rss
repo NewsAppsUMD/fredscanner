@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 19:01:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 19:31:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:11 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Radio: 9B Units: A229, E111</description>
+      <guid isPermaLink="false">2025-07-20 15:11:00</guid>
+      <pubDate>Sun, 20 Jul 2025 15:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 2:59 pm</title>
+      <description>6500 BLOCK MOUNTAINDALE RD Radio: 9C Units: E291, PE102, R10, K22, EK224</description>
+      <guid isPermaLink="false">2025-07-20 14:59:00</guid>
+      <pubDate>Sun, 20 Jul 2025 14:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 1:59 pm</title>
       <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE - 1000 BLOCK W PATRICK ST Radio: 9C Units: E11, E31, HM33, HMSU33</description>
@@ -294,18 +306,6 @@
       <description>13000 BLOCK HINEY RD Radio: 9C Units: BR135</description>
       <guid isPermaLink="false">2025-07-18 21:25:00</guid>
       <pubDate>Fri, 18 Jul 2025 21:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:21 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-07-18 21:21:00</guid>
-      <pubDate>Fri, 18 Jul 2025 21:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:33 pm</title>
-      <description>8200 BLOCK REVEILLE CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-07-18 19:33:00</guid>
-      <pubDate>Fri, 18 Jul 2025 19:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
