@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 12:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 13:11:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
+      <description>100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-07-20 08:54:00</guid>
+      <pubDate>Sun, 20 Jul 2025 08:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 8:28 am</title>
       <description>1000 BLOCK W PATRICK ST, 40 WEST GETGO Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>RT144 / MONOCACY RIVER, RT144 / MONOCACY RIVER Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-07-18 14:51:00</guid>
       <pubDate>Fri, 18 Jul 2025 14:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 1:07 pm</title>
-      <description>LANDER BOAT RAMP, LANDER BOAT RAMP Units: BT15</description>
-      <guid isPermaLink="false">2025-07-18 13:07:00</guid>
-      <pubDate>Fri, 18 Jul 2025 13:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
