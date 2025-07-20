@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 02:44:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 03:31:51 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 11:28 pm</title>
+      <description>14700 BLOCK NEW WINDSOR RD Radio: 9C Units: E172, HM33, HMSU33</description>
+      <guid isPermaLink="false">2025-07-19 23:28:00</guid>
+      <pubDate>Sat, 19 Jul 2025 23:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:17 pm</title>
       <description>1200 BLOCK BAKER PL S, RESIDENCES AT THE MANOR - 1200 BLOCK BAKER PL Radio: 9C Units: E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST, Apt/Unit:2, HARDING APTS Radio: 9C Units: TT4</description>
       <guid isPermaLink="false">2025-07-18 07:41:00</guid>
       <pubDate>Fri, 18 Jul 2025 07:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:27 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2025-07-18 07:27:00</guid>
-      <pubDate>Fri, 18 Jul 2025 07:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
