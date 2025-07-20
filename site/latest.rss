@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 07:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 08:02:31 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 3:45 am</title>
+      <description>6800 BLOCK ACACIA CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-07-20 03:45:00</guid>
+      <pubDate>Sun, 20 Jul 2025 03:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 1:42 am</title>
       <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Radio: 9C Units: E331, E31</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E CHURCH ST, CANDY KITCHEN Radio: 9I Units: A38, ALS31, EMS901</description>
       <guid isPermaLink="false">2025-07-18 11:14:00</guid>
       <pubDate>Fri, 18 Jul 2025 11:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:04 am</title>
-      <description>5900 BLOCK OAKCROSS LN Units: E331, E152, E31, PE311, PE23, R15, T23, A339, ALS4, BC901, BC902, SAF901, TT4</description>
-      <guid isPermaLink="false">2025-07-18 11:04:00</guid>
-      <pubDate>Fri, 18 Jul 2025 11:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
