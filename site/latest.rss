@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Jul 2025 04:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 04:43:52 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 12:23 am</title>
+      <description>100 BLOCK THIRD ST, STATION 16 Radio: 9D Units: E162</description>
+      <guid isPermaLink="false">2025-07-20 00:23:00</guid>
+      <pubDate>Sun, 20 Jul 2025 00:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 11:28 pm</title>
       <description>14700 BLOCK NEW WINDSOR RD Radio: 9C Units: E172, HM33, HMSU33</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK NEW DESIGN RD, KINGSBROOK ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9C Units: TT4</description>
       <guid isPermaLink="false">2025-07-18 08:14:00</guid>
       <pubDate>Fri, 18 Jul 2025 08:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 7:41 am</title>
-      <description>100 BLOCK S MARKET ST, Apt/Unit:2, HARDING APTS Radio: 9C Units: TT4</description>
-      <guid isPermaLink="false">2025-07-18 07:41:00</guid>
-      <pubDate>Fri, 18 Jul 2025 07:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
