@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 19:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 19:33:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:11 pm</title>
+      <description>RT194 / E FREDERICK ST, RT194 / E FREDERICK ST Radio: 9B Units: A247, E111</description>
+      <guid isPermaLink="false">2025-07-21 15:11:00</guid>
+      <pubDate>Mon, 21 Jul 2025 15:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:54 pm</title>
       <description>3500 BLOCK PONTIUS CT, URBANA MIDDLE SCHOOL Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>FINGERBOARD RD / TRANQUILITY CT Radio: 9B Units: A259, E251</description>
       <guid isPermaLink="false">2025-07-19 13:46:00</guid>
       <pubDate>Sat, 19 Jul 2025 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:52 pm</title>
-      <description>EDGEWOOD CHURCH RD / MOJAVE CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-19 12:52:00</guid>
-      <pubDate>Sat, 19 Jul 2025 12:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
