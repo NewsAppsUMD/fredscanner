@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 17:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:54 pm</title>
+      <description>3500 BLOCK PONTIUS CT, URBANA MIDDLE SCHOOL Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2025-07-21 13:54:00</guid>
+      <pubDate>Mon, 21 Jul 2025 13:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 8:24 am</title>
       <description>MOUNTAINDALE RD / BETHEL RD Radio: 9D Units: E291, R10, A229, ALS29, E221, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>EDGEWOOD CHURCH RD / MOJAVE CT Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-07-19 12:52:00</guid>
       <pubDate>Sat, 19 Jul 2025 12:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:38 am</title>
-      <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD Radio: 9B Units: E11, E201, R20, A18, A209, ALS20, EMS902</description>
-      <guid isPermaLink="false">2025-07-19 11:38:00</guid>
-      <pubDate>Sat, 19 Jul 2025 11:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
