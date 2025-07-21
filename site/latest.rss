@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 22:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 22:36:37 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 6:32 pm</title>
+      <description>800 BLOCK WILSON PL Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2025-07-21 18:32:00</guid>
+      <pubDate>Mon, 21 Jul 2025 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 4:55 pm</title>
       <description>1500 BLOCK W SEVENTH ST Radio: 9C Units: E501, E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-07-19 14:07:00</guid>
       <pubDate>Sat, 19 Jul 2025 14:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:54 pm</title>
-      <description>5000 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-07-19 13:54:00</guid>
-      <pubDate>Sat, 19 Jul 2025 13:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
