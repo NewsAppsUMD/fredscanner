@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Jul 2025 20:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 21:02:09 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 4:55 pm</title>
+      <description>1500 BLOCK W SEVENTH ST Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2025-07-21 16:55:00</guid>
+      <pubDate>Mon, 21 Jul 2025 16:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:08 pm</title>
       <description>JEFFERSON PIKE / HOLTER RD Radio: 9B Units: A209, EK204</description>
@@ -300,12 +306,6 @@
       <description>5000 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-07-19 13:54:00</guid>
       <pubDate>Sat, 19 Jul 2025 13:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:51 pm</title>
-      <description>6100 BLOCK CORNWALL TER Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-07-19 13:51:00</guid>
-      <pubDate>Sat, 19 Jul 2025 13:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
