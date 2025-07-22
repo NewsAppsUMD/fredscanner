@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 19:32:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 20:02:21 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 3:56 pm</title>
+      <description>100 BLOCK MERCER CT, Apt/Unit:211A, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Units: TW1</description>
+      <guid isPermaLink="false">2025-07-22 15:56:00</guid>
+      <pubDate>Tue, 22 Jul 2025 15:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 3:44 pm</title>
+      <description>10100 BLOCK PINE TREE RD Units: E172</description>
+      <guid isPermaLink="false">2025-07-22 15:44:00</guid>
+      <pubDate>Tue, 22 Jul 2025 15:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:24 pm</title>
       <description>1300 BLOCK W PATRICK ST, CASA RICO RESTAURANT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9B Units: A19, TW1</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-07-20 08:54:00</guid>
       <pubDate>Sun, 20 Jul 2025 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 8:28 am</title>
-      <description>1000 BLOCK W PATRICK ST, 40 WEST GETGO Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-20 08:28:00</guid>
-      <pubDate>Sun, 20 Jul 2025 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:24 am</title>
-      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-07-20 06:24:00</guid>
-      <pubDate>Sun, 20 Jul 2025 06:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
