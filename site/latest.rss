@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 20:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 21:02:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:54 pm</title>
+      <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Radio: 9D Units: E331, E31, R15, A339, A39, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-07-22 16:54:00</guid>
+      <pubDate>Tue, 22 Jul 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 4:49 pm</title>
+      <description>900 BLOCK E E ST Radio: 9C Units: E51</description>
+      <guid isPermaLink="false">2025-07-22 16:49:00</guid>
+      <pubDate>Tue, 22 Jul 2025 16:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 3:56 pm</title>
       <description>100 BLOCK MERCER CT, Apt/Unit:211A, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Units: TW1</description>
@@ -294,18 +306,6 @@
       <description>CREAGERSTOWN RD / GRACEHAM RD Radio: 9B Units: A307, E162</description>
       <guid isPermaLink="false">2025-07-20 11:00:00</guid>
       <pubDate>Sun, 20 Jul 2025 11:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:56 am</title>
-      <description>100 BLOCKA FREDERICK RD Radio: 9C Units: PE102, E132, R10, EK224</description>
-      <guid isPermaLink="false">2025-07-20 10:56:00</guid>
-      <pubDate>Sun, 20 Jul 2025 10:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
-      <description>100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-20 08:54:00</guid>
-      <pubDate>Sun, 20 Jul 2025 08:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
