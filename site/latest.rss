@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Jul 2025 00:08:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 00:46:35 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:24 pm</title>
+      <description>500 BLOCK BRUNSWICK ST Radio: 9C Units: E51, R19</description>
+      <guid isPermaLink="false">2025-07-21 20:24:00</guid>
+      <pubDate>Mon, 21 Jul 2025 20:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 6:32 pm</title>
       <description>800 BLOCK WILSON PL Radio: 9C Units: E501, E11</description>
@@ -300,12 +306,6 @@
       <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9D Units: E141, BT28, A149</description>
       <guid isPermaLink="false">2025-07-19 15:26:00</guid>
       <pubDate>Sat, 19 Jul 2025 15:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:07 pm</title>
-      <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-07-19 14:07:00</guid>
-      <pubDate>Sat, 19 Jul 2025 14:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
