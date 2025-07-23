@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 00:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 01:30:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:24 pm</title>
+      <description>4800 BLOCK WINCHESTER BLVD Radio: 9C Units: E141, T5</description>
+      <guid isPermaLink="false">2025-07-22 21:24:00</guid>
+      <pubDate>Tue, 22 Jul 2025 21:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:21 pm</title>
+      <description>200 BLOCK BROADWAY ST, WEINBERG HOUSE Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-07-22 21:21:00</guid>
+      <pubDate>Tue, 22 Jul 2025 21:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:12 pm</title>
+      <description>PETERSVILLE RD / BURKITTSVILLE RD Radio: 9B Units: A197, E51</description>
+      <guid isPermaLink="false">2025-07-22 21:12:00</guid>
+      <pubDate>Tue, 22 Jul 2025 21:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:01 pm</title>
       <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, TT4</description>
@@ -288,24 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE - 1000 BLOCK W PATRICK ST Radio: 9C Units: E11, E31, HM33, HMSU33</description>
       <guid isPermaLink="false">2025-07-20 13:59:00</guid>
       <pubDate>Sun, 20 Jul 2025 13:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:48 pm</title>
-      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9D Units: E231, R3, A238, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-07-20 13:48:00</guid>
-      <pubDate>Sun, 20 Jul 2025 13:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:33 pm</title>
-      <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2025-07-20 12:33:00</guid>
-      <pubDate>Sun, 20 Jul 2025 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:28 am</title>
-      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: E111, TW1</description>
-      <guid isPermaLink="false">2025-07-20 11:28:00</guid>
-      <pubDate>Sun, 20 Jul 2025 11:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
