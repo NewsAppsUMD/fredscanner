@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 20:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 20:36:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:26 pm</title>
+      <description>NEW DESIGN RD / OLAND RD Units: T23</description>
+      <guid isPermaLink="false">2025-07-23 16:26:00</guid>
+      <pubDate>Wed, 23 Jul 2025 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:25 pm</title>
+      <description>NEW DESIGN RD / OLAND RD Units: E311, R14, A149, ALS23, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-07-23 16:25:00</guid>
+      <pubDate>Wed, 23 Jul 2025 16:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:28 pm</title>
       <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Units: PE23, E11, R3, A19, A18</description>
@@ -294,18 +306,6 @@
       <description>MOUNTAINDALE RD / BETHEL RD Radio: 9D Units: E291, R10, A229, ALS29, E221, BC902, EMS902</description>
       <guid isPermaLink="false">2025-07-21 08:24:00</guid>
       <pubDate>Mon, 21 Jul 2025 08:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:15 am</title>
-      <description>7100 BLOCK ROY SHAFER RD Radio: 9D Units: T5</description>
-      <guid isPermaLink="false">2025-07-21 04:15:00</guid>
-      <pubDate>Mon, 21 Jul 2025 04:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:07 am</title>
-      <description>7100 BLOCK ROY SHAFER RD Radio: 9D Units: E72, E121, E201, E82, E31, R20, TW7, TW1, K7, EK204, K1, A79, ALS20, BC903, BC901, SAF901, E51</description>
-      <guid isPermaLink="false">2025-07-21 04:07:00</guid>
-      <pubDate>Mon, 21 Jul 2025 04:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
