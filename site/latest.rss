@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 22:36:46 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 6:29 pm</title>
+      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: R2</description>
+      <guid isPermaLink="false">2025-07-23 18:29:00</guid>
+      <pubDate>Wed, 23 Jul 2025 18:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 6:16 pm</title>
+      <description>I70WB / 65MM, I70WB / 65MM Radio: 9C Units: BR156, E251</description>
+      <guid isPermaLink="false">2025-07-23 18:16:00</guid>
+      <pubDate>Wed, 23 Jul 2025 18:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 5:53 pm</title>
       <description>7500 BLOCK MIDDLEBURG RD Units: E132</description>
@@ -294,18 +306,6 @@
       <description>1500 BLOCK W SEVENTH ST Radio: 9C Units: E501, E11</description>
       <guid isPermaLink="false">2025-07-21 16:55:00</guid>
       <pubDate>Mon, 21 Jul 2025 16:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:08 pm</title>
-      <description>JEFFERSON PIKE / HOLTER RD Radio: 9B Units: A209, EK204</description>
-      <guid isPermaLink="false">2025-07-21 16:08:00</guid>
-      <pubDate>Mon, 21 Jul 2025 16:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:11 pm</title>
-      <description>RT194 / E FREDERICK ST, RT194 / E FREDERICK ST Radio: 9B Units: A247, E111</description>
-      <guid isPermaLink="false">2025-07-21 15:11:00</guid>
-      <pubDate>Mon, 21 Jul 2025 15:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
