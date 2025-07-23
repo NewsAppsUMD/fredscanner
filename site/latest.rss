@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 18:41:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:28 pm</title>
+      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Units: PE23, E11, R3, A19, A18</description>
+      <guid isPermaLink="false">2025-07-23 14:28:00</guid>
+      <pubDate>Wed, 23 Jul 2025 14:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:22 pm</title>
+      <description>7400 BLOCK MCKAIG RD Units: E172, Q11</description>
+      <guid isPermaLink="false">2025-07-23 14:22:00</guid>
+      <pubDate>Wed, 23 Jul 2025 14:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
       <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / CATOCTIN FURNACE RD Units: PE102, R10, A229, ALS29, EMS901</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCK ROY SHAFER RD Radio: 9D Units: E72, E121, E201, E82, E31, R20, TW7, TW1, K7, EK204, K1, A79, ALS20, BC903, BC901, SAF901, E51</description>
       <guid isPermaLink="false">2025-07-21 04:07:00</guid>
       <pubDate>Mon, 21 Jul 2025 04:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:07 am</title>
-      <description>100 BLOCK TILLMAN PL Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-21 01:07:00</guid>
-      <pubDate>Mon, 21 Jul 2025 01:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:23 am</title>
-      <description>100 BLOCK N COURT ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2025-07-21 00:23:00</guid>
-      <pubDate>Mon, 21 Jul 2025 00:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
