@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Jul 2025 17:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 18:02:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
+      <description>RT15NB / BLUE MOUNTAIN RD, RT15NB / CATOCTIN FURNACE RD Units: PE102, R10, A229, ALS29, EMS901</description>
+      <guid isPermaLink="false">2025-07-23 13:42:00</guid>
+      <pubDate>Wed, 23 Jul 2025 13:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 10:28 am</title>
       <description>300 BLOCKB FIELDPOINTE BLVD, Apt/Unit:2 Radio: 9C Units: E31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N COURT ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-07-21 00:23:00</guid>
       <pubDate>Mon, 21 Jul 2025 00:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:35 pm</title>
-      <description>5200 BLOCK WESTVIEW DR, EXTENDED STAY AMERICA Radio: 9C Units: E311</description>
-      <guid isPermaLink="false">2025-07-20 21:35:00</guid>
-      <pubDate>Sun, 20 Jul 2025 21:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
