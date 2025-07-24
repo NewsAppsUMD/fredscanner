@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 12:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 12:44:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
+      <description>1300 BLOCK W PATRICK ST, MR TIRE - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-07-24 08:12:00</guid>
+      <pubDate>Thu, 24 Jul 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:01 am</title>
+      <description>3000 BLOCK SANCTUARY LN Units: E291</description>
+      <guid isPermaLink="false">2025-07-24 08:01:00</guid>
+      <pubDate>Thu, 24 Jul 2025 08:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 6:53 am</title>
       <description>8700 BLOCK SHADY PINES DR Radio: 9B Units: E231</description>
@@ -294,18 +306,6 @@
       <description>1200 BLOCK W PATRICK ST, GIANT EAGLE - FREDERICK SHOPPERS WORLD Radio: 9C Units: E11, E31, TT4</description>
       <guid isPermaLink="false">2025-07-22 07:38:00</guid>
       <pubDate>Tue, 22 Jul 2025 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:07 am</title>
-      <description>REICHS FORD RD / TILCO DR Radio: 9B Units: A39, E31</description>
-      <guid isPermaLink="false">2025-07-22 07:07:00</guid>
-      <pubDate>Tue, 22 Jul 2025 07:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:24 am</title>
-      <description>100 BLOCK BENNETT DR Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2025-07-22 06:24:00</guid>
-      <pubDate>Tue, 22 Jul 2025 06:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
