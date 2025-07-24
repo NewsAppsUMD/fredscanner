@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 21:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 21:34:41 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 5:23 pm</title>
+      <description>3100 BLOCK IVY MEADOW DR Radio: 9D Units: A259, EMS900</description>
+      <guid isPermaLink="false">2025-07-24 17:23:00</guid>
+      <pubDate>Thu, 24 Jul 2025 17:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:21 pm</title>
+      <description>3100 BLOCK IVY MEADOW DR Radio: 9D Units: E231, PE311, E331, E31, R3, T23, TT4, A238, ALS23, BC901, BC902, SAF901, E251</description>
+      <guid isPermaLink="false">2025-07-24 17:21:00</guid>
+      <pubDate>Thu, 24 Jul 2025 17:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:19 pm</title>
+      <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: E72</description>
+      <guid isPermaLink="false">2025-07-24 17:19:00</guid>
+      <pubDate>Thu, 24 Jul 2025 17:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:08 pm</title>
+      <description>11300 BLOCK HIGHLAND SCHOOL RD Radio: 9B Units: A89, E82, E212</description>
+      <guid isPermaLink="false">2025-07-24 17:08:00</guid>
+      <pubDate>Thu, 24 Jul 2025 17:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:52 pm</title>
       <description>21400 BLOCK LEITER ST, STATION WC009 - LEITERSBURG VFC. INC. Units: EK64</description>
@@ -282,30 +306,6 @@
       <description>10100 BLOCK PINE TREE RD Units: E172</description>
       <guid isPermaLink="false">2025-07-22 15:44:00</guid>
       <pubDate>Tue, 22 Jul 2025 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:24 pm</title>
-      <description>1300 BLOCK W PATRICK ST, CASA RICO RESTAURANT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9B Units: A19, TW1</description>
-      <guid isPermaLink="false">2025-07-22 15:24:00</guid>
-      <pubDate>Tue, 22 Jul 2025 15:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 2:57 pm</title>
-      <description>800 BLOCK YOUNG PL Radio: 9C Units: E501, PE23, TW1</description>
-      <guid isPermaLink="false">2025-07-22 14:57:00</guid>
-      <pubDate>Tue, 22 Jul 2025 14:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 2:04 pm</title>
-      <description>1500 BLOCK W EIGHTH ST Radio: 9C Units: E11, E31, R2</description>
-      <guid isPermaLink="false">2025-07-22 14:04:00</guid>
-      <pubDate>Tue, 22 Jul 2025 14:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL FUEL SPILL (50-200 GAL): 1:16 pm</title>
-      <description>1400 BLOCK PORTER ST, FORT DETRICK - BLDG 1400 BLOCK - MINI MALL Units: E501, PE23, HM50</description>
-      <guid isPermaLink="false">2025-07-22 13:16:00</guid>
-      <pubDate>Tue, 22 Jul 2025 13:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
