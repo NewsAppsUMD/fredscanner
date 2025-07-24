@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 13:42:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 14:03:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:42 am</title>
+      <description>2200 BLOCK JEFFERSON PIKE, FAITH BAPTIST CHURCH Radio: 9C Units: E281, T5</description>
+      <guid isPermaLink="false">2025-07-24 09:42:00</guid>
+      <pubDate>Thu, 24 Jul 2025 09:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
       <description>1300 BLOCK W PATRICK ST, MR TIRE - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK W MAIN ST Radio: 9B Units: A69, E61</description>
       <guid isPermaLink="false">2025-07-22 08:15:00</guid>
       <pubDate>Tue, 22 Jul 2025 08:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:38 am</title>
-      <description>1200 BLOCK W PATRICK ST, GIANT EAGLE - FREDERICK SHOPPERS WORLD Radio: 9C Units: E11, E31, TT4</description>
-      <guid isPermaLink="false">2025-07-22 07:38:00</guid>
-      <pubDate>Tue, 22 Jul 2025 07:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
