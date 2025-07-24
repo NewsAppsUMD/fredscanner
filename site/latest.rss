@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 04:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 05:05:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:44 am</title>
+      <description>100 BLOCK(1911) BLK ROHRERSVILLE RD Units: E51</description>
+      <guid isPermaLink="false">2025-07-24 00:44:00</guid>
+      <pubDate>Thu, 24 Jul 2025 00:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:16 am</title>
       <description>3500 BLOCK WORTHINGTON BLVD Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Radio: 9C Units: E111, TW1</description>
       <guid isPermaLink="false">2025-07-22 04:24:00</guid>
       <pubDate>Tue, 22 Jul 2025 04:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:30 am</title>
-      <description>5200 BLOCK WESTVIEW DR, AVISON YOUNG Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-07-22 01:30:00</guid>
-      <pubDate>Tue, 22 Jul 2025 01:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
