@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 15:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 15:35:57 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:17 am</title>
+      <description>14400 BLOCK BLACK ANKLE RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-07-24 11:17:00</guid>
+      <pubDate>Thu, 24 Jul 2025 11:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:42 am</title>
       <description>2200 BLOCK JEFFERSON PIKE, FAITH BAPTIST CHURCH Radio: 9C Units: E281, T5</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:1,2,3 Radio: 9C Units: E231, E31, R3</description>
       <guid isPermaLink="false">2025-07-22 09:18:00</guid>
       <pubDate>Tue, 22 Jul 2025 09:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:15 am</title>
-      <description>800 BLOCK W MAIN ST Radio: 9B Units: A69, E61</description>
-      <guid isPermaLink="false">2025-07-22 08:15:00</guid>
-      <pubDate>Tue, 22 Jul 2025 08:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
