@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 20:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 20:36:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
+      <description>I70WB / 53MM, I70WB / 53MM Radio: 9B Units: E11, E31, R3, A39, A19</description>
+      <guid isPermaLink="false">2025-07-25 16:26:00</guid>
+      <pubDate>Fri, 25 Jul 2025 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:25 pm</title>
+      <description>MA WASHCO: I70EB / 37MM, MA WASHCO: I70EB / 37MM Radio: PS2 Units: E82, A89</description>
+      <guid isPermaLink="false">2025-07-25 16:25:00</guid>
+      <pubDate>Fri, 25 Jul 2025 16:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:43 pm</title>
       <description>2400 BLOCK DOMINION DR, Apt/Unit:2A, LAKE TREE CONDOS - 2400 BLOCK DOMINION DR Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>NEW DESIGN RD / OLAND RD Units: T23</description>
       <guid isPermaLink="false">2025-07-23 16:26:00</guid>
       <pubDate>Wed, 23 Jul 2025 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:25 pm</title>
-      <description>NEW DESIGN RD / OLAND RD Units: E311, R14, A149, ALS23, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-07-23 16:25:00</guid>
-      <pubDate>Wed, 23 Jul 2025 16:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:28 pm</title>
-      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Units: PE23, E11, R3, A19, A18</description>
-      <guid isPermaLink="false">2025-07-23 14:28:00</guid>
-      <pubDate>Wed, 23 Jul 2025 14:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
