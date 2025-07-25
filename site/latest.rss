@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 14:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 14:36:48 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 10:03 am</title>
+      <description>4700 BLOCK FOX TOWER RD Radio: 9D Units: PE23</description>
+      <guid isPermaLink="false">2025-07-25 10:03:00</guid>
+      <pubDate>Fri, 25 Jul 2025 10:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 9:58 am</title>
       <description>4700 BLOCK FOX TOWER RD Radio: 9D Units: PE102, R10, E212, EMS901</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / 8MM, RT15NB / 8MM Units: E11, A19</description>
       <guid isPermaLink="false">2025-07-23 09:09:00</guid>
       <pubDate>Wed, 23 Jul 2025 09:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:02 am</title>
-      <description>ELMER DERR RD / S RENN RD, Apt/Unit:HTTPS://A91.IO/81MJZ Radio: 9D Units: EK204, R20, A209, ALS20, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-23 09:02:00</guid>
-      <pubDate>Wed, 23 Jul 2025 09:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
