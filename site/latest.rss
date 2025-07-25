@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Jul 2025 02:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 03:06:49 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:59 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E152, A259</description>
+      <guid isPermaLink="false">2025-07-24 22:59:00</guid>
+      <pubDate>Thu, 24 Jul 2025 22:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE MALFUNCTION: 10:41 pm</title>
+      <description>1800 BLOCK WEYBRIDGE RD Units: E11, E501</description>
+      <guid isPermaLink="false">2025-07-24 22:41:00</guid>
+      <pubDate>Thu, 24 Jul 2025 22:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:39 pm</title>
+      <description>200 BLOCK SHOREBIRD ST, MEDSTAR HEALTH URGENT CARE Units: E291</description>
+      <guid isPermaLink="false">2025-07-24 22:39:00</guid>
+      <pubDate>Thu, 24 Jul 2025 22:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:34 pm</title>
+      <description>200 BLOCK SHOREBIRD ST, MEDSTAR HEALTH URGENT CARE Units: E111, PE23, Q11</description>
+      <guid isPermaLink="false">2025-07-24 22:34:00</guid>
+      <pubDate>Thu, 24 Jul 2025 22:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:03 pm</title>
       <description>BAKER RD / CREGGER RD Units: BR96</description>
@@ -282,30 +306,6 @@
       <description>4800 BLOCK WINCHESTER BLVD Radio: 9C Units: T23</description>
       <guid isPermaLink="false">2025-07-22 21:29:00</guid>
       <pubDate>Tue, 22 Jul 2025 21:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:24 pm</title>
-      <description>4800 BLOCK WINCHESTER BLVD Radio: 9C Units: E141, T5</description>
-      <guid isPermaLink="false">2025-07-22 21:24:00</guid>
-      <pubDate>Tue, 22 Jul 2025 21:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:21 pm</title>
-      <description>200 BLOCK BROADWAY ST, WEINBERG HOUSE Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2025-07-22 21:21:00</guid>
-      <pubDate>Tue, 22 Jul 2025 21:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:12 pm</title>
-      <description>PETERSVILLE RD / BURKITTSVILLE RD Radio: 9B Units: A197, E51</description>
-      <guid isPermaLink="false">2025-07-22 21:12:00</guid>
-      <pubDate>Tue, 22 Jul 2025 21:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:01 pm</title>
-      <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2025-07-22 20:01:00</guid>
-      <pubDate>Tue, 22 Jul 2025 20:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
