@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Jul 2025 23:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 00:08:38 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 7:36 pm</title>
+      <description>1600 BLOCK JENNINGS CT Units: E11, E501</description>
+      <guid isPermaLink="false">2025-07-24 19:36:00</guid>
+      <pubDate>Thu, 24 Jul 2025 19:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:34 pm</title>
+      <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Units: BR116</description>
+      <guid isPermaLink="false">2025-07-24 19:34:00</guid>
+      <pubDate>Thu, 24 Jul 2025 19:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:53 pm</title>
       <description>KEMPTOWN CHURCH RD / FINGERBOARD RD Radio: 9C Units: E251</description>
@@ -294,18 +306,6 @@
       <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Radio: 9D Units: E331, E31, R15, A339, A39, ALS4, BC901, EMS901</description>
       <guid isPermaLink="false">2025-07-22 16:54:00</guid>
       <pubDate>Tue, 22 Jul 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 4:49 pm</title>
-      <description>900 BLOCK E E ST Radio: 9C Units: E51</description>
-      <guid isPermaLink="false">2025-07-22 16:49:00</guid>
-      <pubDate>Tue, 22 Jul 2025 16:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 3:56 pm</title>
-      <description>100 BLOCK MERCER CT, Apt/Unit:211A, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Units: TW1</description>
-      <guid isPermaLink="false">2025-07-22 15:56:00</guid>
-      <pubDate>Tue, 22 Jul 2025 15:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
