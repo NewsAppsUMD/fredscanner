@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Jul 2025 14:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 14:35:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:31 am</title>
+      <description>11300 BLOCK HARP HILL RD Radio: 9D Units: E212, A89, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-07-26 10:31:00</guid>
+      <pubDate>Sat, 26 Jul 2025 10:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:29 am</title>
+      <description>100 BLOCK E G ST Radio: 9C Units: R20</description>
+      <guid isPermaLink="false">2025-07-26 10:29:00</guid>
+      <pubDate>Sat, 26 Jul 2025 10:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:21 am</title>
+      <description>100 BLOCK E G ST Radio: 9C Units: E51, R19</description>
+      <guid isPermaLink="false">2025-07-26 10:21:00</guid>
+      <pubDate>Sat, 26 Jul 2025 10:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:06 am</title>
       <description>4100 BLOCK BILL MOXLEY RD Radio: 9C Units: E251</description>
@@ -288,24 +306,6 @@
       <description>3100 BLOCK IVY MEADOW DR Radio: 9D Units: A259, EMS900</description>
       <guid isPermaLink="false">2025-07-24 17:23:00</guid>
       <pubDate>Thu, 24 Jul 2025 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:21 pm</title>
-      <description>3100 BLOCK IVY MEADOW DR Radio: 9D Units: E231, PE311, E331, E31, R3, T23, TT4, A238, ALS23, BC901, BC902, SAF901, E251</description>
-      <guid isPermaLink="false">2025-07-24 17:21:00</guid>
-      <pubDate>Thu, 24 Jul 2025 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:19 pm</title>
-      <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: E72</description>
-      <guid isPermaLink="false">2025-07-24 17:19:00</guid>
-      <pubDate>Thu, 24 Jul 2025 17:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:08 pm</title>
-      <description>11300 BLOCK HIGHLAND SCHOOL RD Radio: 9B Units: A89, E82, E212</description>
-      <guid isPermaLink="false">2025-07-24 17:08:00</guid>
-      <pubDate>Thu, 24 Jul 2025 17:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
