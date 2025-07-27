@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 27 Jul 2025 00:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 00:48:05 +0000</lastBuildDate>
+    <item>
+      <title>WATER RESCUE: 8:45 pm</title>
+      <description>APPROX LOC:6264 LINGANORE RD Radio: 9D Units: E331, E152, R3, R2, TR29, BT15, BT29, A339, A318, ALS2, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2025-07-26 20:45:00</guid>
+      <pubDate>Sat, 26 Jul 2025 20:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 8:33 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, Apt/Unit:233, DAYS INN Radio: 9C Units: PE311, E31, TT4</description>
+      <guid isPermaLink="false">2025-07-26 20:33:00</guid>
+      <pubDate>Sat, 26 Jul 2025 20:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:56 pm</title>
       <description>200 BLOCK E BALTIMORE ST Units: E61</description>
@@ -294,18 +306,6 @@
       <description>URBANA PIKE / DOCTOR PERRY RD Radio: 9D Units: BC901</description>
       <guid isPermaLink="false">2025-07-25 14:54:00</guid>
       <pubDate>Fri, 25 Jul 2025 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:53 pm</title>
-      <description>URBANA PIKE / DOCTOR PERRY RD Radio: 9D Units: E231, R15, A238, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-07-25 14:53:00</guid>
-      <pubDate>Fri, 25 Jul 2025 14:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:50 pm</title>
-      <description>600 BLOCK TIVOLI RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-25 13:50:00</guid>
-      <pubDate>Fri, 25 Jul 2025 13:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
