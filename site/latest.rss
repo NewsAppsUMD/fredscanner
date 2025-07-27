@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Jul 2025 23:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 00:09:35 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:56 pm</title>
+      <description>200 BLOCK E BALTIMORE ST Units: E61</description>
+      <guid isPermaLink="false">2025-07-26 19:56:00</guid>
+      <pubDate>Sat, 26 Jul 2025 19:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:46 pm</title>
+      <description>6600 BLOCK BEACH DR Radio: 9D Units: E111</description>
+      <guid isPermaLink="false">2025-07-26 19:46:00</guid>
+      <pubDate>Sat, 26 Jul 2025 19:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:46 pm</title>
+      <description>6600 BLOCK BEACH DR Radio: 9D Units: E251</description>
+      <guid isPermaLink="false">2025-07-26 19:46:00</guid>
+      <pubDate>Sat, 26 Jul 2025 19:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:45 pm</title>
+      <description>6600 BLOCK BEACH DR Radio: 9D Units: E251</description>
+      <guid isPermaLink="false">2025-07-26 19:45:00</guid>
+      <pubDate>Sat, 26 Jul 2025 19:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:40 pm</title>
+      <description>6600 BLOCK BEACH DR Radio: 9D Units: E152, E331, E172, E111, E31, R15, Q11, TT4, A339, ALS4, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-07-26 19:40:00</guid>
+      <pubDate>Sat, 26 Jul 2025 19:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 6:48 pm</title>
       <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61</description>
@@ -276,36 +306,6 @@
       <description>600 BLOCK TIVOLI RD Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-07-25 13:50:00</guid>
       <pubDate>Fri, 25 Jul 2025 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:00 pm</title>
-      <description>9700 BLOCK GAS HOUSE PIKE Radio: 9B Units: A248, E111</description>
-      <guid isPermaLink="false">2025-07-25 12:00:00</guid>
-      <pubDate>Fri, 25 Jul 2025 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:03 am</title>
-      <description>4700 BLOCK FOX TOWER RD Radio: 9D Units: PE23</description>
-      <guid isPermaLink="false">2025-07-25 10:03:00</guid>
-      <pubDate>Fri, 25 Jul 2025 10:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 9:58 am</title>
-      <description>4700 BLOCK FOX TOWER RD Radio: 9D Units: PE102, R10, E212, EMS901</description>
-      <guid isPermaLink="false">2025-07-25 09:58:00</guid>
-      <pubDate>Fri, 25 Jul 2025 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:40 am</title>
-      <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Units: E111, Q11</description>
-      <guid isPermaLink="false">2025-07-25 09:40:00</guid>
-      <pubDate>Fri, 25 Jul 2025 09:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
-      <description>7000 BLOCK BALTIMORE NATIONAL PIKE Units: E121, TT4</description>
-      <guid isPermaLink="false">2025-07-25 09:18:00</guid>
-      <pubDate>Fri, 25 Jul 2025 09:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
