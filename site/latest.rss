@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 18:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 18:42:44 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:11 pm</title>
+      <description>6700 BLOCK NATIONAL PIKE Units: E72, K7, E82</description>
+      <guid isPermaLink="false">2025-07-28 14:11:00</guid>
+      <pubDate>Mon, 28 Jul 2025 14:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
       <description>2500 BLOCK CATOCTIN CT Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>APPROX LOC:6264 LINGANORE RD Radio: 9D Units: E331, E152, R3, R2, TR29, BT15, BT29, A339, A318, ALS2, BC901, SAF901, EMS901</description>
       <guid isPermaLink="false">2025-07-26 20:45:00</guid>
       <pubDate>Sat, 26 Jul 2025 20:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 8:33 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, Apt/Unit:233, DAYS INN Radio: 9C Units: PE311, E31, TT4</description>
-      <guid isPermaLink="false">2025-07-26 20:33:00</guid>
-      <pubDate>Sat, 26 Jul 2025 20:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
