@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 08:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 08:41:32 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:30 am</title>
+      <description>7900 BLOCK BLACK RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-07-28 04:30:00</guid>
+      <pubDate>Mon, 28 Jul 2025 04:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:04 am</title>
       <description>6300 BLOCK SPRINGWATER TER, Apt/Unit:1122, HAMPTON COURT CONDOS - 6300 BLOCK SPRINGWATER TER Radio: 9C Units: E331, TT4</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / RT550, RT15SB / RT550 Radio: 9I Units: PE102, R10, A307, ALS29, BC902, EMS902</description>
       <guid isPermaLink="false">2025-07-26 15:38:00</guid>
       <pubDate>Sat, 26 Jul 2025 15:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:55 pm</title>
-      <description>1400 BLOCKB KEY PKWY, Apt/Unit:304 Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-07-26 14:55:00</guid>
-      <pubDate>Sat, 26 Jul 2025 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
