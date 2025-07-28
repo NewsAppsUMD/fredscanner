@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 12:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 13:14:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:03 am</title>
+      <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Radio: 9C Units: E31, Q11</description>
+      <guid isPermaLink="false">2025-07-28 09:03:00</guid>
+      <pubDate>Mon, 28 Jul 2025 09:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:55 am</title>
+      <description>3400 BLOCK TUDOR DR Radio: 9B Units: A149</description>
+      <guid isPermaLink="false">2025-07-28 08:55:00</guid>
+      <pubDate>Mon, 28 Jul 2025 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 8:50 am</title>
+      <description>800 BLOCK MOTTER AVE, Apt/Unit:421, SHARPES SQUARE Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-07-28 08:50:00</guid>
+      <pubDate>Mon, 28 Jul 2025 08:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:26 am</title>
       <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD Units: A69, R6</description>
@@ -288,24 +306,6 @@
       <description>6600 BLOCK BEACH DR Radio: 9D Units: E251</description>
       <guid isPermaLink="false">2025-07-26 19:45:00</guid>
       <pubDate>Sat, 26 Jul 2025 19:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:40 pm</title>
-      <description>6600 BLOCK BEACH DR Radio: 9D Units: E152, E331, E172, E111, E31, R15, Q11, TT4, A339, ALS4, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-07-26 19:40:00</guid>
-      <pubDate>Sat, 26 Jul 2025 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 6:48 pm</title>
-      <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61</description>
-      <guid isPermaLink="false">2025-07-26 18:48:00</guid>
-      <pubDate>Sat, 26 Jul 2025 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 6:17 pm</title>
-      <description>6400 BLOCK BARRINGTON DR Units: E331</description>
-      <guid isPermaLink="false">2025-07-26 18:17:00</guid>
-      <pubDate>Sat, 26 Jul 2025 18:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
