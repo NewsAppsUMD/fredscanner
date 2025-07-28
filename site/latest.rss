@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 23:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 23:35:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: A299, E291</description>
+      <guid isPermaLink="false">2025-07-28 19:24:00</guid>
+      <pubDate>Mon, 28 Jul 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 7:08 pm</title>
+      <description>14000 BLOCK HARRISVILLE RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-07-28 19:08:00</guid>
+      <pubDate>Mon, 28 Jul 2025 19:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:58 pm</title>
       <description>ROSEMONT AVE / MONTEVUE LN Radio: 9B Units: A19, TT4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E201</description>
       <guid isPermaLink="false">2025-07-26 21:24:00</guid>
       <pubDate>Sat, 26 Jul 2025 21:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:12 pm</title>
-      <description>4300 BLOCK PRICES DISTILLERY RD Radio: 9I Units: E251, R15, A259, ALS23, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-26 21:12:00</guid>
-      <pubDate>Sat, 26 Jul 2025 21:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:56 pm</title>
-      <description>RT26 / RT15, RT26 / RT15 Radio: 9B Units: A248, E111</description>
-      <guid isPermaLink="false">2025-07-26 20:56:00</guid>
-      <pubDate>Sat, 26 Jul 2025 20:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
