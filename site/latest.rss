@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Jul 2025 09:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 10:02:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:59 am</title>
+      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-07-28 05:59:00</guid>
+      <pubDate>Mon, 28 Jul 2025 05:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:30 am</title>
       <description>7900 BLOCK BLACK RD Radio: 9C Units: PE102</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2025-07-26 16:13:00</guid>
       <pubDate>Sat, 26 Jul 2025 16:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:38 pm</title>
-      <description>RT15SB / RT550, RT15SB / RT550 Radio: 9I Units: PE102, R10, A307, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-26 15:38:00</guid>
-      <pubDate>Sat, 26 Jul 2025 15:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
