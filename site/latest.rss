@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 21:35:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
+      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: E152, R15, A158, A339, E251</description>
+      <guid isPermaLink="false">2025-07-29 17:54:00</guid>
+      <pubDate>Tue, 29 Jul 2025 17:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
       <description>PARK MILLS RD / FINGERBOARD RD Radio: 9B Units: A238, E231</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: E51, E201, T5</description>
       <guid isPermaLink="false">2025-07-27 19:39:00</guid>
       <pubDate>Sun, 27 Jul 2025 19:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:21 pm</title>
-      <description>JOHN DRAPER RD / STOTTLEMYER RD, IAO Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2025-07-27 19:21:00</guid>
-      <pubDate>Sun, 27 Jul 2025 19:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
