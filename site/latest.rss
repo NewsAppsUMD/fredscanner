@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 12:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 12:44:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:14 am</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A318, R3, E231</description>
+      <guid isPermaLink="false">2025-07-29 08:14:00</guid>
+      <pubDate>Tue, 29 Jul 2025 08:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:52 am</title>
       <description>11900 BLOCKA AUBURN RD Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK FAIRFIELD RD, WELLSPAN REHAB Radio: ACOPS2 Units: TW6</description>
       <guid isPermaLink="false">2025-07-27 06:44:00</guid>
       <pubDate>Sun, 27 Jul 2025 06:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:51 am</title>
-      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:C308 Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-07-27 05:51:00</guid>
-      <pubDate>Sun, 27 Jul 2025 05:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
