@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 11:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 12:03:24 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:52 am</title>
+      <description>11900 BLOCKA AUBURN RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-07-29 07:52:00</guid>
+      <pubDate>Tue, 29 Jul 2025 07:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:46 am</title>
+      <description>11900 BLOCKA AUBURN RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2025-07-29 07:46:00</guid>
+      <pubDate>Tue, 29 Jul 2025 07:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 7:45 am</title>
+      <description>28500 BLOCK CLARKSBURG RD Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-07-29 07:45:00</guid>
+      <pubDate>Tue, 29 Jul 2025 07:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 6:48 am</title>
       <description>11700 BLOCK ROWE CT Units: E251, E152, E231, E331, E172, R15, K23, A259, ALS23, BC901, BC903, SAF901, TT23, CCK1</description>
@@ -288,24 +306,6 @@
       <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:C308 Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2025-07-27 05:51:00</guid>
       <pubDate>Sun, 27 Jul 2025 05:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:47 am</title>
-      <description>JEFFERSON PIKE / HIMES AVE Units: PE311</description>
-      <guid isPermaLink="false">2025-07-27 01:47:00</guid>
-      <pubDate>Sun, 27 Jul 2025 01:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:42 am</title>
-      <description>JEFFERSON PIKE / HIMES AVE Units: A19, E11</description>
-      <guid isPermaLink="false">2025-07-27 01:42:00</guid>
-      <pubDate>Sun, 27 Jul 2025 01:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 12:52 am</title>
-      <description>I70EB / 47MM, I70EB / 47MM Radio: 9D Units: E121, E82, R3, A89, ALS8, EMS901</description>
-      <guid isPermaLink="false">2025-07-27 00:52:00</guid>
-      <pubDate>Sun, 27 Jul 2025 00:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
