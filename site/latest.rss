@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 16:40:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 17:04:38 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:54 pm</title>
+      <description>4300 BLOCK REELS MILL RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2025-07-29 12:54:00</guid>
+      <pubDate>Tue, 29 Jul 2025 12:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:54 am</title>
       <description>3400 BLOCK STONE BARN DR, SUGARLOAF ELEMENTARY SCHOOL Radio: 9C Units: E231, TT23</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK PRESIDENTS CT, WINE DISTRICTS Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2025-07-27 12:42:00</guid>
       <pubDate>Sun, 27 Jul 2025 12:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 11:10 am</title>
-      <description>14900 BLOCK OLD CAMP AIRY RD Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-27 11:10:00</guid>
-      <pubDate>Sun, 27 Jul 2025 11:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
