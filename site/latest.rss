@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Jul 2025 18:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 19:04:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:43 pm</title>
+      <description>500 BLOCK HOLLYBERRY WAY Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-07-29 14:43:00</guid>
+      <pubDate>Tue, 29 Jul 2025 14:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
       <description>DEVILBISS BRIDGE RD / OLD FREDERICK RD Radio: 9D Units: ALS2, EMS902</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, E31, R3, A39, A19</description>
       <guid isPermaLink="false">2025-07-27 13:02:00</guid>
       <pubDate>Sun, 27 Jul 2025 13:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:01 pm</title>
-      <description>200 BLOCK W MAIN ST Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-07-27 13:01:00</guid>
-      <pubDate>Sun, 27 Jul 2025 13:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
