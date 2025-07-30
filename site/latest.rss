@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 19:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 20:02:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:47 pm</title>
+      <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-07-30 15:47:00</guid>
+      <pubDate>Wed, 30 Jul 2025 15:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 3:20 pm</title>
       <description>I70EB / CATOCTIN CREEK, I70EB / CATOCTIN CREEK Radio: 9C Units: E82, E121</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK CORNELL DR Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2025-07-29 00:58:00</guid>
       <pubDate>Tue, 29 Jul 2025 00:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:53 am</title>
-      <description>200 BLOCK CORNELL DR Radio: 9C Units: E162, E91, R24, K17, EK134</description>
-      <guid isPermaLink="false">2025-07-29 00:53:00</guid>
-      <pubDate>Tue, 29 Jul 2025 00:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
