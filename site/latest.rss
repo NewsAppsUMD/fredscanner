@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 13:14:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 13:43:19 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:31 am</title>
+      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Units: PE311, TW1</description>
+      <guid isPermaLink="false">2025-07-30 09:31:00</guid>
+      <pubDate>Wed, 30 Jul 2025 09:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:26 am</title>
+      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-07-30 09:26:00</guid>
+      <pubDate>Wed, 30 Jul 2025 09:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:22 am</title>
       <description>4000 BLOCK LOMAR DR Radio: 9C Units: R15</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK MOTTER AVE, Apt/Unit:421, SHARPES SQUARE Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2025-07-28 08:50:00</guid>
       <pubDate>Mon, 28 Jul 2025 08:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:26 am</title>
-      <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD Units: A69, R6</description>
-      <guid isPermaLink="false">2025-07-28 08:26:00</guid>
-      <pubDate>Mon, 28 Jul 2025 08:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:35 am</title>
-      <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Radio: 9C Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-07-28 07:35:00</guid>
-      <pubDate>Mon, 28 Jul 2025 07:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
