@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 16:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 16:39:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:19 pm</title>
+      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: E111</description>
+      <guid isPermaLink="false">2025-07-30 12:19:00</guid>
+      <pubDate>Wed, 30 Jul 2025 12:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:19 pm</title>
+      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: U11</description>
+      <guid isPermaLink="false">2025-07-30 12:19:00</guid>
+      <pubDate>Wed, 30 Jul 2025 12:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:13 pm</title>
+      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: R24</description>
+      <guid isPermaLink="false">2025-07-30 12:13:00</guid>
+      <pubDate>Wed, 30 Jul 2025 12:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:08 pm</title>
+      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: E111, R24, A248, ALS17, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-07-30 12:08:00</guid>
+      <pubDate>Wed, 30 Jul 2025 12:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:21 am</title>
       <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: E201</description>
@@ -282,30 +306,6 @@
       <description>14000 BLOCK HARRISVILLE RD Radio: 9C Units: E172</description>
       <guid isPermaLink="false">2025-07-28 19:08:00</guid>
       <pubDate>Mon, 28 Jul 2025 19:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:58 pm</title>
-      <description>ROSEMONT AVE / MONTEVUE LN Radio: 9B Units: A19, TT4</description>
-      <guid isPermaLink="false">2025-07-28 16:58:00</guid>
-      <pubDate>Mon, 28 Jul 2025 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
-      <description>S RENN RD / CAP STINE RD Units: A209, E201</description>
-      <guid isPermaLink="false">2025-07-28 16:27:00</guid>
-      <pubDate>Mon, 28 Jul 2025 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:11 pm</title>
-      <description>6700 BLOCK NATIONAL PIKE Units: E72, K7, E82</description>
-      <guid isPermaLink="false">2025-07-28 14:11:00</guid>
-      <pubDate>Mon, 28 Jul 2025 14:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
-      <description>2500 BLOCK CATOCTIN CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-28 13:30:00</guid>
-      <pubDate>Mon, 28 Jul 2025 13:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
