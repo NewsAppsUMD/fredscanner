@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 10:39:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 11:02:04 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:55 am</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:T, ELMWOOD TERRACE APTS - BLDG T Radio: 9C Units: E11, E31, TT4</description>
+      <guid isPermaLink="false">2025-07-30 06:55:00</guid>
+      <pubDate>Wed, 30 Jul 2025 06:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:58 am</title>
       <description>I270NB / RT80, I270NB / RT80 Units: E231, R3, A238, A259, E251, TT23</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK BLACK RD Radio: 9C Units: PE102</description>
       <guid isPermaLink="false">2025-07-28 04:30:00</guid>
       <pubDate>Mon, 28 Jul 2025 04:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:04 am</title>
-      <description>6300 BLOCK SPRINGWATER TER, Apt/Unit:1122, HAMPTON COURT CONDOS - 6300 BLOCK SPRINGWATER TER Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2025-07-28 02:04:00</guid>
-      <pubDate>Mon, 28 Jul 2025 02:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
