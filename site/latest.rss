@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 12:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 12:44:18 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:22 am</title>
+      <description>4000 BLOCK LOMAR DR Radio: 9C Units: R15</description>
+      <guid isPermaLink="false">2025-07-30 08:22:00</guid>
+      <pubDate>Wed, 30 Jul 2025 08:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:17 am</title>
+      <description>4000 BLOCK LOMAR DR Radio: 9C Units: CCK1</description>
+      <guid isPermaLink="false">2025-07-30 08:17:00</guid>
+      <pubDate>Wed, 30 Jul 2025 08:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:17 am</title>
+      <description>4000 BLOCK LOMAR DR Radio: 9C Units: E251, E152, CCK1</description>
+      <guid isPermaLink="false">2025-07-30 08:17:00</guid>
+      <pubDate>Wed, 30 Jul 2025 08:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:55 am</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:T, ELMWOOD TERRACE APTS - BLDG T Radio: 9C Units: E11, E31, TT4</description>
@@ -288,24 +306,6 @@
       <description>1700 BLOCK SCHIFFERSTADT BLVD, THOMAS JOHNSON MIDDLE SCHOOL Radio: 9C Units: PE23, Q11</description>
       <guid isPermaLink="false">2025-07-28 07:35:00</guid>
       <pubDate>Mon, 28 Jul 2025 07:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 6:57 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-07-28 06:57:00</guid>
-      <pubDate>Mon, 28 Jul 2025 06:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:59 am</title>
-      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2025-07-28 05:59:00</guid>
-      <pubDate>Mon, 28 Jul 2025 05:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:30 am</title>
-      <description>7900 BLOCK BLACK RD Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2025-07-28 04:30:00</guid>
-      <pubDate>Mon, 28 Jul 2025 04:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
