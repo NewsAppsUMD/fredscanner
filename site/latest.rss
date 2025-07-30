@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 18:42:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 19:04:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:50 pm</title>
+      <description>I70WB / CARROLL COUNTY LINE, I70WB / CARROLL COUNTY LINE Radio: 9B Units: E152, R15, A158</description>
+      <guid isPermaLink="false">2025-07-30 14:50:00</guid>
+      <pubDate>Wed, 30 Jul 2025 14:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:00 pm</title>
       <description>5100 BLOCK PEGASUS CT, SUITE D Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>LINGANORE RD / PLANTATION RD Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2025-07-28 21:13:00</guid>
       <pubDate>Mon, 28 Jul 2025 21:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:24 pm</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: A299, E291</description>
-      <guid isPermaLink="false">2025-07-28 19:24:00</guid>
-      <pubDate>Mon, 28 Jul 2025 19:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
