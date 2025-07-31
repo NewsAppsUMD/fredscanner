@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Jul 2025 23:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 00:08:37 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:53 pm</title>
+      <description>1900 BLOCK TIMBER GROVE RD Radio: 9C Units: E291</description>
+      <guid isPermaLink="false">2025-07-30 19:53:00</guid>
+      <pubDate>Wed, 30 Jul 2025 19:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:40 pm</title>
+      <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9D Units: E331, R3, A339, ALS4, EMS902</description>
+      <guid isPermaLink="false">2025-07-30 19:40:00</guid>
+      <pubDate>Wed, 30 Jul 2025 19:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:47 pm</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:V, Apt/Unit:V302, ELMWOOD TERRACE APTS - BLDG V Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A318, R3, E231</description>
       <guid isPermaLink="false">2025-07-29 08:14:00</guid>
       <pubDate>Tue, 29 Jul 2025 08:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:52 am</title>
-      <description>11900 BLOCKA AUBURN RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-07-29 07:52:00</guid>
-      <pubDate>Tue, 29 Jul 2025 07:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:46 am</title>
-      <description>11900 BLOCKA AUBURN RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2025-07-29 07:46:00</guid>
-      <pubDate>Tue, 29 Jul 2025 07:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
