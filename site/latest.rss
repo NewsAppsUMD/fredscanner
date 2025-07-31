@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 17:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 18:02:39 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:21 pm</title>
+      <description>BUCKEYSTOWN PIKE / FRANCIS SCOTT KEY DR Radio: 9B Units: A38, R3</description>
+      <guid isPermaLink="false">2025-07-31 13:21:00</guid>
+      <pubDate>Thu, 31 Jul 2025 13:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:42 am</title>
       <description>9700 BLOCK ROYAL CREST CIR Radio: 9C Units: E231</description>
@@ -300,12 +306,6 @@
       <description>DEVILBISS BRIDGE RD / OLD FREDERICK RD Radio: 9D Units: ALS2, EMS902</description>
       <guid isPermaLink="false">2025-07-29 13:42:00</guid>
       <pubDate>Tue, 29 Jul 2025 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:39 pm</title>
-      <description>DEVILBISS BRIDGE RD / OLD FREDERICK RD Units: A229, E291, E221</description>
-      <guid isPermaLink="false">2025-07-29 13:39:00</guid>
-      <pubDate>Tue, 29 Jul 2025 13:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
