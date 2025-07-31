@@ -6,7 +6,79 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 22:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:36:55 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:29 pm</title>
+      <description>4100 BLOCK WALNUTWOOD CT Radio: 9D Units: E172, R15, A159, EMS901</description>
+      <guid isPermaLink="false">2025-07-31 18:29:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:28 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E101</description>
+      <guid isPermaLink="false">2025-07-31 18:28:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 6:23 pm</title>
+      <description>4900 BLOCK TALL OAKS DR Units: E152, R15</description>
+      <guid isPermaLink="false">2025-07-31 18:23:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:16 pm</title>
+      <description>10000 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-07-31 18:16:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:15 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E201</description>
+      <guid isPermaLink="false">2025-07-31 18:15:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:14 pm</title>
+      <description>7300 BLOCK MARKER RD Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2025-07-31 18:14:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:12 pm</title>
+      <description>4100 BLOCK WALNUTWOOD CT Units: K17</description>
+      <guid isPermaLink="false">2025-07-31 18:12:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:09 pm</title>
+      <description>4100 BLOCK WALNUTWOOD CT Radio: 9D Units: E162, E121</description>
+      <guid isPermaLink="false">2025-07-31 18:09:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 6:07 pm</title>
+      <description>100 BLOCK DORCHESTER DR Radio: 9C Units: PE23, E501, TW1</description>
+      <guid isPermaLink="false">2025-07-31 18:07:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:05 pm</title>
+      <description>4100 BLOCK WALNUTWOOD CT Radio: 9D Units: E331, E31, PE311, RE171, R3, K23, A259, ALS23, BC901, BC902, SAF901, CCK1</description>
+      <guid isPermaLink="false">2025-07-31 18:05:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 6:03 pm</title>
+      <description>4300 BLOCK MOXLEY VALLEY DR Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-07-31 18:03:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:02 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: BT28</description>
+      <guid isPermaLink="false">2025-07-31 18:02:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:55 pm</title>
       <description>5400 BLOCK BARTONSVILLE RD Radio: 9C Units: E331</description>
@@ -234,78 +306,6 @@
       <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: U11</description>
       <guid isPermaLink="false">2025-07-30 12:19:00</guid>
       <pubDate>Wed, 30 Jul 2025 12:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:13 pm</title>
-      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: R24</description>
-      <guid isPermaLink="false">2025-07-30 12:13:00</guid>
-      <pubDate>Wed, 30 Jul 2025 12:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:08 pm</title>
-      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: E111, R24, A248, ALS17, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-07-30 12:08:00</guid>
-      <pubDate>Wed, 30 Jul 2025 12:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:21 am</title>
-      <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: E201</description>
-      <guid isPermaLink="false">2025-07-30 11:21:00</guid>
-      <pubDate>Wed, 30 Jul 2025 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:07 am</title>
-      <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: E201, T5</description>
-      <guid isPermaLink="false">2025-07-30 11:07:00</guid>
-      <pubDate>Wed, 30 Jul 2025 11:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:24 am</title>
-      <description>URBANA PIKE / FINGERBOARD RD Radio: 9D Units: E231, R3, A318, ALS31, EMS901, TT23</description>
-      <guid isPermaLink="false">2025-07-30 10:24:00</guid>
-      <pubDate>Wed, 30 Jul 2025 10:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:57 am</title>
-      <description>7100 BLOCK CRESTWOOD BLVD, KAISER PERMANENTE Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2025-07-30 09:57:00</guid>
-      <pubDate>Wed, 30 Jul 2025 09:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:53 am</title>
-      <description>ROCKY RIDGE RD / LONGS MILL RD Radio: 9D Units: BC902</description>
-      <guid isPermaLink="false">2025-07-30 09:53:00</guid>
-      <pubDate>Wed, 30 Jul 2025 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:50 am</title>
-      <description>ROCKY RIDGE RD / LONGS MILL RD Radio: 9D Units: E132, R6, A308, PE102, EMS902</description>
-      <guid isPermaLink="false">2025-07-30 09:50:00</guid>
-      <pubDate>Wed, 30 Jul 2025 09:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:31 am</title>
-      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-07-30 09:31:00</guid>
-      <pubDate>Wed, 30 Jul 2025 09:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:26 am</title>
-      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2025-07-30 09:26:00</guid>
-      <pubDate>Wed, 30 Jul 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:22 am</title>
-      <description>4000 BLOCK LOMAR DR Radio: 9C Units: R15</description>
-      <guid isPermaLink="false">2025-07-30 08:22:00</guid>
-      <pubDate>Wed, 30 Jul 2025 08:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:17 am</title>
-      <description>4000 BLOCK LOMAR DR Radio: 9C Units: CCK1</description>
-      <guid isPermaLink="false">2025-07-30 08:17:00</guid>
-      <pubDate>Wed, 30 Jul 2025 08:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
