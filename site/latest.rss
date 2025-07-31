@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 21:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 21:34:58 +0000</lastBuildDate>
+    <item>
+      <title>WATER RESCUE: 5:29 pm</title>
+      <description>200 BLOCK WATERSVILLE RD Units: BT15</description>
+      <guid isPermaLink="false">2025-07-31 17:29:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:25 pm</title>
+      <description>11700 BLOCK BARNSWALLOW PL Radio: 9C Units: R15</description>
+      <guid isPermaLink="false">2025-07-31 17:25:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:23 pm</title>
+      <description>3000 BLOCK PRICES DISTILLERY RD Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-07-31 17:23:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:20 pm</title>
+      <description>300 BLOCK E WAINSCOT DR Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-07-31 17:20:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:17 pm</title>
+      <description>10200 BLOCK ROYAL SAINT ANDREWS PL Radio: 9B Units: BR156</description>
+      <guid isPermaLink="false">2025-07-31 17:17:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:13 pm</title>
+      <description>BARTONSVILLE RD / HILDEBRAND RD Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-07-31 17:13:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 5:13 pm</title>
+      <description>GREEN VALLEY RD / WINDSOR RD Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-07-31 17:13:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:09 pm</title>
+      <description>URBANA PIKE / REELS MILL RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2025-07-31 17:09:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:00 pm</title>
+      <description>300 BLOCKA PROSPECT BLVD Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-07-31 17:00:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:39 pm</title>
       <description>100 BLOCK FOX ROCK DR Radio: 9C Units: BR85</description>
@@ -252,60 +306,6 @@
       <description>8700 BLOCK GAS HOUSE PIKE Units: PE23, Q11</description>
       <guid isPermaLink="false">2025-07-30 03:05:00</guid>
       <pubDate>Wed, 30 Jul 2025 03:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:30 pm</title>
-      <description>5800 BLOCK MERCANTILE DR W Units: PE311, E31, PE23, E501, E291, R3, TW1, TT4, A318, ALS31, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-07-29 22:30:00</guid>
-      <pubDate>Tue, 29 Jul 2025 22:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:18 pm</title>
-      <description>1300 BLOCK W PATRICK ST, GOLDEN MILE EXXON Radio: 9C Units: K1</description>
-      <guid isPermaLink="false">2025-07-29 19:18:00</guid>
-      <pubDate>Tue, 29 Jul 2025 19:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:16 pm</title>
-      <description>1300 BLOCK W PATRICK ST, GOLDEN MILE EXXON Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-07-29 19:16:00</guid>
-      <pubDate>Tue, 29 Jul 2025 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
-      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: E152, R15, A158, A339, E251</description>
-      <guid isPermaLink="false">2025-07-29 17:54:00</guid>
-      <pubDate>Tue, 29 Jul 2025 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
-      <description>PARK MILLS RD / FINGERBOARD RD Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-07-29 16:55:00</guid>
-      <pubDate>Tue, 29 Jul 2025 16:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
-      <description>I70EB / 44MM, I70EB / 44MM Radio: 9B Units: E121, E82, R3, A89</description>
-      <guid isPermaLink="false">2025-07-29 16:32:00</guid>
-      <pubDate>Tue, 29 Jul 2025 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:05 pm</title>
-      <description>500 BLOCK CAWLEY DR, BALLENGER POINTE CONDOS - 500 BLOCK CAWLEY DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-07-29 16:05:00</guid>
-      <pubDate>Tue, 29 Jul 2025 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:38 pm</title>
-      <description>3500 BLOCK SIGLER RD Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2025-07-29 15:38:00</guid>
-      <pubDate>Tue, 29 Jul 2025 15:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:29 pm</title>
-      <description>6000 BLOCK SPRING RIDGE PKWY, CELEBREE LEARNING CENTER - SPRING RIDGE Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2025-07-29 15:29:00</guid>
-      <pubDate>Tue, 29 Jul 2025 15:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
