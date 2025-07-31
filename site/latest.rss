@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 21:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:02:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:55 pm</title>
+      <description>5400 BLOCK BARTONSVILLE RD Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-07-31 17:55:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 5:51 pm</title>
+      <description>10200 BLOCK ROYAL SAINT ANDREWS PL Units: TR29</description>
+      <guid isPermaLink="false">2025-07-31 17:51:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>STRANDED IN FLOODWATER: 5:46 pm</title>
+      <description>RT144 / PARKRIDGE DR, RT144 / PARKRIDGE DR Radio: 9D Units: E152, BT29</description>
+      <guid isPermaLink="false">2025-07-31 17:46:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:43 pm</title>
+      <description>5100 BLOCK OLD BARTHOLOWS RD, Bldg:A Units: A259</description>
+      <guid isPermaLink="false">2025-07-31 17:43:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:33 pm</title>
+      <description>4400 BLOCK STOVEPIPE LN Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-07-31 17:33:00</guid>
+      <pubDate>Thu, 31 Jul 2025 17:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WATER RESCUE: 5:29 pm</title>
       <description>200 BLOCK WATERSVILLE RD Units: BT15</description>
@@ -276,36 +306,6 @@
       <description>4000 BLOCK LOMAR DR Radio: 9C Units: CCK1</description>
       <guid isPermaLink="false">2025-07-30 08:17:00</guid>
       <pubDate>Wed, 30 Jul 2025 08:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:17 am</title>
-      <description>4000 BLOCK LOMAR DR Radio: 9C Units: E251, E152, CCK1</description>
-      <guid isPermaLink="false">2025-07-30 08:17:00</guid>
-      <pubDate>Wed, 30 Jul 2025 08:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:55 am</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:T, ELMWOOD TERRACE APTS - BLDG T Radio: 9C Units: E11, E31, TT4</description>
-      <guid isPermaLink="false">2025-07-30 06:55:00</guid>
-      <pubDate>Wed, 30 Jul 2025 06:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:58 am</title>
-      <description>I270NB / RT80, I270NB / RT80 Units: E231, R3, A238, A259, E251, TT23</description>
-      <guid isPermaLink="false">2025-07-30 04:58:00</guid>
-      <pubDate>Wed, 30 Jul 2025 04:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:10 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE Units: TT4</description>
-      <guid isPermaLink="false">2025-07-30 03:10:00</guid>
-      <pubDate>Wed, 30 Jul 2025 03:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:05 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-07-30 03:05:00</guid>
-      <pubDate>Wed, 30 Jul 2025 03:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
