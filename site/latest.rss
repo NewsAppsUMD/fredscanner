@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 31 Jul 2025 23:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 23:34:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:31 pm</title>
+      <description>6700 BLOCK ENGLISH MUFFIN WAY, UNITED PARCEL SERVICE Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-07-31 19:31:00</guid>
+      <pubDate>Thu, 31 Jul 2025 19:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:26 pm</title>
+      <description>10700 BLOCK CHURCH HILL RD, IAO Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-07-31 19:26:00</guid>
+      <pubDate>Thu, 31 Jul 2025 19:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:59 pm</title>
+      <description>4700 BLOCK IJAMSVILLE RD(OLD), GABRIELS INN (OLD) Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2025-07-31 18:59:00</guid>
+      <pubDate>Thu, 31 Jul 2025 18:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 6:57 pm</title>
       <description>E SOUTH ST / WINCHESTER ST Radio: 9C Units: BR35</description>
@@ -288,24 +306,6 @@
       <description>11200 BLOCK LIBERTY RD Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2025-07-30 15:01:00</guid>
       <pubDate>Wed, 30 Jul 2025 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:50 pm</title>
-      <description>I70WB / CARROLL COUNTY LINE, I70WB / CARROLL COUNTY LINE Radio: 9B Units: E152, R15, A158</description>
-      <guid isPermaLink="false">2025-07-30 14:50:00</guid>
-      <pubDate>Wed, 30 Jul 2025 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:00 pm</title>
-      <description>5100 BLOCK PEGASUS CT, SUITE D Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-07-30 13:00:00</guid>
-      <pubDate>Wed, 30 Jul 2025 13:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:19 pm</title>
-      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9D Units: E111</description>
-      <guid isPermaLink="false">2025-07-30 12:19:00</guid>
-      <pubDate>Wed, 30 Jul 2025 12:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
