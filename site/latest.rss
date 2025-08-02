@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 14:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 15:02:03 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 10:33 am</title>
+      <description>100 BLOCK E FREDERICK ST, ITALIA NEW YORK PIZZA Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-08-02 10:33:00</guid>
+      <pubDate>Sat, 02 Aug 2025 10:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:13 am</title>
       <description>WILLOWDALE DR / SHOOKSTOWN RD Radio: 9B Units: A19, E11</description>
@@ -300,12 +306,6 @@
       <description>3000 BLOCK PRICES DISTILLERY RD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2025-07-31 17:23:00</guid>
       <pubDate>Thu, 31 Jul 2025 17:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:20 pm</title>
-      <description>300 BLOCK E WAINSCOT DR Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2025-07-31 17:20:00</guid>
-      <pubDate>Thu, 31 Jul 2025 17:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
