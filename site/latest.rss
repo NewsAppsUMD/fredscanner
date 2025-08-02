@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 19:01:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:55 pm</title>
+      <description>2500 BLOCK ANGELL AVE Units: A299, E291</description>
+      <guid isPermaLink="false">2025-08-02 14:55:00</guid>
+      <pubDate>Sat, 02 Aug 2025 14:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:50 pm</title>
       <description>1300 BLOCK DAVID LN Units: E11</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK BARTONSVILLE RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-07-31 17:55:00</guid>
       <pubDate>Thu, 31 Jul 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:51 pm</title>
-      <description>10200 BLOCK ROYAL SAINT ANDREWS PL Units: TR29</description>
-      <guid isPermaLink="false">2025-07-31 17:51:00</guid>
-      <pubDate>Thu, 31 Jul 2025 17:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
