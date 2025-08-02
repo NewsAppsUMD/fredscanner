@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 16:38:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 17:02:08 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:50 pm</title>
+      <description>1300 BLOCK DAVID LN Units: E11</description>
+      <guid isPermaLink="false">2025-08-02 12:50:00</guid>
+      <pubDate>Sat, 02 Aug 2025 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:49 pm</title>
+      <description>RT26WB / WORMANS MILL RD, RT26WB / WORMANS MILL RD Units: A249, E111</description>
+      <guid isPermaLink="false">2025-08-02 12:49:00</guid>
+      <pubDate>Sat, 02 Aug 2025 12:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:38 pm</title>
+      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Units: E331, E152, R15, A159, A38</description>
+      <guid isPermaLink="false">2025-08-02 12:38:00</guid>
+      <pubDate>Sat, 02 Aug 2025 12:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:13 pm</title>
       <description>5600 BLOCK NEW DESIGN RD, Bldg:B, Apt/Unit:301 Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>10200 BLOCK ROYAL SAINT ANDREWS PL Units: TR29</description>
       <guid isPermaLink="false">2025-07-31 17:51:00</guid>
       <pubDate>Thu, 31 Jul 2025 17:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRANDED IN FLOODWATER: 5:46 pm</title>
-      <description>RT144 / PARKRIDGE DR, RT144 / PARKRIDGE DR Radio: 9D Units: E152, BT29</description>
-      <guid isPermaLink="false">2025-07-31 17:46:00</guid>
-      <pubDate>Thu, 31 Jul 2025 17:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:43 pm</title>
-      <description>5100 BLOCK OLD BARTHOLOWS RD, Bldg:A Units: A259</description>
-      <guid isPermaLink="false">2025-07-31 17:43:00</guid>
-      <pubDate>Thu, 31 Jul 2025 17:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 5:33 pm</title>
-      <description>4400 BLOCK STOVEPIPE LN Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-07-31 17:33:00</guid>
-      <pubDate>Thu, 31 Jul 2025 17:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
