@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 04:12:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 04:41:42 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 12:16 am</title>
+      <description>5800 BLOCK MEADOW DR Radio: 9C Units: K7</description>
+      <guid isPermaLink="false">2025-08-02 00:16:00</guid>
+      <pubDate>Sat, 02 Aug 2025 00:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 12:10 am</title>
       <description>5800 BLOCK MEADOW DR Radio: 9C Units: E11, E121, K1</description>
@@ -300,12 +306,6 @@
       <description>BUCKEYSTOWN PIKE / FRANCIS SCOTT KEY DR Radio: 9B Units: A38, R3</description>
       <guid isPermaLink="false">2025-07-31 13:21:00</guid>
       <pubDate>Thu, 31 Jul 2025 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:42 am</title>
-      <description>9700 BLOCK ROYAL CREST CIR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-07-31 10:42:00</guid>
-      <pubDate>Thu, 31 Jul 2025 10:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
