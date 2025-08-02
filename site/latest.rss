@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Aug 2025 07:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 08:02:21 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 3:52 am</title>
+      <description>100 BLOCK MAPLE AVE Radio: 9C Units: E291</description>
+      <guid isPermaLink="false">2025-08-02 03:52:00</guid>
+      <pubDate>Sat, 02 Aug 2025 03:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 3:43 am</title>
+      <description>100 BLOCK MAPLE AVE Radio: 9C Units: E111, E162, Q11</description>
+      <guid isPermaLink="false">2025-08-02 03:43:00</guid>
+      <pubDate>Sat, 02 Aug 2025 03:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:33 am</title>
+      <description>100 BLOCK E SEVENTH ST, VERNON AVE WATER TOWER Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-02 03:33:00</guid>
+      <pubDate>Sat, 02 Aug 2025 03:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 1:11 am</title>
       <description>100 BLOCK BLK RAMP RT15NB TO W 7TH ST RAMP Radio: 9D Units: A18, ALS2, E11, EMS902</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCKA PROSPECT BLVD Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-07-31 17:00:00</guid>
       <pubDate>Thu, 31 Jul 2025 17:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:39 pm</title>
-      <description>100 BLOCK FOX ROCK DR Radio: 9C Units: BR85</description>
-      <guid isPermaLink="false">2025-07-31 16:39:00</guid>
-      <pubDate>Thu, 31 Jul 2025 16:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:34 pm</title>
-      <description>300 BLOCK NINTH AVE Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2025-07-31 16:34:00</guid>
-      <pubDate>Thu, 31 Jul 2025 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:07 pm</title>
-      <description>200 BLOCK S CARROLL ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2025-07-31 16:07:00</guid>
-      <pubDate>Thu, 31 Jul 2025 16:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
