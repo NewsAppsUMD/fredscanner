@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 23:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 23:34:46 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 7:30 pm</title>
+      <description>1400 BLOCK HOFFMASTER RD Units: R20</description>
+      <guid isPermaLink="false">2025-08-03 19:30:00</guid>
+      <pubDate>Sun, 03 Aug 2025 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:52 pm</title>
       <description>4500 BLOCK BILL MOXLEY RD, IAO Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>21200 BLOCK MARTINSBURG RD DICKERSON RESOURCE RECOVERY FACILITY, DICKERSON RESOURCE RECOVERY FACILITY Radio: 7A4 Units: R14, E281</description>
       <guid isPermaLink="false">2025-07-31 23:54:00</guid>
       <pubDate>Thu, 31 Jul 2025 23:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRANDED IN FLOODWATER: 9:52 pm</title>
-      <description>11600 BLOCK GAS HOUSE PIKE Radio: 9D Units: E152, BT15, A159</description>
-      <guid isPermaLink="false">2025-07-31 21:52:00</guid>
-      <pubDate>Thu, 31 Jul 2025 21:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
