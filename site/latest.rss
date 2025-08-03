@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 02:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 03:34:25 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:29 pm</title>
+      <description>10300 BLOCK REINDEER TRL Radio: 9B Units: E152</description>
+      <guid isPermaLink="false">2025-08-02 23:29:00</guid>
+      <pubDate>Sat, 02 Aug 2025 23:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:30 pm</title>
       <description>11800 BLOCK AUBURN RD, SPRINGFIELD MANOR WINERY Radio: 9C Units: BR226</description>
@@ -300,12 +306,6 @@
       <description>10000 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: BR85</description>
       <guid isPermaLink="false">2025-07-31 18:16:00</guid>
       <pubDate>Thu, 31 Jul 2025 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:15 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: E201</description>
-      <guid isPermaLink="false">2025-07-31 18:15:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
