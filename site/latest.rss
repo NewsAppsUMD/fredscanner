@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 17:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 17:36:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:12 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238, E231</description>
+      <guid isPermaLink="false">2025-08-03 13:12:00</guid>
+      <pubDate>Sun, 03 Aug 2025 13:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:52 am</title>
       <description>100 BLOCK BLK RAMP E MAIN ST TO RT15SB RAMP Radio: 9D Units: E61, R6, A68, ALS30, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK ADAMSTOWN RD Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2025-07-31 20:07:00</guid>
       <pubDate>Thu, 31 Jul 2025 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:31 pm</title>
-      <description>6700 BLOCK ENGLISH MUFFIN WAY, UNITED PARCEL SERVICE Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-07-31 19:31:00</guid>
-      <pubDate>Thu, 31 Jul 2025 19:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
