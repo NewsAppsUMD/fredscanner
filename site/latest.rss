@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 07:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 07:33:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:00 am</title>
+      <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-08-03 03:00:00</guid>
+      <pubDate>Sun, 03 Aug 2025 03:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 12:39 am</title>
       <description>100 BLOCK WHISKEY CREEK CIR Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: E101</description>
       <guid isPermaLink="false">2025-07-31 18:28:00</guid>
       <pubDate>Thu, 31 Jul 2025 18:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 6:23 pm</title>
-      <description>4900 BLOCK TALL OAKS DR Units: E152, R15</description>
-      <guid isPermaLink="false">2025-07-31 18:23:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
