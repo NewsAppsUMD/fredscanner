@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 14:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 14:35:29 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:33 am</title>
+      <description>KELBAUGH RD / BLACK RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-08-03 10:33:00</guid>
+      <pubDate>Sun, 03 Aug 2025 10:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:07 am</title>
       <description>10900 BLOCK LOUIS DETRICK LN Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>10700 BLOCK CHURCH HILL RD, IAO Radio: 9C Units: BR85</description>
       <guid isPermaLink="false">2025-07-31 19:26:00</guid>
       <pubDate>Thu, 31 Jul 2025 19:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:59 pm</title>
-      <description>4700 BLOCK IJAMSVILLE RD(OLD), GABRIELS INN (OLD) Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2025-07-31 18:59:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
