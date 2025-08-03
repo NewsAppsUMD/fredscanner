@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 10:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 10:37:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:33 am</title>
+      <description>11800 BLOCK BARLEY CT Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-08-03 06:33:00</guid>
+      <pubDate>Sun, 03 Aug 2025 06:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL SPILL: 6:04 am</title>
+      <description>6000 BLOCK BUCKEYSTOWN PIKE, SHEETZ - I70 / EAST ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2025-08-03 06:04:00</guid>
+      <pubDate>Sun, 03 Aug 2025 06:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:00 am</title>
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Radio: 9C Units: E111, Q11</description>
@@ -294,18 +306,6 @@
       <description>E SOUTH ST / WINCHESTER ST Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2025-07-31 18:57:00</guid>
       <pubDate>Thu, 31 Jul 2025 18:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:29 pm</title>
-      <description>4100 BLOCK WALNUTWOOD CT Radio: 9D Units: E172, R15, A159, EMS901</description>
-      <guid isPermaLink="false">2025-07-31 18:29:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:28 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E101</description>
-      <guid isPermaLink="false">2025-07-31 18:28:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
