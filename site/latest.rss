@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 03 Aug 2025 12:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 13:12:22 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:07 am</title>
+      <description>10900 BLOCK LOUIS DETRICK LN Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-08-03 09:07:00</guid>
+      <pubDate>Sun, 03 Aug 2025 09:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:33 am</title>
       <description>11800 BLOCK BARLEY CT Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>4700 BLOCK IJAMSVILLE RD(OLD), GABRIELS INN (OLD) Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2025-07-31 18:59:00</guid>
       <pubDate>Thu, 31 Jul 2025 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:57 pm</title>
-      <description>E SOUTH ST / WINCHESTER ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2025-07-31 18:57:00</guid>
-      <pubDate>Thu, 31 Jul 2025 18:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
