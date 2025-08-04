@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 00:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 00:48:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:25 pm</title>
+      <description>3600 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:5, THE ORENDA CENTER OF WELLNESS Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2025-08-03 20:25:00</guid>
+      <pubDate>Sun, 03 Aug 2025 20:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:05 pm</title>
       <description>300 BLOCK BALLENGER CENTER DR, LIGHT BRIDGE ACADEMY Radio: 9C Units: PE311, TW1</description>
@@ -300,12 +306,6 @@
       <description>21200 BLOCK MARTINSBURG RD DICKERSON RESOURCE RECOVERY FACILITY, DICKERSON RESOURCE RECOVERY FACILITY Radio: 7A4 Units: TT23, ALS23</description>
       <guid isPermaLink="false">2025-08-01 00:12:00</guid>
       <pubDate>Fri, 01 Aug 2025 00:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:10 am</title>
-      <description>21200 BLOCK MARTINSBURG RD DICKERSON RESOURCE RECOVERY FACILITY, DICKERSON RESOURCE RECOVERY FACILITY Radio: 7A4 Units: TT23, ALS23</description>
-      <guid isPermaLink="false">2025-08-01 00:10:00</guid>
-      <pubDate>Fri, 01 Aug 2025 00:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
