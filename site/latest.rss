@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 10:39:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 11:02:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:59 am</title>
+      <description>11800 BLOCK LIBERTY RD, LIBERTY ELEMENTARY SCHOOL Radio: 9C Units: E162, Q11</description>
+      <guid isPermaLink="false">2025-08-04 06:59:00</guid>
+      <pubDate>Mon, 04 Aug 2025 06:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:49 am</title>
+      <description>9500 BLOCK LIBERTY RD Radio: 9C Units: K1</description>
+      <guid isPermaLink="false">2025-08-04 06:49:00</guid>
+      <pubDate>Mon, 04 Aug 2025 06:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:43 am</title>
+      <description>9500 BLOCK LIBERTY RD Radio: 9C Units: E111, E172, E291, Q11, K17, A249, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-08-04 06:43:00</guid>
+      <pubDate>Mon, 04 Aug 2025 06:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:26 am</title>
       <description>4400 BLOCK STOVEPIPE LN Radio: 9C Units: E251, E152, R15</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK MAPLE AVE Radio: 9C Units: E291</description>
       <guid isPermaLink="false">2025-08-02 03:52:00</guid>
       <pubDate>Sat, 02 Aug 2025 03:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 3:43 am</title>
-      <description>100 BLOCK MAPLE AVE Radio: 9C Units: E111, E162, Q11</description>
-      <guid isPermaLink="false">2025-08-02 03:43:00</guid>
-      <pubDate>Sat, 02 Aug 2025 03:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:33 am</title>
-      <description>100 BLOCK E SEVENTH ST, VERNON AVE WATER TOWER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-02 03:33:00</guid>
-      <pubDate>Sat, 02 Aug 2025 03:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 1:11 am</title>
-      <description>100 BLOCK BLK RAMP RT15NB TO W 7TH ST RAMP Radio: 9D Units: A18, ALS2, E11, EMS902</description>
-      <guid isPermaLink="false">2025-08-02 01:11:00</guid>
-      <pubDate>Sat, 02 Aug 2025 01:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
