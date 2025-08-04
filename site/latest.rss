@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 08:41:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 09:06:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:50 am</title>
+      <description>100 BLOCK HAMILTON AVE Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-08-04 04:50:00</guid>
+      <pubDate>Mon, 04 Aug 2025 04:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 10:50 pm</title>
       <description>6800 BLOCK ENGLISH MUFFIN WAY, ARC 3 GASES Radio: 9D Units: E31, E141, R3, HM33, HM50, HMSU33, E121, A39, A38, ALS31, BC901, SAF901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK MEADOW DR Radio: 9C Units: K7</description>
       <guid isPermaLink="false">2025-08-02 00:16:00</guid>
       <pubDate>Sat, 02 Aug 2025 00:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 12:10 am</title>
-      <description>5800 BLOCK MEADOW DR Radio: 9C Units: E11, E121, K1</description>
-      <guid isPermaLink="false">2025-08-02 00:10:00</guid>
-      <pubDate>Sat, 02 Aug 2025 00:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
