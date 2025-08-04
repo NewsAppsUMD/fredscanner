@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 Aug 2025 10:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 10:39:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:26 am</title>
+      <description>4400 BLOCK STOVEPIPE LN Radio: 9C Units: E251, E152, R15</description>
+      <guid isPermaLink="false">2025-08-04 06:26:00</guid>
+      <pubDate>Mon, 04 Aug 2025 06:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:50 am</title>
       <description>100 BLOCK HAMILTON AVE Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15NB TO W 7TH ST RAMP Radio: 9D Units: A18, ALS2, E11, EMS902</description>
       <guid isPermaLink="false">2025-08-02 01:11:00</guid>
       <pubDate>Sat, 02 Aug 2025 01:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 12:16 am</title>
-      <description>5800 BLOCK MEADOW DR Radio: 9C Units: K7</description>
-      <guid isPermaLink="false">2025-08-02 00:16:00</guid>
-      <pubDate>Sat, 02 Aug 2025 00:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
