@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 20:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 21:02:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 4:40 pm</title>
+      <description>RT15SB / OLD FREDERICK RD (HANSONVILLE), RT15SB / OLD FREDERICK RD Radio: 9C Units: E291, E111, K22, E221</description>
+      <guid isPermaLink="false">2025-08-05 16:40:00</guid>
+      <pubDate>Tue, 05 Aug 2025 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:24 pm</title>
       <description>9200 BLOCK MYERSVILLE RD, PH2 Radio: 9B Units: A89, E82</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SOUTH ST, Apt/Unit:B Radio: 9B Units: A39, PE23, TT4, BC901, EMS902</description>
       <guid isPermaLink="false">2025-08-03 21:25:00</guid>
       <pubDate>Sun, 03 Aug 2025 21:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:25 pm</title>
-      <description>3600 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:5, THE ORENDA CENTER OF WELLNESS Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2025-08-03 20:25:00</guid>
-      <pubDate>Sun, 03 Aug 2025 20:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
