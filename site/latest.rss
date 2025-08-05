@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 18:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 19:04:55 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 2:55 pm</title>
+      <description>9600 BLOCK APPOLDS RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-08-05 14:55:00</guid>
+      <pubDate>Tue, 05 Aug 2025 14:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 2:49 pm</title>
+      <description>9600 BLOCK APPOLDS RD Radio: 9C Units: BR135</description>
+      <guid isPermaLink="false">2025-08-05 14:49:00</guid>
+      <pubDate>Tue, 05 Aug 2025 14:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:41 pm</title>
       <description>17300 BLOCK CATOCTIN MOUNTAIN HWY, Apt/Unit:DES BLDG MASON DIXON, MARYLAND WELCOME CENTER RT15SB Radio: 9D Units: PE102, ACE21</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S MARKET ST, HOOTCH &amp; BANTER Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-08-03 19:43:00</guid>
       <pubDate>Sun, 03 Aug 2025 19:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 7:30 pm</title>
-      <description>1400 BLOCK HOFFMASTER RD Units: R20</description>
-      <guid isPermaLink="false">2025-08-03 19:30:00</guid>
-      <pubDate>Sun, 03 Aug 2025 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:52 pm</title>
-      <description>4500 BLOCK BILL MOXLEY RD, IAO Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-08-03 18:52:00</guid>
-      <pubDate>Sun, 03 Aug 2025 18:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
