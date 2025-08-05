@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 20:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 20:36:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:24 pm</title>
+      <description>9200 BLOCK MYERSVILLE RD, PH2 Radio: 9B Units: A89, E82</description>
+      <guid isPermaLink="false">2025-08-05 16:24:00</guid>
+      <pubDate>Tue, 05 Aug 2025 16:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:19 pm</title>
       <description>1400 BLOCK TANEY AVE, APPLEGATE APTS Radio: 9D Units: E291, R3, A19, ALS2, BC901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:5, THE ORENDA CENTER OF WELLNESS Radio: 9C Units: E141, TT23</description>
       <guid isPermaLink="false">2025-08-03 20:25:00</guid>
       <pubDate>Sun, 03 Aug 2025 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:05 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, LIGHT BRIDGE ACADEMY Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-08-03 20:05:00</guid>
-      <pubDate>Sun, 03 Aug 2025 20:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
