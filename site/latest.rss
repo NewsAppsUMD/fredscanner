@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 12:03:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 12:44:26 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:26 am</title>
+      <description>3300 BLOCK IVY MEADOW DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-08-05 08:26:00</guid>
+      <pubDate>Tue, 05 Aug 2025 08:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:15 am</title>
+      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT FIDDLERS GREEN Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-08-05 08:15:00</guid>
+      <pubDate>Tue, 05 Aug 2025 08:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:15 am</title>
+      <description>100 BLOCK HOLLING DR Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-08-05 08:15:00</guid>
+      <pubDate>Tue, 05 Aug 2025 08:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:10 am</title>
+      <description>25700 BLOCK OLD HUNDRED RD IAO, IAO Radio: 7A1 Units: R14</description>
+      <guid isPermaLink="false">2025-08-05 08:10:00</guid>
+      <pubDate>Tue, 05 Aug 2025 08:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:24 am</title>
       <description>I270SB / 25MM, I270SB / 25MM Radio: 9B Units: E231, R3, A239, TT23</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2025-08-03 03:00:00</guid>
       <pubDate>Sun, 03 Aug 2025 03:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 12:39 am</title>
-      <description>100 BLOCK WHISKEY CREEK CIR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-03 00:39:00</guid>
-      <pubDate>Sun, 03 Aug 2025 00:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:29 pm</title>
-      <description>10300 BLOCK REINDEER TRL Radio: 9B Units: E152</description>
-      <guid isPermaLink="false">2025-08-02 23:29:00</guid>
-      <pubDate>Sat, 02 Aug 2025 23:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:30 pm</title>
-      <description>11800 BLOCK AUBURN RD, SPRINGFIELD MANOR WINERY Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2025-08-02 20:30:00</guid>
-      <pubDate>Sat, 02 Aug 2025 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:18 pm</title>
-      <description>4900 BLOCK PINTAIL CT Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-08-02 17:18:00</guid>
-      <pubDate>Sat, 02 Aug 2025 17:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
