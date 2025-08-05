@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 17:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 17:36:39 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:32 pm</title>
+      <description>7200 BLOCK GUILFORD DR Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-08-05 13:32:00</guid>
+      <pubDate>Tue, 05 Aug 2025 13:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:28 pm</title>
+      <description>17300 BLOCK CATOCTIN MOUNTAIN HWY, Apt/Unit:DES BLDG MASON DIXON, MARYLAND WELCOME CENTER RT15SB Radio: 9D Units: E61, E132, E133, ACE11, R6, TW6, K10, A68, ALS30, ACE232, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-08-05 13:28:00</guid>
+      <pubDate>Tue, 05 Aug 2025 13:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:23 pm</title>
+      <description>14300 BLOCK CARROSMAR FARM RD Units: EK64, PE102</description>
+      <guid isPermaLink="false">2025-08-05 13:23:00</guid>
+      <pubDate>Tue, 05 Aug 2025 13:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:22 pm</title>
       <description>12500 BLOCK WOLFSVILLE RD Radio: 9I Units: E82, PE102, E72, RE74, K21, K10, A89, ALS8, E212, BC903, BC900</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Units: E331, TT4</description>
       <guid isPermaLink="false">2025-08-03 15:52:00</guid>
       <pubDate>Sun, 03 Aug 2025 15:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 3:06 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, ROYAL FARMS - MONOCACY BLVD Units: BR35</description>
-      <guid isPermaLink="false">2025-08-03 15:06:00</guid>
-      <pubDate>Sun, 03 Aug 2025 15:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 3:00 pm</title>
-      <description>200 BLOCK PHEBUS AVE Units: TT4</description>
-      <guid isPermaLink="false">2025-08-03 15:00:00</guid>
-      <pubDate>Sun, 03 Aug 2025 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:31 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E291</description>
-      <guid isPermaLink="false">2025-08-03 14:31:00</guid>
-      <pubDate>Sun, 03 Aug 2025 14:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
