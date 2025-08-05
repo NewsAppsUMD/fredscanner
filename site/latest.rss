@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Aug 2025 16:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 16:36:52 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:22 pm</title>
+      <description>12500 BLOCK WOLFSVILLE RD Radio: 9I Units: E82, PE102, E72, RE74, K21, K10, A89, ALS8, E212, BC903, BC900</description>
+      <guid isPermaLink="false">2025-08-05 12:22:00</guid>
+      <pubDate>Tue, 05 Aug 2025 12:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CONFINED SPACE RESCUE: 12:12 pm</title>
+      <description>13500 BLOCK PENN SHOP RD Radio: 9D Units: E231, E251, R15, HM33, TR29, A259, MAU15, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2025-08-05 12:12:00</guid>
+      <pubDate>Tue, 05 Aug 2025 12:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:25 am</title>
       <description>WATER STREET RD / HARP RD Radio: 9C Units: BR116</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E291</description>
       <guid isPermaLink="false">2025-08-03 14:31:00</guid>
       <pubDate>Sun, 03 Aug 2025 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:25 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E11, E121, E31, PE23, E72, R3, TT4, A18, ALS4, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-08-03 14:25:00</guid>
-      <pubDate>Sun, 03 Aug 2025 14:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:12 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238, E231</description>
-      <guid isPermaLink="false">2025-08-03 13:12:00</guid>
-      <pubDate>Sun, 03 Aug 2025 13:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
