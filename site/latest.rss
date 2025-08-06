@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 22:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 22:37:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
+      <description>200 BLOCK THIRTEENTH AVE Radio: 9B Units: E51</description>
+      <guid isPermaLink="false">2025-08-06 18:11:00</guid>
+      <pubDate>Wed, 06 Aug 2025 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:37 pm</title>
       <description>SUNNY WAY / HAMMAKER ST Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>S MARKET ST / STADIUM DR Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2025-08-04 17:39:00</guid>
       <pubDate>Mon, 04 Aug 2025 17:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:33 pm</title>
-      <description>8900 BLOCK LONGS MILL RD Radio: 9C Units: BR135</description>
-      <guid isPermaLink="false">2025-08-04 17:33:00</guid>
-      <pubDate>Mon, 04 Aug 2025 17:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
