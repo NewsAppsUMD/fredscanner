@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 20:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 21:02:19 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:37 pm</title>
+      <description>SUNNY WAY / HAMMAKER ST Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-08-06 16:37:00</guid>
+      <pubDate>Wed, 06 Aug 2025 16:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:28 pm</title>
       <description>RT15SB / N FRANKLINVILLE RD (S), RT15SB / N FRANKLINVILLE RD Radio: 9D Units: PE102, R6, A307, ALS30, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>8900 BLOCK LONGS MILL RD Radio: 9C Units: BR135</description>
       <guid isPermaLink="false">2025-08-04 17:33:00</guid>
       <pubDate>Mon, 04 Aug 2025 17:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:30 pm</title>
-      <description>12300 BLOCK OAK HILL RD Radio: 9C Units: BR96</description>
-      <guid isPermaLink="false">2025-08-04 17:30:00</guid>
-      <pubDate>Mon, 04 Aug 2025 17:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
