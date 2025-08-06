@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 04:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 04:44:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:16 am</title>
+      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:C108 Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-08-06 00:16:00</guid>
+      <pubDate>Wed, 06 Aug 2025 00:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:07 pm</title>
       <description>I270SB / RT85, I270SB / RT85 Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>9500 BLOCK LIBERTY RD Radio: 9C Units: E111, E172, E291, Q11, K17, A249, BC902, SAF901</description>
       <guid isPermaLink="false">2025-08-04 06:43:00</guid>
       <pubDate>Mon, 04 Aug 2025 06:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:26 am</title>
-      <description>4400 BLOCK STOVEPIPE LN Radio: 9C Units: E251, E152, R15</description>
-      <guid isPermaLink="false">2025-08-04 06:26:00</guid>
-      <pubDate>Mon, 04 Aug 2025 06:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
