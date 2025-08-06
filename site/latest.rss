@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 15:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 16:02:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
+      <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2025-08-06 11:48:00</guid>
+      <pubDate>Wed, 06 Aug 2025 11:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:40 am</title>
+      <description>27800 BLOCK RIDGE RD Radio: 7A1 Units: R15</description>
+      <guid isPermaLink="false">2025-08-06 11:40:00</guid>
+      <pubDate>Wed, 06 Aug 2025 11:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:30 am</title>
       <description>3400 BLOCK ADGATE DR Radio: 9C Units: E251</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141</description>
       <guid isPermaLink="false">2025-08-04 12:56:00</guid>
       <pubDate>Mon, 04 Aug 2025 12:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:34 am</title>
-      <description>ROHRERSVILLE RD / KING RD Units: R8</description>
-      <guid isPermaLink="false">2025-08-04 11:34:00</guid>
-      <pubDate>Mon, 04 Aug 2025 11:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:01 am</title>
-      <description>5800 BLOCK BALLENGER CREEK PIKE, CELEBREE LEARNING CENTER - BALLENGER CREEK PLAZA Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-08-04 10:01:00</guid>
-      <pubDate>Mon, 04 Aug 2025 10:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
