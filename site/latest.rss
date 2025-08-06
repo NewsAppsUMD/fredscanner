@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 Aug 2025 12:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 13:15:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:03 am</title>
+      <description>100 BLOCK W MAIN ST, NEW MARKET MIDDLE SCHOOL Radio: 9C Units: E152, TT23</description>
+      <guid isPermaLink="false">2025-08-06 09:03:00</guid>
+      <pubDate>Wed, 06 Aug 2025 09:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:23 am</title>
       <description>JOHN DRAPER RD / STOTTLEMYER RD Radio: 9C Units: BR216</description>
@@ -300,12 +306,6 @@
       <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Units: E152, E331</description>
       <guid isPermaLink="false">2025-08-04 08:41:00</guid>
       <pubDate>Mon, 04 Aug 2025 08:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 7:17 am</title>
-      <description>RT144 / VILLAGE OAKS DR, RT144 / VILLAGE OAKS DR Units: E152, R15, EMS901</description>
-      <guid isPermaLink="false">2025-08-04 07:17:00</guid>
-      <pubDate>Mon, 04 Aug 2025 07:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
