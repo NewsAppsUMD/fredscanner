@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 21:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 21:34:43 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:07 pm</title>
+      <description>1600 BLOCK SHOOKSTOWN RD Units: E11</description>
+      <guid isPermaLink="false">2025-08-07 17:07:00</guid>
+      <pubDate>Thu, 07 Aug 2025 17:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:40 pm</title>
       <description>8700 BLOCK MYERSVILLE RD Units: A89, RE74</description>
@@ -300,12 +306,6 @@
       <description>17300 BLOCK CATOCTIN MOUNTAIN HWY, Apt/Unit:DES BLDG MASON DIXON, MARYLAND WELCOME CENTER RT15SB Radio: 9D Units: E61, E132, E133, ACE11, R6, TW6, K10, A68, ALS30, ACE232, BC901, BC903, SAF901</description>
       <guid isPermaLink="false">2025-08-05 13:28:00</guid>
       <pubDate>Tue, 05 Aug 2025 13:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:23 pm</title>
-      <description>14300 BLOCK CARROSMAR FARM RD Units: EK64, PE102</description>
-      <guid isPermaLink="false">2025-08-05 13:23:00</guid>
-      <pubDate>Tue, 05 Aug 2025 13:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
