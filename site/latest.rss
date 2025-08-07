@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 20:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 21:01:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:40 pm</title>
+      <description>8700 BLOCK MYERSVILLE RD Units: A89, RE74</description>
+      <guid isPermaLink="false">2025-08-07 16:40:00</guid>
+      <pubDate>Thu, 07 Aug 2025 16:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:28 pm</title>
       <description>12800 BLOCK BUNKER HILL RD Units: E91</description>
@@ -300,12 +306,6 @@
       <description>14300 BLOCK CARROSMAR FARM RD Units: EK64, PE102</description>
       <guid isPermaLink="false">2025-08-05 13:23:00</guid>
       <pubDate>Tue, 05 Aug 2025 13:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:22 pm</title>
-      <description>12500 BLOCK WOLFSVILLE RD Radio: 9I Units: E82, PE102, E72, RE74, K21, K10, A89, ALS8, E212, BC903, BC900</description>
-      <guid isPermaLink="false">2025-08-05 12:22:00</guid>
-      <pubDate>Tue, 05 Aug 2025 12:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
