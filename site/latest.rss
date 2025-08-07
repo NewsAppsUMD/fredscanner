@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 Aug 2025 16:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 16:40:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:28 pm</title>
+      <description>12800 BLOCK BUNKER HILL RD Units: E91</description>
+      <guid isPermaLink="false">2025-08-07 12:28:00</guid>
+      <pubDate>Thu, 07 Aug 2025 12:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:27 pm</title>
+      <description>12800 BLOCK BUNKER HILL RD Units: ALS17, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-08-07 12:27:00</guid>
+      <pubDate>Thu, 07 Aug 2025 12:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:33 am</title>
       <description>7000 BLOCK CLUB HOUSE CIR Radio: 9C Units: E152</description>
@@ -294,18 +306,6 @@
       <description>12500 BLOCK WOLFSVILLE RD Radio: 9I Units: E82, PE102, E72, RE74, K21, K10, A89, ALS8, E212, BC903, BC900</description>
       <guid isPermaLink="false">2025-08-05 12:22:00</guid>
       <pubDate>Tue, 05 Aug 2025 12:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CONFINED SPACE RESCUE: 12:12 pm</title>
-      <description>13500 BLOCK PENN SHOP RD Radio: 9D Units: E231, E251, R15, HM33, TR29, A259, MAU15, BC901, SAF901, EMS901</description>
-      <guid isPermaLink="false">2025-08-05 12:12:00</guid>
-      <pubDate>Tue, 05 Aug 2025 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:25 am</title>
-      <description>WATER STREET RD / HARP RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2025-08-05 11:25:00</guid>
-      <pubDate>Tue, 05 Aug 2025 11:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
