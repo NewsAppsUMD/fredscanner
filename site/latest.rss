@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 Aug 2025 20:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 20:35:51 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:07 pm</title>
+      <description>15000 BLOCK SABILLASVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, EMS901</description>
+      <guid isPermaLink="false">2025-08-08 16:07:00</guid>
+      <pubDate>Fri, 08 Aug 2025 16:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 2:47 pm</title>
       <description>4600 BLOCK NAVISTAR DR, CRISPLANT INC Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>26300 BLOCK WOODFIELD RD WOODFIELD COMMONS APTS, WOODFIELD COMMONS APTS Radio: 7A1 Units: E251</description>
       <guid isPermaLink="false">2025-08-05 17:49:00</guid>
       <pubDate>Tue, 05 Aug 2025 17:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:21 pm</title>
-      <description>RT340 / SANDY HOOK Units: A196, ALS20, R19, E51</description>
-      <guid isPermaLink="false">2025-08-05 17:21:00</guid>
-      <pubDate>Tue, 05 Aug 2025 17:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
