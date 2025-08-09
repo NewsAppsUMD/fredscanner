@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 20:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 21:02:00 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:56 pm</title>
+      <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-08-09 16:56:00</guid>
+      <pubDate>Sat, 09 Aug 2025 16:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:47 pm</title>
+      <description>100 BLOCK E PATRICK ST, JUNO BAKERY Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2025-08-09 16:47:00</guid>
+      <pubDate>Sat, 09 Aug 2025 16:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:45 pm</title>
+      <description>100 BLOCK E PATRICK ST, JUNO BAKERY Radio: 9C Units: R3</description>
+      <guid isPermaLink="false">2025-08-09 16:45:00</guid>
+      <pubDate>Sat, 09 Aug 2025 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 4:45 pm</title>
+      <description>BURKITTSVILLE RD / PETERSVILLE RD Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2025-08-09 16:45:00</guid>
+      <pubDate>Sat, 09 Aug 2025 16:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:05 pm</title>
       <description>OLD NATIONAL PIKE / GREEN VALLEY RD, IAO Radio: 9B Units: E251</description>
@@ -282,30 +306,6 @@
       <description>7000 BLOCK CLUB HOUSE CIR Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2025-08-07 10:33:00</guid>
       <pubDate>Thu, 07 Aug 2025 10:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:47 am</title>
-      <description>100 BLOCK BLK RAMP ROSEMONT AVE TO RT15SB RAMP Radio: 9B Units: PE23</description>
-      <guid isPermaLink="false">2025-08-07 09:47:00</guid>
-      <pubDate>Thu, 07 Aug 2025 09:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:40 am</title>
-      <description>100 BLOCK BLK RAMP ROSEMONT AVE TO RT15SB RAMP Radio: 9B Units: A39, E11</description>
-      <guid isPermaLink="false">2025-08-07 09:40:00</guid>
-      <pubDate>Thu, 07 Aug 2025 09:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:21 am</title>
-      <description>MIDDLEBURG RD / FRANCIS SCOTT KEY HWY Radio: CCA3 Units: E91</description>
-      <guid isPermaLink="false">2025-08-07 09:21:00</guid>
-      <pubDate>Thu, 07 Aug 2025 09:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:47 am</title>
-      <description>100 BLOCK W FREDERICK ST, WALKERSVILLE HIGH SCHOOL Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2025-08-07 06:47:00</guid>
-      <pubDate>Thu, 07 Aug 2025 06:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
