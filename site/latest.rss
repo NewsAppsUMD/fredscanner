@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 14:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 14:35:16 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:01 am</title>
+      <description>2200 BLOCK W GREENLEAF DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-08-09 10:01:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:11 am</title>
       <description>100 BLOCK E FREDERICK ST Radio: 9C Units: BR116</description>
@@ -300,12 +306,6 @@
       <description>SUNNY WAY / HAMMAKER ST Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-08-06 16:37:00</guid>
       <pubDate>Wed, 06 Aug 2025 16:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:28 pm</title>
-      <description>RT15SB / N FRANKLINVILLE RD (S), RT15SB / N FRANKLINVILLE RD Radio: 9D Units: PE102, R6, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-08-06 16:28:00</guid>
-      <pubDate>Wed, 06 Aug 2025 16:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
