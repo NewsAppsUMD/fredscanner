@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 08:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 09:02:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:55 am</title>
+      <description>10800 BLOCK EASTERDAY RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-08-09 04:55:00</guid>
+      <pubDate>Sat, 09 Aug 2025 04:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:09 am</title>
       <description>1400 BLOCK HAMPSHIRE DR Radio: 9C Units: E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2025-08-06 11:48:00</guid>
       <pubDate>Wed, 06 Aug 2025 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:40 am</title>
-      <description>27800 BLOCK RIDGE RD Radio: 7A1 Units: R15</description>
-      <guid isPermaLink="false">2025-08-06 11:40:00</guid>
-      <pubDate>Wed, 06 Aug 2025 11:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
