@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 09:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 09:34:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:16 am</title>
+      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: E61</description>
+      <guid isPermaLink="false">2025-08-09 05:16:00</guid>
+      <pubDate>Sat, 09 Aug 2025 05:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:10 am</title>
+      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-08-09 05:10:00</guid>
+      <pubDate>Sat, 09 Aug 2025 05:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:55 am</title>
       <description>10800 BLOCK EASTERDAY RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS901</description>
@@ -294,18 +306,6 @@
       <description>4400 BLOCK GREEN VALLEY RD Radio: 9B Units: A259, E251</description>
       <guid isPermaLink="false">2025-08-06 12:53:00</guid>
       <pubDate>Wed, 06 Aug 2025 12:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:33 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: E291</description>
-      <guid isPermaLink="false">2025-08-06 12:33:00</guid>
-      <pubDate>Wed, 06 Aug 2025 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
-      <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-08-06 11:48:00</guid>
-      <pubDate>Wed, 06 Aug 2025 11:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
