@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 14:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 15:02:18 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:57 am</title>
+      <description>2000 BLOCK THURSTON RD Radio: 9C Units: HM33, K23</description>
+      <guid isPermaLink="false">2025-08-09 10:57:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:55 am</title>
+      <description>2000 BLOCK THURSTON RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-08-09 10:55:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 10:51 am</title>
+      <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2025-08-09 10:51:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 10:43 am</title>
+      <description>I70EB / APPALACHIAN TRAIL, I70EB / APPALACHIAN TRAIL Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2025-08-09 10:43:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:35 am</title>
+      <description>RT17 / BENNIES HILL RD, RT17 / BENNIES HILL RD Radio: 9D Units: E72, RE74, A79, ALS20, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-08-09 10:35:00</guid>
+      <pubDate>Sat, 09 Aug 2025 10:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:01 am</title>
       <description>2200 BLOCK W GREENLEAF DR Radio: 9C Units: E11</description>
@@ -276,36 +306,6 @@
       <description>RT355 / BALL RD, RT355 / BALL RD Radio: 9D Units: E231, R2, A239, ALS23, BC903, EMS901, TT23</description>
       <guid isPermaLink="false">2025-08-06 20:33:00</guid>
       <pubDate>Wed, 06 Aug 2025 20:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 pm</title>
-      <description>10500 BLOCK TANEYTOWN PIKE Radio: 9B Units: A68, E61</description>
-      <guid isPermaLink="false">2025-08-06 19:46:00</guid>
-      <pubDate>Wed, 06 Aug 2025 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:43 pm</title>
-      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: E291, E501</description>
-      <guid isPermaLink="false">2025-08-06 19:43:00</guid>
-      <pubDate>Wed, 06 Aug 2025 19:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:40 pm</title>
-      <description>500 BLOCK CHAPEL CT, Apt/Unit:322, GLADETOWN CONDOS - 500 BLOCK CHAPEL CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-08-06 19:40:00</guid>
-      <pubDate>Wed, 06 Aug 2025 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
-      <description>200 BLOCK THIRTEENTH AVE Radio: 9B Units: E51</description>
-      <guid isPermaLink="false">2025-08-06 18:11:00</guid>
-      <pubDate>Wed, 06 Aug 2025 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:37 pm</title>
-      <description>SUNNY WAY / HAMMAKER ST Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-08-06 16:37:00</guid>
-      <pubDate>Wed, 06 Aug 2025 16:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
