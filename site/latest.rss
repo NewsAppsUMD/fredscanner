@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 00:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 01:29:52 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 9:22 pm</title>
+      <description>400 BLOCK E CHURCH ST, SAMS PLACE Radio: 9D Units: A39, ALS4, E31, EMS902</description>
+      <guid isPermaLink="false">2025-08-08 21:22:00</guid>
+      <pubDate>Fri, 08 Aug 2025 21:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 9:06 pm</title>
+      <description>700 BLOCK HEATHER RIDGE DR, Apt/Unit:M, AMBERTOWN CONDOS - 700 BLOCK HEATHER RIDGE DR Units: E291, PE23, HM33, HMSU33, A299, ALS29, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-08-08 21:06:00</guid>
+      <pubDate>Fri, 08 Aug 2025 21:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:42 pm</title>
       <description>700 BLOCK HOLDEN RD Radio: 9B Units: A28, PE23</description>
@@ -294,18 +306,6 @@
       <description>12300 BLOCK WHITE ROCK RD AT&amp;T TWR, AT&amp;T TWR Radio: 6B Units: T5</description>
       <guid isPermaLink="false">2025-08-06 09:36:00</guid>
       <pubDate>Wed, 06 Aug 2025 09:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:03 am</title>
-      <description>100 BLOCK W MAIN ST, NEW MARKET MIDDLE SCHOOL Radio: 9C Units: E152, TT23</description>
-      <guid isPermaLink="false">2025-08-06 09:03:00</guid>
-      <pubDate>Wed, 06 Aug 2025 09:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:23 am</title>
-      <description>JOHN DRAPER RD / STOTTLEMYER RD Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2025-08-06 06:23:00</guid>
-      <pubDate>Wed, 06 Aug 2025 06:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
