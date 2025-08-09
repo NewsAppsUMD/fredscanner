@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 Aug 2025 13:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 13:38:28 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 9:11 am</title>
+      <description>100 BLOCK E FREDERICK ST Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-08-09 09:11:00</guid>
+      <pubDate>Sat, 09 Aug 2025 09:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:39 am</title>
       <description>NEW DESIGN RD / ENGLISH MUFFIN WAY Radio: 9B Units: A318, PE311</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / N FRANKLINVILLE RD (S), RT15SB / N FRANKLINVILLE RD Radio: 9D Units: PE102, R6, A307, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2025-08-06 16:28:00</guid>
       <pubDate>Wed, 06 Aug 2025 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:39 pm</title>
-      <description>1400 BLOCK TANEY AVE, AMERICAN LEGION - FREDERICK Radio: 9C Units: E501, E291, R2</description>
-      <guid isPermaLink="false">2025-08-06 14:39:00</guid>
-      <pubDate>Wed, 06 Aug 2025 14:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
