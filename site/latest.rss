@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 21:33:19 +0000</lastBuildDate>
+    <item>
+      <title>STRUCTURAL COLLAPSE: 5:08 pm</title>
+      <description>8600 BLOCK SHADY PINES DR Radio: 9D Units: E231, R3, HM33, TR29, TRSU29, A239, A259, ALS23, BC901, SAF901, EMS901, E251, TT23</description>
+      <guid isPermaLink="false">2025-08-10 17:08:00</guid>
+      <pubDate>Sun, 10 Aug 2025 17:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 4:52 pm</title>
       <description>100 BLOCK APPLE WAY Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK THURSTON RD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2025-08-09 11:17:00</guid>
       <pubDate>Sat, 09 Aug 2025 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 11:11 am</title>
-      <description>13500 BLOCK LATROBE LN Radio: 7A4 Units: PE311</description>
-      <guid isPermaLink="false">2025-08-09 11:11:00</guid>
-      <pubDate>Sat, 09 Aug 2025 11:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
