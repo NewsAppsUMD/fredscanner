@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 19:01:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 19:31:20 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:23 pm</title>
+      <description>7800 BLOCK FINGERBOARD RD Radio: 9D Units: E231, R14, A239, ALS31, EMS901, TT23</description>
+      <guid isPermaLink="false">2025-08-10 15:23:00</guid>
+      <pubDate>Sun, 10 Aug 2025 15:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:44 pm</title>
       <description>RT144 / SPRING RIDGE PKWY, RT144 / SPRING RIDGE PKWY Radio: 9B Units: A339, E331</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK THURSTON RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-08-09 10:55:00</guid>
       <pubDate>Sat, 09 Aug 2025 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 10:51 am</title>
-      <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2025-08-09 10:51:00</guid>
-      <pubDate>Sat, 09 Aug 2025 10:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
