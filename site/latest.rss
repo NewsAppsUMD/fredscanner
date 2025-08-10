@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 13:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 13:38:39 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:29 am</title>
+      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E162</description>
+      <guid isPermaLink="false">2025-08-10 09:29:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:26 am</title>
+      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E172</description>
+      <guid isPermaLink="false">2025-08-10 09:26:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:23 am</title>
+      <description>3400 BLOCK OLD TANEYTOWN RD Units: R6</description>
+      <guid isPermaLink="false">2025-08-10 09:23:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:20 am</title>
+      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: EK134</description>
+      <guid isPermaLink="false">2025-08-10 09:20:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:12 am</title>
+      <description>3400 BLOCK OLD TANEYTOWN RD Units: E61, EK64, K9</description>
+      <guid isPermaLink="false">2025-08-10 09:12:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 9:10 am</title>
+      <description>100 BLOCK BLK RAMP I27100 BLOCKSB TO RT8100 BLOCK RAMP Radio: 9D Units: E231, R3, A239, ALS23, EMS901</description>
+      <guid isPermaLink="false">2025-08-10 09:10:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD - INVESTIGATION: 6:39 am</title>
       <description>100 BLOCK E SECOND ST, ST JOHNS CHURCH Radio: 9C Units: E31</description>
@@ -270,42 +306,6 @@
       <description>700 BLOCK HEATHER RIDGE DR, Apt/Unit:M, AMBERTOWN CONDOS - 700 BLOCK HEATHER RIDGE DR Units: E291, PE23, HM33, HMSU33, A299, ALS29, BC903, SAF901</description>
       <guid isPermaLink="false">2025-08-08 21:06:00</guid>
       <pubDate>Fri, 08 Aug 2025 21:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:42 pm</title>
-      <description>700 BLOCK HOLDEN RD Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2025-08-08 20:42:00</guid>
-      <pubDate>Fri, 08 Aug 2025 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 6:55 pm</title>
-      <description>1400 BLOCK KEY PKWY, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E11, E121, E31, PE23, E501, R3, TT4, A19, ALS4, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-08-08 18:55:00</guid>
-      <pubDate>Fri, 08 Aug 2025 18:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:30 pm</title>
-      <description>9000 BLOCK ALLINGTON MANOR CIR W Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-08-08 18:30:00</guid>
-      <pubDate>Fri, 08 Aug 2025 18:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:27 pm</title>
-      <description>3300 BLOCK CENTENNIAL WAY, Bldg:5, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E251, TT23</description>
-      <guid isPermaLink="false">2025-08-08 17:27:00</guid>
-      <pubDate>Fri, 08 Aug 2025 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:37 pm</title>
-      <description>4600 BLOCK NAVISTAR DR Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-08-08 16:37:00</guid>
-      <pubDate>Fri, 08 Aug 2025 16:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:07 pm</title>
-      <description>15000 BLOCK SABILLASVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, EMS901</description>
-      <guid isPermaLink="false">2025-08-08 16:07:00</guid>
-      <pubDate>Fri, 08 Aug 2025 16:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
