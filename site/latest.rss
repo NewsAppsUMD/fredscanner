@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 14:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 14:35:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:10 am</title>
+      <description>CATOCTIN HOLLOW RD / FOXVILLE RD Radio: 9D Units: PE102, R10, A309, ALS30, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-08-10 10:10:00</guid>
+      <pubDate>Sun, 10 Aug 2025 10:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:09 am</title>
+      <description>100 BLOCK N COURT ST Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2025-08-10 10:09:00</guid>
+      <pubDate>Sun, 10 Aug 2025 10:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:00 am</title>
+      <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E152</description>
+      <guid isPermaLink="false">2025-08-10 10:00:00</guid>
+      <pubDate>Sun, 10 Aug 2025 10:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:53 am</title>
       <description>3400 BLOCK OLD TANEYTOWN RD Units: BC902</description>
@@ -288,24 +306,6 @@
       <description>10800 BLOCK EASTERDAY RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS901</description>
       <guid isPermaLink="false">2025-08-09 04:55:00</guid>
       <pubDate>Sat, 09 Aug 2025 04:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:09 am</title>
-      <description>1400 BLOCK HAMPSHIRE DR Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-08-09 02:09:00</guid>
-      <pubDate>Sat, 09 Aug 2025 02:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:17 am</title>
-      <description>4900 BLOCK EXECUTIVE CT S Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-08-09 01:17:00</guid>
-      <pubDate>Sat, 09 Aug 2025 01:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 1:09 am</title>
-      <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Radio: 9D Units: A28, PE23, EMS902</description>
-      <guid isPermaLink="false">2025-08-09 01:09:00</guid>
-      <pubDate>Sat, 09 Aug 2025 01:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
