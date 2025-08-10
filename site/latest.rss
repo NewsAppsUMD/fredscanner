@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 13:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 14:01:51 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 9:53 am</title>
+      <description>3400 BLOCK OLD TANEYTOWN RD Units: BC902</description>
+      <guid isPermaLink="false">2025-08-10 09:53:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:36 am</title>
+      <description>6500 BLOCK NIGHTINGALE CT Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-08-10 09:36:00</guid>
+      <pubDate>Sun, 10 Aug 2025 09:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:29 am</title>
       <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E162</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Radio: 9D Units: A28, PE23, EMS902</description>
       <guid isPermaLink="false">2025-08-09 01:09:00</guid>
       <pubDate>Sat, 09 Aug 2025 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 9:22 pm</title>
-      <description>400 BLOCK E CHURCH ST, SAMS PLACE Radio: 9D Units: A39, ALS4, E31, EMS902</description>
-      <guid isPermaLink="false">2025-08-08 21:22:00</guid>
-      <pubDate>Fri, 08 Aug 2025 21:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 9:06 pm</title>
-      <description>700 BLOCK HEATHER RIDGE DR, Apt/Unit:M, AMBERTOWN CONDOS - 700 BLOCK HEATHER RIDGE DR Units: E291, PE23, HM33, HMSU33, A299, ALS29, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-08-08 21:06:00</guid>
-      <pubDate>Fri, 08 Aug 2025 21:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
