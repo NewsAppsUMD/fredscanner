@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 16:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 16:37:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:31 pm</title>
+      <description>RT355 / GENSTAR DR, RT355 / GENSTAR DR Radio: 9B Units: A39, E31</description>
+      <guid isPermaLink="false">2025-08-10 12:31:00</guid>
+      <pubDate>Sun, 10 Aug 2025 12:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:51 am</title>
       <description>7300 BLOCK GROVE RD, PH2 Radio: 9B Units: A38, PE311</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK CORN CRIB PL Units: E291</description>
       <guid isPermaLink="false">2025-08-09 08:21:00</guid>
       <pubDate>Sat, 09 Aug 2025 08:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:16 am</title>
-      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: E61</description>
-      <guid isPermaLink="false">2025-08-09 05:16:00</guid>
-      <pubDate>Sat, 09 Aug 2025 05:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
