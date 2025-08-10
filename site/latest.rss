@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 17:33:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 18:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 1:46 pm</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9C Units: E121, E82</description>
+      <guid isPermaLink="false">2025-08-10 13:46:00</guid>
+      <pubDate>Sun, 10 Aug 2025 13:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
+      <description>3300 BLOCK GALENA DR, Apt/Unit:7, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2025-08-10 13:46:00</guid>
+      <pubDate>Sun, 10 Aug 2025 13:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 12:49 pm</title>
       <description>MONOCACY BLVD / S EAST ST Radio: 9C Units: PE23, DNR</description>
@@ -294,18 +306,6 @@
       <description>I70EB / APPALACHIAN TRAIL, I70EB / APPALACHIAN TRAIL Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2025-08-09 10:43:00</guid>
       <pubDate>Sat, 09 Aug 2025 10:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:35 am</title>
-      <description>RT17 / BENNIES HILL RD, RT17 / BENNIES HILL RD Radio: 9D Units: E72, RE74, A79, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-08-09 10:35:00</guid>
-      <pubDate>Sat, 09 Aug 2025 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:01 am</title>
-      <description>2200 BLOCK W GREENLEAF DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-09 10:01:00</guid>
-      <pubDate>Sat, 09 Aug 2025 10:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
