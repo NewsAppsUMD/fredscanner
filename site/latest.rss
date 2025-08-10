@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 Aug 2025 04:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 05:05:01 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 12:54 am</title>
+      <description>2700 BLOCK WASHINGTON ST Radio: 9C Units: E141, E281, R20</description>
+      <guid isPermaLink="false">2025-08-10 00:54:00</guid>
+      <pubDate>Sun, 10 Aug 2025 00:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 11:56 pm</title>
       <description>3600 BLOCK RED SAGE WAY N Radio: 9C Units: TT23</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK GALENA DR, Bldg:7, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2025-08-08 00:50:00</guid>
       <pubDate>Fri, 08 Aug 2025 00:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:33 am</title>
-      <description>5600 BLOCK TUSCARORA RD Units: E141, E281, PE311, E231, R20, R3, A148, ALS31, BC901, BC903, SAF901, TT23</description>
-      <guid isPermaLink="false">2025-08-08 00:33:00</guid>
-      <pubDate>Fri, 08 Aug 2025 00:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
