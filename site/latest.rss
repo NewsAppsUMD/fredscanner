@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 14:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 15:02:32 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:48 am</title>
+      <description>11500 BLOCK DOGWOOD HILLS DR Radio: 7A8 Units: TT23</description>
+      <guid isPermaLink="false">2025-08-11 10:48:00</guid>
+      <pubDate>Mon, 11 Aug 2025 10:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:37 am</title>
+      <description>4000 BLOCK PENNYFIELDS LOCK CT Radio: 9C Units: E281, E201, R20</description>
+      <guid isPermaLink="false">2025-08-11 10:37:00</guid>
+      <pubDate>Mon, 11 Aug 2025 10:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
       <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2025-08-09 18:13:00</guid>
       <pubDate>Sat, 09 Aug 2025 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:53 pm</title>
-      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-09 17:53:00</guid>
-      <pubDate>Sat, 09 Aug 2025 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:07 pm</title>
-      <description>100 BLOCK PARK CT Radio: 9C Units: E111, E162, E91, Q11, A249, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-08-09 17:07:00</guid>
-      <pubDate>Sat, 09 Aug 2025 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
