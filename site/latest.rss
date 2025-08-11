@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 20:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 20:34:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:18 pm</title>
+      <description>I270SB / RT85, I270SB / 30MM Units: E231, E11, R3, A18, A259</description>
+      <guid isPermaLink="false">2025-08-11 16:18:00</guid>
+      <pubDate>Mon, 11 Aug 2025 16:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:37 pm</title>
       <description>100 BLOCK N CHURCH ST, STATION 30 Units: ALS2</description>
@@ -300,12 +306,6 @@
       <description>PENN SHOP RD / GOLF CLUB TER Radio: 9B Units: A259, E251</description>
       <guid isPermaLink="false">2025-08-10 01:06:00</guid>
       <pubDate>Sun, 10 Aug 2025 01:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:54 am</title>
-      <description>2700 BLOCK WASHINGTON ST Radio: 9C Units: E141, E281, R20</description>
-      <guid isPermaLink="false">2025-08-10 00:54:00</guid>
-      <pubDate>Sun, 10 Aug 2025 00:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
