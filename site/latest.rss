@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 10:38:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 11:33:36 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:42 am</title>
+      <description>1300 BLOCK WILLOW OAK DR Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-11 06:42:00</guid>
+      <pubDate>Mon, 11 Aug 2025 06:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:31 am</title>
       <description>DILL AVE / MCCLELLAN ALY Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E PATRICK ST, JUNO BAKERY Radio: 9C Units: TT4</description>
       <guid isPermaLink="false">2025-08-09 16:47:00</guid>
       <pubDate>Sat, 09 Aug 2025 16:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 4:45 pm</title>
-      <description>100 BLOCK E PATRICK ST, JUNO BAKERY Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-08-09 16:45:00</guid>
-      <pubDate>Sat, 09 Aug 2025 16:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
