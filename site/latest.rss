@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 Aug 2025 14:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 14:38:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
+      <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-08-11 10:12:00</guid>
+      <pubDate>Mon, 11 Aug 2025 10:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 9:51 am</title>
       <description>2700 BLOCK WOLFE DR Radio: 9C Units: E51, E281, EK204</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK PARK CT Radio: 9C Units: E111, E162, E91, Q11, A249, BC901, SAF901</description>
       <guid isPermaLink="false">2025-08-09 17:07:00</guid>
       <pubDate>Sat, 09 Aug 2025 17:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:56 pm</title>
-      <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-08-09 16:56:00</guid>
-      <pubDate>Sat, 09 Aug 2025 16:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
