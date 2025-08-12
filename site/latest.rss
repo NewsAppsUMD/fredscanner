@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 12:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 13:12:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:06 am</title>
+      <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9C Units: RE171, Q11</description>
+      <guid isPermaLink="false">2025-08-12 09:06:00</guid>
+      <pubDate>Tue, 12 Aug 2025 09:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:04 am</title>
+      <description>500 BLOCK SULTAN DR, NCI - BLDG 500 BLOCK Radio: 9C Units: E501, TT4</description>
+      <guid isPermaLink="false">2025-08-12 09:04:00</guid>
+      <pubDate>Tue, 12 Aug 2025 09:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:43 am</title>
+      <description>800 BLOCK ROSEMONT AVE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-08-12 08:43:00</guid>
+      <pubDate>Tue, 12 Aug 2025 08:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:21 am</title>
       <description>15400 BLOCK MOTTERS STATION RD Radio: 9B Units: A68, E132</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E162</description>
       <guid isPermaLink="false">2025-08-10 09:29:00</guid>
       <pubDate>Sun, 10 Aug 2025 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:26 am</title>
-      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E172</description>
-      <guid isPermaLink="false">2025-08-10 09:26:00</guid>
-      <pubDate>Sun, 10 Aug 2025 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:23 am</title>
-      <description>3400 BLOCK OLD TANEYTOWN RD Units: R6</description>
-      <guid isPermaLink="false">2025-08-10 09:23:00</guid>
-      <pubDate>Sun, 10 Aug 2025 09:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:20 am</title>
-      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: EK134</description>
-      <guid isPermaLink="false">2025-08-10 09:20:00</guid>
-      <pubDate>Sun, 10 Aug 2025 09:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
