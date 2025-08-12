@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 18:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 18:41:38 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 2:34 pm</title>
+      <description>6600 BLOCK BALLENGER RUN BLVD Units: PE311, E11, R3</description>
+      <guid isPermaLink="false">2025-08-12 14:34:00</guid>
+      <pubDate>Tue, 12 Aug 2025 14:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WATER RESCUE: 12:07 pm</title>
       <description>POTOMAC RIVER / DAM 3 Units: BT19, BT28, A197, ALS20</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT4100 BLOCK-A TO I7100 BLOCKEB RAMP Radio: 9D Units: E121, RE74, ALS4, EMS901</description>
       <guid isPermaLink="false">2025-08-10 10:35:00</guid>
       <pubDate>Sun, 10 Aug 2025 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:10 am</title>
-      <description>CATOCTIN HOLLOW RD / FOXVILLE RD Radio: 9D Units: PE102, R10, A309, ALS30, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-08-10 10:10:00</guid>
-      <pubDate>Sun, 10 Aug 2025 10:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
