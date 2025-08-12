@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 19:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 19:31:50 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:15 pm</title>
+      <description>9900 BLOCK HARMONY RD Units: E82</description>
+      <guid isPermaLink="false">2025-08-12 15:15:00</guid>
+      <pubDate>Tue, 12 Aug 2025 15:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:12 pm</title>
+      <description>4100 BLOCK BUCKEYSTOWN PIKE, VULCAN MATERIALS - 4100 BLOCK BUCKEYSTOWN PIKE Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-08-12 15:12:00</guid>
+      <pubDate>Tue, 12 Aug 2025 15:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 3:08 pm</title>
+      <description>800 BLOCK E B ST Units: E51, E281</description>
+      <guid isPermaLink="false">2025-08-12 15:08:00</guid>
+      <pubDate>Tue, 12 Aug 2025 15:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:00 pm</title>
       <description>OLD NATIONAL PIKE / TERRA FIRMA RD Units: A28</description>
@@ -288,24 +306,6 @@
       <description>RT144 / SPRING RIDGE PKWY, RT144 / SPRING RIDGE PKWY Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2025-08-10 14:44:00</guid>
       <pubDate>Sun, 10 Aug 2025 14:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:46 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9C Units: E121, E82</description>
-      <guid isPermaLink="false">2025-08-10 13:46:00</guid>
-      <pubDate>Sun, 10 Aug 2025 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:46 pm</title>
-      <description>3300 BLOCK GALENA DR, Apt/Unit:7, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-08-10 13:46:00</guid>
-      <pubDate>Sun, 10 Aug 2025 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 12:49 pm</title>
-      <description>MONOCACY BLVD / S EAST ST Radio: 9C Units: PE23, DNR</description>
-      <guid isPermaLink="false">2025-08-10 12:49:00</guid>
-      <pubDate>Sun, 10 Aug 2025 12:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
