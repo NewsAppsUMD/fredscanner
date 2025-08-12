@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 18:41:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 19:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:00 pm</title>
+      <description>OLD NATIONAL PIKE / TERRA FIRMA RD Units: A28</description>
+      <guid isPermaLink="false">2025-08-12 15:00:00</guid>
+      <pubDate>Tue, 12 Aug 2025 15:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:59 pm</title>
+      <description>OLD NATIONAL PIKE / TERRA FIRMA RD Units: A158</description>
+      <guid isPermaLink="false">2025-08-12 14:59:00</guid>
+      <pubDate>Tue, 12 Aug 2025 14:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:54 pm</title>
+      <description>OLD NATIONAL PIKE / TERRA FIRMA RD Units: E331, R15, A339, ALS2, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-08-12 14:54:00</guid>
+      <pubDate>Tue, 12 Aug 2025 14:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:50 pm</title>
+      <description>200 BLOCK BISHOPS GLEN DR Units: E11</description>
+      <guid isPermaLink="false">2025-08-12 14:50:00</guid>
+      <pubDate>Tue, 12 Aug 2025 14:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:48 pm</title>
+      <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Units: E501, TT4</description>
+      <guid isPermaLink="false">2025-08-12 14:48:00</guid>
+      <pubDate>Tue, 12 Aug 2025 14:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 2:34 pm</title>
       <description>6600 BLOCK BALLENGER RUN BLVD Units: PE311, E11, R3</description>
@@ -276,36 +306,6 @@
       <description>MONOCACY BLVD / S EAST ST Radio: 9C Units: PE23, DNR</description>
       <guid isPermaLink="false">2025-08-10 12:49:00</guid>
       <pubDate>Sun, 10 Aug 2025 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:45 pm</title>
-      <description>MONOCACY BLVD / S EAST ST Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-08-10 12:45:00</guid>
-      <pubDate>Sun, 10 Aug 2025 12:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:35 pm</title>
-      <description>100 BLOCK PRINCETOWN DR Radio: 9C Units: E11, E121, TT4</description>
-      <guid isPermaLink="false">2025-08-10 12:35:00</guid>
-      <pubDate>Sun, 10 Aug 2025 12:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:31 pm</title>
-      <description>RT355 / GENSTAR DR, RT355 / GENSTAR DR Radio: 9B Units: A39, E31</description>
-      <guid isPermaLink="false">2025-08-10 12:31:00</guid>
-      <pubDate>Sun, 10 Aug 2025 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:51 am</title>
-      <description>7300 BLOCK GROVE RD, PH2 Radio: 9B Units: A38, PE311</description>
-      <guid isPermaLink="false">2025-08-10 11:51:00</guid>
-      <pubDate>Sun, 10 Aug 2025 11:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:35 am</title>
-      <description>100 BLOCK BLK RAMP RT4100 BLOCK-A TO I7100 BLOCKEB RAMP Radio: 9D Units: E121, RE74, ALS4, EMS901</description>
-      <guid isPermaLink="false">2025-08-10 10:35:00</guid>
-      <pubDate>Sun, 10 Aug 2025 10:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
