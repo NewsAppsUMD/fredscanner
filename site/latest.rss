@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 12 Aug 2025 22:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 23:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:59 pm</title>
+      <description>WOODSBORO PIKE / STAUFFER RD Units: E111, R24, A249, ALS2, EMS902</description>
+      <guid isPermaLink="false">2025-08-12 18:59:00</guid>
+      <pubDate>Tue, 12 Aug 2025 18:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:55 pm</title>
+      <description>10800 BLOCK FINN DR Units: E152, TT4</description>
+      <guid isPermaLink="false">2025-08-12 18:55:00</guid>
+      <pubDate>Tue, 12 Aug 2025 18:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: E331, TT4</description>
       <guid isPermaLink="false">2025-08-10 17:42:00</guid>
       <pubDate>Sun, 10 Aug 2025 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRUCTURAL COLLAPSE: 5:08 pm</title>
-      <description>8600 BLOCK SHADY PINES DR Radio: 9D Units: E231, R3, HM33, TR29, TRSU29, A239, A259, ALS23, BC901, SAF901, EMS901, E251, TT23</description>
-      <guid isPermaLink="false">2025-08-10 17:08:00</guid>
-      <pubDate>Sun, 10 Aug 2025 17:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:52 pm</title>
-      <description>100 BLOCK APPLE WAY Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-10 16:52:00</guid>
-      <pubDate>Sun, 10 Aug 2025 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
