@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 12:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 14:02:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
+      <description>6400 BLOCK JEFFERSON PIKE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-08-13 09:56:00</guid>
+      <pubDate>Wed, 13 Aug 2025 09:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:29 am</title>
+      <description>6500 BLOCK NIGHTINGALE CT Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-08-13 09:29:00</guid>
+      <pubDate>Wed, 13 Aug 2025 09:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:25 am</title>
+      <description>1600 BLOCK PORTER ST, WIDE BAND SATELLITE OPERATIONS CTR Radio: 9C Units: E501, Q11</description>
+      <guid isPermaLink="false">2025-08-13 09:25:00</guid>
+      <pubDate>Wed, 13 Aug 2025 09:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:53 am</title>
+      <description>100 BLOCK S FEDERAL ST Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2025-08-13 08:53:00</guid>
+      <pubDate>Wed, 13 Aug 2025 08:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:59 am</title>
       <description>I70WB / 54MM, I70WB / 54MM Radio: 9B Units: E11, E31, R3, A39, A18</description>
@@ -282,30 +306,6 @@
       <description>11500 BLOCK DOGWOOD HILLS DR Radio: 7A8 Units: TT23</description>
       <guid isPermaLink="false">2025-08-11 10:48:00</guid>
       <pubDate>Mon, 11 Aug 2025 10:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 10:37 am</title>
-      <description>4000 BLOCK PENNYFIELDS LOCK CT Radio: 9C Units: E281, E201, R20</description>
-      <guid isPermaLink="false">2025-08-11 10:37:00</guid>
-      <pubDate>Mon, 11 Aug 2025 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
-      <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-11 10:12:00</guid>
-      <pubDate>Mon, 11 Aug 2025 10:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 9:51 am</title>
-      <description>2700 BLOCK WOLFE DR Radio: 9C Units: E51, E281, EK204</description>
-      <guid isPermaLink="false">2025-08-11 09:51:00</guid>
-      <pubDate>Mon, 11 Aug 2025 09:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:42 am</title>
-      <description>1300 BLOCK WILLOW OAK DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-11 06:42:00</guid>
-      <pubDate>Mon, 11 Aug 2025 06:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
