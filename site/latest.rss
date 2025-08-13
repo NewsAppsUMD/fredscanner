@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 17:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 18:40:20 +0000</lastBuildDate>
+    <item>
+      <title>SUSPICIOUS PACKAGE (RELEASE/RESIDUE) - SICK OR INJURED: 2:29 pm</title>
+      <description>100 BLOCK W PATRICK ST, FREDERICK COUNTY COURTHOUSE Radio: 9D Units: E31, HM50, A28, A299, ALS2, PE23, BC902</description>
+      <guid isPermaLink="false">2025-08-13 14:29:00</guid>
+      <pubDate>Wed, 13 Aug 2025 14:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:18 pm</title>
+      <description>14100 BLOCK CUSHMAN AVE Units: TW6</description>
+      <guid isPermaLink="false">2025-08-13 14:18:00</guid>
+      <pubDate>Wed, 13 Aug 2025 14:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 11:07 am</title>
       <description>7300 BLOCK MARCIES CHOICE LN, Apt/Unit:FIRST, COUNTY DETENTION CENTER Radio: 9C Units: PE311, R3</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 6 Units: A18</description>
       <guid isPermaLink="false">2025-08-11 15:16:00</guid>
       <pubDate>Mon, 11 Aug 2025 15:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:02 pm</title>
-      <description>RT15NB / CREAMERY RD, RT15NB / CREAMERY RD Units: A69, A309, ALS30</description>
-      <guid isPermaLink="false">2025-08-11 15:02:00</guid>
-      <pubDate>Mon, 11 Aug 2025 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:59 pm</title>
-      <description>RT15NB / CREAMERY RD, RT15NB / CREAMERY RD Units: ALS30</description>
-      <guid isPermaLink="false">2025-08-11 14:59:00</guid>
-      <pubDate>Mon, 11 Aug 2025 14:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
