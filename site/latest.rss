@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 14:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 15:01:50 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 10:55 am</title>
+      <description>NEW DESIGN RD / MANOR WOODS RD Radio: 9D Units: A148, ALS31, R14, EMS902</description>
+      <guid isPermaLink="false">2025-08-13 10:55:00</guid>
+      <pubDate>Wed, 13 Aug 2025 10:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:36 am</title>
+      <description>6400 BLOCK JEFFERSON PIKE Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-13 10:36:00</guid>
+      <pubDate>Wed, 13 Aug 2025 10:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
       <description>400 BLOCK HARLAN WAY, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / CREAMERY RD, RT15NB / CREAMERY RD Units: E61, R6, A68, PE102, EMS902</description>
       <guid isPermaLink="false">2025-08-11 14:58:00</guid>
       <pubDate>Mon, 11 Aug 2025 14:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:53 pm</title>
-      <description>OLD NATIONAL PIKE / RIDGEFIELD DR Units: A38</description>
-      <guid isPermaLink="false">2025-08-11 12:53:00</guid>
-      <pubDate>Mon, 11 Aug 2025 12:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:50 pm</title>
-      <description>OLD NATIONAL PIKE / SPRING RIDGE PKWY Units: E31</description>
-      <guid isPermaLink="false">2025-08-11 12:50:00</guid>
-      <pubDate>Mon, 11 Aug 2025 12:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
