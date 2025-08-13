@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 19:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 20:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:58 pm</title>
+      <description>JEFFERSON PIKE / HIMES AVE Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-08-13 15:58:00</guid>
+      <pubDate>Wed, 13 Aug 2025 15:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:47 pm</title>
+      <description>6000 BLOCK GREENFIELD DR Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-08-13 15:47:00</guid>
+      <pubDate>Wed, 13 Aug 2025 15:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:30 pm</title>
+      <description>JEFFERSON BLVD / MARYLAND AVE, AT INTERSECTION Radio: 9B Units: E121</description>
+      <guid isPermaLink="false">2025-08-13 15:30:00</guid>
+      <pubDate>Wed, 13 Aug 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>SUSPICIOUS PACKAGE (RELEASE/RESIDUE) - SICK OR INJURED: 2:29 pm</title>
       <description>100 BLOCK W PATRICK ST, FREDERICK COUNTY COURTHOUSE Radio: 9D Units: E31, HM50, A28, A299, ALS2, PE23, BC902</description>
@@ -288,24 +306,6 @@
       <description>7000 BLOCKB KIMMEL RD Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2025-08-11 20:13:00</guid>
       <pubDate>Mon, 11 Aug 2025 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:18 pm</title>
-      <description>I270SB / RT85, I270SB / 30MM Units: E231, E11, R3, A18, A259</description>
-      <guid isPermaLink="false">2025-08-11 16:18:00</guid>
-      <pubDate>Mon, 11 Aug 2025 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:37 pm</title>
-      <description>100 BLOCK N CHURCH ST, STATION 30 Units: ALS2</description>
-      <guid isPermaLink="false">2025-08-11 15:37:00</guid>
-      <pubDate>Mon, 11 Aug 2025 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:16 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: A18</description>
-      <guid isPermaLink="false">2025-08-11 15:16:00</guid>
-      <pubDate>Mon, 11 Aug 2025 15:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
