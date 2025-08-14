@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 19:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 19:31:23 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 3:23 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-08-14 15:23:00</guid>
+      <pubDate>Thu, 14 Aug 2025 15:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:22 pm</title>
+      <description>8400 BLOCK WOODSBORO PIKE, SHEETZ - WALKERSVILLE Radio: 9D Units: R2</description>
+      <guid isPermaLink="false">2025-08-14 15:22:00</guid>
+      <pubDate>Thu, 14 Aug 2025 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:20 pm</title>
+      <description>8400 BLOCK WOODSBORO PIKE, SHEETZ - WALKERSVILLE Radio: 9D Units: E111, R24, A248, ALS29, BC903, EMS902</description>
+      <guid isPermaLink="false">2025-08-14 15:20:00</guid>
+      <pubDate>Thu, 14 Aug 2025 15:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:17 pm</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, IHOP RESTAURANT - WESTVIEW PROMENADE Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-08-14 15:17:00</guid>
+      <pubDate>Thu, 14 Aug 2025 15:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 2:47 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R3</description>
@@ -282,30 +306,6 @@
       <description>OLD NATIONAL PIKE / TERRA FIRMA RD Units: E331, R15, A339, ALS2, BC901, EMS901</description>
       <guid isPermaLink="false">2025-08-12 14:54:00</guid>
       <pubDate>Tue, 12 Aug 2025 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:50 pm</title>
-      <description>200 BLOCK BISHOPS GLEN DR Units: E11</description>
-      <guid isPermaLink="false">2025-08-12 14:50:00</guid>
-      <pubDate>Tue, 12 Aug 2025 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:48 pm</title>
-      <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Units: E501, TT4</description>
-      <guid isPermaLink="false">2025-08-12 14:48:00</guid>
-      <pubDate>Tue, 12 Aug 2025 14:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:34 pm</title>
-      <description>6600 BLOCK BALLENGER RUN BLVD Units: PE311, E11, R3</description>
-      <guid isPermaLink="false">2025-08-12 14:34:00</guid>
-      <pubDate>Tue, 12 Aug 2025 14:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 12:07 pm</title>
-      <description>POTOMAC RIVER / DAM 3 Units: BT19, BT28, A197, ALS20</description>
-      <guid isPermaLink="false">2025-08-12 12:07:00</guid>
-      <pubDate>Tue, 12 Aug 2025 12:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
