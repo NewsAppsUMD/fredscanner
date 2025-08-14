@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 02:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 03:01:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:27 pm</title>
+      <description>400 BLOCK HARLAN WAY, Apt/Unit:400 BLOCK, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-08-13 22:27:00</guid>
+      <pubDate>Wed, 13 Aug 2025 22:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:34 pm</title>
       <description>EXECUTIVE WAY / MACON ST Radio: 9D Units: A318, PE311, EMS901</description>
@@ -300,12 +306,6 @@
       <description>GAMBRILL PARK RD / TOWER RD Radio: 9B Units: A89, E82, E212</description>
       <guid isPermaLink="false">2025-08-12 02:45:00</guid>
       <pubDate>Tue, 12 Aug 2025 02:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:34 pm</title>
-      <description>I70EB / MONOCACY RIVER, I70EB / MONOCACY RIVER Radio: 9B Units: E331</description>
-      <guid isPermaLink="false">2025-08-11 23:34:00</guid>
-      <pubDate>Mon, 11 Aug 2025 23:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
