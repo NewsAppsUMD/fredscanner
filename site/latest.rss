@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 03:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 04:08:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:03 am</title>
+      <description>1000 BLOCK CORRAL AREA CIR, NCI - BLDG 1000 BLOCK Radio: 9C Units: E501, TT4</description>
+      <guid isPermaLink="false">2025-08-14 00:03:00</guid>
+      <pubDate>Thu, 14 Aug 2025 00:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:06 pm</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231, A239</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK ROSEMONT AVE Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-08-12 08:43:00</guid>
       <pubDate>Tue, 12 Aug 2025 08:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:21 am</title>
-      <description>15400 BLOCK MOTTERS STATION RD Radio: 9B Units: A68, E132</description>
-      <guid isPermaLink="false">2025-08-12 06:21:00</guid>
-      <pubDate>Tue, 12 Aug 2025 06:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
