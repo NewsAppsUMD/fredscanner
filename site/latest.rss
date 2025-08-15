@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 01:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 02:19:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:38 pm</title>
+      <description>8400 BLOCK BALD EAGLE LN Radio: 9C Units: E331, TT4</description>
+      <guid isPermaLink="false">2025-08-14 21:38:00</guid>
+      <pubDate>Thu, 14 Aug 2025 21:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:28 pm</title>
+      <description>7000 BLOCK MICHAELS MILL RD Radio: 9B Units: A148, R14</description>
+      <guid isPermaLink="false">2025-08-14 21:28:00</guid>
+      <pubDate>Thu, 14 Aug 2025 21:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:19 pm</title>
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: E121</description>
@@ -294,18 +306,6 @@
       <description>7300 BLOCK HOLTER RD, REMSBURG PARK Units: BR75</description>
       <guid isPermaLink="false">2025-08-12 15:55:00</guid>
       <pubDate>Tue, 12 Aug 2025 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:15 pm</title>
-      <description>9900 BLOCK HARMONY RD Units: E82</description>
-      <guid isPermaLink="false">2025-08-12 15:15:00</guid>
-      <pubDate>Tue, 12 Aug 2025 15:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:12 pm</title>
-      <description>4100 BLOCK BUCKEYSTOWN PIKE, VULCAN MATERIALS - 4100 BLOCK BUCKEYSTOWN PIKE Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-08-12 15:12:00</guid>
-      <pubDate>Tue, 12 Aug 2025 15:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
