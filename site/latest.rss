@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 11:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 11:32:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:07 am</title>
+      <description>E MAIN ST / MIDDLETOWN PKWY Radio: 9B Units: A79, RE74</description>
+      <guid isPermaLink="false">2025-08-15 07:07:00</guid>
+      <pubDate>Fri, 15 Aug 2025 07:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
       <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>RT340WB / RT17, RT340WB / RT17 Units: E51, E201, R20, A209, A197</description>
       <guid isPermaLink="false">2025-08-12 20:12:00</guid>
       <pubDate>Tue, 12 Aug 2025 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:59 pm</title>
-      <description>WOODSBORO PIKE / STAUFFER RD Units: E111, R24, A249, ALS2, EMS902</description>
-      <guid isPermaLink="false">2025-08-12 18:59:00</guid>
-      <pubDate>Tue, 12 Aug 2025 18:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
