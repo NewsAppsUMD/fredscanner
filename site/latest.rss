@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 06:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 06:41:39 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
+      <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-15 02:02:00</guid>
+      <pubDate>Fri, 15 Aug 2025 02:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
+      <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-08-15 02:02:00</guid>
+      <pubDate>Fri, 15 Aug 2025 02:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 1:57 am</title>
       <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: E291, E111, Q11</description>
@@ -294,18 +306,6 @@
       <description>WOODSBORO PIKE / STAUFFER RD Units: E111, R24, A249, ALS2, EMS902</description>
       <guid isPermaLink="false">2025-08-12 18:59:00</guid>
       <pubDate>Tue, 12 Aug 2025 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:55 pm</title>
-      <description>10800 BLOCK FINN DR Units: E152, TT4</description>
-      <guid isPermaLink="false">2025-08-12 18:55:00</guid>
-      <pubDate>Tue, 12 Aug 2025 18:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
-      <guid isPermaLink="false">2025-08-12 17:50:00</guid>
-      <pubDate>Tue, 12 Aug 2025 17:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
