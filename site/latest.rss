@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Aug 2025 17:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 17:34:36 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:00 pm</title>
+      <description>9600 BLOCK FLEETWOOD CT Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-08-15 13:00:00</guid>
+      <pubDate>Fri, 15 Aug 2025 13:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:58 pm</title>
       <description>MAIN ST / MONUMENT RD Radio: 9B Units: A89, E82</description>
@@ -300,12 +306,6 @@
       <description>KELBAUGH RD / BLACK RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-08-13 06:05:00</guid>
       <pubDate>Wed, 13 Aug 2025 06:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:58 am</title>
-      <description>400 BLOCK HARLAN WAY, Apt/Unit:302, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-08-13 03:58:00</guid>
-      <pubDate>Wed, 13 Aug 2025 03:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
