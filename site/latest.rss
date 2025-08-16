@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 05:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 05:35:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:27 am</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72</description>
+      <guid isPermaLink="false">2025-08-16 01:27:00</guid>
+      <pubDate>Sat, 16 Aug 2025 01:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:26 am</title>
+      <description>FINGERBOARD RD / BUCKEYSTOWN PIKE Radio: 9B Units: A148, A239, R14</description>
+      <guid isPermaLink="false">2025-08-16 01:26:00</guid>
+      <pubDate>Sat, 16 Aug 2025 01:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:28 am</title>
       <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: T7</description>
@@ -294,18 +306,6 @@
       <description>JEFFERSON BLVD / MARYLAND AVE, AT INTERSECTION Radio: 9B Units: E121</description>
       <guid isPermaLink="false">2025-08-13 15:30:00</guid>
       <pubDate>Wed, 13 Aug 2025 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SUSPICIOUS PACKAGE (RELEASE/RESIDUE) - SICK OR INJURED: 2:29 pm</title>
-      <description>100 BLOCK W PATRICK ST, FREDERICK COUNTY COURTHOUSE Radio: 9D Units: E31, HM50, A28, A299, ALS2, PE23, BC902</description>
-      <guid isPermaLink="false">2025-08-13 14:29:00</guid>
-      <pubDate>Wed, 13 Aug 2025 14:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:18 pm</title>
-      <description>14100 BLOCK CUSHMAN AVE Units: TW6</description>
-      <guid isPermaLink="false">2025-08-13 14:18:00</guid>
-      <pubDate>Wed, 13 Aug 2025 14:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
