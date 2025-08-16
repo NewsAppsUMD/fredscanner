@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 04:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 04:38:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:28 am</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: T7</description>
+      <guid isPermaLink="false">2025-08-16 00:28:00</guid>
+      <pubDate>Sat, 16 Aug 2025 00:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
+      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72, T7</description>
+      <guid isPermaLink="false">2025-08-16 00:21:00</guid>
+      <pubDate>Sat, 16 Aug 2025 00:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:34 pm</title>
       <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Units: A38, E31</description>
@@ -294,18 +306,6 @@
       <description>14100 BLOCK CUSHMAN AVE Units: TW6</description>
       <guid isPermaLink="false">2025-08-13 14:18:00</guid>
       <pubDate>Wed, 13 Aug 2025 14:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 11:07 am</title>
-      <description>7300 BLOCK MARCIES CHOICE LN, Apt/Unit:FIRST, COUNTY DETENTION CENTER Radio: 9C Units: PE311, R3</description>
-      <guid isPermaLink="false">2025-08-13 11:07:00</guid>
-      <pubDate>Wed, 13 Aug 2025 11:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:55 am</title>
-      <description>NEW DESIGN RD / MANOR WOODS RD Radio: 9D Units: A148, ALS31, R14, EMS902</description>
-      <guid isPermaLink="false">2025-08-13 10:55:00</guid>
-      <pubDate>Wed, 13 Aug 2025 10:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
