@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 11:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 11:31:42 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:22 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:800 Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-17 07:22:00</guid>
+      <pubDate>Sun, 17 Aug 2025 07:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 5:39 am</title>
       <description>13600 BLOCK PRICES DISTILLERY RD Radio: 7A1 Units: A259</description>
@@ -298,12 +304,6 @@
     <item>
       <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
       <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-15 02:02:00</guid>
-      <pubDate>Fri, 15 Aug 2025 02:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
-      <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-08-15 02:02:00</guid>
       <pubDate>Fri, 15 Aug 2025 02:02:00 -0400</pubDate>
     </item>
