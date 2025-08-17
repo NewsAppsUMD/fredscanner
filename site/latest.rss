@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 21:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 22:01:55 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:44 pm</title>
+      <description>700 BLOCK POTTERFIELDS CT Radio: 9C Units: E51</description>
+      <guid isPermaLink="false">2025-08-17 17:44:00</guid>
+      <pubDate>Sun, 17 Aug 2025 17:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 5:26 pm</title>
       <description>1000 BLOCK STARK ST, Bldg:C Radio: 9C Units: E501, E11</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Units: A38, E31</description>
       <guid isPermaLink="false">2025-08-15 23:34:00</guid>
       <pubDate>Fri, 15 Aug 2025 23:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 9:54 pm</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Units: PE311</description>
-      <guid isPermaLink="false">2025-08-15 21:54:00</guid>
-      <pubDate>Fri, 15 Aug 2025 21:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
