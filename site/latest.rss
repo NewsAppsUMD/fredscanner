@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 22:01:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 22:35:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:28 pm</title>
+      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9B Units: A18</description>
+      <guid isPermaLink="false">2025-08-17 18:28:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:27 pm</title>
+      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:1C Radio: 9C Units: E111, E291, Q11</description>
+      <guid isPermaLink="false">2025-08-17 18:27:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:23 pm</title>
+      <description>100 BLOCK E THIRD ST, GEORGETOWN APTS Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2025-08-17 18:23:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:20 pm</title>
+      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9B Units: A148, R20</description>
+      <guid isPermaLink="false">2025-08-17 18:20:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 6:10 pm</title>
+      <description>4300 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-08-17 18:10:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:08 pm</title>
+      <description>11000 BLOCK DAYSVILLE RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-08-17 18:08:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:01 pm</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9B Units: E331, E152, R15, A158, A339</description>
+      <guid isPermaLink="false">2025-08-17 18:01:00</guid>
+      <pubDate>Sun, 17 Aug 2025 18:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:44 pm</title>
       <description>700 BLOCK POTTERFIELDS CT Radio: 9C Units: E51</description>
@@ -264,48 +306,6 @@
       <description>8600 BLOCK SHADY PINES DR Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2025-08-16 08:29:00</guid>
       <pubDate>Sat, 16 Aug 2025 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:57 am</title>
-      <description>FINGERBOARD RD / BUCKEYSTOWN PIKE Radio: 9B Units: ALS31</description>
-      <guid isPermaLink="false">2025-08-16 01:57:00</guid>
-      <pubDate>Sat, 16 Aug 2025 01:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:36 am</title>
-      <description>FINGERBOARD RD / BUCKEYSTOWN PIKE Radio: 9B Units: A318, ALS23</description>
-      <guid isPermaLink="false">2025-08-16 01:36:00</guid>
-      <pubDate>Sat, 16 Aug 2025 01:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:27 am</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2025-08-16 01:27:00</guid>
-      <pubDate>Sat, 16 Aug 2025 01:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:26 am</title>
-      <description>FINGERBOARD RD / BUCKEYSTOWN PIKE Radio: 9B Units: A148, A239, R14</description>
-      <guid isPermaLink="false">2025-08-16 01:26:00</guid>
-      <pubDate>Sat, 16 Aug 2025 01:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:28 am</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: T7</description>
-      <guid isPermaLink="false">2025-08-16 00:28:00</guid>
-      <pubDate>Sat, 16 Aug 2025 00:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:21 am</title>
-      <description>400 BLOCK W GREEN ST, AMVETS - MIDDLETOWN Radio: 9C Units: E72, T7</description>
-      <guid isPermaLink="false">2025-08-16 00:21:00</guid>
-      <pubDate>Sat, 16 Aug 2025 00:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:34 pm</title>
-      <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Units: A38, E31</description>
-      <guid isPermaLink="false">2025-08-15 23:34:00</guid>
-      <pubDate>Fri, 15 Aug 2025 23:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
