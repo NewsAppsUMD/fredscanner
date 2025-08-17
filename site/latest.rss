@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 Aug 2025 12:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 12:43:39 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:34 am</title>
+      <description>12000 BLOCK WILDCAT RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2025-08-17 08:34:00</guid>
+      <pubDate>Sun, 17 Aug 2025 08:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:34 am</title>
+      <description>12000 BLOCK WILDCAT RD Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-08-17 08:34:00</guid>
+      <pubDate>Sun, 17 Aug 2025 08:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:29 am</title>
+      <description>12000 BLOCK WILDCAT RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2025-08-17 08:29:00</guid>
+      <pubDate>Sun, 17 Aug 2025 08:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:22 am</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:800 Radio: 9C Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>1000 BLOCK PIPERS BROOK DR Radio: 6DTAC11 Units: T5</description>
       <guid isPermaLink="false">2025-08-15 08:37:00</guid>
       <pubDate>Fri, 15 Aug 2025 08:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:26 am</title>
-      <description>100 BLOCK BANKBARN CIR Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2025-08-15 08:26:00</guid>
-      <pubDate>Fri, 15 Aug 2025 08:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:07 am</title>
-      <description>E MAIN ST / MIDDLETOWN PKWY Radio: 9B Units: A79, RE74</description>
-      <guid isPermaLink="false">2025-08-15 07:07:00</guid>
-      <pubDate>Fri, 15 Aug 2025 07:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 2:02 am</title>
-      <description>500 BLOCK STANTON ST, Apt/Unit:416 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-15 02:02:00</guid>
-      <pubDate>Fri, 15 Aug 2025 02:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
