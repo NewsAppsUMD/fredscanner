@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 Aug 2025 17:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 17:35:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:29 pm</title>
+      <description>1100 BLOCK KEY PKWY, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-08-18 13:29:00</guid>
+      <pubDate>Mon, 18 Aug 2025 13:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 1:13 pm</title>
+      <description>11600 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2025-08-18 13:13:00</guid>
+      <pubDate>Mon, 18 Aug 2025 13:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 1:08 pm</title>
+      <description>11600 BLOCK WOODSBORO PIKE Radio: 9C Units: E91</description>
+      <guid isPermaLink="false">2025-08-18 13:08:00</guid>
+      <pubDate>Mon, 18 Aug 2025 13:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:57 pm</title>
       <description>300 BLOCKB MADISON ST Radio: 9C Units: E31</description>
@@ -288,24 +306,6 @@
       <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E162, Q11</description>
       <guid isPermaLink="false">2025-08-17 05:30:00</guid>
       <pubDate>Sun, 17 Aug 2025 05:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:10 am</title>
-      <description>6900 BLOCK GOLDEN VALLEY CT Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-08-17 04:10:00</guid>
-      <pubDate>Sun, 17 Aug 2025 04:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:46 pm</title>
-      <description>3300 BLOCK URBANA PIKE Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-08-16 20:46:00</guid>
-      <pubDate>Sat, 16 Aug 2025 20:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:06 pm</title>
-      <description>10100 BLOCK DUBLIN RD Radio: 9B Units: A169, E162</description>
-      <guid isPermaLink="false">2025-08-16 20:06:00</guid>
-      <pubDate>Sat, 16 Aug 2025 20:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
