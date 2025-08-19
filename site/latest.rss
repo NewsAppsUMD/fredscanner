@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 19:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 20:02:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 3:45 pm</title>
+      <description>100 BLOCK EISENTOWN DR Radio: 6DTAC11 Units: E281, T5</description>
+      <guid isPermaLink="false">2025-08-19 15:45:00</guid>
+      <pubDate>Tue, 19 Aug 2025 15:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
       <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A319, PE311</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCKC MERIDIAN WAY, Apt/Unit:27 Radio: 9C Units: PE311, E31, R14</description>
       <guid isPermaLink="false">2025-08-17 20:11:00</guid>
       <pubDate>Sun, 17 Aug 2025 20:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:29 pm</title>
-      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2025-08-17 19:29:00</guid>
-      <pubDate>Sun, 17 Aug 2025 19:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
