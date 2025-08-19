@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 13:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 13:39:08 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:12 am</title>
+      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: TT23</description>
+      <guid isPermaLink="false">2025-08-19 09:12:00</guid>
+      <pubDate>Tue, 19 Aug 2025 09:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:08 am</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E153</description>
+      <guid isPermaLink="false">2025-08-19 09:08:00</guid>
+      <pubDate>Tue, 19 Aug 2025 09:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:05 am</title>
       <description>4600 BLOCK LANDER RD, STATION 20 Units: A319</description>
@@ -294,18 +306,6 @@
       <description>11000 BLOCK DAYSVILLE RD Radio: 9C Units: E172</description>
       <guid isPermaLink="false">2025-08-17 18:08:00</guid>
       <pubDate>Sun, 17 Aug 2025 18:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:01 pm</title>
-      <description>I70WB / 62MM, I70WB / 62MM Radio: 9B Units: E331, E152, R15, A158, A339</description>
-      <guid isPermaLink="false">2025-08-17 18:01:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:44 pm</title>
-      <description>700 BLOCK POTTERFIELDS CT Radio: 9C Units: E51</description>
-      <guid isPermaLink="false">2025-08-17 17:44:00</guid>
-      <pubDate>Sun, 17 Aug 2025 17:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
