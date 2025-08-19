@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 16:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 16:37:54 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 12:33 pm</title>
+      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: BC902</description>
+      <guid isPermaLink="false">2025-08-19 12:33:00</guid>
+      <pubDate>Tue, 19 Aug 2025 12:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:33 pm</title>
+      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: E132, EK134, EK114, E162</description>
+      <guid isPermaLink="false">2025-08-19 12:33:00</guid>
+      <pubDate>Tue, 19 Aug 2025 12:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:24 pm</title>
+      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: K9</description>
+      <guid isPermaLink="false">2025-08-19 12:24:00</guid>
+      <pubDate>Tue, 19 Aug 2025 12:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:18 pm</title>
+      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: K9</description>
+      <guid isPermaLink="false">2025-08-19 12:18:00</guid>
+      <pubDate>Tue, 19 Aug 2025 12:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:17 pm</title>
+      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: E172, K17</description>
+      <guid isPermaLink="false">2025-08-19 12:17:00</guid>
+      <pubDate>Tue, 19 Aug 2025 12:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 11:58 am</title>
       <description>100 BLOCK PEARL ST, BYPASSED TO: 41(100 BLOCK) BLK PEARL ST Units: EK64</description>
@@ -276,36 +306,6 @@
       <description>8200 BLOCK BLUE HERON DR, Apt/Unit:1C Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-08-17 18:33:00</guid>
       <pubDate>Sun, 17 Aug 2025 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:32 pm</title>
-      <description>12400 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: E152, RE171, A179, ALS17, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-08-17 18:32:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:28 pm</title>
-      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9B Units: A18</description>
-      <guid isPermaLink="false">2025-08-17 18:28:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 6:27 pm</title>
-      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:1C Radio: 9C Units: E111, E291, Q11</description>
-      <guid isPermaLink="false">2025-08-17 18:27:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:23 pm</title>
-      <description>100 BLOCK E THIRD ST, GEORGETOWN APTS Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2025-08-17 18:23:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:20 pm</title>
-      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9B Units: A148, R20</description>
-      <guid isPermaLink="false">2025-08-17 18:20:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
