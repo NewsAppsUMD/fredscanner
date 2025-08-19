@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 Aug 2025 13:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 14:02:22 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 9:42 am</title>
+      <description>500 BLOCK BANQUET LN Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-19 09:42:00</guid>
+      <pubDate>Tue, 19 Aug 2025 09:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:12 am</title>
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: TT23</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-08-17 18:10:00</guid>
       <pubDate>Sun, 17 Aug 2025 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:08 pm</title>
-      <description>11000 BLOCK DAYSVILLE RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2025-08-17 18:08:00</guid>
-      <pubDate>Sun, 17 Aug 2025 18:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
