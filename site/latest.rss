@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 06:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 07:33:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:10 am</title>
+      <description>16800 BLOCK S SETON AVE, Bldg:C, Apt/Unit:319, NATIONAL FIRE ACADEMY - BLDG C Radio: 9C Units: E61, TW6</description>
+      <guid isPermaLink="false">2025-08-20 03:10:00</guid>
+      <pubDate>Wed, 20 Aug 2025 03:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:49 am</title>
+      <description>10700 BLOCK COOK BROTHERS RD Radio: 9B Units: E251</description>
+      <guid isPermaLink="false">2025-08-20 02:49:00</guid>
+      <pubDate>Wed, 20 Aug 2025 02:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:15 am</title>
       <description>500 BLOCK EISENHOWER DR Radio: 9C Units: E11, TT4</description>
@@ -294,18 +306,6 @@
       <description>11600 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2025-08-18 13:13:00</guid>
       <pubDate>Mon, 18 Aug 2025 13:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:08 pm</title>
-      <description>11600 BLOCK WOODSBORO PIKE Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2025-08-18 13:08:00</guid>
-      <pubDate>Mon, 18 Aug 2025 13:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:57 pm</title>
-      <description>300 BLOCKB MADISON ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2025-08-18 12:57:00</guid>
-      <pubDate>Mon, 18 Aug 2025 12:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
