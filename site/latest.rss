@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 15:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 16:02:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:59 am</title>
+      <description>600 BLOCK E CHURCH ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-08-20 11:59:00</guid>
+      <pubDate>Wed, 20 Aug 2025 11:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:45 am</title>
+      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-08-20 11:45:00</guid>
+      <pubDate>Wed, 20 Aug 2025 11:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:45 am</title>
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9C Units: BR106</description>
@@ -294,18 +306,6 @@
       <description>RT77 / CAMP PENIEL, RT77 / CAMP PENIEL Radio: 9B Units: A309, PE102, C951</description>
       <guid isPermaLink="false">2025-08-19 07:44:00</guid>
       <pubDate>Tue, 19 Aug 2025 07:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:43 am</title>
-      <description>4900 BLOCK LINGANORE WOODS DR Radio: 9C Units: E251, E152, R15, CCK1</description>
-      <guid isPermaLink="false">2025-08-19 05:43:00</guid>
-      <pubDate>Tue, 19 Aug 2025 05:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:40 am</title>
-      <description>RT15SB / RT26, RT15SB / RT26 Radio: 9B Units: E11, E291, R2, A299, A248</description>
-      <guid isPermaLink="false">2025-08-19 03:40:00</guid>
-      <pubDate>Tue, 19 Aug 2025 03:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
