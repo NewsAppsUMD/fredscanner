@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 19:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 20:02:03 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:45 pm</title>
+      <description>500 BLOCK UNION ST Units: PE23</description>
+      <guid isPermaLink="false">2025-08-21 15:45:00</guid>
+      <pubDate>Thu, 21 Aug 2025 15:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 2:59 pm</title>
       <description>BUCKEYSTOWN PIKE / PEGASUS CT Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Radio: CCA7 Units: E132</description>
       <guid isPermaLink="false">2025-08-19 12:40:00</guid>
       <pubDate>Tue, 19 Aug 2025 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:33 pm</title>
-      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: BC902</description>
-      <guid isPermaLink="false">2025-08-19 12:33:00</guid>
-      <pubDate>Tue, 19 Aug 2025 12:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
