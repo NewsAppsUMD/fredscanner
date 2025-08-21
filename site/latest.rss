@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 07:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 09:34:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:04 am</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH CABIN Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2025-08-21 05:04:00</guid>
+      <pubDate>Thu, 21 Aug 2025 05:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:26 am</title>
+      <description>6900 BLOCK ROOKS CT, Apt/Unit:306, KINGSCREST APTS - 6900 BLOCK ROOKS CT Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-21 04:26:00</guid>
+      <pubDate>Thu, 21 Aug 2025 04:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:17 am</title>
       <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, TT23</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK PEARL ST, BYPASSED TO: 41(100 BLOCK) BLK PEARL ST Units: EK64</description>
       <guid isPermaLink="false">2025-08-19 11:58:00</guid>
       <pubDate>Tue, 19 Aug 2025 11:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:42 am</title>
-      <description>500 BLOCK BANQUET LN Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-19 09:42:00</guid>
-      <pubDate>Tue, 19 Aug 2025 09:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:12 am</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: TT23</description>
-      <guid isPermaLink="false">2025-08-19 09:12:00</guid>
-      <pubDate>Tue, 19 Aug 2025 09:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
