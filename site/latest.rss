@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 21:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 22:01:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 pm</title>
+      <description>700 BLOCK W POTOMAC ST, Bldg:A, IFO DOLLAR GENERAL - BRUNSWICK Radio: 9D Units: R19, A197, ALS20, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-08-21 17:43:00</guid>
+      <pubDate>Thu, 21 Aug 2025 17:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:09 pm</title>
       <description>100 BLOCK SUNNY WAY Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Radio: CCA7 Units: CAN1</description>
       <guid isPermaLink="false">2025-08-19 13:06:00</guid>
       <pubDate>Tue, 19 Aug 2025 13:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:47 pm</title>
-      <description>100 BLOCK THIRD ST, STATION 16 Units: EK64</description>
-      <guid isPermaLink="false">2025-08-19 12:47:00</guid>
-      <pubDate>Tue, 19 Aug 2025 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
