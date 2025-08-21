@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 15:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 16:07:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:33 am</title>
+      <description>11100 BLOCK INNSBROOK WAY, Apt/Unit:LOT 406 Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-08-21 11:33:00</guid>
+      <pubDate>Thu, 21 Aug 2025 11:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:33 am</title>
       <description>COPPERMINE RD / COPPER OAKS DR Radio: 9D Units: E91, R24, A169, ALS17, EMS902</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: K9</description>
       <guid isPermaLink="false">2025-08-19 12:18:00</guid>
       <pubDate>Tue, 19 Aug 2025 12:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:17 pm</title>
-      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: E172, K17</description>
-      <guid isPermaLink="false">2025-08-19 12:17:00</guid>
-      <pubDate>Tue, 19 Aug 2025 12:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
