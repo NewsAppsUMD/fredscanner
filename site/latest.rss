@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Aug 2025 16:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 17:01:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:48 pm</title>
+      <description>SPECTRUM DR / BUCKEYSTOWN PIKE Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-08-21 12:48:00</guid>
+      <pubDate>Thu, 21 Aug 2025 12:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:33 am</title>
       <description>11100 BLOCK INNSBROOK WAY, Apt/Unit:LOT 406 Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: K9</description>
       <guid isPermaLink="false">2025-08-19 12:24:00</guid>
       <pubDate>Tue, 19 Aug 2025 12:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:18 pm</title>
-      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Units: K9</description>
-      <guid isPermaLink="false">2025-08-19 12:18:00</guid>
-      <pubDate>Tue, 19 Aug 2025 12:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
