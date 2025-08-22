@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 00:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 00:46:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:41 pm</title>
+      <description>100 BLOCK(491100 BLOCK) BLK FAIRFIELD RD Units: TW6</description>
+      <guid isPermaLink="false">2025-08-21 20:41:00</guid>
+      <pubDate>Thu, 21 Aug 2025 20:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 pm</title>
       <description>700 BLOCK W POTOMAC ST, Bldg:A, IFO DOLLAR GENERAL - BRUNSWICK Radio: 9D Units: R19, A197, ALS20, BC901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: E152</description>
       <guid isPermaLink="false">2025-08-19 13:09:00</guid>
       <pubDate>Tue, 19 Aug 2025 13:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 1:06 pm</title>
-      <description>3900 BLOCK HAWKS HILL RD, BYPASSED TO: 0(3900 BLOCK) BLK HAWKS HILL RD,NEW WINDSOR Radio: CCA7 Units: CAN1</description>
-      <guid isPermaLink="false">2025-08-19 13:06:00</guid>
-      <pubDate>Tue, 19 Aug 2025 13:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
