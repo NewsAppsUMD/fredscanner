@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 16:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 17:01:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:57 pm</title>
+      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: E231, A239</description>
+      <guid isPermaLink="false">2025-08-23 12:57:00</guid>
+      <pubDate>Sat, 23 Aug 2025 12:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:31 pm</title>
       <description>1000 BLOCK W PATRICK ST, Apt/Unit:SUIT A, HARBOR FREIGHT - FREDERICK COUNTY SQUARE Radio: 9C Units: E33, TT4</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E CHURCH ST, TASTING ROOM Radio: 9D Units: A38, ALS4, R3, EMS901</description>
       <guid isPermaLink="false">2025-08-20 18:02:00</guid>
       <pubDate>Wed, 20 Aug 2025 18:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 4:44 pm</title>
-      <description>SANDY HOOK RD / NAVAL GUN BATTERY Radio: TAC1OPS Units: A197, RE52</description>
-      <guid isPermaLink="false">2025-08-20 16:44:00</guid>
-      <pubDate>Wed, 20 Aug 2025 16:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
