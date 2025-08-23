@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 05:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 06:02:37 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:57 am</title>
+      <description>9200 BLOCK CHARTERHOUSE RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-08-23 01:57:00</guid>
+      <pubDate>Sat, 23 Aug 2025 01:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:18 pm</title>
       <description>2700 BLOCK OSPREY WAY Radio: 9C Units: E291, Q11</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: PE23, TT4</description>
       <guid isPermaLink="false">2025-08-20 11:45:00</guid>
       <pubDate>Wed, 20 Aug 2025 11:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:45 am</title>
-      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-08-20 09:45:00</guid>
-      <pubDate>Wed, 20 Aug 2025 09:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
