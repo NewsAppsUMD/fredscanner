@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 03:16:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 04:02:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:18 pm</title>
+      <description>2700 BLOCK OSPREY WAY Radio: 9C Units: E291, Q11</description>
+      <guid isPermaLink="false">2025-08-22 23:18:00</guid>
+      <pubDate>Fri, 22 Aug 2025 23:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:07 pm</title>
       <description>4700 BLOCK ARABY CHURCH RD Radio: 9B Units: A239, E231</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-08-20 09:45:00</guid>
       <pubDate>Wed, 20 Aug 2025 09:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:40 am</title>
-      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2025-08-20 09:40:00</guid>
-      <pubDate>Wed, 20 Aug 2025 09:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
