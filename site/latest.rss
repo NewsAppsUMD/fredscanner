@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 00:07:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 00:46:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:14 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-08-22 20:14:00</guid>
+      <pubDate>Fri, 22 Aug 2025 20:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:05 pm</title>
       <description>1700 BLOCK ATLAS DR Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-08-20 09:17:00</guid>
       <pubDate>Wed, 20 Aug 2025 09:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:01 am</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / EASTERDAY RD Units: A89, E82</description>
-      <guid isPermaLink="false">2025-08-20 09:01:00</guid>
-      <pubDate>Wed, 20 Aug 2025 09:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
