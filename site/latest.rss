@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 Aug 2025 14:01:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 14:33:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
+      <description>4700 BLOCK ARCADIA DR, Apt/Unit:135 / 150 Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-23 10:12:00</guid>
+      <pubDate>Sat, 23 Aug 2025 10:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:02 am</title>
       <description>17000 BLOCK N270 X16 TO X18 HWY N270T RT27 - RT121, N270T RT27 - RT121 Radio: 7A1 Units: A239</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Radio: 9D Units: PE102, R10, A229, ALS2, E221, EMS902</description>
       <guid isPermaLink="false">2025-08-20 14:55:00</guid>
       <pubDate>Wed, 20 Aug 2025 14:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:09 pm</title>
-      <description>7800 BLOCK SPOUT SPRING RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-20 12:09:00</guid>
-      <pubDate>Wed, 20 Aug 2025 12:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
