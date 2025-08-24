@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Aug 2025 18:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 19:01:44 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:47 pm</title>
+      <description>12600 BLOCK CATOCTIN FURNACE RD Radio: 9D Units: BC903</description>
+      <guid isPermaLink="false">2025-08-24 14:47:00</guid>
+      <pubDate>Sun, 24 Aug 2025 14:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:44 pm</title>
+      <description>100 BLOCK BLK 15S BTWN BIGGS FORD RD &amp; WILLOW RD HWY Radio: 9I Units: EMS901</description>
+      <guid isPermaLink="false">2025-08-24 14:44:00</guid>
+      <pubDate>Sun, 24 Aug 2025 14:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:43 pm</title>
+      <description>100 BLOCK BLK 15S BTWN BIGGS FORD RD &amp; WILLOW RD HWY Radio: 9I Units: E291, E111, R24, A299, A249, ALS29, EMS901</description>
+      <guid isPermaLink="false">2025-08-24 14:43:00</guid>
+      <pubDate>Sun, 24 Aug 2025 14:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:40 pm</title>
+      <description>12600 BLOCK CATOCTIN FURNACE RD Radio: 9B Units: A229, PE102, E221, EMS902</description>
+      <guid isPermaLink="false">2025-08-24 14:40:00</guid>
+      <pubDate>Sun, 24 Aug 2025 14:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:58 am</title>
       <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231</description>
@@ -282,30 +306,6 @@
       <description>6800 BLOCK SUNDAYS LN Units: R2</description>
       <guid isPermaLink="false">2025-08-22 16:37:00</guid>
       <pubDate>Fri, 22 Aug 2025 16:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 4:31 pm</title>
-      <description>6800 BLOCK SUNDAYS LN Radio: 9D Units: E291, R24, A299, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-08-22 16:31:00</guid>
-      <pubDate>Fri, 22 Aug 2025 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:56 pm</title>
-      <description>400 BLOCK CENTER ST Radio: 9D Units: E31, R3, A39, ALS2, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-08-22 14:56:00</guid>
-      <pubDate>Fri, 22 Aug 2025 14:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:07 pm</title>
-      <description>CARRIAGE HILL DR / FINGERBOARD RD Units: A339</description>
-      <guid isPermaLink="false">2025-08-22 14:07:00</guid>
-      <pubDate>Fri, 22 Aug 2025 14:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:01 pm</title>
-      <description>CARRIAGE HILL DR / FINGERBOARD RD Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2025-08-22 14:01:00</guid>
-      <pubDate>Fri, 22 Aug 2025 14:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
