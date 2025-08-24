@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Aug 2025 00:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 01:30:05 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:15 pm</title>
+      <description>6200 BLOCK NEWPORT PL Radio: 9C Units: HM33, U33</description>
+      <guid isPermaLink="false">2025-08-23 21:15:00</guid>
+      <pubDate>Sat, 23 Aug 2025 21:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 9:07 pm</title>
+      <description>6200 BLOCK NEWPORT PL Radio: 9C Units: E331, E33, R3</description>
+      <guid isPermaLink="false">2025-08-23 21:07:00</guid>
+      <pubDate>Sat, 23 Aug 2025 21:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:41 pm</title>
       <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK(491100 BLOCK) BLK FAIRFIELD RD Units: TW6</description>
       <guid isPermaLink="false">2025-08-21 20:41:00</guid>
       <pubDate>Thu, 21 Aug 2025 20:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 pm</title>
-      <description>700 BLOCK W POTOMAC ST, Bldg:A, IFO DOLLAR GENERAL - BRUNSWICK Radio: 9D Units: R19, A197, ALS20, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-08-21 17:43:00</guid>
-      <pubDate>Thu, 21 Aug 2025 17:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:09 pm</title>
-      <description>100 BLOCK SUNNY WAY Units: BR106</description>
-      <guid isPermaLink="false">2025-08-21 16:09:00</guid>
-      <pubDate>Thu, 21 Aug 2025 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
