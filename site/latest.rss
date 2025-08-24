@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 Aug 2025 12:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 13:07:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:33 am</title>
+      <description>1900 BLOCK BUCKEYSTOWN PIKE, BLUE BIRD MANSION Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2025-08-24 08:33:00</guid>
+      <pubDate>Sun, 24 Aug 2025 08:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 8:23 am</title>
+      <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: A38</description>
+      <guid isPermaLink="false">2025-08-24 08:23:00</guid>
+      <pubDate>Sun, 24 Aug 2025 08:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 8:20 am</title>
+      <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: R3, TT4</description>
+      <guid isPermaLink="false">2025-08-24 08:20:00</guid>
+      <pubDate>Sun, 24 Aug 2025 08:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 8:12 am</title>
+      <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: E331, E33, K1</description>
+      <guid isPermaLink="false">2025-08-24 08:12:00</guid>
+      <pubDate>Sun, 24 Aug 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:07 am</title>
+      <description>3300 BLOCK KNOLLS PKWY Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-08-24 08:07:00</guid>
+      <pubDate>Sun, 24 Aug 2025 08:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:45 am</title>
       <description>14800 BLOCK N FRANKLINVILLE RD, GATEWAY FARM MARKET Radio: 9C Units: BR106</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
       <guid isPermaLink="false">2025-08-22 09:48:00</guid>
       <pubDate>Fri, 22 Aug 2025 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:44 am</title>
-      <description>OLD NATIONAL PIKE / BILL MOXLEY RD Radio: 9B Units: A259</description>
-      <guid isPermaLink="false">2025-08-22 09:44:00</guid>
-      <pubDate>Fri, 22 Aug 2025 09:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:40 am</title>
-      <description>OLD NATIONAL PIKE / BILL MOXLEY RD Radio: 9B Units: E152</description>
-      <guid isPermaLink="false">2025-08-22 09:40:00</guid>
-      <pubDate>Fri, 22 Aug 2025 09:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:41 am</title>
-      <description>3500 BLOCK PONTIUS CT, URBANA MIDDLE SCHOOL Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-08-22 08:41:00</guid>
-      <pubDate>Fri, 22 Aug 2025 08:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:07 am</title>
-      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-08-22 05:07:00</guid>
-      <pubDate>Fri, 22 Aug 2025 05:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:49 am</title>
-      <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9B Units: E501, E11, R2, A18, A28</description>
-      <guid isPermaLink="false">2025-08-22 04:49:00</guid>
-      <pubDate>Fri, 22 Aug 2025 04:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
