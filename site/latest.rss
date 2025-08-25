@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 22:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 23:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:36 pm</title>
+      <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9B Units: A229, R10, E221</description>
+      <guid isPermaLink="false">2025-08-25 18:36:00</guid>
+      <pubDate>Mon, 25 Aug 2025 18:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:17 pm</title>
       <description>STOTTLEMYER RD / RIDENOUR RD Radio: 9B Units: A309, PE102, E212</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9C Units: E11, PE23</description>
       <guid isPermaLink="false">2025-08-23 21:39:00</guid>
       <pubDate>Sat, 23 Aug 2025 21:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:15 pm</title>
-      <description>6200 BLOCK NEWPORT PL Radio: 9C Units: HM33, U33</description>
-      <guid isPermaLink="false">2025-08-23 21:15:00</guid>
-      <pubDate>Sat, 23 Aug 2025 21:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
