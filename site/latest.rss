@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 11:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 11:31:52 +0000</lastBuildDate>
+    <item>
+      <title>BUS ACCIDENT: 7:27 am</title>
+      <description>FINGERBOARD RD / WHISKEY RD Units: E251, E231, R15, R3, A259, A339, A158, A319, ALS31, BC901, SAF901, EMS901, TT23</description>
+      <guid isPermaLink="false">2025-08-25 07:27:00</guid>
+      <pubDate>Mon, 25 Aug 2025 07:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:47 pm</title>
       <description>RT15SB / PUTMAN RD, RT15SB / PUTMAN RD Radio: 9C Units: PE102, E221</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-08-22 20:14:00</guid>
       <pubDate>Fri, 22 Aug 2025 20:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:05 pm</title>
-      <description>1700 BLOCK ATLAS DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-22 19:05:00</guid>
-      <pubDate>Fri, 22 Aug 2025 19:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
