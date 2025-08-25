@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 11:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:03:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: E11, E501, R2, A28, A18</description>
+      <guid isPermaLink="false">2025-08-25 07:57:00</guid>
+      <pubDate>Mon, 25 Aug 2025 07:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:53 am</title>
+      <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK CLUBHOUSE &amp; POOL Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-25 07:53:00</guid>
+      <pubDate>Mon, 25 Aug 2025 07:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUS ACCIDENT: 7:27 am</title>
       <description>FINGERBOARD RD / WHISKEY RD Units: E251, E231, R15, R3, A259, A339, A158, A319, ALS31, BC901, SAF901, EMS901, TT23</description>
@@ -294,18 +306,6 @@
       <description>2700 BLOCK OSPREY WAY Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2025-08-22 23:18:00</guid>
       <pubDate>Fri, 22 Aug 2025 23:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:07 pm</title>
-      <description>4700 BLOCK ARABY CHURCH RD Radio: 9B Units: A239, E231</description>
-      <guid isPermaLink="false">2025-08-22 21:07:00</guid>
-      <pubDate>Fri, 22 Aug 2025 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:14 pm</title>
-      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2025-08-22 20:14:00</guid>
-      <pubDate>Fri, 22 Aug 2025 20:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
