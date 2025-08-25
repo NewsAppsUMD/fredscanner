@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 17:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 18:02:47 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 1:53 pm</title>
+      <description>OPOSSUMTOWN PIKE / THOMAS JOHNSON DR Units: A299, ALS29, E291, EMS902</description>
+      <guid isPermaLink="false">2025-08-25 13:53:00</guid>
+      <pubDate>Mon, 25 Aug 2025 13:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
+      <description>3600 BLOCK CARRIAGE HILL DR, CENTERVILLE ELEMENTARY SCHOOL Units: E231, TT23</description>
+      <guid isPermaLink="false">2025-08-25 13:35:00</guid>
+      <pubDate>Mon, 25 Aug 2025 13:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 1:31 pm</title>
+      <description>100 BLOCK HILLCREST DR, LATINO MARKET - VISTA SHOPS AT GOLDEN MILE Units: R3</description>
+      <guid isPermaLink="false">2025-08-25 13:31:00</guid>
+      <pubDate>Mon, 25 Aug 2025 13:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 1:09 pm</title>
       <description>100 BLOCK HILLCREST DR, LATINO MARKET - VISTA SHOPS AT GOLDEN MILE Units: E11</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK DILL AVE Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2025-08-23 14:10:00</guid>
       <pubDate>Sat, 23 Aug 2025 14:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:57 pm</title>
-      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: E231, A239</description>
-      <guid isPermaLink="false">2025-08-23 12:57:00</guid>
-      <pubDate>Sat, 23 Aug 2025 12:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:31 pm</title>
-      <description>1000 BLOCK W PATRICK ST, Apt/Unit:SUIT A, HARBOR FREIGHT - FREDERICK COUNTY SQUARE Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-08-23 12:31:00</guid>
-      <pubDate>Sat, 23 Aug 2025 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:33 am</title>
-      <description>12100 BLOCK COPPERMINE RD Radio: 9B Units: BR175</description>
-      <guid isPermaLink="false">2025-08-23 11:33:00</guid>
-      <pubDate>Sat, 23 Aug 2025 11:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
