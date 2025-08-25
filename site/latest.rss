@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 21:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 21:32:57 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 5:28 pm</title>
+      <description>2800 BLOCK GRANDVIEW DR Units: E72, E121, T7, K7</description>
+      <guid isPermaLink="false">2025-08-25 17:28:00</guid>
+      <pubDate>Mon, 25 Aug 2025 17:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 4:45 pm</title>
       <description>RT194 / COPPERMINE RD, RT194 / COPPERMINE RD Radio: 9C Units: BR96</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK NEWPORT PL Radio: 9C Units: E331, E33, R3</description>
       <guid isPermaLink="false">2025-08-23 21:07:00</guid>
       <pubDate>Sat, 23 Aug 2025 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:41 pm</title>
-      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11</description>
-      <guid isPermaLink="false">2025-08-23 20:41:00</guid>
-      <pubDate>Sat, 23 Aug 2025 20:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
