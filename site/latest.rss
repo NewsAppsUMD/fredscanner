@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 00:07:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 00:46:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:25 pm</title>
+      <description>100 BLOCK E ALL SAINTS ST(P), FPD HQ'S (P) Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-08-25 20:25:00</guid>
+      <pubDate>Mon, 25 Aug 2025 20:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:15 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:12, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-08-25 20:15:00</guid>
+      <pubDate>Mon, 25 Aug 2025 20:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:08 pm</title>
+      <description>CRESTWOOD BLVD / SOCIETY CIR Radio: 9B Units: A318, TT4</description>
+      <guid isPermaLink="false">2025-08-25 20:08:00</guid>
+      <pubDate>Mon, 25 Aug 2025 20:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 7:40 pm</title>
       <description>7100 BLOCK FOXCROFT DR, CRESTWOOD MIDDLE SCHOOL Radio: 9D Units: E33</description>
@@ -288,24 +306,6 @@
       <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: E331, E33, K1</description>
       <guid isPermaLink="false">2025-08-24 08:12:00</guid>
       <pubDate>Sun, 24 Aug 2025 08:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:07 am</title>
-      <description>3300 BLOCK KNOLLS PKWY Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-08-24 08:07:00</guid>
-      <pubDate>Sun, 24 Aug 2025 08:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:45 am</title>
-      <description>14800 BLOCK N FRANKLINVILLE RD, GATEWAY FARM MARKET Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-08-24 07:45:00</guid>
-      <pubDate>Sun, 24 Aug 2025 07:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:28 am</title>
-      <description>1000 BLOCK BARNHAM WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-24 01:28:00</guid>
-      <pubDate>Sun, 24 Aug 2025 01:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
