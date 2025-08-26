@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 11:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 11:32:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:02 am</title>
+      <description>12000 BLOCK OLD FREDERICK RD Radio: 9B Units: A229, E162, E221</description>
+      <guid isPermaLink="false">2025-08-26 07:02:00</guid>
+      <pubDate>Tue, 26 Aug 2025 07:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:45 am</title>
       <description>1200 BLOCK OAKWOOD DR Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK FOXVILLE RD Radio: 9D Units: A309</description>
       <guid isPermaLink="false">2025-08-24 09:29:00</guid>
       <pubDate>Sun, 24 Aug 2025 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:17 am</title>
-      <description>5500 BLOCK FOXVILLE RD Radio: 9D Units: PE102, R10, A309, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-08-24 09:17:00</guid>
-      <pubDate>Sun, 24 Aug 2025 09:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
