@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 01:29:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 02:13:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:08 pm</title>
+      <description>W PATRICK ST / S MCCAIN DR Radio: 9B Units: A19</description>
+      <guid isPermaLink="false">2025-08-25 22:08:00</guid>
+      <pubDate>Mon, 25 Aug 2025 22:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:01 pm</title>
+      <description>W PATRICK ST / S MCCAIN DR Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-08-25 22:01:00</guid>
+      <pubDate>Mon, 25 Aug 2025 22:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:25 pm</title>
       <description>100 BLOCK E ALL SAINTS ST(P), FPD HQ'S (P) Radio: 9C Units: E33</description>
@@ -294,18 +306,6 @@
       <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: A38</description>
       <guid isPermaLink="false">2025-08-24 08:23:00</guid>
       <pubDate>Sun, 24 Aug 2025 08:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:20 am</title>
-      <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: R3, TT4</description>
-      <guid isPermaLink="false">2025-08-24 08:20:00</guid>
-      <pubDate>Sun, 24 Aug 2025 08:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:12 am</title>
-      <description>RAY SMITH RD / REICHS FORD RD Radio: 9C Units: E331, E33, K1</description>
-      <guid isPermaLink="false">2025-08-24 08:12:00</guid>
-      <pubDate>Sun, 24 Aug 2025 08:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
