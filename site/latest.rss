@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 Aug 2025 09:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 09:34:03 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:22 am</title>
+      <description>16700 BLOCK FREDERICK ROAD Units: E152, R15</description>
+      <guid isPermaLink="false">2025-08-27 05:22:00</guid>
+      <pubDate>Wed, 27 Aug 2025 05:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:58 am</title>
       <description>3400 BLOCK ADGATE DR Units: E251</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E61</description>
       <guid isPermaLink="false">2025-08-25 12:00:00</guid>
       <pubDate>Mon, 25 Aug 2025 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
-      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: E11, E501, R2, A28, A18</description>
-      <guid isPermaLink="false">2025-08-25 07:57:00</guid>
-      <pubDate>Mon, 25 Aug 2025 07:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
