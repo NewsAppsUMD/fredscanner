@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 14:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 14:35:37 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 10:16 am</title>
+      <description>5900 BLOCK FORUM SQ Radio: 9C Units: PE311, E11, TT4</description>
+      <guid isPermaLink="false">2025-08-28 10:16:00</guid>
+      <pubDate>Thu, 28 Aug 2025 10:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:11 am</title>
       <description>W ALL SAINTS ST / ICE ST Radio: 9B Units: A28, R3</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E ALL SAINTS ST(P), FPD HQ'S (P) Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2025-08-25 20:25:00</guid>
       <pubDate>Mon, 25 Aug 2025 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:15 pm</title>
-      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:12, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-08-25 20:15:00</guid>
-      <pubDate>Mon, 25 Aug 2025 20:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
