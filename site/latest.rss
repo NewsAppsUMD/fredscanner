@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 02:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 03:16:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:04 pm</title>
+      <description>500 BLOCK LANCASTER PL Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-08-27 23:04:00</guid>
+      <pubDate>Wed, 27 Aug 2025 23:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:08 pm</title>
       <description>6700 BLOCKC OVERTON CIR, Apt/Unit:31 Radio: 9C Units: PE311, E33, R14</description>
@@ -300,12 +306,6 @@
       <description>RT194 / COPPERMINE RD, RT194 / COPPERMINE RD Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2025-08-25 16:40:00</guid>
       <pubDate>Mon, 25 Aug 2025 16:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:34 pm</title>
-      <description>100 BLOCK N MAIN ST Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2025-08-25 16:34:00</guid>
-      <pubDate>Mon, 25 Aug 2025 16:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
