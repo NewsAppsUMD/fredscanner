@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 12:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 13:09:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:43 am</title>
+      <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER SL Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-28 08:43:00</guid>
+      <pubDate>Thu, 28 Aug 2025 08:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:37 am</title>
       <description>1800 BLOCK POINT OF ROCKS RD Radio: 9B Units: A196, RE52</description>
@@ -300,12 +306,6 @@
       <description>CRESTWOOD BLVD / SOCIETY CIR Radio: 9B Units: A318, TT4</description>
       <guid isPermaLink="false">2025-08-25 20:08:00</guid>
       <pubDate>Mon, 25 Aug 2025 20:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 7:40 pm</title>
-      <description>7100 BLOCK FOXCROFT DR, CRESTWOOD MIDDLE SCHOOL Radio: 9D Units: E33</description>
-      <guid isPermaLink="false">2025-08-25 19:40:00</guid>
-      <pubDate>Mon, 25 Aug 2025 19:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
