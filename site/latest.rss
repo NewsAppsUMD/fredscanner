@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 18:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 18:38:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:30 pm</title>
+      <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Units: E152, R15, A158</description>
+      <guid isPermaLink="false">2025-08-28 14:30:00</guid>
+      <pubDate>Thu, 28 Aug 2025 14:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 1:45 pm</title>
       <description>6100 BLOCK MURRAY TER Radio: 9C Units: HM33, HMSU33, A318, ALS31, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>SMITH RD / KELBAUGH RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-08-26 10:20:00</guid>
       <pubDate>Tue, 26 Aug 2025 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:42 am</title>
-      <description>OLD NATIONAL PIKE / MORNING GATE LN Radio: 9B Units: A259, E152</description>
-      <guid isPermaLink="false">2025-08-26 08:42:00</guid>
-      <pubDate>Tue, 26 Aug 2025 08:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
