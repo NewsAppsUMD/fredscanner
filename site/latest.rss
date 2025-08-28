@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 09:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 09:33:53 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:18 am</title>
+      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-08-28 05:18:00</guid>
+      <pubDate>Thu, 28 Aug 2025 05:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:05 am</title>
+      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Radio: 9C Units: BR156, E331</description>
+      <guid isPermaLink="false">2025-08-28 05:05:00</guid>
+      <pubDate>Thu, 28 Aug 2025 05:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:48 am</title>
       <description>I70WB / 48MM, I70WB / 48MM Radio: 9D Units: E121</description>
@@ -294,18 +306,6 @@
       <description>STOTTLEMYER RD / RIDENOUR RD Radio: 9B Units: A309, PE102, E212</description>
       <guid isPermaLink="false">2025-08-25 18:17:00</guid>
       <pubDate>Mon, 25 Aug 2025 18:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:28 pm</title>
-      <description>2800 BLOCK GRANDVIEW DR Units: E72, E121, T7, K7</description>
-      <guid isPermaLink="false">2025-08-25 17:28:00</guid>
-      <pubDate>Mon, 25 Aug 2025 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 4:45 pm</title>
-      <description>RT194 / COPPERMINE RD, RT194 / COPPERMINE RD Radio: 9C Units: BR96</description>
-      <guid isPermaLink="false">2025-08-25 16:45:00</guid>
-      <pubDate>Mon, 25 Aug 2025 16:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
