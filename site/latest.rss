@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 12:03:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 13:08:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:41 am</title>
+      <description>OLD NATIONAL PIKE / OLD HAGERSTOWN RD Radio: 9B Units: A78, E72</description>
+      <guid isPermaLink="false">2025-08-29 08:41:00</guid>
+      <pubDate>Fri, 29 Aug 2025 08:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 7:24 am</title>
       <description>RT180 / MOUNT ZION RD, RT180 / MOUNT ZION RD Radio: 9C Units: E201, EK204, HM33, HMSU33</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MAPLE AVE(P), THE RESIDENCES AT RAILROAD SQUARE Radio: 9C Units: E51, T5</description>
       <guid isPermaLink="false">2025-08-27 17:35:00</guid>
       <pubDate>Wed, 27 Aug 2025 17:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:02 pm</title>
-      <description>APPROX LOC:70E BTWN QUINN RD BRDGE &amp; RT 144 OFF RMP NEW MARKT PIKE Radio: 9B Units: E331, E33, R3, A39, A38</description>
-      <guid isPermaLink="false">2025-08-27 17:02:00</guid>
-      <pubDate>Wed, 27 Aug 2025 17:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
