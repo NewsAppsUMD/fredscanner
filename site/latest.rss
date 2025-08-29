@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 22:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 23:31:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:26 pm</title>
+      <description>I70EB / HOWARD COUNTY LINE Radio: CCA3 Units: E152, A159</description>
+      <guid isPermaLink="false">2025-08-29 19:26:00</guid>
+      <pubDate>Fri, 29 Aug 2025 19:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:21 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CAR WASH - FREDERICK SHOPPERS WORLD Radio: 9B Units: ALS4, EMS902</description>
+      <guid isPermaLink="false">2025-08-29 19:21:00</guid>
+      <pubDate>Fri, 29 Aug 2025 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:07 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CAR WASH - FREDERICK SHOPPERS WORLD Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-08-29 19:07:00</guid>
+      <pubDate>Fri, 29 Aug 2025 19:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:55 pm</title>
       <description>1800 BLOCK N MARKET ST, DSS Radio: 9C Units: PE23</description>
@@ -288,24 +306,6 @@
       <description>7900 BLOCK PETERS RD, Bldg:A&amp;B, MOUNT ANNA PRAYER CHURCH Radio: 9C Units: E141, TT4</description>
       <guid isPermaLink="false">2025-08-28 06:19:00</guid>
       <pubDate>Thu, 28 Aug 2025 06:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:17 am</title>
-      <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, PE311, R3, A239, A259, TT23</description>
-      <guid isPermaLink="false">2025-08-28 06:17:00</guid>
-      <pubDate>Thu, 28 Aug 2025 06:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:18 am</title>
-      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-08-28 05:18:00</guid>
-      <pubDate>Thu, 28 Aug 2025 05:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:05 am</title>
-      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Radio: 9C Units: BR156, E331</description>
-      <guid isPermaLink="false">2025-08-28 05:05:00</guid>
-      <pubDate>Thu, 28 Aug 2025 05:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
