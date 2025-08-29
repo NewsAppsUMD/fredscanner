@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 03:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 04:02:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:51 pm</title>
+      <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Units: PE23, E11, R3, A19, A28</description>
+      <guid isPermaLink="false">2025-08-28 23:51:00</guid>
+      <pubDate>Thu, 28 Aug 2025 23:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:42 pm</title>
+      <description>MAIN ST / CHURCH ST Units: A179, E172</description>
+      <guid isPermaLink="false">2025-08-28 23:42:00</guid>
+      <pubDate>Thu, 28 Aug 2025 23:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:41 pm</title>
+      <description>100 BLOCK W PATRICK ST, WEINBERG CENTER Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-08-28 23:41:00</guid>
+      <pubDate>Thu, 28 Aug 2025 23:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:37 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: A38</description>
+      <guid isPermaLink="false">2025-08-28 23:37:00</guid>
+      <pubDate>Thu, 28 Aug 2025 23:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:27 pm</title>
       <description>17600 BLOCK MOUNTAIN VIEW RD Units: A309</description>
@@ -282,30 +306,6 @@
       <description>4900 BLOCK WINCHESTER BLVD Radio: 9C Units: E141, TT4</description>
       <guid isPermaLink="false">2025-08-27 06:25:00</guid>
       <pubDate>Wed, 27 Aug 2025 06:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:22 am</title>
-      <description>16700 BLOCK FREDERICK ROAD Units: E152, R15</description>
-      <guid isPermaLink="false">2025-08-27 05:22:00</guid>
-      <pubDate>Wed, 27 Aug 2025 05:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:58 am</title>
-      <description>3400 BLOCK ADGATE DR Units: E251</description>
-      <guid isPermaLink="false">2025-08-27 04:58:00</guid>
-      <pubDate>Wed, 27 Aug 2025 04:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:42 pm</title>
-      <description>I270SB / RT85, I270SB / RT85 Radio: 9B Units: E231, E11, R3, A18, A239</description>
-      <guid isPermaLink="false">2025-08-26 21:42:00</guid>
-      <pubDate>Tue, 26 Aug 2025 21:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:59 pm</title>
-      <description>9400 BLOCK DUNRAVEN ST Radio: 9C Units: E231, E251, TT23</description>
-      <guid isPermaLink="false">2025-08-26 20:59:00</guid>
-      <pubDate>Tue, 26 Aug 2025 20:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
