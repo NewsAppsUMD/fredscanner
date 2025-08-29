@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 19:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 20:02:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:58 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: E11, PE23, R3, A28, A18</description>
+      <guid isPermaLink="false">2025-08-29 15:58:00</guid>
+      <pubDate>Fri, 29 Aug 2025 15:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:43 pm</title>
+      <description>RT15SB / RT26, RT15SB / RT26 Radio: 9B Units: PE23, E291, R24, A299, A28</description>
+      <guid isPermaLink="false">2025-08-29 15:43:00</guid>
+      <pubDate>Fri, 29 Aug 2025 15:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 3:37 pm</title>
+      <description>5200 BLOCK KINGSBROOK DR, Apt/Unit:BALLENGER CREEK ELEM, BALLENGER CREEK ELEMENTARY SCHOOL Radio: 9C Units: PE311, R3, A319</description>
+      <guid isPermaLink="false">2025-08-29 15:37:00</guid>
+      <pubDate>Fri, 29 Aug 2025 15:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 1:37 pm</title>
       <description>100 BLOCK S MAPLE AVE, MOMMERS DINER Radio: 9C Units: E51, R19</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK LANCASTER PL Radio: 9C Units: E11, TT4</description>
       <guid isPermaLink="false">2025-08-27 23:04:00</guid>
       <pubDate>Wed, 27 Aug 2025 23:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:08 pm</title>
-      <description>6700 BLOCKC OVERTON CIR, Apt/Unit:31 Radio: 9C Units: PE311, E33, R14</description>
-      <guid isPermaLink="false">2025-08-27 21:08:00</guid>
-      <pubDate>Wed, 27 Aug 2025 21:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:56 pm</title>
-      <description>2400 BLOCK WHITTIER DR, WHITTIER LAKE PARK Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-08-27 20:56:00</guid>
-      <pubDate>Wed, 27 Aug 2025 20:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 8:21 pm</title>
-      <description>10200 BLOCK SILVERSIDE ST, Apt/Unit:100, FREDERICK PRIMARY CARE ASSOCIATES Radio: 9C Units: E152, E331, R15</description>
-      <guid isPermaLink="false">2025-08-27 20:21:00</guid>
-      <pubDate>Wed, 27 Aug 2025 20:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
