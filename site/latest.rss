@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 02:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 02:47:19 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:32 pm</title>
+      <description>2600 BLOCK MONOCACY FORD RD Radio: 9C Units: E291, E111, Q11</description>
+      <guid isPermaLink="false">2025-08-29 22:32:00</guid>
+      <pubDate>Fri, 29 Aug 2025 22:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:43 pm</title>
       <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Radio: CCA1 Units: E152</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK SUGARLOAF PKWY, GIANT FOOD - URBANA TOWN CENTER Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-08-28 13:26:00</guid>
       <pubDate>Thu, 28 Aug 2025 13:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:30 pm</title>
-      <description>7400 BLOCK MARCIES CHOICE LN, COUNTY WASTEWATER PLANT - MARCIES CHOICE LN - FREDERICK Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-08-28 12:30:00</guid>
-      <pubDate>Thu, 28 Aug 2025 12:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
