@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 14:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 15:01:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:50 am</title>
+      <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-08-30 10:50:00</guid>
+      <pubDate>Sat, 30 Aug 2025 10:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 7:05 am</title>
       <description>100 BLOCK CLARKE CT Radio: 9C Units: PE102, E132, TW6</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK NICKEL PL, Apt/Unit:C, FORT DETRICK - BLDG 1700 BLOCK Radio: 9C Units: E501, E11</description>
       <guid isPermaLink="false">2025-08-28 15:16:00</guid>
       <pubDate>Thu, 28 Aug 2025 15:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:30 pm</title>
-      <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Units: E152, R15, A158</description>
-      <guid isPermaLink="false">2025-08-28 14:30:00</guid>
-      <pubDate>Thu, 28 Aug 2025 14:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
