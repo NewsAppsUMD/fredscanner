@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 Aug 2025 22:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 23:01:59 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 6:44 pm</title>
+      <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS Radio: 9D Units: R10, E132</description>
+      <guid isPermaLink="false">2025-08-30 18:44:00</guid>
+      <pubDate>Sat, 30 Aug 2025 18:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:39 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:800 Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-08-30 18:39:00</guid>
+      <pubDate>Sat, 30 Aug 2025 18:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>STABBING - ALS: 5:36 pm</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:GG, ELMWOOD TERRACE APTS - BLDG GG Radio: 9D Units: A18</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W PATRICK ST, WEINBERG CENTER Units: E33, TT4</description>
       <guid isPermaLink="false">2025-08-28 23:41:00</guid>
       <pubDate>Thu, 28 Aug 2025 23:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:37 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: A38</description>
-      <guid isPermaLink="false">2025-08-28 23:37:00</guid>
-      <pubDate>Thu, 28 Aug 2025 23:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:27 pm</title>
-      <description>17600 BLOCK MOUNTAIN VIEW RD Units: A309</description>
-      <guid isPermaLink="false">2025-08-28 23:27:00</guid>
-      <pubDate>Thu, 28 Aug 2025 23:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
