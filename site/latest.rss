@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 15:01:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 15:31:49 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR OUTSIDE: 11:10 am</title>
+      <description>11800 BLOCK CREAGERSTOWN RD, CLASSIC LANDSCAPING Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2025-08-31 11:10:00</guid>
+      <pubDate>Sun, 31 Aug 2025 11:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:44 am</title>
       <description>600 BLOCK WEVERTON RD Units: A196, ALS20</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MAPLE AVE, MOMMERS DINER Radio: 9C Units: E51, R19</description>
       <guid isPermaLink="false">2025-08-29 13:37:00</guid>
       <pubDate>Fri, 29 Aug 2025 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:32 pm</title>
-      <description>2000 BLOCK OLD NATIONAL PIKE, MOSER FARM Radio: 9C Units: E72, E82, T7, K7, A78, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-08-29 13:32:00</guid>
-      <pubDate>Fri, 29 Aug 2025 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
