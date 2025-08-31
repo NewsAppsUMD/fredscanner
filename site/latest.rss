@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 16:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 16:35:48 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 12:29 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Radio: 9D Units: EK114, K7, A309, A169</description>
+      <guid isPermaLink="false">2025-08-31 12:29:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:28 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Radio: 9D Units: U10</description>
+      <guid isPermaLink="false">2025-08-31 12:28:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:27 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Radio: 9D Units: EMS902</description>
+      <guid isPermaLink="false">2025-08-31 12:27:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:05 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Radio: 9D Units: TTF, E501, EK64, EK204, K23, K33, W22</description>
+      <guid isPermaLink="false">2025-08-31 12:05:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:04 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Units: E111, E132, R10, K1, E221</description>
+      <guid isPermaLink="false">2025-08-31 12:04:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:03 pm</title>
+      <description>11500 BLOCK ANGLEBERGER RD Units: PE23, E11, R3</description>
+      <guid isPermaLink="false">2025-08-31 12:03:00</guid>
+      <pubDate>Sun, 31 Aug 2025 12:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 11:57 am</title>
       <description>11500 BLOCK ANGLEBERGER RD Units: PE102, E162, E291, E111, E91, E132, R10, Q11, R24, K22, EK134, K1, A229, ALS30, E221, K10, BC902, BC901, SAF901</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CAR WASH - FREDERICK SHOPPERS WORLD Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2025-08-29 19:07:00</guid>
       <pubDate>Fri, 29 Aug 2025 19:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:55 pm</title>
-      <description>1800 BLOCK N MARKET ST, DSS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-08-29 17:55:00</guid>
-      <pubDate>Fri, 29 Aug 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:43 pm</title>
-      <description>9600 BLOCK BALTIMORE NATIONAL PIKE Radio: 9B Units: A89, E82</description>
-      <guid isPermaLink="false">2025-08-29 17:43:00</guid>
-      <pubDate>Fri, 29 Aug 2025 17:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:29 pm</title>
-      <description>RT40 / RT15, UNDER THE BRIDGE Radio: 9B Units: A18, TT4</description>
-      <guid isPermaLink="false">2025-08-29 16:29:00</guid>
-      <pubDate>Fri, 29 Aug 2025 16:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:58 pm</title>
-      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: E11, PE23, R3, A28, A18</description>
-      <guid isPermaLink="false">2025-08-29 15:58:00</guid>
-      <pubDate>Fri, 29 Aug 2025 15:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:43 pm</title>
-      <description>RT15SB / RT26, RT15SB / RT26 Radio: 9B Units: PE23, E291, R24, A299, A28</description>
-      <guid isPermaLink="false">2025-08-29 15:43:00</guid>
-      <pubDate>Fri, 29 Aug 2025 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 3:37 pm</title>
-      <description>5200 BLOCK KINGSBROOK DR, Apt/Unit:BALLENGER CREEK ELEM, BALLENGER CREEK ELEMENTARY SCHOOL Radio: 9C Units: PE311, R3, A319</description>
-      <guid isPermaLink="false">2025-08-29 15:37:00</guid>
-      <pubDate>Fri, 29 Aug 2025 15:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
