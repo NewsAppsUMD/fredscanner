@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 00:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 00:46:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:37 pm</title>
+      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: E72, R8, A89, A78</description>
+      <guid isPermaLink="false">2025-08-30 20:37:00</guid>
+      <pubDate>Sat, 30 Aug 2025 20:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 8:34 pm</title>
+      <description>ROHRERSVILLE RD / BROWNSVILLE RD Radio: PS1 Units: A196</description>
+      <guid isPermaLink="false">2025-08-30 20:34:00</guid>
+      <pubDate>Sat, 30 Aug 2025 20:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:56 pm</title>
       <description>100 BLOCK STEINER WAY, Bldg:3 Radio: 9C Units: E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>1100 BLOCK ROCKY SPRINGS RD Units: E11, R3, A18, ALS2, EMS902</description>
       <guid isPermaLink="false">2025-08-29 01:09:00</guid>
       <pubDate>Fri, 29 Aug 2025 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:06 am</title>
-      <description>MAIN ST / CHURCH ST Units: A169</description>
-      <guid isPermaLink="false">2025-08-29 00:06:00</guid>
-      <pubDate>Fri, 29 Aug 2025 00:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:51 pm</title>
-      <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Units: PE23, E11, R3, A19, A28</description>
-      <guid isPermaLink="false">2025-08-28 23:51:00</guid>
-      <pubDate>Thu, 28 Aug 2025 23:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
