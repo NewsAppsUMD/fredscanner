@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 18:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 19:01:50 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 2:54 pm</title>
+      <description>100 BLOCK PENNSYLVANIA AVE, Apt/Unit:509 Radio: 9C Units: E33, PE311</description>
+      <guid isPermaLink="false">2025-09-01 14:54:00</guid>
+      <pubDate>Mon, 01 Sep 2025 14:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:31 pm</title>
       <description>8600 BLOCK INDIAN SPRINGS RD Radio: 9B Units: E162</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2025-08-31 02:10:00</guid>
       <pubDate>Sun, 31 Aug 2025 02:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:54 pm</title>
-      <description>100 BLOCK FAIRGROUND AVE Radio: CCA7 Units: E61</description>
-      <guid isPermaLink="false">2025-08-30 23:54:00</guid>
-      <pubDate>Sat, 30 Aug 2025 23:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
