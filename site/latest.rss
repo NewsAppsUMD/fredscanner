@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Sep 2025 23:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 00:07:57 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:45 pm</title>
+      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-09-01 19:45:00</guid>
+      <pubDate>Mon, 01 Sep 2025 19:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:38 pm</title>
+      <description>BETHESDA CHURCH RD / BURNS CT Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2025-09-01 19:38:00</guid>
+      <pubDate>Mon, 01 Sep 2025 19:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 7:33 pm</title>
+      <description>2900 BLOCK KLING CT Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2025-09-01 19:33:00</guid>
+      <pubDate>Mon, 01 Sep 2025 19:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:15 pm</title>
       <description>8400 BLOCK SHILOH CT Radio: 9C Units: BR235</description>
@@ -288,24 +306,6 @@
       <description>11800 BLOCK CREAGERSTOWN RD, CLASSIC LANDSCAPING Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2025-08-31 11:10:00</guid>
       <pubDate>Sun, 31 Aug 2025 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:44 am</title>
-      <description>600 BLOCK WEVERTON RD Units: A196, ALS20</description>
-      <guid isPermaLink="false">2025-08-31 10:44:00</guid>
-      <pubDate>Sun, 31 Aug 2025 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 9:36 am</title>
-      <description>I70WB / MOUNT PHILLIP RD, I70WB / 57MM Units: E33, E121</description>
-      <guid isPermaLink="false">2025-08-31 09:36:00</guid>
-      <pubDate>Sun, 31 Aug 2025 09:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:46 am</title>
-      <description>6200 BLOCK DAVINCI ST Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-08-31 08:46:00</guid>
-      <pubDate>Sun, 31 Aug 2025 08:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
