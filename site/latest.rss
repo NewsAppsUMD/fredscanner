@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 18:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 19:01:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
+      <description>12000 BLOCK LOY WOLFE RD Radio: 9B Units: A89, E212</description>
+      <guid isPermaLink="false">2025-09-03 14:36:00</guid>
+      <pubDate>Wed, 03 Sep 2025 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:23 pm</title>
       <description>100 BLOCK BLK RAMP I27100 BLOCKSB TO RT8100 BLOCK RAMP Radio: 9B Units: A239, E231</description>
@@ -300,12 +306,6 @@
       <description>8400 BLOCK SHILOH CT Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2025-09-01 17:07:00</guid>
       <pubDate>Mon, 01 Sep 2025 17:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:12 pm</title>
-      <description>8600 BLOCK INDIAN SPRINGS RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-01 15:12:00</guid>
-      <pubDate>Mon, 01 Sep 2025 15:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
