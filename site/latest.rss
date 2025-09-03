@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 18:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 18:37:10 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:23 pm</title>
+      <description>100 BLOCK BLK RAMP I27100 BLOCKSB TO RT8100 BLOCK RAMP Radio: 9B Units: A239, E231</description>
+      <guid isPermaLink="false">2025-09-03 14:23:00</guid>
+      <pubDate>Wed, 03 Sep 2025 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:19 pm</title>
+      <description>11500 BLOCK BALDWIN RD, PARK N RIDE NEW MARKET Radio: 9B Units: A259, E152</description>
+      <guid isPermaLink="false">2025-09-03 14:19:00</guid>
+      <pubDate>Wed, 03 Sep 2025 14:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 12:27 pm</title>
       <description>10200 BLOCK GLADE RD Radio: 9C Units: K1</description>
@@ -294,18 +306,6 @@
       <description>8600 BLOCK INDIAN SPRINGS RD Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-01 15:12:00</guid>
       <pubDate>Mon, 01 Sep 2025 15:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 2:54 pm</title>
-      <description>100 BLOCK PENNSYLVANIA AVE, Apt/Unit:509 Radio: 9C Units: E33, PE311</description>
-      <guid isPermaLink="false">2025-09-01 14:54:00</guid>
-      <pubDate>Mon, 01 Sep 2025 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:31 pm</title>
-      <description>8600 BLOCK INDIAN SPRINGS RD Radio: 9B Units: E162</description>
-      <guid isPermaLink="false">2025-09-01 14:31:00</guid>
-      <pubDate>Mon, 01 Sep 2025 14:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
