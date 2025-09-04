@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 22:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:52 pm</title>
+      <description>OLIVE SCHOOL RD / JEFFERSON PIKE Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2025-09-04 18:52:00</guid>
+      <pubDate>Thu, 04 Sep 2025 18:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 6:48 pm</title>
+      <description>9000 BLOCK ALBAUGH RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-09-04 18:48:00</guid>
+      <pubDate>Thu, 04 Sep 2025 18:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 6:20 pm</title>
       <description>5800 BLOCK JEFFERSON TECHNOLOGY BLVD Radio: 9C Units: E11, E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>RT15 / BASFORD RD, RT15 / BASFORD RD Radio: 9B Units: ALS2</description>
       <guid isPermaLink="false">2025-09-02 15:48:00</guid>
       <pubDate>Tue, 02 Sep 2025 15:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:47 pm</title>
-      <description>CRESTWOOD BLVD / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2025-09-02 15:47:00</guid>
-      <pubDate>Tue, 02 Sep 2025 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:31 pm</title>
-      <description>RT15 / BASFORD RD, RT15 / BASFORD RD Radio: 9B Units: A148, E281</description>
-      <guid isPermaLink="false">2025-09-02 15:31:00</guid>
-      <pubDate>Tue, 02 Sep 2025 15:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
