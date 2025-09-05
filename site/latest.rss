@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 22:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 23:02:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
+      <description>S JEFFERSON ST / PEARL ST Radio: 9B Units: A39, TT4</description>
+      <guid isPermaLink="false">2025-09-05 18:31:00</guid>
+      <pubDate>Fri, 05 Sep 2025 18:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:12 pm</title>
       <description>FAIRVIEW AVE / W SEVENTH ST, IAO Radio: 9B Units: A28, PE23</description>
@@ -300,12 +306,6 @@
       <description>8700 BLOCK MYERSVILLE RD Radio: 9B Units: A78</description>
       <guid isPermaLink="false">2025-09-03 18:13:00</guid>
       <pubDate>Wed, 03 Sep 2025 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:17 pm</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231, A238</description>
-      <guid isPermaLink="false">2025-09-03 17:17:00</guid>
-      <pubDate>Wed, 03 Sep 2025 17:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
