@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Sep 2025 23:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 00:07:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:30 pm</title>
+      <description>19300 BLOCK BARNESVILLE RD Radio: 7A1 Units: R14</description>
+      <guid isPermaLink="false">2025-09-05 19:30:00</guid>
+      <pubDate>Fri, 05 Sep 2025 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
       <description>S JEFFERSON ST / PEARL ST Radio: 9B Units: A39, TT4</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
       <description>8700 BLOCK MYERSVILLE RD Radio: 9B Units: E72</description>
-      <guid isPermaLink="false">2025-09-03 18:13:00</guid>
-      <pubDate>Wed, 03 Sep 2025 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
-      <description>8700 BLOCK MYERSVILLE RD Radio: 9B Units: A78</description>
       <guid isPermaLink="false">2025-09-03 18:13:00</guid>
       <pubDate>Wed, 03 Sep 2025 18:13:00 -0400</pubDate>
     </item>
