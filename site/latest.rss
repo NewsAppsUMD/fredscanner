@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 03:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 04:02:10 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:29 pm</title>
+      <description>400 BLOCK CENTER ST Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-09-05 23:29:00</guid>
+      <pubDate>Fri, 05 Sep 2025 23:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ATV ACCIDENT: 11:13 pm</title>
+      <description>7500 BLOCK RIDGE RD Radio: 9D Units: R8</description>
+      <guid isPermaLink="false">2025-09-05 23:13:00</guid>
+      <pubDate>Fri, 05 Sep 2025 23:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ATV ACCIDENT: 11:12 pm</title>
+      <description>7500 BLOCK RIDGE RD Radio: 9D Units: E121</description>
+      <guid isPermaLink="false">2025-09-05 23:12:00</guid>
+      <pubDate>Fri, 05 Sep 2025 23:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ATV ACCIDENT: 11:11 pm</title>
+      <description>7500 BLOCK RIDGE RD Radio: 9D Units: E72, R8, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-09-05 23:11:00</guid>
+      <pubDate>Fri, 05 Sep 2025 23:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:14 pm</title>
       <description>100 BLOCK W E ST Units: BR55</description>
@@ -282,30 +306,6 @@
       <description>17300 BLOCK N SETON AVE Units: A69, E61</description>
       <guid isPermaLink="false">2025-09-04 03:03:00</guid>
       <pubDate>Thu, 04 Sep 2025 03:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:25 pm</title>
-      <description>400 BLOCK E CHURCH ST, Apt/Unit:115, OX FIBRE APARTMENTS Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-09-03 22:25:00</guid>
-      <pubDate>Wed, 03 Sep 2025 22:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 9:17 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:301, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: E11</description>
-      <guid isPermaLink="false">2025-09-03 21:17:00</guid>
-      <pubDate>Wed, 03 Sep 2025 21:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:16 pm</title>
-      <description>2800 BLOCK TOBY LN Units: E281, R14, A149, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-09-03 21:16:00</guid>
-      <pubDate>Wed, 03 Sep 2025 21:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:49 pm</title>
-      <description>2000 BLOCK CHAPEL CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-03 20:49:00</guid>
-      <pubDate>Wed, 03 Sep 2025 20:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
