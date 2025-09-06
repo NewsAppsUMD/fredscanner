@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 17:02:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 17:31:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 1:27 pm</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Units: E121, E82</description>
+      <guid isPermaLink="false">2025-09-06 13:27:00</guid>
+      <pubDate>Sat, 06 Sep 2025 13:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:05 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-09-06 13:05:00</guid>
+      <pubDate>Sat, 06 Sep 2025 13:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:03 pm</title>
+      <description>RT15-340EB / I70, RT15-340EB / I70 Radio: 9B Units: PE311, E33, R3, A39, A318</description>
+      <guid isPermaLink="false">2025-09-06 13:03:00</guid>
+      <pubDate>Sat, 06 Sep 2025 13:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:39 pm</title>
       <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: ALS33</description>
@@ -288,24 +306,6 @@
       <description>NEW DESIGN RD / EXECUTIVE WAY Units: PE311, R3, A319, ALS31, BC903, EMS901</description>
       <guid isPermaLink="false">2025-09-04 17:34:00</guid>
       <pubDate>Thu, 04 Sep 2025 17:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:11 pm</title>
-      <description>14600 BLOCK CARS MILL RD, STATION HC013 - GLENWOOD Units: EK114</description>
-      <guid isPermaLink="false">2025-09-04 17:11:00</guid>
-      <pubDate>Thu, 04 Sep 2025 17:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
-      <description>URBANA PIKE / LOWES LN Units: A319</description>
-      <guid isPermaLink="false">2025-09-04 16:27:00</guid>
-      <pubDate>Thu, 04 Sep 2025 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:19 pm</title>
-      <description>URBANA PIKE / LOWES LN Units: A38, E33</description>
-      <guid isPermaLink="false">2025-09-04 16:19:00</guid>
-      <pubDate>Thu, 04 Sep 2025 16:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
