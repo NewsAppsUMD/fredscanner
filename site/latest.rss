@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 16:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 16:34:32 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:07 pm</title>
+      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: A38</description>
+      <guid isPermaLink="false">2025-09-06 12:07:00</guid>
+      <pubDate>Sat, 06 Sep 2025 12:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:36 am</title>
       <description>FOXVILLE RD / FOXVILLE DEERFIELD RD Radio: 9I Units: R10, ALS30, E212, BC901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / RAMP RT15NB TO MOTTER AVE, RT15NB / RAMP RT15NB TO MOTTER AVE Radio: 9B Units: PE23, E11, R3, A28, A18</description>
       <guid isPermaLink="false">2025-09-04 15:52:00</guid>
       <pubDate>Thu, 04 Sep 2025 15:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:10 pm</title>
-      <description>1800 BLOCK ROSEMONT AVE Units: E11</description>
-      <guid isPermaLink="false">2025-09-04 15:10:00</guid>
-      <pubDate>Thu, 04 Sep 2025 15:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
