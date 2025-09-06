@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Sep 2025 00:46:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 01:29:09 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:14 pm</title>
+      <description>100 BLOCK W E ST Units: BR55</description>
+      <guid isPermaLink="false">2025-09-05 21:14:00</guid>
+      <pubDate>Fri, 05 Sep 2025 21:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:51 pm</title>
+      <description>HILLCREST DR / ELLROSE CT Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-09-05 20:51:00</guid>
+      <pubDate>Fri, 05 Sep 2025 20:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:50 pm</title>
+      <description>HILLCREST DR / ELLROSE CT Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-09-05 20:50:00</guid>
+      <pubDate>Fri, 05 Sep 2025 20:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:30 pm</title>
       <description>19300 BLOCK BARNESVILLE RD Radio: 7A1 Units: R14</description>
@@ -288,24 +306,6 @@
       <description>2000 BLOCK CHAPEL CT Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-03 20:49:00</guid>
       <pubDate>Wed, 03 Sep 2025 20:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:33 pm</title>
-      <description>W PATRICK ST / WILLOWDALE DR Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-09-03 19:33:00</guid>
-      <pubDate>Wed, 03 Sep 2025 19:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:39 pm</title>
-      <description>6100 BLOCK HUCKLEBERRY WAY Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2025-09-03 18:39:00</guid>
-      <pubDate>Wed, 03 Sep 2025 18:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:13 pm</title>
-      <description>8700 BLOCK MYERSVILLE RD Radio: 9B Units: E72</description>
-      <guid isPermaLink="false">2025-09-03 18:13:00</guid>
-      <pubDate>Wed, 03 Sep 2025 18:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
