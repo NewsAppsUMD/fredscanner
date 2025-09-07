@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Sep 2025 17:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 17:31:48 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:27 pm</title>
+      <description>RT355 / GROVE RD, RT355 / GROVE RD Radio: 9B Units: A39, E33</description>
+      <guid isPermaLink="false">2025-09-07 13:27:00</guid>
+      <pubDate>Sun, 07 Sep 2025 13:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:03 pm</title>
+      <description>5600 BLOCK SPECTRUM DR Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-09-07 13:03:00</guid>
+      <pubDate>Sun, 07 Sep 2025 13:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:39 pm</title>
       <description>10200 BLOCK ROYAL SAINT ANDREWS PL Radio: 9C Units: E152</description>
@@ -294,18 +306,6 @@
       <description>S JEFFERSON ST / PEARL ST Radio: 9B Units: A39, TT4</description>
       <guid isPermaLink="false">2025-09-05 18:31:00</guid>
       <pubDate>Fri, 05 Sep 2025 18:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:12 pm</title>
-      <description>FAIRVIEW AVE / W SEVENTH ST, IAO Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2025-09-05 18:12:00</guid>
-      <pubDate>Fri, 05 Sep 2025 18:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:39 pm</title>
-      <description>400 BLOCK HEATHER RIDGE DR Radio: 9C Units: E502, E11</description>
-      <guid isPermaLink="false">2025-09-05 16:39:00</guid>
-      <pubDate>Fri, 05 Sep 2025 16:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
