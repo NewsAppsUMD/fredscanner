@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 02:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 03:18:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:54 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-09-07 22:54:00</guid>
+      <pubDate>Sun, 07 Sep 2025 22:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 9:44 pm</title>
       <description>LIBERTY RD / WORMANS MILL RD, IAO Radio: 9D Units: A28</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: A38</description>
       <guid isPermaLink="false">2025-09-06 12:07:00</guid>
       <pubDate>Sat, 06 Sep 2025 12:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:36 am</title>
-      <description>FOXVILLE RD / FOXVILLE DEERFIELD RD Radio: 9I Units: R10, ALS30, E212, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-09-06 11:36:00</guid>
-      <pubDate>Sat, 06 Sep 2025 11:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
