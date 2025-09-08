@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 16:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 16:37:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:27 pm</title>
+      <description>S COURT ST / W PATRICK ST Radio: 9B Units: A28, TT4</description>
+      <guid isPermaLink="false">2025-09-08 12:27:00</guid>
+      <pubDate>Mon, 08 Sep 2025 12:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:07 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2025-09-08 12:07:00</guid>
+      <pubDate>Mon, 08 Sep 2025 12:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:58 am</title>
       <description>10900 BLOCK HORAN CT Radio: 9C Units: E251</description>
@@ -294,18 +306,6 @@
       <description>4300 BLOCK NICKLAUS CT Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2025-09-06 20:27:00</guid>
       <pubDate>Sat, 06 Sep 2025 20:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:26 pm</title>
-      <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-06 20:26:00</guid>
-      <pubDate>Sat, 06 Sep 2025 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 8:23 pm</title>
-      <description>100 BLOCK BURGESS ST, IAO Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2025-09-06 20:23:00</guid>
-      <pubDate>Sat, 06 Sep 2025 20:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
