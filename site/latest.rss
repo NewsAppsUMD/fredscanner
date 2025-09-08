@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 18:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 19:02:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:45 pm</title>
+      <description>SANDSTONE DR / DIAMOND DR Radio: 9B Units: A248, E111</description>
+      <guid isPermaLink="false">2025-09-08 14:45:00</guid>
+      <pubDate>Mon, 08 Sep 2025 14:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 2:30 pm</title>
       <description>800 BLOCK APACHE CT Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>SOUDER RD / BURKITTSVILLE RD Radio: 9B Units: A197, RE52</description>
       <guid isPermaLink="false">2025-09-07 10:58:00</guid>
       <pubDate>Sun, 07 Sep 2025 10:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:36 am</title>
-      <description>5900 BLOCK LEBEN DR Radio: 9C Units: E311, Q11</description>
-      <guid isPermaLink="false">2025-09-07 10:36:00</guid>
-      <pubDate>Sun, 07 Sep 2025 10:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
