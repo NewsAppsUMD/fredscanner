@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 20:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Sep 2025 20:33:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:08 pm</title>
+      <description>4900 BLOCK WESTVIEW DR, HOMEWOOD SUITES Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-09-08 16:08:00</guid>
+      <pubDate>Mon, 08 Sep 2025 16:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:57 pm</title>
       <description>10000 BLOCK PUTMAN RD Units: EMS902</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WOLFSVILLE RD, DOUBS MEADOW PARK Units: E72</description>
       <guid isPermaLink="false">2025-09-07 13:42:00</guid>
       <pubDate>Sun, 07 Sep 2025 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:35 pm</title>
-      <description>WOLFSVILLE RD / E CHURCH HILL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, EMS901</description>
-      <guid isPermaLink="false">2025-09-07 13:35:00</guid>
-      <pubDate>Sun, 07 Sep 2025 13:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
