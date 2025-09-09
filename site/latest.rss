@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 22:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 22:33:16 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 6:25 pm</title>
+      <description>900 BLOCK W SEVENTH ST, COMMON MARKET Units: PE23, E502</description>
+      <guid isPermaLink="false">2025-09-09 18:25:00</guid>
+      <pubDate>Tue, 09 Sep 2025 18:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:24 pm</title>
+      <description>8800 BLOCK BRIARCLIFF LN Units: E331</description>
+      <guid isPermaLink="false">2025-09-09 18:24:00</guid>
+      <pubDate>Tue, 09 Sep 2025 18:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:58 pm</title>
       <description>1300 BLOCK PEACHTREE CT Units: E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>2800 BLOCK BUCKEYSTOWN PIKE, AT THE CONSTRUCTION SITE Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2025-09-08 11:48:00</guid>
       <pubDate>Mon, 08 Sep 2025 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:53 am</title>
-      <description>12800 BLOCK BEEBE CT Radio: 6DTAC11 Units: T5</description>
-      <guid isPermaLink="false">2025-09-08 10:53:00</guid>
-      <pubDate>Mon, 08 Sep 2025 10:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:50 am</title>
-      <description>7000 BLOCK MOUNTAINDALE RD Radio: 9C Units: E291, E221</description>
-      <guid isPermaLink="false">2025-09-08 10:50:00</guid>
-      <pubDate>Mon, 08 Sep 2025 10:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
