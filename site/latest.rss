@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 21:31:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:58 pm</title>
+      <description>1300 BLOCK PEACHTREE CT Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-09-09 17:58:00</guid>
+      <pubDate>Tue, 09 Sep 2025 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:55 pm</title>
+      <description>N BENTZ ST / W SECOND ST Units: A39, PE23, EMS901</description>
+      <guid isPermaLink="false">2025-09-09 17:55:00</guid>
+      <pubDate>Tue, 09 Sep 2025 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:46 pm</title>
+      <description>OLD FARM DR / WESTHAM CT Radio: 9D Units: E11, R3, A19, ALS29, EMS902</description>
+      <guid isPermaLink="false">2025-09-09 17:46:00</guid>
+      <pubDate>Tue, 09 Sep 2025 17:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 5:15 pm</title>
       <description>11900 BLOCK GEORGE FARM DR Radio: 6DTAC11 Units: T5, E281</description>
@@ -288,24 +306,6 @@
       <description>7000 BLOCK MOUNTAINDALE RD Radio: 9C Units: E291, E221</description>
       <guid isPermaLink="false">2025-09-08 10:50:00</guid>
       <pubDate>Mon, 08 Sep 2025 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:25 am</title>
-      <description>100 BLOCK N MARKET ST, BREWERS ALLEY Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-09-08 10:25:00</guid>
-      <pubDate>Mon, 08 Sep 2025 10:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:03 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, MONOCACY VALLEY MONTESSORI SCHOOL - FREDERICK RESEARCH PARK Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-09-08 09:03:00</guid>
-      <pubDate>Mon, 08 Sep 2025 09:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:13 am</title>
-      <description>CRESTWOOD BLVD / FOXCROFT DR Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2025-09-08 08:13:00</guid>
-      <pubDate>Mon, 08 Sep 2025 08:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
