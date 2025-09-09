@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 20:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 21:02:11 +0000</lastBuildDate>
+    <item>
+      <title>FIRE UNIT ASSISTING OTHER AGENCY: 4:54 pm</title>
+      <description>RT340WB / RT17, RT340WB / RT17 Units: A198</description>
+      <guid isPermaLink="false">2025-09-09 16:54:00</guid>
+      <pubDate>Tue, 09 Sep 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:52 pm</title>
+      <description>8700 BLOCK GREEN VALLEY RD Radio: 9D Units: E162, RE171, A169, ALS17, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-09-09 16:52:00</guid>
+      <pubDate>Tue, 09 Sep 2025 16:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:31 pm</title>
       <description>100 BLOCK BLK RAMP JEFFERSON TECH PKWY TO RT 34100 BLOCKWB RAMP Radio: 9B Units: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK Radio: 9C Units: PE102, TW6</description>
       <guid isPermaLink="false">2025-09-08 07:34:00</guid>
       <pubDate>Mon, 08 Sep 2025 07:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:02 am</title>
-      <description>21800 BLOCK NATIONAL; PK Units: K21</description>
-      <guid isPermaLink="false">2025-09-08 06:02:00</guid>
-      <pubDate>Mon, 08 Sep 2025 06:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:59 am</title>
-      <description>RT40 / PLEASANT WALK RD, RT40 / PLEASANT WALK RD Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2025-09-08 05:59:00</guid>
-      <pubDate>Mon, 08 Sep 2025 05:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
