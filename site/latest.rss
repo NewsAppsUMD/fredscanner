@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 15:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 15:33:39 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:26 am</title>
+      <description>7400 BLOCK MARCIES CHOICE LN, COUNTY WASTEWATER PLANT - MARCIES CHOICE LN - FREDERICK Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-09-10 11:26:00</guid>
+      <pubDate>Wed, 10 Sep 2025 11:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 11:23 am</title>
+      <description>200 BLOCK SHOREBIRD ST, BUFFALO WILD WINGS - MARKET SQUARE Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-09-10 11:23:00</guid>
+      <pubDate>Wed, 10 Sep 2025 11:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 10:34 am</title>
       <description>500 BLOCK NATURAL DAM RD Radio: ACOPS4 Units: TW6</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK PUTMAN RD Radio: 9D Units: E291, R24, A229, ALS29, E221, EMS902</description>
       <guid isPermaLink="false">2025-09-08 15:47:00</guid>
       <pubDate>Mon, 08 Sep 2025 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:00 pm</title>
-      <description>NEW DESIGN RD / ADAMSTOWN RD Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2025-09-08 15:00:00</guid>
-      <pubDate>Mon, 08 Sep 2025 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:45 pm</title>
-      <description>SANDSTONE DR / DIAMOND DR Radio: 9B Units: A248, E111</description>
-      <guid isPermaLink="false">2025-09-08 14:45:00</guid>
-      <pubDate>Mon, 08 Sep 2025 14:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
