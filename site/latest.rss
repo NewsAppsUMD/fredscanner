@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 19:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 19:31:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:16 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE(VACANT), SEARS - FRANCIS SCOTT KEY MALL Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-09-10 15:16:00</guid>
+      <pubDate>Wed, 10 Sep 2025 15:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:07 pm</title>
       <description>3300 BLOCK CENTENNIAL WAY, URBAN GREEN APARTMENTS - 3300 BLOCK CENTENNIAL WAY Radio: 9C Units: E231, TT23</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:57 pm</title>
       <description>10000 BLOCK PUTMAN RD Units: EMS902</description>
-      <guid isPermaLink="false">2025-09-08 15:57:00</guid>
-      <pubDate>Mon, 08 Sep 2025 15:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:57 pm</title>
-      <description>10000 BLOCK PUTMAN RD Units: E291, A229, ALS29</description>
       <guid isPermaLink="false">2025-09-08 15:57:00</guid>
       <pubDate>Mon, 08 Sep 2025 15:57:00 -0400</pubDate>
     </item>
