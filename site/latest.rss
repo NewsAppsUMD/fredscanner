@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Sep 2025 15:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 16:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:41 am</title>
+      <description>EDGEMONT RD / OLD NATIONAL PIKE Radio: 9D Units: E121, R3, A78, PE311, EMS901</description>
+      <guid isPermaLink="false">2025-09-10 11:41:00</guid>
+      <pubDate>Wed, 10 Sep 2025 11:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:26 am</title>
       <description>7400 BLOCK MARCIES CHOICE LN, COUNTY WASTEWATER PLANT - MARCIES CHOICE LN - FREDERICK Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>10000 BLOCK PUTMAN RD Radio: 9D Units: E221</description>
       <guid isPermaLink="false">2025-09-08 15:52:00</guid>
       <pubDate>Mon, 08 Sep 2025 15:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:47 pm</title>
-      <description>10000 BLOCK PUTMAN RD Radio: 9D Units: E291, R24, A229, ALS29, E221, EMS902</description>
-      <guid isPermaLink="false">2025-09-08 15:47:00</guid>
-      <pubDate>Mon, 08 Sep 2025 15:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
