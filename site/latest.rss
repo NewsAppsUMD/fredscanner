@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 19:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 19:36:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:20 pm</title>
+      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9C Units: E82, E72</description>
+      <guid isPermaLink="false">2025-09-11 15:20:00</guid>
+      <pubDate>Thu, 11 Sep 2025 15:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 2:50 pm</title>
       <description>1300 BLOCK LEES LN Radio: 9C Units: RE52</description>
@@ -300,12 +306,6 @@
       <description>8800 BLOCK BRIARCLIFF LN Units: E331</description>
       <guid isPermaLink="false">2025-09-09 18:24:00</guid>
       <pubDate>Tue, 09 Sep 2025 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:58 pm</title>
-      <description>1300 BLOCK PEACHTREE CT Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-09-09 17:58:00</guid>
-      <pubDate>Tue, 09 Sep 2025 17:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
