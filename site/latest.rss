@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 18:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 19:02:05 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 2:50 pm</title>
+      <description>1300 BLOCK LEES LN Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2025-09-11 14:50:00</guid>
+      <pubDate>Thu, 11 Sep 2025 14:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:46 pm</title>
+      <description>5800 BLOCK MARY LOU LN Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-09-11 14:46:00</guid>
+      <pubDate>Thu, 11 Sep 2025 14:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:31 pm</title>
       <description>10900 BLOCK EVELYN DR Radio: 9C Units: E91</description>
@@ -294,18 +306,6 @@
       <description>1300 BLOCK PEACHTREE CT Units: E33, TT4</description>
       <guid isPermaLink="false">2025-09-09 17:58:00</guid>
       <pubDate>Tue, 09 Sep 2025 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:55 pm</title>
-      <description>N BENTZ ST / W SECOND ST Units: A39, PE23, EMS901</description>
-      <guid isPermaLink="false">2025-09-09 17:55:00</guid>
-      <pubDate>Tue, 09 Sep 2025 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:46 pm</title>
-      <description>OLD FARM DR / WESTHAM CT Radio: 9D Units: E11, R3, A19, ALS29, EMS902</description>
-      <guid isPermaLink="false">2025-09-09 17:46:00</guid>
-      <pubDate>Tue, 09 Sep 2025 17:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
