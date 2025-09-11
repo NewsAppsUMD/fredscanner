@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Sep 2025 01:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 02:08:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:58 pm</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: E251, E31, R3, A319, ALS23, BC901, EMS902, TT23</description>
+      <guid isPermaLink="false">2025-09-10 21:58:00</guid>
+      <pubDate>Wed, 10 Sep 2025 21:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:56 pm</title>
+      <description>LIBERTY RD / LATHAM DR Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2025-09-10 21:56:00</guid>
+      <pubDate>Wed, 10 Sep 2025 21:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:04 pm</title>
       <description>1700 BLOCK BLACKSMITH WAY Radio: 9C Units: E11, PE311, TT4</description>
@@ -294,18 +306,6 @@
       <description>11100 BLOCK BALDWIN RD W Radio: 9C Units: R15</description>
       <guid isPermaLink="false">2025-09-08 17:02:00</guid>
       <pubDate>Mon, 08 Sep 2025 17:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:00 pm</title>
-      <description>11100 BLOCK BALDWIN RD W Radio: 9C Units: E152, TT23</description>
-      <guid isPermaLink="false">2025-09-08 17:00:00</guid>
-      <pubDate>Mon, 08 Sep 2025 17:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:46 pm</title>
-      <description>I70EB / RT75(RT75), I70EB / RT75 Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-09-08 16:46:00</guid>
-      <pubDate>Mon, 08 Sep 2025 16:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
