@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 19:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 19:31:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:26 pm</title>
+      <description>1200 BLOCK W PATRICK ST, DUNKIN DONUTS - GOLDEN MILE Units: A19, E11</description>
+      <guid isPermaLink="false">2025-09-12 15:26:00</guid>
+      <pubDate>Fri, 12 Sep 2025 15:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:22 am</title>
       <description>5900 BLOCK SHEPHERD LN Radio: 9C Units: E331</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK MARCIES CHOICE LN, COUNTY WASTEWATER PLANT - MARCIES CHOICE LN - FREDERICK Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2025-09-10 11:26:00</guid>
       <pubDate>Wed, 10 Sep 2025 11:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:23 am</title>
-      <description>200 BLOCK SHOREBIRD ST, BUFFALO WILD WINGS - MARKET SQUARE Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2025-09-10 11:23:00</guid>
-      <pubDate>Wed, 10 Sep 2025 11:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
