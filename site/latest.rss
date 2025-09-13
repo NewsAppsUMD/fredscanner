@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 01:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 02:02:17 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:51 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: A196</description>
+      <guid isPermaLink="false">2025-09-12 21:51:00</guid>
+      <pubDate>Fri, 12 Sep 2025 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:44 pm</title>
+      <description>RIVER RUN RD / BLUE HERON DR Radio: 9B Units: ALS17</description>
+      <guid isPermaLink="false">2025-09-12 21:44:00</guid>
+      <pubDate>Fri, 12 Sep 2025 21:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:24 pm</title>
       <description>4500 BLOCK LANDSDALE PKWY Radio: 9C Units: E251</description>
@@ -294,18 +306,6 @@
       <description>LIBERTY RD / LATHAM DR Radio: 9B Units: A249, E111</description>
       <guid isPermaLink="false">2025-09-10 21:56:00</guid>
       <pubDate>Wed, 10 Sep 2025 21:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:04 pm</title>
-      <description>1700 BLOCK BLACKSMITH WAY Radio: 9C Units: E11, PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-10 20:04:00</guid>
-      <pubDate>Wed, 10 Sep 2025 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:27 pm</title>
-      <description>900 BLOCK W SEVENTH ST, COMMON MARKET Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-09-10 19:27:00</guid>
-      <pubDate>Wed, 10 Sep 2025 19:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
