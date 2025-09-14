@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 11:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 12:43:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:19 am</title>
+      <description>2500 BLOCK COACH HOUSE WAY, Apt/Unit:2C, ECHO GLEN CONDOS - 2500 BLOCK COACH HOUSE WAY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 08:19:00</guid>
+      <pubDate>Sun, 14 Sep 2025 08:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
+      <description>2100 BLOCK WHITEHALL RD, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 08:12:00</guid>
+      <pubDate>Sun, 14 Sep 2025 08:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:58 am</title>
+      <description>2500 BLOCK SHELLEY CIR, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 07:58:00</guid>
+      <pubDate>Sun, 14 Sep 2025 07:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 4:05 am</title>
       <description>9400 BLOCK LIBERTY RD Radio: 9D Units: E111, R24, A179, ALS17, BC902, EMS902</description>
@@ -288,24 +306,6 @@
       <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: A196</description>
       <guid isPermaLink="false">2025-09-11 18:54:00</guid>
       <pubDate>Thu, 11 Sep 2025 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 6:40 pm</title>
-      <description>CARROLL CREEK WAY / S MARKET ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2025-09-11 18:40:00</guid>
-      <pubDate>Thu, 11 Sep 2025 18:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:47 pm</title>
-      <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, RT340WB / JEFFERSON TECHNOLOGY BLVD Units: A19, E11</description>
-      <guid isPermaLink="false">2025-09-11 17:47:00</guid>
-      <pubDate>Thu, 11 Sep 2025 17:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:29 pm</title>
-      <description>38300 BLOCK CORALBERRY PL Radio: 6DTAC11 Units: T5</description>
-      <guid isPermaLink="false">2025-09-11 17:29:00</guid>
-      <pubDate>Thu, 11 Sep 2025 17:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
