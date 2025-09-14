@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 13:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 14:02:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
+      <description>2500 BLOCK SHELLEY CIR, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 09:58:00</guid>
+      <pubDate>Sun, 14 Sep 2025 09:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:39 am</title>
+      <description>900 BLOCK HOLDEN RD Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-09-14 09:39:00</guid>
+      <pubDate>Sun, 14 Sep 2025 09:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
+      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 09:32:00</guid>
+      <pubDate>Sun, 14 Sep 2025 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:19 am</title>
       <description>2500 BLOCK COACH HOUSE WAY, Apt/Unit:2C, ECHO GLEN CONDOS - 2500 BLOCK COACH HOUSE WAY Radio: 9C Units: E11</description>
@@ -288,24 +306,6 @@
       <description>3900 BLOCK SHAWFIELD LN Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2025-09-11 22:14:00</guid>
       <pubDate>Thu, 11 Sep 2025 22:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:24 pm</title>
-      <description>200 BLOCK TRACT RD, CATHOLIC CHURCH Units: TW6</description>
-      <guid isPermaLink="false">2025-09-11 20:24:00</guid>
-      <pubDate>Thu, 11 Sep 2025 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:30 pm</title>
-      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-09-11 19:30:00</guid>
-      <pubDate>Thu, 11 Sep 2025 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:54 pm</title>
-      <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: A196</description>
-      <guid isPermaLink="false">2025-09-11 18:54:00</guid>
-      <pubDate>Thu, 11 Sep 2025 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
