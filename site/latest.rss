@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 04:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 05:02:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:42 am</title>
+      <description>1200 BLOCK W PATRICK ST, MCDONALDS - FREDERICK SHOPPERS WORLD Units: E11</description>
+      <guid isPermaLink="false">2025-09-14 00:42:00</guid>
+      <pubDate>Sun, 14 Sep 2025 00:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:27 am</title>
       <description>2400 BLOCK WAYNESBORO PIKE Units: R6</description>
@@ -300,12 +306,6 @@
       <description>12600 BLOCK CREAGERSTOWN RD Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2025-09-11 15:47:00</guid>
       <pubDate>Thu, 11 Sep 2025 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:39 pm</title>
-      <description>11600 BLOCKB S BAUGHER RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2025-09-11 15:39:00</guid>
-      <pubDate>Thu, 11 Sep 2025 15:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
