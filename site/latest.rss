@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 16:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 16:33:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:25 pm</title>
+      <description>ECLIPSE CT / ECLIPSE DR Radio: 9C Units: E281</description>
+      <guid isPermaLink="false">2025-09-14 12:25:00</guid>
+      <pubDate>Sun, 14 Sep 2025 12:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 12:12 pm</title>
+      <description>3900 BLOCK LANDER RD Radio: 9C Units: E201, E281, RE52, T5, EK204, A209, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-09-14 12:12:00</guid>
+      <pubDate>Sun, 14 Sep 2025 12:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:03 pm</title>
+      <description>BALLENGER CENTER DR / BALLENGER CREEK PIKE Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-09-14 12:03:00</guid>
+      <pubDate>Sun, 14 Sep 2025 12:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:48 am</title>
       <description>I70EB / RT351, I70EB / RT351 Radio: 9B Units: E121, E33, R3, A39</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK SHEPHERD LN Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-09-12 10:22:00</guid>
       <pubDate>Fri, 12 Sep 2025 10:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:03 am</title>
-      <description>5900 BLOCK SHEPHERD LN Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-09-12 10:03:00</guid>
-      <pubDate>Fri, 12 Sep 2025 10:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:04 am</title>
-      <description>1000 BLOCK N MARKET ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-09-12 09:04:00</guid>
-      <pubDate>Fri, 12 Sep 2025 09:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:01 am</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: A79</description>
-      <guid isPermaLink="false">2025-09-12 00:01:00</guid>
-      <pubDate>Fri, 12 Sep 2025 00:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
