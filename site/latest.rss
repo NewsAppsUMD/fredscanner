@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 18:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 19:02:01 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 2:51 pm</title>
+      <description>1100 BLOCK W PATRICK ST, Apt/Unit:H Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2025-09-14 14:51:00</guid>
+      <pubDate>Sun, 14 Sep 2025 14:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
+      <description>FINGERBOARD RD / CARRIAGE HILL DR Radio: 9B Units: A339, A318, ALS23</description>
+      <guid isPermaLink="false">2025-09-14 14:46:00</guid>
+      <pubDate>Sun, 14 Sep 2025 14:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:40 pm</title>
+      <description>FINGERBOARD RD / CARRIAGE HILL DR Radio: 9B Units: A259, TT23</description>
+      <guid isPermaLink="false">2025-09-14 14:40:00</guid>
+      <pubDate>Sun, 14 Sep 2025 14:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:17 pm</title>
       <description>MOUNT PHILLIP RD / GOLD MINE RD Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK S MARKET ST, STATION 3 Units: A196</description>
       <guid isPermaLink="false">2025-09-12 21:51:00</guid>
       <pubDate>Fri, 12 Sep 2025 21:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:44 pm</title>
-      <description>RIVER RUN RD / BLUE HERON DR Radio: 9B Units: ALS17</description>
-      <guid isPermaLink="false">2025-09-12 21:44:00</guid>
-      <pubDate>Fri, 12 Sep 2025 21:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:24 pm</title>
-      <description>4500 BLOCK LANDSDALE PKWY Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-09-12 21:24:00</guid>
-      <pubDate>Fri, 12 Sep 2025 21:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:49 pm</title>
-      <description>LIBERTY RD / RIVERSIDE WAY Radio: 9D Units: EK114, R24, A249, A28, ALS2, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-09-12 20:49:00</guid>
-      <pubDate>Fri, 12 Sep 2025 20:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
