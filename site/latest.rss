@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 04:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 04:34:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:27 am</title>
+      <description>2400 BLOCK WAYNESBORO PIKE Units: R6</description>
+      <guid isPermaLink="false">2025-09-14 00:27:00</guid>
+      <pubDate>Sun, 14 Sep 2025 00:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:32 pm</title>
       <description>8400 BLOCK WOODSBORO PIKE Radio: 9B Units: A249, E111</description>
@@ -300,12 +306,6 @@
       <description>11600 BLOCKB S BAUGHER RD Radio: 9C Units: BR226</description>
       <guid isPermaLink="false">2025-09-11 15:39:00</guid>
       <pubDate>Thu, 11 Sep 2025 15:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:20 pm</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9C Units: E82, E72</description>
-      <guid isPermaLink="false">2025-09-11 15:20:00</guid>
-      <pubDate>Thu, 11 Sep 2025 15:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
