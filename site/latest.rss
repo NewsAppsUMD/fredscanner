@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Sep 2025 23:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:08:18 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 8:01 pm</title>
+      <description>1500 BLOCK N EAST ST, WARWICK APTS Radio: 9D Units: PE23, E33, E11, E291, E502, R24, TT4, A39, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-09-13 20:01:00</guid>
+      <pubDate>Sat, 13 Sep 2025 20:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 6:19 pm</title>
       <description>1100 BLOCK SUGARLOAF MOUNTAIN RD, SUGARLOAF MOUNTAIN - FOLGER PRATT FARM Radio: 9C Units: K23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-09-11 14:21:00</guid>
       <pubDate>Thu, 11 Sep 2025 14:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:59 pm</title>
-      <description>12600 BLOCK LAYMAN RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-09-11 13:59:00</guid>
-      <pubDate>Thu, 11 Sep 2025 13:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
