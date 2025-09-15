@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 23:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:08:34 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:40 pm</title>
+      <description>1100 BLOCK WAYNESBORO PIKE Radio: ACOPS2 Units: A68, R6</description>
+      <guid isPermaLink="false">2025-09-14 19:40:00</guid>
+      <pubDate>Sun, 14 Sep 2025 19:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:37 pm</title>
+      <description>E CHURCH ST / HIGHLAND ST, ACROSS FROM UNRIVALED GYM Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-09-14 19:37:00</guid>
+      <pubDate>Sun, 14 Sep 2025 19:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 6:58 pm</title>
       <description>3900 BLOCK RED LEAF CT Radio: 9C Units: E281, R14</description>
@@ -294,18 +306,6 @@
       <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2025-09-13 13:44:00</guid>
       <pubDate>Sat, 13 Sep 2025 13:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:02 pm</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: E502, PE23</description>
-      <guid isPermaLink="false">2025-09-13 13:02:00</guid>
-      <pubDate>Sat, 13 Sep 2025 13:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:19 pm</title>
-      <description>1700 BLOCK ALGONQUIN RD Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-09-13 12:19:00</guid>
-      <pubDate>Sat, 13 Sep 2025 12:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
