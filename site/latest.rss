@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 20:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 20:33:22 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:23 pm</title>
+      <description>NEW DESIGN RD / RAILROAD XING Radio: 9D Units: PE311, R14, A319, ALS31, EMS902</description>
+      <guid isPermaLink="false">2025-09-15 16:23:00</guid>
+      <pubDate>Mon, 15 Sep 2025 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:05 pm</title>
+      <description>4300 BLOCK BAPTIST RD Units: BR65</description>
+      <guid isPermaLink="false">2025-09-15 16:05:00</guid>
+      <pubDate>Mon, 15 Sep 2025 16:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:43 pm</title>
       <description>BAUGHMANS LN / W PATRICK ST Radio: 9B Units: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK WAYNESBORO PIKE Units: R6</description>
       <guid isPermaLink="false">2025-09-14 00:27:00</guid>
       <pubDate>Sun, 14 Sep 2025 00:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:32 pm</title>
-      <description>8400 BLOCK WOODSBORO PIKE Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2025-09-13 22:32:00</guid>
-      <pubDate>Sat, 13 Sep 2025 22:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:19 pm</title>
-      <description>1100 BLOCK W PATRICK ST Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-09-13 22:19:00</guid>
-      <pubDate>Sat, 13 Sep 2025 22:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
