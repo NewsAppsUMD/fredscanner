@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 20:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 21:02:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:47 pm</title>
+      <description>6300 BLOCK DICKERSON RD Radio: 9D Units: A319</description>
+      <guid isPermaLink="false">2025-09-15 16:47:00</guid>
+      <pubDate>Mon, 15 Sep 2025 16:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:43 pm</title>
+      <description>6300 BLOCK DICKERSON RD Radio: 9D Units: R14, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-09-15 16:43:00</guid>
+      <pubDate>Mon, 15 Sep 2025 16:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 4:23 pm</title>
       <description>NEW DESIGN RD / RAILROAD XING Radio: 9D Units: PE311, R14, A319, ALS31, EMS902</description>
@@ -294,18 +306,6 @@
       <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Radio: 9B Units: E231, R3, A239, TT23</description>
       <guid isPermaLink="false">2025-09-14 01:34:00</guid>
       <pubDate>Sun, 14 Sep 2025 01:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:42 am</title>
-      <description>1200 BLOCK W PATRICK ST, MCDONALDS - FREDERICK SHOPPERS WORLD Units: E11</description>
-      <guid isPermaLink="false">2025-09-14 00:42:00</guid>
-      <pubDate>Sun, 14 Sep 2025 00:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:27 am</title>
-      <description>2400 BLOCK WAYNESBORO PIKE Units: R6</description>
-      <guid isPermaLink="false">2025-09-14 00:27:00</guid>
-      <pubDate>Sun, 14 Sep 2025 00:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
