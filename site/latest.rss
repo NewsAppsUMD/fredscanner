@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 16:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 16:36:55 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:31 pm</title>
+      <description>500 BLOCK E CHURCH ST, EASTSIDE RESTAURANT Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-09-15 12:31:00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:15 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-09-15 12:15:00</guid>
+      <pubDate>Mon, 15 Sep 2025 12:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:04 am</title>
       <description>100 BLOCK WAGON SHED LN Radio: 9C Units: E72</description>
@@ -294,18 +306,6 @@
       <description>1500 BLOCK N EAST ST, WARWICK APTS Radio: 9D Units: PE23, E33, E11, E291, E502, R24, TT4, A39, ALS2, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2025-09-13 20:01:00</guid>
       <pubDate>Sat, 13 Sep 2025 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 6:19 pm</title>
-      <description>1100 BLOCK SUGARLOAF MOUNTAIN RD, SUGARLOAF MOUNTAIN - FOLGER PRATT FARM Radio: 9C Units: K23</description>
-      <guid isPermaLink="false">2025-09-13 18:19:00</guid>
-      <pubDate>Sat, 13 Sep 2025 18:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 6:14 pm</title>
-      <description>1100 BLOCK SUGARLOAF MOUNTAIN RD, SUGARLOAF MOUNTAIN - FOLGER PRATT FARM Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-09-13 18:14:00</guid>
-      <pubDate>Sat, 13 Sep 2025 18:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
