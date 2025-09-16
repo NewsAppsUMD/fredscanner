@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 23:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 23:31:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:02 pm</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-09-16 19:02:00</guid>
+      <pubDate>Tue, 16 Sep 2025 19:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
       <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9B Units: E502, E11, R2, A28, A19</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK WILSON PL Radio: 9D Units: RID, E111, R24, A28, EMS901, W1</description>
       <guid isPermaLink="false">2025-09-14 18:34:00</guid>
       <pubDate>Sun, 14 Sep 2025 18:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 6:31 pm</title>
-      <description>600 BLOCK WILSON PL Units: E11, E502, PE23, E33, E291, R3, TT4, A18, ALS4, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-09-14 18:31:00</guid>
-      <pubDate>Sun, 14 Sep 2025 18:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
