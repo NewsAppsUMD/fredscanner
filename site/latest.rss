@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 03:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 03:38:03 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 11:33 pm</title>
+      <description>2800 BLOCK WILDWOOD CT Units: E111, E162</description>
+      <guid isPermaLink="false">2025-09-15 23:33:00</guid>
+      <pubDate>Mon, 15 Sep 2025 23:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:22 pm</title>
+      <description>100 BLOCK NINTH AVE Units: RE52, R19</description>
+      <guid isPermaLink="false">2025-09-15 23:22:00</guid>
+      <pubDate>Mon, 15 Sep 2025 23:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 9:47 pm</title>
       <description>1400 BLOCK VILLAGE GREEN WAY Units: RE52</description>
@@ -294,18 +306,6 @@
       <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-14 09:32:00</guid>
       <pubDate>Sun, 14 Sep 2025 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:19 am</title>
-      <description>2500 BLOCK COACH HOUSE WAY, Apt/Unit:2C, ECHO GLEN CONDOS - 2500 BLOCK COACH HOUSE WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-14 08:19:00</guid>
-      <pubDate>Sun, 14 Sep 2025 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
-      <description>2100 BLOCK WHITEHALL RD, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Units: E11</description>
-      <guid isPermaLink="false">2025-09-14 08:12:00</guid>
-      <pubDate>Sun, 14 Sep 2025 08:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
