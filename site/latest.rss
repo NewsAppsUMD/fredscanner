@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Sep 2025 10:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 10:35:32 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:26 am</title>
+      <description>5200 BLOCK WESTVIEW DR, EXTENDED STAY AMERICA Radio: 9C Units: PE311, E33, TT4</description>
+      <guid isPermaLink="false">2025-09-16 06:26:00</guid>
+      <pubDate>Tue, 16 Sep 2025 06:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 11:33 pm</title>
       <description>2800 BLOCK WILDWOOD CT Units: E111, E162</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK HOLDEN RD Radio: 9C Units: PE23, TT4</description>
       <guid isPermaLink="false">2025-09-14 09:39:00</guid>
       <pubDate>Sun, 14 Sep 2025 09:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
-      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-14 09:32:00</guid>
-      <pubDate>Sun, 14 Sep 2025 09:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
