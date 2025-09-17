@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 17:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 18:02:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:59 pm</title>
+      <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A19, R2</description>
+      <guid isPermaLink="false">2025-09-17 13:59:00</guid>
+      <pubDate>Wed, 17 Sep 2025 13:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E291, TW1, E221</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK FREDERICK RD, MOUNTAIN GATE RESTAURANT Units: PE102, TW6</description>
       <guid isPermaLink="false">2025-09-15 21:43:00</guid>
       <pubDate>Mon, 15 Sep 2025 21:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:08 pm</title>
-      <description>7800 BLOCK SPOUT SPRING RD Units: E11</description>
-      <guid isPermaLink="false">2025-09-15 20:08:00</guid>
-      <pubDate>Mon, 15 Sep 2025 20:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
