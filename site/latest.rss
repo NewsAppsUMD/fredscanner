@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Sep 2025 18:38:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 19:02:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:48 pm</title>
+      <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD Units: A309, E102</description>
+      <guid isPermaLink="false">2025-09-17 14:48:00</guid>
+      <pubDate>Wed, 17 Sep 2025 14:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:07 pm</title>
       <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A18</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK NINTH AVE Units: RE52, R19</description>
       <guid isPermaLink="false">2025-09-15 23:22:00</guid>
       <pubDate>Mon, 15 Sep 2025 23:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 9:47 pm</title>
-      <description>1400 BLOCK VILLAGE GREEN WAY Units: RE52</description>
-      <guid isPermaLink="false">2025-09-15 21:47:00</guid>
-      <pubDate>Mon, 15 Sep 2025 21:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
