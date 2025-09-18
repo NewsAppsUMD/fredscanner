@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 15:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 15:34:10 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 11:04 am</title>
+      <description>9000 BLOCK HAMBURG RD Units: E11, E291, K22</description>
+      <guid isPermaLink="false">2025-09-18 11:04:00</guid>
+      <pubDate>Thu, 18 Sep 2025 11:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:57 am</title>
       <description>5900 BLOCK FORUM SQ Units: PE311, TW1</description>
@@ -300,12 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, BC901, EMS901</description>
       <guid isPermaLink="false">2025-09-16 19:02:00</guid>
       <pubDate>Tue, 16 Sep 2025 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9B Units: E502, E11, R2, A28, A19</description>
-      <guid isPermaLink="false">2025-09-16 17:58:00</guid>
-      <pubDate>Tue, 16 Sep 2025 17:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
