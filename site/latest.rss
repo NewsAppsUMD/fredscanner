@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Sep 2025 16:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 17:02:19 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:51 pm</title>
+      <description>7500 BLOCK GREEN VALLEY RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2025-09-18 12:51:00</guid>
+      <pubDate>Thu, 18 Sep 2025 12:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
+      <description>ROSEMONT AVE / WILSON PL Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2025-09-18 12:47:00</guid>
+      <pubDate>Thu, 18 Sep 2025 12:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:28 pm</title>
       <description>6000 BLOCK QUINN RD Radio: 9C Units: E331</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK DROUGHT SPRING CT Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-16 23:11:00</guid>
       <pubDate>Tue, 16 Sep 2025 23:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:40 pm</title>
-      <description>8600 BLOCK RANDELL RIDGE RD Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-09-16 22:40:00</guid>
-      <pubDate>Tue, 16 Sep 2025 22:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:14 pm</title>
-      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Radio: 9D Units: E72, R8, A89, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-09-16 22:14:00</guid>
-      <pubDate>Tue, 16 Sep 2025 22:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
