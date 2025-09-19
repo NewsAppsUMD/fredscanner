@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 10:35:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 11:02:10 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:43 am</title>
+      <description>100 BLOCK LIVINGSTONE TER Units: E11</description>
+      <guid isPermaLink="false">2025-09-19 06:43:00</guid>
+      <pubDate>Fri, 19 Sep 2025 06:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:44 am</title>
       <description>600 BLOCK KARN CT Units: E51, R19</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / LANDER RD, RT340EB / HORINE RD Radio: 9B Units: E51, E201, RE52, R19, A196, A209</description>
       <guid isPermaLink="false">2025-09-17 13:07:00</guid>
       <pubDate>Wed, 17 Sep 2025 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:46 pm</title>
-      <description>2400 BLOCK WHITTIER DR, WHITTIER ELEMENTARY SCHOOL Radio: 9C Units: A19</description>
-      <guid isPermaLink="false">2025-09-17 12:46:00</guid>
-      <pubDate>Wed, 17 Sep 2025 12:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
