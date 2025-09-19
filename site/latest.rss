@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 14:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 14:35:11 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:14 am</title>
+      <description>3300 BLOCK IVY MEADOW DR Units: E231</description>
+      <guid isPermaLink="false">2025-09-19 10:14:00</guid>
+      <pubDate>Fri, 19 Sep 2025 10:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 10:13 am</title>
+      <description>1300 BLOCK PEDIGREE ST Units: E121</description>
+      <guid isPermaLink="false">2025-09-19 10:13:00</guid>
+      <pubDate>Fri, 19 Sep 2025 10:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 10:10 am</title>
+      <description>1300 BLOCK PEDIGREE ST Units: E291, E502, E33, E111, R2, TW1, A299, A39, ALS29, BC902, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2025-09-19 10:10:00</guid>
+      <pubDate>Fri, 19 Sep 2025 10:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:34 am</title>
       <description>900 BLOCK TOLL HOUSE AVE, FREDERICK SURGICAL Units: E33</description>
@@ -288,24 +306,6 @@
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD Units: A309, E102</description>
       <guid isPermaLink="false">2025-09-17 14:48:00</guid>
       <pubDate>Wed, 17 Sep 2025 14:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:07 pm</title>
-      <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A18</description>
-      <guid isPermaLink="false">2025-09-17 14:07:00</guid>
-      <pubDate>Wed, 17 Sep 2025 14:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:59 pm</title>
-      <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A19, R2</description>
-      <guid isPermaLink="false">2025-09-17 13:59:00</guid>
-      <pubDate>Wed, 17 Sep 2025 13:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: E291, TW1, E221</description>
-      <guid isPermaLink="false">2025-09-17 13:28:00</guid>
-      <pubDate>Wed, 17 Sep 2025 13:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
