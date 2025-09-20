@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 16:34:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 17:01:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
+      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-09-20 12:40:00</guid>
+      <pubDate>Sat, 20 Sep 2025 12:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - PERIPHERAL: 11:32 am</title>
       <description>6700 BLOCK SUNNYBROOK DR Radio: 9C Units: E11, R2, A19</description>
@@ -300,12 +306,6 @@
       <description>7500 BLOCK GREEN VALLEY RD Radio: 9C Units: BR175</description>
       <guid isPermaLink="false">2025-09-18 12:51:00</guid>
       <pubDate>Thu, 18 Sep 2025 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
-      <description>ROSEMONT AVE / WILSON PL Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2025-09-18 12:47:00</guid>
-      <pubDate>Thu, 18 Sep 2025 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
