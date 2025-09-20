@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 04:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 05:02:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:54 am</title>
+      <description>400 BLOCK E SEVENTH ST, Apt/Unit:404 Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-09-20 00:54:00</guid>
+      <pubDate>Sat, 20 Sep 2025 00:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 11:56 pm</title>
       <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9B Units: E61</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK SHOOKSTOWN RD Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2025-09-17 21:20:00</guid>
       <pubDate>Wed, 17 Sep 2025 21:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:32 pm</title>
-      <description>FINGERBOARD RD / CARRIAGE HILL DR Radio: 9B Units: ALS23</description>
-      <guid isPermaLink="false">2025-09-17 20:32:00</guid>
-      <pubDate>Wed, 17 Sep 2025 20:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
