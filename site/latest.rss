@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Sep 2025 15:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 16:01:57 +0000</lastBuildDate>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 11:32 am</title>
+      <description>6700 BLOCK SUNNYBROOK DR Radio: 9C Units: E11, R2, A19</description>
+      <guid isPermaLink="false">2025-09-20 11:32:00</guid>
+      <pubDate>Sat, 20 Sep 2025 11:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 11:05 am</title>
       <description>3600 BLOCK SPRING HOLLOW LN Radio: 9C Units: E251, E331, TT23</description>
@@ -300,12 +306,6 @@
       <description>ROSEMONT AVE / WILSON PL Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2025-09-18 12:47:00</guid>
       <pubDate>Thu, 18 Sep 2025 12:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:28 pm</title>
-      <description>6000 BLOCK QUINN RD Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-09-18 12:28:00</guid>
-      <pubDate>Thu, 18 Sep 2025 12:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
