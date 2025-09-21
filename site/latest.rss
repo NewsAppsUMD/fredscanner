@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 01:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 02:14:32 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:12 pm</title>
+      <description>1500 BLOCK OPOSSUMTOWN PIKE, OPOSSUMTOWN PIKE VET - NORTH AMBER BUSINESS PARK Radio: 9B Units: A299, PE23</description>
+      <guid isPermaLink="false">2025-09-20 22:12:00</guid>
+      <pubDate>Sat, 20 Sep 2025 22:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:23 pm</title>
       <description>FINGERBOARD RD / BIG WOODS RD Units: A339, E251</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK PEDIGREE ST Units: E121</description>
       <guid isPermaLink="false">2025-09-19 10:13:00</guid>
       <pubDate>Fri, 19 Sep 2025 10:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 10:10 am</title>
-      <description>1300 BLOCK PEDIGREE ST Units: E291, E502, E33, E111, R2, TW1, A299, A39, ALS29, BC902, BC903, SAF901, EMS902</description>
-      <guid isPermaLink="false">2025-09-19 10:10:00</guid>
-      <pubDate>Fri, 19 Sep 2025 10:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
