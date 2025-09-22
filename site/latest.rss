@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 17:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 17:32:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:16 pm</title>
+      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Units: A229, E291</description>
+      <guid isPermaLink="false">2025-09-22 13:16:00</guid>
+      <pubDate>Mon, 22 Sep 2025 13:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:27 pm</title>
       <description>500 BLOCK NATURAL DAM RD Units: E61, EK64, R10, TW6, A69</description>
@@ -300,12 +306,6 @@
       <description>9500 BLOCK LIBERTY RD Units: R3</description>
       <guid isPermaLink="false">2025-09-20 16:05:00</guid>
       <pubDate>Sat, 20 Sep 2025 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:58 pm</title>
-      <description>9500 BLOCK LIBERTY RD Units: E111, E172, E291, PE23, E502, E162, R24, TW1, EK114, K33, K22, A248, ALS17, K17, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-09-20 15:58:00</guid>
-      <pubDate>Sat, 20 Sep 2025 15:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
