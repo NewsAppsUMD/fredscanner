@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 14:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 15:02:28 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 10:57 am</title>
+      <description>24500 BLOCK CUTSAIL DR LOIS P ROCKWELL ES MCPS, LOIS P ROCKWELL ES MCPS Radio: 7A4 Units: R3</description>
+      <guid isPermaLink="false">2025-09-22 10:57:00</guid>
+      <pubDate>Mon, 22 Sep 2025 10:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:50 am</title>
+      <description>100 BLOCK WALNUT ST, GLADHILL FURNITURE - MIDDLETOWN Units: BR75</description>
+      <guid isPermaLink="false">2025-09-22 10:50:00</guid>
+      <pubDate>Mon, 22 Sep 2025 10:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:43 am</title>
+      <description>5000 BLOCK BUCKEYSTOWN PIKE, Bldg:1 Units: PE311, TW1</description>
+      <guid isPermaLink="false">2025-09-22 10:43:00</guid>
+      <pubDate>Mon, 22 Sep 2025 10:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:40 am</title>
+      <description>200 BLOCK MADISON ST, FCPS LINLCOLN A SUCCESS Units: E31, TT4</description>
+      <guid isPermaLink="false">2025-09-22 10:40:00</guid>
+      <pubDate>Mon, 22 Sep 2025 10:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:42 am</title>
       <description>S EAST ST / ROUNDABOUT, S EAST ST / ROUNDABOUT Radio: 9B Units: A38, R3</description>
@@ -282,30 +306,6 @@
       <description>5800 BLOCK BUCKEYSTOWN PIKE, TRUIST - POINTE PLAZA Radio: 9B Units: A38, E33</description>
       <guid isPermaLink="false">2025-09-20 14:47:00</guid>
       <pubDate>Sat, 20 Sep 2025 14:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:37 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E33, E11, R3, A39, A18, ALS2, BC902, EMS901</description>
-      <guid isPermaLink="false">2025-09-20 14:37:00</guid>
-      <pubDate>Sat, 20 Sep 2025 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:21 pm</title>
-      <description>200 BLOCK SANDSTONE DR Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-09-20 14:21:00</guid>
-      <pubDate>Sat, 20 Sep 2025 14:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-09-20 12:40:00</guid>
-      <pubDate>Sat, 20 Sep 2025 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 11:32 am</title>
-      <description>6700 BLOCK SUNNYBROOK DR Radio: 9C Units: E11, R2, A19</description>
-      <guid isPermaLink="false">2025-09-20 11:32:00</guid>
-      <pubDate>Sat, 20 Sep 2025 11:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
