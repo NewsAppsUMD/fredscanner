@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Sep 2025 00:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 00:46:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:07 pm</title>
+      <description>I70EB / I270, I70EB / I270 Radio: 9B Units: E11, E33, R3, A19, A318</description>
+      <guid isPermaLink="false">2025-09-21 20:07:00</guid>
+      <pubDate>Sun, 21 Sep 2025 20:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 7:12 pm</title>
       <description>5800 BLOCK BALLENGER CREEK PIKE Units: HM33, HMSU33</description>
@@ -300,12 +306,6 @@
       <description>CHIMNEY ROCK - CATOCTIN MOUNTAIN PARK, CHIMNEY ROCK - CATOCTIN MOUNTAIN PARK Radio: 9D Units: E61, E132, E162, R10, TR29, EMSUTV30, A309, ALS30, E221, BC902, EMS902</description>
       <guid isPermaLink="false">2025-09-20 10:39:00</guid>
       <pubDate>Sat, 20 Sep 2025 10:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 10:03 am</title>
-      <description>200 BLOCK SHOREBIRD ST, MEDSTAR HEALTH URGENT CARE Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-09-20 10:03:00</guid>
-      <pubDate>Sat, 20 Sep 2025 10:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
