@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 18:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 19:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:44 pm</title>
+      <description>3800 BLOCK SUGARLOAF PKWY Radio: 9B Units: A239, E231</description>
+      <guid isPermaLink="false">2025-09-23 14:44:00</guid>
+      <pubDate>Tue, 23 Sep 2025 14:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:50 pm</title>
       <description>6900 BLOCK EYLERS VALLEY FLINT RD Radio: 9B Units: A307, PE102</description>
@@ -300,12 +306,6 @@
       <description>ENGLISH MUFFIN LN / NEW DESIGN RD Radio: 9D Units: PE311, R3, A318, ALS31, EMS901</description>
       <guid isPermaLink="false">2025-09-21 11:53:00</guid>
       <pubDate>Sun, 21 Sep 2025 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:39 am</title>
-      <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-09-21 11:39:00</guid>
-      <pubDate>Sun, 21 Sep 2025 11:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
