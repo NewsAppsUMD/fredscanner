@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 17:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 18:02:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:50 pm</title>
+      <description>6900 BLOCK EYLERS VALLEY FLINT RD Radio: 9B Units: A307, PE102</description>
+      <guid isPermaLink="false">2025-09-23 13:50:00</guid>
+      <pubDate>Tue, 23 Sep 2025 13:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 12:11 pm</title>
       <description>5600 BLOCK HEARTHSTONE TRL Radio: 9C Units: E152</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-09-21 11:39:00</guid>
       <pubDate>Sun, 21 Sep 2025 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:33 am</title>
-      <description>I70EB / 49MM, I70EB / 49MM Radio: 9C Units: E82, E121</description>
-      <guid isPermaLink="false">2025-09-21 11:33:00</guid>
-      <pubDate>Sun, 21 Sep 2025 11:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
