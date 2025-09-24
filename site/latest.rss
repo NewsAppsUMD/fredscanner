@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 22:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 22:32:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:08 pm</title>
+      <description>100 BLOCK NEW DESIGN RD, Apt/Unit:HTTPS://A91.IO/49XHS Radio: 9B Units: A149, E141</description>
+      <guid isPermaLink="false">2025-09-24 18:08:00</guid>
+      <pubDate>Wed, 24 Sep 2025 18:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
       <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9B Units: E11, E201, R3, A19, A209</description>
@@ -300,12 +306,6 @@
       <description>CANAL RD / COMMERCE ST Radio: 9I Units: E281, R20, ALS20, BC903, EMS902</description>
       <guid isPermaLink="false">2025-09-22 21:27:00</guid>
       <pubDate>Mon, 22 Sep 2025 21:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:29 pm</title>
-      <description>500 BLOCK N MARKET ST, STATION 2 Units: E152</description>
-      <guid isPermaLink="false">2025-09-22 20:29:00</guid>
-      <pubDate>Mon, 22 Sep 2025 20:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
