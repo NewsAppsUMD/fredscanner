@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 22:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 23:02:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:44 pm</title>
+      <description>I270NB / NEW DESIGN RD, I270SB / NEW DESIGN RD Units: PE311, E11, R3, A319, A19</description>
+      <guid isPermaLink="false">2025-09-25 18:44:00</guid>
+      <pubDate>Thu, 25 Sep 2025 18:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:24 pm</title>
       <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Units: PE311, TW1</description>
@@ -300,12 +306,6 @@
       <description>I270NB / RT80(RT80), I270NB / RT80 Radio: 9D Units: E231, R3, A239, A259, ALS23, EMS901, E251, TT23</description>
       <guid isPermaLink="false">2025-09-23 17:29:00</guid>
       <pubDate>Tue, 23 Sep 2025 17:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:11 pm</title>
-      <description>I70EB / 49MM, I70EB / 49MM Radio: 9B Units: A79, E82</description>
-      <guid isPermaLink="false">2025-09-23 17:11:00</guid>
-      <pubDate>Tue, 23 Sep 2025 17:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
