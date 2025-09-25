@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 16:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 16:37:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:11 pm</title>
+      <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Radio: 9D Units: E331, R3, A339, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-09-25 12:11:00</guid>
+      <pubDate>Thu, 25 Sep 2025 12:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:01 pm</title>
+      <description>1600 BLOCK HARPERS FERRY RD Radio: PS1 Units: A196</description>
+      <guid isPermaLink="false">2025-09-25 12:01:00</guid>
+      <pubDate>Thu, 25 Sep 2025 12:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:41 am</title>
       <description>4800 BLOCK HITESHOW DR Radio: 9C Units: PE311, TW1</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK HEARTHSTONE TRL Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2025-09-23 12:11:00</guid>
       <pubDate>Tue, 23 Sep 2025 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:35 am</title>
-      <description>100 BLOCK BLUE RIDGE AVE Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-09-23 11:35:00</guid>
-      <pubDate>Tue, 23 Sep 2025 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:54 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: PE23</description>
-      <guid isPermaLink="false">2025-09-23 10:54:00</guid>
-      <pubDate>Tue, 23 Sep 2025 10:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
