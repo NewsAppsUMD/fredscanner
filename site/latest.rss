@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 17:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 18:39:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:58 pm</title>
+      <description>100 BLOCK BLK RAMP RT15SB TO RT15-34100 BLOCKWB RAMP Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2025-09-25 13:58:00</guid>
+      <pubDate>Thu, 25 Sep 2025 13:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:11 pm</title>
       <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S AND V PARTNERSHIP Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK SUGARLOAF PKWY Radio: 9B Units: A239, E231</description>
       <guid isPermaLink="false">2025-09-23 14:44:00</guid>
       <pubDate>Tue, 23 Sep 2025 14:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:50 pm</title>
-      <description>6900 BLOCK EYLERS VALLEY FLINT RD Radio: 9B Units: A307, PE102</description>
-      <guid isPermaLink="false">2025-09-23 13:50:00</guid>
-      <pubDate>Tue, 23 Sep 2025 13:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
