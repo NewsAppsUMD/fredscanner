@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 00:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 01:29:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:51 pm</title>
+      <description>ANNANDALE RD / OLD EMMITSBURG RD Radio: 9D Units: E61, R6, A69, ALS30, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-09-24 20:51:00</guid>
+      <pubDate>Wed, 24 Sep 2025 20:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:51 pm</title>
       <description>100 BLOCK N SETON AVE Radio: 9C Units: E61, TW6</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK BEL AIRE LN Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-23 04:02:00</guid>
       <pubDate>Tue, 23 Sep 2025 04:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:47 pm</title>
-      <description>34500 BLOCK POTOMAC RIVER HARRISON ISLAND, HARRISON ISLAND Radio: 7A4 Units: E141</description>
-      <guid isPermaLink="false">2025-09-22 22:47:00</guid>
-      <pubDate>Mon, 22 Sep 2025 22:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
