@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Sep 2025 20:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 20:33:57 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:27 pm</title>
+      <description>100 BLOCK WESTVIEW DR Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-09-25 16:27:00</guid>
+      <pubDate>Thu, 25 Sep 2025 16:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:41 pm</title>
       <description>1100 BLOCK AVONDALE CT Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>MONOCACY BLVD / STORAGE WAY Radio: 9B Units: A38</description>
       <guid isPermaLink="false">2025-09-23 15:10:00</guid>
       <pubDate>Tue, 23 Sep 2025 15:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
-      <description>1300 BLOCK E PATRICK ST, SHEETZ - EASTGATE Radio: 9B Units: A39, R3</description>
-      <guid isPermaLink="false">2025-09-23 15:04:00</guid>
-      <pubDate>Tue, 23 Sep 2025 15:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
