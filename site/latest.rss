@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 20:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 21:02:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:56 pm</title>
+      <description>I70EB / RT17, I70EB / RT17 Radio: 9D Units: E72, E121, RE74, A79, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-09-26 16:56:00</guid>
+      <pubDate>Fri, 26 Sep 2025 16:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:35 pm</title>
+      <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: E72, R8, A89</description>
+      <guid isPermaLink="false">2025-09-26 16:35:00</guid>
+      <pubDate>Fri, 26 Sep 2025 16:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 4:27 pm</title>
       <description>RT340WB / 5MM, RT340WB / 5MM Radio: 9C Units: E201, RE52</description>
@@ -294,18 +306,6 @@
       <description>YEAGERTOWN RD / OLD NATIONAL PIKE Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2025-09-25 11:02:00</guid>
       <pubDate>Thu, 25 Sep 2025 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:42 am</title>
-      <description>6700 BLOCK OVERTON CIR, Bldg:A, WELLINGTON TRACE APTS - 6700 BLOCK OVERTON CIR Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-25 08:42:00</guid>
-      <pubDate>Thu, 25 Sep 2025 08:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:13 am</title>
-      <description>200 BLOCK BISHOPS GLEN DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-25 04:13:00</guid>
-      <pubDate>Thu, 25 Sep 2025 04:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
