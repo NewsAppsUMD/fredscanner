@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 23:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 23:31:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:12 pm</title>
+      <description>700 BLOCK IRON FORGE RD Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-09-26 19:12:00</guid>
+      <pubDate>Fri, 26 Sep 2025 19:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:04 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: A28</description>
+      <guid isPermaLink="false">2025-09-26 19:04:00</guid>
+      <pubDate>Fri, 26 Sep 2025 19:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:56 pm</title>
       <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: ALS2</description>
@@ -294,18 +306,6 @@
       <description>1100 BLOCK AVONDALE CT Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-25 14:41:00</guid>
       <pubDate>Thu, 25 Sep 2025 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:58 pm</title>
-      <description>100 BLOCK BLK RAMP RT15SB TO RT15-34100 BLOCKWB RAMP Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2025-09-25 13:58:00</guid>
-      <pubDate>Thu, 25 Sep 2025 13:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:11 pm</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S AND V PARTNERSHIP Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2025-09-25 13:11:00</guid>
-      <pubDate>Thu, 25 Sep 2025 13:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
