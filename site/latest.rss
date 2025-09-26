@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 11:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 11:31:38 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:15 am</title>
+      <description>600 BLOCK SOUDER RD, BRUNSWICK FARM &amp; HOME Radio: 9C Units: RE52</description>
+      <guid isPermaLink="false">2025-09-26 07:15:00</guid>
+      <pubDate>Fri, 26 Sep 2025 07:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:04 am</title>
+      <description>3800 BLOCK SUGARLOAF PKWY Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-09-26 07:04:00</guid>
+      <pubDate>Fri, 26 Sep 2025 07:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:24 am</title>
       <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: R24</description>
@@ -294,18 +306,6 @@
       <description>OLD NATIONAL PIKE / DETRICK RD Radio: 9B Units: A158, R15</description>
       <guid isPermaLink="false">2025-09-24 13:32:00</guid>
       <pubDate>Wed, 24 Sep 2025 13:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:02 pm</title>
-      <description>WOODSBORO PIKE / COPPERMINE RD Radio: 9I Units: U24</description>
-      <guid isPermaLink="false">2025-09-24 13:02:00</guid>
-      <pubDate>Wed, 24 Sep 2025 13:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:53 pm</title>
-      <description>WOODSBORO PIKE / COPPERMINE RD Radio: 9I Units: BC902</description>
-      <guid isPermaLink="false">2025-09-24 12:53:00</guid>
-      <pubDate>Wed, 24 Sep 2025 12:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
