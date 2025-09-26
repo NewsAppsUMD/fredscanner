@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 11:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:03:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:58 am</title>
+      <description>DOLLYHYDE RD / EMERSON BURRIER RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2025-09-26 07:58:00</guid>
+      <pubDate>Fri, 26 Sep 2025 07:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:38 am</title>
+      <description>1900 BLOCK QUEBEC SCHOOL RD Radio: 9C Units: E72</description>
+      <guid isPermaLink="false">2025-09-26 07:38:00</guid>
+      <pubDate>Fri, 26 Sep 2025 07:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:15 am</title>
       <description>600 BLOCK SOUDER RD, BRUNSWICK FARM &amp; HOME Radio: 9C Units: RE52</description>
@@ -294,18 +306,6 @@
       <description>3400 BLOCK STONE BARN DR, SUGARLOAF ELEMENTARY SCHOOL Units: E231, TT23</description>
       <guid isPermaLink="false">2025-09-24 13:47:00</guid>
       <pubDate>Wed, 24 Sep 2025 13:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:37 pm</title>
-      <description>OLD NATIONAL PIKE / DETRICK RD Radio: 9B Units: A259</description>
-      <guid isPermaLink="false">2025-09-24 13:37:00</guid>
-      <pubDate>Wed, 24 Sep 2025 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:32 pm</title>
-      <description>OLD NATIONAL PIKE / DETRICK RD Radio: 9B Units: A158, R15</description>
-      <guid isPermaLink="false">2025-09-24 13:32:00</guid>
-      <pubDate>Wed, 24 Sep 2025 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
