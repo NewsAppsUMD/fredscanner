@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 00:46:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 01:29:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:20 pm</title>
+      <description>6400 BLOCK MERCANTILE DR E, Apt/Unit:202, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Units: PE311, TT4</description>
+      <guid isPermaLink="false">2025-09-25 21:20:00</guid>
+      <pubDate>Thu, 25 Sep 2025 21:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:16 pm</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E31, E72, R3, A18, A89</description>
+      <guid isPermaLink="false">2025-09-25 21:16:00</guid>
+      <pubDate>Thu, 25 Sep 2025 21:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 8:49 pm</title>
+      <description>I70WB / 43MM, I70WB / 43MM Units: A89</description>
+      <guid isPermaLink="false">2025-09-25 20:49:00</guid>
+      <pubDate>Thu, 25 Sep 2025 20:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 8:32 pm</title>
       <description>I70WB / 43MM, I70WB / 43MM Units: K1</description>
@@ -288,24 +306,6 @@
       <description>LIBERTY RD / ISRAEL CREEK XING Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-09-23 22:29:00</guid>
       <pubDate>Tue, 23 Sep 2025 22:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:10 pm</title>
-      <description>RT15SB / N FRANKLINVILLE RD (N), RT15SB / N FRANKLINVILLE RD Radio: 9D Units: PE102, R10, A307, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-09-23 21:10:00</guid>
-      <pubDate>Tue, 23 Sep 2025 21:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:27 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: TW1, PE311</description>
-      <guid isPermaLink="false">2025-09-23 20:27:00</guid>
-      <pubDate>Tue, 23 Sep 2025 20:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:57 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:A, Apt/Unit:105, ELMWOOD TERRACE APTS - BLDG A Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-09-23 18:57:00</guid>
-      <pubDate>Tue, 23 Sep 2025 18:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
