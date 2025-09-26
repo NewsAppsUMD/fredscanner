@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 19:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 20:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:41 pm</title>
+      <description>FREDERICK RD / CROGHAN LN Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-09-26 15:41:00</guid>
+      <pubDate>Fri, 26 Sep 2025 15:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:51 pm</title>
       <description>RT15SB / RT26, RT15SB / RT26 Radio: 9B Units: E291, PE23, R24, A299, A28</description>
@@ -300,12 +306,6 @@
       <description>ANNANDALE RD / OLD EMMITSBURG RD Radio: 9D Units: E61, R6, A69, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2025-09-24 20:51:00</guid>
       <pubDate>Wed, 24 Sep 2025 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:51 pm</title>
-      <description>100 BLOCK N SETON AVE Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2025-09-24 19:51:00</guid>
-      <pubDate>Wed, 24 Sep 2025 19:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
