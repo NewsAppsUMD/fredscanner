@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 18:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 18:37:25 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:28 pm</title>
+      <description>NEW DESIGN RD / FOXCROFT DR Radio: 9D Units: A319, PE311, EMS902</description>
+      <guid isPermaLink="false">2025-09-26 14:28:00</guid>
+      <pubDate>Fri, 26 Sep 2025 14:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:18 pm</title>
+      <description>OLD NATIONAL PIKE / ROTARY AVE Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2025-09-26 14:18:00</guid>
+      <pubDate>Fri, 26 Sep 2025 14:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:23 pm</title>
       <description>1300 BLOCK MULBERRY CT Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK BICTON COMMONS DR Radio: 9C Units: E11, E121, TT4</description>
       <guid isPermaLink="false">2025-09-24 18:30:00</guid>
       <pubDate>Wed, 24 Sep 2025 18:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:08 pm</title>
-      <description>100 BLOCK NEW DESIGN RD, Apt/Unit:HTTPS://A91.IO/49XHS Radio: 9B Units: A149, E141</description>
-      <guid isPermaLink="false">2025-09-24 18:08:00</guid>
-      <pubDate>Wed, 24 Sep 2025 18:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
-      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9B Units: E11, E201, R3, A19, A209</description>
-      <guid isPermaLink="false">2025-09-24 17:54:00</guid>
-      <pubDate>Wed, 24 Sep 2025 17:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
