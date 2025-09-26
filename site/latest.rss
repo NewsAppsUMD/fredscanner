@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 22:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 23:02:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:56 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: ALS2</description>
+      <guid isPermaLink="false">2025-09-26 18:56:00</guid>
+      <pubDate>Fri, 26 Sep 2025 18:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:53 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: PE102</description>
+      <guid isPermaLink="false">2025-09-26 18:53:00</guid>
+      <pubDate>Fri, 26 Sep 2025 18:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:50 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: E111, R24, A299, ALS29, EMS902</description>
+      <guid isPermaLink="false">2025-09-26 18:50:00</guid>
+      <pubDate>Fri, 26 Sep 2025 18:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:43 pm</title>
+      <description>RT15NB / BARTGIS RD, RT15NB / BARTGIS RD Radio: 9B Units: A229, E291, E221</description>
+      <guid isPermaLink="false">2025-09-26 18:43:00</guid>
+      <pubDate>Fri, 26 Sep 2025 18:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:47 pm</title>
       <description>700 BLOCK IRON FORGE RD, GAMBRILL GLEN Units: E11, TT4</description>
@@ -282,30 +306,6 @@
       <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S AND V PARTNERSHIP Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2025-09-25 13:11:00</guid>
       <pubDate>Thu, 25 Sep 2025 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:11 pm</title>
-      <description>6000 BLOCK SPRING RIDGE PKWY, STATION 33 Radio: 9D Units: E331, R3, A339, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-09-25 12:11:00</guid>
-      <pubDate>Thu, 25 Sep 2025 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:01 pm</title>
-      <description>1600 BLOCK HARPERS FERRY RD Radio: PS1 Units: A196</description>
-      <guid isPermaLink="false">2025-09-25 12:01:00</guid>
-      <pubDate>Thu, 25 Sep 2025 12:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:41 am</title>
-      <description>4800 BLOCK HITESHOW DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-09-25 11:41:00</guid>
-      <pubDate>Thu, 25 Sep 2025 11:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:14 am</title>
-      <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-09-25 11:14:00</guid>
-      <pubDate>Thu, 25 Sep 2025 11:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
