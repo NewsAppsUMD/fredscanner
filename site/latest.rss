@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 01:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 02:04:45 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 9:33 pm</title>
+      <description>400 BLOCK E MAIN ST, THURMONT MIDDLE SCHOOL Units: PE102, A307</description>
+      <guid isPermaLink="false">2025-09-26 21:33:00</guid>
+      <pubDate>Fri, 26 Sep 2025 21:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:12 pm</title>
       <description>100 BLOCK E PATRICK ST Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Units: PE311, TW1</description>
       <guid isPermaLink="false">2025-09-25 18:24:00</guid>
       <pubDate>Thu, 25 Sep 2025 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:40 pm</title>
-      <description>6700 BLOCK BLACK DUCK CT Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-25 17:40:00</guid>
-      <pubDate>Thu, 25 Sep 2025 17:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
