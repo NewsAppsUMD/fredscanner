@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 20:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 20:32:33 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 4:26 pm</title>
+      <description>1800 BLOCK COLT LN Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-09-27 16:26:00</guid>
+      <pubDate>Sat, 27 Sep 2025 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:17 pm</title>
+      <description>6900 BLOCK SOVEREIGN PL Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-09-27 16:17:00</guid>
+      <pubDate>Sat, 27 Sep 2025 16:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:01 pm</title>
+      <description>1200 BLOCK RIVERWALK PL, Apt/Unit:3100, FAIRWAY VISTA CLUBHOUSE &amp; POOL Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-09-27 16:01:00</guid>
+      <pubDate>Sat, 27 Sep 2025 16:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:55 pm</title>
       <description>100 BLOCK FREDERICK ST, TANERY BARN Units: E61</description>
@@ -288,24 +306,6 @@
       <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD Radio: 9B Units: E291, E11, R2, A299, A28</description>
       <guid isPermaLink="false">2025-09-26 06:22:00</guid>
       <pubDate>Fri, 26 Sep 2025 06:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:10 am</title>
-      <description>7200 BLOCK CORPORATE CT Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-26 06:10:00</guid>
-      <pubDate>Fri, 26 Sep 2025 06:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:42 am</title>
-      <description>WAYNESBORO PIKE / JACKS MOUNTAIN RD Units: A69, R6, ALS30</description>
-      <guid isPermaLink="false">2025-09-26 03:42:00</guid>
-      <pubDate>Fri, 26 Sep 2025 03:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:20 am</title>
-      <description>1700 BLOCK EAGLE ROCK LN Units: E11</description>
-      <guid isPermaLink="false">2025-09-26 01:20:00</guid>
-      <pubDate>Fri, 26 Sep 2025 01:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
