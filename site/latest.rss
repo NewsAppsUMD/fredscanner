@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 23:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 23:31:38 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:18 pm</title>
+      <description>39200 BLOCK IRISH CORNER RD Radio: 6B Units: E51</description>
+      <guid isPermaLink="false">2025-09-27 19:18:00</guid>
+      <pubDate>Sat, 27 Sep 2025 19:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:13 pm</title>
+      <description>39200 BLOCK IRISH CORNER RD Radio: 6B Units: E51, A198</description>
+      <guid isPermaLink="false">2025-09-27 19:13:00</guid>
+      <pubDate>Sat, 27 Sep 2025 19:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:04 pm</title>
+      <description>DOBBINS CREEK LN / IRISH CORNER RD Radio: 6DTAC11 Units: E281, R20, T5, EK204</description>
+      <guid isPermaLink="false">2025-09-27 19:04:00</guid>
+      <pubDate>Sat, 27 Sep 2025 19:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:10 pm</title>
       <description>14900 BLOCK SABILLASVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
@@ -288,24 +306,6 @@
       <description>DOLLYHYDE RD / EMERSON BURRIER RD Radio: 9C Units: E172</description>
       <guid isPermaLink="false">2025-09-26 07:58:00</guid>
       <pubDate>Fri, 26 Sep 2025 07:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:38 am</title>
-      <description>1900 BLOCK QUEBEC SCHOOL RD Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2025-09-26 07:38:00</guid>
-      <pubDate>Fri, 26 Sep 2025 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:15 am</title>
-      <description>600 BLOCK SOUDER RD, BRUNSWICK FARM &amp; HOME Radio: 9C Units: RE52</description>
-      <guid isPermaLink="false">2025-09-26 07:15:00</guid>
-      <pubDate>Fri, 26 Sep 2025 07:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:04 am</title>
-      <description>3800 BLOCK SUGARLOAF PKWY Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-09-26 07:04:00</guid>
-      <pubDate>Fri, 26 Sep 2025 07:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
