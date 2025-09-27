@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 19:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 20:02:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:55 pm</title>
+      <description>100 BLOCK FREDERICK ST, TANERY BARN Units: E61</description>
+      <guid isPermaLink="false">2025-09-27 15:55:00</guid>
+      <pubDate>Sat, 27 Sep 2025 15:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:52 pm</title>
+      <description>9200 BLOCK BLUE SAGE CT Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-09-27 15:52:00</guid>
+      <pubDate>Sat, 27 Sep 2025 15:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:47 pm</title>
+      <description>1800 BLOCK FRANCES SCOTT KEY HWY Units: E91, K9, TW6, E61</description>
+      <guid isPermaLink="false">2025-09-27 15:47:00</guid>
+      <pubDate>Sat, 27 Sep 2025 15:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:47 pm</title>
+      <description>1800 BLOCK FRANCES SCOTT KEY HWY Units: E132</description>
+      <guid isPermaLink="false">2025-09-27 15:47:00</guid>
+      <pubDate>Sat, 27 Sep 2025 15:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:42 pm</title>
       <description>600 BLOCK HIMES AVE, OVERLOOK APTS - 600 BLOCK HIMES AVE Radio: 9C Units: E11, TT4</description>
@@ -282,30 +306,6 @@
       <description>1700 BLOCK EAGLE ROCK LN Units: E11</description>
       <guid isPermaLink="false">2025-09-26 01:20:00</guid>
       <pubDate>Fri, 26 Sep 2025 01:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:10 am</title>
-      <description>300 BLOCK S SETON AVE, DAUGHTERS OF CHARITY Units: E61, TW6</description>
-      <guid isPermaLink="false">2025-09-26 01:10:00</guid>
-      <pubDate>Fri, 26 Sep 2025 01:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:45 pm</title>
-      <description>E SOUTH ST / MONOCACY BLVD Units: A38, ALS2, E31, EMS901</description>
-      <guid isPermaLink="false">2025-09-25 22:45:00</guid>
-      <pubDate>Thu, 25 Sep 2025 22:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:13 pm</title>
-      <description>3800 BLOCK SUGARLOAF PKWY Units: E251</description>
-      <guid isPermaLink="false">2025-09-25 22:13:00</guid>
-      <pubDate>Thu, 25 Sep 2025 22:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:10 pm</title>
-      <description>PETERS RD / RODERICK RD Units: A239, TT23</description>
-      <guid isPermaLink="false">2025-09-25 22:10:00</guid>
-      <pubDate>Thu, 25 Sep 2025 22:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
