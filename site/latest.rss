@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Sep 2025 22:32:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 23:02:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:49 pm</title>
+      <description>100 BLOCK W ALL SAINTS ST Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-09-28 18:49:00</guid>
+      <pubDate>Sun, 28 Sep 2025 18:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:42 pm</title>
+      <description>3100 BLOCK HERB GARDEN MEWS N Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-09-28 18:42:00</guid>
+      <pubDate>Sun, 28 Sep 2025 18:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:36 pm</title>
+      <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2025-09-28 18:36:00</guid>
+      <pubDate>Sun, 28 Sep 2025 18:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 5:40 pm</title>
       <description>6700 BLOCK AMERICAN HOLLY DR Radio: 9C Units: PE311, E33, TW1</description>
@@ -288,24 +306,6 @@
       <description>COLUMBUS AVE / CATOCTIN AVE Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2025-09-27 07:39:00</guid>
       <pubDate>Sat, 27 Sep 2025 07:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:30 am</title>
-      <description>1000 BLOCK CARLTON PL, Apt/Unit:2B, WESTWINDS APTS - 1000 BLOCK CARLTON PL Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-09-27 05:30:00</guid>
-      <pubDate>Sat, 27 Sep 2025 05:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:23 am</title>
-      <description>8700 BLOCK ROSEHAVEN LN Radio: 9B Units: E331, TT4</description>
-      <guid isPermaLink="false">2025-09-27 04:23:00</guid>
-      <pubDate>Sat, 27 Sep 2025 04:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:33 pm</title>
-      <description>400 BLOCK E MAIN ST, THURMONT MIDDLE SCHOOL Units: PE102, A307</description>
-      <guid isPermaLink="false">2025-09-26 21:33:00</guid>
-      <pubDate>Fri, 26 Sep 2025 21:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
