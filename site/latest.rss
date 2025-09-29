@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 09:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 09:35:19 +0000</lastBuildDate>
+    <item>
+      <title>DUMPSTER FIRE: 5:03 am</title>
+      <description>900 BLOCK PUMPING STATION RD Units: EK64</description>
+      <guid isPermaLink="false">2025-09-29 05:03:00</guid>
+      <pubDate>Mon, 29 Sep 2025 05:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:51 am</title>
       <description>100 BLOCK WATER LAND CT Units: E11</description>
@@ -298,12 +304,6 @@
     <item>
       <title>BUILDING FIRE: 3:47 pm</title>
       <description>1800 BLOCK FRANCES SCOTT KEY HWY Units: E91, K9, TW6, E61</description>
-      <guid isPermaLink="false">2025-09-27 15:47:00</guid>
-      <pubDate>Sat, 27 Sep 2025 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:47 pm</title>
-      <description>1800 BLOCK FRANCES SCOTT KEY HWY Units: E132</description>
       <guid isPermaLink="false">2025-09-27 15:47:00</guid>
       <pubDate>Sat, 27 Sep 2025 15:47:00 -0400</pubDate>
     </item>
