@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 22:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 22:31:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:26 pm</title>
+      <description>6600 BLOCK GREEN VALLEY RD Radio: 9B Units: A159, E152</description>
+      <guid isPermaLink="false">2025-09-29 18:26:00</guid>
+      <pubDate>Mon, 29 Sep 2025 18:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:22 pm</title>
+      <description>2100 BLOCK WHITTIER DR, Bldg:B, SOMERFORD PLACE - WHITTIER Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-09-29 18:22:00</guid>
+      <pubDate>Mon, 29 Sep 2025 18:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:19 pm</title>
+      <description>7400 BLOCK WESTVALE CT, IAO Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-09-29 18:19:00</guid>
+      <pubDate>Mon, 29 Sep 2025 18:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 4:20 pm</title>
       <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES Radio: 9C Units: PE311</description>
@@ -288,24 +306,6 @@
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
       <guid isPermaLink="false">2025-09-28 01:28:00</guid>
       <pubDate>Sun, 28 Sep 2025 01:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:21 pm</title>
-      <description>100 BLOCK S COURT ST Radio: 9B Units: A39, TT4</description>
-      <guid isPermaLink="false">2025-09-27 23:21:00</guid>
-      <pubDate>Sat, 27 Sep 2025 23:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:23 pm</title>
-      <description>3400 BLOCK FLATWOODS DR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-09-27 20:23:00</guid>
-      <pubDate>Sat, 27 Sep 2025 20:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:07 pm</title>
-      <description>1400 BLOCK BAKER PL W, Apt/Unit:12, RESIDENCES AT THE MANOR - 1408 BAKER PL Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-27 20:07:00</guid>
-      <pubDate>Sat, 27 Sep 2025 20:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
