@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 22:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 23:02:17 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:27 pm</title>
+      <description>300 BLOCK PROSPECT BLVD Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-09-29 18:27:00</guid>
+      <pubDate>Mon, 29 Sep 2025 18:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:26 pm</title>
       <description>6600 BLOCK GREEN VALLEY RD Radio: 9B Units: A159, E152</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK GALENA DR, Bldg:8, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2025-09-28 03:03:00</guid>
       <pubDate>Sun, 28 Sep 2025 03:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:28 am</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
-      <guid isPermaLink="false">2025-09-28 01:28:00</guid>
-      <pubDate>Sun, 28 Sep 2025 01:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
