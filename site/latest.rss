@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 14:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 14:35:52 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:18 am</title>
+      <description>100 BLOCK IVY HILL DR Radio: 9C Units: RE74</description>
+      <guid isPermaLink="false">2025-09-29 10:18:00</guid>
+      <pubDate>Mon, 29 Sep 2025 10:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:02 am</title>
+      <description>100 BLOCK RECORD ST Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-09-29 10:02:00</guid>
+      <pubDate>Mon, 29 Sep 2025 10:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 9:16 am</title>
       <description>5400 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK DISTRICT PARK Radio: 9D Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>14900 BLOCK SABILLASVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2025-09-27 17:10:00</guid>
       <pubDate>Sat, 27 Sep 2025 17:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:45 pm</title>
-      <description>4700 BLOCK YARD WASTE CT, COUNTY LANDFILL TRANSFER STATION Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2025-09-27 16:45:00</guid>
-      <pubDate>Sat, 27 Sep 2025 16:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 4:26 pm</title>
-      <description>1800 BLOCK COLT LN Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-09-27 16:26:00</guid>
-      <pubDate>Sat, 27 Sep 2025 16:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
