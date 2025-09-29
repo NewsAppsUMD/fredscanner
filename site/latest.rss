@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 23:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 23:31:43 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:24 pm</title>
+      <description>1000 BLOCK N MARKET ST Radio: 9C Units: E33, E502, E291, PE311, R3, A28, ALS2, BC902, BC901, SAF901, TT23</description>
+      <guid isPermaLink="false">2025-09-29 19:24:00</guid>
+      <pubDate>Mon, 29 Sep 2025 19:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:22 pm</title>
+      <description>1000 BLOCK N MARKET ST Radio: 9C Units: PE23, TW1</description>
+      <guid isPermaLink="false">2025-09-29 19:22:00</guid>
+      <pubDate>Mon, 29 Sep 2025 19:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:27 pm</title>
       <description>300 BLOCK PROSPECT BLVD Radio: 9C Units: E33</description>
@@ -294,18 +306,6 @@
       <description>1300 BLOCK BOUNDARY PEAK TER Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-09-28 04:59:00</guid>
       <pubDate>Sun, 28 Sep 2025 04:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:49 am</title>
-      <description>2100 BLOCK WHITTIER DR, Bldg:A, SOMERFORD HOUSE - WHITTIER Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-09-28 03:49:00</guid>
-      <pubDate>Sun, 28 Sep 2025 03:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:03 am</title>
-      <description>3300 BLOCK GALENA DR, Bldg:8, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-09-28 03:03:00</guid>
-      <pubDate>Sun, 28 Sep 2025 03:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
