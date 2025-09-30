@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 16:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 17:02:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 12:49 pm</title>
+      <description>400 BLOCK E PATRICK ST, Bldg:A, Apt/Unit:STE B, EXPRESS CONVENIENCE STORE - FAIRGROUNDS CENTER Radio: 9D Units: PE23, R3, A39, ALS4, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-09-30 12:49:00</guid>
+      <pubDate>Tue, 30 Sep 2025 12:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:45 pm</title>
+      <description>100 BLOCK OVERCREEK CT Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-09-30 12:45:00</guid>
+      <pubDate>Tue, 30 Sep 2025 12:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:42 pm</title>
+      <description>3500 BLOCK WINTHROP LN Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2025-09-30 12:42:00</guid>
+      <pubDate>Tue, 30 Sep 2025 12:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:06 pm</title>
       <description>POINT OF ROCKS RD / LANDER RD Radio: 9D Units: E281, R20, A209, ALS20, BC903, EMS902</description>
@@ -288,24 +306,6 @@
       <description>3100 BLOCK HERB GARDEN MEWS N Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-09-28 18:42:00</guid>
       <pubDate>Sun, 28 Sep 2025 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:36 pm</title>
-      <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2025-09-28 18:36:00</guid>
-      <pubDate>Sun, 28 Sep 2025 18:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:40 pm</title>
-      <description>6700 BLOCK AMERICAN HOLLY DR Radio: 9C Units: PE311, E33, TW1</description>
-      <guid isPermaLink="false">2025-09-28 17:40:00</guid>
-      <pubDate>Sun, 28 Sep 2025 17:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 4:12 pm</title>
-      <description>8000 BLOCK RAMSBURG RD Radio: 9C Units: E111, E221</description>
-      <guid isPermaLink="false">2025-09-28 16:12:00</guid>
-      <pubDate>Sun, 28 Sep 2025 16:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
