@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 03:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 03:38:58 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:13 pm</title>
+      <description>200 BLOCK CRAMER AVE Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-09-29 23:13:00</guid>
+      <pubDate>Mon, 29 Sep 2025 23:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:29 pm</title>
       <description>4700 BLOCK VONA LN Units: PE311, E201, R14</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCKA WHITTIER DR Radio: 9C Units: E11, TT4</description>
       <guid isPermaLink="false">2025-09-28 07:49:00</guid>
       <pubDate>Sun, 28 Sep 2025 07:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:09 am</title>
-      <description>1000 BLOCK CARLTON PL, Apt/Unit:2B, WESTWINDS APTS - 1000 BLOCK CARLTON PL Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-09-28 06:09:00</guid>
-      <pubDate>Sun, 28 Sep 2025 06:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
