@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 14:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 14:35:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:26 am</title>
+      <description>1300 BLOCK HUGHES FORD RD, S &amp; V PARTNERSHIP Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2025-10-01 10:26:00</guid>
+      <pubDate>Wed, 01 Oct 2025 10:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:38 am</title>
       <description>2700 BLOCK OSPREY WAY Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK RECORD ST Radio: 9C Units: E33, TT4</description>
       <guid isPermaLink="false">2025-09-29 16:04:00</guid>
       <pubDate>Mon, 29 Sep 2025 16:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 1:55 pm</title>
-      <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: ALS20, E281</description>
-      <guid isPermaLink="false">2025-09-29 13:55:00</guid>
-      <pubDate>Mon, 29 Sep 2025 13:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
