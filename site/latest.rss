@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 15:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 15:33:48 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:02 am</title>
+      <description>5500 BLOCK YOUNG FAMILY TRL W Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2025-10-01 11:02:00</guid>
+      <pubDate>Wed, 01 Oct 2025 11:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:26 am</title>
       <description>1300 BLOCK HUGHES FORD RD, S &amp; V PARTNERSHIP Radio: 9C Units: E33, TT4</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-09-29 16:20:00</guid>
       <pubDate>Mon, 29 Sep 2025 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:04 pm</title>
-      <description>100 BLOCK RECORD ST Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-09-29 16:04:00</guid>
-      <pubDate>Mon, 29 Sep 2025 16:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
