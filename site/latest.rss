@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 13:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 13:35:49 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 9:30 am</title>
+      <description>10600 BLOCK GREEN VALLEY RD Radio: 9D Units: E91, E132, EK114, K9</description>
+      <guid isPermaLink="false">2025-10-02 09:30:00</guid>
+      <pubDate>Thu, 02 Oct 2025 09:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:30 am</title>
+      <description>10600 BLOCK GREEN VALLEY RD Radio: 9D Units: E251, E331, PE23, R24, EK134, K33</description>
+      <guid isPermaLink="false">2025-10-02 09:30:00</guid>
+      <pubDate>Thu, 02 Oct 2025 09:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:24 am</title>
+      <description>10600 BLOCK GREEN VALLEY RD Radio: 9D Units: E172, E162, E91, E111, E132, TW1, R15, K17, EK114, A179, ALS17, K9, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2025-10-02 09:24:00</guid>
+      <pubDate>Thu, 02 Oct 2025 09:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 9:22 am</title>
+      <description>5200 BLOCK WESTVIEW DR, Apt/Unit:323, EXTENDED STAY AMERICA Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-10-02 09:22:00</guid>
+      <pubDate>Thu, 02 Oct 2025 09:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
       <description>600 BLOCK NINTH AVE, BRUNSWICK MEDICAL CENTER Radio: 9C Units: E51, T5</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK CLARKE PL, Bldg:7, MSD - ELY BUILDING-AUDITORIUM Radio: 9C Units: E33, PE23, R3</description>
       <guid isPermaLink="false">2025-09-30 15:21:00</guid>
       <pubDate>Tue, 30 Sep 2025 15:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:37 pm</title>
-      <description>5400 BLOCK OLD NATIONAL PIKE Radio: 9B Units: E121</description>
-      <guid isPermaLink="false">2025-09-30 13:37:00</guid>
-      <pubDate>Tue, 30 Sep 2025 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 12:49 pm</title>
-      <description>400 BLOCK E PATRICK ST, Bldg:A, Apt/Unit:STE B, EXPRESS CONVENIENCE STORE - FAIRGROUNDS CENTER Radio: 9D Units: PE23, R3, A39, ALS4, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-09-30 12:49:00</guid>
-      <pubDate>Tue, 30 Sep 2025 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:45 pm</title>
-      <description>100 BLOCK OVERCREEK CT Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-09-30 12:45:00</guid>
-      <pubDate>Tue, 30 Sep 2025 12:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:42 pm</title>
-      <description>3500 BLOCK WINTHROP LN Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-09-30 12:42:00</guid>
-      <pubDate>Tue, 30 Sep 2025 12:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
