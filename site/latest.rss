@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 00:06:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:46:29 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:42 pm</title>
+      <description>6200 BLOCK STONECAT CT Radio: 9C Units: A339</description>
+      <guid isPermaLink="false">2025-10-01 20:42:00</guid>
+      <pubDate>Wed, 01 Oct 2025 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:42 pm</title>
+      <description>6200 BLOCK STONECAT CT Radio: 9C Units: A339</description>
+      <guid isPermaLink="false">2025-10-01 20:42:00</guid>
+      <pubDate>Wed, 01 Oct 2025 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:42 pm</title>
+      <description>6200 BLOCK STONECAT CT Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-10-01 20:42:00</guid>
+      <pubDate>Wed, 01 Oct 2025 20:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:40 pm</title>
+      <description>6700 BLOCK MEADOWSIDE DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-10-01 20:40:00</guid>
+      <pubDate>Wed, 01 Oct 2025 20:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 8:26 pm</title>
+      <description>11700 BLOCK GLENWOOD CT Units: E251</description>
+      <guid isPermaLink="false">2025-10-01 20:26:00</guid>
+      <pubDate>Wed, 01 Oct 2025 20:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:55 pm</title>
       <description>100 BLOCK CLARKE PL, Bldg:4, MSD - KLIPP-REDMOND HALL Radio: 9C Units: E33, PE23, R3</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK BLK RAMP RT4100 BLOCKEB TO RT15SB RAMP Radio: 9B Units: A38, E11</description>
       <guid isPermaLink="false">2025-09-30 10:05:00</guid>
       <pubDate>Tue, 30 Sep 2025 10:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:56 am</title>
-      <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2025-09-30 09:56:00</guid>
-      <pubDate>Tue, 30 Sep 2025 09:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:35 am</title>
-      <description>200 BLOCK W SECOND AVE, STATION JC004 - INDEPENDENT FC Units: A196</description>
-      <guid isPermaLink="false">2025-09-30 09:35:00</guid>
-      <pubDate>Tue, 30 Sep 2025 09:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:32 am</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-09-30 09:32:00</guid>
-      <pubDate>Tue, 30 Sep 2025 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
-      <description>3300 BLOCK GALENA DR, Apt/Unit:8, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-09-30 08:12:00</guid>
-      <pubDate>Tue, 30 Sep 2025 08:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:23 am</title>
-      <description>3300 BLOCK GALENA DR, Bldg:8, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-09-30 07:23:00</guid>
-      <pubDate>Tue, 30 Sep 2025 07:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
