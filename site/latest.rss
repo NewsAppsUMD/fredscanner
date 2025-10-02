@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 17:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 17:32:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:25 pm</title>
+      <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-10-02 13:25:00</guid>
+      <pubDate>Thu, 02 Oct 2025 13:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:44 pm</title>
       <description>8400 BLOCK PINE BLUFF RD Radio: 9C Units: E331</description>
@@ -300,12 +306,6 @@
       <description>APPROX LOC:15S BTWN RAMP FROM RT 40 TO RAMP FROM JEFFERSON ST HWY Units: E33, PE23, R3, A19, A39</description>
       <guid isPermaLink="false">2025-09-30 21:50:00</guid>
       <pubDate>Tue, 30 Sep 2025 21:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:40 pm</title>
-      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:C308, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-09-30 21:40:00</guid>
-      <pubDate>Tue, 30 Sep 2025 21:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
