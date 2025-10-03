@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 12:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 13:07:41 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 8:49 am</title>
+      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:107, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E502, E33</description>
+      <guid isPermaLink="false">2025-10-03 08:49:00</guid>
+      <pubDate>Fri, 03 Oct 2025 08:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:56 am</title>
       <description>MONOCACY BLVD / LIBERTY RD Radio: 9B Units: A249, E111</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9C Units: PE102</description>
       <guid isPermaLink="false">2025-10-01 17:40:00</guid>
       <pubDate>Wed, 01 Oct 2025 17:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:51 pm</title>
-      <description>100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-01 16:51:00</guid>
-      <pubDate>Wed, 01 Oct 2025 16:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
