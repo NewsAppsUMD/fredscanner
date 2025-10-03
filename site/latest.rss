@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 19:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 19:31:38 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 3:21 pm</title>
+      <description>9500 BLOCK CATOCTIN MOUNTAIN HWY, RESTHAVEN MEMORIAL GARDENS Radio: 9C Units: A229</description>
+      <guid isPermaLink="false">2025-10-03 15:21:00</guid>
+      <pubDate>Fri, 03 Oct 2025 15:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 3:01 pm</title>
+      <description>9500 BLOCK CATOCTIN MOUNTAIN HWY, RESTHAVEN MEMORIAL GARDENS Radio: 9C Units: K1</description>
+      <guid isPermaLink="false">2025-10-03 15:01:00</guid>
+      <pubDate>Fri, 03 Oct 2025 15:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:59 pm</title>
       <description>1100 BLOCK W PATRICK ST Radio: 9C Units: E11, TT4</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK STONECAT CT Radio: 9C Units: A339</description>
       <guid isPermaLink="false">2025-10-01 20:42:00</guid>
       <pubDate>Wed, 01 Oct 2025 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:42 pm</title>
-      <description>6200 BLOCK STONECAT CT Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-10-01 20:42:00</guid>
-      <pubDate>Wed, 01 Oct 2025 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:40 pm</title>
-      <description>6700 BLOCK MEADOWSIDE DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-01 20:40:00</guid>
-      <pubDate>Wed, 01 Oct 2025 20:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
