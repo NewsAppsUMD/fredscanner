@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 14:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 15:02:21 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:36 am</title>
+      <description>2800 BLOCK IVY MEADOW CT Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-10-03 10:36:00</guid>
+      <pubDate>Fri, 03 Oct 2025 10:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:45 am</title>
       <description>WAVERLEY DR / W PATRICK ST, CASA RICO RESTAURANT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9B Units: E11</description>
@@ -300,12 +306,6 @@
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: RE74</description>
       <guid isPermaLink="false">2025-10-01 17:47:00</guid>
       <pubDate>Wed, 01 Oct 2025 17:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:43 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: E82, R8, A89</description>
-      <guid isPermaLink="false">2025-10-01 17:43:00</guid>
-      <pubDate>Wed, 01 Oct 2025 17:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
