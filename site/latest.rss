@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 23:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 23:31:39 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:07 pm</title>
+      <description>300 BLOCK THOMAS AVE Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-10-04 19:07:00</guid>
+      <pubDate>Sat, 04 Oct 2025 19:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
       <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Units: E281</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:107, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E502, E33</description>
       <guid isPermaLink="false">2025-10-03 08:49:00</guid>
       <pubDate>Fri, 03 Oct 2025 08:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:56 am</title>
-      <description>MONOCACY BLVD / LIBERTY RD Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2025-10-03 07:56:00</guid>
-      <pubDate>Fri, 03 Oct 2025 07:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
