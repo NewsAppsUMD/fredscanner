@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Oct 2025 15:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 15:31:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:26 am</title>
+      <description>5900 BLOCK QUINN RD Radio: 9C Units: E331, E152, R15, K33</description>
+      <guid isPermaLink="false">2025-10-04 11:26:00</guid>
+      <pubDate>Sat, 04 Oct 2025 11:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:05 am</title>
+      <description>1500 BLOCK W PATRICK ST, Apt/Unit:STE 5, THE BIG EASY - VIENNA PLAZA Radio: 9D Units: A19</description>
+      <guid isPermaLink="false">2025-10-04 11:05:00</guid>
+      <pubDate>Sat, 04 Oct 2025 11:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
       <description>1500 BLOCK W PATRICK ST, Apt/Unit:STE 5, THE BIG EASY - VIENNA PLAZA Radio: 9D Units: E121, R3, ALS29, BC903, EMS902</description>
@@ -294,18 +306,6 @@
       <description>8400 BLOCK PINE BLUFF RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-10-02 12:44:00</guid>
       <pubDate>Thu, 02 Oct 2025 12:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:13 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
-      <guid isPermaLink="false">2025-10-02 10:13:00</guid>
-      <pubDate>Thu, 02 Oct 2025 10:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:57 am</title>
-      <description>10600 BLOCK GREEN VALLEY RD Radio: 9D Units: CAN1</description>
-      <guid isPermaLink="false">2025-10-02 09:57:00</guid>
-      <pubDate>Thu, 02 Oct 2025 09:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
