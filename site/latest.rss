@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 18:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 18:36:22 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 2:26 pm</title>
+      <description>5800 BLOCK UNION RIDGE DR Units: E141, E281, R20</description>
+      <guid isPermaLink="false">2025-10-05 14:26:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:25 pm</title>
+      <description>RT15SB / 24MM, RT15SB / 24MM Radio: 9D Units: A249</description>
+      <guid isPermaLink="false">2025-10-05 14:25:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:24 pm</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
+      <guid isPermaLink="false">2025-10-05 14:24:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:22 pm</title>
+      <description>RT15SB / 24MM, RT15SB / 24MM Radio: 9D Units: ALS17</description>
+      <guid isPermaLink="false">2025-10-05 14:22:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:20 pm</title>
+      <description>RT15SB / 24MM, RT15SB / 24MM Units: E102, R10, A307, PE23, E221, BC902, EMS900</description>
+      <guid isPermaLink="false">2025-10-05 14:20:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:03 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2025-10-05 14:03:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:02 pm</title>
+      <description>3200 BLOCK IVY MEADOW DR Units: TT23</description>
+      <guid isPermaLink="false">2025-10-05 14:02:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 1:22 pm</title>
       <description>RT15NB / ANGLEBERGER RD, RT15NB / ANGLEBERGER RD Radio: 9D Units: A307, ALS29</description>
@@ -264,48 +306,6 @@
       <description>7000 BLOCK CLUB HOUSE CIR Radio: 9C Units: E152, E172, R15</description>
       <guid isPermaLink="false">2025-10-04 02:35:00</guid>
       <pubDate>Sat, 04 Oct 2025 02:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:33 pm</title>
-      <description>2600 BLOCK MONOCACY FORD RD Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2025-10-03 23:33:00</guid>
-      <pubDate>Fri, 03 Oct 2025 23:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:44 pm</title>
-      <description>I70EB / 48MM, I70EB / 48MM Radio: 9B Units: EMS901</description>
-      <guid isPermaLink="false">2025-10-03 22:44:00</guid>
-      <pubDate>Fri, 03 Oct 2025 22:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:35 pm</title>
-      <description>I70EB / 48MM, I70EB / 48MM Radio: 9B Units: ALS8</description>
-      <guid isPermaLink="false">2025-10-03 22:35:00</guid>
-      <pubDate>Fri, 03 Oct 2025 22:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:23 pm</title>
-      <description>I70EB / 48MM, I70EB / 48MM Radio: 9B Units: E72, E121, R8, A89</description>
-      <guid isPermaLink="false">2025-10-03 22:23:00</guid>
-      <pubDate>Fri, 03 Oct 2025 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:39 pm</title>
-      <description>900 BLOCK JUBAL WAY Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2025-10-03 21:39:00</guid>
-      <pubDate>Fri, 03 Oct 2025 21:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:37 pm</title>
-      <description>15100 BLOCK CLOVER HILL RD Radio: 6DTAC11 Units: E51, E281</description>
-      <guid isPermaLink="false">2025-10-03 21:37:00</guid>
-      <pubDate>Fri, 03 Oct 2025 21:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:10 pm</title>
-      <description>34300 BLOCK CHARLES TOWN PIKE SWEET SPRINGS LIBERTY GAS STA, SWEET SPRINGS LIBERTY GAS STA Radio: 6DTAC11 Units: R20, T5</description>
-      <guid isPermaLink="false">2025-10-03 21:10:00</guid>
-      <pubDate>Fri, 03 Oct 2025 21:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
