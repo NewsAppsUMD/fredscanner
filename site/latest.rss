@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Oct 2025 18:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 19:02:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:53 pm</title>
+      <description>RT15SB / 24MM, RT15SB / 24MM Radio: 9D Units: E102, E221</description>
+      <guid isPermaLink="false">2025-10-05 14:53:00</guid>
+      <pubDate>Sun, 05 Oct 2025 14:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 2:26 pm</title>
       <description>5800 BLOCK UNION RIDGE DR Units: E141, E281, R20</description>
@@ -300,12 +306,6 @@
       <description>7000 BLOCK CLUB HOUSE CIR Radio: 9C Units: Q11</description>
       <guid isPermaLink="false">2025-10-04 02:40:00</guid>
       <pubDate>Sat, 04 Oct 2025 02:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 2:35 am</title>
-      <description>7000 BLOCK CLUB HOUSE CIR Radio: 9C Units: E152, E172, R15</description>
-      <guid isPermaLink="false">2025-10-04 02:35:00</guid>
-      <pubDate>Sat, 04 Oct 2025 02:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
