@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 19:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 19:31:40 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 3:07 pm</title>
+      <description>200 BLOCK WATERSVILLE RD, PARK RIDGE ELEM Units: R15</description>
+      <guid isPermaLink="false">2025-10-06 15:07:00</guid>
+      <pubDate>Mon, 06 Oct 2025 15:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:50 pm</title>
       <description>500 BLOCK S MARKET ST Radio: 9C Units: E33</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK EAST ST Radio: 9D Units: PE102, E61, E132, TW6, A229, E221, BC902, SAF901</description>
       <guid isPermaLink="false">2025-10-04 19:53:00</guid>
       <pubDate>Sat, 04 Oct 2025 19:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:07 pm</title>
-      <description>300 BLOCK THOMAS AVE Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2025-10-04 19:07:00</guid>
-      <pubDate>Sat, 04 Oct 2025 19:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
