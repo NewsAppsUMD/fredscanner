@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Oct 2025 16:37:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 17:02:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:50 pm</title>
+      <description>500 BLOCK S MARKET ST Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-10-06 12:50:00</guid>
+      <pubDate>Mon, 06 Oct 2025 12:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:16 am</title>
       <description>3000 BLOCK BASFORD RD Units: E281</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK THOMAS AVE Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2025-10-04 19:07:00</guid>
       <pubDate>Sat, 04 Oct 2025 19:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
-      <description>RT15 @ POTOMAC RIVER BRIDGE HWY / POTOMAC RIVER Units: E281</description>
-      <guid isPermaLink="false">2025-10-04 17:58:00</guid>
-      <pubDate>Sat, 04 Oct 2025 17:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
