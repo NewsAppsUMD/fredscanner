@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 10:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 11:02:16 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:51 am</title>
+      <description>3900 BLOCK POINT OF ROCKS RD Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2025-10-07 06:51:00</guid>
+      <pubDate>Tue, 07 Oct 2025 06:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-10-07 06:46:00</guid>
+      <pubDate>Tue, 07 Oct 2025 06:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:18 am</title>
       <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>C&amp;O CANAL LOCKHOUSE 33, C&amp;O CANAL LOCKHOUSE 33 Units: BT19</description>
       <guid isPermaLink="false">2025-10-05 13:07:00</guid>
       <pubDate>Sun, 05 Oct 2025 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:44 pm</title>
-      <description>S MARKET ST / MOUNT OLIVET BLVD Units: A38, ALS4, R3, EMS902</description>
-      <guid isPermaLink="false">2025-10-05 12:44:00</guid>
-      <pubDate>Sun, 05 Oct 2025 12:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:27 pm</title>
-      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Units: E291, Q11</description>
-      <guid isPermaLink="false">2025-10-05 12:27:00</guid>
-      <pubDate>Sun, 05 Oct 2025 12:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
