@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 15:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 16:02:21 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:51 am</title>
+      <description>4300 BLOCK MILLWOOD RD Units: E331</description>
+      <guid isPermaLink="false">2025-10-07 11:51:00</guid>
+      <pubDate>Tue, 07 Oct 2025 11:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:49 am</title>
+      <description>4300 BLOCK MILLWOOD RD Units: A259, ALS23</description>
+      <guid isPermaLink="false">2025-10-07 11:49:00</guid>
+      <pubDate>Tue, 07 Oct 2025 11:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:46 am</title>
+      <description>4300 BLOCK MILLWOOD RD Units: E251, E152, R3, TT4, BC901, BC903, SAF901, TT23</description>
+      <guid isPermaLink="false">2025-10-07 11:46:00</guid>
+      <pubDate>Tue, 07 Oct 2025 11:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:56 am</title>
       <description>100 BLOCK ALESSANDRA CT, CRYSTAL PARK APTS - 100 BLOCK ALESSANDRA CT Radio: 9D Units: E11, R3, A18, ALS2, EMS902</description>
@@ -288,24 +306,6 @@
       <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
       <guid isPermaLink="false">2025-10-05 14:24:00</guid>
       <pubDate>Sun, 05 Oct 2025 14:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:22 pm</title>
-      <description>RT15SB / 24MM, RT15SB / 24MM Radio: 9D Units: ALS17</description>
-      <guid isPermaLink="false">2025-10-05 14:22:00</guid>
-      <pubDate>Sun, 05 Oct 2025 14:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:20 pm</title>
-      <description>RT15SB / 24MM, RT15SB / 24MM Units: E102, R10, A307, PE23, E221, BC902, EMS900</description>
-      <guid isPermaLink="false">2025-10-05 14:20:00</guid>
-      <pubDate>Sun, 05 Oct 2025 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:03 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2025-10-05 14:03:00</guid>
-      <pubDate>Sun, 05 Oct 2025 14:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
