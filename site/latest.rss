@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 07:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 08:02:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:52 am</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9B Units: E33</description>
+      <guid isPermaLink="false">2025-10-08 03:52:00</guid>
+      <pubDate>Wed, 08 Oct 2025 03:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:35 am</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9B Units: EMS901</description>
+      <guid isPermaLink="false">2025-10-08 03:35:00</guid>
+      <pubDate>Wed, 08 Oct 2025 03:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:33 am</title>
+      <description>I70WB / 62MM, I70WB / 62MM Radio: 9B Units: E152, E331, R15, A158, A339</description>
+      <guid isPermaLink="false">2025-10-08 03:33:00</guid>
+      <pubDate>Wed, 08 Oct 2025 03:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:03 pm</title>
       <description>11300 BLOCK LIBERTY RD, DOLLAR GENERAL - LIBERTYTOWN SHOPPING CENTER Units: A179, RE171</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES Radio: 9C Units: E311</description>
       <guid isPermaLink="false">2025-10-05 22:30:00</guid>
       <pubDate>Sun, 05 Oct 2025 22:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:10 pm</title>
-      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Units: A196</description>
-      <guid isPermaLink="false">2025-10-05 22:10:00</guid>
-      <pubDate>Sun, 05 Oct 2025 22:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:00 pm</title>
-      <description>6300 BLOCK WALCOTT LN Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-10-05 20:00:00</guid>
-      <pubDate>Sun, 05 Oct 2025 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:06 pm</title>
-      <description>I70WB / 35MM Units: A89, ALS8</description>
-      <guid isPermaLink="false">2025-10-05 19:06:00</guid>
-      <pubDate>Sun, 05 Oct 2025 19:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
