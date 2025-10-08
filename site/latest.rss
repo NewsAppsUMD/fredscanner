@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 22:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 23:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:25 pm</title>
+      <description>RT15NB / DEVILBISS BRIDGE RD, RT15NB / DEVILBISS BRIDGE RD Radio: 9B Units: A248, E291, E221</description>
+      <guid isPermaLink="false">2025-10-08 18:25:00</guid>
+      <pubDate>Wed, 08 Oct 2025 18:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE ALARM SPECIFY: 6:14 pm</title>
+      <description>3300 BLOCK PURPLE SAGE MEWS Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-10-08 18:14:00</guid>
+      <pubDate>Wed, 08 Oct 2025 18:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 5:54 pm</title>
       <description>3600 BLOCK SPRIGG ST S Radio: 9C Units: E231, E251, TT23</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2025-10-07 06:46:00</guid>
       <pubDate>Tue, 07 Oct 2025 06:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:18 am</title>
-      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-10-07 05:18:00</guid>
-      <pubDate>Tue, 07 Oct 2025 05:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:19 am</title>
-      <description>2600 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2025-10-07 04:19:00</guid>
-      <pubDate>Tue, 07 Oct 2025 04:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
