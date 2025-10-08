@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Oct 2025 15:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 15:34:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:17 am</title>
+      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Radio: 9C Units: E33, TW1</description>
+      <guid isPermaLink="false">2025-10-08 11:17:00</guid>
+      <pubDate>Wed, 08 Oct 2025 11:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:11 am</title>
+      <description>200 BLOCK E PATRICK ST, FREDERICK POST OFFICE - E PATRICK ST Radio: 9B Units: A39, TT4</description>
+      <guid isPermaLink="false">2025-10-08 11:11:00</guid>
+      <pubDate>Wed, 08 Oct 2025 11:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 11:10 am</title>
+      <description>10200 BLOCK WHITE PELICAN WAY Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-10-08 11:10:00</guid>
+      <pubDate>Wed, 08 Oct 2025 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:06 am</title>
+      <description>5100 BLOCK BUCKEYSTOWN PIKE, STATE HIGHWAY ADMINISTRATION Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-10-08 11:06:00</guid>
+      <pubDate>Wed, 08 Oct 2025 11:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:48 am</title>
       <description>5100 BLOCK BUCKEYSTOWN PIKE, STATE HIGHWAY ADMINISTRATION Radio: 9C Units: E33</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK CENTRAL AVE, BRUNSWICK ELEMENTARY SCHOOL Radio: 9C Units: E51, T5</description>
       <guid isPermaLink="false">2025-10-06 16:07:00</guid>
       <pubDate>Mon, 06 Oct 2025 16:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:58 pm</title>
-      <description>I70WB / I270-RT15, I70WB / I270-RT15 Radio: 9B Units: E33, E121, R3, A39</description>
-      <guid isPermaLink="false">2025-10-06 15:58:00</guid>
-      <pubDate>Mon, 06 Oct 2025 15:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:07 pm</title>
-      <description>200 BLOCK WATERSVILLE RD, PARK RIDGE ELEM Units: R15</description>
-      <guid isPermaLink="false">2025-10-06 15:07:00</guid>
-      <pubDate>Mon, 06 Oct 2025 15:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:50 pm</title>
-      <description>500 BLOCK S MARKET ST Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2025-10-06 12:50:00</guid>
-      <pubDate>Mon, 06 Oct 2025 12:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:16 am</title>
-      <description>3000 BLOCK BASFORD RD Units: E281</description>
-      <guid isPermaLink="false">2025-10-06 11:16:00</guid>
-      <pubDate>Mon, 06 Oct 2025 11:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
