@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 12:03:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 12:44:09 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:37 am</title>
+      <description>8400 BLOCK GAS HOUSE PIKE, Bldg:EE, FAMILY PARTNERSHIP OF FREDERICK - RIVERSIDE CORPORATE PARK Units: PE23, E33, R3</description>
+      <guid isPermaLink="false">2025-10-09 08:37:00</guid>
+      <pubDate>Thu, 09 Oct 2025 08:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:32 am</title>
+      <description>1000 BLOCK CARLTON PL, WESTWINDS APTS - 1000 BLOCK CARLTON PL Units: E11, TT4</description>
+      <guid isPermaLink="false">2025-10-09 08:32:00</guid>
+      <pubDate>Thu, 09 Oct 2025 08:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:27 am</title>
+      <description>900 BLOCK HOLDEN RD Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2025-10-09 08:27:00</guid>
+      <pubDate>Thu, 09 Oct 2025 08:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
       <description>11600 BLOCK HARP HILL RD Radio: 9B Units: A78, E82, E212</description>
@@ -288,24 +306,6 @@
       <description>5600 BLOCK FARMHOUSE DR Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-10-07 12:27:00</guid>
       <pubDate>Tue, 07 Oct 2025 12:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:15 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: RE74</description>
-      <guid isPermaLink="false">2025-10-07 12:15:00</guid>
-      <pubDate>Tue, 07 Oct 2025 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:13 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: EK64</description>
-      <guid isPermaLink="false">2025-10-07 12:13:00</guid>
-      <pubDate>Tue, 07 Oct 2025 12:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:01 pm</title>
-      <description>4300 BLOCK MILLWOOD RD Units: RID, TW1, A339, EMS901</description>
-      <guid isPermaLink="false">2025-10-07 12:01:00</guid>
-      <pubDate>Tue, 07 Oct 2025 12:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
