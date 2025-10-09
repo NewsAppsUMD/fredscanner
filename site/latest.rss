@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Oct 2025 10:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 11:02:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:45 am</title>
+      <description>I70EB / 37MM Units: A89, E82</description>
+      <guid isPermaLink="false">2025-10-09 06:45:00</guid>
+      <pubDate>Thu, 09 Oct 2025 06:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 2:33 am</title>
       <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9C Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK MILLWOOD RD Units: E331</description>
       <guid isPermaLink="false">2025-10-07 11:51:00</guid>
       <pubDate>Tue, 07 Oct 2025 11:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:49 am</title>
-      <description>4300 BLOCK MILLWOOD RD Units: A259, ALS23</description>
-      <guid isPermaLink="false">2025-10-07 11:49:00</guid>
-      <pubDate>Tue, 07 Oct 2025 11:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
