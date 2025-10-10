@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 02:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 03:14:40 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:51 pm</title>
+      <description>2100 BLOCK FOXFIELD CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-10-09 22:51:00</guid>
+      <pubDate>Thu, 09 Oct 2025 22:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:18 pm</title>
       <description>100 BLOCK W FOURTEENTH ST Radio: 9B Units: A29, PE23</description>
@@ -300,12 +306,6 @@
       <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9D Units: E11, E33, R3, A18, A39, ALS31, BC901, EMS902</description>
       <guid isPermaLink="false">2025-10-08 04:44:00</guid>
       <pubDate>Wed, 08 Oct 2025 04:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:34 am</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231, A238</description>
-      <guid isPermaLink="false">2025-10-08 04:34:00</guid>
-      <pubDate>Wed, 08 Oct 2025 04:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
