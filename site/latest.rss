@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 15:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 16:02:02 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:38 am</title>
+      <description>2000 BLOCK BURNSIDE DR Units: E291, E502, PE23, E33, E111, R3, TW1, A299, ALS29, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-10-11 11:38:00</guid>
+      <pubDate>Sat, 11 Oct 2025 11:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 11:06 am</title>
       <description>7100 BLOCK MACON ST Radio: 9D Units: A39, PE311, EMS902</description>
@@ -300,12 +306,6 @@
       <description>25000 BLOCK WOODFIELD SCHOOL RD Radio: 7A4 Units: R15</description>
       <guid isPermaLink="false">2025-10-09 09:42:00</guid>
       <pubDate>Thu, 09 Oct 2025 09:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:37 am</title>
-      <description>8400 BLOCK GAS HOUSE PIKE, Bldg:EE, FAMILY PARTNERSHIP OF FREDERICK - RIVERSIDE CORPORATE PARK Units: PE23, E33, R3</description>
-      <guid isPermaLink="false">2025-10-09 08:37:00</guid>
-      <pubDate>Thu, 09 Oct 2025 08:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
