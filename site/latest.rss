@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 16:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 17:02:13 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 1:00 pm</title>
+      <description>7100 BLOCK PROSPECT DR Units: PE102, E291, E161, E132, E133, PE23, R24, Q11, K10, EK134, K1, A229, ALS4, E221, K22, BC902, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-10-11 13:00:00</guid>
+      <pubDate>Sat, 11 Oct 2025 13:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:58 pm</title>
+      <description>100 BLOCK FIONA WAY Radio: 9C Units: E51, T5</description>
+      <guid isPermaLink="false">2025-10-11 12:58:00</guid>
+      <pubDate>Sat, 11 Oct 2025 12:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:58 pm</title>
+      <description>ROSEMONT AVE / ROCKY SPRINGS RD Units: E11</description>
+      <guid isPermaLink="false">2025-10-11 12:58:00</guid>
+      <pubDate>Sat, 11 Oct 2025 12:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:18 pm</title>
       <description>9100 BLOCK LONGS MILL RD Units: ALS30, EMS902</description>
@@ -288,24 +306,6 @@
       <description>FOUNTAIN SCHOOL RD / MOLASSES RD Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2025-10-09 14:18:00</guid>
       <pubDate>Thu, 09 Oct 2025 14:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:01 pm</title>
-      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Radio: 9B Units: E72, R8, A89</description>
-      <guid isPermaLink="false">2025-10-09 14:01:00</guid>
-      <pubDate>Thu, 09 Oct 2025 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:22 pm</title>
-      <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9B Units: E72, E212, R8, A89</description>
-      <guid isPermaLink="false">2025-10-09 13:22:00</guid>
-      <pubDate>Thu, 09 Oct 2025 13:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:09 am</title>
-      <description>5500 BLOCK SPECTRUM DR, DANNYS CAR CLINIC Units: E33</description>
-      <guid isPermaLink="false">2025-10-09 11:09:00</guid>
-      <pubDate>Thu, 09 Oct 2025 11:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
