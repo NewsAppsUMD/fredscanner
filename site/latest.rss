@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 16:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 16:34:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:18 pm</title>
+      <description>9100 BLOCK LONGS MILL RD Units: ALS30, EMS902</description>
+      <guid isPermaLink="false">2025-10-11 12:18:00</guid>
+      <pubDate>Sat, 11 Oct 2025 12:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:10 pm</title>
+      <description>EXECUTIVE WAY / MACON ST Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-10-11 12:10:00</guid>
+      <pubDate>Sat, 11 Oct 2025 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:05 pm</title>
+      <description>LONGS MILL RD / NEW CUT RD Units: A169, E132</description>
+      <guid isPermaLink="false">2025-10-11 12:05:00</guid>
+      <pubDate>Sat, 11 Oct 2025 12:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:38 am</title>
       <description>2000 BLOCK BURNSIDE DR Units: E291, E502, PE23, E33, E111, R3, TW1, A299, ALS29, BC901, BC903, SAF901</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK SPECTRUM DR, DANNYS CAR CLINIC Units: E33</description>
       <guid isPermaLink="false">2025-10-09 11:09:00</guid>
       <pubDate>Thu, 09 Oct 2025 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
-      <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2025-10-09 10:28:00</guid>
-      <pubDate>Thu, 09 Oct 2025 10:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:49 am</title>
-      <description>25000 BLOCK WOODFIELD SCHOOL RD Radio: 7A4 Units: K23</description>
-      <guid isPermaLink="false">2025-10-09 09:49:00</guid>
-      <pubDate>Thu, 09 Oct 2025 09:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:42 am</title>
-      <description>25000 BLOCK WOODFIELD SCHOOL RD Radio: 7A4 Units: R15</description>
-      <guid isPermaLink="false">2025-10-09 09:42:00</guid>
-      <pubDate>Thu, 09 Oct 2025 09:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
