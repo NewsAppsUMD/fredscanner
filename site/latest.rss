@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 17:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 17:31:35 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 1:12 pm</title>
+      <description>10700 BLOCK GRINDSTONE RUN RD Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-10-11 13:12:00</guid>
+      <pubDate>Sat, 11 Oct 2025 13:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:08 pm</title>
+      <description>7100 BLOCK PROSPECT DR Units: A309</description>
+      <guid isPermaLink="false">2025-10-11 13:08:00</guid>
+      <pubDate>Sat, 11 Oct 2025 13:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:06 pm</title>
+      <description>7100 BLOCK PROSPECT DR Units: E91, E502</description>
+      <guid isPermaLink="false">2025-10-11 13:06:00</guid>
+      <pubDate>Sat, 11 Oct 2025 13:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 1:00 pm</title>
       <description>7100 BLOCK PROSPECT DR Units: PE102, E291, E161, E132, E133, PE23, R24, Q11, K10, EK134, K1, A229, ALS4, E221, K22, BC902, BC903, SAF901</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK W FOURTEENTH ST Radio: 9B Units: A29, PE23</description>
       <guid isPermaLink="false">2025-10-09 22:18:00</guid>
       <pubDate>Thu, 09 Oct 2025 22:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:21 pm</title>
-      <description>MONOCACY BLVD / RAMP I70WB TO MONOCACY BLVD RAMP Radio: 9B Units: A38, E33</description>
-      <guid isPermaLink="false">2025-10-09 20:21:00</guid>
-      <pubDate>Thu, 09 Oct 2025 20:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:00 pm</title>
-      <description>100 BLOCK LAMAR LN Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2025-10-09 17:00:00</guid>
-      <pubDate>Thu, 09 Oct 2025 17:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:18 pm</title>
-      <description>FOUNTAIN SCHOOL RD / MOLASSES RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2025-10-09 14:18:00</guid>
-      <pubDate>Thu, 09 Oct 2025 14:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
