@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 23:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 00:07:07 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 7:43 pm</title>
+      <description>200 BLOCK SOLAR DR Units: E111, E161, R24</description>
+      <guid isPermaLink="false">2025-10-10 19:43:00</guid>
+      <pubDate>Fri, 10 Oct 2025 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:06 pm</title>
       <description>PARK MILLS RD / LILY PONS RD, Apt/Unit:HTTPS://A91.IO/34ACQ Radio: 9D Units: A39</description>
@@ -300,12 +306,6 @@
       <description>CORPORATE DR / NEW DESIGN RD, IAO Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2025-10-08 23:10:00</guid>
       <pubDate>Wed, 08 Oct 2025 23:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:24 pm</title>
-      <description>5800 BLOCK WHITE LAKE LN, Apt/Unit:204 Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2025-10-08 22:24:00</guid>
-      <pubDate>Wed, 08 Oct 2025 22:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
