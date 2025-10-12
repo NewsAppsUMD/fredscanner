@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 11:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 12:02:56 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:48 am</title>
+      <description>JIMTOWN RD / BENNETT DR, IAO Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-10-12 07:48:00</guid>
+      <pubDate>Sun, 12 Oct 2025 07:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:59 am</title>
       <description>JIMTOWN RD / BENNETT DR Radio: 9D Units: E133, R10, A309, ALS30, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK POLPERRO ST Units: A29</description>
       <guid isPermaLink="false">2025-10-10 14:35:00</guid>
       <pubDate>Fri, 10 Oct 2025 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:32 pm</title>
-      <description>500 BLOCK POLPERRO ST Units: A249, E291</description>
-      <guid isPermaLink="false">2025-10-10 14:32:00</guid>
-      <pubDate>Fri, 10 Oct 2025 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
