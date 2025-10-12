@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 00:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 00:46:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:08 pm</title>
+      <description>200 BLOCK SOLAR DR Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-10-11 20:08:00</guid>
+      <pubDate>Sat, 11 Oct 2025 20:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:02 pm</title>
       <description>N SETON AVE / PROVINCIAL PKWY Radio: 9C Units: E61</description>
@@ -300,12 +306,6 @@
       <description>8000 BLOCK LIBERTY RD, CVS PHARMACY - LIBERTY RD - FREDERICK Radio: 9B Units: A248, E111</description>
       <guid isPermaLink="false">2025-10-10 10:37:00</guid>
       <pubDate>Fri, 10 Oct 2025 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 10:33 am</title>
-      <description>2500 BLOCK EMERSON DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-10 10:33:00</guid>
-      <pubDate>Fri, 10 Oct 2025 10:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
