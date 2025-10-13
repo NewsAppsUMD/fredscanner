@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 11:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 12:03:42 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:52 am</title>
+      <description>FOXVILLE RD / CATOCTIN HOLLOW RD Units: A309, R10, ALS30</description>
+      <guid isPermaLink="false">2025-10-13 07:52:00</guid>
+      <pubDate>Mon, 13 Oct 2025 07:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:51 am</title>
       <description>1600 BLOCK TYDINGS PARK RD Radio: 9C Units: E121, TW1</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK LONGS MILL RD Units: ALS30, EMS902</description>
       <guid isPermaLink="false">2025-10-11 12:18:00</guid>
       <pubDate>Sat, 11 Oct 2025 12:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:10 pm</title>
-      <description>EXECUTIVE WAY / MACON ST Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-10-11 12:10:00</guid>
-      <pubDate>Sat, 11 Oct 2025 12:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
