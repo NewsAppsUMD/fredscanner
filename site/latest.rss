@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 22:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:58 pm</title>
+      <description>KEY PKWY / BAKER PL S Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-10-13 18:58:00</guid>
+      <pubDate>Mon, 13 Oct 2025 18:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:54 pm</title>
+      <description>6800 BLOCK PUTMAN RD, MOUNTAINDALE CONVENIENCE STORE - PUTMAN RD Radio: 9B Units: A309</description>
+      <guid isPermaLink="false">2025-10-13 18:54:00</guid>
+      <pubDate>Mon, 13 Oct 2025 18:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:43 pm</title>
+      <description>6800 BLOCK PUTMAN RD, MOUNTAINDALE CONVENIENCE STORE - PUTMAN RD Radio: 9B Units: A229, PE102, E221</description>
+      <guid isPermaLink="false">2025-10-13 18:43:00</guid>
+      <pubDate>Mon, 13 Oct 2025 18:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:36 pm</title>
       <description>40600 BLOCK HANNAH DR Radio: 6B Units: E281</description>
@@ -288,24 +306,6 @@
       <description>4200 BLOCK FRANCIS SCOTT KEY HWY Units: EK64, TW6</description>
       <guid isPermaLink="false">2025-10-11 17:48:00</guid>
       <pubDate>Sat, 11 Oct 2025 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:44 pm</title>
-      <description>4200 BLOCK FRANCIS SCOTT KEY HWY Units: E61</description>
-      <guid isPermaLink="false">2025-10-11 17:44:00</guid>
-      <pubDate>Sat, 11 Oct 2025 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:04 pm</title>
-      <description>7000 BLOCK CATALPA RD Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-10-11 17:04:00</guid>
-      <pubDate>Sat, 11 Oct 2025 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:42 pm</title>
-      <description>13400 BLOCK REED RD Units: A309, PE102</description>
-      <guid isPermaLink="false">2025-10-11 16:42:00</guid>
-      <pubDate>Sat, 11 Oct 2025 16:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
