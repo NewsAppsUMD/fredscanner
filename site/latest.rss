@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 15:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 16:02:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:56 am</title>
+      <description>JEFFERSON TECHNOLOGY BLVD / IMPERIAL DR Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2025-10-13 11:56:00</guid>
+      <pubDate>Mon, 13 Oct 2025 11:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 11:34 am</title>
+      <description>27100 BLOCK FAMILY TER Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-10-13 11:34:00</guid>
+      <pubDate>Mon, 13 Oct 2025 11:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:22 am</title>
+      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E91, Q11</description>
+      <guid isPermaLink="false">2025-10-13 11:22:00</guid>
+      <pubDate>Mon, 13 Oct 2025 11:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:59 am</title>
       <description>8300 BLOCK OLD NATIONAL PIKE Radio: 9B Units: A339, E11</description>
@@ -288,24 +306,6 @@
       <description>7100 BLOCK PROSPECT DR Units: A309</description>
       <guid isPermaLink="false">2025-10-11 13:08:00</guid>
       <pubDate>Sat, 11 Oct 2025 13:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 1:06 pm</title>
-      <description>7100 BLOCK PROSPECT DR Units: E91, E502</description>
-      <guid isPermaLink="false">2025-10-11 13:06:00</guid>
-      <pubDate>Sat, 11 Oct 2025 13:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 1:00 pm</title>
-      <description>7100 BLOCK PROSPECT DR Units: PE102, E291, E161, E132, E133, PE23, R24, Q11, K10, EK134, K1, A229, ALS4, E221, K22, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-10-11 13:00:00</guid>
-      <pubDate>Sat, 11 Oct 2025 13:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:58 pm</title>
-      <description>100 BLOCK FIONA WAY Radio: 9C Units: E51, T5</description>
-      <guid isPermaLink="false">2025-10-11 12:58:00</guid>
-      <pubDate>Sat, 11 Oct 2025 12:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
