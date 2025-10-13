@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Oct 2025 08:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 08:39:14 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:05 am</title>
+      <description>5400 BLOCK LYNDALE WAY Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-10-13 04:05:00</guid>
+      <pubDate>Mon, 13 Oct 2025 04:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:50 am</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238, E231</description>
@@ -300,12 +306,6 @@
       <description>LONGS MILL RD / NEW CUT RD Units: A169, E132</description>
       <guid isPermaLink="false">2025-10-11 12:05:00</guid>
       <pubDate>Sat, 11 Oct 2025 12:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:38 am</title>
-      <description>2000 BLOCK BURNSIDE DR Units: E291, E502, PE23, E33, E111, R3, TW1, A299, ALS29, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-10-11 11:38:00</guid>
-      <pubDate>Sat, 11 Oct 2025 11:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
