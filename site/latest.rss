@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 20:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 20:34:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:18 pm</title>
+      <description>FINGERBOARD RD / IJAMSVILLE RD Radio: 9B Units: A318</description>
+      <guid isPermaLink="false">2025-10-14 16:18:00</guid>
+      <pubDate>Tue, 14 Oct 2025 16:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 4:05 pm</title>
+      <description>9400 BLOCK REICHS FORD RD Radio: 9C Units: E331, K33, BR156</description>
+      <guid isPermaLink="false">2025-10-14 16:05:00</guid>
+      <pubDate>Tue, 14 Oct 2025 16:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:59 pm</title>
+      <description>FINGERBOARD RD / IJAMSVILLE RD Radio: 9B Units: A319, ALS31</description>
+      <guid isPermaLink="false">2025-10-14 15:59:00</guid>
+      <pubDate>Tue, 14 Oct 2025 15:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:52 pm</title>
       <description>FINGERBOARD RD / IJAMSVILLE RD Radio: 9B Units: A238, E231</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK JEFFERSON TECHNOLOGY BLVD Units: E11</description>
       <guid isPermaLink="false">2025-10-12 17:11:00</guid>
       <pubDate>Sun, 12 Oct 2025 17:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:08 pm</title>
-      <description>5900 BLOCK LAWRENCE CT Units: E141, E281, E231, E201, E33, R20, R3, A149, ALS31, BC903, BC901, SAF901, TT23</description>
-      <guid isPermaLink="false">2025-10-12 17:08:00</guid>
-      <pubDate>Sun, 12 Oct 2025 17:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:06 pm</title>
-      <description>4300 BLOCK VIRIDIAN TER Units: E251</description>
-      <guid isPermaLink="false">2025-10-12 17:06:00</guid>
-      <pubDate>Sun, 12 Oct 2025 17:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:01 pm</title>
-      <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-10-12 17:01:00</guid>
-      <pubDate>Sun, 12 Oct 2025 17:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
