@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Oct 2025 23:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 23:31:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:22 pm</title>
+      <description>RIDGE RD / VALLEY PARK DR Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2025-10-14 19:22:00</guid>
+      <pubDate>Tue, 14 Oct 2025 19:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ALARM: 5:41 pm</title>
       <description>7600 BLOCK YALE CT Units: E11, HM33, BC903</description>
@@ -300,12 +306,6 @@
       <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: A238, E231</description>
       <guid isPermaLink="false">2025-10-12 19:07:00</guid>
       <pubDate>Sun, 12 Oct 2025 19:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:45 pm</title>
-      <description>2700 BLOCK ADAMS ST, STATION 14 Units: A38</description>
-      <guid isPermaLink="false">2025-10-12 17:45:00</guid>
-      <pubDate>Sun, 12 Oct 2025 17:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
