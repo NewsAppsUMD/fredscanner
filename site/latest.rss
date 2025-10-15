@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 17:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 18:02:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:56 pm</title>
+      <description>7200 BLOCK GUILFORD DR Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-10-15 13:56:00</guid>
+      <pubDate>Wed, 15 Oct 2025 13:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:47 pm</title>
+      <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9I Units: E502, E11, R3, A29, A18, ALS4, EMS902</description>
+      <guid isPermaLink="false">2025-10-15 13:47:00</guid>
+      <pubDate>Wed, 15 Oct 2025 13:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 1:43 pm</title>
+      <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: A78</description>
+      <guid isPermaLink="false">2025-10-15 13:43:00</guid>
+      <pubDate>Wed, 15 Oct 2025 13:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 1:15 pm</title>
       <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: RE74</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK WOODMERE CIR Radio: 9B Units: A78, ALS8</description>
       <guid isPermaLink="false">2025-10-13 16:11:00</guid>
       <pubDate>Mon, 13 Oct 2025 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:59 pm</title>
-      <description>5200 BLOCK MOUNTVILLE RD Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2025-10-13 14:59:00</guid>
-      <pubDate>Mon, 13 Oct 2025 14:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 1:13 pm</title>
-      <description>700 BLOCK WEMBLY DR, Apt/Unit:G, DERBYSHIRE APTS - 700 BLOCK WEMBLY DR Radio: 9C Units: PE23, E33, R3</description>
-      <guid isPermaLink="false">2025-10-13 13:13:00</guid>
-      <pubDate>Mon, 13 Oct 2025 13:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:56 am</title>
-      <description>JEFFERSON TECHNOLOGY BLVD / IMPERIAL DR Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-10-13 11:56:00</guid>
-      <pubDate>Mon, 13 Oct 2025 11:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
