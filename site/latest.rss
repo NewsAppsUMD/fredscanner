@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 21:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 22:02:05 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 5:52 pm</title>
+      <description>6200 BLOCK GLEN VALLEY TER, HAMPTON COURT CONDOS - 6200 BLOCK GLEN VALLEY TER Radio: 9C Units: T4, E31</description>
+      <guid isPermaLink="false">2025-10-15 17:52:00</guid>
+      <pubDate>Wed, 15 Oct 2025 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:44 pm</title>
+      <description>OLD NATIONAL PIKE / RIDGEFIELD DR Radio: 9I Units: E331, R3, A339, ALS4, BC903, EMS902</description>
+      <guid isPermaLink="false">2025-10-15 17:44:00</guid>
+      <pubDate>Wed, 15 Oct 2025 17:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:36 pm</title>
+      <description>FINGERBOARD RD / LYNN BURKE RD Radio: 9D Units: E251, R15, A158, ALS23, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-10-15 17:36:00</guid>
+      <pubDate>Wed, 15 Oct 2025 17:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:06 pm</title>
       <description>W B ST / N VIRGINIA AVE Radio: 9C Units: BR55</description>
@@ -288,24 +306,6 @@
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Radio: 9B Units: E11, E33, R3, A18, A39</description>
       <guid isPermaLink="false">2025-10-14 04:44:00</guid>
       <pubDate>Tue, 14 Oct 2025 04:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:55 pm</title>
-      <description>400 BLOCK CENTER ST Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-10-13 23:55:00</guid>
-      <pubDate>Mon, 13 Oct 2025 23:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:06 pm</title>
-      <description>300 BLOCKB PROSPECT BLVD, Apt/Unit:102 Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-10-13 23:06:00</guid>
-      <pubDate>Mon, 13 Oct 2025 23:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:58 pm</title>
-      <description>KEY PKWY / BAKER PL S Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-10-13 18:58:00</guid>
-      <pubDate>Mon, 13 Oct 2025 18:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
