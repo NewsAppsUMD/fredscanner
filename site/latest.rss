@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Oct 2025 12:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:44:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:33 am</title>
+      <description>I70EB / 50MM, I70EB / 50MM Radio: 9B Units: E121, E31, R3, A39</description>
+      <guid isPermaLink="false">2025-10-15 08:33:00</guid>
+      <pubDate>Wed, 15 Oct 2025 08:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:08 am</title>
+      <description>5400 BLOCK MOUNTVILLE RD, IFO Radio: 9D Units: E281, R14, A149, ALS20, BC903, EMS902</description>
+      <guid isPermaLink="false">2025-10-15 08:08:00</guid>
+      <pubDate>Wed, 15 Oct 2025 08:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:20 am</title>
+      <description>8200 BLOCK WOODSBORO PIKE, CALVARY ASSEMBLY OF GOD Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2025-10-15 06:20:00</guid>
+      <pubDate>Wed, 15 Oct 2025 06:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:53 am</title>
       <description>200 BLOCK N CHURCH ST Radio: 9C Units: E72</description>
@@ -288,24 +306,6 @@
       <description>5400 BLOCK LYNDALE WAY Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-10-13 04:05:00</guid>
       <pubDate>Mon, 13 Oct 2025 04:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:50 am</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238, E231</description>
-      <guid isPermaLink="false">2025-10-13 03:50:00</guid>
-      <pubDate>Mon, 13 Oct 2025 03:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:28 am</title>
-      <description>400 BLOCK S JEFFERSON ST, MCDONALDS - PROSPECT PLAZA Units: E33, E11, PE23, PE311, E502, R3, TT4, TW1, A39, ALS4, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-10-13 03:28:00</guid>
-      <pubDate>Mon, 13 Oct 2025 03:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:36 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, DAYS INN Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2025-10-13 01:36:00</guid>
-      <pubDate>Mon, 13 Oct 2025 01:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
