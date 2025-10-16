@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 19:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 20:02:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
+      <description>RT355 / BIG WOODS RD, RT355 / BIG WOODS RD Radio: 9B Units: A238, E231</description>
+      <guid isPermaLink="false">2025-10-16 15:38:00</guid>
+      <pubDate>Thu, 16 Oct 2025 15:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 2:44 pm</title>
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: E502, PE23</description>
@@ -300,12 +306,6 @@
       <description>FINGERBOARD RD / IJAMSVILLE RD Radio: 9B Units: A238, E231</description>
       <guid isPermaLink="false">2025-10-14 15:52:00</guid>
       <pubDate>Tue, 14 Oct 2025 15:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:24 pm</title>
-      <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, T4</description>
-      <guid isPermaLink="false">2025-10-14 15:24:00</guid>
-      <pubDate>Tue, 14 Oct 2025 15:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
