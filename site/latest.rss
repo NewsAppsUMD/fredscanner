@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 18:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 19:02:09 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:30 pm</title>
+      <description>200 BLOCK E THIRD ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2025-10-17 14:30:00</guid>
+      <pubDate>Fri, 17 Oct 2025 14:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:49 pm</title>
       <description>3500 BLOCK GREEN VALLEY RD Radio: 9B Units: A158, E251</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9I Units: E502, E11, R3, A29, A18, ALS4, EMS902</description>
       <guid isPermaLink="false">2025-10-15 13:47:00</guid>
       <pubDate>Wed, 15 Oct 2025 13:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:43 pm</title>
-      <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: A78</description>
-      <guid isPermaLink="false">2025-10-15 13:43:00</guid>
-      <pubDate>Wed, 15 Oct 2025 13:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
