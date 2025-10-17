@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 14:35:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 15:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:46 am</title>
+      <description>FINGERBOARD RD / RAMP I270SB TO RT80 RAMP Radio: 9B Units: A238, TT23</description>
+      <guid isPermaLink="false">2025-10-17 10:46:00</guid>
+      <pubDate>Fri, 17 Oct 2025 10:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:30 am</title>
       <description>3500 BLOCK STARLIGHT ST Radio: 9C Units: E231, TT23</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK BOWERS RD Units: A18, ALS2, E11, EMS902</description>
       <guid isPermaLink="false">2025-10-15 09:09:00</guid>
       <pubDate>Wed, 15 Oct 2025 09:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:45 am</title>
-      <description>LIBERTY RD / DANCE HALL RD Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2025-10-15 08:45:00</guid>
-      <pubDate>Wed, 15 Oct 2025 08:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
