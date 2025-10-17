@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 22:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 23:02:11 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:59 pm</title>
+      <description>100 BLOCK DEERWOODS PL Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2025-10-17 18:59:00</guid>
+      <pubDate>Fri, 17 Oct 2025 18:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 4:10 pm</title>
       <description>17500 BLOCK TRACT RD Radio: 9C Units: E61</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: E331, T4</description>
       <guid isPermaLink="false">2025-10-15 14:22:00</guid>
       <pubDate>Wed, 15 Oct 2025 14:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:56 pm</title>
-      <description>7200 BLOCK GUILFORD DR Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-10-15 13:56:00</guid>
-      <pubDate>Wed, 15 Oct 2025 13:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
