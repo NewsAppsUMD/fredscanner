@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 23:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 00:07:36 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:51 pm</title>
+      <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E133</description>
+      <guid isPermaLink="false">2025-10-16 19:51:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:41 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: R15</description>
+      <guid isPermaLink="false">2025-10-16 19:41:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:41 pm</title>
+      <description>500 BLOCK N MARKET ST, STATION 2 Units: E61</description>
+      <guid isPermaLink="false">2025-10-16 19:41:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:40 pm</title>
+      <description>2200 BLOCK W GREENLEAF DR Units: E121</description>
+      <guid isPermaLink="false">2025-10-16 19:40:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:36 pm</title>
+      <description>100 BLOCK W CHURCH ST Units: RID, E291, A39, EMS901, W3</description>
+      <guid isPermaLink="false">2025-10-16 19:36:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:32 pm</title>
+      <description>100 BLOCK W CHURCH ST Units: PE23, E31, E11, E502, PE311, R3, T4, TW1, A29, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-10-16 19:32:00</guid>
+      <pubDate>Thu, 16 Oct 2025 19:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:29 pm</title>
       <description>FRUIT WOOD TRAIL / FIR TRAIL Units: EK64, A68</description>
@@ -270,42 +306,6 @@
       <description>300 BLOCK E THOMAS ST Units: E172, E91</description>
       <guid isPermaLink="false">2025-10-14 20:24:00</guid>
       <pubDate>Tue, 14 Oct 2025 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 8:04 pm</title>
-      <description>200 BLOCK MONTEVUE LN Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-14 20:04:00</guid>
-      <pubDate>Tue, 14 Oct 2025 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:22 pm</title>
-      <description>RIDGE RD / VALLEY PARK DR Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2025-10-14 19:22:00</guid>
-      <pubDate>Tue, 14 Oct 2025 19:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ALARM: 5:41 pm</title>
-      <description>7600 BLOCK YALE CT Units: E11, HM33, BC903</description>
-      <guid isPermaLink="false">2025-10-14 17:41:00</guid>
-      <pubDate>Tue, 14 Oct 2025 17:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
-      <description>3100 BLOCK JEFFERSON PIKE Units: A209, E281</description>
-      <guid isPermaLink="false">2025-10-14 16:47:00</guid>
-      <pubDate>Tue, 14 Oct 2025 16:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:18 pm</title>
-      <description>FINGERBOARD RD / IJAMSVILLE RD Radio: 9B Units: A318</description>
-      <guid isPermaLink="false">2025-10-14 16:18:00</guid>
-      <pubDate>Tue, 14 Oct 2025 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 4:05 pm</title>
-      <description>9400 BLOCK REICHS FORD RD Radio: 9C Units: E331, K33, BR156</description>
-      <guid isPermaLink="false">2025-10-14 16:05:00</guid>
-      <pubDate>Tue, 14 Oct 2025 16:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
