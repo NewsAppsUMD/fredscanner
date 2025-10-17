@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 17:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 18:02:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:49 pm</title>
+      <description>3500 BLOCK GREEN VALLEY RD Radio: 9B Units: A158, E251</description>
+      <guid isPermaLink="false">2025-10-17 13:49:00</guid>
+      <pubDate>Fri, 17 Oct 2025 13:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:40 pm</title>
+      <description>GAMBRILL PARK RD / SHOOKSTOWN RD Radio: 9C Units: BR125</description>
+      <guid isPermaLink="false">2025-10-17 13:40:00</guid>
+      <pubDate>Fri, 17 Oct 2025 13:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:03 pm</title>
       <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Radio: 9D Units: E281, R14, A149, ALS20, BC903, EMS901</description>
@@ -294,18 +306,6 @@
       <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: A78</description>
       <guid isPermaLink="false">2025-10-15 13:43:00</guid>
       <pubDate>Wed, 15 Oct 2025 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:15 pm</title>
-      <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: RE74</description>
-      <guid isPermaLink="false">2025-10-15 13:15:00</guid>
-      <pubDate>Wed, 15 Oct 2025 13:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:00 pm</title>
-      <description>11100 BLOCK BALTIMORE NATIONAL PIKE, APPALACHIAN TRAIL PARKING AREA Units: E212, R8, TR29, BC901, SAF901, EMS901</description>
-      <guid isPermaLink="false">2025-10-15 13:00:00</guid>
-      <pubDate>Wed, 15 Oct 2025 13:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
