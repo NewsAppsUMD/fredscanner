@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 13:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 13:33:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:09 am</title>
+      <description>I70EB / EXIT 68, I70EB / EXIT 68 Radio: 9D Units: R15</description>
+      <guid isPermaLink="false">2025-10-18 09:09:00</guid>
+      <pubDate>Sat, 18 Oct 2025 09:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:09 am</title>
+      <description>I70EB / EXIT 68, I70EB / EXIT 68 Radio: 9D Units: RE171</description>
+      <guid isPermaLink="false">2025-10-18 09:09:00</guid>
+      <pubDate>Sat, 18 Oct 2025 09:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:04 am</title>
+      <description>I70EB / EXIT 68, I70EB / EXIT 68 Radio: 9D Units: E152, R15, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-10-18 09:04:00</guid>
+      <pubDate>Sat, 18 Oct 2025 09:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:18 am</title>
       <description>100 BLOCK W MAIN ST, STATION 6 Units: E111</description>
@@ -288,24 +306,6 @@
       <description>1300 BLOCK HOLLING PL, Apt/Unit:304, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2025-10-16 13:11:00</guid>
       <pubDate>Thu, 16 Oct 2025 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:07 am</title>
-      <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: E281, A209</description>
-      <guid isPermaLink="false">2025-10-16 11:07:00</guid>
-      <pubDate>Thu, 16 Oct 2025 11:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:01 am</title>
-      <description>I70EB / 49MM, I70EB / 49MM Radio: 9B Units: R8, A89, E72, E121</description>
-      <guid isPermaLink="false">2025-10-16 10:01:00</guid>
-      <pubDate>Thu, 16 Oct 2025 10:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:17 am</title>
-      <description>100 BLOCK W PATRICK ST Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2025-10-16 08:17:00</guid>
-      <pubDate>Thu, 16 Oct 2025 08:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
