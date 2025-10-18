@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 16:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 16:35:31 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:20 pm</title>
+      <description>600 BLOCK HUNTING RIDGE DR Radio: 9C Units: BR125</description>
+      <guid isPermaLink="false">2025-10-18 12:20:00</guid>
+      <pubDate>Sat, 18 Oct 2025 12:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 12:15 pm</title>
+      <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Radio: 9C Units: BR156, PE311</description>
+      <guid isPermaLink="false">2025-10-18 12:15:00</guid>
+      <pubDate>Sat, 18 Oct 2025 12:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:02 pm</title>
+      <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-10-18 12:02:00</guid>
+      <pubDate>Sat, 18 Oct 2025 12:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:29 am</title>
       <description>19800 BLOCK SHEPERDSTOWN PIKE Radio: PS1 Units: ALS8</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK W CHURCH ST Units: PE23, E31, E11, E502, PE311, R3, T4, TW1, A29, ALS2, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2025-10-16 19:32:00</guid>
       <pubDate>Thu, 16 Oct 2025 19:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:29 pm</title>
-      <description>FRUIT WOOD TRAIL / FIR TRAIL Units: EK64, A68</description>
-      <guid isPermaLink="false">2025-10-16 18:29:00</guid>
-      <pubDate>Thu, 16 Oct 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:59 pm</title>
-      <description>4800 BLOCK HITESHOW DR Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-10-16 17:59:00</guid>
-      <pubDate>Thu, 16 Oct 2025 17:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
-      <description>RT355 / BIG WOODS RD, RT355 / BIG WOODS RD Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-10-16 15:38:00</guid>
-      <pubDate>Thu, 16 Oct 2025 15:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
