@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 10:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 10:34:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:20 am</title>
+      <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311, TW1</description>
+      <guid isPermaLink="false">2025-10-18 06:20:00</guid>
+      <pubDate>Sat, 18 Oct 2025 06:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:13 am</title>
+      <description>100 BLOCK WOODCREST DR Radio: ACOPS4 Units: E61</description>
+      <guid isPermaLink="false">2025-10-18 06:13:00</guid>
+      <pubDate>Sat, 18 Oct 2025 06:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:54 am</title>
       <description>100 BLOCK WOODCREST DR Units: TW6</description>
@@ -294,18 +306,6 @@
       <description>6100 BLOCK ASTER VIEW LN Units: E11</description>
       <guid isPermaLink="false">2025-10-15 18:33:00</guid>
       <pubDate>Wed, 15 Oct 2025 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:19 pm</title>
-      <description>OLD NATIONAL PIKE / RIDGEFIELD DR Radio: 9I Units: A39</description>
-      <guid isPermaLink="false">2025-10-15 18:19:00</guid>
-      <pubDate>Wed, 15 Oct 2025 18:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 6:18 pm</title>
-      <description>25800 BLOCK FREDERICK RD STATION 709, STATION 709 Radio: 7A1 Units: A238</description>
-      <guid isPermaLink="false">2025-10-15 18:18:00</guid>
-      <pubDate>Wed, 15 Oct 2025 18:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
