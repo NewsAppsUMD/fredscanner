@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Oct 2025 23:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 00:07:13 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 7:51 pm</title>
+      <description>900 BLOCK W SEVENTH ST, COMMON MARKET Radio: 9C Units: PE23, E502</description>
+      <guid isPermaLink="false">2025-10-17 19:51:00</guid>
+      <pubDate>Fri, 17 Oct 2025 19:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:43 pm</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: E231, A238, TT23</description>
+      <guid isPermaLink="false">2025-10-17 19:43:00</guid>
+      <pubDate>Fri, 17 Oct 2025 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:59 pm</title>
       <description>100 BLOCK DEERWOODS PL Radio: 9C Units: E82</description>
@@ -294,18 +306,6 @@
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: E231, A238</description>
       <guid isPermaLink="false">2025-10-15 16:57:00</guid>
       <pubDate>Wed, 15 Oct 2025 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:24 pm</title>
-      <description>11400 BLOCK WELLER RD Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-10-15 14:24:00</guid>
-      <pubDate>Wed, 15 Oct 2025 14:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:22 pm</title>
-      <description>5500 BLOCK MUSSETTER RD, HOLLY HILLS COUNTRY CLUB Radio: 9C Units: E331, T4</description>
-      <guid isPermaLink="false">2025-10-15 14:22:00</guid>
-      <pubDate>Wed, 15 Oct 2025 14:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
