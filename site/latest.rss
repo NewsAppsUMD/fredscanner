@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 01:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 02:05:36 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 9:45 pm</title>
+      <description>4900 BLOCK SMALL GAINS WAY Radio: 9C Units: PE311, E141, TW1</description>
+      <guid isPermaLink="false">2025-10-17 21:45:00</guid>
+      <pubDate>Fri, 17 Oct 2025 21:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:07 pm</title>
       <description>MOTTER AVE / OPOSSUMTOWN PIKE Radio: 9D Units: PE23, R3, A29, A39, ALS2, EMS902</description>
@@ -300,12 +306,6 @@
       <description>FINGERBOARD RD / LYNN BURKE RD Radio: 9D Units: E251, R15, A158, ALS23, BC901, EMS901</description>
       <guid isPermaLink="false">2025-10-15 17:36:00</guid>
       <pubDate>Wed, 15 Oct 2025 17:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:06 pm</title>
-      <description>W B ST / N VIRGINIA AVE Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2025-10-15 17:06:00</guid>
-      <pubDate>Wed, 15 Oct 2025 17:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
