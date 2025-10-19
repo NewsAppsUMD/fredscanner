@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 15:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 15:31:47 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:20 am</title>
+      <description>100 BLOCK S MAPLE AVE, Apt/Unit:D11, BRUNSWICK CAMPGROUND Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2025-10-19 11:20:00</guid>
+      <pubDate>Sun, 19 Oct 2025 11:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 11:20 am</title>
+      <description>100 BLOCK S MAPLE AVE, Apt/Unit:D11, BRUNSWICK CAMPGROUND Radio: 9C Units: R19</description>
+      <guid isPermaLink="false">2025-10-19 11:20:00</guid>
+      <pubDate>Sun, 19 Oct 2025 11:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 11:10 am</title>
+      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Radio: 9C Units: R19</description>
+      <guid isPermaLink="false">2025-10-19 11:10:00</guid>
+      <pubDate>Sun, 19 Oct 2025 11:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 10:59 am</title>
       <description>3000 BLOCK PRICES DISTILLERY RD Radio: 9D Units: E251, TT23, R15, A259, ALS23, EMS901</description>
@@ -288,24 +306,6 @@
       <description>3500 BLOCK GREEN VALLEY RD Radio: 9B Units: A158, E251</description>
       <guid isPermaLink="false">2025-10-17 13:49:00</guid>
       <pubDate>Fri, 17 Oct 2025 13:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:40 pm</title>
-      <description>GAMBRILL PARK RD / SHOOKSTOWN RD Radio: 9C Units: BR125</description>
-      <guid isPermaLink="false">2025-10-17 13:40:00</guid>
-      <pubDate>Fri, 17 Oct 2025 13:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:03 pm</title>
-      <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Radio: 9D Units: E281, R14, A149, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-10-17 13:03:00</guid>
-      <pubDate>Fri, 17 Oct 2025 13:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:47 pm</title>
-      <description>5700 BLOCK HAWK RIDGE RD Radio: 9B Units: E331, T4</description>
-      <guid isPermaLink="false">2025-10-17 12:47:00</guid>
-      <pubDate>Fri, 17 Oct 2025 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
