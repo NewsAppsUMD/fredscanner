@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 21:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 22:02:11 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:32 pm</title>
+      <description>5800 BLOCK HANOVER RD, STATION AC029 - SOUTHEASTERN ADAMS VOL EMERGENCY SERVICES Units: EK64</description>
+      <guid isPermaLink="false">2025-10-19 17:32:00</guid>
+      <pubDate>Sun, 19 Oct 2025 17:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:19 pm</title>
       <description>500 BLOCK N MARKET ST, STATION 2 Units: E33</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK TANEYTOWN RD, STATION AC022 - BARLOW VFC Units: E133</description>
       <guid isPermaLink="false">2025-10-18 06:51:00</guid>
       <pubDate>Sat, 18 Oct 2025 06:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:20 am</title>
-      <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-10-18 06:20:00</guid>
-      <pubDate>Sat, 18 Oct 2025 06:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
