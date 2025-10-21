@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 09:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 09:34:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:11 am</title>
+      <description>100 BLOCK BLK 34100 BLOCKW FROM CATH CH RD TO RAMP TO RT17(PET) PIKE Radio: 9D Units: E281</description>
+      <guid isPermaLink="false">2025-10-21 05:11:00</guid>
+      <pubDate>Tue, 21 Oct 2025 05:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:06 am</title>
+      <description>100 BLOCK BLK 34100 BLOCKW FROM CATH CH RD TO RAMP TO RT17(PET) PIKE Radio: 9B Units: ALS20, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-10-21 05:06:00</guid>
+      <pubDate>Tue, 21 Oct 2025 05:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:04 am</title>
+      <description>RT340WB / CATHOLIC CHURCH RD, RT340WB / CATHOLIC CHURCH RD Radio: 9B Units: E201, R20, A209, A196, PE52</description>
+      <guid isPermaLink="false">2025-10-21 05:04:00</guid>
+      <pubDate>Tue, 21 Oct 2025 05:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:47 am</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231, A238</description>
@@ -288,24 +306,6 @@
       <description>6100 BLOCK GOSHAWK ST Units: E152, E33, PE311, PE23, R15, T4, A339, ALS4, BC901, BC903, SAF901, E251, TT23</description>
       <guid isPermaLink="false">2025-10-19 12:53:00</guid>
       <pubDate>Sun, 19 Oct 2025 12:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:20 am</title>
-      <description>100 BLOCK S MAPLE AVE, Apt/Unit:D11, BRUNSWICK CAMPGROUND Radio: 9C Units: T5</description>
-      <guid isPermaLink="false">2025-10-19 11:20:00</guid>
-      <pubDate>Sun, 19 Oct 2025 11:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:20 am</title>
-      <description>100 BLOCK S MAPLE AVE, Apt/Unit:D11, BRUNSWICK CAMPGROUND Radio: 9C Units: R19</description>
-      <guid isPermaLink="false">2025-10-19 11:20:00</guid>
-      <pubDate>Sun, 19 Oct 2025 11:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:10 am</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Radio: 9C Units: R19</description>
-      <guid isPermaLink="false">2025-10-19 11:10:00</guid>
-      <pubDate>Sun, 19 Oct 2025 11:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
