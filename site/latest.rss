@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 02:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 02:52:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 10:28 pm</title>
+      <description>I70WB / 35MM Units: E82</description>
+      <guid isPermaLink="false">2025-10-22 22:28:00</guid>
+      <pubDate>Wed, 22 Oct 2025 22:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:35 pm</title>
       <description>RT40A / I70, RT40A / I70 Radio: 9D Units: ALS31</description>
@@ -300,12 +306,6 @@
       <description>STAUFFER RD / CRUM RD Radio: 9B Units: A249, E111</description>
       <guid isPermaLink="false">2025-10-20 22:14:00</guid>
       <pubDate>Mon, 20 Oct 2025 22:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 9:58 pm</title>
-      <description>100 BLOCK S BENTZ ST, BENTZTOWN Radio: 9B Units: A39, ALS2, T4, EMS901</description>
-      <guid isPermaLink="false">2025-10-20 21:58:00</guid>
-      <pubDate>Mon, 20 Oct 2025 21:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
