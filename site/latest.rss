@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 23:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 00:07:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:35 pm</title>
+      <description>RT40A / I70, RT40A / I70 Radio: 9D Units: ALS31</description>
+      <guid isPermaLink="false">2025-10-22 19:35:00</guid>
+      <pubDate>Wed, 22 Oct 2025 19:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 7:34 pm</title>
+      <description>2100 BLOCK WHITEHALL RD, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Radio: 9C Units: E11, E502</description>
+      <guid isPermaLink="false">2025-10-22 19:34:00</guid>
+      <pubDate>Wed, 22 Oct 2025 19:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:28 pm</title>
+      <description>RT40A / I70, RT40A / I70 Radio: 9D Units: A19</description>
+      <guid isPermaLink="false">2025-10-22 19:28:00</guid>
+      <pubDate>Wed, 22 Oct 2025 19:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:25 pm</title>
       <description>RT40A / I70, RT40A / I70 Radio: 9D Units: A18</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK S BENTZ ST, BENTZTOWN Radio: 9B Units: A39, ALS2, T4, EMS901</description>
       <guid isPermaLink="false">2025-10-20 21:58:00</guid>
       <pubDate>Mon, 20 Oct 2025 21:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:54 pm</title>
-      <description>WOODSBORO PIKE / CRUM RD Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2025-10-20 20:54:00</guid>
-      <pubDate>Mon, 20 Oct 2025 20:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:58 pm</title>
-      <description>500 BLOCK MAIN ST Units: E82</description>
-      <guid isPermaLink="false">2025-10-20 19:58:00</guid>
-      <pubDate>Mon, 20 Oct 2025 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:57 pm</title>
-      <description>14100 BLOCK CATOCTIN CIR Units: TW6</description>
-      <guid isPermaLink="false">2025-10-20 19:57:00</guid>
-      <pubDate>Mon, 20 Oct 2025 19:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
