@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 23:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 23:31:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:16 pm</title>
+      <description>I270SB / 23MM, I270SB / 23MM Radio: 9B Units: A259</description>
+      <guid isPermaLink="false">2025-10-24 19:16:00</guid>
+      <pubDate>Fri, 24 Oct 2025 19:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:58 pm</title>
       <description>I270SB / 23MM, I270SB / 23MM Radio: 9B Units: E231, R3, A238, E251, TT23</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 35MM Units: E82</description>
       <guid isPermaLink="false">2025-10-22 22:28:00</guid>
       <pubDate>Wed, 22 Oct 2025 22:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:35 pm</title>
-      <description>RT40A / I70, RT40A / I70 Radio: 9D Units: ALS31</description>
-      <guid isPermaLink="false">2025-10-22 19:35:00</guid>
-      <pubDate>Wed, 22 Oct 2025 19:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
