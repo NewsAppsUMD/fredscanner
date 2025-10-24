@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 19:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 20:02:23 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 3:44 pm</title>
+      <description>1600 BLOCK BERRY ROSE CT, Apt/Unit:G Units: PE23</description>
+      <guid isPermaLink="false">2025-10-24 15:44:00</guid>
+      <pubDate>Fri, 24 Oct 2025 15:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:31 pm</title>
+      <description>10100 BLOCK CLEMSONVILLE RD Radio: 9B Units: ALS17, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-10-24 15:31:00</guid>
+      <pubDate>Fri, 24 Oct 2025 15:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:24 pm</title>
+      <description>10100 BLOCK CLEMSONVILLE RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-10-24 15:24:00</guid>
+      <pubDate>Fri, 24 Oct 2025 15:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:26 pm</title>
       <description>1800 BLOCKB MONOCACY VIEW CIR Radio: 9C Units: E111, Q11</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK WALTER MARTZ RD Radio: 9C Units: E291, TW1</description>
       <guid isPermaLink="false">2025-10-22 18:10:00</guid>
       <pubDate>Wed, 22 Oct 2025 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:17 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9B Units: A29, PE23</description>
-      <guid isPermaLink="false">2025-10-22 16:17:00</guid>
-      <pubDate>Wed, 22 Oct 2025 16:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:11 pm</title>
-      <description>3600 BLOCK SINGLETON TER Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-10-22 16:11:00</guid>
-      <pubDate>Wed, 22 Oct 2025 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 4:03 pm</title>
-      <description>5900 BLOCK KRANTZ DR, Apt/Unit:5943 Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-22 16:03:00</guid>
-      <pubDate>Wed, 22 Oct 2025 16:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
