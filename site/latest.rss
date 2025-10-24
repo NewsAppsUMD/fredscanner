@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 17:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 17:33:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:26 pm</title>
+      <description>1800 BLOCKB MONOCACY VIEW CIR Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-10-24 13:26:00</guid>
+      <pubDate>Fri, 24 Oct 2025 13:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:19 pm</title>
+      <description>4200 BLOCK URBANA PIKE Radio: 9B Units: E231, R3, A238, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2025-10-24 13:19:00</guid>
+      <pubDate>Fri, 24 Oct 2025 13:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 12:22 pm</title>
       <description>900 BLOCK W SEVENTH ST, COMMON MARKET Radio: 9D Units: A29, PE23, EMS902</description>
@@ -294,18 +306,6 @@
       <description>5900 BLOCK KRANTZ DR, Apt/Unit:5943 Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-10-22 16:03:00</guid>
       <pubDate>Wed, 22 Oct 2025 16:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:43 pm</title>
-      <description>5100 BLOCK PEGASUS CT, TEXAS ROADHOUSE - CENTER AT MONOCACY Radio: 9C Units: E33, TW1</description>
-      <guid isPermaLink="false">2025-10-22 13:43:00</guid>
-      <pubDate>Wed, 22 Oct 2025 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
-      <description>EXECUTIVE WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2025-10-22 13:40:00</guid>
-      <pubDate>Wed, 22 Oct 2025 13:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
