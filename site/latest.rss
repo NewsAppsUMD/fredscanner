@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 21:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:42 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-10-25 17:42:00</guid>
+      <pubDate>Sat, 25 Oct 2025 17:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:37 pm</title>
+      <description>10300 BLOCK KEYSVILLE RD Radio: 9C Units: E61, E132, R6, EK64</description>
+      <guid isPermaLink="false">2025-10-25 17:37:00</guid>
+      <pubDate>Sat, 25 Oct 2025 17:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 5:00 pm</title>
       <description>3800 BLOCK CLAY ST, MARC TRAIN STATION - POINT OF ROCKS Radio: 9C Units: E281</description>
@@ -294,18 +306,6 @@
       <description>9100 BLOCK MYERSVILLE RD Units: E82, E72, E121, E212, E33, R3, TW7, TW1, K7, K21, A89, ALS8, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2025-10-23 14:58:00</guid>
       <pubDate>Thu, 23 Oct 2025 14:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:44 pm</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9B Units: ALS31</description>
-      <guid isPermaLink="false">2025-10-23 13:44:00</guid>
-      <pubDate>Thu, 23 Oct 2025 13:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:32 pm</title>
-      <description>URBANA PIKE / ARABY CHURCH RD Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-10-23 13:32:00</guid>
-      <pubDate>Thu, 23 Oct 2025 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
