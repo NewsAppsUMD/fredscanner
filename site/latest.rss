@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Oct 2025 13:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 14:02:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:31 am</title>
+      <description>200 BLOCK SOLAR DR Units: E111</description>
+      <guid isPermaLink="false">2025-10-25 09:31:00</guid>
+      <pubDate>Sat, 25 Oct 2025 09:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 9:04 am</title>
       <description>11000 BLOCK POWELL RD Units: E291, E162, E111, PE23, E502, E91, R10, TW1, R24, K10, EK134, K33, A299, ALS29, E221, K22, K9, K17, BC902, BC901, SAF901</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK E MOUNTAIN RD Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2025-10-23 10:35:00</guid>
       <pubDate>Thu, 23 Oct 2025 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:30 am</title>
-      <description>NEW DESIGN RD / FOXCROFT DR Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2025-10-23 10:30:00</guid>
-      <pubDate>Thu, 23 Oct 2025 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
