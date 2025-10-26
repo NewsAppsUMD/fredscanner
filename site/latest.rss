@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 19:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 20:02:41 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 3:56 pm</title>
+      <description>3400 BLOCK BUSSARD RD Radio: 9C Units: TW7</description>
+      <guid isPermaLink="false">2025-10-26 15:56:00</guid>
+      <pubDate>Sun, 26 Oct 2025 15:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 3:51 pm</title>
+      <description>3400 BLOCK BUSSARD RD Radio: 9C Units: E72, E121, TW7, K7</description>
+      <guid isPermaLink="false">2025-10-26 15:51:00</guid>
+      <pubDate>Sun, 26 Oct 2025 15:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:15 pm</title>
       <description>100 BLOCK CREAGERSTOWN RD, WOODSBORO HISTORICAL SOC Radio: 9C Units: E172</description>
@@ -294,18 +306,6 @@
       <description>I270SB / 23MM, I270SB / 23MM Radio: 9B Units: A259</description>
       <guid isPermaLink="false">2025-10-24 19:16:00</guid>
       <pubDate>Fri, 24 Oct 2025 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:58 pm</title>
-      <description>I270SB / 23MM, I270SB / 23MM Radio: 9B Units: E231, R3, A238, E251, TT23</description>
-      <guid isPermaLink="false">2025-10-24 18:58:00</guid>
-      <pubDate>Fri, 24 Oct 2025 18:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:44 pm</title>
-      <description>10200 BLOCK HOPEWELL ST Units: A158, E331</description>
-      <guid isPermaLink="false">2025-10-24 18:44:00</guid>
-      <pubDate>Fri, 24 Oct 2025 18:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
