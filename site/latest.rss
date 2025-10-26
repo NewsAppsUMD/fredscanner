@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 08:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 09:02:12 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 4:09 am</title>
+      <description>16300 BLOCK UNIVERSITY WAY, MSMU - PANGBORN HALL Units: E61, PE102, TW6</description>
+      <guid isPermaLink="false">2025-10-26 04:09:00</guid>
+      <pubDate>Sun, 26 Oct 2025 04:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:03 am</title>
+      <description>FINGERBOARD RD / MONOCACY RIVER Units: A149, R14</description>
+      <guid isPermaLink="false">2025-10-26 04:03:00</guid>
+      <pubDate>Sun, 26 Oct 2025 04:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:31 am</title>
       <description>VERMONT CT / RHODE ISLAND CT Radio: 9I Units: TW6</description>
@@ -294,18 +306,6 @@
       <description>4200 BLOCK URBANA PIKE Radio: 9B Units: E231, R3, A238, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2025-10-24 13:19:00</guid>
       <pubDate>Fri, 24 Oct 2025 13:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:22 pm</title>
-      <description>900 BLOCK W SEVENTH ST, COMMON MARKET Radio: 9D Units: A29, PE23, EMS902</description>
-      <guid isPermaLink="false">2025-10-24 12:22:00</guid>
-      <pubDate>Fri, 24 Oct 2025 12:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:15 pm</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-10-24 12:15:00</guid>
-      <pubDate>Fri, 24 Oct 2025 12:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
