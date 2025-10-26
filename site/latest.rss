@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 07:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 07:31:32 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:28 am</title>
+      <description>VERMONT CT / RHODE ISLAND CT Units: E33, PE23, E331, PE311, E291, R3, TW7, A39, ALS4, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-10-26 03:28:00</guid>
+      <pubDate>Sun, 26 Oct 2025 03:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:36 am</title>
       <description>1600 BLOCK JENNINGS CT Units: A39</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK MONOCACY BLVD, GLADE VALLEY ANIMAL HOSPITAL Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2025-10-24 11:53:00</guid>
       <pubDate>Fri, 24 Oct 2025 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 8:59 am</title>
-      <description>8200 BLOCK GLEN HEATHER DR Radio: 9C Units: E11, E502</description>
-      <guid isPermaLink="false">2025-10-24 08:59:00</guid>
-      <pubDate>Fri, 24 Oct 2025 08:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
