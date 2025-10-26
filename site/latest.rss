@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 05:34:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 06:02:35 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:36 am</title>
+      <description>1600 BLOCK JENNINGS CT Units: A39</description>
+      <guid isPermaLink="false">2025-10-26 01:36:00</guid>
+      <pubDate>Sun, 26 Oct 2025 01:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:32 am</title>
       <description>500 BLOCK N MARKET ST, STATION 2 Units: R15</description>
@@ -300,12 +306,6 @@
       <description>8200 BLOCK GLEN HEATHER DR Radio: 9C Units: E11, E502</description>
       <guid isPermaLink="false">2025-10-24 08:59:00</guid>
       <pubDate>Fri, 24 Oct 2025 08:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:32 am</title>
-      <description>17100 BLOCK RAVEN ROCK RD Radio: 9D Units: R10</description>
-      <guid isPermaLink="false">2025-10-24 07:32:00</guid>
-      <pubDate>Fri, 24 Oct 2025 07:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
