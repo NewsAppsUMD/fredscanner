@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Oct 2025 23:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 23:31:58 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:22 pm</title>
+      <description>100 BLOCK WOODSIDE AVE Radio: 9D Units: TW1</description>
+      <guid isPermaLink="false">2025-10-26 19:22:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 7:21 pm</title>
+      <description>5700 BLOCK COUNTRY WOOD CT Units: E152</description>
+      <guid isPermaLink="false">2025-10-26 19:21:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 7:18 pm</title>
+      <description>5700 BLOCK COUNTRY WOOD CT Units: R15</description>
+      <guid isPermaLink="false">2025-10-26 19:18:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:18 pm</title>
+      <description>100 BLOCK WOODSIDE AVE Radio: 9D Units: A169</description>
+      <guid isPermaLink="false">2025-10-26 19:18:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:16 pm</title>
+      <description>100 BLOCK WOODSIDE AVE Radio: 9D Units: RID, E91, R24, A68, EMS902, W10</description>
+      <guid isPermaLink="false">2025-10-26 19:16:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:15 pm</title>
+      <description>100 BLOCK WOODSIDE AVE Units: E132, E162, R6, Q11, ALS30, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-10-26 19:15:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 7:08 pm</title>
+      <description>100 BLOCK WOODSIDE AVE Units: PE102, E61, TW6, A307, E221</description>
+      <guid isPermaLink="false">2025-10-26 19:08:00</guid>
+      <pubDate>Sun, 26 Oct 2025 19:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:40 pm</title>
       <description>I270SB / PARK MILLS RD, I270SB / PARK MILLS RD Units: E231, R20, A318, A38, E251, TT23</description>
@@ -264,48 +306,6 @@
       <description>200 BLOCK SOLAR DR Units: E111</description>
       <guid isPermaLink="false">2025-10-25 09:31:00</guid>
       <pubDate>Sat, 25 Oct 2025 09:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 9:04 am</title>
-      <description>11000 BLOCK POWELL RD Units: E291, E162, E111, PE23, E502, E91, R10, TW1, R24, K10, EK134, K33, A299, ALS29, E221, K22, K9, K17, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-10-25 09:04:00</guid>
-      <pubDate>Sat, 25 Oct 2025 09:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:42 am</title>
-      <description>N EAST ST / E SEVENTH ST Units: E33</description>
-      <guid isPermaLink="false">2025-10-25 07:42:00</guid>
-      <pubDate>Sat, 25 Oct 2025 07:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:50 am</title>
-      <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-25 03:50:00</guid>
-      <pubDate>Sat, 25 Oct 2025 03:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:26 am</title>
-      <description>1800 BLOCK WHEYFIELD DR Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2025-10-25 02:26:00</guid>
-      <pubDate>Sat, 25 Oct 2025 02:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:35 am</title>
-      <description>RT340 / RT67 Units: PE52, A196</description>
-      <guid isPermaLink="false">2025-10-25 00:35:00</guid>
-      <pubDate>Sat, 25 Oct 2025 00:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:37 pm</title>
-      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2025-10-24 22:37:00</guid>
-      <pubDate>Fri, 24 Oct 2025 22:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:57 pm</title>
-      <description>2500 BLOCK OLD NATIONAL PIKE Radio: 9B Units: A78, RE74</description>
-      <guid isPermaLink="false">2025-10-24 21:57:00</guid>
-      <pubDate>Fri, 24 Oct 2025 21:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
