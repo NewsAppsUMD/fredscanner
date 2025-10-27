@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 20:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 21:02:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:54 pm</title>
+      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, T4</description>
+      <guid isPermaLink="false">2025-10-27 16:54:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 4:54 pm</title>
+      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: TT23</description>
+      <guid isPermaLink="false">2025-10-27 16:54:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 4:53 pm</title>
+      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2025-10-27 16:53:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:44 pm</title>
+      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: TT23</description>
+      <guid isPermaLink="false">2025-10-27 16:44:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:42 pm</title>
+      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: A238</description>
+      <guid isPermaLink="false">2025-10-27 16:42:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:32 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: HM50, K33</description>
+      <guid isPermaLink="false">2025-10-27 16:32:00</guid>
+      <pubDate>Mon, 27 Oct 2025 16:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:24 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: K7</description>
@@ -270,42 +306,6 @@
       <description>16300 BLOCK UNIVERSITY WAY, MSMU - PANGBORN HALL Units: E61, PE102, TW6</description>
       <guid isPermaLink="false">2025-10-26 04:09:00</guid>
       <pubDate>Sun, 26 Oct 2025 04:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:03 am</title>
-      <description>FINGERBOARD RD / MONOCACY RIVER Units: A149, R14</description>
-      <guid isPermaLink="false">2025-10-26 04:03:00</guid>
-      <pubDate>Sun, 26 Oct 2025 04:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:31 am</title>
-      <description>VERMONT CT / RHODE ISLAND CT Radio: 9I Units: TW6</description>
-      <guid isPermaLink="false">2025-10-26 03:31:00</guid>
-      <pubDate>Sun, 26 Oct 2025 03:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:28 am</title>
-      <description>VERMONT CT / RHODE ISLAND CT Units: E33, PE23, E331, PE311, E291, R3, TW7, A39, ALS4, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-10-26 03:28:00</guid>
-      <pubDate>Sun, 26 Oct 2025 03:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:36 am</title>
-      <description>1600 BLOCK JENNINGS CT Units: A39</description>
-      <guid isPermaLink="false">2025-10-26 01:36:00</guid>
-      <pubDate>Sun, 26 Oct 2025 01:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:32 am</title>
-      <description>500 BLOCK N MARKET ST, STATION 2 Units: R15</description>
-      <guid isPermaLink="false">2025-10-26 01:32:00</guid>
-      <pubDate>Sun, 26 Oct 2025 01:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:18 am</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: TW6</description>
-      <guid isPermaLink="false">2025-10-26 01:18:00</guid>
-      <pubDate>Sun, 26 Oct 2025 01:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
