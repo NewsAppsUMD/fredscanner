@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 13:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 13:40:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:10 am</title>
+      <description>2400 BLOCK MERCHANT ST Radio: 9C Units: E291, Q11</description>
+      <guid isPermaLink="false">2025-10-27 09:10:00</guid>
+      <pubDate>Mon, 27 Oct 2025 09:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 8:06 am</title>
       <description>6300 BLOCK LAMBERT DR, Apt/Unit:TUSCARORA ELEMENTARY, TUSCARORA ELEMENTARY SCHOOL Radio: 9C Units: R3, PE311</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT40A (BRADDOCK), I70EB / RT40A Radio: 9B Units: RE74, E33, R8, A89, A39</description>
       <guid isPermaLink="false">2025-10-25 18:54:00</guid>
       <pubDate>Sat, 25 Oct 2025 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 6:53 pm</title>
-      <description>1000 BLOCK BEXHILL DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-10-25 18:53:00</guid>
-      <pubDate>Sat, 25 Oct 2025 18:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
