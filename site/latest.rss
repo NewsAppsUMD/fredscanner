@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 21:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 22:02:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
+      <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: A319, E281</description>
+      <guid isPermaLink="false">2025-10-28 17:58:00</guid>
+      <pubDate>Tue, 28 Oct 2025 17:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 5:49 pm</title>
+      <description>6700 BLOCK STONEWALL CT W Radio: 9D Units: E231</description>
+      <guid isPermaLink="false">2025-10-28 17:49:00</guid>
+      <pubDate>Tue, 28 Oct 2025 17:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:23 pm</title>
       <description>SAINT ANTHONY RD / GROTTO RD Radio: 9C Units: BR65</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK MAJOR SMITH LN Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-10-27 10:32:00</guid>
       <pubDate>Mon, 27 Oct 2025 10:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 10:21 am</title>
-      <description>100 BLOCK W MAIN ST, Apt/Unit:2 Radio: 9C Units: PE102, E61, R6, E221</description>
-      <guid isPermaLink="false">2025-10-27 10:21:00</guid>
-      <pubDate>Mon, 27 Oct 2025 10:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:10 am</title>
-      <description>2400 BLOCK MERCHANT ST Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2025-10-27 09:10:00</guid>
-      <pubDate>Mon, 27 Oct 2025 09:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
