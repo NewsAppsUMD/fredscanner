@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 21:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 21:32:30 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:23 pm</title>
+      <description>SAINT ANTHONY RD / GROTTO RD Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2025-10-28 17:23:00</guid>
+      <pubDate>Tue, 28 Oct 2025 17:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:57 pm</title>
       <description>MOTTER AVE / W FOURTEENTH ST, RT15NB / MOTTER AVE Radio: 9B Units: A29, PE23</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK MERCHANT ST Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2025-10-27 09:10:00</guid>
       <pubDate>Mon, 27 Oct 2025 09:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:06 am</title>
-      <description>6300 BLOCK LAMBERT DR, Apt/Unit:TUSCARORA ELEMENTARY, TUSCARORA ELEMENTARY SCHOOL Radio: 9C Units: R3, PE311</description>
-      <guid isPermaLink="false">2025-10-27 08:06:00</guid>
-      <pubDate>Mon, 27 Oct 2025 08:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
