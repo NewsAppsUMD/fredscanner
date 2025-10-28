@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 10:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 11:02:10 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 6:52 am</title>
+      <description>7000 BLOCK EAGLEHEAD DR Units: E152</description>
+      <guid isPermaLink="false">2025-10-28 06:52:00</guid>
+      <pubDate>Tue, 28 Oct 2025 06:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:21 am</title>
       <description>9700 BLOCK BLANDWOOD WAY Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WOODSIDE AVE Units: E132, E162, R6, Q11, ALS30, BC901, BC903, SAF901</description>
       <guid isPermaLink="false">2025-10-26 19:15:00</guid>
       <pubDate>Sun, 26 Oct 2025 19:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 7:08 pm</title>
-      <description>100 BLOCK WOODSIDE AVE Units: PE102, E61, TW6, A307, E221</description>
-      <guid isPermaLink="false">2025-10-26 19:08:00</guid>
-      <pubDate>Sun, 26 Oct 2025 19:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
