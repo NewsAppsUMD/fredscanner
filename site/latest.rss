@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 22:34:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 23:02:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:57 pm</title>
+      <description>DICKERSON RD / MT EPHRAIM RD Radio: 7A1 Units: E141</description>
+      <guid isPermaLink="false">2025-10-28 18:57:00</guid>
+      <pubDate>Tue, 28 Oct 2025 18:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:48 pm</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT15NB RAMP, I7100 BLOCKWB / EXIT 53 Radio: 9B Units: E33, E11, R3, A39, A18</description>
+      <guid isPermaLink="false">2025-10-28 18:48:00</guid>
+      <pubDate>Tue, 28 Oct 2025 18:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:09 pm</title>
       <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: ALS31</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK CENTRAL AVE Radio: 9B Units: PE52</description>
       <guid isPermaLink="false">2025-10-27 14:15:00</guid>
       <pubDate>Mon, 27 Oct 2025 14:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:23 am</title>
-      <description>7100 BLOCK JUDICIAL MEWS Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-10-27 11:23:00</guid>
-      <pubDate>Mon, 27 Oct 2025 11:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 10:47 am</title>
-      <description>1900 BLOCK MONOCACY BLVD, EXXON - RIVERSIDE CENTER Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2025-10-27 10:47:00</guid>
-      <pubDate>Mon, 27 Oct 2025 10:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
