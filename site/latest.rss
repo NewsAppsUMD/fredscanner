@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 22:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 22:34:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:09 pm</title>
+      <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: ALS31</description>
+      <guid isPermaLink="false">2025-10-28 18:09:00</guid>
+      <pubDate>Tue, 28 Oct 2025 18:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
       <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: A319, E281</description>
@@ -300,12 +306,6 @@
       <description>1900 BLOCK MONOCACY BLVD, EXXON - RIVERSIDE CENTER Radio: 9C Units: BR116</description>
       <guid isPermaLink="false">2025-10-27 10:47:00</guid>
       <pubDate>Mon, 27 Oct 2025 10:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:32 am</title>
-      <description>9000 BLOCK MAJOR SMITH LN Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-10-27 10:32:00</guid>
-      <pubDate>Mon, 27 Oct 2025 10:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
