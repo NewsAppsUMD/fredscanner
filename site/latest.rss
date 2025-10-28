@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 14:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 14:36:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:07 am</title>
+      <description>JAMES MONROE HWY / WILT STORE RD Radio: 6B Units: A209, E281</description>
+      <guid isPermaLink="false">2025-10-28 10:07:00</guid>
+      <pubDate>Tue, 28 Oct 2025 10:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:08 am</title>
       <description>NEW DESIGN RD / ENGLISH MUFFIN LN Radio: 9D Units: E311, R3, A318, ALS4, BC902, EMS901</description>
@@ -298,12 +304,6 @@
     <item>
       <title>SERVICE CALL: 7:18 pm</title>
       <description>5700 BLOCK COUNTRY WOOD CT Units: R15</description>
-      <guid isPermaLink="false">2025-10-26 19:18:00</guid>
-      <pubDate>Sun, 26 Oct 2025 19:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:18 pm</title>
-      <description>100 BLOCK WOODSIDE AVE Radio: 9D Units: A169</description>
       <guid isPermaLink="false">2025-10-26 19:18:00</guid>
       <pubDate>Sun, 26 Oct 2025 19:18:00 -0400</pubDate>
     </item>
