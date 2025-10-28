@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 08:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 08:38:27 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:17 am</title>
+      <description>2800 BLOCK CAMOMILE DR E Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-10-28 04:17:00</guid>
+      <pubDate>Tue, 28 Oct 2025 04:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:44 am</title>
       <description>100 BLOCK CARROLL CREEK WAY, PARKING GARAGE - SOUTH MARKET CENTER Radio: 9C Units: E33, T4</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK E PATRICK ST, MARKS EQUIPMENT - AIRPORT INDUSTRIAL PARK Units: E33, E31, PE23, PE311, E111, R3, T4, TW1, A39, ALS4, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2025-10-26 18:33:00</guid>
       <pubDate>Sun, 26 Oct 2025 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
-      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Units: E152, E331, R15, A158, A339</description>
-      <guid isPermaLink="false">2025-10-26 18:31:00</guid>
-      <pubDate>Sun, 26 Oct 2025 18:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
