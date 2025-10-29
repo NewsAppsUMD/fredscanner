@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 11:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 11:32:03 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:28 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: RE74</description>
+      <guid isPermaLink="false">2025-10-29 07:28:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:26 am</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: A196</description>
+      <guid isPermaLink="false">2025-10-29 07:26:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:21 am</title>
+      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9D Units: A19, ALS4, ALS31</description>
+      <guid isPermaLink="false">2025-10-29 07:21:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:17 am</title>
+      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9D Units: A18, PE23, W29</description>
+      <guid isPermaLink="false">2025-10-29 07:17:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:10 am</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: A229, A29, ALS2</description>
+      <guid isPermaLink="false">2025-10-29 07:10:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: R24</description>
+      <guid isPermaLink="false">2025-10-29 07:08:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: R3</description>
+      <guid isPermaLink="false">2025-10-29 07:08:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:05 am</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: A248</description>
+      <guid isPermaLink="false">2025-10-29 07:05:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:03 am</title>
+      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: E291, R24, A299, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-10-29 07:03:00</guid>
+      <pubDate>Wed, 29 Oct 2025 07:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 4:26 am</title>
       <description>5300 BLOCK SPECTRUM DR, Apt/Unit:OFC 2, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: R3, PE311</description>
@@ -252,60 +306,6 @@
       <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2025-10-27 16:54:00</guid>
       <pubDate>Mon, 27 Oct 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:54 pm</title>
-      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: TT23</description>
-      <guid isPermaLink="false">2025-10-27 16:54:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:53 pm</title>
-      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2025-10-27 16:53:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:44 pm</title>
-      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: TT23</description>
-      <guid isPermaLink="false">2025-10-27 16:44:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:42 pm</title>
-      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A1 Units: A238</description>
-      <guid isPermaLink="false">2025-10-27 16:42:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:32 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: HM50, K33</description>
-      <guid isPermaLink="false">2025-10-27 16:32:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:24 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: K7</description>
-      <guid isPermaLink="false">2025-10-27 16:24:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:11 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2025-10-27 16:11:00</guid>
-      <pubDate>Mon, 27 Oct 2025 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 3:43 pm</title>
-      <description>6100 BLOCK BURKITTSVILLE RD Radio: 9C Units: E72, K7, BR75</description>
-      <guid isPermaLink="false">2025-10-27 15:43:00</guid>
-      <pubDate>Mon, 27 Oct 2025 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 3:40 pm</title>
-      <description>3000 BLOCK GREEN VALLEY RD Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-10-27 15:40:00</guid>
-      <pubDate>Mon, 27 Oct 2025 15:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
