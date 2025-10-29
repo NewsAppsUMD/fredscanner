@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 12:03:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 12:44:13 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:41 am</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
+      <guid isPermaLink="false">2025-10-29 08:41:00</guid>
+      <pubDate>Wed, 29 Oct 2025 08:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:40 am</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9B Units: E33, T4</description>
+      <guid isPermaLink="false">2025-10-29 08:40:00</guid>
+      <pubDate>Wed, 29 Oct 2025 08:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:13 am</title>
+      <description>RT15SB / HANSONVILLE RD (HANSONVILLE), RT15SB / HANSONVILLE RD Radio: 9D Units: CCM89</description>
+      <guid isPermaLink="false">2025-10-29 08:13:00</guid>
+      <pubDate>Wed, 29 Oct 2025 08:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:06 am</title>
+      <description>RT15SB / HANSONVILLE RD (HANSONVILLE), RT15SB / HANSONVILLE RD Radio: 9D Units: R3</description>
+      <guid isPermaLink="false">2025-10-29 08:06:00</guid>
+      <pubDate>Wed, 29 Oct 2025 08:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:04 am</title>
+      <description>RT15SB / HANSONVILLE RD (HANSONVILLE), RT15SB / HANSONVILLE RD Radio: 9D Units: E111, RE74, A197, ALS17, E221, BC902, EMS901</description>
+      <guid isPermaLink="false">2025-10-29 08:04:00</guid>
+      <pubDate>Wed, 29 Oct 2025 08:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:31 am</title>
       <description>500 BLOCK N MARKET ST, STATION 2 Units: ALS17</description>
@@ -276,36 +306,6 @@
       <description>200 BLOCK E SEVENTH ST, DAIRY MAID DAIRY - 200 BLOCK E SEVENTH ST Units: PE23</description>
       <guid isPermaLink="false">2025-10-27 19:21:00</guid>
       <pubDate>Mon, 27 Oct 2025 19:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:44 pm</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Units: A38, R3</description>
-      <guid isPermaLink="false">2025-10-27 18:44:00</guid>
-      <pubDate>Mon, 27 Oct 2025 18:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:29 pm</title>
-      <description>100 BLOCK E SEVENTH ST Units: PE23</description>
-      <guid isPermaLink="false">2025-10-27 18:29:00</guid>
-      <pubDate>Mon, 27 Oct 2025 18:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:23 pm</title>
-      <description>E MAIN ST / MUNICIPAL ST Units: PE102, E61, E132, E162, E91, R6, TW6, Q11, A307, ALS30, E221, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2025-10-27 18:23:00</guid>
-      <pubDate>Mon, 27 Oct 2025 18:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:58 pm</title>
-      <description>2800 BLOCK IVY MEADOW CT Units: E231, TT23</description>
-      <guid isPermaLink="false">2025-10-27 17:58:00</guid>
-      <pubDate>Mon, 27 Oct 2025 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 5:52 pm</title>
-      <description>700 BLOCK N MARKET ST Units: E33</description>
-      <guid isPermaLink="false">2025-10-27 17:52:00</guid>
-      <pubDate>Mon, 27 Oct 2025 17:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
