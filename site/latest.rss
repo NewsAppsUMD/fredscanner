@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 18:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 19:02:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:49 pm</title>
+      <description>JUDICIAL WAY / CONSTITUTION ST Units: A319, PE311</description>
+      <guid isPermaLink="false">2025-10-29 14:49:00</guid>
+      <pubDate>Wed, 29 Oct 2025 14:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 2:02 pm</title>
       <description>3600 BLOCK CARRIAGE HILL DR, CENTERVILLE ELEMENTARY SCHOOL Units: E231</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / ENGLISH MUFFIN LN Radio: 9D Units: E311, R3, A318, ALS4, BC902, EMS901</description>
       <guid isPermaLink="false">2025-10-28 09:08:00</guid>
       <pubDate>Tue, 28 Oct 2025 09:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:09 am</title>
-      <description>6800 BLOCK REHNQUIST CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-10-28 07:09:00</guid>
-      <pubDate>Tue, 28 Oct 2025 07:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
