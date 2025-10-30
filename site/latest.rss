@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 12:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 13:10:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:01 am</title>
+      <description>RT15-340EB / 9MM, RT340EB / RT180 Radio: 9C Units: E201, E31</description>
+      <guid isPermaLink="false">2025-10-30 09:01:00</guid>
+      <pubDate>Thu, 30 Oct 2025 09:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:51 am</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: RE171</description>
+      <guid isPermaLink="false">2025-10-30 08:51:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:48 am</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: R15</description>
+      <guid isPermaLink="false">2025-10-30 08:48:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:43 am</title>
+      <description>RT15NB / RT26, RT15NB / RT26 Radio: 9D Units: E11, E291, R24, A29, A299, ALS2, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-10-30 08:43:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:40 am</title>
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E152, A158</description>
@@ -282,30 +306,6 @@
       <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: A229, A29, ALS2</description>
       <guid isPermaLink="false">2025-10-29 07:10:00</guid>
       <pubDate>Wed, 29 Oct 2025 07:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: R24</description>
-      <guid isPermaLink="false">2025-10-29 07:08:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: R3</description>
-      <guid isPermaLink="false">2025-10-29 07:08:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:05 am</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: A248</description>
-      <guid isPermaLink="false">2025-10-29 07:05:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:03 am</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: E291, R24, A299, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-10-29 07:03:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
