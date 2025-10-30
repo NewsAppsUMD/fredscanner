@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 09:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 10:02:24 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:40 am</title>
+      <description>FISHERS HOLLOW RD / HIGHLAND SCHOOL RD Units: BR85</description>
+      <guid isPermaLink="false">2025-10-30 05:40:00</guid>
+      <pubDate>Thu, 30 Oct 2025 05:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:40 am</title>
       <description>100 BLOCK WAYNESBORO PIKE Units: CCE102</description>
@@ -300,12 +306,6 @@
       <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: ALS31</description>
       <guid isPermaLink="false">2025-10-28 18:09:00</guid>
       <pubDate>Tue, 28 Oct 2025 18:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:58 pm</title>
-      <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: A319, E281</description>
-      <guid isPermaLink="false">2025-10-28 17:58:00</guid>
-      <pubDate>Tue, 28 Oct 2025 17:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
