@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 14:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 15:02:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:45 am</title>
+      <description>5400 BLOCK OLD NATIONAL PIKE, Bldg:A, MEADOWS FARMS NURSERIES INC Radio: 9B Units: A78</description>
+      <guid isPermaLink="false">2025-10-30 10:45:00</guid>
+      <pubDate>Thu, 30 Oct 2025 10:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:44 am</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9B Units: E141, T4</description>
+      <guid isPermaLink="false">2025-10-30 10:44:00</guid>
+      <pubDate>Thu, 30 Oct 2025 10:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:39 am</title>
+      <description>5400 BLOCK OLD NATIONAL PIKE, Bldg:A, MEADOWS FARMS NURSERIES INC Radio: 9B Units: A158, E11</description>
+      <guid isPermaLink="false">2025-10-30 10:39:00</guid>
+      <pubDate>Thu, 30 Oct 2025 10:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:01 am</title>
       <description>RT15-340EB / 9MM, RT340EB / RT180 Radio: 9C Units: E201, E31</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: A196</description>
       <guid isPermaLink="false">2025-10-29 07:26:00</guid>
       <pubDate>Wed, 29 Oct 2025 07:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:21 am</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9D Units: A19, ALS4, ALS31</description>
-      <guid isPermaLink="false">2025-10-29 07:21:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:17 am</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9D Units: A18, PE23, W29</description>
-      <guid isPermaLink="false">2025-10-29 07:17:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:10 am</title>
-      <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: A229, A29, ALS2</description>
-      <guid isPermaLink="false">2025-10-29 07:10:00</guid>
-      <pubDate>Wed, 29 Oct 2025 07:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
