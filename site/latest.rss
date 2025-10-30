@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 12:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 12:44:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:40 am</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E152, A158</description>
+      <guid isPermaLink="false">2025-10-30 08:40:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:31 am</title>
+      <description>I70WB / 47MM, I70WB / RT40A Radio: 9B Units: E121, E72, R8, A129, A89</description>
+      <guid isPermaLink="false">2025-10-30 08:31:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:10 am</title>
+      <description>10200 BLOCK ROYAL SAINT ANDREWS PL Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-10-30 08:10:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:06 am</title>
+      <description>1300 BLOCK BUTTERFLY LN Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-10-30 08:06:00</guid>
+      <pubDate>Thu, 30 Oct 2025 08:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:47 am</title>
       <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - SMITH HALL Radio: 9C Units: PE23, T4</description>
@@ -282,30 +306,6 @@
       <description>RT15NB / BIGGS FORD RD, RT15NB / BIGGS FORD RD Radio: 9D Units: E291, R24, A299, ALS29, BC902, EMS902</description>
       <guid isPermaLink="false">2025-10-29 07:03:00</guid>
       <pubDate>Wed, 29 Oct 2025 07:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 4:26 am</title>
-      <description>5300 BLOCK SPECTRUM DR, Apt/Unit:OFC 2, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: R3, PE311</description>
-      <guid isPermaLink="false">2025-10-29 04:26:00</guid>
-      <pubDate>Wed, 29 Oct 2025 04:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:35 am</title>
-      <description>200 BLOCK SOLAR DR Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-10-29 00:35:00</guid>
-      <pubDate>Wed, 29 Oct 2025 00:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:19 pm</title>
-      <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-10-28 20:19:00</guid>
-      <pubDate>Tue, 28 Oct 2025 20:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:18 pm</title>
-      <description>1400 BLOCK BAKER PL W, Bldg:1400 BLOCK Radio: 9C Units: E11, T4</description>
-      <guid isPermaLink="false">2025-10-28 19:18:00</guid>
-      <pubDate>Tue, 28 Oct 2025 19:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
