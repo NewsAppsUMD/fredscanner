@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 21:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 22:02:12 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:52 pm</title>
+      <description>RIDGE RD / I70 (BRADDOCK), RIDGE RD / I70 Units: E121</description>
+      <guid isPermaLink="false">2025-10-31 17:52:00</guid>
+      <pubDate>Fri, 31 Oct 2025 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:40 pm</title>
+      <description>WOODSBORO PIKE / NICODEMUS RD Units: A248, E111</description>
+      <guid isPermaLink="false">2025-10-31 17:40:00</guid>
+      <pubDate>Fri, 31 Oct 2025 17:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:21 pm</title>
       <description>4700 BLOCK TUSCARORA RD Radio: 9C Units: BR285</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK WAYNESBORO PIKE Units: K10</description>
       <guid isPermaLink="false">2025-10-30 01:39:00</guid>
       <pubDate>Thu, 30 Oct 2025 01:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:36 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: A38</description>
-      <guid isPermaLink="false">2025-10-30 01:36:00</guid>
-      <pubDate>Thu, 30 Oct 2025 01:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:32 am</title>
-      <description>100 BLOCK WAYNESBORO PIKE Units: EK134, E162</description>
-      <guid isPermaLink="false">2025-10-30 01:32:00</guid>
-      <pubDate>Thu, 30 Oct 2025 01:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
