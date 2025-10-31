@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 19:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 20:02:12 +0000</lastBuildDate>
+    <item>
+      <title>STRUCTURAL COLLAPSE: 3:39 pm</title>
+      <description>4200 BLOCK LIME KILN RD Radio: 9I Units: PE311, E33, R14, T4, HM33, TR29, A318, A319, ALS31, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2025-10-31 15:39:00</guid>
+      <pubDate>Fri, 31 Oct 2025 15:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 3:36 pm</title>
+      <description>4200 BLOCK ED MCCLAIN RD Radio: 9D Units: A239, ALS33, EMS901, E251</description>
+      <guid isPermaLink="false">2025-10-31 15:36:00</guid>
+      <pubDate>Fri, 31 Oct 2025 15:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:30 pm</title>
+      <description>6800 BLOCK BLACKS MILL RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2025-10-31 15:30:00</guid>
+      <pubDate>Fri, 31 Oct 2025 15:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:30 pm</title>
       <description>LEE PL / MEADE AVE Radio: 9C Units: E281</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK WAYNESBORO PIKE Units: E61, EK64, TW6, R6, A68, PE102</description>
       <guid isPermaLink="false">2025-10-30 01:23:00</guid>
       <pubDate>Thu, 30 Oct 2025 01:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:58 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES FREDERICK Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-10-29 19:58:00</guid>
-      <pubDate>Wed, 29 Oct 2025 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:57 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-10-29 19:57:00</guid>
-      <pubDate>Wed, 29 Oct 2025 19:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
-      <description>BUCKEYSTOWN PIKE / MANOR WOODS RD Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2025-10-29 16:49:00</guid>
-      <pubDate>Wed, 29 Oct 2025 16:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
