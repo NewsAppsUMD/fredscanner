@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 03:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 04:02:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:54 pm</title>
+      <description>RT340WB / GENE HEMP RD, RT340WB / GENE HEMP RD Units: E141, R19, A19, A197</description>
+      <guid isPermaLink="false">2025-10-31 23:54:00</guid>
+      <pubDate>Fri, 31 Oct 2025 23:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:38 pm</title>
       <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Units: A209, A149, E201</description>
@@ -300,12 +306,6 @@
       <description>HAWBOTTOM RD / BALTIMORE NATIONAL PIKE PIKE, NEAR MD NATIONAL GOLF COURSE Radio: 9C Units: BR85</description>
       <guid isPermaLink="false">2025-10-30 06:41:00</guid>
       <pubDate>Thu, 30 Oct 2025 06:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:40 am</title>
-      <description>FISHERS HOLLOW RD / HIGHLAND SCHOOL RD Units: BR85</description>
-      <guid isPermaLink="false">2025-10-30 05:40:00</guid>
-      <pubDate>Thu, 30 Oct 2025 05:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
