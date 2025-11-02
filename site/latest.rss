@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 18:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 19:01:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:53 pm</title>
+      <description>100 BLOCK(2644) BLK ROHRERSVILLE RD Units: R19, A196</description>
+      <guid isPermaLink="false">2025-11-02 13:53:00</guid>
+      <pubDate>Sun, 02 Nov 2025 13:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:17 pm</title>
       <description>100 BLOCK W THIRD ST Radio: 9D Units: PE23, E33, E11, PE311, E291, R2, T4, R3, A29, ALS2, BC902, BC901, SAF901</description>
@@ -300,12 +306,6 @@
       <description>5400 BLOCK OLD NATIONAL PIKE, Bldg:A, MEADOWS FARMS NURSERIES INC Radio: 9B Units: A158, E11</description>
       <guid isPermaLink="false">2025-10-30 10:39:00</guid>
       <pubDate>Thu, 30 Oct 2025 10:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:01 am</title>
-      <description>RT15-340EB / 9MM, RT340EB / RT180 Radio: 9C Units: E201, E31</description>
-      <guid isPermaLink="false">2025-10-30 09:01:00</guid>
-      <pubDate>Thu, 30 Oct 2025 09:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
