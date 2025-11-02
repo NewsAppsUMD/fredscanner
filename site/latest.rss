@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 10:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 10:34:06 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:20 am</title>
+      <description>700 BLOCK E PATRICK ST, Bldg:7/8 Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-11-02 05:20:00</guid>
+      <pubDate>Sun, 02 Nov 2025 05:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 4:48 am</title>
       <description>100 BLOCK S MARKET ST Radio: 9C Units: R3</description>
@@ -300,12 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E152, A158</description>
       <guid isPermaLink="false">2025-10-30 08:40:00</guid>
       <pubDate>Thu, 30 Oct 2025 08:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:31 am</title>
-      <description>I70WB / 47MM, I70WB / RT40A Radio: 9B Units: E121, E72, R8, A129, A89</description>
-      <guid isPermaLink="false">2025-10-30 08:31:00</guid>
-      <pubDate>Thu, 30 Oct 2025 08:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
