@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 15:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 15:35:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:32 am</title>
+      <description>3700 BLOCK POINT OF ROCKS RD Radio: 9B Units: A209, E281</description>
+      <guid isPermaLink="false">2025-11-03 10:32:00</guid>
+      <pubDate>Mon, 03 Nov 2025 10:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:02 am</title>
+      <description>600 BLOCK RED CT Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2025-11-03 10:02:00</guid>
+      <pubDate>Mon, 03 Nov 2025 10:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 9:16 am</title>
       <description>4400 BLOCK TULIP LN Radio: 9C Units: E251, E231, TT23</description>
@@ -294,18 +306,6 @@
       <description>BRANDENBURG HOLLOW RD / FORREST SCHOOL RD Radio: 9C Units: BR216</description>
       <guid isPermaLink="false">2025-10-31 10:43:00</guid>
       <pubDate>Fri, 31 Oct 2025 10:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:19 am</title>
-      <description>100 BLOCK S MARKET ST Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-10-31 10:19:00</guid>
-      <pubDate>Fri, 31 Oct 2025 10:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 9:48 am</title>
-      <description>W PATRICK ST / N MCCAIN DR Radio: 9D Units: A39, ALS2, E11, EMS901</description>
-      <guid isPermaLink="false">2025-10-31 09:48:00</guid>
-      <pubDate>Fri, 31 Oct 2025 09:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
