@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Nov 2025 18:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 18:38:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:23 pm</title>
+      <description>3500 BLOCK BUFFALO RD Radio: 9B Units: A179</description>
+      <guid isPermaLink="false">2025-11-03 13:23:00</guid>
+      <pubDate>Mon, 03 Nov 2025 13:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 1:21 pm</title>
+      <description>MA WASHCO: I70EB / 37MM, MA WASHCO: I70EB / 37MM Radio: PS1 Units: E82</description>
+      <guid isPermaLink="false">2025-11-03 13:21:00</guid>
+      <pubDate>Mon, 03 Nov 2025 13:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:32 am</title>
       <description>3700 BLOCK POINT OF ROCKS RD Radio: 9B Units: A209, E281</description>
@@ -294,18 +306,6 @@
       <description>S BENTZ ST / W SOUTH ST Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-10-31 10:58:00</guid>
       <pubDate>Fri, 31 Oct 2025 10:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 10:56 am</title>
-      <description>1100 BLOCK KEY PKWY, Apt/Unit:101, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9C Units: E33, PE23, T4</description>
-      <guid isPermaLink="false">2025-10-31 10:56:00</guid>
-      <pubDate>Fri, 31 Oct 2025 10:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:43 am</title>
-      <description>BRANDENBURG HOLLOW RD / FORREST SCHOOL RD Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2025-10-31 10:43:00</guid>
-      <pubDate>Fri, 31 Oct 2025 10:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
