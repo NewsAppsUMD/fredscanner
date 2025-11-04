@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 22:34:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 23:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:53 pm</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9B Units: ALS23</description>
+      <guid isPermaLink="false">2025-11-04 17:53:00</guid>
+      <pubDate>Tue, 04 Nov 2025 17:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:38 pm</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9B Units: E231, PE311, R3, A239, A319, TT23</description>
+      <guid isPermaLink="false">2025-11-04 17:38:00</guid>
+      <pubDate>Tue, 04 Nov 2025 17:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 4:55 pm</title>
       <description>10600 BLOCK BREWERTON LN Radio: 9C Units: E153, E172, Q11</description>
@@ -294,18 +306,6 @@
       <description>700 BLOCK E PATRICK ST, Bldg:7, FREDERICK FAIRGROUNDS - BLDG 7 - COMMERCIAL EXHIBIT Radio: 9C Units: E33, T4</description>
       <guid isPermaLink="false">2025-11-02 04:19:00</guid>
       <pubDate>Sun, 02 Nov 2025 04:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:07 am</title>
-      <description>2100 BLOCK YATES DR, Bldg:6, RIDGEVIEW CONDOS - 2100 BLOCK YATES DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-11-02 02:07:00</guid>
-      <pubDate>Sun, 02 Nov 2025 02:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 am</title>
-      <description>SHOOKSTOWN RD / IRONGATE LN Radio: 9D Units: E11, R8, A18, ALS8, BC903, EMS902</description>
-      <guid isPermaLink="false">2025-11-02 01:52:00</guid>
-      <pubDate>Sun, 02 Nov 2025 01:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
