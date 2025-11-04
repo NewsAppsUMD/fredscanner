@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 15:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 16:02:33 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 10:57 am</title>
+      <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-11-04 10:57:00</guid>
+      <pubDate>Tue, 04 Nov 2025 10:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 10:44 am</title>
+      <description>13000 BLOCK DETOUR RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2025-11-04 10:44:00</guid>
+      <pubDate>Tue, 04 Nov 2025 10:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 10:28 am</title>
       <description>5800 BLOCK EAGLEHEAD DR, Apt/Unit:A118, OAKDALE HIGH SCHOOL Radio: 9C Units: E331, E33, R15</description>
@@ -294,18 +306,6 @@
       <description>5400 BLOCK HOLIDAY DR Units: PE311, T4</description>
       <guid isPermaLink="false">2025-10-31 20:19:00</guid>
       <pubDate>Fri, 31 Oct 2025 20:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:08 pm</title>
-      <description>15300 BLOCK SABILLASVILLE RD Units: R10, ALS30, EMS902</description>
-      <guid isPermaLink="false">2025-10-31 20:08:00</guid>
-      <pubDate>Fri, 31 Oct 2025 20:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:00 pm</title>
-      <description>900 BLOCK E PATRICK ST, BROWNS LIQUORS Units: E33, T4</description>
-      <guid isPermaLink="false">2025-10-31 19:00:00</guid>
-      <pubDate>Fri, 31 Oct 2025 19:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
