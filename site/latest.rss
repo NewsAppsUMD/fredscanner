@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Nov 2025 20:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 21:02:22 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:52 pm</title>
+      <description>11400 BLOCK DRUMMERS PASS Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-11-04 15:52:00</guid>
+      <pubDate>Tue, 04 Nov 2025 15:52:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:08 pm</title>
       <description>MAIN ST / WALNUT ST Radio: 9B Units: A179, E172</description>
@@ -300,12 +306,6 @@
       <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Units: A209, A149, E201</description>
       <guid isPermaLink="false">2025-10-31 23:38:00</guid>
       <pubDate>Fri, 31 Oct 2025 23:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 11:16 pm</title>
-      <description>9300 BLOCK GRANITE CIR Units: E11, E291, K1, E221</description>
-      <guid isPermaLink="false">2025-10-31 23:16:00</guid>
-      <pubDate>Fri, 31 Oct 2025 23:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
