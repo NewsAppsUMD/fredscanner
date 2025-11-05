@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 11:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 11:32:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 6:21 am</title>
+      <description>200 BLOCK MONTEVUE LN, IAO Radio: 9C Units: E11, E501</description>
+      <guid isPermaLink="false">2025-11-05 06:21:00</guid>
+      <pubDate>Wed, 05 Nov 2025 06:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:00 am</title>
       <description>100 BLOCK MAE WAY Radio: 9B Units: PE102</description>
@@ -300,12 +306,6 @@
       <description>12700 BLOCK CATOCTIN HOLLOW RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-11-02 16:17:00</guid>
       <pubDate>Sun, 02 Nov 2025 16:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:13 pm</title>
-      <description>500 BLOCK UNION ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-11-02 16:13:00</guid>
-      <pubDate>Sun, 02 Nov 2025 16:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
