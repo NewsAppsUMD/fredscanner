@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 21:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 22:02:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:57 pm</title>
+      <description>RT40 / ROSEBUD CT(E), RT40 / ROSEBUD CT Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2025-11-05 16:57:00</guid>
+      <pubDate>Wed, 05 Nov 2025 16:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL SPILL: 4:11 pm</title>
+      <description>RT194 / RT550, RT194 / RT550 Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2025-11-05 16:11:00</guid>
+      <pubDate>Wed, 05 Nov 2025 16:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 2:53 pm</title>
       <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: R3</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK MANOR WOODS RD Radio: 9D Units: A149, ALS31, R14, EMS901</description>
       <guid isPermaLink="false">2025-11-03 15:58:00</guid>
       <pubDate>Mon, 03 Nov 2025 15:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 2:06 pm</title>
-      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Units: TW1</description>
-      <guid isPermaLink="false">2025-11-03 14:06:00</guid>
-      <pubDate>Mon, 03 Nov 2025 14:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:23 pm</title>
-      <description>3500 BLOCK BUFFALO RD Radio: 9B Units: A179</description>
-      <guid isPermaLink="false">2025-11-03 13:23:00</guid>
-      <pubDate>Mon, 03 Nov 2025 13:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
