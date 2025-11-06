@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 02:59:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 03:29:51 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:24 pm</title>
+      <description>13000 BLOCK MOLASSES RD Radio: 9C Units: BR176</description>
+      <guid isPermaLink="false">2025-11-05 22:24:00</guid>
+      <pubDate>Wed, 05 Nov 2025 22:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:21 pm</title>
+      <description>100 BLOCK LINDEN BLVD Units: TW7</description>
+      <guid isPermaLink="false">2025-11-05 22:21:00</guid>
+      <pubDate>Wed, 05 Nov 2025 22:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:16 pm</title>
+      <description>100 BLOCK LINDEN BLVD Units: RE74, E121, TW7</description>
+      <guid isPermaLink="false">2025-11-05 22:16:00</guid>
+      <pubDate>Wed, 05 Nov 2025 22:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 7:21 pm</title>
       <description>100 BLOCK HARP PL, MYERSVILLE PARK Units: RE74, E212</description>
@@ -288,24 +306,6 @@
       <description>5800 BLOCK EAGLEHEAD DR, Apt/Unit:A118, OAKDALE HIGH SCHOOL Radio: 9C Units: E331, E33, R15</description>
       <guid isPermaLink="false">2025-11-04 10:28:00</guid>
       <pubDate>Tue, 04 Nov 2025 10:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:29 am</title>
-      <description>I70WB / RT40A, I70WB / RT40A Units: BR125, BR85</description>
-      <guid isPermaLink="false">2025-11-04 07:29:00</guid>
-      <pubDate>Tue, 04 Nov 2025 07:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:29 am</title>
-      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Radio: 9B Units: ALS23</description>
-      <guid isPermaLink="false">2025-11-04 06:29:00</guid>
-      <pubDate>Tue, 04 Nov 2025 06:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:21 am</title>
-      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Radio: 9B Units: E231, R3, A239, TT23</description>
-      <guid isPermaLink="false">2025-11-04 06:21:00</guid>
-      <pubDate>Tue, 04 Nov 2025 06:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
