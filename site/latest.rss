@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 19:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 19:31:52 +0000</lastBuildDate>
+    <item>
+      <title>LARGE FUEL SPILL: 2:25 pm</title>
+      <description>MONOCACY BLVD / E SOUTH ST Radio: 9C Units: E501, E153, HM33, HMSU33, BC901, SAF900</description>
+      <guid isPermaLink="false">2025-11-06 14:25:00</guid>
+      <pubDate>Thu, 06 Nov 2025 14:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:18 pm</title>
+      <description>11200 BLOCK LOOP RD, STATION FC016 - SOUTH MOUNTAIN FIRE/AMBULANCE CO Units: EK64</description>
+      <guid isPermaLink="false">2025-11-06 14:18:00</guid>
+      <pubDate>Thu, 06 Nov 2025 14:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:10 pm</title>
+      <description>6500 BLOCK WHETSTONE DR Units: PE311, E11, E33, E501, E291, R3, T4, R2, A318, ALS4, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2025-11-06 14:10:00</guid>
+      <pubDate>Thu, 06 Nov 2025 14:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:44 pm</title>
       <description>6700 BLOCK MOUNT PHILLIP RD Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>1200 BLOCK ARNOLDTOWN RD Units: RE74, E201, E121, E82, R20, TW7, T5, K5, EK204, A209, ALS20, BC903, BC901, SAF901, E501</description>
       <guid isPermaLink="false">2025-11-05 11:48:00</guid>
       <pubDate>Wed, 05 Nov 2025 11:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:14 am</title>
-      <description>100 BLOCK BLK RAMP RT351 TO RT15-34100 BLOCKEB RAMP Radio: 9B Units: A319</description>
-      <guid isPermaLink="false">2025-11-05 11:14:00</guid>
-      <pubDate>Wed, 05 Nov 2025 11:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:07 am</title>
-      <description>100 BLOCK BLK RAMP RT351 TO RT15-34100 BLOCKEB RAMP Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2025-11-05 11:07:00</guid>
-      <pubDate>Wed, 05 Nov 2025 11:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:35 am</title>
-      <description>9500 BLOCK KNIGHTS WALK LN Radio: 9C Units: E231, T4</description>
-      <guid isPermaLink="false">2025-11-05 10:35:00</guid>
-      <pubDate>Wed, 05 Nov 2025 10:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
