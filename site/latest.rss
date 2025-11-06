@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 03:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 03:50:06 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:34 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: E331</description>
+      <guid isPermaLink="false">2025-11-05 22:34:00</guid>
+      <pubDate>Wed, 05 Nov 2025 22:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:24 pm</title>
       <description>13000 BLOCK MOLASSES RD Radio: 9C Units: BR176</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK DETOUR RD Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2025-11-04 10:44:00</guid>
       <pubDate>Tue, 04 Nov 2025 10:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:28 am</title>
-      <description>5800 BLOCK EAGLEHEAD DR, Apt/Unit:A118, OAKDALE HIGH SCHOOL Radio: 9C Units: E331, E33, R15</description>
-      <guid isPermaLink="false">2025-11-04 10:28:00</guid>
-      <pubDate>Tue, 04 Nov 2025 10:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
