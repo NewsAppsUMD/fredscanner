@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 04:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 04:38:34 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 11:07 pm</title>
+      <description>2800 BLOCK WARD KLINE RD Units: BR85, BR216, WILDLAND7</description>
+      <guid isPermaLink="false">2025-11-05 23:07:00</guid>
+      <pubDate>Wed, 05 Nov 2025 23:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:05 pm</title>
+      <description>JEFFERSON PIKE / HARPERS FERRY RD Radio: 6B Units: PE52</description>
+      <guid isPermaLink="false">2025-11-05 23:05:00</guid>
+      <pubDate>Wed, 05 Nov 2025 23:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 10:56 pm</title>
       <description>2800 BLOCK WARD KLINE RD Units: RE74, TW7, K7</description>
@@ -294,18 +306,6 @@
       <description>11400 BLOCK DRUMMERS PASS Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2025-11-04 15:52:00</guid>
       <pubDate>Tue, 04 Nov 2025 15:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:08 pm</title>
-      <description>MAIN ST / WALNUT ST Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2025-11-04 14:08:00</guid>
-      <pubDate>Tue, 04 Nov 2025 14:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:47 pm</title>
-      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9D Units: E251, TT23, R3, A239, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-11-04 13:47:00</guid>
-      <pubDate>Tue, 04 Nov 2025 13:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
