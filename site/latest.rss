@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 23:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 00:08:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:40 pm</title>
+      <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
+      <guid isPermaLink="false">2025-11-06 18:40:00</guid>
+      <pubDate>Thu, 06 Nov 2025 18:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:40 pm</title>
+      <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
+      <guid isPermaLink="false">2025-11-06 18:40:00</guid>
+      <pubDate>Thu, 06 Nov 2025 18:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 6:09 pm</title>
       <description>5700 BLOCK INDUSTRY LN Radio: 9B Units: R3</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: R15</description>
       <guid isPermaLink="false">2025-11-05 14:06:00</guid>
       <pubDate>Wed, 05 Nov 2025 14:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ALERT 2 - MAJOR DIFFICULTY: 2:02 pm</title>
-      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: R24</description>
-      <guid isPermaLink="false">2025-11-05 14:02:00</guid>
-      <pubDate>Wed, 05 Nov 2025 14:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ALERT 2 - MAJOR DIFFICULTY: 1:56 pm</title>
-      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: E33, PE311, E111, E501, R3, R24, K33, K1, HM33, HMSU33, A38, A29, A319, A318, ALS4, ALS31, BC901, SAF901, EMS902</description>
-      <guid isPermaLink="false">2025-11-05 13:56:00</guid>
-      <pubDate>Wed, 05 Nov 2025 13:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
