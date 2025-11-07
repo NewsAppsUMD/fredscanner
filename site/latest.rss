@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 21:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 22:34:02 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:24 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: A198</description>
+      <guid isPermaLink="false">2025-11-07 17:24:00</guid>
+      <pubDate>Fri, 07 Nov 2025 17:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 5:05 pm</title>
+      <description>11400 BLOCK CREAGERSTOWN RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-11-07 17:05:00</guid>
+      <pubDate>Fri, 07 Nov 2025 17:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 4:58 pm</title>
+      <description>11400 BLOCK CREAGERSTOWN RD Radio: 9C Units: E91, E132, EK134, K9</description>
+      <guid isPermaLink="false">2025-11-07 16:58:00</guid>
+      <pubDate>Fri, 07 Nov 2025 16:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:53 pm</title>
+      <description>9200 BLOCK CHURCH ST, SAINT PETERS CHURCH SULLIVAN HALL Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2025-11-07 16:53:00</guid>
+      <pubDate>Fri, 07 Nov 2025 16:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:48 pm</title>
+      <description>9200 BLOCK CHURCH ST, SAINT PETERS CHURCH SULLIVAN HALL Radio: 9C Units: R24, A169, A159, ALS29</description>
+      <guid isPermaLink="false">2025-11-07 16:48:00</guid>
+      <pubDate>Fri, 07 Nov 2025 16:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:43 pm</title>
+      <description>9200 BLOCK CHURCH ST, SAINT PETERS CHURCH SULLIVAN HALL Radio: 9C Units: A179</description>
+      <guid isPermaLink="false">2025-11-07 16:43:00</guid>
+      <pubDate>Fri, 07 Nov 2025 16:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:29 pm</title>
+      <description>100 BLOCK N MCCAIN DR, HOME DEPOT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: E11, R3, A38, PE311, EMS901</description>
+      <guid isPermaLink="false">2025-11-07 16:29:00</guid>
+      <pubDate>Fri, 07 Nov 2025 16:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 4:11 pm</title>
       <description>9200 BLOCK CHURCH ST, SAINT PETERS CHURCH SULLIVAN HALL Radio: 9C Units: E172, E162, R15, EK114, K17</description>
@@ -264,48 +306,6 @@
       <description>RT15NB / CREAMERY RD, RT15NB / CREAMERY RD Radio: 9B Units: A68, R6</description>
       <guid isPermaLink="false">2025-11-06 05:19:00</guid>
       <pubDate>Thu, 06 Nov 2025 05:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:23 am</title>
-      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-11-06 02:23:00</guid>
-      <pubDate>Thu, 06 Nov 2025 02:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:57 am</title>
-      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, T4</description>
-      <guid isPermaLink="false">2025-11-06 01:57:00</guid>
-      <pubDate>Thu, 06 Nov 2025 01:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:30 am</title>
-      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-11-06 01:30:00</guid>
-      <pubDate>Thu, 06 Nov 2025 01:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:54 am</title>
-      <description>1500 BLOCK PEARRE RD Radio: TAC1OPS Units: WILDLAND7</description>
-      <guid isPermaLink="false">2025-11-06 00:54:00</guid>
-      <pubDate>Thu, 06 Nov 2025 00:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:49 am</title>
-      <description>1500 BLOCK PEARRE RD Radio: TAC1OPS Units: WILDLAND7</description>
-      <guid isPermaLink="false">2025-11-06 00:49:00</guid>
-      <pubDate>Thu, 06 Nov 2025 00:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE BRUSH FIRE: 12:49 am</title>
-      <description>1500 BLOCK PEARRE RD Radio: TAC1OPS Units: WILDLAND7</description>
-      <guid isPermaLink="false">2025-11-06 00:49:00</guid>
-      <pubDate>Thu, 06 Nov 2025 00:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 11:07 pm</title>
-      <description>2800 BLOCK WARD KLINE RD Units: BR85, BR216, WILDLAND7</description>
-      <guid isPermaLink="false">2025-11-05 23:07:00</guid>
-      <pubDate>Wed, 05 Nov 2025 23:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
