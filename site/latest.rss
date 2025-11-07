@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 07 Nov 2025 00:46:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 01:29:50 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:21 pm</title>
+      <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-11-06 20:21:00</guid>
+      <pubDate>Thu, 06 Nov 2025 20:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:03 pm</title>
+      <description>6100 BLOCK BALDRIDGE TER Radio: 9C Units: E331, E33, T4</description>
+      <guid isPermaLink="false">2025-11-06 20:03:00</guid>
+      <pubDate>Thu, 06 Nov 2025 20:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:40 pm</title>
       <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: R3</description>
       <guid isPermaLink="false">2025-11-05 14:53:00</guid>
       <pubDate>Wed, 05 Nov 2025 14:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:25 pm</title>
-      <description>16900 BLOCK ANNANDALE RD Radio: 9C Units: BR65</description>
-      <guid isPermaLink="false">2025-11-05 14:25:00</guid>
-      <pubDate>Wed, 05 Nov 2025 14:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ALERT 2 - MAJOR DIFFICULTY: 2:06 pm</title>
-      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: R15</description>
-      <guid isPermaLink="false">2025-11-05 14:06:00</guid>
-      <pubDate>Wed, 05 Nov 2025 14:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
