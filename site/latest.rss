@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 14:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 14:33:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:28 am</title>
+      <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E33, T4</description>
+      <guid isPermaLink="false">2025-11-08 09:28:00</guid>
+      <pubDate>Sat, 08 Nov 2025 09:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:38 am</title>
       <description>6500 BLOCK WALCOTT LN, Apt/Unit:303 Units: T4</description>
@@ -300,12 +306,6 @@
       <description>SABILLASVILLE RD / RAILROAD XING Radio: 9D Units: E61, R10, A307, ALS30, EMS902</description>
       <guid isPermaLink="false">2025-11-06 13:26:00</guid>
       <pubDate>Thu, 06 Nov 2025 13:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:03 pm</title>
-      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-11-06 13:03:00</guid>
-      <pubDate>Thu, 06 Nov 2025 13:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
