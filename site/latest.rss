@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 07:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 08:02:15 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 2:51 am</title>
+      <description>6000 BLOCK TANEYTOWN PIKE Units: EK134</description>
+      <guid isPermaLink="false">2025-11-09 02:51:00</guid>
+      <pubDate>Sun, 09 Nov 2025 02:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 2:46 am</title>
+      <description>6000 BLOCK TANEYTOWN PIKE Units: E132</description>
+      <guid isPermaLink="false">2025-11-09 02:46:00</guid>
+      <pubDate>Sun, 09 Nov 2025 02:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:44 am</title>
+      <description>6000 BLOCK TANEYTOWN PIKE Units: TW6</description>
+      <guid isPermaLink="false">2025-11-09 02:44:00</guid>
+      <pubDate>Sun, 09 Nov 2025 02:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:43 am</title>
+      <description>6000 BLOCK TANEYTOWN PIKE Units: A68, BC902</description>
+      <guid isPermaLink="false">2025-11-09 02:43:00</guid>
+      <pubDate>Sun, 09 Nov 2025 02:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:40 am</title>
+      <description>6000 BLOCK TANEYTOWN PIKE Units: SAF901, EK64, E61</description>
+      <guid isPermaLink="false">2025-11-09 02:40:00</guid>
+      <pubDate>Sun, 09 Nov 2025 02:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:35 pm</title>
       <description>8000 BLOCK REICHS FORD RD Radio: 9C Units: E33</description>
@@ -276,36 +306,6 @@
       <description>3600 BLOCK BYRON CIR Radio: 9C Units: E231, E251, TT23</description>
       <guid isPermaLink="false">2025-11-07 03:53:00</guid>
       <pubDate>Fri, 07 Nov 2025 03:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:57 am</title>
-      <description>100 BLOCK LAUREN CT Units: E11, T4</description>
-      <guid isPermaLink="false">2025-11-07 01:57:00</guid>
-      <pubDate>Fri, 07 Nov 2025 01:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 12:15 am</title>
-      <description>1400 BLOCK KEY PKWY, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Units: A18, ALS2, E11, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-11-07 00:15:00</guid>
-      <pubDate>Fri, 07 Nov 2025 00:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:31 pm</title>
-      <description>3800 BLOCK PETERSVILLE RD Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2025-11-06 23:31:00</guid>
-      <pubDate>Thu, 06 Nov 2025 23:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:21 pm</title>
-      <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-11-06 20:21:00</guid>
-      <pubDate>Thu, 06 Nov 2025 20:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:03 pm</title>
-      <description>6100 BLOCK BALDRIDGE TER Radio: 9C Units: E331, E33, T4</description>
-      <guid isPermaLink="false">2025-11-06 20:03:00</guid>
-      <pubDate>Thu, 06 Nov 2025 20:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
