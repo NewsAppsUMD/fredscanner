@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 03:27:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 03:46:43 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 10:35 pm</title>
+      <description>8000 BLOCK REICHS FORD RD Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-11-08 22:35:00</guid>
+      <pubDate>Sat, 08 Nov 2025 22:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:36 pm</title>
       <description>LIBERTY RD / MONOCACY BLVD Units: A248, E111</description>
@@ -300,12 +306,6 @@
       <description>6100 BLOCK BALDRIDGE TER Radio: 9C Units: E331, E33, T4</description>
       <guid isPermaLink="false">2025-11-06 20:03:00</guid>
       <pubDate>Thu, 06 Nov 2025 20:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:40 pm</title>
-      <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
-      <guid isPermaLink="false">2025-11-06 18:40:00</guid>
-      <pubDate>Thu, 06 Nov 2025 18:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
