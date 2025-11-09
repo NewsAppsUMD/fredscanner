@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 01:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 02:16:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:36 pm</title>
+      <description>LIBERTY RD / MONOCACY BLVD Units: A248, E111</description>
+      <guid isPermaLink="false">2025-11-08 20:36:00</guid>
+      <pubDate>Sat, 08 Nov 2025 20:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:27 pm</title>
+      <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Units: E331, E33, R15, A339, A39</description>
+      <guid isPermaLink="false">2025-11-08 20:27:00</guid>
+      <pubDate>Sat, 08 Nov 2025 20:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:26 pm</title>
       <description>OLD NEW MARKET RD / GREEN VALLEY RD Units: A159, E153</description>
@@ -294,18 +306,6 @@
       <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
       <guid isPermaLink="false">2025-11-06 18:40:00</guid>
       <pubDate>Thu, 06 Nov 2025 18:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:40 pm</title>
-      <description>EMMITSBURG RD / BULLFROG RD Radio: ACOPS2 Units: E61, EK64</description>
-      <guid isPermaLink="false">2025-11-06 18:40:00</guid>
-      <pubDate>Thu, 06 Nov 2025 18:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 6:09 pm</title>
-      <description>5700 BLOCK INDUSTRY LN Radio: 9B Units: R3</description>
-      <guid isPermaLink="false">2025-11-06 18:09:00</guid>
-      <pubDate>Thu, 06 Nov 2025 18:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
