@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 08:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 08:34:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:06 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: E33</description>
+      <guid isPermaLink="false">2025-11-09 03:06:00</guid>
+      <pubDate>Sun, 09 Nov 2025 03:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:04 am</title>
+      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E172</description>
+      <guid isPermaLink="false">2025-11-09 03:04:00</guid>
+      <pubDate>Sun, 09 Nov 2025 03:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:03 am</title>
+      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: E91</description>
+      <guid isPermaLink="false">2025-11-09 03:03:00</guid>
+      <pubDate>Sun, 09 Nov 2025 03:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 2:51 am</title>
       <description>6000 BLOCK TANEYTOWN PIKE Units: EK134</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK W FIFTH ST, SALVATION ARMY SERVICE CENTER Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2025-11-07 06:21:00</guid>
       <pubDate>Fri, 07 Nov 2025 06:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 5:38 am</title>
-      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2025-11-07 05:38:00</guid>
-      <pubDate>Fri, 07 Nov 2025 05:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:05 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-11-07 04:05:00</guid>
-      <pubDate>Fri, 07 Nov 2025 04:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 3:53 am</title>
-      <description>3600 BLOCK BYRON CIR Radio: 9C Units: E231, E251, TT23</description>
-      <guid isPermaLink="false">2025-11-07 03:53:00</guid>
-      <pubDate>Fri, 07 Nov 2025 03:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
