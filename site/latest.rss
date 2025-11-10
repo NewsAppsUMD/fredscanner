@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 22:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 22:35:52 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 5:22 pm</title>
+      <description>500 BLOCK PRIMUS CT Radio: 9C Units: PE311, E23, TW1</description>
+      <guid isPermaLink="false">2025-11-10 17:22:00</guid>
+      <pubDate>Mon, 10 Nov 2025 17:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:20 pm</title>
+      <description>1500 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: TW7</description>
+      <guid isPermaLink="false">2025-11-10 17:20:00</guid>
+      <pubDate>Mon, 10 Nov 2025 17:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:14 pm</title>
+      <description>1500 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2025-11-10 17:14:00</guid>
+      <pubDate>Mon, 10 Nov 2025 17:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 4:46 pm</title>
       <description>500 BLOCK GRANT DR Units: TW6</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK E SECOND ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E33, T4</description>
       <guid isPermaLink="false">2025-11-08 09:28:00</guid>
       <pubDate>Sat, 08 Nov 2025 09:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:38 am</title>
-      <description>6500 BLOCK WALCOTT LN, Apt/Unit:303 Units: T4</description>
-      <guid isPermaLink="false">2025-11-08 03:38:00</guid>
-      <pubDate>Sat, 08 Nov 2025 03:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:37 am</title>
-      <description>6500 BLOCK WALCOTT LN, Apt/Unit:303 Units: PE311</description>
-      <guid isPermaLink="false">2025-11-08 03:37:00</guid>
-      <pubDate>Sat, 08 Nov 2025 03:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:14 am</title>
-      <description>GREEN VALLEY RD / BALDWIN RD, IAO Units: A159, E153</description>
-      <guid isPermaLink="false">2025-11-08 02:14:00</guid>
-      <pubDate>Sat, 08 Nov 2025 02:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
