@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 21:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 22:02:23 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 4:46 pm</title>
+      <description>500 BLOCK GRANT DR Units: TW6</description>
+      <guid isPermaLink="false">2025-11-10 16:46:00</guid>
+      <pubDate>Mon, 10 Nov 2025 16:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>EXPLOSION - MISCELLANEOUS: 4:09 pm</title>
       <description>11300 BLOCK BAKER RD Radio: 9C Units: E162</description>
@@ -300,12 +306,6 @@
       <description>GREEN VALLEY RD / BALDWIN RD, IAO Units: A159, E153</description>
       <guid isPermaLink="false">2025-11-08 02:14:00</guid>
       <pubDate>Sat, 08 Nov 2025 02:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:52 am</title>
-      <description>I70WB / 38MM Units: E82, A89, ALS8</description>
-      <guid isPermaLink="false">2025-11-08 00:52:00</guid>
-      <pubDate>Sat, 08 Nov 2025 00:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
