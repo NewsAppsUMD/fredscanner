@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 13:11:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 14:02:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:50 am</title>
+      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-11-11 08:50:00</guid>
+      <pubDate>Tue, 11 Nov 2025 08:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:25 am</title>
+      <description>JEFFERSON PIKE / S MOUNTAIN RD Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2025-11-11 08:25:00</guid>
+      <pubDate>Tue, 11 Nov 2025 08:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:23 am</title>
+      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-11-11 08:23:00</guid>
+      <pubDate>Tue, 11 Nov 2025 08:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:BB, Apt/Unit:204, ELMWOOD TERRACE APTS - BLDG BB Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2025-11-11 08:22:00</guid>
+      <pubDate>Tue, 11 Nov 2025 08:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:47 am</title>
       <description>5900 BLOCK QUINN ORCHARD RD, Apt/Unit:116/117, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E33, T4</description>
@@ -282,30 +306,6 @@
       <description>LIBERTY RD / MONOCACY BLVD Units: A248, E111</description>
       <guid isPermaLink="false">2025-11-08 20:36:00</guid>
       <pubDate>Sat, 08 Nov 2025 20:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:27 pm</title>
-      <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Units: E331, E33, R15, A339, A39</description>
-      <guid isPermaLink="false">2025-11-08 20:27:00</guid>
-      <pubDate>Sat, 08 Nov 2025 20:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:26 pm</title>
-      <description>OLD NEW MARKET RD / GREEN VALLEY RD Units: A159, E153</description>
-      <guid isPermaLink="false">2025-11-08 18:26:00</guid>
-      <pubDate>Sat, 08 Nov 2025 18:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 5:26 pm</title>
-      <description>WAVERLEY DR / BICTON COMMONS DR Units: A19, ALS2, E11, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-11-08 17:26:00</guid>
-      <pubDate>Sat, 08 Nov 2025 17:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:11 pm</title>
-      <description>100 BLOCK PETERSVILLE RD, JERRYS LIQUORS Units: BR55</description>
-      <guid isPermaLink="false">2025-11-08 14:11:00</guid>
-      <pubDate>Sat, 08 Nov 2025 14:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
