@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 20:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 21:02:15 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 3:36 pm</title>
+      <description>3100 BLOCK WILL MIL TER Radio: 9C Units: E251, TT23, A259</description>
+      <guid isPermaLink="false">2025-11-11 15:36:00</guid>
+      <pubDate>Tue, 11 Nov 2025 15:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 3:16 pm</title>
       <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: K10</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2025-11-10 01:01:00</guid>
       <pubDate>Mon, 10 Nov 2025 01:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:32 am</title>
-      <description>5600 BLOCK MOUNTAIN LAUREL DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-11-10 00:32:00</guid>
-      <pubDate>Mon, 10 Nov 2025 00:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
