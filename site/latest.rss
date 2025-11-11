@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 16:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:38:32 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 11:33 am</title>
+      <description>100 BLOCK EASY ST, Apt/Unit:ELEVATOR, ALBERT COURT CONDOS - 100 BLOCK EASY ST Radio: 9C Units: R10</description>
+      <guid isPermaLink="false">2025-11-11 11:33:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:05 am</title>
+      <description>39200 BLOCK REDGATE FARM LN Radio: 6DTAC11 Units: K5</description>
+      <guid isPermaLink="false">2025-11-11 11:05:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:02 am</title>
+      <description>APPLES CHURCH RD / MUD COLLEGE RD Radio: 9B Units: PE102</description>
+      <guid isPermaLink="false">2025-11-11 11:02:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:01 am</title>
+      <description>39200 BLOCK REDGATE FARM LN Radio: 6DTAC11 Units: TT23, R20</description>
+      <guid isPermaLink="false">2025-11-11 11:01:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:00 am</title>
+      <description>39200 BLOCK REDGATE FARM LN Radio: 6DTAC11 Units: E281, EK204, K5</description>
+      <guid isPermaLink="false">2025-11-11 11:00:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:00 am</title>
+      <description>39200 BLOCK REDGATE FARM LN Radio: 6DTAC11 Units: TW7</description>
+      <guid isPermaLink="false">2025-11-11 11:00:00</guid>
+      <pubDate>Tue, 11 Nov 2025 11:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:56 am</title>
       <description>39200 BLOCK REDGATE FARM LN Radio: 6DTAC11 Units: PE52</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 6 Units: E111</description>
       <guid isPermaLink="false">2025-11-09 03:47:00</guid>
       <pubDate>Sun, 09 Nov 2025 03:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:06 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: E33</description>
-      <guid isPermaLink="false">2025-11-09 03:06:00</guid>
-      <pubDate>Sun, 09 Nov 2025 03:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:04 am</title>
-      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E172</description>
-      <guid isPermaLink="false">2025-11-09 03:04:00</guid>
-      <pubDate>Sun, 09 Nov 2025 03:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:03 am</title>
-      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: E91</description>
-      <guid isPermaLink="false">2025-11-09 03:03:00</guid>
-      <pubDate>Sun, 09 Nov 2025 03:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 2:51 am</title>
-      <description>6000 BLOCK TANEYTOWN PIKE Units: EK134</description>
-      <guid isPermaLink="false">2025-11-09 02:51:00</guid>
-      <pubDate>Sun, 09 Nov 2025 02:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 2:46 am</title>
-      <description>6000 BLOCK TANEYTOWN PIKE Units: E132</description>
-      <guid isPermaLink="false">2025-11-09 02:46:00</guid>
-      <pubDate>Sun, 09 Nov 2025 02:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:44 am</title>
-      <description>6000 BLOCK TANEYTOWN PIKE Units: TW6</description>
-      <guid isPermaLink="false">2025-11-09 02:44:00</guid>
-      <pubDate>Sun, 09 Nov 2025 02:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
