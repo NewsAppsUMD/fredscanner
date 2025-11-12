@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 00:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 01:29:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:15 pm</title>
+      <description>DICKERSON RD / PARK MILLS RD Units: A149, R14</description>
+      <guid isPermaLink="false">2025-11-11 20:15:00</guid>
+      <pubDate>Tue, 11 Nov 2025 20:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:01 pm</title>
+      <description>400 BLOCK DELAWARE RD Units: PE23</description>
+      <guid isPermaLink="false">2025-11-11 20:01:00</guid>
+      <pubDate>Tue, 11 Nov 2025 20:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:59 pm</title>
       <description>100 BLOCK BLK RAMP RT15NB TO RT14100 BLOCK RAMP Units: A69, TW6</description>
@@ -294,18 +306,6 @@
       <description>CRESTWOOD BLVD / BALLENGER CREEK PIKE Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2025-11-10 15:13:00</guid>
       <pubDate>Mon, 10 Nov 2025 15:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:05 pm</title>
-      <description>BIG WOODS RD / IJAMSVILLE RD Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2025-11-10 15:05:00</guid>
-      <pubDate>Mon, 10 Nov 2025 15:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:47 pm</title>
-      <description>6000 BLOCK SPRING RIDGE PKWY Radio: 9C Units: E331, T4</description>
-      <guid isPermaLink="false">2025-11-10 13:47:00</guid>
-      <pubDate>Mon, 10 Nov 2025 13:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
