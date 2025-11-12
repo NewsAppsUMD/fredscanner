@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 04:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 04:37:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:11 pm</title>
+      <description>100 BLOCK S MCCAIN DR Units: ALS2</description>
+      <guid isPermaLink="false">2025-11-11 23:11:00</guid>
+      <pubDate>Tue, 11 Nov 2025 23:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:52 pm</title>
       <description>100 BLOCK S MCCAIN DR Units: A19, E11</description>
@@ -300,12 +306,6 @@
       <description>11300 BLOCK BAKER RD Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2025-11-10 16:09:00</guid>
       <pubDate>Mon, 10 Nov 2025 16:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 4:04 pm</title>
-      <description>11300 BLOCK BAKER RD Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2025-11-10 16:04:00</guid>
-      <pubDate>Mon, 10 Nov 2025 16:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
