@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 16:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 16:39:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:31 am</title>
+      <description>I70WB / 65MM, I70WB / 65MM Radio: 9D Units: E251, R15, A259, EMS901</description>
+      <guid isPermaLink="false">2025-11-12 11:31:00</guid>
+      <pubDate>Wed, 12 Nov 2025 11:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:53 am</title>
       <description>100 BLOCK S MCCAIN DR, Apt/Unit:STE 3, HAWAIIAN TAN - MCCAIN CENTER Radio: 9C Units: E11, PE23, TW1</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK LEBEN DR Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-11-10 18:15:00</guid>
       <pubDate>Mon, 10 Nov 2025 18:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:59 pm</title>
-      <description>I70EB / RT40A (BRADDOCK), I70EB / RT40A Radio: 9C Units: E82, E121</description>
-      <guid isPermaLink="false">2025-11-10 17:59:00</guid>
-      <pubDate>Mon, 10 Nov 2025 17:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
