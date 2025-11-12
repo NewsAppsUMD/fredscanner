@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Nov 2025 04:37:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 05:02:25 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:47 pm</title>
+      <description>19300 BLOCK LONGMEADOW RD, STATION WC027 - LONGMEADOW VFC Units: E72</description>
+      <guid isPermaLink="false">2025-11-11 23:47:00</guid>
+      <pubDate>Tue, 11 Nov 2025 23:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 11:11 pm</title>
       <description>100 BLOCK S MCCAIN DR Units: ALS2</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK GRANT DR Units: TW6</description>
       <guid isPermaLink="false">2025-11-10 16:46:00</guid>
       <pubDate>Mon, 10 Nov 2025 16:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 4:09 pm</title>
-      <description>11300 BLOCK BAKER RD Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2025-11-10 16:09:00</guid>
-      <pubDate>Mon, 10 Nov 2025 16:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
