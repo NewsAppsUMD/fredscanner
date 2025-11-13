@@ -1,0 +1,88 @@
+======================================================================
+DATA QUALITY REPORT - Phase 1 Enhancement
+======================================================================
+
+PROCESSING SUMMARY
+----------------------------------------------------------------------
+Original records:        14,106
+Duplicates removed:      167
+Enhanced records:        13,939
+
+DATE RANGE
+----------------------------------------------------------------------
+First incident:          2024-05-01 06:04:00
+Last incident:           2025-11-12 18:41:00
+Total days covered:      560
+
+TOP 10 EVENT TYPES
+----------------------------------------------------------------------
+2,366 ( 17.0%) - COMMERCIAL FIRE ALARM
+2,307 ( 16.6%) - VEHICLE ACCIDENT - BLS
+  913 (  6.5%) - RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME)
+  617 (  4.4%) - WIRES DOWN OR ARCING
+  515 (  3.7%) - HOUSE FIRE
+  467 (  3.4%) - GAS LEAK INSIDE
+  457 (  3.3%) - VEHICLE ACCIDENT - ROLLOVER
+  416 (  3.0%) - CHECK UP AFTER ACCIDENT - POLICE ON SCENE
+  376 (  2.7%) - UNIT TRANSFER TO OTHER STATION
+  301 (  2.2%) - VEHICLE FIRE
+
+LOCATION TYPE DISTRIBUTION
+----------------------------------------------------------------------
+9,847 ( 70.6%) - BLOCK
+3,977 ( 28.5%) - INTERSECTION
+  115 (  0.8%) - ADDRESS
+
+RADIO CHANNEL DISTRIBUTION
+----------------------------------------------------------------------
+With radio channel:      9266
+Without radio channel:   4673
+
+Top radio channels:
+  9C: 5,601
+  9B: 1,832
+  9D: 1,305
+  7A1: 110
+  9I: 104
+  6B: 56
+  91C: 35
+  6DTAC11: 34
+  TAC1OPS: 32
+  PS1: 27
+
+UNIT COUNT STATISTICS
+----------------------------------------------------------------------
+Average units per incident:  4.02
+Minimum units:               1
+Maximum units:               54
+
+TIME PERIOD DISTRIBUTION
+----------------------------------------------------------------------
+3,610 ( 25.9%) - Morning
+4,302 ( 30.9%) - Afternoon
+3,243 ( 23.3%) - Evening
+2,784 ( 20.0%) - Night
+
+DAY OF WEEK DISTRIBUTION
+----------------------------------------------------------------------
+1,906 ( 13.7%) - Monday
+2,003 ( 14.4%) - Tuesday
+1,976 ( 14.2%) - Wednesday
+2,049 ( 14.7%) - Thursday
+1,952 ( 14.0%) - Friday
+2,122 ( 15.2%) - Saturday
+1,931 ( 13.9%) - Sunday
+
+WEEKEND vs WEEKDAY
+----------------------------------------------------------------------
+Weekday incidents:       9,886 (70.9%)
+Weekend incidents:       4,053 (29.1%)
+
+SEASONAL DISTRIBUTION
+----------------------------------------------------------------------
+1,952 ( 14.0%) - Winter
+3,177 ( 22.8%) - Spring
+4,649 ( 33.4%) - Summer
+4,161 ( 29.9%) - Fall
+
+======================================================================
