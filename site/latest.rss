@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 15:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 16:02:34 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:37 am</title>
+      <description>6500 BLOCK EWALD CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-11-14 10:37:00</guid>
+      <pubDate>Fri, 14 Nov 2025 10:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:18 am</title>
       <description>100 BLOCK SUNNY WAY Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MCCAIN DR Units: A19, E11</description>
       <guid isPermaLink="false">2025-11-11 22:52:00</guid>
       <pubDate>Tue, 11 Nov 2025 22:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:15 pm</title>
-      <description>DICKERSON RD / PARK MILLS RD Units: A149, R14</description>
-      <guid isPermaLink="false">2025-11-11 20:15:00</guid>
-      <pubDate>Tue, 11 Nov 2025 20:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
