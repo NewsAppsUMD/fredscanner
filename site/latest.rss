@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 12:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 12:44:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:36 am</title>
+      <description>9300 BLOCK LIBERTY RD Radio: 9D Units: RE171</description>
+      <guid isPermaLink="false">2025-11-14 07:36:00</guid>
+      <pubDate>Fri, 14 Nov 2025 07:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:33 am</title>
+      <description>9300 BLOCK LIBERTY RD Radio: 9D Units: E111, R24, A249, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-11-14 07:33:00</guid>
+      <pubDate>Fri, 14 Nov 2025 07:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:58 am</title>
       <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: EK134</description>
@@ -294,18 +306,6 @@
       <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: K10</description>
       <guid isPermaLink="false">2025-11-11 15:16:00</guid>
       <pubDate>Tue, 11 Nov 2025 15:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 3:16 pm</title>
-      <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: K21</description>
-      <guid isPermaLink="false">2025-11-11 15:16:00</guid>
-      <pubDate>Tue, 11 Nov 2025 15:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 3:14 pm</title>
-      <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: BR85</description>
-      <guid isPermaLink="false">2025-11-11 15:14:00</guid>
-      <pubDate>Tue, 11 Nov 2025 15:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
