@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 12:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 13:10:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:03 am</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, MCDONALDS - WESTVIEW PROMENADE Radio: 9B Units: A318, R3</description>
+      <guid isPermaLink="false">2025-11-14 08:03:00</guid>
+      <pubDate>Fri, 14 Nov 2025 08:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:36 am</title>
       <description>9300 BLOCK LIBERTY RD Radio: 9D Units: RE171</description>
@@ -300,12 +306,6 @@
       <description>3100 BLOCK WILL MIL TER Radio: 9C Units: E251, TT23, A259</description>
       <guid isPermaLink="false">2025-11-11 15:36:00</guid>
       <pubDate>Tue, 11 Nov 2025 15:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 3:16 pm</title>
-      <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2025-11-11 15:16:00</guid>
-      <pubDate>Tue, 11 Nov 2025 15:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
