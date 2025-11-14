@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Nov 2025 19:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 20:34:58 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 3:01 pm</title>
+      <description>I70WB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2025-11-14 15:01:00</guid>
+      <pubDate>Fri, 14 Nov 2025 15:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
+      <description>OLD NATIONAL PIKE / TERRA FIRMA RD Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2025-11-14 14:46:00</guid>
+      <pubDate>Fri, 14 Nov 2025 14:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
+      <description>I70EB / RT75(RT75), I70EB / RT75 Radio: 9B Units: E251, R15, A159, A259</description>
+      <guid isPermaLink="false">2025-11-14 14:42:00</guid>
+      <pubDate>Fri, 14 Nov 2025 14:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:41 pm</title>
+      <description>OLD NATIONAL PIKE / TERRA FIRMA RD Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2025-11-14 14:41:00</guid>
+      <pubDate>Fri, 14 Nov 2025 14:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 1:17 pm</title>
       <description>5600 BLOCK MUSSETTER RD, BRIGHT EYES CHILD CARE - NEW MARKET Radio: 9C Units: E152, E331, R3</description>
@@ -282,30 +306,6 @@
       <description>I70WB / 65MM, I70WB / 65MM Radio: 9D Units: E251, R15, A259, EMS901</description>
       <guid isPermaLink="false">2025-11-12 11:31:00</guid>
       <pubDate>Wed, 12 Nov 2025 11:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:53 am</title>
-      <description>100 BLOCK S MCCAIN DR, Apt/Unit:STE 3, HAWAIIAN TAN - MCCAIN CENTER Radio: 9C Units: E11, PE23, TW1</description>
-      <guid isPermaLink="false">2025-11-12 09:53:00</guid>
-      <pubDate>Wed, 12 Nov 2025 09:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:34 am</title>
-      <description>4800 BLOCK BUFFALO RD Radio: 9C Units: R15, CCK1</description>
-      <guid isPermaLink="false">2025-11-12 07:34:00</guid>
-      <pubDate>Wed, 12 Nov 2025 07:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:28 am</title>
-      <description>4800 BLOCK BUFFALO RD Radio: 9C Units: E172, CCK14</description>
-      <guid isPermaLink="false">2025-11-12 07:28:00</guid>
-      <pubDate>Wed, 12 Nov 2025 07:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:10 am</title>
-      <description>GREEN VALLEY RD / FINGERBOARD RD Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-11-12 05:10:00</guid>
-      <pubDate>Wed, 12 Nov 2025 05:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
