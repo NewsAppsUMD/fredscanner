@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Nov 2025 00:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 00:46:41 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:40 pm</title>
+      <description>5400 BLOCK BALLENGER CREEK PIKE, BALLENGER COMMUNITY BUILDING - BALLENGER CREEK DISTRICT PARK Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-11-14 19:40:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 7:24 pm</title>
+      <description>10000 BLOCK WOODSBORO RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2025-11-14 19:24:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 7:19 pm</title>
+      <description>10000 BLOCKA WOODSBORO RD Radio: 9C Units: E172, EK134, BR176, K17</description>
+      <guid isPermaLink="false">2025-11-14 19:19:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:13 pm</title>
+      <description>6000 BLOCK JEFFERSON PIKE Radio: 9B Units: ALS31, EMS901</description>
+      <guid isPermaLink="false">2025-11-14 19:13:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:07 pm</title>
+      <description>6000 BLOCK JEFFERSON PIKE Radio: 9B Units: A318, E11</description>
+      <guid isPermaLink="false">2025-11-14 19:07:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:06 pm</title>
+      <description>RT15 / BASFORD RD, JUST BEFORE BASFORD RD Radio: 9B Units: A19</description>
+      <guid isPermaLink="false">2025-11-14 19:06:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:05 pm</title>
+      <description>RT15 / BASFORD RD, JUST BEFORE BASFORD RD Radio: 9B Units: A149, E281</description>
+      <guid isPermaLink="false">2025-11-14 19:05:00</guid>
+      <pubDate>Fri, 14 Nov 2025 19:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:39 pm</title>
       <description>15200 BLOCK BOLLINGER RD Radio: 9C Units: E132</description>
@@ -264,48 +306,6 @@
       <description>6900 BLOCK N CLIFTON RD Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2025-11-12 23:00:00</guid>
       <pubDate>Wed, 12 Nov 2025 23:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:41 pm</title>
-      <description>700 BLOCK GLENBROOK DR Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2025-11-12 18:41:00</guid>
-      <pubDate>Wed, 12 Nov 2025 18:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 3:51 pm</title>
-      <description>12600 BLOCK WEST OAK DR Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-11-12 15:51:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:48 pm</title>
-      <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:702, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY Radio: 9C Units: PE311, E501, TW1</description>
-      <guid isPermaLink="false">2025-11-12 15:48:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:47 pm</title>
-      <description>URBANA PIKE / CAMPUS DR Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-11-12 15:47:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 3:38 pm</title>
-      <description>BURKITTSVILLE RD / VOLUNTEER DR Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2025-11-12 15:38:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:17 pm</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: A318, T4</description>
-      <guid isPermaLink="false">2025-11-12 15:17:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:01 pm</title>
-      <description>400 BLOCK PROSPECT BLVD Radio: 9B Units: A29, T4</description>
-      <guid isPermaLink="false">2025-11-12 15:01:00</guid>
-      <pubDate>Wed, 12 Nov 2025 15:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
