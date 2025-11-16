@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 19:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 19:31:42 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:10 pm</title>
+      <description>5700 BLOCK HAWK RIDGE RD Radio: 9C Units: E331, T4</description>
+      <guid isPermaLink="false">2025-11-16 14:10:00</guid>
+      <pubDate>Sun, 16 Nov 2025 14:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:53 pm</title>
       <description>3100 BLOCK NEW DESIGN RD Radio: 9C Units: E141</description>
@@ -300,12 +306,6 @@
       <description>10000 BLOCK WOODSBORO RD Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2025-11-14 19:24:00</guid>
       <pubDate>Fri, 14 Nov 2025 19:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 7:19 pm</title>
-      <description>10000 BLOCKA WOODSBORO RD Radio: 9C Units: E172, EK134, BR176, K17</description>
-      <guid isPermaLink="false">2025-11-14 19:19:00</guid>
-      <pubDate>Fri, 14 Nov 2025 19:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
