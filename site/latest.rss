@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 14:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 14:33:24 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 9:30 am</title>
+      <description>11400 BLOCK MOUNTAIN VIEW RD Radio: 7A8 Units: BR235</description>
+      <guid isPermaLink="false">2025-11-16 09:30:00</guid>
+      <pubDate>Sun, 16 Nov 2025 09:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:28 am</title>
+      <description>11400 BLOCK MOUNTAIN VIEW RD Radio: 7A8 Units: E231, E251</description>
+      <guid isPermaLink="false">2025-11-16 09:28:00</guid>
+      <pubDate>Sun, 16 Nov 2025 09:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:22 am</title>
+      <description>11500 BLOCK MOUNTAIN VIEW RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2025-11-16 09:22:00</guid>
+      <pubDate>Sun, 16 Nov 2025 09:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:09 am</title>
+      <description>BALLENGER CREEK PIKE / E BASFORD RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2025-11-16 09:09:00</guid>
+      <pubDate>Sun, 16 Nov 2025 09:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 8:48 am</title>
       <description>100 BLOCK WINTER TRL Radio: ACOPS4 Units: E61, EK64, TW6, R6</description>
@@ -282,30 +306,6 @@
       <description>6200 BLOCK WALLEYE PL Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-11-14 18:28:00</guid>
       <pubDate>Fri, 14 Nov 2025 18:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 6:26 pm</title>
-      <description>OLD NATIONAL PIKE / FOX GAP RD Radio: 9D Units: E72, E82, E121, E201, R20, TW7, K7, K21, A78, ALS8, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-11-14 18:26:00</guid>
-      <pubDate>Fri, 14 Nov 2025 18:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:20 pm</title>
-      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Radio: 9B Units: A238, E231</description>
-      <guid isPermaLink="false">2025-11-14 18:20:00</guid>
-      <pubDate>Fri, 14 Nov 2025 18:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:07 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: E501, Q11</description>
-      <guid isPermaLink="false">2025-11-14 17:07:00</guid>
-      <pubDate>Fri, 14 Nov 2025 17:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:00 pm</title>
-      <description>4100 BLOCK MCMULLEN DR Units: E132, BC902</description>
-      <guid isPermaLink="false">2025-11-14 17:00:00</guid>
-      <pubDate>Fri, 14 Nov 2025 17:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
