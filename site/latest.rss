@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 08:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 08:36:19 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 3:06 am</title>
+      <description>9000 BLOCK GREEN VALLEY RD Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-11-16 03:06:00</guid>
+      <pubDate>Sun, 16 Nov 2025 03:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 3:01 am</title>
+      <description>9000 BLOCK GREEN VALLEY RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2025-11-16 03:01:00</guid>
+      <pubDate>Sun, 16 Nov 2025 03:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 2:56 am</title>
       <description>9000 BLOCK GREEN VALLEY RD Radio: 9C Units: BR156</description>
@@ -294,18 +306,6 @@
       <description>FRANCIS SCOTT KEY HWY / Y RD Units: E91</description>
       <guid isPermaLink="false">2025-11-14 15:52:00</guid>
       <pubDate>Fri, 14 Nov 2025 15:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:50 pm</title>
-      <description>200 BLOCK E SECOND ST, VISITATION EXTENDED STAY Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-11-14 15:50:00</guid>
-      <pubDate>Fri, 14 Nov 2025 15:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 3:34 pm</title>
-      <description>PROSPECT BLVD / CARROLLTON DR Radio: 9D Units: A19, ALS4, E33, EMS901</description>
-      <guid isPermaLink="false">2025-11-14 15:34:00</guid>
-      <pubDate>Fri, 14 Nov 2025 15:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
