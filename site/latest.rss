@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 02:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 03:31:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:10 pm</title>
+      <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Radio: 9B Units: E201, E11, R19, A198, A209, PE52</description>
+      <guid isPermaLink="false">2025-11-16 22:10:00</guid>
+      <pubDate>Sun, 16 Nov 2025 22:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:51 pm</title>
       <description>GREEN VALLEY RD / ARTIE KEMP RD Units: E152</description>
@@ -300,12 +306,6 @@
       <description>2800 BLOCK HEARTLAND CIR Radio: 9D Units: A19, ALS29, TW1, EMS902</description>
       <guid isPermaLink="false">2025-11-15 10:33:00</guid>
       <pubDate>Sat, 15 Nov 2025 10:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:22 am</title>
-      <description>12900 BLOCK SPRUCE RUN RD Radio: 9C Units: BR85</description>
-      <guid isPermaLink="false">2025-11-15 08:22:00</guid>
-      <pubDate>Sat, 15 Nov 2025 08:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
