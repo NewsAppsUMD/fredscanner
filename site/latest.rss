@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 10:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 10:37:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:33 am</title>
+      <description>RAMP I270NB TO RT80 RAMP / 270N BTWN RT 80 OFF RAMP &amp; RT 80 ON RAMP HWY Radio: 9B Units: A238, E231</description>
+      <guid isPermaLink="false">2025-11-17 05:33:00</guid>
+      <pubDate>Mon, 17 Nov 2025 05:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 5:29 am</title>
+      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:2204, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2025-11-17 05:29:00</guid>
+      <pubDate>Mon, 17 Nov 2025 05:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:24 am</title>
       <description>2400 BLOCK OLD NATIONAL PIKE, Apt/Unit:HTTPS://A91.IO/32YDK Radio: 9B Units: A78, RE74</description>
@@ -294,18 +306,6 @@
       <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9B Units: ALS31</description>
       <guid isPermaLink="false">2025-11-15 11:35:00</guid>
       <pubDate>Sat, 15 Nov 2025 11:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:34 am</title>
-      <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9B Units: A39, A38, A19, R3</description>
-      <guid isPermaLink="false">2025-11-15 11:34:00</guid>
-      <pubDate>Sat, 15 Nov 2025 11:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:31 am</title>
-      <description>2100 BLOCK WHITTIER DR, Bldg:B, SOMERFORD HOUSE - WHITTIER Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-11-15 11:31:00</guid>
-      <pubDate>Sat, 15 Nov 2025 11:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
