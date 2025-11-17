@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 20:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 20:34:40 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 3:23 pm</title>
+      <description>14400 BLOCK LEWISDALE RD Units: K33</description>
+      <guid isPermaLink="false">2025-11-17 15:23:00</guid>
+      <pubDate>Mon, 17 Nov 2025 15:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:17 pm</title>
+      <description>14400 BLOCK LEWISDALE RD Units: E231, E331, R15, K23, A259, ALS31, BC901, BC903, SAF901, E251, TT23</description>
+      <guid isPermaLink="false">2025-11-17 15:17:00</guid>
+      <pubDate>Mon, 17 Nov 2025 15:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:03 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: A39, R3</description>
+      <guid isPermaLink="false">2025-11-17 15:03:00</guid>
+      <pubDate>Mon, 17 Nov 2025 15:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 12:50 pm</title>
       <description>100 BLOCK W POTOMAC ST, Apt/Unit:3 Units: T5</description>
@@ -288,24 +306,6 @@
       <description>9000 BLOCK GREEN VALLEY RD Radio: 9C Units: BR156</description>
       <guid isPermaLink="false">2025-11-16 02:56:00</guid>
       <pubDate>Sun, 16 Nov 2025 02:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 2:50 am</title>
-      <description>9000 BLOCK GREEN VALLEY RD Units: E172, E162, E152, Q11, K33, A169, BR175, K17, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-11-16 02:50:00</guid>
-      <pubDate>Sun, 16 Nov 2025 02:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:01 am</title>
-      <description>S EAST ST / ROUNDABOUT, S EAST ST / ROUNDABOUT Radio: 9D Units: E33, R3, A39, ALS2, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-11-16 02:01:00</guid>
-      <pubDate>Sun, 16 Nov 2025 02:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 8:52 pm</title>
-      <description>7100 BLOCK MACON ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-11-15 20:52:00</guid>
-      <pubDate>Sat, 15 Nov 2025 20:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
