@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 10:37:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 11:02:12 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:51 am</title>
+      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-11-17 05:51:00</guid>
+      <pubDate>Mon, 17 Nov 2025 05:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:49 am</title>
+      <description>RAMP I270NB / RT80 Radio: 9B Units: ALS23</description>
+      <guid isPermaLink="false">2025-11-17 05:49:00</guid>
+      <pubDate>Mon, 17 Nov 2025 05:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:33 am</title>
       <description>RAMP I270NB TO RT80 RAMP / 270N BTWN RT 80 OFF RAMP &amp; RT 80 ON RAMP HWY Radio: 9B Units: A238, E231</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK WATER ST Radio: 9C Units: PE52, E201, T5</description>
       <guid isPermaLink="false">2025-11-15 16:51:00</guid>
       <pubDate>Sat, 15 Nov 2025 16:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 2:33 pm</title>
-      <description>100 BLOCK JAMES ST, JAMES STREET APTS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-11-15 14:33:00</guid>
-      <pubDate>Sat, 15 Nov 2025 14:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:35 am</title>
-      <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9B Units: ALS31</description>
-      <guid isPermaLink="false">2025-11-15 11:35:00</guid>
-      <pubDate>Sat, 15 Nov 2025 11:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
