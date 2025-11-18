@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 16:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:40:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:16 am</title>
+      <description>1600 BLOCK MISTY MEADOW CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-11-18 11:16:00</guid>
+      <pubDate>Tue, 18 Nov 2025 11:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 10:26 am</title>
       <description>BURKITTSVILLE RD / OLD MIDDLETOWN RD Radio: 9D Units: RE74, E121, E201, E11, E33, R20, TW7, R8, K7, EK204, K1, A79, ALS8, BC903, BC901, SAF901, PE52</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK GRACEHAM RD, IAO Radio: 9C Units: PE102, K10</description>
       <guid isPermaLink="false">2025-11-16 14:51:00</guid>
       <pubDate>Sun, 16 Nov 2025 14:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 2:44 pm</title>
-      <description>13500 BLOCK GRACEHAM RD, IAO Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-11-16 14:44:00</guid>
-      <pubDate>Sun, 16 Nov 2025 14:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
