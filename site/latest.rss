@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 00:46:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 01:29:55 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:56 pm</title>
+      <description>6800 BLOCK PUTMAN RD, MOUNTAINDALE CONVENIENCE STORE - PUTMAN RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2025-11-17 19:56:00</guid>
+      <pubDate>Mon, 17 Nov 2025 19:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 7:36 pm</title>
       <description>800 BLOCK MOTTER AVE, Apt/Unit:306, SHARPES SQUARE Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>11500 BLOCK MOUNTAIN VIEW RD Radio: 7A1 Units: E251</description>
       <guid isPermaLink="false">2025-11-16 09:22:00</guid>
       <pubDate>Sun, 16 Nov 2025 09:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:09 am</title>
-      <description>BALLENGER CREEK PIKE / E BASFORD RD Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2025-11-16 09:09:00</guid>
-      <pubDate>Sun, 16 Nov 2025 09:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
