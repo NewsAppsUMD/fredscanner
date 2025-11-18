@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Nov 2025 03:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 03:47:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:38 pm</title>
+      <description>300 BLOCK W PATRICK ST, Apt/Unit:B Radio: 9C Units: E33, T4</description>
+      <guid isPermaLink="false">2025-11-17 22:38:00</guid>
+      <pubDate>Mon, 17 Nov 2025 22:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:44 pm</title>
       <description>100 BLOCK DONOVAN CT Units: PE52, E281, E201, R19, T5, R20, A198, ALS20, BC903, BC901, SAF901</description>
@@ -300,12 +306,6 @@
       <description>WARNER RD / RENNER RD, 1500 FEET BEFORE RENNER Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2025-11-16 09:45:00</guid>
       <pubDate>Sun, 16 Nov 2025 09:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:30 am</title>
-      <description>11400 BLOCK MOUNTAIN VIEW RD Radio: 7A8 Units: BR235</description>
-      <guid isPermaLink="false">2025-11-16 09:30:00</guid>
-      <pubDate>Sun, 16 Nov 2025 09:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
