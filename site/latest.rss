@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 23:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 00:08:36 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:37 pm</title>
+      <description>6900 BLOCK HATFIELD CT, Apt/Unit:102, KINGSCREST APTS - 6900 BLOCK HATFIELD CT Radio: 9C Units: PE311, E33, R3</description>
+      <guid isPermaLink="false">2025-11-17 18:37:00</guid>
+      <pubDate>Mon, 17 Nov 2025 18:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 5:06 pm</title>
       <description>9400 BLOCK BALTIMORE NATIONAL PIKE, PALMER ANIMAL HOSPITAL Units: E82, RE74, TW7, K7, A89</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, Bldg:B, CRUNCH FITNESS- WESTRIDGE SQUARE SHOPPING CENTER Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-11-16 08:39:00</guid>
       <pubDate>Sun, 16 Nov 2025 08:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:35 am</title>
-      <description>2800 BLOCK FENCE ROW LN Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2025-11-16 08:35:00</guid>
-      <pubDate>Sun, 16 Nov 2025 08:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
