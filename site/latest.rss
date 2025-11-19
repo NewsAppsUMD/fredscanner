@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 15:34:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:02:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:36 am</title>
+      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-11-19 10:36:00</guid>
+      <pubDate>Wed, 19 Nov 2025 10:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 10:35 am</title>
+      <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: HM33, HMSU33</description>
+      <guid isPermaLink="false">2025-11-19 10:35:00</guid>
+      <pubDate>Wed, 19 Nov 2025 10:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 10:33 am</title>
+      <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: TT23</description>
+      <guid isPermaLink="false">2025-11-19 10:33:00</guid>
+      <pubDate>Wed, 19 Nov 2025 10:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 10:28 am</title>
       <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: R3</description>
@@ -288,24 +306,6 @@
       <description>800 BLOCK MOTTER AVE, Apt/Unit:306, SHARPES SQUARE Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2025-11-17 19:36:00</guid>
       <pubDate>Mon, 17 Nov 2025 19:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:17 pm</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:II, Apt/Unit:205, ELMWOOD TERRACE APTS - BLDG II Radio: 9C Units: E11, E121, T4</description>
-      <guid isPermaLink="false">2025-11-17 19:17:00</guid>
-      <pubDate>Mon, 17 Nov 2025 19:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:37 pm</title>
-      <description>6900 BLOCK HATFIELD CT, Apt/Unit:102, KINGSCREST APTS - 6900 BLOCK HATFIELD CT Radio: 9C Units: PE311, E33, R3</description>
-      <guid isPermaLink="false">2025-11-17 18:37:00</guid>
-      <pubDate>Mon, 17 Nov 2025 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:06 pm</title>
-      <description>9400 BLOCK BALTIMORE NATIONAL PIKE, PALMER ANIMAL HOSPITAL Units: E82, RE74, TW7, K7, A89</description>
-      <guid isPermaLink="false">2025-11-17 17:06:00</guid>
-      <pubDate>Mon, 17 Nov 2025 17:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
