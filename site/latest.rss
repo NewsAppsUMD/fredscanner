@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 00:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 00:46:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:14 pm</title>
+      <description>3500 BLOCK WORTHINGTON BLVD Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2025-11-18 19:14:00</guid>
+      <pubDate>Tue, 18 Nov 2025 19:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:38 pm</title>
       <description>19300 BLOCK LONGMEADOW RD, STATION WC027 - LONGMEADOW VFC Radio: WCFEMSDISP Units: EK64</description>
@@ -300,12 +306,6 @@
       <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:2204, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-11-17 05:29:00</guid>
       <pubDate>Mon, 17 Nov 2025 05:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:24 am</title>
-      <description>2400 BLOCK OLD NATIONAL PIKE, Apt/Unit:HTTPS://A91.IO/32YDK Radio: 9B Units: A78, RE74</description>
-      <guid isPermaLink="false">2025-11-17 04:24:00</guid>
-      <pubDate>Mon, 17 Nov 2025 04:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
