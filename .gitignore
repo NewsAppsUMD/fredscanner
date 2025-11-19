@@ -136,7 +136,9 @@ venv.bak/
 .ropeproject
 
 # mkdocs documentation
-/site
+# /site - Commented out because we deploy site/ to GitHub Pages
+# But we ignore the generated CSV in site/
+site/incidents.csv
 
 # mypy
 .mypy_cache/

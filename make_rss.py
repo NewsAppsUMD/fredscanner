@@ -4,6 +4,7 @@ from __future__ import annotations
 import csv
 from operator import itemgetter
 from pathlib import Path
+import shutil
 
 import dateutil.parser
 from feedgen.entry import FeedEntry
@@ -48,8 +49,11 @@ def main():
         entry.description(r["Location"] + ' ' + r["Units"])
         feed.add_entry(entry, order="append")
 
-    # Writet it out
+    # Write it out
     feed.rss_file(THIS_DIR / "site" / "latest.rss", pretty=True)
+
+    # Copy incidents.csv to site directory for the dashboard
+    shutil.copy2(THIS_DIR / "incidents.csv", THIS_DIR / "site" / "incidents.csv")
 
 
 if __name__ == "__main__":
