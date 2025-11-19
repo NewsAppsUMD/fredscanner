@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 22:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 23:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
+      <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: E33, E331, R3, A39, A339</description>
+      <guid isPermaLink="false">2025-11-19 17:56:00</guid>
+      <pubDate>Wed, 19 Nov 2025 17:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:31 pm</title>
       <description>2200 BLOCK REGINA DR Radio: 9C Units: E231</description>
@@ -300,12 +306,6 @@
       <description>6400 BLOCK PLANT RD, CHARLES V MAIN TRAINING CENTER Radio: 9C Units: E331, E33, R3, K33</description>
       <guid isPermaLink="false">2025-11-18 09:34:00</guid>
       <pubDate>Tue, 18 Nov 2025 09:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:24 am</title>
-      <description>300 BLOCK S MAIN ST Radio: 9C Units: E162, Q11</description>
-      <guid isPermaLink="false">2025-11-18 09:24:00</guid>
-      <pubDate>Tue, 18 Nov 2025 09:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
