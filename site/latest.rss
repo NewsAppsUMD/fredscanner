@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 14:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 15:34:25 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 10:28 am</title>
+      <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: R3</description>
+      <guid isPermaLink="false">2025-11-19 10:28:00</guid>
+      <pubDate>Wed, 19 Nov 2025 10:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:26 am</title>
+      <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: E251</description>
+      <guid isPermaLink="false">2025-11-19 10:26:00</guid>
+      <pubDate>Wed, 19 Nov 2025 10:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
+      <description>8500 BLOCK PROGRESS DR, CHARLES RIVER LABORATORIES - RIVERSIDE CORPORATE PARK Radio: 9C Units: Q11</description>
+      <guid isPermaLink="false">2025-11-19 09:56:00</guid>
+      <pubDate>Wed, 19 Nov 2025 09:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
+      <description>8500 BLOCK PROGRESS DR, CHARLES RIVER LABORATORIES - RIVERSIDE CORPORATE PARK Radio: 9C Units: T4</description>
+      <guid isPermaLink="false">2025-11-19 09:56:00</guid>
+      <pubDate>Wed, 19 Nov 2025 09:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:51 am</title>
+      <description>8500 BLOCK PROGRESS DR, CHARLES RIVER LABORATORIES - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-11-19 09:51:00</guid>
+      <pubDate>Wed, 19 Nov 2025 09:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 9:13 am</title>
       <description>3400 BLOCK CAMPUS DR, YMCA URBANA Radio: 9C Units: TT23</description>
@@ -276,36 +306,6 @@
       <description>9400 BLOCK BALTIMORE NATIONAL PIKE, PALMER ANIMAL HOSPITAL Units: E82, RE74, TW7, K7, A89</description>
       <guid isPermaLink="false">2025-11-17 17:06:00</guid>
       <pubDate>Mon, 17 Nov 2025 17:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:40 pm</title>
-      <description>BUCKEYSTOWN PIKE / LILY PONS RD Units: E231, R20, ALS31, BC903, EMS901, TT23</description>
-      <guid isPermaLink="false">2025-11-17 16:40:00</guid>
-      <pubDate>Mon, 17 Nov 2025 16:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
-      <description>BUCKEYSTOWN PIKE / LILY PONS RD Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-11-17 16:38:00</guid>
-      <pubDate>Mon, 17 Nov 2025 16:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:36 pm</title>
-      <description>3100 BLOCK NEW DESIGN RD, IAO PH2 Units: A149, R14</description>
-      <guid isPermaLink="false">2025-11-17 16:36:00</guid>
-      <pubDate>Mon, 17 Nov 2025 16:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 3:42 pm</title>
-      <description>7800 BLOCK ROCKY SPRINGS RD, DAYBREAK ADULT DAYCARE Units: E11, E501</description>
-      <guid isPermaLink="false">2025-11-17 15:42:00</guid>
-      <pubDate>Mon, 17 Nov 2025 15:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:23 pm</title>
-      <description>14400 BLOCK LEWISDALE RD Units: K33</description>
-      <guid isPermaLink="false">2025-11-17 15:23:00</guid>
-      <pubDate>Mon, 17 Nov 2025 15:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
