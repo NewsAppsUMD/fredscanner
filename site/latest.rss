@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 19:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 20:02:16 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:57 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2025-11-19 14:57:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:48 pm</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: A196</description>
+      <guid isPermaLink="false">2025-11-19 14:48:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:47 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: ALS2</description>
+      <guid isPermaLink="false">2025-11-19 14:47:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:43 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: A18, A38</description>
+      <guid isPermaLink="false">2025-11-19 14:43:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:30 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: Q11</description>
+      <guid isPermaLink="false">2025-11-19 14:30:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:28 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: EK204, K23</description>
+      <guid isPermaLink="false">2025-11-19 14:28:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 2:27 pm</title>
       <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: RID, E82, TW7, A19, EMS901</description>
@@ -270,42 +306,6 @@
       <description>7100 BLOCK FOXCROFT DR, CRESTWOOD MIDDLE SCHOOL Radio: 9C Units: PE311, T4</description>
       <guid isPermaLink="false">2025-11-18 06:27:00</guid>
       <pubDate>Tue, 18 Nov 2025 06:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:25 am</title>
-      <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: RE74</description>
-      <guid isPermaLink="false">2025-11-18 06:25:00</guid>
-      <pubDate>Tue, 18 Nov 2025 06:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:56 am</title>
-      <description>GLADE RD / DEVILBISS BRIDGE RD Units: E111</description>
-      <guid isPermaLink="false">2025-11-18 05:56:00</guid>
-      <pubDate>Tue, 18 Nov 2025 05:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:09 am</title>
-      <description>5400 BLOCK PRINCE WILLIAM CT Radio: 9C Units: PE311, E33, TW1</description>
-      <guid isPermaLink="false">2025-11-18 05:09:00</guid>
-      <pubDate>Tue, 18 Nov 2025 05:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:09 am</title>
-      <description>100 BLOCK BENTON DR, Apt/Unit:102 Units: E61</description>
-      <guid isPermaLink="false">2025-11-18 02:09:00</guid>
-      <pubDate>Tue, 18 Nov 2025 02:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:35 am</title>
-      <description>SCHAFFER DR / HAMPSHIRE DR Radio: 9B Units: A38, E501</description>
-      <guid isPermaLink="false">2025-11-18 00:35:00</guid>
-      <pubDate>Tue, 18 Nov 2025 00:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:57 pm</title>
-      <description>2700 BLOCK MONOCACY BLVD, CLERESTORY PARK Radio: 9D Units: E291, R2, A299, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-11-17 22:57:00</guid>
-      <pubDate>Mon, 17 Nov 2025 22:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
