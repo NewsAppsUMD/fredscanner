@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 02:58:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 03:28:09 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:03 pm</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, IHOP RESTAURANT - WESTVIEW PROMENADE Radio: 9B Units: A39, E33</description>
+      <guid isPermaLink="false">2025-11-18 22:03:00</guid>
+      <pubDate>Tue, 18 Nov 2025 22:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 9:45 pm</title>
       <description>5200 BLOCK BUCKEYSTOWN PIKE, REGAL CINEMAS WESTVIEW STADIUM 16 - WESTVIEW PROMENADE Radio: 9I Units: PE311, E33, E11, PE23, E501, R3, T4, A318, ALS31, BC901, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: BR116</description>
       <guid isPermaLink="false">2025-11-17 05:51:00</guid>
       <pubDate>Mon, 17 Nov 2025 05:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:49 am</title>
-      <description>RAMP I270NB / RT80 Radio: 9B Units: ALS23</description>
-      <guid isPermaLink="false">2025-11-17 05:49:00</guid>
-      <pubDate>Mon, 17 Nov 2025 05:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
