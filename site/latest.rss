@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 19:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 19:31:31 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:27 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: RID, E82, TW7, A19, EMS901</description>
+      <guid isPermaLink="false">2025-11-19 14:27:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:23 pm</title>
+      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: E121, E33, PE23, RE74, E291, PE311, R3, TW1, T4, K1, K7, K33, A129, ALS4, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-11-19 14:23:00</guid>
+      <pubDate>Wed, 19 Nov 2025 14:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 1:25 pm</title>
       <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: R2</description>
@@ -294,18 +306,6 @@
       <description>2700 BLOCK MONOCACY BLVD, CLERESTORY PARK Radio: 9D Units: E291, R2, A299, ALS29, BC902, EMS902</description>
       <guid isPermaLink="false">2025-11-17 22:57:00</guid>
       <pubDate>Mon, 17 Nov 2025 22:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:38 pm</title>
-      <description>300 BLOCK W PATRICK ST, Apt/Unit:B Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-11-17 22:38:00</guid>
-      <pubDate>Mon, 17 Nov 2025 22:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:44 pm</title>
-      <description>100 BLOCK DONOVAN CT Units: PE52, E281, E201, R19, T5, R20, A198, ALS20, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-11-17 21:44:00</guid>
-      <pubDate>Mon, 17 Nov 2025 21:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
