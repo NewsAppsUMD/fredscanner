@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 18:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 19:02:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:59 pm</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-11-21 13:59:00</guid>
+      <pubDate>Fri, 21 Nov 2025 13:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:44 pm</title>
+      <description>100 BLOCK S MCCAIN DR Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2025-11-21 13:44:00</guid>
+      <pubDate>Fri, 21 Nov 2025 13:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
       <description>1600 BLOCK ROSEMONT AVE, SHEETZ - ROSEMONT Radio: 9B Units: A18, E11</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK LEWIS DR Radio: 7A4 Units: E251</description>
       <guid isPermaLink="false">2025-11-19 10:26:00</guid>
       <pubDate>Wed, 19 Nov 2025 10:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
-      <description>8500 BLOCK PROGRESS DR, CHARLES RIVER LABORATORIES - RIVERSIDE CORPORATE PARK Radio: 9C Units: Q11</description>
-      <guid isPermaLink="false">2025-11-19 09:56:00</guid>
-      <pubDate>Wed, 19 Nov 2025 09:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
-      <description>8500 BLOCK PROGRESS DR, CHARLES RIVER LABORATORIES - RIVERSIDE CORPORATE PARK Radio: 9C Units: T4</description>
-      <guid isPermaLink="false">2025-11-19 09:56:00</guid>
-      <pubDate>Wed, 19 Nov 2025 09:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
