@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Nov 2025 07:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 07:33:26 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 2:21 am</title>
+      <description>800 BLOCK STRATFORD WAY, Apt/Unit:A Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-11-21 02:21:00</guid>
+      <pubDate>Fri, 21 Nov 2025 02:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 9:26 pm</title>
       <description>10200 BLOCK QUILLBACK ST Radio: 9C Units: E331, E152, R15</description>
@@ -300,12 +306,6 @@
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD Radio: 9D Units: R10, A309, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2025-11-19 07:47:00</guid>
       <pubDate>Wed, 19 Nov 2025 07:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:31 am</title>
-      <description>1600 BLOCK MISTY MEADOW CIR, Bldg:3 Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2025-11-19 00:31:00</guid>
-      <pubDate>Wed, 19 Nov 2025 00:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
