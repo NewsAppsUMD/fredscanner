@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 10:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 10:34:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 5:13 am</title>
+      <description>100 BLOCK BLK RAMP RT4100 BLOCK-A TO I7100 BLOCKEB RAMP Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2025-11-22 05:13:00</guid>
+      <pubDate>Sat, 22 Nov 2025 05:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:46 am</title>
       <description>100 BLOCK BLK 7100 BLOCKW BTWN MT TABOR RD &amp; XOVR HWY Radio: 9B Units: RE74, R8, A89</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
       <guid isPermaLink="false">2025-11-19 14:57:00</guid>
       <pubDate>Wed, 19 Nov 2025 14:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:48 pm</title>
-      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: A196</description>
-      <guid isPermaLink="false">2025-11-19 14:48:00</guid>
-      <pubDate>Wed, 19 Nov 2025 14:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
