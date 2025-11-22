@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 03:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 04:02:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:59 pm</title>
+      <description>MA WASHCO: RT340 / KEEP TRYST RD, MA WASHCO: RT340 / KEEP TRYST RD Radio: PS1 Units: PE52, A196</description>
+      <guid isPermaLink="false">2025-11-21 22:59:00</guid>
+      <pubDate>Fri, 21 Nov 2025 22:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:59 pm</title>
+      <description>MA WASHCO: RT340 / KEEP TRYST RD, MA WASHCO: RT340 / KEEP TRYST RD Radio: PS1 Units: PE52, A196</description>
+      <guid isPermaLink="false">2025-11-21 22:59:00</guid>
+      <pubDate>Fri, 21 Nov 2025 22:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 7:38 pm</title>
       <description>200 BLOCK N MARKET ST, THE ORDINARY HEN Units: E33, PE23, E121, PE311, E501, R3, T4, TW1, A39, ALS4, BC901, BC903, SAF901</description>
@@ -294,18 +306,6 @@
       <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: EK204, K23</description>
       <guid isPermaLink="false">2025-11-19 14:28:00</guid>
       <pubDate>Wed, 19 Nov 2025 14:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:27 pm</title>
-      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: RID, E82, TW7, A19, EMS901</description>
-      <guid isPermaLink="false">2025-11-19 14:27:00</guid>
-      <pubDate>Wed, 19 Nov 2025 14:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:23 pm</title>
-      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: E121, E33, PE23, RE74, E291, PE311, R3, TW1, T4, K1, K7, K33, A129, ALS4, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-11-19 14:23:00</guid>
-      <pubDate>Wed, 19 Nov 2025 14:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
