@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 08:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 09:02:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:46 am</title>
+      <description>100 BLOCK BLK 7100 BLOCKW BTWN MT TABOR RD &amp; XOVR HWY Radio: 9B Units: RE74, R8, A89</description>
+      <guid isPermaLink="false">2025-11-22 03:46:00</guid>
+      <pubDate>Sat, 22 Nov 2025 03:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 11:44 pm</title>
       <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E121, E82</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: A196</description>
       <guid isPermaLink="false">2025-11-19 14:48:00</guid>
       <pubDate>Wed, 19 Nov 2025 14:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:47 pm</title>
-      <description>6900 BLOCK BALTIMORE NATIONAL PIKE PIKE, Apt/Unit:STE G Radio: 9D Units: ALS2</description>
-      <guid isPermaLink="false">2025-11-19 14:47:00</guid>
-      <pubDate>Wed, 19 Nov 2025 14:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
