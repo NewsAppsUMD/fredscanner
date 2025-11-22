@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 17:01:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 17:32:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:01 pm</title>
+      <description>4300 BLOCK LANDSDALE BLVD Radio: 9C Units: E251, TT23</description>
+      <guid isPermaLink="false">2025-11-22 12:01:00</guid>
+      <pubDate>Sat, 22 Nov 2025 12:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:23 am</title>
       <description>4700 BLOCK IJAMSVILLE RD(OLD), CROSSROADS FREEDOM CENTER Radio: 9C Units: E331, TT23</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: E33, E331, R3, A39, A339</description>
       <guid isPermaLink="false">2025-11-19 17:56:00</guid>
       <pubDate>Wed, 19 Nov 2025 17:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:31 pm</title>
-      <description>2200 BLOCK REGINA DR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-11-19 17:31:00</guid>
-      <pubDate>Wed, 19 Nov 2025 17:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
