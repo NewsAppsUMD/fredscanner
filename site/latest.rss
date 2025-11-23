@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 23:32:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 00:09:14 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:59 pm</title>
+      <description>800 BLOCK BOND ST Radio: 9C Units: E33, E23, R3</description>
+      <guid isPermaLink="false">2025-11-22 18:59:00</guid>
+      <pubDate>Sat, 22 Nov 2025 18:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 5:47 pm</title>
       <description>4400 BLOCK HIGHBORO DR Units: K33</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK PENNERSVILLE RD Units: EK64, R10</description>
       <guid isPermaLink="false">2025-11-20 08:05:00</guid>
       <pubDate>Thu, 20 Nov 2025 08:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:46 am</title>
-      <description>I70EB / 47MM, I70WB / RT355 Radio: 9B Units: RE74, E121, R8, A89, A129</description>
-      <guid isPermaLink="false">2025-11-20 06:46:00</guid>
-      <pubDate>Thu, 20 Nov 2025 06:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
