@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 20:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 21:02:16 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 3:50 pm</title>
+      <description>1100 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: R19</description>
+      <guid isPermaLink="false">2025-11-24 15:50:00</guid>
+      <pubDate>Mon, 24 Nov 2025 15:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 3:50 pm</title>
+      <description>1100 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2025-11-24 15:50:00</guid>
+      <pubDate>Mon, 24 Nov 2025 15:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 3:44 pm</title>
+      <description>1100 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52, E201, T5</description>
+      <guid isPermaLink="false">2025-11-24 15:44:00</guid>
+      <pubDate>Mon, 24 Nov 2025 15:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:37 pm</title>
       <description>1500 BLOCK HAVILLAND PL Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>FINGERBOARD RD / FLINT HILL RD Radio: 9B Units: A149, E231</description>
       <guid isPermaLink="false">2025-11-22 06:17:00</guid>
       <pubDate>Sat, 22 Nov 2025 06:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:13 am</title>
-      <description>100 BLOCK BLK RAMP RT4100 BLOCK-A TO I7100 BLOCKEB RAMP Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2025-11-22 05:13:00</guid>
-      <pubDate>Sat, 22 Nov 2025 05:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:46 am</title>
-      <description>100 BLOCK BLK 7100 BLOCKW BTWN MT TABOR RD &amp; XOVR HWY Radio: 9B Units: RE74, R8, A89</description>
-      <guid isPermaLink="false">2025-11-22 03:46:00</guid>
-      <pubDate>Sat, 22 Nov 2025 03:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 11:44 pm</title>
-      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Units: E121, E82</description>
-      <guid isPermaLink="false">2025-11-21 23:44:00</guid>
-      <pubDate>Fri, 21 Nov 2025 23:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
