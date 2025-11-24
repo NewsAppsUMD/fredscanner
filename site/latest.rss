@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 22:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 22:35:02 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:28 pm</title>
+      <description>14500 BLOCK LIBERTY RD Units: R24</description>
+      <guid isPermaLink="false">2025-11-24 17:28:00</guid>
+      <pubDate>Mon, 24 Nov 2025 17:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:17 pm</title>
+      <description>14500 BLOCK LIBERTY RD Units: E172, E162, E111, R15, A179, ALS17, K17, BC902, BC900, SAF900, CCK14, CCK1</description>
+      <guid isPermaLink="false">2025-11-24 17:17:00</guid>
+      <pubDate>Mon, 24 Nov 2025 17:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:13 pm</title>
+      <description>WOODSBORO PIKE / HAUGHS CHURCH RD, IAO Radio: 9B Units: A169, E91</description>
+      <guid isPermaLink="false">2025-11-24 17:13:00</guid>
+      <pubDate>Mon, 24 Nov 2025 17:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 3:50 pm</title>
       <description>1100 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: R19</description>
@@ -288,24 +306,6 @@
       <description>4300 BLOCK LANDSDALE BLVD Radio: 9C Units: E251, TT23</description>
       <guid isPermaLink="false">2025-11-22 12:01:00</guid>
       <pubDate>Sat, 22 Nov 2025 12:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:23 am</title>
-      <description>4700 BLOCK IJAMSVILLE RD(OLD), CROSSROADS FREEDOM CENTER Radio: 9C Units: E331, TT23</description>
-      <guid isPermaLink="false">2025-11-22 08:23:00</guid>
-      <pubDate>Sat, 22 Nov 2025 08:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:09 am</title>
-      <description>100 BLOCK BLK RAMP RT15NB TO MOTTER AVE RAMP Radio: 9B Units: A29, PE23</description>
-      <guid isPermaLink="false">2025-11-22 08:09:00</guid>
-      <pubDate>Sat, 22 Nov 2025 08:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:17 am</title>
-      <description>FINGERBOARD RD / FLINT HILL RD Radio: 9B Units: A149, E231</description>
-      <guid isPermaLink="false">2025-11-22 06:17:00</guid>
-      <pubDate>Sat, 22 Nov 2025 06:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
