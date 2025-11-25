@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 19:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 19:32:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:19 pm</title>
+      <description>200 BLOCK MISSION RD Units: R19</description>
+      <guid isPermaLink="false">2025-11-25 14:19:00</guid>
+      <pubDate>Tue, 25 Nov 2025 14:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 1:33 pm</title>
       <description>38800 BLOCK FRY FARM RD Radio: 6B Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>8000 BLOCK HARBOR PL Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2025-11-23 12:58:00</guid>
       <pubDate>Sun, 23 Nov 2025 12:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:32 pm</title>
-      <description>RT85 / I270, RT85 / I270 Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-11-23 12:32:00</guid>
-      <pubDate>Sun, 23 Nov 2025 12:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
