@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 13:41:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 14:37:07 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:57 am</title>
+      <description>3800 BLOCK NINER RD, STATION CC013 - GAMBER AND COMMUNITY FC Units: E231</description>
+      <guid isPermaLink="false">2025-11-25 08:57:00</guid>
+      <pubDate>Tue, 25 Nov 2025 08:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:45 am</title>
+      <description>6600 BLOCK SYKESVILLE RD, STATION CC012 - SYKESVILLE FREEDOM DISTRICT FD Units: E152</description>
+      <guid isPermaLink="false">2025-11-25 08:45:00</guid>
+      <pubDate>Tue, 25 Nov 2025 08:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 8:44 am</title>
+      <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: E152</description>
+      <guid isPermaLink="false">2025-11-25 08:44:00</guid>
+      <pubDate>Tue, 25 Nov 2025 08:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:42 am</title>
+      <description>LIBERTY RD / MONOCACY RIVER Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2025-11-25 08:42:00</guid>
+      <pubDate>Tue, 25 Nov 2025 08:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 8:34 am</title>
       <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: EK114</description>
@@ -282,30 +306,6 @@
       <description>1000 BLOCK HOLDEN RD Radio: 9C Units: R3</description>
       <guid isPermaLink="false">2025-11-23 00:18:00</guid>
       <pubDate>Sun, 23 Nov 2025 00:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:03 am</title>
-      <description>100 BLOCK HOLLING DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-11-23 00:03:00</guid>
-      <pubDate>Sun, 23 Nov 2025 00:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:01 pm</title>
-      <description>200 BLOCK MONTEVUE LN Radio: 9C Units: E501, PE23</description>
-      <guid isPermaLink="false">2025-11-22 20:01:00</guid>
-      <pubDate>Sat, 22 Nov 2025 20:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 pm</title>
-      <description>W PATRICK ST / OLD NATIONAL PIKE Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2025-11-22 19:46:00</guid>
-      <pubDate>Sat, 22 Nov 2025 19:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:42 pm</title>
-      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2025-11-22 19:42:00</guid>
-      <pubDate>Sat, 22 Nov 2025 19:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
