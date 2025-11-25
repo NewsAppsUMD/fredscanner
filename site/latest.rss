@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 16:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 16:40:12 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 11:21 am</title>
+      <description>6300 BLOCK KNOLLWOOD DR Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-11-25 11:21:00</guid>
+      <pubDate>Tue, 25 Nov 2025 11:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:29 am</title>
       <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK W ADAMS CIR Radio: 9C Units: E162, Q11</description>
       <guid isPermaLink="false">2025-11-23 08:57:00</guid>
       <pubDate>Sun, 23 Nov 2025 08:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:46 am</title>
-      <description>10300 BLOCK CHURCH HILL RD Units: E82, RE74, E121, E11, TW7, K21, K7, A89, ALS8, E212, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2025-11-23 08:46:00</guid>
-      <pubDate>Sun, 23 Nov 2025 08:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
