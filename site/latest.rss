@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 10:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 10:38:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:21 am</title>
+      <description>I270SB / RT85(RT85), I270SB / RT85 Radio: 9B Units: E11, E231, R3, A19, A239</description>
+      <guid isPermaLink="false">2025-11-25 05:21:00</guid>
+      <pubDate>Tue, 25 Nov 2025 05:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:09 pm</title>
       <description>500 BLOCK BEEBE CT Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>JEFFERSON PIKE / OLD HOLTER RD Radio: 9D Units: E201, R20, A209, ALS20, EMS901</description>
       <guid isPermaLink="false">2025-11-22 16:04:00</guid>
       <pubDate>Sat, 22 Nov 2025 16:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 2:30 pm</title>
-      <description>12400 BLOCK LINGANORE WOODS CIR Radio: 9C Units: E251, E152, K33</description>
-      <guid isPermaLink="false">2025-11-22 14:30:00</guid>
-      <pubDate>Sat, 22 Nov 2025 14:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
