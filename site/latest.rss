@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Nov 2025 15:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 15:36:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:29 am</title>
+      <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-11-25 10:29:00</guid>
+      <pubDate>Tue, 25 Nov 2025 10:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 8:57 am</title>
       <description>3800 BLOCK NINER RD, STATION CC013 - GAMBER AND COMMUNITY FC Units: E231</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK CHURCH HILL RD Units: E82, RE74, E121, E11, TW7, K21, K7, A89, ALS8, E212, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2025-11-23 08:46:00</guid>
       <pubDate>Sun, 23 Nov 2025 08:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 12:18 am</title>
-      <description>1000 BLOCK HOLDEN RD Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-11-23 00:18:00</guid>
-      <pubDate>Sun, 23 Nov 2025 00:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
