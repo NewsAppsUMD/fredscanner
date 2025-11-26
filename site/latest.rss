@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 14:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 14:36:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:31 am</title>
+      <description>LIBERTY RD / WORMANS MILL RD, IAO Units: A249, E111</description>
+      <guid isPermaLink="false">2025-11-26 09:31:00</guid>
+      <pubDate>Wed, 26 Nov 2025 09:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:28 am</title>
+      <description>OLD NATIONAL PIKE / URNER AVE Units: A78</description>
+      <guid isPermaLink="false">2025-11-26 09:28:00</guid>
+      <pubDate>Wed, 26 Nov 2025 09:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:24 am</title>
+      <description>OLD NATIONAL PIKE / URNER AVE Units: A129, E121</description>
+      <guid isPermaLink="false">2025-11-26 09:24:00</guid>
+      <pubDate>Wed, 26 Nov 2025 09:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:306, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
+      <guid isPermaLink="false">2025-11-26 09:18:00</guid>
+      <pubDate>Wed, 26 Nov 2025 09:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:02 am</title>
+      <description>1300 BLOCK W PATRICK ST, WEST FREDERICK CENTER Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2025-11-26 09:02:00</guid>
+      <pubDate>Wed, 26 Nov 2025 09:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:55 am</title>
       <description>BUCKEYSTOWN PIKE / GUILFORD DR Radio: 9D Units: E33, R3, A39, ALS31, BC901, EMS901</description>
@@ -276,36 +306,6 @@
       <description>I270SB / RT85(RT85), I270SB / RT85 Radio: 9B Units: E11, E231, R3, A19, A239</description>
       <guid isPermaLink="false">2025-11-25 05:21:00</guid>
       <pubDate>Tue, 25 Nov 2025 05:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:09 pm</title>
-      <description>500 BLOCK BEEBE CT Units: TW1</description>
-      <guid isPermaLink="false">2025-11-24 22:09:00</guid>
-      <pubDate>Mon, 24 Nov 2025 22:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:16 pm</title>
-      <description>11900 BLOCK BERLIN TPKE Radio: 6DTAC11 Units: T5</description>
-      <guid isPermaLink="false">2025-11-24 20:16:00</guid>
-      <pubDate>Mon, 24 Nov 2025 20:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:28 pm</title>
-      <description>14500 BLOCK LIBERTY RD Units: R24</description>
-      <guid isPermaLink="false">2025-11-24 17:28:00</guid>
-      <pubDate>Mon, 24 Nov 2025 17:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:17 pm</title>
-      <description>14500 BLOCK LIBERTY RD Units: E172, E162, E111, R15, A179, ALS17, K17, BC902, BC900, SAF900, CCK14, CCK1</description>
-      <guid isPermaLink="false">2025-11-24 17:17:00</guid>
-      <pubDate>Mon, 24 Nov 2025 17:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:13 pm</title>
-      <description>WOODSBORO PIKE / HAUGHS CHURCH RD, IAO Radio: 9B Units: A169, E91</description>
-      <guid isPermaLink="false">2025-11-24 17:13:00</guid>
-      <pubDate>Mon, 24 Nov 2025 17:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
