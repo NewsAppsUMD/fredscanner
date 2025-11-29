@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 14:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 15:01:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:56 am</title>
+      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2025-11-29 09:56:00</guid>
+      <pubDate>Sat, 29 Nov 2025 09:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:16 am</title>
       <description>8200 BLOCK ROCKY RIDGE RD Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / RT180 (FREDERICK), RT340EB / RT180 Radio: 9D Units: E33, PE311, R3, A39, A318, ALS31, BC901, EMS901</description>
       <guid isPermaLink="false">2025-11-25 16:40:00</guid>
       <pubDate>Tue, 25 Nov 2025 16:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:25 pm</title>
-      <description>RT40A / EDGEMONT RD, RT40A / EDGEMONT RD Radio: 9B Units: A78</description>
-      <guid isPermaLink="false">2025-11-25 16:25:00</guid>
-      <pubDate>Tue, 25 Nov 2025 16:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
