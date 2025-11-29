@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 06:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 06:40:15 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 1:15 am</title>
+      <description>15600 BLOCK OLD FREDERICK RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-11-29 01:15:00</guid>
+      <pubDate>Sat, 29 Nov 2025 01:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 1:10 am</title>
+      <description>15600 BLOCK OLD FREDERICK RD Radio: 9C Units: E61, E132, TW6, EK64</description>
+      <guid isPermaLink="false">2025-11-29 01:10:00</guid>
+      <pubDate>Sat, 29 Nov 2025 01:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 12:01 am</title>
       <description>500 BLOCK N MARKET ST, Apt/Unit:110 Radio: 9C Units: E33</description>
@@ -294,18 +306,6 @@
       <description>4000 BLOCK CLAY ST, CANAM STEEL Radio: 9B Units: A149, E281</description>
       <guid isPermaLink="false">2025-11-25 15:54:00</guid>
       <pubDate>Tue, 25 Nov 2025 15:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:19 pm</title>
-      <description>200 BLOCK MISSION RD Units: R19</description>
-      <guid isPermaLink="false">2025-11-25 14:19:00</guid>
-      <pubDate>Tue, 25 Nov 2025 14:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 1:33 pm</title>
-      <description>38800 BLOCK FRY FARM RD Radio: 6B Units: PE52</description>
-      <guid isPermaLink="false">2025-11-25 13:33:00</guid>
-      <pubDate>Tue, 25 Nov 2025 13:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
