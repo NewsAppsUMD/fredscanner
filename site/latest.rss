@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Nov 2025 04:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 04:36:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:28 pm</title>
+      <description>MONOCACY BLVD / LAUREL WOOD WAY Radio: 9D Units: R2</description>
+      <guid isPermaLink="false">2025-11-28 23:28:00</guid>
+      <pubDate>Fri, 28 Nov 2025 23:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:23 pm</title>
+      <description>MONOCACY BLVD / LAUREL WOOD WAY, Bldg:C Radio: 9D Units: E111, R24, A249, ALS29, EMS902</description>
+      <guid isPermaLink="false">2025-11-28 23:23:00</guid>
+      <pubDate>Fri, 28 Nov 2025 23:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:08 pm</title>
+      <description>2000 BLOCK GOOSE CREEK WAY Radio: 9C Units: E11, E501</description>
+      <guid isPermaLink="false">2025-11-28 23:08:00</guid>
+      <pubDate>Fri, 28 Nov 2025 23:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:07 pm</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
@@ -288,24 +306,6 @@
       <description>3500 BLOCK WORTHINGTON BLVD, NATES BARBERSHOP - URBANA TOWN CENTER Radio: 9C Units: E251, TT23</description>
       <guid isPermaLink="false">2025-11-25 11:47:00</guid>
       <pubDate>Tue, 25 Nov 2025 11:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:42 am</title>
-      <description>7000 BLOCK MICHAELS MILL RD Radio: 9D Units: E311, R14, A149, ALS23, EMS901</description>
-      <guid isPermaLink="false">2025-11-25 11:42:00</guid>
-      <pubDate>Tue, 25 Nov 2025 11:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 11:21 am</title>
-      <description>6300 BLOCK KNOLLWOOD DR Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2025-11-25 11:21:00</guid>
-      <pubDate>Tue, 25 Nov 2025 11:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:29 am</title>
-      <description>200 BLOCK VISTA GLEN RD Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-11-25 10:29:00</guid>
-      <pubDate>Tue, 25 Nov 2025 10:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
