@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 02:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 03:29:41 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:59 pm</title>
+      <description>100 BLOCK FIREMANS WAY, MIDDLETOWN FIRE COMPANY ACTIVITIES BUILDING Radio: 9C Units: RE74</description>
+      <guid isPermaLink="false">2025-11-29 21:59:00</guid>
+      <pubDate>Sat, 29 Nov 2025 21:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 9:55 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, WELLS FARGO BANK - CLEMSON CORNER Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-11-29 21:55:00</guid>
+      <pubDate>Sat, 29 Nov 2025 21:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:46 pm</title>
       <description>I70EB / 47MM, I70EB / 47MM Radio: 9B Units: RE74, E121, R8, A89, A129</description>
@@ -294,18 +306,6 @@
       <description>5700 BLOCK S RENN RD Radio: 9I Units: RID, PE23, R3, A318, EMS901</description>
       <guid isPermaLink="false">2025-11-25 19:28:00</guid>
       <pubDate>Tue, 25 Nov 2025 19:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:25 pm</title>
-      <description>5700 BLOCK S RENN RD Radio: 9I Units: R3</description>
-      <guid isPermaLink="false">2025-11-25 19:25:00</guid>
-      <pubDate>Tue, 25 Nov 2025 19:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:20 pm</title>
-      <description>5700 BLOCK S RENN RD Units: PE311, E201, E141, E33, E121, E281, R20, TW1, T4, EK204, K1, K33, A319, ALS31, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2025-11-25 19:20:00</guid>
-      <pubDate>Tue, 25 Nov 2025 19:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
