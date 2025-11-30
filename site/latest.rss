@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 04:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 05:02:24 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:55 pm</title>
+      <description>10900 BLOCK GREEN VALLEY RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-11-29 23:55:00</guid>
+      <pubDate>Sat, 29 Nov 2025 23:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:59 pm</title>
       <description>100 BLOCK FIREMANS WAY, MIDDLETOWN FIRE COMPANY ACTIVITIES BUILDING Radio: 9C Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A198</description>
       <guid isPermaLink="false">2025-11-25 19:47:00</guid>
       <pubDate>Tue, 25 Nov 2025 19:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:28 pm</title>
-      <description>5700 BLOCK S RENN RD Radio: 9I Units: RID, PE23, R3, A318, EMS901</description>
-      <guid isPermaLink="false">2025-11-25 19:28:00</guid>
-      <pubDate>Tue, 25 Nov 2025 19:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
