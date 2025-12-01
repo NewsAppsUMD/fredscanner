@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 00:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 01:30:51 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:53 pm</title>
+      <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Radio: WCFEMSDISP Units: RE74</description>
+      <guid isPermaLink="false">2025-11-30 19:53:00</guid>
+      <pubDate>Sun, 30 Nov 2025 19:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:51 pm</title>
+      <description>6300 BLOCK OLD NATIONAL PIKE Radio: TAC1OPS Units: K7</description>
+      <guid isPermaLink="false">2025-11-30 19:51:00</guid>
+      <pubDate>Sun, 30 Nov 2025 19:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:51 pm</title>
+      <description>6300 BLOCK OLD NATIONAL PIKE Radio: TAC1OPS Units: K7</description>
+      <guid isPermaLink="false">2025-11-30 19:51:00</guid>
+      <pubDate>Sun, 30 Nov 2025 19:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:52 pm</title>
       <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: E281</description>
@@ -288,24 +306,6 @@
       <description>OLD NATIONAL PIKE / URNER AVE Units: A129, E121</description>
       <guid isPermaLink="false">2025-11-26 09:24:00</guid>
       <pubDate>Wed, 26 Nov 2025 09:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:306, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2025-11-26 09:18:00</guid>
-      <pubDate>Wed, 26 Nov 2025 09:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:02 am</title>
-      <description>1300 BLOCK W PATRICK ST, WEST FREDERICK CENTER Radio: 9C Units: E11, T4</description>
-      <guid isPermaLink="false">2025-11-26 09:02:00</guid>
-      <pubDate>Wed, 26 Nov 2025 09:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:55 am</title>
-      <description>BUCKEYSTOWN PIKE / GUILFORD DR Radio: 9D Units: E33, R3, A39, ALS31, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-11-26 05:55:00</guid>
-      <pubDate>Wed, 26 Nov 2025 05:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
