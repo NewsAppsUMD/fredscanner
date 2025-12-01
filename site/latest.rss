@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 06:03:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 06:43:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:14 am</title>
+      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2025-12-01 01:14:00</guid>
+      <pubDate>Mon, 01 Dec 2025 01:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:57 pm</title>
       <description>4600 BLOCK MONROVIA BLVD Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK BROAD BRANCH WAY Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-11-28 14:58:00</guid>
       <pubDate>Fri, 28 Nov 2025 14:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:48 pm</title>
-      <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7401, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, E33, R3</description>
-      <guid isPermaLink="false">2025-11-28 13:48:00</guid>
-      <pubDate>Fri, 28 Nov 2025 13:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
