@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 04:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 05:08:04 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:57 pm</title>
+      <description>4600 BLOCK MONROVIA BLVD Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-11-30 23:57:00</guid>
+      <pubDate>Sun, 30 Nov 2025 23:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:31 pm</title>
       <description>RT77 / CUNNINGHAM FALLS PARKING AREA, RT77 / CUNNINGHAM FALLS PARKING AREA Radio: 9B Units: A309, PE102</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7401, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, E33, R3</description>
       <guid isPermaLink="false">2025-11-28 13:48:00</guid>
       <pubDate>Fri, 28 Nov 2025 13:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:40 am</title>
-      <description>OLD NATIONAL PIKE / URNER AVE Units: RE74</description>
-      <guid isPermaLink="false">2025-11-26 09:40:00</guid>
-      <pubDate>Wed, 26 Nov 2025 09:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
