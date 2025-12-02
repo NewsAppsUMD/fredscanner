@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 11:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 12:03:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:53 am</title>
+      <description>11500 BLOCK HARP HILL RD, PH 2 Radio: 9B Units: ALS8</description>
+      <guid isPermaLink="false">2025-12-02 06:53:00</guid>
+      <pubDate>Tue, 02 Dec 2025 06:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 6:38 am</title>
+      <description>7200 BLOCK WILSON RD Radio: 9C Units: A179</description>
+      <guid isPermaLink="false">2025-12-02 06:38:00</guid>
+      <pubDate>Tue, 02 Dec 2025 06:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:35 am</title>
+      <description>11500 BLOCK HARP HILL RD, PH 2 Radio: 9B Units: A89, E212</description>
+      <guid isPermaLink="false">2025-12-02 06:35:00</guid>
+      <pubDate>Tue, 02 Dec 2025 06:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 6:34 am</title>
+      <description>7200 BLOCK WILSON RD Radio: 9C Units: E172, E152, K17, CCK1</description>
+      <guid isPermaLink="false">2025-12-02 06:34:00</guid>
+      <pubDate>Tue, 02 Dec 2025 06:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:31 am</title>
+      <description>100 BLOCK OLD WAYNESBORO RD Units: R6</description>
+      <guid isPermaLink="false">2025-12-02 06:31:00</guid>
+      <pubDate>Tue, 02 Dec 2025 06:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:32 am</title>
       <description>RT15SB / BLUE MOUNTAIN RD, RT15SB / BLUE MOUNTAIN RD Radio: 9B Units: A309, PE102</description>
@@ -276,36 +306,6 @@
       <description>I70WB / HOLLOW RD, Apt/Unit:HTTPS://A91.IO/75YIZ, I70WB / HOLLOW RD Radio: 9B Units: E121, A129, ALS8</description>
       <guid isPermaLink="false">2025-11-30 21:27:00</guid>
       <pubDate>Sun, 30 Nov 2025 21:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:53 pm</title>
-      <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Radio: WCFEMSDISP Units: RE74</description>
-      <guid isPermaLink="false">2025-11-30 19:53:00</guid>
-      <pubDate>Sun, 30 Nov 2025 19:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:51 pm</title>
-      <description>6300 BLOCK OLD NATIONAL PIKE Radio: TAC1OPS Units: K7</description>
-      <guid isPermaLink="false">2025-11-30 19:51:00</guid>
-      <pubDate>Sun, 30 Nov 2025 19:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:51 pm</title>
-      <description>6300 BLOCK OLD NATIONAL PIKE Radio: TAC1OPS Units: K7</description>
-      <guid isPermaLink="false">2025-11-30 19:51:00</guid>
-      <pubDate>Sun, 30 Nov 2025 19:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:52 pm</title>
-      <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2025-11-30 17:52:00</guid>
-      <pubDate>Sun, 30 Nov 2025 17:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
-      <description>19700 BLOCK YARROWSBURG RD Units: A198, PE52</description>
-      <guid isPermaLink="false">2025-11-30 15:04:00</guid>
-      <pubDate>Sun, 30 Nov 2025 15:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
