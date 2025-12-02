@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 20:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 20:36:54 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:29 pm</title>
+      <description>12100 BLOCK LOY WOLFE RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2025-12-02 15:29:00</guid>
+      <pubDate>Tue, 02 Dec 2025 15:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:26 pm</title>
+      <description>ARABY CHURCH RD / BAKER VALLEY RD Radio: 9B Units: A39, TT23</description>
+      <guid isPermaLink="false">2025-12-02 15:26:00</guid>
+      <pubDate>Tue, 02 Dec 2025 15:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:03 pm</title>
+      <description>6400 BLOCK JEFFERSON PIKE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-12-02 15:03:00</guid>
+      <pubDate>Tue, 02 Dec 2025 15:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:56 pm</title>
+      <description>MOUNTVILLE RD / DOUBS RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2025-12-02 14:56:00</guid>
+      <pubDate>Tue, 02 Dec 2025 14:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:55 pm</title>
       <description>6400 BLOCK JEFFERSON PIKE Radio: 9C Units: E11, T4</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 6 Units: A319</description>
       <guid isPermaLink="false">2025-12-01 12:02:00</guid>
       <pubDate>Mon, 01 Dec 2025 12:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:59 am</title>
-      <description>100 BLOCK N CHURCH ST, STATION 10 Units: K33</description>
-      <guid isPermaLink="false">2025-12-01 11:59:00</guid>
-      <pubDate>Mon, 01 Dec 2025 11:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 11:50 am</title>
-      <description>2500 BLOCK S BAUMGARDNER RD Units: K9</description>
-      <guid isPermaLink="false">2025-12-01 11:50:00</guid>
-      <pubDate>Mon, 01 Dec 2025 11:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 11:47 am</title>
-      <description>2500 BLOCK S BAUMGARDNER RD Units: R6</description>
-      <guid isPermaLink="false">2025-12-01 11:47:00</guid>
-      <pubDate>Mon, 01 Dec 2025 11:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GARAGE FIRE: 11:43 am</title>
-      <description>2500 BLOCK S BAUMGARDNER RD Units: E133, EK64, K10</description>
-      <guid isPermaLink="false">2025-12-01 11:43:00</guid>
-      <pubDate>Mon, 01 Dec 2025 11:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
