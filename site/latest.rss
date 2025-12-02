@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Dec 2025 12:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 13:13:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:07 am</title>
+      <description>RT75 / RT144, RT75 / RT144 Radio: 9B Units: A159, E152</description>
+      <guid isPermaLink="false">2025-12-02 08:07:00</guid>
+      <pubDate>Tue, 02 Dec 2025 08:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:53 am</title>
       <description>11500 BLOCK HARP HILL RD, PH 2 Radio: 9B Units: ALS8</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK KNOTT LN Radio: 9C Units: E232, E251, TT23</description>
       <guid isPermaLink="false">2025-11-30 21:29:00</guid>
       <pubDate>Sun, 30 Nov 2025 21:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:27 pm</title>
-      <description>I70WB / HOLLOW RD, Apt/Unit:HTTPS://A91.IO/75YIZ, I70WB / HOLLOW RD Radio: 9B Units: E121, A129, ALS8</description>
-      <guid isPermaLink="false">2025-11-30 21:27:00</guid>
-      <pubDate>Sun, 30 Nov 2025 21:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
