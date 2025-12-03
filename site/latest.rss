@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 14:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 15:02:39 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 9:53 am</title>
+      <description>LAWYER LN / STRAFFORD DR Radio: 9C Units: EK134</description>
+      <guid isPermaLink="false">2025-12-03 09:53:00</guid>
+      <pubDate>Wed, 03 Dec 2025 09:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:43 am</title>
+      <description>GUILFORD DR / BUCKEYSTOWN PIKE Radio: 9C Units: E33</description>
+      <guid isPermaLink="false">2025-12-03 09:43:00</guid>
+      <pubDate>Wed, 03 Dec 2025 09:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 9:37 am</title>
+      <description>LAWYER LN / STRAFFORD DR Radio: 9C Units: K10</description>
+      <guid isPermaLink="false">2025-12-03 09:37:00</guid>
+      <pubDate>Wed, 03 Dec 2025 09:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:31 am</title>
       <description>200 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E33, E11, R3, A39, A18</description>
       <guid isPermaLink="false">2025-12-01 23:13:00</guid>
       <pubDate>Mon, 01 Dec 2025 23:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:23 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: PE311</description>
-      <guid isPermaLink="false">2025-12-01 21:23:00</guid>
-      <pubDate>Mon, 01 Dec 2025 21:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:12 pm</title>
-      <description>I70WB / RT351, I70WB / RT351 Units: E121, E33, R3, A129, A318, ALS4, EMS901</description>
-      <guid isPermaLink="false">2025-12-01 21:12:00</guid>
-      <pubDate>Mon, 01 Dec 2025 21:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:41 pm</title>
-      <description>4800 BLOCK MARSDEN CT Units: PE311</description>
-      <guid isPermaLink="false">2025-12-01 20:41:00</guid>
-      <pubDate>Mon, 01 Dec 2025 20:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
