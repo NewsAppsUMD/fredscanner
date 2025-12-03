@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 00:08:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:46:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:19 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-12-02 19:19:00</guid>
+      <pubDate>Tue, 02 Dec 2025 19:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 6:02 pm</title>
       <description>7500 BLOCK MIDDLEBURG RD Units: E132</description>
@@ -300,12 +306,6 @@
       <description>8400 BLOCK WOODSBORO PIKE, SHEETZ - WALKERSVILLE Radio: 9I Units: E111, E291, PE23, E162, E501, R24, Q11, TW1, A249, ALS2, BC903, BC901, SAF900</description>
       <guid isPermaLink="false">2025-12-01 16:10:00</guid>
       <pubDate>Mon, 01 Dec 2025 16:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:03 pm</title>
-      <description>16500 BLOCK BUCK LANTZ RD Units: A309</description>
-      <guid isPermaLink="false">2025-12-01 16:03:00</guid>
-      <pubDate>Mon, 01 Dec 2025 16:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
