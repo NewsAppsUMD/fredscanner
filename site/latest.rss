@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 12:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:44:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:41 am</title>
+      <description>RT340EB / S MOUNTAIN RD, RT340EB / S MOUNTAIN RD Radio: 91D Units: PE52, E201, R19, A198, A209, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-12-05 07:41:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:38 am</title>
+      <description>12900 BLOCK MILLTOWN RD Radio: 6B Units: PE52</description>
+      <guid isPermaLink="false">2025-12-05 07:38:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:24 am</title>
+      <description>3800 BLOCK GREEN VALLEY RD Units: E251, A259, ALS17, BC902, EMS900</description>
+      <guid isPermaLink="false">2025-12-05 07:24:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:19 am</title>
+      <description>IJAMSVILLE RD / RAILROAD XING Radio: 91D Units: E331, R15, A339, ALS23, EMS901, TT23</description>
+      <guid isPermaLink="false">2025-12-05 07:19:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:15 am</title>
+      <description>RT340EB / RT180 (KNOXVILLE), RT340EB / RT180 Radio: 9I Units: E141, R19, A198, A19, BC901, EMS902, PE52</description>
+      <guid isPermaLink="false">2025-12-05 07:15:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:13 am</title>
+      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9D Units: E281</description>
+      <guid isPermaLink="false">2025-12-05 07:13:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:08 am</title>
+      <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Radio: 9D Units: E11, E201, R2, A18, A209, ALS4, BC903, EMS901</description>
+      <guid isPermaLink="false">2025-12-05 07:08:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:04 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: R3, A239, E232</description>
+      <guid isPermaLink="false">2025-12-05 07:04:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:53 am</title>
       <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: R19</description>
@@ -258,54 +306,6 @@
       <description>LAWYER LN / STRAFFORD DR Radio: 9C Units: EK134</description>
       <guid isPermaLink="false">2025-12-03 09:53:00</guid>
       <pubDate>Wed, 03 Dec 2025 09:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:43 am</title>
-      <description>GUILFORD DR / BUCKEYSTOWN PIKE Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2025-12-03 09:43:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:37 am</title>
-      <description>LAWYER LN / STRAFFORD DR Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2025-12-03 09:37:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:31 am</title>
-      <description>200 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-03 09:31:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:29 am</title>
-      <description>200 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-03 09:29:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:29 am</title>
-      <description>200 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-03 09:29:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:01 am</title>
-      <description>GUILFORD DR / BUCKEYSTOWN PIKE Radio: 9D Units: E33, R3, A39, PE311, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-12-03 09:01:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:50 am</title>
-      <description>3500 BLOCK WORTHINGTON BLVD Units: E232, TT23</description>
-      <guid isPermaLink="false">2025-12-03 08:50:00</guid>
-      <pubDate>Wed, 03 Dec 2025 08:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:26 am</title>
-      <description>KELLY RD / LIBERTY RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2025-12-03 08:26:00</guid>
-      <pubDate>Wed, 03 Dec 2025 08:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
