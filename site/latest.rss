@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 12:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 13:11:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:01 am</title>
+      <description>6100 BLOCK MANOR WOODS RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2025-12-05 08:01:00</guid>
+      <pubDate>Fri, 05 Dec 2025 08:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:00 am</title>
+      <description>RT15 FROM POTOMAC RIVER BRIDGE TO CLAY ST OFF RAMP HWY / CLAY ST Radio: 9B Units: E281</description>
+      <guid isPermaLink="false">2025-12-05 08:00:00</guid>
+      <pubDate>Fri, 05 Dec 2025 08:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:59 am</title>
+      <description>OLD ANNAPOLIS RD / EQUESTRIAN WAY Radio: 91D Units: E111, RE171, A179, ALS17, BC901, EMS901</description>
+      <guid isPermaLink="false">2025-12-05 07:59:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:53 am</title>
+      <description>12900 BLOCK MILLTOWN RD Radio: 6B Units: A198</description>
+      <guid isPermaLink="false">2025-12-05 07:53:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:50 am</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKEB TO RT4100 BLOCKEB RAMP Radio: 9I Units: RE74, E121, R8, A89, A129, ALS8, BC901, EMS902</description>
+      <guid isPermaLink="false">2025-12-05 07:50:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
+      <description>RT75 / I70, RT75 / I70 Radio: 9B Units: A159, E331</description>
+      <guid isPermaLink="false">2025-12-05 07:46:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE UNIT ASSISTING OTHER AGENCY: 7:46 am</title>
+      <description>RT75 / I70, RT75 / I70 Units: BC902</description>
+      <guid isPermaLink="false">2025-12-05 07:46:00</guid>
+      <pubDate>Fri, 05 Dec 2025 07:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 7:41 am</title>
       <description>RT340EB / S MOUNTAIN RD, RT340EB / S MOUNTAIN RD Radio: 91D Units: PE52, E201, R19, A198, A209, BC903, EMS901</description>
@@ -264,48 +306,6 @@
       <description>4600 BLOCK NEW DESIGN RD Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2025-12-03 15:33:00</guid>
       <pubDate>Wed, 03 Dec 2025 15:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:51 pm</title>
-      <description>7400 BLOCK KIMMEL RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2025-12-03 14:51:00</guid>
-      <pubDate>Wed, 03 Dec 2025 14:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:29 pm</title>
-      <description>300 BLOCK S SETON AVE, Bldg:A, EMMITSBURG COMMUNITY CENTER Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2025-12-03 12:29:00</guid>
-      <pubDate>Wed, 03 Dec 2025 12:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:29 pm</title>
-      <description>BUCKEYSTOWN PIKE / LILY PONS RD Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2025-12-03 12:29:00</guid>
-      <pubDate>Wed, 03 Dec 2025 12:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:13 pm</title>
-      <description>W PATRICK ST / RAMP RT15NB TO RT40WB RAMP Radio: 9B Units: A38, A318, ALS4, EMS902</description>
-      <guid isPermaLink="false">2025-12-03 12:13:00</guid>
-      <pubDate>Wed, 03 Dec 2025 12:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:07 pm</title>
-      <description>1600 BLOCK TYDINGS PARK RD Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-12-03 12:07:00</guid>
-      <pubDate>Wed, 03 Dec 2025 12:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 11:11 am</title>
-      <description>W SECOND ST / N BENTZ ST Radio: 9D Units: A29, PE311, T4, EMS902</description>
-      <guid isPermaLink="false">2025-12-03 11:11:00</guid>
-      <pubDate>Wed, 03 Dec 2025 11:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:53 am</title>
-      <description>LAWYER LN / STRAFFORD DR Radio: 9C Units: EK134</description>
-      <guid isPermaLink="false">2025-12-03 09:53:00</guid>
-      <pubDate>Wed, 03 Dec 2025 09:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
