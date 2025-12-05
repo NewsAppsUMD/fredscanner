@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 19:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 19:31:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:04 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E33, TW1</description>
+      <guid isPermaLink="false">2025-12-05 14:04:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:03 pm</title>
+      <description>3500 BLOCK WORTHINGTON BLVD, VILLAGES OF URBANA Radio: 9C Units: E232, T4</description>
+      <guid isPermaLink="false">2025-12-05 14:03:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:41 pm</title>
       <description>500 BLOCK HODSON DR Radio: 9C Units: PE23, TW1</description>
@@ -294,18 +306,6 @@
       <description>RT77 / PARK CENTRAL RD, RT77 / PARK CENTRAL RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2025-12-04 16:03:00</guid>
       <pubDate>Thu, 04 Dec 2025 16:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:42 pm</title>
-      <description>5500 BLOCK ADAMSTOWN RD, CREATING MEMORIES LEARNING CENTER Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2025-12-04 15:42:00</guid>
-      <pubDate>Thu, 04 Dec 2025 15:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:02 pm</title>
-      <description>100 BLOCK WESTERN DR Radio: 9C Units: E121, T4</description>
-      <guid isPermaLink="false">2025-12-04 15:02:00</guid>
-      <pubDate>Thu, 04 Dec 2025 15:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
