@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 18:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 19:02:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:41 pm</title>
+      <description>500 BLOCK HODSON DR Radio: 9C Units: PE23, TW1</description>
+      <guid isPermaLink="false">2025-12-05 13:41:00</guid>
+      <pubDate>Fri, 05 Dec 2025 13:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
+      <description>ENGLISH MUFFIN WAY / ALAN LINTON BLVD E Radio: 9B Units: R14</description>
+      <guid isPermaLink="false">2025-12-05 13:40:00</guid>
+      <pubDate>Fri, 05 Dec 2025 13:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:33 pm</title>
       <description>ENGLISH MUFFIN WAY / ALAN LINTON BLVD E Radio: 9B Units: A149</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK WESTERN DR Radio: 9C Units: E121, T4</description>
       <guid isPermaLink="false">2025-12-04 15:02:00</guid>
       <pubDate>Thu, 04 Dec 2025 15:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 2:55 pm</title>
-      <description>SHADY LN / RT180, SHADY LN / RT180 Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2025-12-04 14:55:00</guid>
-      <pubDate>Thu, 04 Dec 2025 14:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:39 pm</title>
-      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, T4</description>
-      <guid isPermaLink="false">2025-12-04 14:39:00</guid>
-      <pubDate>Thu, 04 Dec 2025 14:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
