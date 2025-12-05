@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 19:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 20:02:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:58 pm</title>
+      <description>WOODSBORO PIKE / STAUFFER RD Radio: 9B Units: R2</description>
+      <guid isPermaLink="false">2025-12-05 14:58:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:57 pm</title>
+      <description>6600 BLOCK LINGANORE RD Units: A339, E33</description>
+      <guid isPermaLink="false">2025-12-05 14:57:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:55 pm</title>
+      <description>10500 BLOCK OLD ANNAPOLIS RD Radio: 9B Units: EMS901</description>
+      <guid isPermaLink="false">2025-12-05 14:55:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:55 pm</title>
+      <description>WOODSBORO PIKE / STAUFFER RD Radio: 9B Units: OPSDC900</description>
+      <guid isPermaLink="false">2025-12-05 14:55:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:52 pm</title>
+      <description>WOODSBORO PIKE / STAUFFER RD Radio: 9B Units: E111, R24, A249, ALS29, EMS902</description>
+      <guid isPermaLink="false">2025-12-05 14:52:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:45 pm</title>
+      <description>10500 BLOCK OLD ANNAPOLIS RD Radio: 9B Units: ALS17</description>
+      <guid isPermaLink="false">2025-12-05 14:45:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
+      <description>10500 BLOCK OLD ANNAPOLIS RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-12-05 14:36:00</guid>
+      <pubDate>Fri, 05 Dec 2025 14:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:04 pm</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E33, TW1</description>
@@ -264,48 +306,6 @@
       <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: PE52, R19, A198, A196</description>
       <guid isPermaLink="false">2025-12-05 06:48:00</guid>
       <pubDate>Fri, 05 Dec 2025 06:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 5:53 am</title>
-      <description>1400 BLOCK RAMBLEWOOD DR Radio: 9C Units: E61</description>
-      <guid isPermaLink="false">2025-12-05 05:53:00</guid>
-      <pubDate>Fri, 05 Dec 2025 05:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 8:01 pm</title>
-      <description>11000 BLOCK PLEASANT WALK RD Units: E82, K21, E212</description>
-      <guid isPermaLink="false">2025-12-04 20:01:00</guid>
-      <pubDate>Thu, 04 Dec 2025 20:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:46 pm</title>
-      <description>13400 BLOCK ARCADIAN DR Radio: 6DTAC11 Units: E281</description>
-      <guid isPermaLink="false">2025-12-04 18:46:00</guid>
-      <pubDate>Thu, 04 Dec 2025 18:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:26 pm</title>
-      <description>MONOCACY BLVD / HUGHES FORD RD, MONOCACY BLVD / HUGHES FORD RD Radio: 9B Units: A38, R3</description>
-      <guid isPermaLink="false">2025-12-04 17:26:00</guid>
-      <pubDate>Thu, 04 Dec 2025 17:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:27 pm</title>
-      <description>100 BLOCK WESTERN DR Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2025-12-04 16:27:00</guid>
-      <pubDate>Thu, 04 Dec 2025 16:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:21 pm</title>
-      <description>RIDGE RD / WOODFIELD RD Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2025-12-04 16:21:00</guid>
-      <pubDate>Thu, 04 Dec 2025 16:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:03 pm</title>
-      <description>RT77 / PARK CENTRAL RD, RT77 / PARK CENTRAL RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-04 16:03:00</guid>
-      <pubDate>Thu, 04 Dec 2025 16:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
