@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 23:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 00:08:10 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:57 pm</title>
+      <description>17400 BLOCK IRISHTOWN RD Radio: 9C Units: E61</description>
+      <guid isPermaLink="false">2025-12-05 18:57:00</guid>
+      <pubDate>Fri, 05 Dec 2025 18:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:37 pm</title>
       <description>W SOUTH ST / S MARKET ST Radio: 9D Units: A39, ALS4, R3, EMS902</description>
@@ -300,12 +306,6 @@
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: R3, A239, E232</description>
       <guid isPermaLink="false">2025-12-05 07:04:00</guid>
       <pubDate>Fri, 05 Dec 2025 07:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:53 am</title>
-      <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: R19</description>
-      <guid isPermaLink="false">2025-12-05 06:53:00</guid>
-      <pubDate>Fri, 05 Dec 2025 06:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
