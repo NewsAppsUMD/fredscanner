@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Dec 2025 20:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 20:34:39 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:04 pm</title>
+      <description>RT85 / SPECTRUM DR, RT85 / SPECTRUM DR Radio: 9B Units: A39, PE311</description>
+      <guid isPermaLink="false">2025-12-06 15:04:00</guid>
+      <pubDate>Sat, 06 Dec 2025 15:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:04 pm</title>
+      <description>RT85 / SPECTRUM DR, RT85 / SPECTRUM DR Radio: 9B Units: A39, PE311</description>
+      <guid isPermaLink="false">2025-12-06 15:04:00</guid>
+      <pubDate>Sat, 06 Dec 2025 15:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 2:59 pm</title>
+      <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E291, E11, TW1, K1, A229, E221, K22</description>
+      <guid isPermaLink="false">2025-12-06 14:59:00</guid>
+      <pubDate>Sat, 06 Dec 2025 14:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 2:31 pm</title>
+      <description>10000 BLOCK LIBERTY RD Radio: 9C Units: BR176</description>
+      <guid isPermaLink="false">2025-12-06 14:31:00</guid>
+      <pubDate>Sat, 06 Dec 2025 14:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 2:27 pm</title>
       <description>1300 BLOCK W PATRICK ST, M&amp;T BANK - GOLDEN MILE MARKET PLACE Radio: 9D Units: A19, ALS4, E11, EMS901</description>
@@ -282,30 +306,6 @@
       <description>RT75 / RAILROAD, RT75 / RAILROAD Units: A339</description>
       <guid isPermaLink="false">2025-12-05 08:27:00</guid>
       <pubDate>Fri, 05 Dec 2025 08:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
-      <description>BUTTERFLY LN / S MCCAIN DR Radio: 9B Units: A19, A319, E11</description>
-      <guid isPermaLink="false">2025-12-05 08:22:00</guid>
-      <pubDate>Fri, 05 Dec 2025 08:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:16 am</title>
-      <description>PINE BLUFF RD / REICHS FORD RD Radio: 9B Units: A38, E331</description>
-      <guid isPermaLink="false">2025-12-05 08:16:00</guid>
-      <pubDate>Fri, 05 Dec 2025 08:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:16 am</title>
-      <description>CRESTWOOD BLVD / BURNING BUSH DR Radio: 91I Units: PE311, R3, A318, ALS31, BC902, EMS901</description>
-      <guid isPermaLink="false">2025-12-05 08:16:00</guid>
-      <pubDate>Fri, 05 Dec 2025 08:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:13 am</title>
-      <description>3800 BLOCK GREEN VALLEY RD Radio: 9D Units: A339</description>
-      <guid isPermaLink="false">2025-12-05 08:13:00</guid>
-      <pubDate>Fri, 05 Dec 2025 08:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
