@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 13:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 13:35:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
+      <description>RT15 / RT464, RT15 / RT464 Radio: 9B Units: A149, E281</description>
+      <guid isPermaLink="false">2025-12-07 08:08:00</guid>
+      <pubDate>Sun, 07 Dec 2025 08:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:58 am</title>
       <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: PE23, Q11</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK CORPORATE CT, CARROLL CREEK MONTESSORI SCHOOL Radio: 91D Units: PE311, R3, A319, ALS4, BC901, EMS901</description>
       <guid isPermaLink="false">2025-12-05 13:17:00</guid>
       <pubDate>Fri, 05 Dec 2025 13:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:54 pm</title>
-      <description>3500 BLOCK URBANA PIKE Units: E251, E33, PE311, E11, E331, R3, T4, A259, ALS4, BC901, BC903, SAF901, TT23</description>
-      <guid isPermaLink="false">2025-12-05 12:54:00</guid>
-      <pubDate>Fri, 05 Dec 2025 12:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
