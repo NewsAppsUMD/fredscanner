@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 01:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 02:37:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:05 pm</title>
+      <description>BALLENGER CREEK PIKE / CORPORATE DR, Apt/Unit:HTTPS://A91.IO/SAL62 Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-12-06 21:05:00</guid>
+      <pubDate>Sat, 06 Dec 2025 21:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:43 pm</title>
+      <description>700 BLOCK JEFFERSON PIKE Units: R14</description>
+      <guid isPermaLink="false">2025-12-06 20:43:00</guid>
+      <pubDate>Sat, 06 Dec 2025 20:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:36 pm</title>
+      <description>700 BLOCK JEFFERSON PIKE Units: PE52, E201, RE74, R19, T5, R20, A198, ALS4, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-12-06 20:36:00</guid>
+      <pubDate>Sat, 06 Dec 2025 20:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 8:11 pm</title>
       <description>3600 BLOCK SPRING HOLLOW LN Units: E232, E251, TT23</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK S CARROLL ST Radio: 9C Units: E33, T4</description>
       <guid isPermaLink="false">2025-12-05 10:28:00</guid>
       <pubDate>Fri, 05 Dec 2025 10:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:42 am</title>
-      <description>BIG WOODS RD / RT355, BIG WOODS RD / RT355 Radio: 9D Units: E232, R15, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2025-12-05 09:42:00</guid>
-      <pubDate>Fri, 05 Dec 2025 09:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 9:08 am</title>
-      <description>13000 BLOCK MURDOCK MOUNTAIN LN Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2025-12-05 09:08:00</guid>
-      <pubDate>Fri, 05 Dec 2025 09:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 9:08 am</title>
-      <description>13000 BLOCK MURDOCK MOUNTAIN LN Radio: 9C Units: K21</description>
-      <guid isPermaLink="false">2025-12-05 09:08:00</guid>
-      <pubDate>Fri, 05 Dec 2025 09:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
