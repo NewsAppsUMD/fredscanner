@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 00:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 01:30:20 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 8:11 pm</title>
+      <description>3600 BLOCK SPRING HOLLOW LN Units: E232, E251, TT23</description>
+      <guid isPermaLink="false">2025-12-06 20:11:00</guid>
+      <pubDate>Sat, 06 Dec 2025 20:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 7:28 pm</title>
       <description>RT75 / ARLINGTON MILL RD, RT75 / ARLINGTON MILL RD Radio: 9C Units: BR175</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK MURDOCK MOUNTAIN LN Radio: 9C Units: K21</description>
       <guid isPermaLink="false">2025-12-05 09:08:00</guid>
       <pubDate>Fri, 05 Dec 2025 09:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 9:06 am</title>
-      <description>13000 BLOCK MURDOCK MOUNTAIN LN Radio: 9C Units: BC903</description>
-      <guid isPermaLink="false">2025-12-05 09:06:00</guid>
-      <pubDate>Fri, 05 Dec 2025 09:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
