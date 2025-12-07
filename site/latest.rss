@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Dec 2025 12:43:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 13:07:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:58 am</title>
+      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: PE23, Q11</description>
+      <guid isPermaLink="false">2025-12-07 07:58:00</guid>
+      <pubDate>Sun, 07 Dec 2025 07:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:31 am</title>
       <description>9600 BLOCK WOODLAND RD Units: E152</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK URBANA PIKE Units: E251, E33, PE311, E11, E331, R3, T4, A259, ALS4, BC901, BC903, SAF901, TT23</description>
       <guid isPermaLink="false">2025-12-05 12:54:00</guid>
       <pubDate>Fri, 05 Dec 2025 12:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:48 pm</title>
-      <description>3200 BLOCK IVY MEADOW DR Radio: 9B Units: E232</description>
-      <guid isPermaLink="false">2025-12-05 12:48:00</guid>
-      <pubDate>Fri, 05 Dec 2025 12:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
