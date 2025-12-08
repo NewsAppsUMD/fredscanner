@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 17:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 17:35:33 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:06 pm</title>
+      <description>12800 BLOCK OLD NATIONAL PIKE, DAMASCUS ROAD COMMUNITY CHURCH Radio: 9C Units: E331, E172, E33, R2, T4, K17, A159, BC903, SAF901, CCK1</description>
+      <guid isPermaLink="false">2025-12-08 12:06:00</guid>
+      <pubDate>Mon, 08 Dec 2025 12:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 11:52 am</title>
       <description>12800 BLOCK OLD NATIONAL PIKE, DAMASCUS ROAD COMMUNITY CHURCH Radio: 9C Units: E152, K33, E251</description>
@@ -300,12 +306,6 @@
       <description>ENGLISH MUFFIN WAY / MACK AVE Radio: 9B Units: A39, PE311</description>
       <guid isPermaLink="false">2025-12-06 06:42:00</guid>
       <pubDate>Sat, 06 Dec 2025 06:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:22 am</title>
-      <description>9300 BLOCK HILLSBOROUGH DR Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-12-06 06:22:00</guid>
-      <pubDate>Sat, 06 Dec 2025 06:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
