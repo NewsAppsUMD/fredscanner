@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 22:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 22:35:37 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 5:25 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: CMD2</description>
+      <guid isPermaLink="false">2025-12-08 17:25:00</guid>
+      <pubDate>Mon, 08 Dec 2025 17:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 5:17 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: PE23, E33, R3</description>
+      <guid isPermaLink="false">2025-12-08 17:17:00</guid>
+      <pubDate>Mon, 08 Dec 2025 17:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:13 pm</title>
+      <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Units: A229, PE102, E221</description>
+      <guid isPermaLink="false">2025-12-08 17:13:00</guid>
+      <pubDate>Mon, 08 Dec 2025 17:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:11 pm</title>
       <description>100 BLOCK KENSINGTON PL Units: E33</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9B Units: E11, E501, R2, A18, A19</description>
       <guid isPermaLink="false">2025-12-06 16:46:00</guid>
       <pubDate>Sat, 06 Dec 2025 16:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:04 pm</title>
-      <description>RT85 / SPECTRUM DR, RT85 / SPECTRUM DR Radio: 9B Units: A39, PE311</description>
-      <guid isPermaLink="false">2025-12-06 15:04:00</guid>
-      <pubDate>Sat, 06 Dec 2025 15:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:04 pm</title>
-      <description>RT85 / SPECTRUM DR, RT85 / SPECTRUM DR Radio: 9B Units: A39, PE311</description>
-      <guid isPermaLink="false">2025-12-06 15:04:00</guid>
-      <pubDate>Sat, 06 Dec 2025 15:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:59 pm</title>
-      <description>10000 BLOCK WOODCHUCK LN Radio: 9C Units: E291, E11, TW1, K1, A229, E221, K22</description>
-      <guid isPermaLink="false">2025-12-06 14:59:00</guid>
-      <pubDate>Sat, 06 Dec 2025 14:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
