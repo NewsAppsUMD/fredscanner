@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Dec 2025 17:35:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 18:02:43 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:33 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2025-12-08 12:33:00</guid>
+      <pubDate>Mon, 08 Dec 2025 12:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 12:06 pm</title>
       <description>12800 BLOCK OLD NATIONAL PIKE, DAMASCUS ROAD COMMUNITY CHURCH Radio: 9C Units: E331, E172, E33, R2, T4, K17, A159, BC903, SAF901, CCK1</description>
@@ -300,12 +306,6 @@
       <description>MONOCACY CROSSING PKWY / VILLAGE GREEN WAY Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2025-12-06 08:56:00</guid>
       <pubDate>Sat, 06 Dec 2025 08:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:42 am</title>
-      <description>ENGLISH MUFFIN WAY / MACK AVE Radio: 9B Units: A39, PE311</description>
-      <guid isPermaLink="false">2025-12-06 06:42:00</guid>
-      <pubDate>Sat, 06 Dec 2025 06:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
