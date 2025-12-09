@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Dec 2025 13:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 13:41:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:36 am</title>
+      <description>300 BLOCK CARROLL PKWY, PARKWAY ELEMENTARY SCHOOL Radio: 9C Units: E33, T4</description>
+      <guid isPermaLink="false">2025-12-09 08:36:00</guid>
+      <pubDate>Tue, 09 Dec 2025 08:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:12 am</title>
+      <description>600 BLOCK EVERGREEN AVE, HOOD COLLEGE - JOSEPH PASTORE FACILITIES BUILDING Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-12-09 08:12:00</guid>
+      <pubDate>Tue, 09 Dec 2025 08:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 7:58 am</title>
       <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9C Units: BR85, BR216</description>
@@ -294,18 +306,6 @@
       <description>26500 BLOCK AIKEN DR Radio: 7A1 Units: A239</description>
       <guid isPermaLink="false">2025-12-06 23:22:00</guid>
       <pubDate>Sat, 06 Dec 2025 23:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 10:08 pm</title>
-      <description>100 BLOCK W CHURCH ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-12-06 22:08:00</guid>
-      <pubDate>Sat, 06 Dec 2025 22:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:05 pm</title>
-      <description>BALLENGER CREEK PIKE / CORPORATE DR, Apt/Unit:HTTPS://A91.IO/SAL62 Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-12-06 21:05:00</guid>
-      <pubDate>Sat, 06 Dec 2025 21:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
