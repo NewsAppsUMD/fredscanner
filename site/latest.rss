@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 17:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 18:02:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:37 pm</title>
+      <description>3500 BLOCK BRETHREN CHURCH RD, MUSKET RIDGE GOLF CLUB Radio: 9C Units: E82, TW7</description>
+      <guid isPermaLink="false">2025-12-10 12:37:00</guid>
+      <pubDate>Wed, 10 Dec 2025 12:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:28 am</title>
       <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9B Units: E11, A19</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK OPOSSUMTOWN PIKE, Apt/Unit:BLDG P, FREDERICK COMMUNITY COLLEGE Units: E291, PE23</description>
       <guid isPermaLink="false">2025-12-08 13:08:00</guid>
       <pubDate>Mon, 08 Dec 2025 13:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:33 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2025-12-08 12:33:00</guid>
-      <pubDate>Mon, 08 Dec 2025 12:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
