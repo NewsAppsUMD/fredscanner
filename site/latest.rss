@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 13:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 13:42:19 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 8:35 am</title>
+      <description>40200 BLOCK QUARTER BRANCH RD Radio: 6B Units: T5</description>
+      <guid isPermaLink="false">2025-12-10 08:35:00</guid>
+      <pubDate>Wed, 10 Dec 2025 08:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:51 am</title>
       <description>100 BLOCK W MAIN ST, ZION LUTHERAN CHURCH Radio: 9D Units: A89, ALS8, E72, EMS901</description>
@@ -300,12 +306,6 @@
       <description>12800 BLOCK OLD NATIONAL PIKE, DAMASCUS ROAD COMMUNITY CHURCH Radio: 9C Units: E152, K33, E251</description>
       <guid isPermaLink="false">2025-12-08 11:52:00</guid>
       <pubDate>Mon, 08 Dec 2025 11:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:00 am</title>
-      <description>1000 BLOCK W PATRICK ST, GOODWILL - FREDERICK COUNTY SQUARE Radio: 9C Units: E11, T4</description>
-      <guid isPermaLink="false">2025-12-08 11:00:00</guid>
-      <pubDate>Mon, 08 Dec 2025 11:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
