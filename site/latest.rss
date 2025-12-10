@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Dec 2025 00:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 01:30:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:11 pm</title>
+      <description>100 BLOCKE WILLOWDALE DR Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2025-12-09 20:11:00</guid>
+      <pubDate>Tue, 09 Dec 2025 20:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:13 pm</title>
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK TRAILVIEW CT, Apt/Unit:B12, MOUNTAIN GLEN APTS - 5700 BLOCK TRAILVIEW CT Radio: 9C Units: E23, E11, E331, T4, TW1, A318, ALS31, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2025-12-07 17:16:00</guid>
       <pubDate>Sun, 07 Dec 2025 17:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 5:12 pm</title>
-      <description>5700 BLOCK TRAILVIEW CT, MOUNTAIN GLEN APTS - 5700 BLOCK TRAILVIEW CT Radio: 9C Units: PE311, E33, R3</description>
-      <guid isPermaLink="false">2025-12-07 17:12:00</guid>
-      <pubDate>Sun, 07 Dec 2025 17:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
