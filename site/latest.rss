@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 08:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 08:41:17 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:24 am</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2025-12-11 03:24:00</guid>
+      <pubDate>Thu, 11 Dec 2025 03:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:51 pm</title>
       <description>I70EB / 38MM Units: E82, A89</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: E33, T4</description>
       <guid isPermaLink="false">2025-12-09 00:26:00</guid>
       <pubDate>Tue, 09 Dec 2025 00:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:37 pm</title>
-      <description>9800 BLOCK GREEN VALLEY RD Radio: 9D Units: E162, RE171, A179, ALS17, BC901, EMS902</description>
-      <guid isPermaLink="false">2025-12-08 21:37:00</guid>
-      <pubDate>Mon, 08 Dec 2025 21:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
