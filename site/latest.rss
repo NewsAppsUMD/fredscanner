@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 09:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 09:38:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:25 am</title>
+      <description>5600 BLOCK NEW DESIGN RD, Apt/Unit:4, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2025-12-11 04:25:00</guid>
+      <pubDate>Thu, 11 Dec 2025 04:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:24 am</title>
       <description>100 BLOCK W FREDERICK ST, STATION 24 Radio: 9C Units: E111, Q11</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK N MARKET ST Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2025-12-09 01:52:00</guid>
       <pubDate>Tue, 09 Dec 2025 01:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:26 am</title>
-      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2025-12-09 00:26:00</guid>
-      <pubDate>Tue, 09 Dec 2025 00:26:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
