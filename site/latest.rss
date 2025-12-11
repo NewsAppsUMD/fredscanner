@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Dec 2025 03:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 03:52:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:29 pm</title>
+      <description>DICKERSON RD / GREENFIELD RD Units: A149, R14</description>
+      <guid isPermaLink="false">2025-12-10 22:29:00</guid>
+      <pubDate>Wed, 10 Dec 2025 22:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 8:39 pm</title>
       <description>100 BLOCK BURGESS HILL WAY, MILL CROSSING CONDOS Radio: 91C Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>JEFFERSON PIKE / JEFFERSON COMMONS WAY Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2025-12-08 18:54:00</guid>
       <pubDate>Mon, 08 Dec 2025 18:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:25 pm</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: CMD2</description>
-      <guid isPermaLink="false">2025-12-08 17:25:00</guid>
-      <pubDate>Mon, 08 Dec 2025 17:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
