@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 07:35:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 08:02:47 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:53 am</title>
+      <description>RT15SB / CATOCTIN HOLLOW RD, RT15SB / CATOCTIN HOLLOW RD Units: BR106</description>
+      <guid isPermaLink="false">2025-12-12 02:53:00</guid>
+      <pubDate>Fri, 12 Dec 2025 02:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:52 pm</title>
       <description>9000 BLOCK GAS HOUSE PIKE Radio: 9B Units: A29, PE23</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK BRETHREN CHURCH RD, MUSKET RIDGE GOLF CLUB Radio: 9C Units: E82, TW7</description>
       <guid isPermaLink="false">2025-12-10 12:37:00</guid>
       <pubDate>Wed, 10 Dec 2025 12:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:28 am</title>
-      <description>RT15NB / W SEVENTH ST, RT15NB / W SEVENTH ST Radio: 9B Units: E11, A19</description>
-      <guid isPermaLink="false">2025-12-10 11:28:00</guid>
-      <pubDate>Wed, 10 Dec 2025 11:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
