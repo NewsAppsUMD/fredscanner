@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Dec 2025 00:08:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 00:46:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:40 pm</title>
+      <description>8700 BLOCK ADVENTURE AVE, PEACE IN CHRIST LUTHERAN CHURCH - DISCOVERY Units: A169, ALS2</description>
+      <guid isPermaLink="false">2025-12-11 19:40:00</guid>
+      <pubDate>Thu, 11 Dec 2025 19:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:38 pm</title>
+      <description>8700 BLOCK ADVENTURE AVE, PEACE IN CHRIST LUTHERAN CHURCH - DISCOVERY Units: E111, R24, A249, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-12-11 19:38:00</guid>
+      <pubDate>Thu, 11 Dec 2025 19:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:22 pm</title>
+      <description>8000 BLOCK HOLLOW REED CT Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-12-11 19:22:00</guid>
+      <pubDate>Thu, 11 Dec 2025 19:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 7:08 pm</title>
+      <description>800 BLOCK E SOUTH ST Radio: 9I Units: A29</description>
+      <guid isPermaLink="false">2025-12-11 19:08:00</guid>
+      <pubDate>Thu, 11 Dec 2025 19:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 6:54 pm</title>
       <description>800 BLOCK E SOUTH ST Radio: 9C Units: K33</description>
@@ -282,30 +306,6 @@
       <description>200 BLOCK BEL AIRE LN Radio: 9C Units: E501, E33</description>
       <guid isPermaLink="false">2025-12-09 22:11:00</guid>
       <pubDate>Tue, 09 Dec 2025 22:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 9:34 pm</title>
-      <description>JEFFERSON PIKE / MOUNT ZION RD Units: A129</description>
-      <guid isPermaLink="false">2025-12-09 21:34:00</guid>
-      <pubDate>Tue, 09 Dec 2025 21:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:27 pm</title>
-      <description>4200 BLOCK JEFFERSON PIKE Radio: 9D Units: R14</description>
-      <guid isPermaLink="false">2025-12-09 21:27:00</guid>
-      <pubDate>Tue, 09 Dec 2025 21:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 9:22 pm</title>
-      <description>JEFFERSON PIKE / MOUNT ZION RD Units: E121</description>
-      <guid isPermaLink="false">2025-12-09 21:22:00</guid>
-      <pubDate>Tue, 09 Dec 2025 21:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:12 pm</title>
-      <description>4200 BLOCK JEFFERSON PIKE Radio: 9D Units: R20, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2025-12-09 21:12:00</guid>
-      <pubDate>Tue, 09 Dec 2025 21:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
