@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 16:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 16:37:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:31 am</title>
+      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2025-12-13 11:31:00</guid>
+      <pubDate>Sat, 13 Dec 2025 11:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:31 am</title>
+      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2025-12-13 11:31:00</guid>
+      <pubDate>Sat, 13 Dec 2025 11:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:26 am</title>
+      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111, E291, R24</description>
+      <guid isPermaLink="false">2025-12-13 11:26:00</guid>
+      <pubDate>Sat, 13 Dec 2025 11:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:08 am</title>
       <description>100 BLOCK S COURT ST, STATION 4 Units: T5</description>
@@ -288,24 +306,6 @@
       <description>8700 BLOCK ADVENTURE AVE, PEACE IN CHRIST LUTHERAN CHURCH - DISCOVERY Units: A169, ALS2</description>
       <guid isPermaLink="false">2025-12-11 19:40:00</guid>
       <pubDate>Thu, 11 Dec 2025 19:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:38 pm</title>
-      <description>8700 BLOCK ADVENTURE AVE, PEACE IN CHRIST LUTHERAN CHURCH - DISCOVERY Units: E111, R24, A249, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-12-11 19:38:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:22 pm</title>
-      <description>8000 BLOCK HOLLOW REED CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-12-11 19:22:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 7:08 pm</title>
-      <description>800 BLOCK E SOUTH ST Radio: 9I Units: A29</description>
-      <guid isPermaLink="false">2025-12-11 19:08:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
