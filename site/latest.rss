@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 20:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 20:34:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:26 pm</title>
+      <description>I70EB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2025-12-13 15:26:00</guid>
+      <pubDate>Sat, 13 Dec 2025 15:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:25 pm</title>
+      <description>4800 BLOCK ELMER DERR RD, UNITARIAN CONGREGATION CHURCH Radio: 9C Units: E201, TW1</description>
+      <guid isPermaLink="false">2025-12-13 15:25:00</guid>
+      <pubDate>Sat, 13 Dec 2025 15:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:00 pm</title>
+      <description>4600 BLOCK URBANA PIKE Radio: 9B Units: A239, E232</description>
+      <guid isPermaLink="false">2025-12-13 15:00:00</guid>
+      <pubDate>Sat, 13 Dec 2025 15:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:17 pm</title>
       <description>RT15SB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E11, E501, R3, A19, A37</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: A69, ALS30</description>
       <guid isPermaLink="false">2025-12-11 19:56:00</guid>
       <pubDate>Thu, 11 Dec 2025 19:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:49 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2025-12-11 19:49:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:48 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: BR85, E82</description>
-      <guid isPermaLink="false">2025-12-11 19:48:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:46 pm</title>
-      <description>8700 BLOCK ADVENTURE AVE, PEACE IN CHRIST LUTHERAN CHURCH - DISCOVERY Units: A19, A37, A179, A229, A318, ALS17, ALS31, Q11, E162, BC901, EMS901, W29</description>
-      <guid isPermaLink="false">2025-12-11 19:46:00</guid>
-      <pubDate>Thu, 11 Dec 2025 19:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
