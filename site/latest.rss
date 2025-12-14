@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 21:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 22:02:01 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:43 pm</title>
+      <description>GROVE RD / BUCKEYSTOWN PIKE Radio: 9I Units: A38, PE311, EMS902</description>
+      <guid isPermaLink="false">2025-12-14 16:43:00</guid>
+      <pubDate>Sun, 14 Dec 2025 16:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:34 pm</title>
+      <description>7300 BLOCK OLD LINE CT Radio: 9D Units: E11, E31, K1</description>
+      <guid isPermaLink="false">2025-12-14 16:34:00</guid>
+      <pubDate>Sun, 14 Dec 2025 16:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:26 pm</title>
       <description>7300 BLOCK OLD LINE CT Radio: 9D Units: E72, E121, E82, E201, R20, TW7, T5, K7, EK204, K5, A79, ALS8, BC903, BC901, SAF901, PE52</description>
@@ -294,18 +306,6 @@
       <description>I70EB / MOUNT TABOR RD, I70EB / MOUNT TABOR RD Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2025-12-13 15:35:00</guid>
       <pubDate>Sat, 13 Dec 2025 15:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:26 pm</title>
-      <description>I70EB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2025-12-13 15:26:00</guid>
-      <pubDate>Sat, 13 Dec 2025 15:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:25 pm</title>
-      <description>4800 BLOCK ELMER DERR RD, UNITARIAN CONGREGATION CHURCH Radio: 9C Units: E201, TW1</description>
-      <guid isPermaLink="false">2025-12-13 15:25:00</guid>
-      <pubDate>Sat, 13 Dec 2025 15:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
