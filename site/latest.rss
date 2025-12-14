@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 00:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:47:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:22 pm</title>
+      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E232, R3, A239, A259, E251, TT23</description>
+      <guid isPermaLink="false">2025-12-13 19:22:00</guid>
+      <pubDate>Sat, 13 Dec 2025 19:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 6:43 pm</title>
       <description>100 BLOCK(7918) BLK CIRCLE DR Units: R15</description>
@@ -300,12 +306,6 @@
       <description>42200 BLOCK HEATERS ISLAND CT Radio: 6DTAC11 Units: E281</description>
       <guid isPermaLink="false">2025-12-12 11:35:00</guid>
       <pubDate>Fri, 12 Dec 2025 11:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:29 am</title>
-      <description>2200 BLOCK MOUNT EPHRAIM RD Radio: 9C Units: E141, E232, K23, TT23</description>
-      <guid isPermaLink="false">2025-12-12 10:29:00</guid>
-      <pubDate>Fri, 12 Dec 2025 10:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
