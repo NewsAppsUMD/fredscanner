@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 11:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 12:03:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:40 am</title>
+      <description>I70WB / RT17, I70WB / RT17 Radio: 9C Units: E82, E72</description>
+      <guid isPermaLink="false">2025-12-14 06:40:00</guid>
+      <pubDate>Sun, 14 Dec 2025 06:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 5:36 am</title>
       <description>1800 BLOCKB MONOCACY VIEW CIR Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>3200 BLOCK FLINT HILL RD Radio: 9D Units: RID, E11, A149, EMS901</description>
       <guid isPermaLink="false">2025-12-13 08:49:00</guid>
       <pubDate>Sat, 13 Dec 2025 08:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:42 am</title>
-      <description>3200 BLOCK FLINT HILL RD Radio: 9D Units: E232, E141, PE311, E31, E331, R3, T4, K23, K33, A239, ALS23, BC900, BC901, SAF901, E251, TT23</description>
-      <guid isPermaLink="false">2025-12-13 08:42:00</guid>
-      <pubDate>Sat, 13 Dec 2025 08:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
