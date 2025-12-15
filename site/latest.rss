@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Dec 2025 20:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 21:02:20 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 3:58 pm</title>
+      <description>24500 BLOCK PEACH TREE RD Radio: 7A8 Units: A239</description>
+      <guid isPermaLink="false">2025-12-15 15:58:00</guid>
+      <pubDate>Mon, 15 Dec 2025 15:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:53 pm</title>
+      <description>24500 BLOCK PEACH TREE RD Radio: 7A8 Units: K23, E232, TT23, E251</description>
+      <guid isPermaLink="false">2025-12-15 15:53:00</guid>
+      <pubDate>Mon, 15 Dec 2025 15:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:38 pm</title>
+      <description>SOLAREX CT / BALLENGER CREEK PIKE Radio: 9B Units: A38, PE311</description>
+      <guid isPermaLink="false">2025-12-15 15:38:00</guid>
+      <pubDate>Mon, 15 Dec 2025 15:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:56 pm</title>
       <description>5200 BLOCK PRESIDENTS CT, WINE DISTRICTS Radio: 9C Units: E31, TT23</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E31, T4</description>
       <guid isPermaLink="false">2025-12-14 02:16:00</guid>
       <pubDate>Sun, 14 Dec 2025 02:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:47 am</title>
-      <description>RT26 / LONGMEADOW DR, RT26 / LONGMEADOW DR Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2025-12-14 01:47:00</guid>
-      <pubDate>Sun, 14 Dec 2025 01:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:36 am</title>
-      <description>300 BLOCK BALLENGER CENTER DR, THE BALLENGER GROUP Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-12-14 01:36:00</guid>
-      <pubDate>Sun, 14 Dec 2025 01:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:42 pm</title>
-      <description>1300 BLOCK HOLLING PL, Apt/Unit:307, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Units: PE23, T4</description>
-      <guid isPermaLink="false">2025-12-13 23:42:00</guid>
-      <pubDate>Sat, 13 Dec 2025 23:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
