@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 11:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 12:03:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>1500 BLOCK PORTER ST, Apt/Unit:MAIN_ENTR, FORT DETRICK - BLDG 1500 BLOCK - COF BLDG Radio: 9B Units: E501, TW1</description>
+      <guid isPermaLink="false">2025-12-16 06:46:00</guid>
+      <pubDate>Tue, 16 Dec 2025 06:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:35 am</title>
       <description>100 BLOCK CREAGERSTOWN RD, N Z CRAMER &amp; SON Radio: 9C Units: E162, Q11</description>
@@ -300,12 +306,6 @@
       <description>WALTER MARTZ RD / APOLLO DR Radio: 9B Units: A19</description>
       <guid isPermaLink="false">2025-12-14 08:47:00</guid>
       <pubDate>Sun, 14 Dec 2025 08:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:40 am</title>
-      <description>WALTER MARTZ RD / CHRISTOPHERS XING Radio: 9B Units: A38, E11</description>
-      <guid isPermaLink="false">2025-12-14 08:40:00</guid>
-      <pubDate>Sun, 14 Dec 2025 08:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
