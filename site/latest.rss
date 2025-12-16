@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 02:34:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 03:29:22 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:38 pm</title>
+      <description>SCHIFFERSTADT BLVD / MONOCACY BLVD Radio: 9B Units: A38, E31</description>
+      <guid isPermaLink="false">2025-12-15 21:38:00</guid>
+      <pubDate>Mon, 15 Dec 2025 21:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:33 pm</title>
       <description>KEMP LN / CAMPBELL HILL WAY Radio: 9D Units: A19, ALS29, E11, EMS901</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCKB MONOCACY VIEW CIR Units: TW1</description>
       <guid isPermaLink="false">2025-12-14 05:36:00</guid>
       <pubDate>Sun, 14 Dec 2025 05:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:31 am</title>
-      <description>1800 BLOCKB MONOCACY VIEW CIR Radio: 9C Units: E111, E291, R24</description>
-      <guid isPermaLink="false">2025-12-14 05:31:00</guid>
-      <pubDate>Sun, 14 Dec 2025 05:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
