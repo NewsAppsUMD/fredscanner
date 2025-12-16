@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Dec 2025 12:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 13:13:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:05 am</title>
+      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Radio: 9B Units: ALS31</description>
+      <guid isPermaLink="false">2025-12-16 08:05:00</guid>
+      <pubDate>Tue, 16 Dec 2025 08:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:59 am</title>
+      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Radio: 9B Units: A319</description>
+      <guid isPermaLink="false">2025-12-16 07:59:00</guid>
+      <pubDate>Tue, 16 Dec 2025 07:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:55 am</title>
+      <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER Radio: 9C Units: E11, TW4</description>
+      <guid isPermaLink="false">2025-12-16 07:55:00</guid>
+      <pubDate>Tue, 16 Dec 2025 07:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
+      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Radio: 9B Units: E31, R3, A318, A239, E251</description>
+      <guid isPermaLink="false">2025-12-16 07:46:00</guid>
+      <pubDate>Tue, 16 Dec 2025 07:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
       <description>1500 BLOCK PORTER ST, Apt/Unit:MAIN_ENTR, FORT DETRICK - BLDG 1500 BLOCK - COF BLDG Radio: 9B Units: E501, TW1</description>
@@ -282,30 +306,6 @@
       <description>9200 BLOCK GRAVEL HILL RD Units: E162, E91, E172, E132, E133, E291, R24, Q11, R10, EK134, K1, A169, ALS17, E221, K9, K22, K17, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2025-12-14 12:02:00</guid>
       <pubDate>Sun, 14 Dec 2025 12:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:59 am</title>
-      <description>2700 BLOCK CAMOMILE DR W Radio: 9C Units: E232</description>
-      <guid isPermaLink="false">2025-12-14 11:59:00</guid>
-      <pubDate>Sun, 14 Dec 2025 11:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 11:21 am</title>
-      <description>6100 BLOCK QUINN ORCHARD RD Radio: 9D Units: E331, R3, A339, ALS4, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-12-14 11:21:00</guid>
-      <pubDate>Sun, 14 Dec 2025 11:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:54 am</title>
-      <description>WALTER MARTZ RD / APOLLO DR Radio: 9B Units: A18, ALS2</description>
-      <guid isPermaLink="false">2025-12-14 08:54:00</guid>
-      <pubDate>Sun, 14 Dec 2025 08:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:47 am</title>
-      <description>WALTER MARTZ RD / APOLLO DR Radio: 9B Units: A19</description>
-      <guid isPermaLink="false">2025-12-14 08:47:00</guid>
-      <pubDate>Sun, 14 Dec 2025 08:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
