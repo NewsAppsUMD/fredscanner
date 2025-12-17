@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Dec 2025 19:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 19:33:07 +0000</lastBuildDate>
+    <item>
+      <title>STABBING - ALS: 2:21 pm</title>
+      <description>1200 BLOCK KATAHDIN DR Radio: 9D Units: EMS901</description>
+      <guid isPermaLink="false">2025-12-17 14:21:00</guid>
+      <pubDate>Wed, 17 Dec 2025 14:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 2:12 pm</title>
+      <description>1200 BLOCK KATAHDIN DR Radio: 9D Units: A299, ALS29, E11, BC902, EMS901</description>
+      <guid isPermaLink="false">2025-12-17 14:12:00</guid>
+      <pubDate>Wed, 17 Dec 2025 14:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:53 pm</title>
       <description>KEY PKWY / WILLOWDALE DR, IAO Units: A18, E11</description>
@@ -294,18 +306,6 @@
       <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER Radio: 9C Units: E11, TW4</description>
       <guid isPermaLink="false">2025-12-16 07:55:00</guid>
       <pubDate>Tue, 16 Dec 2025 07:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
-      <description>I270 / MONOCACY RIVER, I270 / MONOCACY RIVER Radio: 9B Units: E31, R3, A318, A239, E251</description>
-      <guid isPermaLink="false">2025-12-16 07:46:00</guid>
-      <pubDate>Tue, 16 Dec 2025 07:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
-      <description>1500 BLOCK PORTER ST, Apt/Unit:MAIN_ENTR, FORT DETRICK - BLDG 1500 BLOCK - COF BLDG Radio: 9B Units: E501, TW1</description>
-      <guid isPermaLink="false">2025-12-16 06:46:00</guid>
-      <pubDate>Tue, 16 Dec 2025 06:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
