@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 10:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 11:02:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:51 am</title>
+      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: A18</description>
+      <guid isPermaLink="false">2025-12-18 05:51:00</guid>
+      <pubDate>Thu, 18 Dec 2025 05:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:45 am</title>
+      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Units: A249</description>
+      <guid isPermaLink="false">2025-12-18 05:45:00</guid>
+      <pubDate>Thu, 18 Dec 2025 05:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:36 am</title>
       <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: PE311, E231, R3, A318, A239</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK E CHURCH ST Radio: 9C Units: TW4</description>
       <guid isPermaLink="false">2025-12-16 11:20:00</guid>
       <pubDate>Tue, 16 Dec 2025 11:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:53 am</title>
-      <description>200 BLOCK E CHURCH ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-12-16 10:53:00</guid>
-      <pubDate>Tue, 16 Dec 2025 10:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:33 am</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2025-12-16 10:33:00</guid>
-      <pubDate>Tue, 16 Dec 2025 10:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
