@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 09:41:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 10:38:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:36 am</title>
+      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: PE311, E231, R3, A318, A239</description>
+      <guid isPermaLink="false">2025-12-18 05:36:00</guid>
+      <pubDate>Thu, 18 Dec 2025 05:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:22 am</title>
+      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Units: A249, E111</description>
+      <guid isPermaLink="false">2025-12-18 05:22:00</guid>
+      <pubDate>Thu, 18 Dec 2025 05:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:08 am</title>
       <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: E31, TW4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
       <guid isPermaLink="false">2025-12-16 10:33:00</guid>
       <pubDate>Tue, 16 Dec 2025 10:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:07 am</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, Bldg:2 Radio: 9C Units: PE311, R3</description>
-      <guid isPermaLink="false">2025-12-16 10:07:00</guid>
-      <pubDate>Tue, 16 Dec 2025 10:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>100 BLOCK HOLLING DR, DUFFY INC Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2025-12-16 09:48:00</guid>
-      <pubDate>Tue, 16 Dec 2025 09:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
