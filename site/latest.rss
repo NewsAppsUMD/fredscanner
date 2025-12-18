@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Dec 2025 20:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 21:02:21 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 3:51 pm</title>
+      <description>2300 BLOCK MARKER RD Radio: 9C Units: RE74</description>
+      <guid isPermaLink="false">2025-12-18 15:51:00</guid>
+      <pubDate>Thu, 18 Dec 2025 15:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:36 pm</title>
+      <description>2000 BLOCK SPRING RUN CIR Radio: 9D Units: E291, E501, PE23, E31, E111, R3, TW1, TW4, A299, ALS29, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2025-12-18 15:36:00</guid>
+      <pubDate>Thu, 18 Dec 2025 15:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:44 pm</title>
       <description>FINGERBOARD RD / PARK MILLS RD Radio: 9B Units: ALS23</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK GOLDEN EAGLE RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2025-12-16 17:15:00</guid>
       <pubDate>Tue, 16 Dec 2025 17:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:14 pm</title>
-      <description>500 BLOCK LEAHY CT, BUCKINGHAM CONDOS - 500 BLOCK LEAHY CT Radio: 9C Units: PE311, E31, TW1</description>
-      <guid isPermaLink="false">2025-12-16 17:14:00</guid>
-      <pubDate>Tue, 16 Dec 2025 17:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 4:36 pm</title>
-      <description>900 BLOCK HEATHER RIDGE DR, Apt/Unit:D, AMBERTOWN CONDOS - 900 BLOCK HEATHER RIDGE DR Radio: 9D Units: E291, R3, A299, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-12-16 16:36:00</guid>
-      <pubDate>Tue, 16 Dec 2025 16:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
