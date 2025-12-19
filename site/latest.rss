@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 21:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 22:02:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:56 pm</title>
+      <description>MAIN ST / WOODSBORO RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2025-12-19 16:56:00</guid>
+      <pubDate>Fri, 19 Dec 2025 16:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:32 pm</title>
+      <description>HAMBURG RD / GAMBRILL PARK RD Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-12-19 16:32:00</guid>
+      <pubDate>Fri, 19 Dec 2025 16:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:30 pm</title>
       <description>1500 BLOCK NEW DESIGN RD Radio: 9C Units: BR145</description>
@@ -294,18 +306,6 @@
       <description>HIMES AVE / SENECA DR Radio: 9B Units: A19, TW4</description>
       <guid isPermaLink="false">2025-12-18 17:30:00</guid>
       <pubDate>Thu, 18 Dec 2025 17:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:29 pm</title>
-      <description>I270NB / EXIT 32, I270NB / EXIT 32 Radio: 9B Units: PE311, E11, R3, A318, A18</description>
-      <guid isPermaLink="false">2025-12-18 17:29:00</guid>
-      <pubDate>Thu, 18 Dec 2025 17:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
-      <description>W PATRICK ST / RAMP RT15SB TO RT40WB RAMP Radio: 9B Units: A18, TW4</description>
-      <guid isPermaLink="false">2025-12-18 16:20:00</guid>
-      <pubDate>Thu, 18 Dec 2025 16:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
