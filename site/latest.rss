@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 19:02:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 19:32:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:25 pm</title>
+      <description>BALLENGER CREEK PIKE / AGRO DR Radio: 9B Units: ALS20</description>
+      <guid isPermaLink="false">2025-12-19 14:25:00</guid>
+      <pubDate>Fri, 19 Dec 2025 14:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:14 pm</title>
+      <description>BALLENGER CREEK PIKE / AGRO DR Radio: 9B Units: A38, E31</description>
+      <guid isPermaLink="false">2025-12-19 14:14:00</guid>
+      <pubDate>Fri, 19 Dec 2025 14:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:04 pm</title>
+      <description>400 BLOCK E CHURCH ST, IAO Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2025-12-19 14:04:00</guid>
+      <pubDate>Fri, 19 Dec 2025 14:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 1:04 pm</title>
       <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Radio: 9C Units: E152, E331</description>
@@ -288,24 +306,6 @@
       <description>400 BLOCK PROSPECT BLVD, WEIS MARKET - FESTIVAL CENTER Radio: 9B Units: A38, TW4</description>
       <guid isPermaLink="false">2025-12-18 08:31:00</guid>
       <pubDate>Thu, 18 Dec 2025 08:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:51 am</title>
-      <description>I270SB / 32MM, I270SB / 32MM Radio: 9B Units: A19</description>
-      <guid isPermaLink="false">2025-12-18 06:51:00</guid>
-      <pubDate>Thu, 18 Dec 2025 06:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:40 am</title>
-      <description>I270SB / 32MM, I270SB / 32MM Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2025-12-18 06:40:00</guid>
-      <pubDate>Thu, 18 Dec 2025 06:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:51 am</title>
-      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: A18</description>
-      <guid isPermaLink="false">2025-12-18 05:51:00</guid>
-      <pubDate>Thu, 18 Dec 2025 05:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
