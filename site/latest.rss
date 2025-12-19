@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 15:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 15:36:03 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:25 am</title>
+      <description>5500 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-12-19 10:25:00</guid>
+      <pubDate>Fri, 19 Dec 2025 10:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:17 am</title>
+      <description>RT17 / BITTLE RD, RT40 / RT17 Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-12-19 10:17:00</guid>
+      <pubDate>Fri, 19 Dec 2025 10:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:51 am</title>
       <description>BILL MOXLEY RD / OLD NATIONAL PIKE Radio: 9C Units: BR156</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK S MAPLE AVE Radio: 9C Units: TW1</description>
       <guid isPermaLink="false">2025-12-17 22:01:00</guid>
       <pubDate>Wed, 17 Dec 2025 22:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:56 pm</title>
-      <description>200 BLOCK S MAPLE AVE Radio: 9C Units: PE52, T5</description>
-      <guid isPermaLink="false">2025-12-17 21:56:00</guid>
-      <pubDate>Wed, 17 Dec 2025 21:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:15 pm</title>
-      <description>APPROX LOC:12403 LEE HILL DR Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2025-12-17 20:15:00</guid>
-      <pubDate>Wed, 17 Dec 2025 20:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
