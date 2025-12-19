@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Dec 2025 18:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 18:41:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 1:04 pm</title>
+      <description>I70WB / MUSSETTER RD, I70WB / MUSSETTER RD Radio: 9C Units: E152, E331</description>
+      <guid isPermaLink="false">2025-12-19 13:04:00</guid>
+      <pubDate>Fri, 19 Dec 2025 13:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:02 pm</title>
+      <description>5200 BLOCK SIDNEY RD, COUNTRYSIDE USED AUTO PARTS Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2025-12-19 13:02:00</guid>
+      <pubDate>Fri, 19 Dec 2025 13:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:58 pm</title>
       <description>1600 BLOCK ROSEMONT AVE Radio: 9C Units: BR35</description>
@@ -294,18 +306,6 @@
       <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: A18</description>
       <guid isPermaLink="false">2025-12-18 05:51:00</guid>
       <pubDate>Thu, 18 Dec 2025 05:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:45 am</title>
-      <description>9200 BLOCK WOODSBORO PIKE, RUTTERS - WALKERSVILLE Units: A249</description>
-      <guid isPermaLink="false">2025-12-18 05:45:00</guid>
-      <pubDate>Thu, 18 Dec 2025 05:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:36 am</title>
-      <description>I270SB / 31MM, I270SB / 31MM Radio: 9B Units: PE311, E231, R3, A318, A239</description>
-      <guid isPermaLink="false">2025-12-18 05:36:00</guid>
-      <pubDate>Thu, 18 Dec 2025 05:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
