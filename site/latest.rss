@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 22:02:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 22:34:29 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 5:29 pm</title>
+      <description>300 BLOCKA PROSPECT BLVD, Apt/Unit:300 BLOCK Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2025-12-20 17:29:00</guid>
+      <pubDate>Sat, 20 Dec 2025 17:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 4:41 pm</title>
       <description>19100 BLOCK SANDY HOOK RD Units: T5, R20</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK WAYSIDE DR, Apt/Unit:3D, ECHO GLEN CONDOS - 2100 BLOCK WAYSIDE DR Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2025-12-19 15:53:00</guid>
       <pubDate>Fri, 19 Dec 2025 15:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 3:45 pm</title>
-      <description>100 BLOCK E THIRD ST, Apt/Unit:7, GEORGETOWN APTS Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2025-12-19 15:45:00</guid>
-      <pubDate>Fri, 19 Dec 2025 15:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
