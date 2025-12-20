@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 01:29:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 02:15:13 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:00 pm</title>
+      <description>11900 BLOCK LOOKINGBILL RD Radio: 9C Units: Q11, EK134</description>
+      <guid isPermaLink="false">2025-12-19 21:00:00</guid>
+      <pubDate>Fri, 19 Dec 2025 21:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 8:55 pm</title>
+      <description>11900 BLOCK LOOKINGBILL RD Radio: 9C Units: E91, E162, K9</description>
+      <guid isPermaLink="false">2025-12-19 20:55:00</guid>
+      <pubDate>Fri, 19 Dec 2025 20:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:50 pm</title>
+      <description>LYNN CREST RD / RIDGEWAY CT Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2025-12-19 20:50:00</guid>
+      <pubDate>Fri, 19 Dec 2025 20:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:36 pm</title>
       <description>7400 BLOCK MCKAIG RD Radio: 9C Units: E172, Q11</description>
@@ -288,24 +306,6 @@
       <description>W PATRICK ST / WILLOWDALE DR Units: A18</description>
       <guid isPermaLink="false">2025-12-18 22:23:00</guid>
       <pubDate>Thu, 18 Dec 2025 22:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:15 pm</title>
-      <description>W PATRICK ST / WILLOWDALE DR Units: A37, E11</description>
-      <guid isPermaLink="false">2025-12-18 22:15:00</guid>
-      <pubDate>Thu, 18 Dec 2025 22:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:52 pm</title>
-      <description>6800 BLOCK MARYLAND AVE, PH 2 LOCATION Units: A129, E121</description>
-      <guid isPermaLink="false">2025-12-18 20:52:00</guid>
-      <pubDate>Thu, 18 Dec 2025 20:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:31 pm</title>
-      <description>1100 BLOCK SUGARLOAF MOUNTAIN RD Units: E231</description>
-      <guid isPermaLink="false">2025-12-18 20:31:00</guid>
-      <pubDate>Thu, 18 Dec 2025 20:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
