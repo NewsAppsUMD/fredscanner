@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 07:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 08:02:23 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:45 am</title>
+      <description>2700 BLOCK ADAMS ST, STATION 14 Units: A37</description>
+      <guid isPermaLink="false">2025-12-20 02:45:00</guid>
+      <pubDate>Sat, 20 Dec 2025 02:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:39 am</title>
+      <description>1700 BLOCK BALLENGER CREEK PIKE Radio: 9D Units: A196</description>
+      <guid isPermaLink="false">2025-12-20 02:39:00</guid>
+      <pubDate>Sat, 20 Dec 2025 02:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:21 am</title>
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E61</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK ALESSANDRA CT, Apt/Unit:136, THE FIELDS AT ROCK CREEK - 100 BLOCK ALESSANDRA CT Radio: 9C Units: E11, E501, TW4</description>
       <guid isPermaLink="false">2025-12-19 09:07:00</guid>
       <pubDate>Fri, 19 Dec 2025 09:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:42 am</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, ALS33, EMS901</description>
-      <guid isPermaLink="false">2025-12-19 08:42:00</guid>
-      <pubDate>Fri, 19 Dec 2025 08:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:11 am</title>
-      <description>W PATRICK ST / KLINE BLVD Radio: 9D Units: A18, ALS4, TW4, EMS901</description>
-      <guid isPermaLink="false">2025-12-19 07:11:00</guid>
-      <pubDate>Fri, 19 Dec 2025 07:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
