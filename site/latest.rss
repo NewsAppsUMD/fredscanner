@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 20:36:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 21:02:17 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 3:40 pm</title>
+      <description>300 BLOCK SCHAFFER DR Radio: 9C Units: E11, E501, R2</description>
+      <guid isPermaLink="false">2025-12-22 15:40:00</guid>
+      <pubDate>Mon, 22 Dec 2025 15:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:32 pm</title>
       <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, T4</description>
@@ -300,12 +306,6 @@
       <description>2700 BLOCK ADAMS ST, STATION 14 Units: A37</description>
       <guid isPermaLink="false">2025-12-20 02:45:00</guid>
       <pubDate>Sat, 20 Dec 2025 02:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:39 am</title>
-      <description>1700 BLOCK BALLENGER CREEK PIKE Radio: 9D Units: A196</description>
-      <guid isPermaLink="false">2025-12-20 02:39:00</guid>
-      <pubDate>Sat, 20 Dec 2025 02:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
