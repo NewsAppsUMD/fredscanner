@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 21:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 21:33:31 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:22 pm</title>
+      <description>BRETHREN CHURCH RD / BALTIMORE NATIONAL PIKE PIKE Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2025-12-22 16:22:00</guid>
+      <pubDate>Mon, 22 Dec 2025 16:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 4:21 pm</title>
+      <description>E PATRICK ST / N MAXWELL AVE Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2025-12-22 16:21:00</guid>
+      <pubDate>Mon, 22 Dec 2025 16:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:06 pm</title>
+      <description>12300 BLOCK CLYDE YOUNG RD Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2025-12-22 16:06:00</guid>
+      <pubDate>Mon, 22 Dec 2025 16:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:01 pm</title>
+      <description>12300 BLOCK CLYDE YOUNG RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2025-12-22 16:01:00</guid>
+      <pubDate>Mon, 22 Dec 2025 16:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 3:40 pm</title>
       <description>300 BLOCK SCHAFFER DR Radio: 9C Units: E11, E501, R2</description>
@@ -282,30 +306,6 @@
       <description>4400 BLOCK BUCKEYSTOWN PIKE, FEMA Radio: 9C Units: PE311, TW4</description>
       <guid isPermaLink="false">2025-12-20 08:45:00</guid>
       <pubDate>Sat, 20 Dec 2025 08:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:44 am</title>
-      <description>14000 BLOCK CATOCTIN HOLLOW RD, PARK OFFICE - CUNNINGHAM FALLS STATE PARK Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-20 08:44:00</guid>
-      <pubDate>Sat, 20 Dec 2025 08:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:03 am</title>
-      <description>WIGVILLE RD / CATOCTIN HOLLOW RD, IAO Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-20 05:03:00</guid>
-      <pubDate>Sat, 20 Dec 2025 05:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:33 am</title>
-      <description>1700 BLOCK BALLENGER CREEK PIKE Radio: 9D Units: MAU15</description>
-      <guid isPermaLink="false">2025-12-20 03:33:00</guid>
-      <pubDate>Sat, 20 Dec 2025 03:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:45 am</title>
-      <description>2700 BLOCK ADAMS ST, STATION 14 Units: A37</description>
-      <guid isPermaLink="false">2025-12-20 02:45:00</guid>
-      <pubDate>Sat, 20 Dec 2025 02:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
