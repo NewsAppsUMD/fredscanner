@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 02:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 03:29:38 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 9:36 pm</title>
+      <description>1700 BLOCK CASTLE ROCK RD, BEHIND IN THE WOODS Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2025-12-22 21:36:00</guid>
+      <pubDate>Mon, 22 Dec 2025 21:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:26 pm</title>
       <description>200 BLOCK E MAIN ST Units: BR65</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK URBANA PIKE, IDEAL BUICK GMC HYUNDAI Radio: 9B Units: A318, E31</description>
       <guid isPermaLink="false">2025-12-20 15:47:00</guid>
       <pubDate>Sat, 20 Dec 2025 15:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:08 pm</title>
-      <description>2400 BLOCK TABOR DR Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2025-12-20 15:08:00</guid>
-      <pubDate>Sat, 20 Dec 2025 15:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
