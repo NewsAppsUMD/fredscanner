@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 04:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:42:41 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 11:14 pm</title>
+      <description>COOL RD / TRACT RD Units: E61, BR65, DNR</description>
+      <guid isPermaLink="false">2025-12-22 23:14:00</guid>
+      <pubDate>Mon, 22 Dec 2025 23:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:36 pm</title>
       <description>1700 BLOCK CASTLE ROCK RD, BEHIND IN THE WOODS Radio: 9C Units: BR116</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK URBANA PIKE, IDEAL BUICK GMC HYUNDAI Radio: 9B Units: A29</description>
       <guid isPermaLink="false">2025-12-20 15:54:00</guid>
       <pubDate>Sat, 20 Dec 2025 15:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:47 pm</title>
-      <description>5800 BLOCK URBANA PIKE, IDEAL BUICK GMC HYUNDAI Radio: 9B Units: A318, E31</description>
-      <guid isPermaLink="false">2025-12-20 15:47:00</guid>
-      <pubDate>Sat, 20 Dec 2025 15:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
