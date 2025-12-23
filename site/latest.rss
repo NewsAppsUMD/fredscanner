@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 23:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:33:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:00 pm</title>
+      <description>DICKERSON RD / PARK MILLS RD Units: A239, E281</description>
+      <guid isPermaLink="false">2025-12-23 18:00:00</guid>
+      <pubDate>Tue, 23 Dec 2025 18:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:39 pm</title>
       <description>HANNOVER DR / MERCANTILE DR E Radio: 9D Units: A318, ALS31, E11, EMS901</description>
@@ -300,12 +306,6 @@
       <description>14200 BLOCK LEWISDALE RD Radio: 7A1 Units: ALS23, A239</description>
       <guid isPermaLink="false">2025-12-21 03:38:00</guid>
       <pubDate>Sun, 21 Dec 2025 03:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:25 pm</title>
-      <description>4100 BLOCK PETERSVILLE RD Radio: 9B Units: A197, PE52</description>
-      <guid isPermaLink="false">2025-12-20 19:25:00</guid>
-      <pubDate>Sat, 20 Dec 2025 19:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
