@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 23:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 00:08:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:32 pm</title>
+      <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: E111, R24, A29, ALS2, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-12-23 18:32:00</guid>
+      <pubDate>Tue, 23 Dec 2025 18:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:00 pm</title>
       <description>DICKERSON RD / PARK MILLS RD Units: A239, E281</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK S MARKET ST Units: E31, PE311, PE23, E331, E501, R3, TW4, TW1, A37, ALS4, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2025-12-21 08:49:00</guid>
       <pubDate>Sun, 21 Dec 2025 08:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 3:38 am</title>
-      <description>14200 BLOCK LEWISDALE RD Radio: 7A1 Units: ALS23, A239</description>
-      <guid isPermaLink="false">2025-12-21 03:38:00</guid>
-      <pubDate>Sun, 21 Dec 2025 03:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
