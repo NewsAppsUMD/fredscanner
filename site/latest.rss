@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Dec 2025 19:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 19:31:39 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 2:25 pm</title>
+      <description>3500 BLOCK BUCKEYSTOWN PIKE, FREEDOM CENTER Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2025-12-24 14:25:00</guid>
+      <pubDate>Wed, 24 Dec 2025 14:25:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Radio: 9B Units: E11, E31, R3, A19, A38</description>
@@ -300,12 +306,6 @@
       <description>E PATRICK ST / N MAXWELL AVE Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2025-12-22 16:21:00</guid>
       <pubDate>Mon, 22 Dec 2025 16:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:06 pm</title>
-      <description>12300 BLOCK CLYDE YOUNG RD Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2025-12-22 16:06:00</guid>
-      <pubDate>Mon, 22 Dec 2025 16:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
