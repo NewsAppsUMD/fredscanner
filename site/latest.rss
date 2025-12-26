@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 12:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 12:44:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:32 am</title>
+      <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Units: E52, PE52, E201, R19, A196, A209</description>
+      <guid isPermaLink="false">2025-12-26 07:32:00</guid>
+      <pubDate>Fri, 26 Dec 2025 07:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 11:19 pm</title>
       <description>5300 BLOCK NEW DESIGN RD, TOPPINGS PIZZA CO - KINGSBROOK PLAZA Radio: 9C Units: PE311, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>DICKERSON RD / PARK MILLS RD Units: A239, E281</description>
       <guid isPermaLink="false">2025-12-23 18:00:00</guid>
       <pubDate>Tue, 23 Dec 2025 18:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:39 pm</title>
-      <description>HANNOVER DR / MERCANTILE DR E Radio: 9D Units: A318, ALS31, E11, EMS901</description>
-      <guid isPermaLink="false">2025-12-23 17:39:00</guid>
-      <pubDate>Tue, 23 Dec 2025 17:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
