@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 15:35:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 16:02:10 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:48 am</title>
+      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD WB AT I270, OLD HUNDRED RD WB AT I270 Radio: 7A1 Units: A239</description>
+      <guid isPermaLink="false">2025-12-26 10:48:00</guid>
+      <pubDate>Fri, 26 Dec 2025 10:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:46 am</title>
+      <description>2500 BLOCK SHELLEY CIR, Bldg:B, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2025-12-26 10:46:00</guid>
+      <pubDate>Fri, 26 Dec 2025 10:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:34 am</title>
       <description>100 BLOCK NORVA AVE Radio: 9C Units: E31</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK SPECTRUM DR, KFC TACO BELL - FRANCIS SCOTT KEY MALL Radio: 9C Units: PE23, BR35</description>
       <guid isPermaLink="false">2025-12-23 19:39:00</guid>
       <pubDate>Tue, 23 Dec 2025 19:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:33 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, KFC TACO BELL - FRANCIS SCOTT KEY MALL Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2025-12-23 19:33:00</guid>
-      <pubDate>Tue, 23 Dec 2025 19:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:30 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, KFC TACO BELL - FRANCIS SCOTT KEY MALL Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2025-12-23 19:30:00</guid>
-      <pubDate>Tue, 23 Dec 2025 19:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
