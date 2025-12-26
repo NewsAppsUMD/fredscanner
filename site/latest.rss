@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 14:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 14:36:17 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 9:27 am</title>
+      <description>7000 BLOCK EAGLEHEAD DR Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-12-26 09:27:00</guid>
+      <pubDate>Fri, 26 Dec 2025 09:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:21 am</title>
+      <description>200 BLOCK MADISON ST, SUCCESS SCHOOL Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2025-12-26 09:21:00</guid>
+      <pubDate>Fri, 26 Dec 2025 09:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:32 am</title>
       <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Units: E52, PE52, E201, R19, A196, A209</description>
@@ -294,18 +306,6 @@
       <description>1800 BLOCK KNOXLYN RD Radio: ACOPS10 Units: EK64</description>
       <guid isPermaLink="false">2025-12-23 19:28:00</guid>
       <pubDate>Tue, 23 Dec 2025 19:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:32 pm</title>
-      <description>LIBERTY RD / WORMANS MILL RD Radio: 9D Units: E111, R24, A29, ALS2, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-12-23 18:32:00</guid>
-      <pubDate>Tue, 23 Dec 2025 18:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:00 pm</title>
-      <description>DICKERSON RD / PARK MILLS RD Units: A239, E281</description>
-      <guid isPermaLink="false">2025-12-23 18:00:00</guid>
-      <pubDate>Tue, 23 Dec 2025 18:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
