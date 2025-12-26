@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 17:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 17:34:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:25 pm</title>
+      <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2025-12-26 12:25:00</guid>
+      <pubDate>Fri, 26 Dec 2025 12:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:18 pm</title>
+      <description>RT15SB / 24MM, RT15SB / 24MM Radio: 9D Units: PE102, R10, A229, ALS30, E221, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-12-26 12:18:00</guid>
+      <pubDate>Fri, 26 Dec 2025 12:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:48 am</title>
       <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD WB AT I270, OLD HUNDRED RD WB AT I270 Radio: 7A1 Units: A239</description>
@@ -294,18 +306,6 @@
       <description>4400 BLOCK SKYLINE DR Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2025-12-23 23:02:00</guid>
       <pubDate>Tue, 23 Dec 2025 23:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:44 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, KFC TACO BELL - FRANCIS SCOTT KEY MALL Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2025-12-23 19:44:00</guid>
-      <pubDate>Tue, 23 Dec 2025 19:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:39 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, KFC TACO BELL - FRANCIS SCOTT KEY MALL Radio: 9C Units: PE23, BR35</description>
-      <guid isPermaLink="false">2025-12-23 19:39:00</guid>
-      <pubDate>Tue, 23 Dec 2025 19:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
