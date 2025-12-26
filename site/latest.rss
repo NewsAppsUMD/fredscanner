@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Dec 2025 18:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 18:41:06 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 1:33 pm</title>
+      <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7304, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, E31, T4</description>
+      <guid isPermaLink="false">2025-12-26 13:33:00</guid>
+      <pubDate>Fri, 26 Dec 2025 13:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:17 pm</title>
+      <description>PARK MILLS RD / RT28, RT28 / PARK MILLS RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2025-12-26 13:17:00</guid>
+      <pubDate>Fri, 26 Dec 2025 13:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 12:40 pm</title>
       <description>500 BLOCK GATEWAY DR W Radio: 9I Units: RID, E212, R24, A299, EMS901, W10</description>
@@ -294,18 +306,6 @@
       <description>10200 BLOCK ROYAL SAINT ANDREWS PL Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2025-12-24 03:36:00</guid>
       <pubDate>Wed, 24 Dec 2025 03:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:21 am</title>
-      <description>I270SB / PARK MILLS RD, I270SB / PARK MILLS RD Radio: 9B Units: ALS23, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-12-24 00:21:00</guid>
-      <pubDate>Wed, 24 Dec 2025 00:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:10 am</title>
-      <description>I270SB / PARK MILLS RD, I270SB / PARK MILLS RD Radio: 9B Units: PE311, E231, R3, A318, A239, TT23</description>
-      <guid isPermaLink="false">2025-12-24 00:10:00</guid>
-      <pubDate>Wed, 24 Dec 2025 00:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
