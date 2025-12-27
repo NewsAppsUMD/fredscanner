@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 03:01:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 03:47:36 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:22 pm</title>
+      <description>1200 BLOCK STALEY AVE Radio: 9C Units: PE23, E31, R3</description>
+      <guid isPermaLink="false">2025-12-26 22:22:00</guid>
+      <pubDate>Fri, 26 Dec 2025 22:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 9:07 pm</title>
       <description>100 BLOCK E SEVENTH ST Radio: 9C Units: PE23, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK N MAPLE AVE Radio: 9B Units: BC902, EMS901</description>
       <guid isPermaLink="false">2025-12-24 12:56:00</guid>
       <pubDate>Wed, 24 Dec 2025 12:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:53 pm</title>
-      <description>100 BLOCK E C ST Radio: 9B Units: A196, R19</description>
-      <guid isPermaLink="false">2025-12-24 12:53:00</guid>
-      <pubDate>Wed, 24 Dec 2025 12:53:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
