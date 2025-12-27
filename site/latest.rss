@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 12:44:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 13:09:56 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:55 am</title>
+      <description>13500 BLOCK LOY WOLFE RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2025-12-27 07:55:00</guid>
+      <pubDate>Sat, 27 Dec 2025 07:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:16 am</title>
       <description>100 BLOCK FREDERICK RD, MOUNTAIN GATE RESTAURANT Radio: 9C Units: PE102, TW6</description>
@@ -300,12 +306,6 @@
       <description>BALTIMORE NATIONAL PIKE PIKE / CHURCH HILL RD Radio: 9B Units: A89, R8</description>
       <guid isPermaLink="false">2025-12-24 20:48:00</guid>
       <pubDate>Wed, 24 Dec 2025 20:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:37 pm</title>
-      <description>E FOURTEENTH ST / N MARKET ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-12-24 20:37:00</guid>
-      <pubDate>Wed, 24 Dec 2025 20:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
