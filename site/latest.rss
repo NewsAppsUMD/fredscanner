@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Dec 2025 03:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 04:10:04 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 11:04 pm</title>
+      <description>4000 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: K1</description>
+      <guid isPermaLink="false">2025-12-26 23:04:00</guid>
+      <pubDate>Fri, 26 Dec 2025 23:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 11:04 pm</title>
+      <description>4000 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: K23</description>
+      <guid isPermaLink="false">2025-12-26 23:04:00</guid>
+      <pubDate>Fri, 26 Dec 2025 23:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 10:59 pm</title>
+      <description>4000 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, E141, T4, K1</description>
+      <guid isPermaLink="false">2025-12-26 22:59:00</guid>
+      <pubDate>Fri, 26 Dec 2025 22:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:22 pm</title>
       <description>1200 BLOCK STALEY AVE Radio: 9C Units: PE23, E31, R3</description>
@@ -288,24 +306,6 @@
       <description>OLD NATIONAL PIKE / EAGLEHEAD DR Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2025-12-24 16:50:00</guid>
       <pubDate>Wed, 24 Dec 2025 16:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 2:25 pm</title>
-      <description>3500 BLOCK BUCKEYSTOWN PIKE, FREEDOM CENTER Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2025-12-24 14:25:00</guid>
-      <pubDate>Wed, 24 Dec 2025 14:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
-      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Radio: 9B Units: E11, E31, R3, A19, A38</description>
-      <guid isPermaLink="false">2025-12-24 13:27:00</guid>
-      <pubDate>Wed, 24 Dec 2025 13:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:56 pm</title>
-      <description>200 BLOCK N MAPLE AVE Radio: 9B Units: BC902, EMS901</description>
-      <guid isPermaLink="false">2025-12-24 12:56:00</guid>
-      <pubDate>Wed, 24 Dec 2025 12:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
