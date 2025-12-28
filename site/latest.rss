@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 12:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 13:10:43 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:00 am</title>
+      <description>3100 BLOCK MISSION PEAK WAY Radio: 9C Units: E251, E141, E31, PE311, E11, PE23, R3, T4, K23, K1, A238, ALS23, BC901, BC903, SAF901, TT23</description>
+      <guid isPermaLink="false">2025-12-28 08:00:00</guid>
+      <pubDate>Sun, 28 Dec 2025 08:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 7:48 am</title>
+      <description>3100 BLOCK MISSION PEAK WAY Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2025-12-28 07:48:00</guid>
+      <pubDate>Sun, 28 Dec 2025 07:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 2:15 am</title>
       <description>2100 BLOCK WHITEHALL RD, Apt/Unit:2C, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Radio: 9C Units: TW1</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK(52) BLK BUCHER JOHN RD Units: E91, E132, E162, EK134, K17</description>
       <guid isPermaLink="false">2025-12-26 17:33:00</guid>
       <pubDate>Fri, 26 Dec 2025 17:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:25 pm</title>
-      <description>DRY BRIDGE RD / OLD FREDERICK RD Radio: 9C Units: BR65</description>
-      <guid isPermaLink="false">2025-12-26 17:25:00</guid>
-      <pubDate>Fri, 26 Dec 2025 17:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 1:33 pm</title>
-      <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7304, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, E31, T4</description>
-      <guid isPermaLink="false">2025-12-26 13:33:00</guid>
-      <pubDate>Fri, 26 Dec 2025 13:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
