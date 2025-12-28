@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 07:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 07:33:49 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 2:15 am</title>
+      <description>2100 BLOCK WHITEHALL RD, Apt/Unit:2C, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2025-12-28 02:15:00</guid>
+      <pubDate>Sun, 28 Dec 2025 02:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 8:43 pm</title>
       <description>14400 BLOCK LEWISDALE RD Radio: 9C Units: E231</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK SPRINGWATER CT, Apt/Unit:7304, HAMPTON COURT CONDOS - 6500 BLOCK SPRINGWATER CT Radio: 9C Units: E331, E31, T4</description>
       <guid isPermaLink="false">2025-12-26 13:33:00</guid>
       <pubDate>Fri, 26 Dec 2025 13:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:17 pm</title>
-      <description>PARK MILLS RD / RT28, RT28 / PARK MILLS RD Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2025-12-26 13:17:00</guid>
-      <pubDate>Fri, 26 Dec 2025 13:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
