@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 13:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 13:42:06 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:36 am</title>
+      <description>5800 BLOCK HANNOVER DR, ORCHARD GROVE ELEMENTARY SCHOOL Radio: 9C Units: T4</description>
+      <guid isPermaLink="false">2025-12-29 08:36:00</guid>
+      <pubDate>Mon, 29 Dec 2025 08:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:32 am</title>
+      <description>I270NB / BAKER VALLEY RD, I270NB / BAKER VALLEY RD Radio: 9B Units: E231, PE311, R3, A238, A318, TT23</description>
+      <guid isPermaLink="false">2025-12-29 08:32:00</guid>
+      <pubDate>Mon, 29 Dec 2025 08:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:03 am</title>
       <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY - OLD FARM DR Radio: 9C Units: E11, T4</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, WAWA - GOLDEN MILE Units: A19, ALS4, E11, BC902, EMS901</description>
       <guid isPermaLink="false">2025-12-27 05:15:00</guid>
       <pubDate>Sat, 27 Dec 2025 05:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 4:20 am</title>
-      <description>N BENTZ ST / W PATRICK ST Units: A37, ALS4, T4, BC901, EMS901</description>
-      <guid isPermaLink="false">2025-12-27 04:20:00</guid>
-      <pubDate>Sat, 27 Dec 2025 04:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:21 am</title>
-      <description>13400 BLOCK PENN SHOP RD Units: E251, E152, E331, R15, A259, BC901, BC903, SAF901, TT23</description>
-      <guid isPermaLink="false">2025-12-27 01:21:00</guid>
-      <pubDate>Sat, 27 Dec 2025 01:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
