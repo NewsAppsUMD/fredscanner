@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 01:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 02:42:52 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:16 pm</title>
+      <description>9000 BLOCK SHADY PINES DR Radio: 9C Units: E231, E251, TT23</description>
+      <guid isPermaLink="false">2025-12-28 21:16:00</guid>
+      <pubDate>Sun, 28 Dec 2025 21:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:36 pm</title>
+      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2025-12-28 20:36:00</guid>
+      <pubDate>Sun, 28 Dec 2025 20:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:42 pm</title>
       <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A37</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E SEVENTH ST Radio: 9C Units: PE23, E31, R3</description>
       <guid isPermaLink="false">2025-12-26 21:07:00</guid>
       <pubDate>Fri, 26 Dec 2025 21:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:32 pm</title>
-      <description>2600 BLOCK EMMITSBURG RD, Apt/Unit:2, DEVONSHIRE VILLAGE APARTMENTS Units: E61, TW6, A68</description>
-      <guid isPermaLink="false">2025-12-26 20:32:00</guid>
-      <pubDate>Fri, 26 Dec 2025 20:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 6:21 pm</title>
-      <description>100 BLOCK NORTH POINTE TER Radio: 9C Units: TW7</description>
-      <guid isPermaLink="false">2025-12-26 18:21:00</guid>
-      <pubDate>Fri, 26 Dec 2025 18:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
