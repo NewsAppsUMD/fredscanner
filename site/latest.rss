@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Dec 2025 19:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 20:02:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:40 pm</title>
+      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9B Units: PE23</description>
+      <guid isPermaLink="false">2025-12-29 14:40:00</guid>
+      <pubDate>Mon, 29 Dec 2025 14:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:32 pm</title>
+      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9B Units: E231, R3, A238, E251, TT23</description>
+      <guid isPermaLink="false">2025-12-29 14:32:00</guid>
+      <pubDate>Mon, 29 Dec 2025 14:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 2:29 pm</title>
+      <description>5500 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E11, E31, T4, A18</description>
+      <guid isPermaLink="false">2025-12-29 14:29:00</guid>
+      <pubDate>Mon, 29 Dec 2025 14:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:22 pm</title>
+      <description>ELMER DERR RD / CHRISTIAN KEMP DR S, CELL TOWER - TUSCARORA HIGH SCHOOL Radio: 9D Units: PE311, R14, A318, ALS20, BC902, EMS902</description>
+      <guid isPermaLink="false">2025-12-29 14:22:00</guid>
+      <pubDate>Mon, 29 Dec 2025 14:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:49 pm</title>
       <description>6700 BLOCK S CLIFTON RD Radio: 9C Units: BR125</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E152</description>
       <guid isPermaLink="false">2025-12-27 15:41:00</guid>
       <pubDate>Sat, 27 Dec 2025 15:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD OUTSIDE: 3:39 pm</title>
-      <description>5600 BLOCK SINGLETREE DR Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2025-12-27 15:39:00</guid>
-      <pubDate>Sat, 27 Dec 2025 15:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 3:23 pm</title>
-      <description>6200 BLOCK WALLEYE PL Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2025-12-27 15:23:00</guid>
-      <pubDate>Sat, 27 Dec 2025 15:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:08 pm</title>
-      <description>10700 BLOCK BALTIMORE NATIONAL PIKE, WOLFE ENTERPRISES Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2025-12-27 15:08:00</guid>
-      <pubDate>Sat, 27 Dec 2025 15:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 2:52 pm</title>
-      <description>10700 BLOCK BALTIMORE NATIONAL PIKE, WOLFE ENTERPRISES Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2025-12-27 14:52:00</guid>
-      <pubDate>Sat, 27 Dec 2025 14:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
