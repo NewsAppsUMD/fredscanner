@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 07:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 08:03:04 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:58 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: EMSUTV19</description>
+      <guid isPermaLink="false">2025-12-30 02:58:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:38 am</title>
+      <description>5200 BLOCK FOXVILLE RD Radio: 9B Units: A309, PE102, E212</description>
+      <guid isPermaLink="false">2025-12-30 02:38:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:37 am</title>
+      <description>16200 BLOCK SABILLASVILLE RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-12-30 02:37:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:36 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: BR75, BR16</description>
+      <guid isPermaLink="false">2025-12-30 02:36:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:35 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: BTF2, EK204, BR145, BR125</description>
+      <guid isPermaLink="false">2025-12-30 02:35:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:30 am</title>
       <description>4600 BLOCK LANDER RD, STATION 20 Units: BR116</description>
@@ -276,36 +306,6 @@
       <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A37</description>
       <guid isPermaLink="false">2025-12-28 15:42:00</guid>
       <pubDate>Sun, 28 Dec 2025 15:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 2:31 pm</title>
-      <description>I70WB / RT180, I70WB / RT180 Radio: 9C Units: E31, E121</description>
-      <guid isPermaLink="false">2025-12-28 14:31:00</guid>
-      <pubDate>Sun, 28 Dec 2025 14:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 1:57 pm</title>
-      <description>RT15NB / 17MM, RT15NB / 17MM Radio: 9C Units: E291, E111, E221</description>
-      <guid isPermaLink="false">2025-12-28 13:57:00</guid>
-      <pubDate>Sun, 28 Dec 2025 13:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 12:45 pm</title>
-      <description>9200 BLOCK HOLSEY RD Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2025-12-28 12:45:00</guid>
-      <pubDate>Sun, 28 Dec 2025 12:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:07 pm</title>
-      <description>100 BLOCK MOUNT OLIVET BLVD Units: E31, T4</description>
-      <guid isPermaLink="false">2025-12-28 12:07:00</guid>
-      <pubDate>Sun, 28 Dec 2025 12:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:49 am</title>
-      <description>400 BLOCK CARROLLTON DR Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2025-12-28 10:49:00</guid>
-      <pubDate>Sun, 28 Dec 2025 10:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
