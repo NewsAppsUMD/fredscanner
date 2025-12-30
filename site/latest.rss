@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 21:33:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 22:02:09 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 4:46 pm</title>
+      <description>39500 BLOCK TOLLHOUSE RD Radio: 6DTAC11 Units: A196, E281</description>
+      <guid isPermaLink="false">2025-12-30 16:46:00</guid>
+      <pubDate>Tue, 30 Dec 2025 16:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:38 pm</title>
+      <description>GLISSANS MILL RD / GREEN VALLEY RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2025-12-30 16:38:00</guid>
+      <pubDate>Tue, 30 Dec 2025 16:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 4:29 pm</title>
       <description>18900 BLOCK BEALLSVILLE RD ACROSS FROM THIS LOCATION 1ST DRIVEWAY ON RIGHT, ACROSS FROM THIS LOCATION 1ST DRIVEWAY ON RIGHT Radio: 7A4 Units: E281, E141</description>
@@ -294,18 +306,6 @@
       <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9B Units: E231, R3, A238, E251, TT23</description>
       <guid isPermaLink="false">2025-12-29 14:32:00</guid>
       <pubDate>Mon, 29 Dec 2025 14:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:29 pm</title>
-      <description>5500 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E11, E31, T4, A18</description>
-      <guid isPermaLink="false">2025-12-29 14:29:00</guid>
-      <pubDate>Mon, 29 Dec 2025 14:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:22 pm</title>
-      <description>ELMER DERR RD / CHRISTIAN KEMP DR S, CELL TOWER - TUSCARORA HIGH SCHOOL Radio: 9D Units: PE311, R14, A318, ALS20, BC902, EMS902</description>
-      <guid isPermaLink="false">2025-12-29 14:22:00</guid>
-      <pubDate>Mon, 29 Dec 2025 14:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
