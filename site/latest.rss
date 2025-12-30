@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 07:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 07:35:48 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:30 am</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: BR116</description>
+      <guid isPermaLink="false">2025-12-30 02:30:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:26 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: BTF, K5, A196, BR285, BR75, W5</description>
+      <guid isPermaLink="false">2025-12-30 02:26:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:19 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: BR55, BR205</description>
+      <guid isPermaLink="false">2025-12-30 02:19:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:10 am</title>
+      <description>600 BLOCK NINTH AVE, BRUNSWICK MEDICAL CENTER Radio: 9C Units: E281, TW1</description>
+      <guid isPermaLink="false">2025-12-30 02:10:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE THREATENING A STRUCTURE: 2:08 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: PE52, E201, TW7, K5, A196, BC903, SAF901, DNR</description>
+      <guid isPermaLink="false">2025-12-30 02:08:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:04 am</title>
+      <description>800 BLOCK KAPLON CT Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2025-12-30 02:04:00</guid>
+      <pubDate>Tue, 30 Dec 2025 02:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:17 pm</title>
       <description>1100 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52</description>
@@ -270,42 +306,6 @@
       <description>400 BLOCK CARROLLTON DR Radio: 9C Units: E31, PE23, R3</description>
       <guid isPermaLink="false">2025-12-28 10:49:00</guid>
       <pubDate>Sun, 28 Dec 2025 10:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:00 am</title>
-      <description>3100 BLOCK MISSION PEAK WAY Radio: 9C Units: E251, E141, E31, PE311, E11, PE23, R3, T4, K23, K1, A238, ALS23, BC901, BC903, SAF901, TT23</description>
-      <guid isPermaLink="false">2025-12-28 08:00:00</guid>
-      <pubDate>Sun, 28 Dec 2025 08:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:48 am</title>
-      <description>3100 BLOCK MISSION PEAK WAY Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2025-12-28 07:48:00</guid>
-      <pubDate>Sun, 28 Dec 2025 07:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:15 am</title>
-      <description>2100 BLOCK WHITEHALL RD, Apt/Unit:2C, AVONDALE APTS - 2100 BLOCK WHITEHALL RD Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2025-12-28 02:15:00</guid>
-      <pubDate>Sun, 28 Dec 2025 02:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:43 pm</title>
-      <description>14400 BLOCK LEWISDALE RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-12-27 20:43:00</guid>
-      <pubDate>Sat, 27 Dec 2025 20:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 8:23 pm</title>
-      <description>4900 BLOCK BARCLAY TER Radio: 9C Units: PE311, E11, R14</description>
-      <guid isPermaLink="false">2025-12-27 20:23:00</guid>
-      <pubDate>Sat, 27 Dec 2025 20:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:04 pm</title>
-      <description>9000 BLOCK DOCTOR PERRY RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2025-12-27 20:04:00</guid>
-      <pubDate>Sat, 27 Dec 2025 20:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
