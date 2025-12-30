@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 22:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 22:35:49 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:28 pm</title>
+      <description>HOLIDAY DR / SPECTRUM DR Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2025-12-30 17:28:00</guid>
+      <pubDate>Tue, 30 Dec 2025 17:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:22 pm</title>
+      <description>5800 BLOCK IROQUOIS PL Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2025-12-30 17:22:00</guid>
+      <pubDate>Tue, 30 Dec 2025 17:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:46 pm</title>
       <description>39500 BLOCK TOLLHOUSE RD Radio: 6DTAC11 Units: A196, E281</description>
@@ -294,18 +306,6 @@
       <description>13100 BLOCK OLD ANNAPOLIS RD, Bldg:A Radio: 9C Units: BR175</description>
       <guid isPermaLink="false">2025-12-29 16:09:00</guid>
       <pubDate>Mon, 29 Dec 2025 16:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:40 pm</title>
-      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9B Units: PE23</description>
-      <guid isPermaLink="false">2025-12-29 14:40:00</guid>
-      <pubDate>Mon, 29 Dec 2025 14:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:32 pm</title>
-      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9B Units: E231, R3, A238, E251, TT23</description>
-      <guid isPermaLink="false">2025-12-29 14:32:00</guid>
-      <pubDate>Mon, 29 Dec 2025 14:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
