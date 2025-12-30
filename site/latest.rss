@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Dec 2025 14:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 14:37:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:30 am</title>
+      <description>RIDGE RD / ROWLAND HILL RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2025-12-30 09:30:00</guid>
+      <pubDate>Tue, 30 Dec 2025 09:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 9:20 am</title>
+      <description>5300 BLOCK SPECTRUM DR Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2025-12-30 09:20:00</guid>
+      <pubDate>Tue, 30 Dec 2025 09:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 9:11 am</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:SUITE C, NATIONAL SPINE AND PAIN CENTER - FREDERICK RESEARCH PARK Radio: 9C Units: E291, E501, R2</description>
+      <guid isPermaLink="false">2025-12-30 09:11:00</guid>
+      <pubDate>Tue, 30 Dec 2025 09:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STRUCTURAL COLLAPSE: 9:00 am</title>
+      <description>12800 BLOCK MOUNTAIN RD Radio: 6DTAC11 Units: R20, PE52</description>
+      <guid isPermaLink="false">2025-12-30 09:00:00</guid>
+      <pubDate>Tue, 30 Dec 2025 09:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:13 am</title>
       <description>100 BLOCK E CHURCH ST Radio: 9C Units: E31, PE23, R3</description>
@@ -282,30 +306,6 @@
       <description>700 BLOCK SEWELL ST Radio: 9C Units: E251, E331, R3</description>
       <guid isPermaLink="false">2025-12-29 13:39:00</guid>
       <pubDate>Mon, 29 Dec 2025 13:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:54 pm</title>
-      <description>8400 BLOCK INSPIRATION AVE Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2025-12-29 12:54:00</guid>
-      <pubDate>Mon, 29 Dec 2025 12:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:01 pm</title>
-      <description>WOODVILLE RD / OLD NATIONAL PIKE Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2025-12-29 12:01:00</guid>
-      <pubDate>Mon, 29 Dec 2025 12:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 11:54 am</title>
-      <description>12500 BLOCK WOODBROOK CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-12-29 11:54:00</guid>
-      <pubDate>Mon, 29 Dec 2025 11:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:41 am</title>
-      <description>1500 BLOCK FREEDMAN DR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E501, TW1</description>
-      <guid isPermaLink="false">2025-12-29 11:41:00</guid>
-      <pubDate>Mon, 29 Dec 2025 11:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
