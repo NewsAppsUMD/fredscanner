@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 00:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 00:46:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:39 pm</title>
+      <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23, Q11</description>
+      <guid isPermaLink="false">2025-12-30 19:39:00</guid>
+      <pubDate>Tue, 30 Dec 2025 19:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:37 pm</title>
+      <description>900 BLOCK SULTAN DR Radio: 9C Units: E501, T4</description>
+      <guid isPermaLink="false">2025-12-30 19:37:00</guid>
+      <pubDate>Tue, 30 Dec 2025 19:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:07 pm</title>
+      <description>700 BLOCK WEAVERTON RD Radio: TAC1OPS Units: A196</description>
+      <guid isPermaLink="false">2025-12-30 19:07:00</guid>
+      <pubDate>Tue, 30 Dec 2025 19:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 6:50 pm</title>
       <description>700 BLOCK WEAVERTON RD Radio: TAC1OPS Units: PE52</description>
@@ -288,24 +306,6 @@
       <description>9100 BLOCK FINGERBOARD RD, ROYAL FARMS - URBANA Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2025-12-29 19:44:00</guid>
       <pubDate>Mon, 29 Dec 2025 19:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:18 pm</title>
-      <description>3400 BLOCK GREEN VALLEY RD Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2025-12-29 19:18:00</guid>
-      <pubDate>Mon, 29 Dec 2025 19:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:17 pm</title>
-      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2025-12-29 19:17:00</guid>
-      <pubDate>Mon, 29 Dec 2025 19:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 5:37 pm</title>
-      <description>OLD HUNDRED RD / THURSTON RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2025-12-29 17:37:00</guid>
-      <pubDate>Mon, 29 Dec 2025 17:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
