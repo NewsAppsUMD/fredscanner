@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 18:41:26 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:07 pm</title>
+      <description>6500 BLOCK LAKEVIEW CT Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2025-12-31 13:07:00</guid>
+      <pubDate>Wed, 31 Dec 2025 13:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:42 am</title>
       <description>400 BLOCK FIFTH AVE, BRUNSWICK WOODWORKING Radio: 9C Units: PE52, TW7</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK KAPLON CT Radio: 9C Units: BR75, BR16</description>
       <guid isPermaLink="false">2025-12-30 02:36:00</guid>
       <pubDate>Tue, 30 Dec 2025 02:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 2:35 am</title>
-      <description>800 BLOCK KAPLON CT Radio: 9C Units: BTF2, EK204, BR145, BR125</description>
-      <guid isPermaLink="false">2025-12-30 02:35:00</guid>
-      <pubDate>Tue, 30 Dec 2025 02:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
