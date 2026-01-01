@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 00:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:48:59 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:24 pm</title>
+      <description>W MAIN ST / FOXVILLE RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2025-12-31 19:24:00</guid>
+      <pubDate>Wed, 31 Dec 2025 19:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:14 pm</title>
+      <description>FINGERBOARD RD / FLINT HILL RD, IAO Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2025-12-31 19:14:00</guid>
+      <pubDate>Wed, 31 Dec 2025 19:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:55 pm</title>
       <description>I70WB / MOUNT TABOR RD, I70WB / RT17 Radio: 9C Units: A89</description>
@@ -294,18 +306,6 @@
       <description>9900 BLOCKC PINE TREE RD Radio: 9C Units: R24, EK224</description>
       <guid isPermaLink="false">2025-12-30 04:31:00</guid>
       <pubDate>Tue, 30 Dec 2025 04:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:30 am</title>
-      <description>4900 BLOCK FORD FIELDS RD Radio: 9D Units: BR125</description>
-      <guid isPermaLink="false">2025-12-30 04:30:00</guid>
-      <pubDate>Tue, 30 Dec 2025 04:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:28 am</title>
-      <description>4900 BLOCK FORD FIELDS RD Radio: 9D Units: E72, K21, BR216, E212</description>
-      <guid isPermaLink="false">2025-12-30 04:28:00</guid>
-      <pubDate>Tue, 30 Dec 2025 04:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
