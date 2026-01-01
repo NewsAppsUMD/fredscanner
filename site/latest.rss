@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 31 Dec 2025 23:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:10:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:55 pm</title>
+      <description>I70WB / MOUNT TABOR RD, I70WB / RT17 Radio: 9C Units: A89</description>
+      <guid isPermaLink="false">2025-12-31 18:55:00</guid>
+      <pubDate>Wed, 31 Dec 2025 18:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:54 pm</title>
+      <description>I70WB / MOUNT TABOR RD, I70WB / RT17 Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2025-12-31 18:54:00</guid>
+      <pubDate>Wed, 31 Dec 2025 18:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:22 pm</title>
       <description>1000 BLOCK E THORNHILL PL Radio: 9C Units: E11, T4</description>
@@ -294,18 +306,6 @@
       <description>4900 BLOCK FORD FIELDS RD Radio: 9D Units: E72, K21, BR216, E212</description>
       <guid isPermaLink="false">2025-12-30 04:28:00</guid>
       <pubDate>Tue, 30 Dec 2025 04:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:27 am</title>
-      <description>4900 BLOCK FORD FIELDS RD Radio: 9D Units: E11, K7, BR85</description>
-      <guid isPermaLink="false">2025-12-30 04:27:00</guid>
-      <pubDate>Tue, 30 Dec 2025 04:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 4:24 am</title>
-      <description>9900 BLOCK PINE TREE RD Radio: 9C Units: E172, E162, Q11, EK134, K17</description>
-      <guid isPermaLink="false">2025-12-30 04:24:00</guid>
-      <pubDate>Tue, 30 Dec 2025 04:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
