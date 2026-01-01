@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 09:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 09:37:39 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:34 am</title>
+      <description>11800 BLOCK CREAGERSTOWN RD Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-01-01 04:34:00</guid>
+      <pubDate>Thu, 01 Jan 2026 04:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 12:52 am</title>
       <description>100 BLOCK WILLOWDALE DR Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>N SETON AVE / FEDERAL AVE Radio: 9C Units: BR65</description>
       <guid isPermaLink="false">2025-12-30 07:31:00</guid>
       <pubDate>Tue, 30 Dec 2025 07:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 5:54 am</title>
-      <description>800 BLOCK AZTEC DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2025-12-30 05:54:00</guid>
-      <pubDate>Tue, 30 Dec 2025 05:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
