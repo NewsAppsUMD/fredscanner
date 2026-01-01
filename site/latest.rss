@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 01:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 02:44:21 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:56 pm</title>
+      <description>LEW WALLACE ST / BEALLS FARM RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2025-12-31 20:56:00</guid>
+      <pubDate>Wed, 31 Dec 2025 20:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 7:24 pm</title>
       <description>W MAIN ST / FOXVILLE RD Radio: 9C Units: BR106</description>
@@ -298,12 +304,6 @@
     <item>
       <title>ODOR OF SMOKE INSIDE: 4:31 am</title>
       <description>9900 BLOCKC PINE TREE RD Radio: 9C Units: EK134, K17</description>
-      <guid isPermaLink="false">2025-12-30 04:31:00</guid>
-      <pubDate>Tue, 30 Dec 2025 04:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 4:31 am</title>
-      <description>9900 BLOCKC PINE TREE RD Radio: 9C Units: R24, EK224</description>
       <guid isPermaLink="false">2025-12-30 04:31:00</guid>
       <pubDate>Tue, 30 Dec 2025 04:31:00 -0500</pubDate>
     </item>
