@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Jan 2026 13:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 13:40:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:28 am</title>
+      <description>1500 BLOCK FREEDMAN DR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E501, T4</description>
+      <guid isPermaLink="false">2026-01-01 08:28:00</guid>
+      <pubDate>Thu, 01 Jan 2026 08:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:06 am</title>
       <description>RT15SB / COLLEGE LN, RT15SB / COLLEGE LN Radio: 9B Units: A68, E61</description>
@@ -300,12 +306,6 @@
       <description>RT85 / RAMP TO I270SB, RT85 / RAMP TO I270SB Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2025-12-30 15:46:00</guid>
       <pubDate>Tue, 30 Dec 2025 15:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE MALFUNCTION: 12:55 pm</title>
-      <description>6900 BLOCK GREENVALE CT Radio: 9C Units: E291, E501, R2, K1</description>
-      <guid isPermaLink="false">2025-12-30 12:55:00</guid>
-      <pubDate>Tue, 30 Dec 2025 12:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
