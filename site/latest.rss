@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 18:41:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 19:02:16 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:51 pm</title>
+      <description>100 BLOCK S VIRGINIA AVE, IAO Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-01-02 13:51:00</guid>
+      <pubDate>Fri, 02 Jan 2026 13:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:23 pm</title>
       <description>5700 BLOCK BUCKEYSTOWN PIKE, CHECKERS - EVERGREEN POINT Radio: 9B Units: A319, A318, E31</description>
@@ -298,12 +304,6 @@
     <item>
       <title>FIRE REPORTED OUT: 7:46 pm</title>
       <description>800 BLOCK MOTTER AVE, Apt/Unit:301, CATOCTIN VIEW APTS Radio: 9C Units: ALS2</description>
-      <guid isPermaLink="false">2025-12-30 19:46:00</guid>
-      <pubDate>Tue, 30 Dec 2025 19:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 7:46 pm</title>
-      <description>800 BLOCK MOTTER AVE, Apt/Unit:301, CATOCTIN VIEW APTS Radio: 9C Units: R3, A28, ALS4</description>
       <guid isPermaLink="false">2025-12-30 19:46:00</guid>
       <pubDate>Tue, 30 Dec 2025 19:46:00 -0500</pubDate>
     </item>
