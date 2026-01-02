@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Jan 2026 04:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 04:43:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:32 pm</title>
+      <description>I70EB / EXIT 59 (RT144 NEWM), Apt/Unit:HTTPS://A91.IO/21JRS, I70EB / EXIT 59 Radio: 9B Units: E331, E152, R3, A339, A159</description>
+      <guid isPermaLink="false">2026-01-01 23:32:00</guid>
+      <pubDate>Thu, 01 Jan 2026 23:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 9:35 pm</title>
       <description>5600 BLOCK CRABAPPLE DR Radio: 9C Units: PE311, E31, R3</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK SHOOKSTOWN RD Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2025-12-30 17:40:00</guid>
       <pubDate>Tue, 30 Dec 2025 17:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:28 pm</title>
-      <description>HOLIDAY DR / SPECTRUM DR Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2025-12-30 17:28:00</guid>
-      <pubDate>Tue, 30 Dec 2025 17:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
