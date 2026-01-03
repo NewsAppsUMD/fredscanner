@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Jan 2026 00:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 00:46:50 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:08 pm</title>
+      <description>11900 BLOCK MAIN ST, Apt/Unit:105A, LIBERTY GARDEN APTS Units: E162, E91, E152, E291, PE23, R15, Q11, T4, K33, K1, A169, ALS17, K17, BC902, BC901, SAF901, E251</description>
+      <guid isPermaLink="false">2026-01-02 19:08:00</guid>
+      <pubDate>Fri, 02 Jan 2026 19:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:07 pm</title>
+      <description>11900 BLOCK MAIN ST, Apt/Unit:105A, LIBERTY GARDEN APTS Units: E162, E91, E152, E291, PE23, R15, Q11, T4, K33, K1, A169, ALS17, K17, BC902, BC901, SAF901, E251</description>
+      <guid isPermaLink="false">2026-01-02 19:07:00</guid>
+      <pubDate>Fri, 02 Jan 2026 19:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:41 pm</title>
       <description>12600 BLOCK COPPERMINE RD, IFO Radio: 9B Units: A179, E172</description>
@@ -294,18 +306,6 @@
       <description>3200 BLOCK DIGITAL DR, Bldg:F Radio: 9C Units: E141, T4</description>
       <guid isPermaLink="false">2025-12-31 08:24:00</guid>
       <pubDate>Wed, 31 Dec 2025 08:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:07 am</title>
-      <description>GLISSANS MILL RD / GREEN VALLEY RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2025-12-31 08:07:00</guid>
-      <pubDate>Wed, 31 Dec 2025 08:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:16 am</title>
-      <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY - OLD FARM DR Radio: 9C Units: E11, T4</description>
-      <guid isPermaLink="false">2025-12-31 07:16:00</guid>
-      <pubDate>Wed, 31 Dec 2025 07:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
