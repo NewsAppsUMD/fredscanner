@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 11:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 12:03:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:39 am</title>
+      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-01-04 06:39:00</guid>
+      <pubDate>Sun, 04 Jan 2026 06:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:27 am</title>
       <description>OAK ORCHARD RD / SAMS CREEK RD Radio: 9B Units: A179</description>
@@ -300,12 +306,6 @@
       <description>FINGERBOARD RD / AYODHYA WAY Radio: 9B Units: A259, E251</description>
       <guid isPermaLink="false">2025-12-31 23:46:00</guid>
       <pubDate>Wed, 31 Dec 2025 23:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:03 pm</title>
-      <description>9300 BLOCK SORREL LN Radio: 9C Units: E231, E251, TT23</description>
-      <guid isPermaLink="false">2025-12-31 23:03:00</guid>
-      <pubDate>Wed, 31 Dec 2025 23:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
