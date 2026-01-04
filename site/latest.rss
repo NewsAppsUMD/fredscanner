@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 19:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 20:02:31 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:55 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, EMS901</description>
+      <guid isPermaLink="false">2026-01-04 14:55:00</guid>
+      <pubDate>Sun, 04 Jan 2026 14:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 2:54 pm</title>
+      <description>HATTERY FARM CT / HARRISVILLE RD Radio: 9C Units: E172, K17, CCK1</description>
+      <guid isPermaLink="false">2026-01-04 14:54:00</guid>
+      <pubDate>Sun, 04 Jan 2026 14:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 2:53 pm</title>
+      <description>HATTERY FARM CT / HARRISVILLE RD Units: BR176</description>
+      <guid isPermaLink="false">2026-01-04 14:53:00</guid>
+      <pubDate>Sun, 04 Jan 2026 14:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:51 pm</title>
       <description>12600 BLOCK MOLESWORTH DR Radio: 9D Units: E251, E152, E331, E231, E172, R15, K33, K23, A259, ALS23, BC902, BC901, SAF901, TT23</description>
@@ -288,24 +306,6 @@
       <description>13800 BLOCK PRYOR RD Radio: 9B Units: A309, PE102</description>
       <guid isPermaLink="false">2026-01-01 05:43:00</guid>
       <pubDate>Thu, 01 Jan 2026 05:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:22 am</title>
-      <description>5700 BLOCK BELLS LN Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-01-01 05:22:00</guid>
-      <pubDate>Thu, 01 Jan 2026 05:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:02 am</title>
-      <description>4000 BLOCK TRANQUILITY CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-01-01 05:02:00</guid>
-      <pubDate>Thu, 01 Jan 2026 05:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:34 am</title>
-      <description>11800 BLOCK CREAGERSTOWN RD Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2026-01-01 04:34:00</guid>
-      <pubDate>Thu, 01 Jan 2026 04:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
