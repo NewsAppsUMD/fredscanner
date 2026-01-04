@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 06:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 06:42:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:27 am</title>
+      <description>OAK ORCHARD RD / SAMS CREEK RD Radio: 9B Units: A179</description>
+      <guid isPermaLink="false">2026-01-04 01:27:00</guid>
+      <pubDate>Sun, 04 Jan 2026 01:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:20 am</title>
+      <description>OAK ORCHARD RD / SAMS CREEK RD Radio: 9B Units: RE171</description>
+      <guid isPermaLink="false">2026-01-04 01:20:00</guid>
+      <pubDate>Sun, 04 Jan 2026 01:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:26 pm</title>
       <description>ARLINGTON MILL RD / RT75, ARLINGTON MILL RD / RT75 Units: BR175</description>
@@ -294,18 +306,6 @@
       <description>9300 BLOCK SORREL LN Radio: 9C Units: E231, E251, TT23</description>
       <guid isPermaLink="false">2025-12-31 23:03:00</guid>
       <pubDate>Wed, 31 Dec 2025 23:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:56 pm</title>
-      <description>LEW WALLACE ST / BEALLS FARM RD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2025-12-31 20:56:00</guid>
-      <pubDate>Wed, 31 Dec 2025 20:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:24 pm</title>
-      <description>W MAIN ST / FOXVILLE RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2025-12-31 19:24:00</guid>
-      <pubDate>Wed, 31 Dec 2025 19:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
