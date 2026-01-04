@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 21:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 21:33:28 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 4:09 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2026-01-04 16:09:00</guid>
+      <pubDate>Sun, 04 Jan 2026 16:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 2:55 pm</title>
       <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, EMS901</description>
@@ -300,12 +306,6 @@
       <description>13800 BLOCK PRYOR RD Radio: 9B Units: E61, ALS30, E221, BC902, EMS902</description>
       <guid isPermaLink="false">2026-01-01 05:48:00</guid>
       <pubDate>Thu, 01 Jan 2026 05:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:43 am</title>
-      <description>13800 BLOCK PRYOR RD Radio: 9B Units: A309, PE102</description>
-      <guid isPermaLink="false">2026-01-01 05:43:00</guid>
-      <pubDate>Thu, 01 Jan 2026 05:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
