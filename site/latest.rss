@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Jan 2026 17:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 17:34:05 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 12:16 pm</title>
+      <description>DOCTOR PERRY RD / GIBRALTAR LN Radio: 9C Units: E231, K23, A238, BC901, SAF901, DNR, E251, TT23</description>
+      <guid isPermaLink="false">2026-01-04 12:16:00</guid>
+      <pubDate>Sun, 04 Jan 2026 12:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:39 am</title>
       <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK CARRIAGE HILL DR Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2026-01-01 00:33:00</guid>
       <pubDate>Thu, 01 Jan 2026 00:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:46 pm</title>
-      <description>FINGERBOARD RD / AYODHYA WAY Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2025-12-31 23:46:00</guid>
-      <pubDate>Wed, 31 Dec 2025 23:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
