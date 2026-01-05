@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 12:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 13:15:09 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:11 am</title>
+      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Units: T4, E11</description>
+      <guid isPermaLink="false">2026-01-05 08:11:00</guid>
+      <pubDate>Mon, 05 Jan 2026 08:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:48 am</title>
+      <description>RT15SB / W PATRICK ST(RT40), RT15SB / W PATRICK ST Units: E11, E31, R2, A19, A37</description>
+      <guid isPermaLink="false">2026-01-05 07:48:00</guid>
+      <pubDate>Mon, 05 Jan 2026 07:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
       <description>I270SB / RT85, I270SB / RT85 Units: E11, E231, R2, A18, A238, ALS31, BC902, EMS901</description>
@@ -294,18 +306,6 @@
       <description>RT75 / RAILROAD, RT75 / RAILROAD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2026-01-02 11:07:00</guid>
       <pubDate>Fri, 02 Jan 2026 11:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:08 am</title>
-      <description>9600 BLOCK GREENEL RD Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2026-01-02 10:08:00</guid>
-      <pubDate>Fri, 02 Jan 2026 10:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:57 am</title>
-      <description>100 BLOCK CLEARWATER CT Radio: 7A4 Units: R15</description>
-      <guid isPermaLink="false">2026-01-02 09:57:00</guid>
-      <pubDate>Fri, 02 Jan 2026 09:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
