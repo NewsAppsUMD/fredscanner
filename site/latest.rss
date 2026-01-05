@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 20:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 20:37:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
+      <description>300 BLOCK E MAIN ST Radio: 9B Units: A79</description>
+      <guid isPermaLink="false">2026-01-05 15:10:00</guid>
+      <pubDate>Mon, 05 Jan 2026 15:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:54 pm</title>
       <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311, T4</description>
@@ -300,12 +306,6 @@
       <description>11900 BLOCK MAIN ST, Apt/Unit:105A, LIBERTY GARDEN APTS Units: E162, E91, E152, E291, PE23, R15, Q11, T4, K33, K1, A169, ALS17, K17, BC902, BC901, SAF901, E251</description>
       <guid isPermaLink="false">2026-01-02 19:08:00</guid>
       <pubDate>Fri, 02 Jan 2026 19:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:07 pm</title>
-      <description>11900 BLOCK MAIN ST, Apt/Unit:105A, LIBERTY GARDEN APTS Units: E162, E91, E152, E291, PE23, R15, Q11, T4, K33, K1, A169, ALS17, K17, BC902, BC901, SAF901, E251</description>
-      <guid isPermaLink="false">2026-01-02 19:07:00</guid>
-      <pubDate>Fri, 02 Jan 2026 19:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
