@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 12:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 12:44:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
+      <description>I270SB / RT85, I270SB / RT85 Units: E11, E231, R2, A18, A238, ALS31, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-01-05 07:08:00</guid>
+      <pubDate>Mon, 05 Jan 2026 07:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 6:51 am</title>
       <description>1600 BLOCK CONRADS FERRY DR Units: E281, E141, E201, R20, T4, R19, A149, ALS20, BC903, BC902, SAF901, PE52</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK CLEARWATER CT Radio: 7A4 Units: R15</description>
       <guid isPermaLink="false">2026-01-02 09:57:00</guid>
       <pubDate>Fri, 02 Jan 2026 09:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:32 pm</title>
-      <description>I70EB / EXIT 59 (RT144 NEWM), Apt/Unit:HTTPS://A91.IO/21JRS, I70EB / EXIT 59 Radio: 9B Units: E331, E152, R3, A339, A159</description>
-      <guid isPermaLink="false">2026-01-01 23:32:00</guid>
-      <pubDate>Thu, 01 Jan 2026 23:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
