@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 11:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 12:04:05 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:51 am</title>
+      <description>1600 BLOCK CONRADS FERRY DR Units: E281, E141, E201, R20, T4, R19, A149, ALS20, BC903, BC902, SAF901, PE52</description>
+      <guid isPermaLink="false">2026-01-05 06:51:00</guid>
+      <pubDate>Mon, 05 Jan 2026 06:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:47 am</title>
+      <description>11300 BLOCK NEVETS PL Units: K33</description>
+      <guid isPermaLink="false">2026-01-05 06:47:00</guid>
+      <pubDate>Mon, 05 Jan 2026 06:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:42 am</title>
+      <description>4400 BLOCK GREEN VALLEY RD Units: K23</description>
+      <guid isPermaLink="false">2026-01-05 06:42:00</guid>
+      <pubDate>Mon, 05 Jan 2026 06:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:08 am</title>
       <description>4600 BLOCK NAVISTAR DR, CRISPLANT INC Units: PE311, T4</description>
@@ -288,24 +306,6 @@
       <description>I70EB / EXIT 59 (RT144 NEWM), Apt/Unit:HTTPS://A91.IO/21JRS, I70EB / EXIT 59 Radio: 9B Units: E331, E152, R3, A339, A159</description>
       <guid isPermaLink="false">2026-01-01 23:32:00</guid>
       <pubDate>Thu, 01 Jan 2026 23:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE MALFUNCTION: 9:35 pm</title>
-      <description>5600 BLOCK CRABAPPLE DR Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-01-01 21:35:00</guid>
-      <pubDate>Thu, 01 Jan 2026 21:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:08 pm</title>
-      <description>6100 BLOCK STONECAT CT Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-01-01 19:08:00</guid>
-      <pubDate>Thu, 01 Jan 2026 19:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 3:14 pm</title>
-      <description>8500 BLOCK MAPLEVILLE RD, FAHRNEY KEEDY HOME &amp; VILLAGE Units: R8</description>
-      <guid isPermaLink="false">2026-01-01 15:14:00</guid>
-      <pubDate>Thu, 01 Jan 2026 15:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
