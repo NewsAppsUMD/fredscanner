@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 17:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 17:37:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:20 pm</title>
+      <description>12800 BLOCK MINK FARM RD, Bldg:A, THORPEWOOD Radio: 9C Units: E212, TW6</description>
+      <guid isPermaLink="false">2026-01-06 12:20:00</guid>
+      <pubDate>Tue, 06 Jan 2026 12:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:03 pm</title>
+      <description>I70WB / 34MM Radio: PS1 Units: ALS8</description>
+      <guid isPermaLink="false">2026-01-06 12:03:00</guid>
+      <pubDate>Tue, 06 Jan 2026 12:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:03 pm</title>
+      <description>I70WB / 34MM Radio: PS1 Units: ALS8</description>
+      <guid isPermaLink="false">2026-01-06 12:03:00</guid>
+      <pubDate>Tue, 06 Jan 2026 12:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 9:26 am</title>
       <description>E SECOND ST / E CHURCH ST Units: BR35</description>
@@ -288,24 +306,6 @@
       <description>ROSEMONT AVE / SCHLEY AVE, SHEETZ - ROSEMONT Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-01-04 17:14:00</guid>
       <pubDate>Sun, 04 Jan 2026 17:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:07 pm</title>
-      <description>10000 BLOCK DOCTOR PERRY RD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-01-04 17:07:00</guid>
-      <pubDate>Sun, 04 Jan 2026 17:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 4:09 pm</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-01-04 16:09:00</guid>
-      <pubDate>Sun, 04 Jan 2026 16:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:55 pm</title>
-      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A159, EMS901</description>
-      <guid isPermaLink="false">2026-01-04 14:55:00</guid>
-      <pubDate>Sun, 04 Jan 2026 14:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
