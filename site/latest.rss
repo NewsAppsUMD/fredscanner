@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 07:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:03:30 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:55 am</title>
+      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: RID2, E111, R20, A37, EMS901, W1</description>
+      <guid isPermaLink="false">2026-01-06 02:55:00</guid>
+      <pubDate>Tue, 06 Jan 2026 02:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:53 am</title>
+      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: BC900</description>
+      <guid isPermaLink="false">2026-01-06 02:53:00</guid>
+      <pubDate>Tue, 06 Jan 2026 02:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:51 am</title>
+      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: E11, E31, E501, E311, E121, R3, T4, TW7, A18, ALS2, BC904, SAF900</description>
+      <guid isPermaLink="false">2026-01-06 02:51:00</guid>
+      <pubDate>Tue, 06 Jan 2026 02:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:44 am</title>
+      <description>RT340EB / WASHINGTON COUNTY LINE, RT340EB / WASHINGTON COUNTY LINE Radio: 9C Units: BR55, BR205</description>
+      <guid isPermaLink="false">2026-01-06 02:44:00</guid>
+      <pubDate>Tue, 06 Jan 2026 02:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 1:50 am</title>
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
@@ -282,30 +306,6 @@
       <description>5200 BLOCK DUKE CT Radio: 9C Units: PE311, T4</description>
       <guid isPermaLink="false">2026-01-04 13:04:00</guid>
       <pubDate>Sun, 04 Jan 2026 13:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 12:16 pm</title>
-      <description>DOCTOR PERRY RD / GIBRALTAR LN Radio: 9C Units: E231, K23, A238, BC901, SAF901, DNR, E251, TT23</description>
-      <guid isPermaLink="false">2026-01-04 12:16:00</guid>
-      <pubDate>Sun, 04 Jan 2026 12:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:39 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-01-04 06:39:00</guid>
-      <pubDate>Sun, 04 Jan 2026 06:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:27 am</title>
-      <description>OAK ORCHARD RD / SAMS CREEK RD Radio: 9B Units: A179</description>
-      <guid isPermaLink="false">2026-01-04 01:27:00</guid>
-      <pubDate>Sun, 04 Jan 2026 01:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:20 am</title>
-      <description>OAK ORCHARD RD / SAMS CREEK RD Radio: 9B Units: RE171</description>
-      <guid isPermaLink="false">2026-01-04 01:20:00</guid>
-      <pubDate>Sun, 04 Jan 2026 01:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
