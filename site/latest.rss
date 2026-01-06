@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 08:03:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:42:19 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:10 am</title>
+      <description>900 BLOCK W PATRICK ST, RED HORSE STEAK HOUSE Radio: 9I Units: E82</description>
+      <guid isPermaLink="false">2026-01-06 03:10:00</guid>
+      <pubDate>Tue, 06 Jan 2026 03:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:03 am</title>
+      <description>900 BLOCK W PATRICK ST, RED HORSE STEAK HOUSE Radio: 9I Units: 2ND, E291, E331, E201, E231, E281, R15, R2, R19, CAN1, TT23</description>
+      <guid isPermaLink="false">2026-01-06 03:03:00</guid>
+      <pubDate>Tue, 06 Jan 2026 03:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 2:55 am</title>
       <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: RID2, E111, R20, A37, EMS901, W1</description>
@@ -294,18 +306,6 @@
       <description>HATTERY FARM CT / HARRISVILLE RD Units: BR176</description>
       <guid isPermaLink="false">2026-01-04 14:53:00</guid>
       <pubDate>Sun, 04 Jan 2026 14:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:51 pm</title>
-      <description>12600 BLOCK MOLESWORTH DR Radio: 9D Units: E251, E152, E331, E231, E172, R15, K33, K23, A259, ALS23, BC902, BC901, SAF901, TT23</description>
-      <guid isPermaLink="false">2026-01-04 13:51:00</guid>
-      <pubDate>Sun, 04 Jan 2026 13:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:04 pm</title>
-      <description>5200 BLOCK DUKE CT Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2026-01-04 13:04:00</guid>
-      <pubDate>Sun, 04 Jan 2026 13:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
