@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Jan 2026 23:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 00:07:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:04 pm</title>
+      <description>5700 BLOCK HALLER PL Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-01-06 19:04:00</guid>
+      <pubDate>Tue, 06 Jan 2026 19:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 6:38 pm</title>
+      <description>8700 BLOCK YELLOW SPRINGS RD, YELLOW SPRINGS ELEMENTARY SCHOOL Radio: 9C Units: E11, E291, R2, K1</description>
+      <guid isPermaLink="false">2026-01-06 18:38:00</guid>
+      <pubDate>Tue, 06 Jan 2026 18:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:00 pm</title>
       <description>2800 BLOCK IVY MEADOW CT Radio: 9C Units: E231</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Units: T4, E11</description>
       <guid isPermaLink="false">2026-01-05 08:11:00</guid>
       <pubDate>Mon, 05 Jan 2026 08:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:48 am</title>
-      <description>RT15SB / W PATRICK ST(RT40), RT15SB / W PATRICK ST Units: E11, E31, R2, A19, A37</description>
-      <guid isPermaLink="false">2026-01-05 07:48:00</guid>
-      <pubDate>Mon, 05 Jan 2026 07:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:08 am</title>
-      <description>I270SB / RT85, I270SB / RT85 Units: E11, E231, R2, A18, A238, ALS31, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-01-05 07:08:00</guid>
-      <pubDate>Mon, 05 Jan 2026 07:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
