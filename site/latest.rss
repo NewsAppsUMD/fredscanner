@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Jan 2026 02:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 03:30:06 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:48 pm</title>
+      <description>7700 BLOCK RODDY CREEK RD, RODDY CREEK AUTOMOTIVE Radio: 91D Units: RID, PE23, A69, ACE232, EMS902, W10</description>
+      <guid isPermaLink="false">2026-01-06 21:48:00</guid>
+      <pubDate>Tue, 06 Jan 2026 21:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:40 pm</title>
+      <description>7700 BLOCK RODDY CREEK RD, RODDY CREEK AUTOMOTIVE Radio: 91D Units: PE102, E61, E132, E161, E91, E291, R10, TW6, Q11, K10, EK64, EK224, A307, ALS30, E221, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-01-06 21:40:00</guid>
+      <pubDate>Tue, 06 Jan 2026 21:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:04 pm</title>
       <description>5700 BLOCK HALLER PL Radio: 9C Units: E331</description>
@@ -294,18 +306,6 @@
       <description>6400 BLOCK SPRING FOREST RD Units: E331</description>
       <guid isPermaLink="false">2026-01-05 09:01:00</guid>
       <pubDate>Mon, 05 Jan 2026 09:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:16 am</title>
-      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Units: PE311</description>
-      <guid isPermaLink="false">2026-01-05 08:16:00</guid>
-      <pubDate>Mon, 05 Jan 2026 08:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:11 am</title>
-      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Units: T4, E11</description>
-      <guid isPermaLink="false">2026-01-05 08:11:00</guid>
-      <pubDate>Mon, 05 Jan 2026 08:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
