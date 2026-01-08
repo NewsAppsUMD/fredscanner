@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 01:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 02:37:00 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:22 pm</title>
+      <description>RECORD ST / COUNCIL ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-01-07 21:22:00</guid>
+      <pubDate>Wed, 07 Jan 2026 21:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:10 pm</title>
+      <description>3100 BLOCK FLINT HILL RD Units: K23</description>
+      <guid isPermaLink="false">2026-01-07 21:10:00</guid>
+      <pubDate>Wed, 07 Jan 2026 21:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 8:58 pm</title>
+      <description>FLINT HILL RD / MONOCACY BOTTOM RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-01-07 20:58:00</guid>
+      <pubDate>Wed, 07 Jan 2026 20:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CO DET SOUNDING: 8:40 pm</title>
+      <description>500 BLOCK PRIMUS CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-01-07 20:40:00</guid>
+      <pubDate>Wed, 07 Jan 2026 20:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:32 pm</title>
       <description>DAYSVILLE RD / OAK TREE CIR Radio: 9I Units: E161, R2, A299, ALS17, EMS901</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
       <guid isPermaLink="false">2026-01-06 01:50:00</guid>
       <pubDate>Tue, 06 Jan 2026 01:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:21 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: A319</description>
-      <guid isPermaLink="false">2026-01-06 01:21:00</guid>
-      <pubDate>Tue, 06 Jan 2026 01:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:12 am</title>
-      <description>100 BLOCK N CHURCH ST, STATION 30 Units: A19</description>
-      <guid isPermaLink="false">2026-01-06 01:12:00</guid>
-      <pubDate>Tue, 06 Jan 2026 01:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:12 am</title>
-      <description>100 BLOCK N CHURCH ST, STATION 10 Units: K33</description>
-      <guid isPermaLink="false">2026-01-06 01:12:00</guid>
-      <pubDate>Tue, 06 Jan 2026 01:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:12 am</title>
-      <description>13500 BLOCK MOTTERS STATION RD, STATION 13 Units: E152</description>
-      <guid isPermaLink="false">2026-01-06 01:12:00</guid>
-      <pubDate>Tue, 06 Jan 2026 01:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
