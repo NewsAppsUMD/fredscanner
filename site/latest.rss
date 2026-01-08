@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 11:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 12:03:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>100 BLOCK BERNARD ST Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2026-01-08 06:46:00</guid>
+      <pubDate>Thu, 08 Jan 2026 06:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:45 am</title>
+      <description>300 BLOCK VIOLET CT Units: TT23</description>
+      <guid isPermaLink="false">2026-01-08 06:45:00</guid>
+      <pubDate>Thu, 08 Jan 2026 06:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:43 am</title>
+      <description>300 BLOCK VIOLET CT Units: R15</description>
+      <guid isPermaLink="false">2026-01-08 06:43:00</guid>
+      <pubDate>Thu, 08 Jan 2026 06:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:39 am</title>
+      <description>300 BLOCK VIOLET CT Units: E152, E251</description>
+      <guid isPermaLink="false">2026-01-08 06:39:00</guid>
+      <pubDate>Thu, 08 Jan 2026 06:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 12:11 am</title>
       <description>100 BLOCK W MOSER RD, MOSER MANOR APTS Radio: 9C Units: E61</description>
@@ -282,30 +306,6 @@
       <description>900 BLOCK W PATRICK ST, RED HORSE STEAK HOUSE Radio: 9I Units: E82</description>
       <guid isPermaLink="false">2026-01-06 03:10:00</guid>
       <pubDate>Tue, 06 Jan 2026 03:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:03 am</title>
-      <description>900 BLOCK W PATRICK ST, RED HORSE STEAK HOUSE Radio: 9I Units: 2ND, E291, E331, E201, E231, E281, R15, R2, R19, CAN1, TT23</description>
-      <guid isPermaLink="false">2026-01-06 03:03:00</guid>
-      <pubDate>Tue, 06 Jan 2026 03:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:55 am</title>
-      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: RID2, E111, R20, A37, EMS901, W1</description>
-      <guid isPermaLink="false">2026-01-06 02:55:00</guid>
-      <pubDate>Tue, 06 Jan 2026 02:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:53 am</title>
-      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: BC900</description>
-      <guid isPermaLink="false">2026-01-06 02:53:00</guid>
-      <pubDate>Tue, 06 Jan 2026 02:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:51 am</title>
-      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Radio: 9I Units: E11, E31, E501, E311, E121, R3, T4, TW7, A18, ALS2, BC904, SAF900</description>
-      <guid isPermaLink="false">2026-01-06 02:51:00</guid>
-      <pubDate>Tue, 06 Jan 2026 02:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
