@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 03:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 04:16:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:42 pm</title>
+      <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: E121, E72, R8, A129, A89, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-01-08 22:42:00</guid>
+      <pubDate>Thu, 08 Jan 2026 22:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:20 pm</title>
       <description>S CHURCH ST / FRANKLIN ST Radio: 9B Units: A79, RE74, ALS8</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RT75, I70EB / RT75 Radio: 9B Units: E331, R15, A159, A259, E231</description>
       <guid isPermaLink="false">2026-01-07 08:18:00</guid>
       <pubDate>Wed, 07 Jan 2026 08:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:10 am</title>
-      <description>I70EB / RT40A (BRADDOCK), I70EB / RT40A Radio: 9B Units: RE74</description>
-      <guid isPermaLink="false">2026-01-07 08:10:00</guid>
-      <pubDate>Wed, 07 Jan 2026 08:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
