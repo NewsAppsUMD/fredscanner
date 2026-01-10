@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 23:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 00:08:42 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:59 pm</title>
+      <description>100 BLOCK E SOUTH ST, Apt/Unit:202 Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-01-09 18:59:00</guid>
+      <pubDate>Fri, 09 Jan 2026 18:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:34 pm</title>
+      <description>6800 BLOCK LAKE POINT OVERLOOK Radio: 9B Units: A159, E152</description>
+      <guid isPermaLink="false">2026-01-09 18:34:00</guid>
+      <pubDate>Fri, 09 Jan 2026 18:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:32 pm</title>
+      <description>URBANA PIKE / BALL RD Radio: 9B Units: EMS901</description>
+      <guid isPermaLink="false">2026-01-09 18:32:00</guid>
+      <pubDate>Fri, 09 Jan 2026 18:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:30 pm</title>
       <description>URBANA PIKE / BALL RD Radio: 9B Units: ALS23</description>
@@ -288,24 +306,6 @@
       <description>DAYSVILLE RD / OAK TREE CIR Radio: 9I Units: E161, R2, A299, ALS17, EMS901</description>
       <guid isPermaLink="false">2026-01-07 18:32:00</guid>
       <pubDate>Wed, 07 Jan 2026 18:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:31 pm</title>
-      <description>DAYSVILLE RD / OAK TREE CIR Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-01-07 18:31:00</guid>
-      <pubDate>Wed, 07 Jan 2026 18:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
-      <description>I270NB / RT85, I270NB / RT85 Radio: 9B Units: PE311, E11, R3, A318, A19, TT23</description>
-      <guid isPermaLink="false">2026-01-07 18:11:00</guid>
-      <pubDate>Wed, 07 Jan 2026 18:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:03 pm</title>
-      <description>100 BLOCK S MAPLE AVE(P), THE RESIDENCES AT RAILROAD SQUARE Radio: 9C Units: PE52, TW7</description>
-      <guid isPermaLink="false">2026-01-07 18:03:00</guid>
-      <pubDate>Wed, 07 Jan 2026 18:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
