@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 07:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 07:33:32 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:27 am</title>
+      <description>500 BLOCK STONE SPRINGS LN Units: E72, E121, E201, E82, E31, R20, TW7, TW1, A79, ALS20, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-01-10 02:27:00</guid>
+      <pubDate>Sat, 10 Jan 2026 02:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:00 am</title>
       <description>W PATRICK ST / W COLLEGE TER Radio: 9C Units: E31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BAUGHMANS LN, FIRST UNITED BANK - BAUGHMANS LN - FREDERICK Radio: 9B Units: ALS2</description>
       <guid isPermaLink="false">2026-01-08 10:26:00</guid>
       <pubDate>Thu, 08 Jan 2026 10:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:18 am</title>
-      <description>100 BLOCK BAUGHMANS LN, FIRST UNITED BANK - BAUGHMANS LN - FREDERICK Radio: 9B Units: A37, E11</description>
-      <guid isPermaLink="false">2026-01-08 10:18:00</guid>
-      <pubDate>Thu, 08 Jan 2026 10:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
