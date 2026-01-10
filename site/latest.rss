@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Jan 2026 19:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 20:35:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:19 pm</title>
+      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231, A238</description>
+      <guid isPermaLink="false">2026-01-10 15:19:00</guid>
+      <pubDate>Sat, 10 Jan 2026 15:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 3:17 pm</title>
+      <description>HARBAUGH VALLEY RD / SUNSHINE TRL Units: BR65</description>
+      <guid isPermaLink="false">2026-01-10 15:17:00</guid>
+      <pubDate>Sat, 10 Jan 2026 15:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:06 pm</title>
+      <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Radio: 9B Units: E331, E31, R3, A339, A318</description>
+      <guid isPermaLink="false">2026-01-10 15:06:00</guid>
+      <pubDate>Sat, 10 Jan 2026 15:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:41 pm</title>
+      <description>LIBERTY RD / MONOCACY BLVD Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2026-01-10 14:41:00</guid>
+      <pubDate>Sat, 10 Jan 2026 14:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:17 pm</title>
       <description>6600 BLOCK MANOR WOODS RD, ACROSS FROM Radio: 9B Units: A149, R14</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK COUNCIL DR Units: E161</description>
       <guid isPermaLink="false">2026-01-08 19:19:00</guid>
       <pubDate>Thu, 08 Jan 2026 19:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:19 pm</title>
-      <description>100 BLOCK COUNCIL DR Units: E161</description>
-      <guid isPermaLink="false">2026-01-08 19:19:00</guid>
-      <pubDate>Thu, 08 Jan 2026 19:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:16 pm</title>
-      <description>E THIRD ST / N EAST ST Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-01-08 19:16:00</guid>
-      <pubDate>Thu, 08 Jan 2026 19:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:58 pm</title>
-      <description>6400 BLOCK JEFFERSON PIKE, TRANQUILITY AT FREDERICKTOWNE Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2026-01-08 18:58:00</guid>
-      <pubDate>Thu, 08 Jan 2026 18:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:57 pm</title>
-      <description>900 BLOCK PINE AVE Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-01-08 18:57:00</guid>
-      <pubDate>Thu, 08 Jan 2026 18:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
