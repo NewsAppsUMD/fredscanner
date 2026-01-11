@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 21:02:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 22:02:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:47 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-01-11 16:47:00</guid>
+      <pubDate>Sun, 11 Jan 2026 16:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:29 pm</title>
+      <description>6900 BLOCK GOLDEN VALLEY CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-01-11 16:29:00</guid>
+      <pubDate>Sun, 11 Jan 2026 16:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 1:59 pm</title>
       <description>100 BLOCK JENNIFER LYNNE DR Radio: 9C Units: PE52, E281, R19</description>
@@ -294,18 +306,6 @@
       <description>N EAST ST / E FOURTEENTH ST, KREITZ AUTO REPAIR &amp; SALES Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-01-09 19:12:00</guid>
       <pubDate>Fri, 09 Jan 2026 19:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:10 pm</title>
-      <description>200 BLOCK E FOURTH ST, CAFE BUENO Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-01-09 19:10:00</guid>
-      <pubDate>Fri, 09 Jan 2026 19:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:59 pm</title>
-      <description>100 BLOCK E SOUTH ST, Apt/Unit:202 Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-01-09 18:59:00</guid>
-      <pubDate>Fri, 09 Jan 2026 18:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
