@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 10:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 11:02:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:53 am</title>
+      <description>RT15 / BASFORD RD, RT15 / BASFORD RD Radio: 9B Units: A149, E281</description>
+      <guid isPermaLink="false">2026-01-11 05:53:00</guid>
+      <pubDate>Sun, 11 Jan 2026 05:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:48 am</title>
       <description>6000 BLOCK MARGARITA WAY Radio: 9C Units: E11, T4</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK N EAST ST, KREITZ AUTO REPAIR &amp; SALES Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-01-09 17:39:00</guid>
       <pubDate>Fri, 09 Jan 2026 17:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:06 pm</title>
-      <description>10500 BLOCK STULL RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-01-09 16:06:00</guid>
-      <pubDate>Fri, 09 Jan 2026 16:06:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
