@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 05:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 06:03:28 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:51 am</title>
+      <description>8400 BLOCK GAS HOUSE PIKE, SILVERADO FREDERICK MEMORY CARE COMMUNITY Radio: 9C Units: PE23, Q11</description>
+      <guid isPermaLink="false">2026-01-11 00:51:00</guid>
+      <pubDate>Sun, 11 Jan 2026 00:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:49 am</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 91D Units: E31, PE311, R3, A38, A18, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-01-11 00:49:00</guid>
+      <pubDate>Sun, 11 Jan 2026 00:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:24 pm</title>
       <description>100 BLOCK W ORNDORFF DR Units: E52</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK S JEFFERSON ST, CALVARY CHAPEL FREDERICK Radio: 9C Units: E31, T4</description>
       <guid isPermaLink="false">2026-01-09 13:07:00</guid>
       <pubDate>Fri, 09 Jan 2026 13:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:24 am</title>
-      <description>I70EB / MUSSETTER RD, IAO Radio: 9C Units: E331, E152</description>
-      <guid isPermaLink="false">2026-01-09 11:24:00</guid>
-      <pubDate>Fri, 09 Jan 2026 11:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 10:21 am</title>
-      <description>8600 BLOCK MYERSVILLE RD, IAO Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-01-09 10:21:00</guid>
-      <pubDate>Fri, 09 Jan 2026 10:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
