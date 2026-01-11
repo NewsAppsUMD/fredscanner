@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Jan 2026 01:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 02:45:05 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:24 pm</title>
+      <description>100 BLOCK W ORNDORFF DR Units: E52</description>
+      <guid isPermaLink="false">2026-01-10 21:24:00</guid>
+      <pubDate>Sat, 10 Jan 2026 21:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:21 pm</title>
+      <description>1200 BLOCK OAK VIEW DR Units: E152</description>
+      <guid isPermaLink="false">2026-01-10 21:21:00</guid>
+      <pubDate>Sat, 10 Jan 2026 21:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:13 pm</title>
+      <description>FOXVILLE RD / HERMAN HAUVER RD Units: A307, PE102, E212</description>
+      <guid isPermaLink="false">2026-01-10 21:13:00</guid>
+      <pubDate>Sat, 10 Jan 2026 21:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:33 pm</title>
       <description>BALTIMORE NATIONAL PIKE PIKE / HARMONY RD Units: A89, E82</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK MYERSVILLE RD, IAO Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2026-01-09 10:21:00</guid>
       <pubDate>Fri, 09 Jan 2026 10:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:38 am</title>
-      <description>9300 BLOCK SORREL LN Units: TT23</description>
-      <guid isPermaLink="false">2026-01-09 08:38:00</guid>
-      <pubDate>Fri, 09 Jan 2026 08:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:38 am</title>
-      <description>9300 BLOCK SORREL LN Units: TT23</description>
-      <guid isPermaLink="false">2026-01-09 08:38:00</guid>
-      <pubDate>Fri, 09 Jan 2026 08:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 5:20 am</title>
-      <description>1300 BLOCK BUTTERFLY LN Radio: 9C Units: E11, PE311, T4</description>
-      <guid isPermaLink="false">2026-01-09 05:20:00</guid>
-      <pubDate>Fri, 09 Jan 2026 05:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
