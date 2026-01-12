@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 14:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 14:40:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:33 am</title>
+      <description>W CRUM RD / CRUM RD Radio: 9D Units: E111, R3, A249, ALS29, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-01-12 09:33:00</guid>
+      <pubDate>Mon, 12 Jan 2026 09:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:34 am</title>
       <description>100 BLOCK E ALL SAINTS ST(P), FCPD HQ'S (P) Radio: 9C Units: E31, T4</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK CLARKSBURG SQUARE RD Radio: 7A4 Units: E231</description>
       <guid isPermaLink="false">2026-01-10 10:17:00</guid>
       <pubDate>Sat, 10 Jan 2026 10:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:38 am</title>
-      <description>8500 BLOCK PROGRESS DR Radio: 9C Units: E111, T4</description>
-      <guid isPermaLink="false">2026-01-10 09:38:00</guid>
-      <pubDate>Sat, 10 Jan 2026 09:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
