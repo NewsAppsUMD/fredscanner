@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 06:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 06:43:29 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:31 am</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: EK64</description>
+      <guid isPermaLink="false">2026-01-12 01:31:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:26 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
+      <guid isPermaLink="false">2026-01-12 01:26:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:22 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38</description>
+      <guid isPermaLink="false">2026-01-12 01:22:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:21 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: PE102</description>
+      <guid isPermaLink="false">2026-01-12 01:21:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:14 am</title>
+      <description>HARRISVILLE RD / TALBOT RUN RD Units: RID, E331, A179, EMS901</description>
+      <guid isPermaLink="false">2026-01-12 01:14:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:12 am</title>
+      <description>HARRISVILLE RD / TALBOT RUN RD Units: TTF, W17, E251</description>
+      <guid isPermaLink="false">2026-01-12 01:12:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:10 am</title>
+      <description>HARRISVILLE RD / TALBOT RUN RD Units: K33</description>
+      <guid isPermaLink="false">2026-01-12 01:10:00</guid>
+      <pubDate>Mon, 12 Jan 2026 01:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:01 am</title>
       <description>HARRISVILLE RD / TALBOT RUN RD Units: E172, E152, E161, R15, Q11, K17, BC901, BC902, SAF901, CCK1, CCK14</description>
@@ -264,48 +306,6 @@
       <description>500 BLOCK STONE SPRINGS LN Units: R20, TW7</description>
       <guid isPermaLink="false">2026-01-10 02:32:00</guid>
       <pubDate>Sat, 10 Jan 2026 02:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:32 am</title>
-      <description>500 BLOCK STONE SPRINGS LN Units: R3, T4</description>
-      <guid isPermaLink="false">2026-01-10 02:32:00</guid>
-      <pubDate>Sat, 10 Jan 2026 02:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:27 am</title>
-      <description>500 BLOCK STONE SPRINGS LN Units: E72, E121, E201, E82, E31, R20, TW7, TW1, A79, ALS20, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-01-10 02:27:00</guid>
-      <pubDate>Sat, 10 Jan 2026 02:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:00 am</title>
-      <description>W PATRICK ST / W COLLEGE TER Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-01-10 00:00:00</guid>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:54 pm</title>
-      <description>WILLOWDALE DR / W PATRICK ST Radio: 9B Units: A38</description>
-      <guid isPermaLink="false">2026-01-09 23:54:00</guid>
-      <pubDate>Fri, 09 Jan 2026 23:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:44 pm</title>
-      <description>WILLOWDALE DR / W PATRICK ST Radio: 9B Units: A37, ALS2</description>
-      <guid isPermaLink="false">2026-01-09 23:44:00</guid>
-      <pubDate>Fri, 09 Jan 2026 23:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:41 pm</title>
-      <description>WILLOWDALE DR / W PATRICK ST Radio: 9B Units: R3, ALS4, EMS902</description>
-      <guid isPermaLink="false">2026-01-09 23:41:00</guid>
-      <pubDate>Fri, 09 Jan 2026 23:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:38 pm</title>
-      <description>WILLOWDALE DR / W PATRICK ST Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-01-09 23:38:00</guid>
-      <pubDate>Fri, 09 Jan 2026 23:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
