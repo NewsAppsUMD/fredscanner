@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Jan 2026 22:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:02:19 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 5:51 pm</title>
+      <description>3400 BLOCK SUNSET RIDGE DR Radio: 9C Units: E231, E251, TT23</description>
+      <guid isPermaLink="false">2026-01-12 17:51:00</guid>
+      <pubDate>Mon, 12 Jan 2026 17:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:09 pm</title>
       <description>I270SB / RT80(RT80), I270SB / RT80 Units: A238, TT23</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK MANOR WOODS RD, ACROSS FROM Radio: 9B Units: A149, R14</description>
       <guid isPermaLink="false">2026-01-10 14:17:00</guid>
       <pubDate>Sat, 10 Jan 2026 14:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 12:08 pm</title>
-      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:21, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Units: A19, EMS902</description>
-      <guid isPermaLink="false">2026-01-10 12:08:00</guid>
-      <pubDate>Sat, 10 Jan 2026 12:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
