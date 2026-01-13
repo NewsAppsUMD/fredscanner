@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 12:44:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 13:15:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:05 am</title>
+      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: A259</description>
+      <guid isPermaLink="false">2026-01-13 08:05:00</guid>
+      <pubDate>Tue, 13 Jan 2026 08:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:02 am</title>
+      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: A159, E153</description>
+      <guid isPermaLink="false">2026-01-13 08:02:00</guid>
+      <pubDate>Tue, 13 Jan 2026 08:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:20 am</title>
       <description>100 BLOCK E ALL SAINTS ST, FPD HQ'S Units: E31</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK WATERSIDE DR, Apt/Unit:A308 Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2026-01-11 04:48:00</guid>
       <pubDate>Sun, 11 Jan 2026 04:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:51 am</title>
-      <description>8400 BLOCK GAS HOUSE PIKE, SILVERADO FREDERICK MEMORY CARE COMMUNITY Radio: 9C Units: PE23, Q11</description>
-      <guid isPermaLink="false">2026-01-11 00:51:00</guid>
-      <pubDate>Sun, 11 Jan 2026 00:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:49 am</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 91D Units: E31, PE311, R3, A38, A18, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-01-11 00:49:00</guid>
-      <pubDate>Sun, 11 Jan 2026 00:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
