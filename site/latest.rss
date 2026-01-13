@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 05:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 05:39:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:20 am</title>
+      <description>100 BLOCK E ALL SAINTS ST, FPD HQ'S Units: E31</description>
+      <guid isPermaLink="false">2026-01-13 00:20:00</guid>
+      <pubDate>Tue, 13 Jan 2026 00:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 12:17 am</title>
+      <description>1300 BLOCK HAMPSHIRE DR Units: E11, E501</description>
+      <guid isPermaLink="false">2026-01-13 00:17:00</guid>
+      <pubDate>Tue, 13 Jan 2026 00:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:46 pm</title>
       <description>FINGERBOARD RD / WHISKEY RD Radio: 9B Units: ALS23, EMS901</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 91D Units: E31, PE311, R3, A38, A18, ALS4, BC901, EMS901</description>
       <guid isPermaLink="false">2026-01-11 00:49:00</guid>
       <pubDate>Sun, 11 Jan 2026 00:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:24 pm</title>
-      <description>100 BLOCK W ORNDORFF DR Units: E52</description>
-      <guid isPermaLink="false">2026-01-10 21:24:00</guid>
-      <pubDate>Sat, 10 Jan 2026 21:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:21 pm</title>
-      <description>1200 BLOCK OAK VIEW DR Units: E152</description>
-      <guid isPermaLink="false">2026-01-10 21:21:00</guid>
-      <pubDate>Sat, 10 Jan 2026 21:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
