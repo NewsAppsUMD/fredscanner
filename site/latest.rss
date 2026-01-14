@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 12:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 13:15:17 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:11 am</title>
+      <description>2400 BLOCK GRAYSTONE LN Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-01-14 08:11:00</guid>
+      <pubDate>Wed, 14 Jan 2026 08:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:17 am</title>
       <description>DANCE HALL RD / GAS HOUSE PIKE Radio: 9B Units: A249, E111</description>
@@ -300,12 +306,6 @@
       <description>RT340EB / RT180 (FREDERICK), RT340EB / RT180 Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2026-01-12 06:53:00</guid>
       <pubDate>Mon, 12 Jan 2026 06:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:31 am</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: EK64</description>
-      <guid isPermaLink="false">2026-01-12 01:31:00</guid>
-      <pubDate>Mon, 12 Jan 2026 01:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
