@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 00:47:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 01:30:40 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 8:22 pm</title>
+      <description>7400 BLOCK DANCE HALL RD, TRO Units: BR116</description>
+      <guid isPermaLink="false">2026-01-13 20:22:00</guid>
+      <pubDate>Tue, 13 Jan 2026 20:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:25 pm</title>
       <description>1000 BLOCK ROSEMONT AVE Units: A18, ALS2, E11, EMS902</description>
@@ -300,12 +306,6 @@
       <description>HARRISVILLE RD / TALBOT RUN RD Units: RID, E331, A179, EMS901</description>
       <guid isPermaLink="false">2026-01-12 01:14:00</guid>
       <pubDate>Mon, 12 Jan 2026 01:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:12 am</title>
-      <description>HARRISVILLE RD / TALBOT RUN RD Units: TTF, W17, E251</description>
-      <guid isPermaLink="false">2026-01-12 01:12:00</guid>
-      <pubDate>Mon, 12 Jan 2026 01:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
