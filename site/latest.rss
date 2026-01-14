@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 18:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 18:43:04 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 1:35 pm</title>
+      <description>1100 BLOCK W SEVENTH ST, MAX KEHNE MEMORIAL PARK Radio: 9D Units: PE23</description>
+      <guid isPermaLink="false">2026-01-14 13:35:00</guid>
+      <pubDate>Wed, 14 Jan 2026 13:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 11:58 am</title>
       <description>100 BLOCK E SECOND ST Radio: 9C Units: E31, PE23, R3</description>
@@ -300,12 +306,6 @@
       <description>RT194 / CRUM RD, RT194 / CRUM RD Radio: 9D Units: A169</description>
       <guid isPermaLink="false">2026-01-12 09:38:00</guid>
       <pubDate>Mon, 12 Jan 2026 09:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:33 am</title>
-      <description>W CRUM RD / CRUM RD Radio: 9D Units: E111, R3, A249, ALS29, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-01-12 09:33:00</guid>
-      <pubDate>Mon, 12 Jan 2026 09:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
