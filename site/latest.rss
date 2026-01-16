@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 18:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 19:03:38 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:55 pm</title>
+      <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-01-16 13:55:00</guid>
+      <pubDate>Fri, 16 Jan 2026 13:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
       <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK BALTIMORE NATIONAL PIKE PIKE, RT40 / GAMBRILL PARK RD Radio: 9B Units: A129, E121</description>
       <guid isPermaLink="false">2026-01-13 17:42:00</guid>
       <pubDate>Tue, 13 Jan 2026 17:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:47 pm</title>
-      <description>I270SB / RT85(RT85) Units: E11, E231</description>
-      <guid isPermaLink="false">2026-01-13 16:47:00</guid>
-      <pubDate>Tue, 13 Jan 2026 16:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
