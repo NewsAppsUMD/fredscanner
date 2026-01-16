@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 19:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 19:32:12 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 2:21 pm</title>
+      <description>6100 BLOCK YEAGER CT Units: E153, E331, R3</description>
+      <guid isPermaLink="false">2026-01-16 14:21:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:19 pm</title>
+      <description>5700 BLOCK MOUNTVILLE RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-01-16 14:19:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:16 pm</title>
+      <description>12700 BLOCK WASHINGTON TOWNSHIP BLVD, WALMART Units: TW6</description>
+      <guid isPermaLink="false">2026-01-16 14:16:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:00 pm</title>
+      <description>40900 BLOCK FLYING ACE LN FLYING ACE FARM BREWERY &amp; DISTILLERY, FLYING ACE FARM BREWERY &amp; DISTILLERY Radio: 6B Units: E281, BR285</description>
+      <guid isPermaLink="false">2026-01-16 14:00:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 1:55 pm</title>
       <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23</description>
@@ -282,30 +306,6 @@
       <description>16000 BLOCK SAINT ANTHONY RD Units: E61, PE102, E132, TW6, EK64, A69, BR65, BC902, SAF901</description>
       <guid isPermaLink="false">2026-01-13 19:19:00</guid>
       <pubDate>Tue, 13 Jan 2026 19:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:11 pm</title>
-      <description>2500 BLOCK DRIFTWOOD CT, ECHO GLEN CONDOS - 2500 BLOCK DRIFTWOOD CT Units: E11</description>
-      <guid isPermaLink="false">2026-01-13 19:11:00</guid>
-      <pubDate>Tue, 13 Jan 2026 19:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 6:00 pm</title>
-      <description>1800 BLOCK LATHAM DR, LATTERDAY SAINTS CHURCH Units: E111</description>
-      <guid isPermaLink="false">2026-01-13 18:00:00</guid>
-      <pubDate>Tue, 13 Jan 2026 18:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:58 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-01-13 17:58:00</guid>
-      <pubDate>Tue, 13 Jan 2026 17:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:42 pm</title>
-      <description>7200 BLOCK BALTIMORE NATIONAL PIKE PIKE, RT40 / GAMBRILL PARK RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-01-13 17:42:00</guid>
-      <pubDate>Tue, 13 Jan 2026 17:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
