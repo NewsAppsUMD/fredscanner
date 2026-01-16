@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 20:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 20:35:22 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 3:25 pm</title>
+      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Units: E31</description>
+      <guid isPermaLink="false">2026-01-16 15:25:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 3:21 pm</title>
+      <description>EXECUTIVE WAY / INTERNATIONAL BLVD Units: R14</description>
+      <guid isPermaLink="false">2026-01-16 15:21:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:09 pm</title>
+      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-01-16 15:09:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
+      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: A37, ALS2</description>
+      <guid isPermaLink="false">2026-01-16 15:08:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:05 pm</title>
+      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: PE311, R3, A318, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-01-16 15:05:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:00 pm</title>
+      <description>8500 BLOCK BLACKS MILL RD Units: E161</description>
+      <guid isPermaLink="false">2026-01-16 15:00:00</guid>
+      <pubDate>Fri, 16 Jan 2026 15:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 2:44 pm</title>
       <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: PE23, E31, E501, E291, R3, A18, ALS2, BC902, BC901, SAF901</description>
@@ -270,42 +306,6 @@
       <description>8200 BLOCK BLACK HAW CT Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-01-14 10:14:00</guid>
       <pubDate>Wed, 14 Jan 2026 10:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:11 am</title>
-      <description>2400 BLOCK GRAYSTONE LN Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-01-14 08:11:00</guid>
-      <pubDate>Wed, 14 Jan 2026 08:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:17 am</title>
-      <description>DANCE HALL RD / GAS HOUSE PIKE Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2026-01-14 07:17:00</guid>
-      <pubDate>Wed, 14 Jan 2026 07:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:43 am</title>
-      <description>1300 BLOCK W SEVENTH ST, COLLEGE ESTATES POST OFFICE Radio: 9B Units: A28, E501</description>
-      <guid isPermaLink="false">2026-01-14 03:43:00</guid>
-      <pubDate>Wed, 14 Jan 2026 03:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:22 am</title>
-      <description>10100 BLOCK PUTMAN RD Radio: 9C Units: K1</description>
-      <guid isPermaLink="false">2026-01-14 01:22:00</guid>
-      <pubDate>Wed, 14 Jan 2026 01:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:17 am</title>
-      <description>10100 BLOCK PUTMAN RD Radio: 9C Units: E291, PE102, T1, EK224, E221</description>
-      <guid isPermaLink="false">2026-01-14 01:17:00</guid>
-      <pubDate>Wed, 14 Jan 2026 01:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 8:22 pm</title>
-      <description>7400 BLOCK DANCE HALL RD, TRO Units: BR116</description>
-      <guid isPermaLink="false">2026-01-13 20:22:00</guid>
-      <pubDate>Tue, 13 Jan 2026 20:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
