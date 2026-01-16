@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 06:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:43:06 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:28 am</title>
+      <description>9600 BLOCK WOODSBORO RD, PH2 Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2026-01-16 01:28:00</guid>
+      <pubDate>Fri, 16 Jan 2026 01:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 11:13 pm</title>
       <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: E72</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK BROWN RD Units: T5, R20</description>
       <guid isPermaLink="false">2026-01-13 09:29:00</guid>
       <pubDate>Tue, 13 Jan 2026 09:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:18 am</title>
-      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: ALS17</description>
-      <guid isPermaLink="false">2026-01-13 08:18:00</guid>
-      <pubDate>Tue, 13 Jan 2026 08:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
