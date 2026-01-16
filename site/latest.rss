@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 19:32:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 20:02:19 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:44 pm</title>
+      <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: PE23, E31, E501, E291, R3, A18, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-01-16 14:44:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:39 pm</title>
+      <description>1000 BLOCK CARROLL PKWY, BROOKLAWN APTS - 1000 BLOCK CARROLL PKWY Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-01-16 14:39:00</guid>
+      <pubDate>Fri, 16 Jan 2026 14:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 2:21 pm</title>
       <description>6100 BLOCK YEAGER CT Units: E153, E331, R3</description>
@@ -294,18 +306,6 @@
       <description>7400 BLOCK DANCE HALL RD, TRO Units: BR116</description>
       <guid isPermaLink="false">2026-01-13 20:22:00</guid>
       <pubDate>Tue, 13 Jan 2026 20:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:25 pm</title>
-      <description>1000 BLOCK ROSEMONT AVE Units: A18, ALS2, E11, EMS902</description>
-      <guid isPermaLink="false">2026-01-13 19:25:00</guid>
-      <pubDate>Tue, 13 Jan 2026 19:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 7:19 pm</title>
-      <description>16000 BLOCK SAINT ANTHONY RD Units: E61, PE102, E132, TW6, EK64, A69, BR65, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-01-13 19:19:00</guid>
-      <pubDate>Tue, 13 Jan 2026 19:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
