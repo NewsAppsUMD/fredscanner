@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Jan 2026 23:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:08:35 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:52 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: ACE232</description>
+      <guid isPermaLink="false">2026-01-16 18:52:00</guid>
+      <pubDate>Fri, 16 Jan 2026 18:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 6:40 pm</title>
+      <description>17000 BLOCK BOLLINGER SCHOOL RD Radio: 9D Units: ACE11, E91</description>
+      <guid isPermaLink="false">2026-01-16 18:40:00</guid>
+      <pubDate>Fri, 16 Jan 2026 18:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 6:31 pm</title>
+      <description>17000 BLOCK BOLLINGER SCHOOL RD Radio: 9D Units: E61, E102, E132, R10, TW6, EK64, A69, ACE232, BC902, BC903, SAF900</description>
+      <guid isPermaLink="false">2026-01-16 18:31:00</guid>
+      <pubDate>Fri, 16 Jan 2026 18:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:49 pm</title>
       <description>LOWES LN / URBANA PIKE Radio: 9B Units: A37, R3</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK ADAMSTOWN RD Radio: 9B Units: A149, R14</description>
       <guid isPermaLink="false">2026-01-14 16:17:00</guid>
       <pubDate>Wed, 14 Jan 2026 16:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 3:14 pm</title>
-      <description>1600 BLOCK NELSON ST, Apt/Unit:MAIN_ENTR, FT DIETRICK Radio: 9C Units: E501, E11</description>
-      <guid isPermaLink="false">2026-01-14 15:14:00</guid>
-      <pubDate>Wed, 14 Jan 2026 15:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 1:35 pm</title>
-      <description>1100 BLOCK W SEVENTH ST, MAX KEHNE MEMORIAL PARK Radio: 9D Units: PE23</description>
-      <guid isPermaLink="false">2026-01-14 13:35:00</guid>
-      <pubDate>Wed, 14 Jan 2026 13:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:58 am</title>
-      <description>100 BLOCK E SECOND ST Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-01-14 11:58:00</guid>
-      <pubDate>Wed, 14 Jan 2026 11:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
