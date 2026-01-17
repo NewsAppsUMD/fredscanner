@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 13:10:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 13:38:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:19 am</title>
+      <description>RT140 / HARNEY RD, RT140 / HARNEY RD Radio: 9D Units: E61, TW6, A69, PE102, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-01-17 08:19:00</guid>
+      <pubDate>Sat, 17 Jan 2026 08:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:13 am</title>
+      <description>4700 BLOCK MUSSETTER RD Radio: 9B Units: A259, E251</description>
+      <guid isPermaLink="false">2026-01-17 08:13:00</guid>
+      <pubDate>Sat, 17 Jan 2026 08:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:06 am</title>
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: R3, E231, A238</description>
@@ -294,18 +306,6 @@
       <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ - BRUNSWICK Units: BR55</description>
       <guid isPermaLink="false">2026-01-15 08:37:00</guid>
       <pubDate>Thu, 15 Jan 2026 08:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:57 am</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-01-15 07:57:00</guid>
-      <pubDate>Thu, 15 Jan 2026 07:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 12:09 am</title>
-      <description>100 BLOCK E PATRICK ST, CAFE NOLA Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-01-15 00:09:00</guid>
-      <pubDate>Thu, 15 Jan 2026 00:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
