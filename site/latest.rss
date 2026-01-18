@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 15:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 15:34:05 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 10:08 am</title>
+      <description>6800 BLOCK QUAIL KNOB CT Radio: 9D Units: A229, ALS29, E291, E221, EMS901</description>
+      <guid isPermaLink="false">2026-01-18 10:08:00</guid>
+      <pubDate>Sun, 18 Jan 2026 10:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:11 am</title>
       <description>I70WB / RT17, I70WB / RT17 Radio: 9C Units: BR85, E82</description>
@@ -300,12 +306,6 @@
       <description>40900 BLOCK FLYING ACE LN FLYING ACE FARM BREWERY &amp; DISTILLERY, FLYING ACE FARM BREWERY &amp; DISTILLERY Radio: 6B Units: E281, BR285</description>
       <guid isPermaLink="false">2026-01-16 14:00:00</guid>
       <pubDate>Fri, 16 Jan 2026 14:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:55 pm</title>
-      <description>800 BLOCK MOTTER AVE, CATOCTIN VIEW APTS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-01-16 13:55:00</guid>
-      <pubDate>Fri, 16 Jan 2026 13:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
