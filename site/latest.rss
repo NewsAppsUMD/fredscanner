@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 06:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 06:42:33 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 1:06 am</title>
+      <description>100 BLOCK WASH HOUSE CIR Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-01-18 01:06:00</guid>
+      <pubDate>Sun, 18 Jan 2026 01:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 1:03 am</title>
+      <description>100 BLOCK WASH HOUSE CIR Radio: 9C Units: E72, RE74, TW7</description>
+      <guid isPermaLink="false">2026-01-18 01:03:00</guid>
+      <pubDate>Sun, 18 Jan 2026 01:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 11:11 pm</title>
       <description>12800 BLOCK BOXWOOD CT Radio: 9C Units: E172, E161, R15, EK114, K17</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W PATRICK ST, Apt/Unit:LOWER, FREDERICK COUNTY COURTHOUSE Radio: 9C Units: TT4</description>
       <guid isPermaLink="false">2026-01-16 10:44:00</guid>
       <pubDate>Fri, 16 Jan 2026 10:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 10:03 am</title>
-      <description>9000 BLOCK SPRING MEADOW CIR Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-01-16 10:03:00</guid>
-      <pubDate>Fri, 16 Jan 2026 10:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:47 am</title>
-      <description>BILL MOXLEY RD / OLD NATIONAL PIKE Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-01-16 09:47:00</guid>
-      <pubDate>Fri, 16 Jan 2026 09:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
