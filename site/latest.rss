@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 22:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:02:10 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 5:47 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: Q11, E161</description>
+      <guid isPermaLink="false">2026-01-19 17:47:00</guid>
+      <pubDate>Mon, 19 Jan 2026 17:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: ALS31</description>
+      <guid isPermaLink="false">2026-01-19 17:43:00</guid>
+      <pubDate>Mon, 19 Jan 2026 17:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:43 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: A169</description>
+      <guid isPermaLink="false">2026-01-19 17:43:00</guid>
+      <pubDate>Mon, 19 Jan 2026 17:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:39 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: R2</description>
+      <guid isPermaLink="false">2026-01-19 17:39:00</guid>
+      <pubDate>Mon, 19 Jan 2026 17:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:37 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: E111, R24, A249, ALS2, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-01-19 17:37:00</guid>
+      <pubDate>Mon, 19 Jan 2026 17:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:09 pm</title>
       <description>3200 BLOCK BENNETT CREEK AVE, MANINA - VILLAGE SQUARE Radio: 9C Units: E231, TT23</description>
@@ -276,36 +306,6 @@
       <description>RT140 / HARNEY RD, RT140 / HARNEY RD Radio: 9D Units: E61, TW6, A69, PE102, BC902, EMS902</description>
       <guid isPermaLink="false">2026-01-17 08:19:00</guid>
       <pubDate>Sat, 17 Jan 2026 08:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:13 am</title>
-      <description>4700 BLOCK MUSSETTER RD Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2026-01-17 08:13:00</guid>
-      <pubDate>Sat, 17 Jan 2026 08:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:06 am</title>
-      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: R3, E231, A238</description>
-      <guid isPermaLink="false">2026-01-17 08:06:00</guid>
-      <pubDate>Sat, 17 Jan 2026 08:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:39 am</title>
-      <description>1800 BLOCK BACK RD Radio: TAC1OPS Units: T5</description>
-      <guid isPermaLink="false">2026-01-17 07:39:00</guid>
-      <pubDate>Sat, 17 Jan 2026 07:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:38 am</title>
-      <description>1800 BLOCK BACK RD Radio: TAC1OPS Units: PE52</description>
-      <guid isPermaLink="false">2026-01-17 07:38:00</guid>
-      <pubDate>Sat, 17 Jan 2026 07:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:32 am</title>
-      <description>1800 BLOCK BACK RD Units: K5</description>
-      <guid isPermaLink="false">2026-01-17 07:32:00</guid>
-      <pubDate>Sat, 17 Jan 2026 07:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
