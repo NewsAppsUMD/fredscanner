@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 16:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 16:41:38 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:32 am</title>
+      <description>11200 BLOCK CASH SMITH RD Radio: 9C Units: E161</description>
+      <guid isPermaLink="false">2026-01-19 11:32:00</guid>
+      <pubDate>Mon, 19 Jan 2026 11:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:32 am</title>
       <description>1500 BLOCK FREEDMAN DR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E501, TT4</description>
@@ -300,12 +306,6 @@
       <description>17000 BLOCK BOLLINGER SCHOOL RD Radio: 9D Units: ACE11, E91</description>
       <guid isPermaLink="false">2026-01-16 18:40:00</guid>
       <pubDate>Fri, 16 Jan 2026 18:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 6:31 pm</title>
-      <description>17000 BLOCK BOLLINGER SCHOOL RD Radio: 9D Units: E61, E102, E132, R10, TW6, EK64, A69, ACE232, BC902, BC903, SAF900</description>
-      <guid isPermaLink="false">2026-01-16 18:31:00</guid>
-      <pubDate>Fri, 16 Jan 2026 18:31:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
