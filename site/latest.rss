@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 23:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:34:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:28 pm</title>
+      <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Units: A149, R14</description>
+      <guid isPermaLink="false">2026-01-19 18:28:00</guid>
+      <pubDate>Mon, 19 Jan 2026 18:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:47 pm</title>
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: Q11, E161</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK HOLIDAY DR Radio: 9B Units: A38, E31</description>
       <guid isPermaLink="false">2026-01-17 09:30:00</guid>
       <pubDate>Sat, 17 Jan 2026 09:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:19 am</title>
-      <description>RT140 / HARNEY RD, RT140 / HARNEY RD Radio: 9D Units: E61, TW6, A69, PE102, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-01-17 08:19:00</guid>
-      <pubDate>Sat, 17 Jan 2026 08:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
