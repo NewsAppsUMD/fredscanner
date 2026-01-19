@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 02:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 03:32:27 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:14 pm</title>
+      <description>6400 BLOCK LAKERIDGE DR Radio: 9C Units: Q11</description>
+      <guid isPermaLink="false">2026-01-18 22:14:00</guid>
+      <pubDate>Sun, 18 Jan 2026 22:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:10 pm</title>
+      <description>1700 BLOCK SAMS CREEK RD Units: K17</description>
+      <guid isPermaLink="false">2026-01-18 22:10:00</guid>
+      <pubDate>Sun, 18 Jan 2026 22:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 10:09 pm</title>
+      <description>6400 BLOCK LAKERIDGE DR Radio: 9C Units: E153, E331, R15</description>
+      <guid isPermaLink="false">2026-01-18 22:09:00</guid>
+      <pubDate>Sun, 18 Jan 2026 22:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:22 pm</title>
       <description>I270SB / BAKER VALLEY RD, I270SB / BAKER VALLEY RD Radio: 9D Units: E231, PE311, R3, A238, A318, ALS23, EMS901, TT23</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-01-16 15:09:00</guid>
       <pubDate>Fri, 16 Jan 2026 15:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: A37, ALS2</description>
-      <guid isPermaLink="false">2026-01-16 15:08:00</guid>
-      <pubDate>Fri, 16 Jan 2026 15:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:05 pm</title>
-      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: PE311, R3, A318, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-01-16 15:05:00</guid>
-      <pubDate>Fri, 16 Jan 2026 15:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 3:00 pm</title>
-      <description>8500 BLOCK BLACKS MILL RD Units: E161</description>
-      <guid isPermaLink="false">2026-01-16 15:00:00</guid>
-      <pubDate>Fri, 16 Jan 2026 15:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
