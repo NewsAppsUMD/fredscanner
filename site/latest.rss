@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Jan 2026 19:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 20:02:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:57 pm</title>
+      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD Radio: 9D Units: E231, R3, A238, ALS23, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-01-19 14:57:00</guid>
+      <pubDate>Mon, 19 Jan 2026 14:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:27 pm</title>
       <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - NEW RESIDENCE HALL Radio: 9C Units: PE23, TT4</description>
@@ -300,12 +306,6 @@
       <description>28400 BLOCK HONEYSUCKLE DR Radio: 7A4 Units: R15, E153, E251, TT23</description>
       <guid isPermaLink="false">2026-01-16 23:01:00</guid>
       <pubDate>Fri, 16 Jan 2026 23:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:52 pm</title>
-      <description>100 BLOCK W MAIN ST, STATION 6 Units: ACE232</description>
-      <guid isPermaLink="false">2026-01-16 18:52:00</guid>
-      <pubDate>Fri, 16 Jan 2026 18:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
