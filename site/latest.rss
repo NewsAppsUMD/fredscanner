@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 00:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 01:30:34 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:02 pm</title>
+      <description>10000 BLOCK PRESTWICH TER Units: E153, R15, E251</description>
+      <guid isPermaLink="false">2026-01-19 20:02:00</guid>
+      <pubDate>Mon, 19 Jan 2026 20:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 8:02 pm</title>
+      <description>RENO MONUMENT RD / LAMBS KNOLL RD Units: E72</description>
+      <guid isPermaLink="false">2026-01-19 20:02:00</guid>
+      <pubDate>Mon, 19 Jan 2026 20:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 7:58 pm</title>
+      <description>RENO MONUMENT RD / LAMBS KNOLL RD Units: WILDLAND7</description>
+      <guid isPermaLink="false">2026-01-19 19:58:00</guid>
+      <pubDate>Mon, 19 Jan 2026 19:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:56 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: HM33</description>
+      <guid isPermaLink="false">2026-01-19 19:56:00</guid>
+      <pubDate>Mon, 19 Jan 2026 19:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 7:41 pm</title>
       <description>RENO MONUMENT RD / LAMB KNOLLS RD Units: BR85</description>
@@ -282,30 +306,6 @@
       <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E31, R3</description>
       <guid isPermaLink="false">2026-01-17 12:37:00</guid>
       <pubDate>Sat, 17 Jan 2026 12:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:34 pm</title>
-      <description>1600 BLOCK MISTY MEADOW CIR Radio: 9C Units: E501, TT4</description>
-      <guid isPermaLink="false">2026-01-17 12:34:00</guid>
-      <pubDate>Sat, 17 Jan 2026 12:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:34 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:201, WOODLAWN VILLAGE APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-01-17 12:34:00</guid>
-      <pubDate>Sat, 17 Jan 2026 12:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:33 pm</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-01-17 12:33:00</guid>
-      <pubDate>Sat, 17 Jan 2026 12:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:20 pm</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: T1</description>
-      <guid isPermaLink="false">2026-01-17 12:20:00</guid>
-      <pubDate>Sat, 17 Jan 2026 12:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
