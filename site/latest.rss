@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 19:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 19:53:26 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 2:33 pm</title>
+      <description>15200 BLOCK MOTTERS STATION RD Radio: 9C Units: E132</description>
+      <guid isPermaLink="false">2026-01-20 14:33:00</guid>
+      <pubDate>Tue, 20 Jan 2026 14:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:32 pm</title>
+      <description>WILLOWDALE DR / KEY PKWY Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-01-20 14:32:00</guid>
+      <pubDate>Tue, 20 Jan 2026 14:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:20 pm</title>
+      <description>15200 BLOCK MOTTERS STATION RD Radio: 9C Units: BR135</description>
+      <guid isPermaLink="false">2026-01-20 14:20:00</guid>
+      <pubDate>Tue, 20 Jan 2026 14:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 1:26 pm</title>
       <description>6000 BLOCK FORUM SQ Radio: 9C Units: E11, PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK HOLLYBERRY WAY Radio: 9C Units: E11, PE311, T1</description>
       <guid isPermaLink="false">2026-01-18 01:50:00</guid>
       <pubDate>Sun, 18 Jan 2026 01:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:06 am</title>
-      <description>100 BLOCK WASH HOUSE CIR Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-01-18 01:06:00</guid>
-      <pubDate>Sun, 18 Jan 2026 01:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:03 am</title>
-      <description>100 BLOCK WASH HOUSE CIR Radio: 9C Units: E72, RE74, TW7</description>
-      <guid isPermaLink="false">2026-01-18 01:03:00</guid>
-      <pubDate>Sun, 18 Jan 2026 01:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 11:11 pm</title>
-      <description>12800 BLOCK BOXWOOD CT Radio: 9C Units: E172, E161, R15, EK114, K17</description>
-      <guid isPermaLink="false">2026-01-17 23:11:00</guid>
-      <pubDate>Sat, 17 Jan 2026 23:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
