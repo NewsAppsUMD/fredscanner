@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 09:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 10:03:47 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:02 am</title>
+      <description>19300 BLOCK LONGMEADOW RD, STATION WC027 - LONGMEADOW VFC Units: E72</description>
+      <guid isPermaLink="false">2026-01-20 05:02:00</guid>
+      <pubDate>Tue, 20 Jan 2026 05:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:33 am</title>
       <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: K21</description>
@@ -300,12 +306,6 @@
       <description>E SIXTEENTH ST / N EAST ST Radio: 9B Units: A28, PE23</description>
       <guid isPermaLink="false">2026-01-17 17:21:00</guid>
       <pubDate>Sat, 17 Jan 2026 17:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:36 pm</title>
-      <description>3200 BLOCK IVY MEADOW DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-01-17 14:36:00</guid>
-      <pubDate>Sat, 17 Jan 2026 14:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
