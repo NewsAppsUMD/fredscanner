@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 00:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 00:46:51 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 7:41 pm</title>
+      <description>RENO MONUMENT RD / LAMB KNOLLS RD Units: BR85</description>
+      <guid isPermaLink="false">2026-01-19 19:41:00</guid>
+      <pubDate>Mon, 19 Jan 2026 19:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:34 pm</title>
+      <description>WOODSBORO PIKE / CRUM RD Radio: 9D Units: EK114</description>
+      <guid isPermaLink="false">2026-01-19 19:34:00</guid>
+      <pubDate>Mon, 19 Jan 2026 19:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:33 pm</title>
       <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Units: A318</description>
@@ -294,18 +306,6 @@
       <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: T1</description>
       <guid isPermaLink="false">2026-01-17 12:20:00</guid>
       <pubDate>Sat, 17 Jan 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:54 am</title>
-      <description>W PATRICK ST / N MCCAIN DR Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-01-17 10:54:00</guid>
-      <pubDate>Sat, 17 Jan 2026 10:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:58 am</title>
-      <description>NORVA AVE / WYNGATE DR Radio: 9B Units: A37, TT4</description>
-      <guid isPermaLink="false">2026-01-17 09:58:00</guid>
-      <pubDate>Sat, 17 Jan 2026 09:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
