@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 10:41:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:04:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:52 am</title>
+      <description>3800 BLOCK JEFFERSON PIKE, JEFFERSON UNITED CHURCH OF CHRIST Radio: 9C Units: E201, T5</description>
+      <guid isPermaLink="false">2026-01-20 05:52:00</guid>
+      <pubDate>Tue, 20 Jan 2026 05:52:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:02 am</title>
       <description>19300 BLOCK LONGMEADOW RD, STATION WC027 - LONGMEADOW VFC Units: E72</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK BALLENGER CREEK PIKE, DOLLAR GENERAL - BALLENGER CREEK PLAZA Radio: 9B Units: A19, E311</description>
       <guid isPermaLink="false">2026-01-17 17:28:00</guid>
       <pubDate>Sat, 17 Jan 2026 17:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:21 pm</title>
-      <description>E SIXTEENTH ST / N EAST ST Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-01-17 17:21:00</guid>
-      <pubDate>Sat, 17 Jan 2026 17:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
