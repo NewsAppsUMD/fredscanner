@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 07:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 07:38:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:28 am</title>
+      <description>5100 BLOCK PEGASUS CT, CHILIS - CENTER AT MONOCACY Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-01-20 02:28:00</guid>
+      <pubDate>Tue, 20 Jan 2026 02:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:02 pm</title>
       <description>WOODSBORO PIKE / CRUM RD Units: EK114</description>
@@ -300,12 +306,6 @@
       <description>10100 BLOCK OLD NATIONAL PIKE Radio: 9C Units: E331, TT4</description>
       <guid isPermaLink="false">2026-01-17 13:02:00</guid>
       <pubDate>Sat, 17 Jan 2026 13:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 12:47 pm</title>
-      <description>HILLCREST DR / S MCCAIN DR, NEXT TO HILLCREST ELEMENTARY - Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-01-17 12:47:00</guid>
-      <pubDate>Sat, 17 Jan 2026 12:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
