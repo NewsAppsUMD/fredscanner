@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 19:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 20:05:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:59 pm</title>
+      <description>9000 BLOCK REICHS FORD RD, Apt/Unit:FIRST, COUNTY LANDFILL Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-01-21 14:59:00</guid>
+      <pubDate>Wed, 21 Jan 2026 14:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:17 pm</title>
       <description>E SOUTH ST / WINCHESTER ST Radio: 9C Units: E33</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Units: A149, R14</description>
       <guid isPermaLink="false">2026-01-19 18:28:00</guid>
       <pubDate>Mon, 19 Jan 2026 18:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 5:47 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: Q11, E161</description>
-      <guid isPermaLink="false">2026-01-19 17:47:00</guid>
-      <pubDate>Mon, 19 Jan 2026 17:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
