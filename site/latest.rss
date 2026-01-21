@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 14:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 14:41:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:33 am</title>
+      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2026-01-21 09:33:00</guid>
+      <pubDate>Wed, 21 Jan 2026 09:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:39 am</title>
       <description>7100 BLOCK DELEGATE PL Radio: 9C Units: PE311, E33, TT4</description>
@@ -300,12 +306,6 @@
       <description>3200 BLOCK BENNETT CREEK AVE, MANINA - VILLAGE SQUARE Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2026-01-19 17:09:00</guid>
       <pubDate>Mon, 19 Jan 2026 17:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:55 pm</title>
-      <description>6900 BLOCK N CLIFTON RD Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-01-19 15:55:00</guid>
-      <pubDate>Mon, 19 Jan 2026 15:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
