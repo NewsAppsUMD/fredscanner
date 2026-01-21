@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 22:40:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:03:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 5:59 pm</title>
+      <description>100 BLOCK(3535) BLK TREGO MOUNTAIN RD Radio: TAC1OPS Units: RE74</description>
+      <guid isPermaLink="false">2026-01-21 17:59:00</guid>
+      <pubDate>Wed, 21 Jan 2026 17:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL VEHICLE FIRE: 5:48 pm</title>
+      <description>1000 BLOCK HUNTERS KNOLL Radio: 9C Units: E82, E212</description>
+      <guid isPermaLink="false">2026-01-21 17:48:00</guid>
+      <pubDate>Wed, 21 Jan 2026 17:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 5:19 pm</title>
       <description>500 BLOCK HIGHLAND ST, STUDIO 20 Units: BR35</description>
@@ -294,18 +306,6 @@
       <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: K21</description>
       <guid isPermaLink="false">2026-01-20 04:33:00</guid>
       <pubDate>Tue, 20 Jan 2026 04:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 2:28 am</title>
-      <description>5100 BLOCK PEGASUS CT, CHILIS - CENTER AT MONOCACY Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-01-20 02:28:00</guid>
-      <pubDate>Tue, 20 Jan 2026 02:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 9:02 pm</title>
-      <description>WOODSBORO PIKE / CRUM RD Units: EK114</description>
-      <guid isPermaLink="false">2026-01-19 21:02:00</guid>
-      <pubDate>Mon, 19 Jan 2026 21:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
