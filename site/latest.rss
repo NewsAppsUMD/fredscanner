@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 09:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 09:41:51 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:14 am</title>
+      <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E161</description>
+      <guid isPermaLink="false">2026-01-22 04:14:00</guid>
+      <pubDate>Thu, 22 Jan 2026 04:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:12 am</title>
+      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: EK64</description>
+      <guid isPermaLink="false">2026-01-22 04:12:00</guid>
+      <pubDate>Thu, 22 Jan 2026 04:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:53 am</title>
       <description>500 BLOCK S FRIZZLEBURG RD Units: EK134</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Radio: WCFEMSDISP Units: E72</description>
       <guid isPermaLink="false">2026-01-20 23:14:00</guid>
       <pubDate>Tue, 20 Jan 2026 23:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:22 pm</title>
-      <description>500 BLOCK LOGAN ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-01-20 22:22:00</guid>
-      <pubDate>Tue, 20 Jan 2026 22:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:19 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:170, FREDERICK FOOT &amp; ANKLE Radio: 9C Units: E291, T1</description>
-      <guid isPermaLink="false">2026-01-20 22:19:00</guid>
-      <pubDate>Tue, 20 Jan 2026 22:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
