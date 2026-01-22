@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 22:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 22:38:16 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 5:15 pm</title>
+      <description>9800 BLOCK OLD FREDERICK RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2026-01-22 17:15:00</guid>
+      <pubDate>Thu, 22 Jan 2026 17:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:35 pm</title>
       <description>1200 BLOCK W SEVENTH ST Radio: 9B Units: A38</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK RIVERBEND WAY, RIVERSIDE LIQUORS - RIVERSIDE CENTER Radio: 9C Units: BR116</description>
       <guid isPermaLink="false">2026-01-21 16:07:00</guid>
       <pubDate>Wed, 21 Jan 2026 16:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:35 pm</title>
-      <description>9200 BLOCK BALTIMORE NATIONAL PIKE PIKE Radio: 9B Units: A89, E82</description>
-      <guid isPermaLink="false">2026-01-21 15:35:00</guid>
-      <pubDate>Wed, 21 Jan 2026 15:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
