@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 00:09:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 00:46:48 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 7:22 pm</title>
+      <description>13700 BLOCK LITTLE SENECA PKWY Radio: 7A4 Units: E231</description>
+      <guid isPermaLink="false">2026-01-21 19:22:00</guid>
+      <pubDate>Wed, 21 Jan 2026 19:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:41 pm</title>
       <description>ROUTZAHN WAY / N MARKET ST Radio: 9D Units: A19</description>
@@ -300,12 +306,6 @@
       <description>8100 BLOCK HAMPTON VALLEY RD Radio: 9C Units: E61, PE102, TW6, EK64, A69</description>
       <guid isPermaLink="false">2026-01-20 11:35:00</guid>
       <pubDate>Tue, 20 Jan 2026 11:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:32 am</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Radio: 9B Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-01-20 06:32:00</guid>
-      <pubDate>Tue, 20 Jan 2026 06:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
