@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 18:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 18:43:18 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:22 pm</title>
+      <description>6400 BLOCK MERCANTILE DR E, Apt/Unit:202, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9I Units: PE23, E501, E502, E291, E121, R3, TT4, Q11, A318, ALS31, BC902, SAF900</description>
+      <guid isPermaLink="false">2026-01-22 13:22:00</guid>
+      <pubDate>Thu, 22 Jan 2026 13:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:20 pm</title>
+      <description>1600 BLOCK WISE RD Units: E281, E201, E11, PE311, R20, T5, R19, A149, ALS20, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-01-22 13:20:00</guid>
+      <pubDate>Thu, 22 Jan 2026 13:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:35 am</title>
       <description>3300 BLOCK WORTHINGTON BLVD Radio: 9C Units: E231, TT23</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK REDFIELD CT, Apt/Unit:1C, WESTWINDS APTS - 1000 BLOCK REDFIELD CT Radio: 9C Units: E33, PE23, TT4</description>
       <guid isPermaLink="false">2026-01-21 05:41:00</guid>
       <pubDate>Wed, 21 Jan 2026 05:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 5:21 am</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:210, MILL CROSSING CONDOS Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-01-21 05:21:00</guid>
-      <pubDate>Wed, 21 Jan 2026 05:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:01 am</title>
-      <description>13200 BLOCK JAMES MONROE HWY VALERO POINT OF ROCKS, VALERO POINT OF ROCKS Radio: 6DTAC11 Units: EK204, R20, T5, E281, E141</description>
-      <guid isPermaLink="false">2026-01-21 05:01:00</guid>
-      <pubDate>Wed, 21 Jan 2026 05:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
