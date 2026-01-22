@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 15:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 15:41:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:35 am</title>
+      <description>3300 BLOCK WORTHINGTON BLVD Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-01-22 10:35:00</guid>
+      <pubDate>Thu, 22 Jan 2026 10:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 10:23 am</title>
+      <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ - BRUNSWICK Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2026-01-22 10:23:00</guid>
+      <pubDate>Thu, 22 Jan 2026 10:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:47 am</title>
       <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3</description>
@@ -294,18 +306,6 @@
       <description>13200 BLOCK JAMES MONROE HWY VALERO POINT OF ROCKS, VALERO POINT OF ROCKS Radio: 6DTAC11 Units: EK204, R20, T5, E281, E141</description>
       <guid isPermaLink="false">2026-01-21 05:01:00</guid>
       <pubDate>Wed, 21 Jan 2026 05:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 3:00 am</title>
-      <description>6200 BLOCK GLEN VALLEY TER, Apt/Unit:1G, HAMPTON COURT CONDOS - 6200 BLOCK GLEN VALLEY TER Radio: 9C Units: E331, E33, R3</description>
-      <guid isPermaLink="false">2026-01-21 03:00:00</guid>
-      <pubDate>Wed, 21 Jan 2026 03:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:07 am</title>
-      <description>400 BLOCK E CHURCH ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-01-21 01:07:00</guid>
-      <pubDate>Wed, 21 Jan 2026 01:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
