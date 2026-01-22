@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 05:08:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 05:41:05 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 12:28 am</title>
+      <description>11100 BLOCK INNSBROOK CT Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-01-22 00:28:00</guid>
+      <pubDate>Thu, 22 Jan 2026 00:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:24 am</title>
+      <description>13500 BLOCK OLD FREDERICK RD Units: A229, ALS17</description>
+      <guid isPermaLink="false">2026-01-22 00:24:00</guid>
+      <pubDate>Thu, 22 Jan 2026 00:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:17 am</title>
+      <description>13500 BLOCK OLD FREDERICK RD Units: E33, R14</description>
+      <guid isPermaLink="false">2026-01-22 00:17:00</guid>
+      <pubDate>Thu, 22 Jan 2026 00:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:12 am</title>
+      <description>13500 BLOCK OLD FREDERICK RD Units: K21</description>
+      <guid isPermaLink="false">2026-01-22 00:12:00</guid>
+      <pubDate>Thu, 22 Jan 2026 00:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:06 am</title>
+      <description>13500 BLOCK OLD FREDERICK RD Units: FTF3, E501, E502, TT4, CAN1</description>
+      <guid isPermaLink="false">2026-01-22 00:06:00</guid>
+      <pubDate>Thu, 22 Jan 2026 00:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:04 am</title>
       <description>13500 BLOCK OLD FREDERICK RD Units: TTF, E11, EK64, K1, E221, W9</description>
@@ -276,36 +306,6 @@
       <description>RT40 / RT17, RT40 / RT17 Radio: 9B Units: E82</description>
       <guid isPermaLink="false">2026-01-20 19:30:00</guid>
       <pubDate>Tue, 20 Jan 2026 19:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 7:22 pm</title>
-      <description>8500 BLOCK EDGEWOOD CHURCH RD Radio: 9C Units: E11, E501, TT4, K1, A18</description>
-      <guid isPermaLink="false">2026-01-20 19:22:00</guid>
-      <pubDate>Tue, 20 Jan 2026 19:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:33 pm</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:210, MILL CROSSING CONDOS Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-01-20 18:33:00</guid>
-      <pubDate>Tue, 20 Jan 2026 18:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:55 pm</title>
-      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Radio: 9B Units: A249, E291</description>
-      <guid isPermaLink="false">2026-01-20 17:55:00</guid>
-      <pubDate>Tue, 20 Jan 2026 17:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 5:49 pm</title>
-      <description>100 BLOCK W C ST Radio: 9D Units: SAFBC900</description>
-      <guid isPermaLink="false">2026-01-20 17:49:00</guid>
-      <pubDate>Tue, 20 Jan 2026 17:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 5:46 pm</title>
-      <description>100 BLOCK W C ST Radio: 9D Units: A196, ALS20, R19, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-01-20 17:46:00</guid>
-      <pubDate>Tue, 20 Jan 2026 17:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
