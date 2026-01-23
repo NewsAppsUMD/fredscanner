@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 20:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 20:38:12 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:25 pm</title>
+      <description>2700 BLOCK ADAMS ST, STATION 14 Units: E72, BR116</description>
+      <guid isPermaLink="false">2026-01-23 15:25:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:18 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: K33, K23</description>
+      <guid isPermaLink="false">2026-01-23 15:18:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:16 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-01-23 15:16:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:12 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: TTF, E201, K5, K1, W14</description>
+      <guid isPermaLink="false">2026-01-23 15:12:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:10 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BTF, E141, EK204, A149, BR145, BR205, BR16, BR35, W28</description>
+      <guid isPermaLink="false">2026-01-23 15:10:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:03 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E281</description>
+      <guid isPermaLink="false">2026-01-23 15:03:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:01 pm</title>
+      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2026-01-23 15:01:00</guid>
+      <pubDate>Fri, 23 Jan 2026 15:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
       <description>100 BLOCK N MCCAIN DR, HOME DEPOT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9B Units: A18, E11</description>
@@ -264,48 +306,6 @@
       <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E161</description>
       <guid isPermaLink="false">2026-01-22 04:14:00</guid>
       <pubDate>Thu, 22 Jan 2026 04:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:12 am</title>
-      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: EK64</description>
-      <guid isPermaLink="false">2026-01-22 04:12:00</guid>
-      <pubDate>Thu, 22 Jan 2026 04:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:53 am</title>
-      <description>500 BLOCK S FRIZZLEBURG RD Units: EK134</description>
-      <guid isPermaLink="false">2026-01-22 03:53:00</guid>
-      <pubDate>Thu, 22 Jan 2026 03:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:49 am</title>
-      <description>500 BLOCK S FRIZZLEBURG RD Units: E91, E132</description>
-      <guid isPermaLink="false">2026-01-22 03:49:00</guid>
-      <pubDate>Thu, 22 Jan 2026 03:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:21 am</title>
-      <description>500 BLOCK WASHINGTON AVE, STATION WCE004 - WESTERN ENTERPRISE FC Units: E82</description>
-      <guid isPermaLink="false">2026-01-22 03:21:00</guid>
-      <pubDate>Thu, 22 Jan 2026 03:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:51 am</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
-      <guid isPermaLink="false">2026-01-22 00:51:00</guid>
-      <pubDate>Thu, 22 Jan 2026 00:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:28 am</title>
-      <description>11100 BLOCK INNSBROOK CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-01-22 00:28:00</guid>
-      <pubDate>Thu, 22 Jan 2026 00:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:24 am</title>
-      <description>13500 BLOCK OLD FREDERICK RD Units: A229, ALS17</description>
-      <guid isPermaLink="false">2026-01-22 00:24:00</guid>
-      <pubDate>Thu, 22 Jan 2026 00:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
