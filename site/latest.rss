@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Jan 2026 23:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 00:09:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:53 pm</title>
+      <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, IAO Radio: 9B Units: E11, E201, R3, A18, A209</description>
+      <guid isPermaLink="false">2026-01-22 18:53:00</guid>
+      <pubDate>Thu, 22 Jan 2026 18:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:43 pm</title>
+      <description>RIDGE RD / WOODFIELD RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-01-22 18:43:00</guid>
+      <pubDate>Thu, 22 Jan 2026 18:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 6:27 pm</title>
       <description>800 BLOCK MOTTER AVE, SHARPES SQUARE Radio: 9C Units: PE23, E33, R3</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CAVENROCK CT Radio: 9C Units: E11, TT4</description>
       <guid isPermaLink="false">2026-01-21 17:18:00</guid>
       <pubDate>Wed, 21 Jan 2026 17:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:03 pm</title>
-      <description>500 BLOCK HIGHLAND ST, STUDIO 20 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-01-21 17:03:00</guid>
-      <pubDate>Wed, 21 Jan 2026 17:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:16 pm</title>
-      <description>I270NB / EXIT 32, I270NB / EXIT 32 Radio: 9C Units: BR35, BR16</description>
-      <guid isPermaLink="false">2026-01-21 16:16:00</guid>
-      <pubDate>Wed, 21 Jan 2026 16:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
