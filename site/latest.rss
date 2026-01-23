@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 23:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 23:35:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:25 pm</title>
+      <description>I70WB / 38MM Units: A89</description>
+      <guid isPermaLink="false">2026-01-23 18:25:00</guid>
+      <pubDate>Fri, 23 Jan 2026 18:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:25 pm</title>
+      <description>I70WB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2026-01-23 18:25:00</guid>
+      <pubDate>Fri, 23 Jan 2026 18:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:21 pm</title>
+      <description>11000 BLOCK BENNIE DUNCAN RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-01-23 18:21:00</guid>
+      <pubDate>Fri, 23 Jan 2026 18:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 6:03 pm</title>
+      <description>14200 BLOCK LEWISDALE RD Radio: 7A1 Units: TT23, E231</description>
+      <guid isPermaLink="false">2026-01-23 18:03:00</guid>
+      <pubDate>Fri, 23 Jan 2026 18:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 5:28 pm</title>
       <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR285</description>
@@ -282,30 +306,6 @@
       <description>2900 BLOCK FENCE BUSTER CT Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-01-22 14:56:00</guid>
       <pubDate>Thu, 22 Jan 2026 14:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 2:11 pm</title>
-      <description>3800 BLOCK PETERSVILLE RD Units: PE52, K5, BR55</description>
-      <guid isPermaLink="false">2026-01-22 14:11:00</guid>
-      <pubDate>Thu, 22 Jan 2026 14:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 1:45 pm</title>
-      <description>3300 BLOCK PARK MILLS RD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-01-22 13:45:00</guid>
-      <pubDate>Thu, 22 Jan 2026 13:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:22 pm</title>
-      <description>6400 BLOCK MERCANTILE DR E, Apt/Unit:202, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9I Units: PE23, E501, E502, E291, E121, R3, TT4, Q11, A318, ALS31, BC902, SAF900</description>
-      <guid isPermaLink="false">2026-01-22 13:22:00</guid>
-      <pubDate>Thu, 22 Jan 2026 13:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:20 pm</title>
-      <description>1600 BLOCK WISE RD Units: E281, E201, E11, PE311, R20, T5, R19, A149, ALS20, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-01-22 13:20:00</guid>
-      <pubDate>Thu, 22 Jan 2026 13:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
