@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 21:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:35:19 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 4:18 pm</title>
+      <description>3600 BLOCK POINT OF ROCKS RD Radio: 9C Units: E52</description>
+      <guid isPermaLink="false">2026-01-23 16:18:00</guid>
+      <pubDate>Fri, 23 Jan 2026 16:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
+      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: A158, E153</description>
+      <guid isPermaLink="false">2026-01-23 16:12:00</guid>
+      <pubDate>Fri, 23 Jan 2026 16:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:05 pm</title>
+      <description>4200 BLOCK ARABY CHURCH RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-01-23 16:05:00</guid>
+      <pubDate>Fri, 23 Jan 2026 16:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:25 pm</title>
       <description>2700 BLOCK ADAMS ST, STATION 14 Units: E72, BR116</description>
@@ -288,24 +306,6 @@
       <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ - BRUNSWICK Radio: 9C Units: T5</description>
       <guid isPermaLink="false">2026-01-22 10:23:00</guid>
       <pubDate>Thu, 22 Jan 2026 10:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:47 am</title>
-      <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-01-22 09:47:00</guid>
-      <pubDate>Thu, 22 Jan 2026 09:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:37 am</title>
-      <description>3500 BLOCK JOHN SIMMONS ST, Bldg:A Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-01-22 09:37:00</guid>
-      <pubDate>Thu, 22 Jan 2026 09:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:14 am</title>
-      <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E161</description>
-      <guid isPermaLink="false">2026-01-22 04:14:00</guid>
-      <pubDate>Thu, 22 Jan 2026 04:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
