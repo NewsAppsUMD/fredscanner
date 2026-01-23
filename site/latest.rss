@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 21:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 22:02:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
+      <description>STADIUM DR / NEW DESIGN RD Radio: 9B Units: A318, E311</description>
+      <guid isPermaLink="false">2026-01-23 16:32:00</guid>
+      <pubDate>Fri, 23 Jan 2026 16:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 4:18 pm</title>
       <description>3600 BLOCK POINT OF ROCKS RD Radio: 9C Units: E52</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK WORTHINGTON BLVD Radio: 9C Units: E231, TT23</description>
       <guid isPermaLink="false">2026-01-22 10:35:00</guid>
       <pubDate>Thu, 22 Jan 2026 10:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 10:23 am</title>
-      <description>3800 BLOCK BURKITTSVILLE RD, SHEETZ - BRUNSWICK Radio: 9C Units: T5</description>
-      <guid isPermaLink="false">2026-01-22 10:23:00</guid>
-      <pubDate>Thu, 22 Jan 2026 10:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
