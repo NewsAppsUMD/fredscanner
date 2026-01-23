@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 14:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 14:39:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:27 am</title>
+      <description>I270NB / BAKER VALLEY RD, I270NB / BAKER VALLEY RD Radio: 9B Units: E231, PE311, R3, A238, A318, TT23</description>
+      <guid isPermaLink="false">2026-01-23 09:27:00</guid>
+      <pubDate>Fri, 23 Jan 2026 09:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:55 am</title>
       <description>1500 BLOCK TILCO DR Radio: 9C Units: E33, TT4</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK OLD FREDERICK RD Units: E132, E161, PE102, E91, E111, E172, R10, Q11, R24, EK134, K10, EK224, A169, ALS30, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-01-21 23:50:00</guid>
       <pubDate>Wed, 21 Jan 2026 23:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:44 pm</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-01-21 23:44:00</guid>
-      <pubDate>Wed, 21 Jan 2026 23:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
