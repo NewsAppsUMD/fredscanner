@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 09:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 10:02:58 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 4:43 am</title>
+      <description>2200 BLOCK WETHERBURNE WAY Radio: 9C Units: E11, E291, T1</description>
+      <guid isPermaLink="false">2026-01-23 04:43:00</guid>
+      <pubDate>Fri, 23 Jan 2026 04:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:50 am</title>
       <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9D Units: E61</description>
@@ -300,12 +306,6 @@
       <description>KEMP LN / SHOOKSTOWN RD Radio: 9D Units: E11, R3, A18, ALS4, BC902, EMS901</description>
       <guid isPermaLink="false">2026-01-21 20:00:00</guid>
       <pubDate>Wed, 21 Jan 2026 20:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:22 pm</title>
-      <description>13700 BLOCK LITTLE SENECA PKWY Radio: 7A4 Units: E231</description>
-      <guid isPermaLink="false">2026-01-21 19:22:00</guid>
-      <pubDate>Wed, 21 Jan 2026 19:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
