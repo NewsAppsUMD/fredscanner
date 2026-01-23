@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 19:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 19:34:56 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:18 pm</title>
+      <description>2700 BLOCK WASHINGTON ST Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2026-01-23 14:18:00</guid>
+      <pubDate>Fri, 23 Jan 2026 14:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:21 am</title>
       <description>100 BLOCK S MARYLAND AVE Radio: 9C Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK OLD FREDERICK RD Units: E33, R14</description>
       <guid isPermaLink="false">2026-01-22 00:17:00</guid>
       <pubDate>Thu, 22 Jan 2026 00:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:12 am</title>
-      <description>13500 BLOCK OLD FREDERICK RD Units: K21</description>
-      <guid isPermaLink="false">2026-01-22 00:12:00</guid>
-      <pubDate>Thu, 22 Jan 2026 00:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
