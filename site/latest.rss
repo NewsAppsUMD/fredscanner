@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 12:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:44:45 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:36 am</title>
+      <description>JAMES MONROE HWY / MYERSVILLE LN Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-01-23 07:36:00</guid>
+      <pubDate>Fri, 23 Jan 2026 07:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 4:43 am</title>
       <description>2200 BLOCK WETHERBURNE WAY Radio: 9C Units: E11, E291, T1</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK OLD ANNAPOLIS RD, LINGANORE HIGH SCHOOL Radio: 9C Units: RE171</description>
       <guid isPermaLink="false">2026-01-21 20:09:00</guid>
       <pubDate>Wed, 21 Jan 2026 20:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:00 pm</title>
-      <description>KEMP LN / SHOOKSTOWN RD Radio: 9D Units: E11, R3, A18, ALS4, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-01-21 20:00:00</guid>
-      <pubDate>Wed, 21 Jan 2026 20:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
