@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Jan 2026 15:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 16:03:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:49 am</title>
+      <description>300 BLOCK TIPPIN DR, SUPER 8 MOTEL - THURMONT Radio: 9C Units: PE102, TW6</description>
+      <guid isPermaLink="false">2026-01-23 10:49:00</guid>
+      <pubDate>Fri, 23 Jan 2026 10:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 10:44 am</title>
+      <description>QUINN ORCHARD RD / E PATRICK ST Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-01-23 10:44:00</guid>
+      <pubDate>Fri, 23 Jan 2026 10:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:16 am</title>
       <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL Radio: 9C Units: E141, TT23</description>
@@ -294,18 +306,6 @@
       <description>13500 BLOCK OLD FREDERICK RD Units: TTF, E11, EK64, K1, E221, W9</description>
       <guid isPermaLink="false">2026-01-22 00:04:00</guid>
       <pubDate>Thu, 22 Jan 2026 00:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:01 am</title>
-      <description>13500 BLOCK OLD FREDERICK RD Units: RID, PE23, TW6, A307, EK224, EMS902, W13</description>
-      <guid isPermaLink="false">2026-01-22 00:01:00</guid>
-      <pubDate>Thu, 22 Jan 2026 00:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:58 pm</title>
-      <description>13500 BLOCK OLD FREDERICK RD Units: E291, E61, R3</description>
-      <guid isPermaLink="false">2026-01-21 23:58:00</guid>
-      <pubDate>Wed, 21 Jan 2026 23:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
