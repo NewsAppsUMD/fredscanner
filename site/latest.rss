@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 18:02:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 18:41:35 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 1:36 pm</title>
+      <description>JAMES MONROE HWY / MYERSVILLE LN Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-01-24 13:36:00</guid>
+      <pubDate>Sat, 24 Jan 2026 13:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
+      <description>I270SB / 26MM, I270SB / 26MM Radio: 9B Units: E231, R3, A238, TT23</description>
+      <guid isPermaLink="false">2026-01-24 13:27:00</guid>
+      <pubDate>Sat, 24 Jan 2026 13:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 1:05 pm</title>
+      <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: EK114, BR235</description>
+      <guid isPermaLink="false">2026-01-24 13:05:00</guid>
+      <pubDate>Sat, 24 Jan 2026 13:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:59 pm</title>
       <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: BTF, E501, EK224, A18, BR226, BR116, BR75, BR205, BR85, W1</description>
@@ -288,24 +306,6 @@
       <description>WOODSBORO PIKE / STAUFFER CT Radio: 9B Units: A249, E111</description>
       <guid isPermaLink="false">2026-01-23 11:18:00</guid>
       <pubDate>Fri, 23 Jan 2026 11:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:49 am</title>
-      <description>300 BLOCK TIPPIN DR, SUPER 8 MOTEL - THURMONT Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-01-23 10:49:00</guid>
-      <pubDate>Fri, 23 Jan 2026 10:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:44 am</title>
-      <description>QUINN ORCHARD RD / E PATRICK ST Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-01-23 10:44:00</guid>
-      <pubDate>Fri, 23 Jan 2026 10:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:16 am</title>
-      <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-01-23 10:16:00</guid>
-      <pubDate>Fri, 23 Jan 2026 10:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
