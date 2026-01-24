@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 15:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 16:02:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
+      <description>100 BLOCK E SECOND ST, GRACE UNITED CHURCH Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-01-24 10:23:00</guid>
+      <pubDate>Sat, 24 Jan 2026 10:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:11 am</title>
       <description>11900 BLOCK KALBS MILL CT Radio: 6DTAC11 Units: K5, PE52</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK UNIVERSITY DR Radio: 9C Units: E61, PE102, TW6, ACE232</description>
       <guid isPermaLink="false">2026-01-22 21:54:00</guid>
       <pubDate>Thu, 22 Jan 2026 21:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:43 pm</title>
-      <description>100 BLOCK WASH HOUSE CIR Radio: 9C Units: T1</description>
-      <guid isPermaLink="false">2026-01-22 21:43:00</guid>
-      <pubDate>Thu, 22 Jan 2026 21:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
