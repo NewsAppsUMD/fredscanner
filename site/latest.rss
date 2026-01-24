@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 16:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 17:02:02 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 11:53 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, REGIS SALON - FRANCIS SCOTT KEY MALL Units: E311, E33, R3</description>
+      <guid isPermaLink="false">2026-01-24 11:53:00</guid>
+      <pubDate>Sat, 24 Jan 2026 11:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
       <description>W GREEN ST / N CHURCH ST Radio: 9B Units: A129, E72</description>
@@ -300,12 +306,6 @@
       <description>RT550 / RAILROAD, RT550 / RAILROAD Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2026-01-23 00:45:00</guid>
       <pubDate>Fri, 23 Jan 2026 00:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:00 pm</title>
-      <description>100 BLOCK UNIVERSITY DR Radio: 9C Units: R10</description>
-      <guid isPermaLink="false">2026-01-22 22:00:00</guid>
-      <pubDate>Thu, 22 Jan 2026 22:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
