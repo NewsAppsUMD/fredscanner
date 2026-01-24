@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 19:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 20:02:07 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 2:58 pm</title>
+      <description>100 BLOCK WOODMERE CIR Radio: 9C Units: E72</description>
+      <guid isPermaLink="false">2026-01-24 14:58:00</guid>
+      <pubDate>Sat, 24 Jan 2026 14:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:52 pm</title>
+      <description>6600 BLOCK WOODBINE RD Units: K17</description>
+      <guid isPermaLink="false">2026-01-24 14:52:00</guid>
+      <pubDate>Sat, 24 Jan 2026 14:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:38 pm</title>
+      <description>800 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-01-24 14:38:00</guid>
+      <pubDate>Sat, 24 Jan 2026 14:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 2:15 pm</title>
       <description>GREEN VALLEY RD / WINDSOR RD Radio: 9C Units: E251, E231, A259, TT23</description>
@@ -288,24 +306,6 @@
       <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR285</description>
       <guid isPermaLink="false">2026-01-23 15:01:00</guid>
       <pubDate>Fri, 23 Jan 2026 15:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
-      <description>100 BLOCK N MCCAIN DR, HOME DEPOT - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-01-23 14:37:00</guid>
-      <pubDate>Fri, 23 Jan 2026 14:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:18 pm</title>
-      <description>2700 BLOCK WASHINGTON ST Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-01-23 14:18:00</guid>
-      <pubDate>Fri, 23 Jan 2026 14:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 11:21 am</title>
-      <description>100 BLOCK S MARYLAND AVE Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-01-23 11:21:00</guid>
-      <pubDate>Fri, 23 Jan 2026 11:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
