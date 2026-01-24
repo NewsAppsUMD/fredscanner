@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 04:13:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 04:41:31 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 11:35 pm</title>
+      <description>700 BLOCK BARLOW RD Units: TW6</description>
+      <guid isPermaLink="false">2026-01-23 23:35:00</guid>
+      <pubDate>Fri, 23 Jan 2026 23:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:25 pm</title>
       <description>I70WB / 38MM Units: A89</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9B Units: A307, PE102</description>
       <guid isPermaLink="false">2026-01-22 15:12:00</guid>
       <pubDate>Thu, 22 Jan 2026 15:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:56 pm</title>
-      <description>2900 BLOCK FENCE BUSTER CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-01-22 14:56:00</guid>
-      <pubDate>Thu, 22 Jan 2026 14:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
