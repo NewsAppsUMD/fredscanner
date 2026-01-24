@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 14:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 14:35:51 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 9:08 am</title>
+      <description>2200 BLOCK COLD SPRINGS RD Units: TW6</description>
+      <guid isPermaLink="false">2026-01-24 09:08:00</guid>
+      <pubDate>Sat, 24 Jan 2026 09:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:51 am</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, DAYS INN Radio: 9D Units: PE311, R3, A318, ALS31, BC901, EMS901</description>
@@ -300,12 +306,6 @@
       <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, IAO Radio: 9B Units: E11, E201, R3, A18, A209</description>
       <guid isPermaLink="false">2026-01-22 18:53:00</guid>
       <pubDate>Thu, 22 Jan 2026 18:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:43 pm</title>
-      <description>RIDGE RD / WOODFIELD RD Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2026-01-22 18:43:00</guid>
-      <pubDate>Thu, 22 Jan 2026 18:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
