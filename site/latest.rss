@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Jan 2026 13:39:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 14:02:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:51 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, DAYS INN Radio: 9D Units: PE311, R3, A318, ALS31, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-01-24 08:51:00</guid>
+      <pubDate>Sat, 24 Jan 2026 08:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 7:01 am</title>
       <description>7300 BLOCK BEECHTREE DR, IAO Radio: 9C Units: A129</description>
@@ -300,12 +306,6 @@
       <description>RIDGE RD / WOODFIELD RD Radio: 7A1 Units: E251</description>
       <guid isPermaLink="false">2026-01-22 18:43:00</guid>
       <pubDate>Thu, 22 Jan 2026 18:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:27 pm</title>
-      <description>800 BLOCK MOTTER AVE, SHARPES SQUARE Radio: 9C Units: PE23, E33, R3</description>
-      <guid isPermaLink="false">2026-01-22 18:27:00</guid>
-      <pubDate>Thu, 22 Jan 2026 18:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
