@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 16:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 16:38:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:16 am</title>
+      <description>1600 BLOCK BOWMANS FARM RD Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-01-25 11:16:00</guid>
+      <pubDate>Sun, 25 Jan 2026 11:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:02 am</title>
+      <description>10300 BLOCK HURON CT Radio: 9D Units: R24</description>
+      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
+      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:02 am</title>
+      <description>10300 BLOCK HURON CT Radio: 9D Units: A158</description>
+      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
+      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:02 am</title>
+      <description>10300 BLOCK HURON CT Radio: 9D Units: A339</description>
+      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
+      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:02 am</title>
+      <description>10300 BLOCK HURON CT Radio: 9D Units: R24</description>
+      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
+      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:57 am</title>
       <description>10300 BLOCK HURON CT Radio: 9D Units: E153, E331, E172, E111, PE23, R15, Q11, R24, A158, ALS33, BC901, BC902, SAF901</description>
@@ -276,36 +306,6 @@
       <description>2200 BLOCK COLD SPRINGS RD Units: TW6</description>
       <guid isPermaLink="false">2026-01-24 09:08:00</guid>
       <pubDate>Sat, 24 Jan 2026 09:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:51 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, DAYS INN Radio: 9D Units: PE311, R3, A318, ALS31, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-01-24 08:51:00</guid>
-      <pubDate>Sat, 24 Jan 2026 08:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 7:01 am</title>
-      <description>7300 BLOCK BEECHTREE DR, IAO Radio: 9C Units: A129</description>
-      <guid isPermaLink="false">2026-01-24 07:01:00</guid>
-      <pubDate>Sat, 24 Jan 2026 07:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 6:51 am</title>
-      <description>7300 BLOCK BEECHTREE DR, IAO Radio: 9C Units: E121, BR75, DNR</description>
-      <guid isPermaLink="false">2026-01-24 06:51:00</guid>
-      <pubDate>Sat, 24 Jan 2026 06:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:44 am</title>
-      <description>100 BLOCK W CHURCH ST Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-01-24 05:44:00</guid>
-      <pubDate>Sat, 24 Jan 2026 05:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 5:42 am</title>
-      <description>700 BLOCK LISBON CENTER DR, MCDONALDS Units: R15</description>
-      <guid isPermaLink="false">2026-01-24 05:42:00</guid>
-      <pubDate>Sat, 24 Jan 2026 05:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
