@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Jan 2026 01:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 02:46:43 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:08 pm</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: EK114</description>
+      <guid isPermaLink="false">2026-01-24 21:08:00</guid>
+      <pubDate>Sat, 24 Jan 2026 21:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:03 pm</title>
+      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: RID2, E132</description>
+      <guid isPermaLink="false">2026-01-24 21:03:00</guid>
+      <pubDate>Sat, 24 Jan 2026 21:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:00 pm</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Units: A38</description>
+      <guid isPermaLink="false">2026-01-24 21:00:00</guid>
+      <pubDate>Sat, 24 Jan 2026 21:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:57 pm</title>
+      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: RID, A307, EMS902, W10</description>
+      <guid isPermaLink="false">2026-01-24 20:57:00</guid>
+      <pubDate>Sat, 24 Jan 2026 20:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:49 pm</title>
+      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: E61, R24, SAF900</description>
+      <guid isPermaLink="false">2026-01-24 20:49:00</guid>
+      <pubDate>Sat, 24 Jan 2026 20:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:49 pm</title>
+      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: R10</description>
+      <guid isPermaLink="false">2026-01-24 20:49:00</guid>
+      <pubDate>Sat, 24 Jan 2026 20:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:43 pm</title>
+      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: PE102, R10, TW6, K10, EK64, ALS30, BC902, BC901, SAF900</description>
+      <guid isPermaLink="false">2026-01-24 20:43:00</guid>
+      <pubDate>Sat, 24 Jan 2026 20:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 8:02 pm</title>
       <description>S EAST ST / E ALL SAINTS ST Radio: 9C Units: E33</description>
@@ -264,48 +306,6 @@
       <description>I70WB / 38MM Units: A89</description>
       <guid isPermaLink="false">2026-01-23 18:25:00</guid>
       <pubDate>Fri, 23 Jan 2026 18:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:25 pm</title>
-      <description>I70WB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2026-01-23 18:25:00</guid>
-      <pubDate>Fri, 23 Jan 2026 18:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:21 pm</title>
-      <description>11000 BLOCK BENNIE DUNCAN RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-01-23 18:21:00</guid>
-      <pubDate>Fri, 23 Jan 2026 18:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:03 pm</title>
-      <description>14200 BLOCK LEWISDALE RD Radio: 7A1 Units: TT23, E231</description>
-      <guid isPermaLink="false">2026-01-23 18:03:00</guid>
-      <pubDate>Fri, 23 Jan 2026 18:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:28 pm</title>
-      <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR285</description>
-      <guid isPermaLink="false">2026-01-23 17:28:00</guid>
-      <pubDate>Fri, 23 Jan 2026 17:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
-      <description>STADIUM DR / NEW DESIGN RD Radio: 9B Units: A318, E311</description>
-      <guid isPermaLink="false">2026-01-23 16:32:00</guid>
-      <pubDate>Fri, 23 Jan 2026 16:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 4:18 pm</title>
-      <description>3600 BLOCK POINT OF ROCKS RD Radio: 9C Units: E52</description>
-      <guid isPermaLink="false">2026-01-23 16:18:00</guid>
-      <pubDate>Fri, 23 Jan 2026 16:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:12 pm</title>
-      <description>GREEN VALLEY RD / NEW LONDON RD Radio: 9B Units: A158, E153</description>
-      <guid isPermaLink="false">2026-01-23 16:12:00</guid>
-      <pubDate>Fri, 23 Jan 2026 16:12:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
