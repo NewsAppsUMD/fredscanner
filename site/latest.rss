@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 11:34:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:04:00 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:45 am</title>
+      <description>4200 BLOCK BARTHOLOWS RD Radio: 9C Units: E251, R15</description>
+      <guid isPermaLink="false">2026-01-26 06:45:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:39 am</title>
+      <description>8600 BLOCK BIGGS FORD RD, FREDERICKTOWNE BAPTIST CHURCH Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-01-26 06:39:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:28 am</title>
       <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
@@ -294,18 +306,6 @@
       <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: BTF, E501, EK224, A18, BR226, BR116, BR75, BR205, BR85, W1</description>
       <guid isPermaLink="false">2026-01-24 12:59:00</guid>
       <pubDate>Sat, 24 Jan 2026 12:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:55 pm</title>
-      <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: K1</description>
-      <guid isPermaLink="false">2026-01-24 12:55:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:52 pm</title>
-      <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: E291, BR16, BR35</description>
-      <guid isPermaLink="false">2026-01-24 12:52:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
