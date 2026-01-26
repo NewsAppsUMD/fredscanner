@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 13:16:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 13:44:24 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:36 am</title>
+      <description>7700 BLOCK DANCE HALL RD Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2026-01-26 08:36:00</guid>
+      <pubDate>Mon, 26 Jan 2026 08:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 6:45 am</title>
       <description>4200 BLOCK BARTHOLOWS RD Radio: 9C Units: E251, R15</description>
@@ -300,12 +306,6 @@
       <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: EK114, BR235</description>
       <guid isPermaLink="false">2026-01-24 13:05:00</guid>
       <pubDate>Sat, 24 Jan 2026 13:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:59 pm</title>
-      <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: BTF, E501, EK224, A18, BR226, BR116, BR75, BR205, BR85, W1</description>
-      <guid isPermaLink="false">2026-01-24 12:59:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
