@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 14:06:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 14:40:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:35 am</title>
+      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: E33</description>
+      <guid isPermaLink="false">2026-01-26 09:35:00</guid>
+      <pubDate>Mon, 26 Jan 2026 09:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:14 am</title>
+      <description>100 BLOCK HARP PL Radio: 9C Units: E82, TW7</description>
+      <guid isPermaLink="false">2026-01-26 09:14:00</guid>
+      <pubDate>Mon, 26 Jan 2026 09:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:36 am</title>
       <description>7700 BLOCK DANCE HALL RD Radio: 9C Units: BR116</description>
@@ -294,18 +306,6 @@
       <description>JAMES MONROE HWY / MYERSVILLE LN Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2026-01-24 13:36:00</guid>
       <pubDate>Sat, 24 Jan 2026 13:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:27 pm</title>
-      <description>I270SB / 26MM, I270SB / 26MM Radio: 9B Units: E231, R3, A238, TT23</description>
-      <guid isPermaLink="false">2026-01-24 13:27:00</guid>
-      <pubDate>Sat, 24 Jan 2026 13:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:05 pm</title>
-      <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: EK114, BR235</description>
-      <guid isPermaLink="false">2026-01-24 13:05:00</guid>
-      <pubDate>Sat, 24 Jan 2026 13:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
