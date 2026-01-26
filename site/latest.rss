@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 11:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 11:34:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:28 am</title>
+      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
+      <guid isPermaLink="false">2026-01-26 06:28:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:28 am</title>
+      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E161</description>
+      <guid isPermaLink="false">2026-01-26 06:28:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 6:25 am</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: R3</description>
+      <guid isPermaLink="false">2026-01-26 06:25:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 6:23 am</title>
+      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
+      <guid isPermaLink="false">2026-01-26 06:23:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 6:21 am</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: E121</description>
+      <guid isPermaLink="false">2026-01-26 06:21:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 6:18 am</title>
+      <description>1200 BLOCK DANIELLE DR Radio: 9B Units: A39</description>
+      <guid isPermaLink="false">2026-01-26 06:18:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 6:14 am</title>
+      <description>1200 BLOCK DANIELLE DR Radio: 9D Units: A19, ALS2, TT4, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-01-26 06:14:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>STABBING - ALS: 6:06 am</title>
+      <description>1200 BLOCK DANIELLE DR Radio: 9B Units: A18, ALS4, E11, BC903, EMS901, BR16</description>
+      <guid isPermaLink="false">2026-01-26 06:06:00</guid>
+      <pubDate>Mon, 26 Jan 2026 06:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:14 pm</title>
       <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9C Units: E111, Q11</description>
@@ -258,54 +306,6 @@
       <description>8500 BLOCK INDIAN SPRINGS RD Radio: 9C Units: E291, BR16, BR35</description>
       <guid isPermaLink="false">2026-01-24 12:52:00</guid>
       <pubDate>Sat, 24 Jan 2026 12:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:51 pm</title>
-      <description>LIBERTY RD / WORMANS MILL RD Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2026-01-24 12:51:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:50 pm</title>
-      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:3D Radio: 9C Units: R24</description>
-      <guid isPermaLink="false">2026-01-24 12:50:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:39 pm</title>
-      <description>800 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: TW7</description>
-      <guid isPermaLink="false">2026-01-24 12:39:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:31 pm</title>
-      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:3D Radio: 9C Units: E111, E291, Q11, K1</description>
-      <guid isPermaLink="false">2026-01-24 12:31:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:10 pm</title>
-      <description>5200 BLOCK DUKE CT Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-01-24 12:10:00</guid>
-      <pubDate>Sat, 24 Jan 2026 12:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 11:53 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, REGIS SALON - FRANCIS SCOTT KEY MALL Units: E311, E33, R3</description>
-      <guid isPermaLink="false">2026-01-24 11:53:00</guid>
-      <pubDate>Sat, 24 Jan 2026 11:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
-      <description>W GREEN ST / N CHURCH ST Radio: 9B Units: A129, E72</description>
-      <guid isPermaLink="false">2026-01-24 11:08:00</guid>
-      <pubDate>Sat, 24 Jan 2026 11:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
-      <description>100 BLOCK E SECOND ST, GRACE UNITED CHURCH Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-01-24 10:23:00</guid>
-      <pubDate>Sat, 24 Jan 2026 10:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
