@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Jan 2026 22:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 22:37:57 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:16 pm</title>
+      <description>200 BLOCK SHOREBIRD ST, Bldg:A, NOODLES &amp; COMPANY - MARKET SQUARE Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-01-26 17:16:00</guid>
+      <pubDate>Mon, 26 Jan 2026 17:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 4:51 pm</title>
       <description>4600 BLOCK FOXVILLE RD Radio: 9C Units: K10</description>
@@ -298,12 +304,6 @@
     <item>
       <title>HOUSE FIRE: 8:49 pm</title>
       <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: E61, R24, SAF900</description>
-      <guid isPermaLink="false">2026-01-24 20:49:00</guid>
-      <pubDate>Sat, 24 Jan 2026 20:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:49 pm</title>
-      <description>17400 BLOCK NAYLOR RD, RT550 / CULLEN DR Radio: 9D Units: R10</description>
       <guid isPermaLink="false">2026-01-24 20:49:00</guid>
       <pubDate>Sat, 24 Jan 2026 20:49:00 -0500</pubDate>
     </item>
