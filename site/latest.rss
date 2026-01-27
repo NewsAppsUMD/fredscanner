@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 23:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 23:35:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:25 pm</title>
+      <description>3500 BLOCK CONNOR PL Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2026-01-27 18:25:00</guid>
+      <pubDate>Tue, 27 Jan 2026 18:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:09 pm</title>
+      <description>1700 BLOCK ALGONQUIN RD Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-01-27 18:09:00</guid>
+      <pubDate>Tue, 27 Jan 2026 18:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 6:04 pm</title>
+      <description>FOXVILLE RD / TOWER RD Radio: 9D Units: PE102, K21, BR216, E212</description>
+      <guid isPermaLink="false">2026-01-27 18:04:00</guid>
+      <pubDate>Tue, 27 Jan 2026 18:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 4:42 pm</title>
       <description>26100 BLOCK RUDALE DR Radio: 7A1 Units: ALS23</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK HARP PL Radio: 9C Units: E82, TW7</description>
       <guid isPermaLink="false">2026-01-26 09:14:00</guid>
       <pubDate>Mon, 26 Jan 2026 09:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:36 am</title>
-      <description>7700 BLOCK DANCE HALL RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-01-26 08:36:00</guid>
-      <pubDate>Mon, 26 Jan 2026 08:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:45 am</title>
-      <description>4200 BLOCK BARTHOLOWS RD Radio: 9C Units: E251, R15</description>
-      <guid isPermaLink="false">2026-01-26 06:45:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:39 am</title>
-      <description>8600 BLOCK BIGGS FORD RD, FREDERICKTOWNE BAPTIST CHURCH Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-01-26 06:39:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
