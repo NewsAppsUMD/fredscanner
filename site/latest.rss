@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 21:02:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 21:34:42 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 4:29 pm</title>
+      <description>1100 BLOCK DUTCHMANS CREEK DR, DUNKIN DONUTS - BRUNSWICK CROSSING Units: PE52</description>
+      <guid isPermaLink="false">2026-01-27 16:29:00</guid>
+      <pubDate>Tue, 27 Jan 2026 16:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
+      <description>5900 BLOCKB MEADOW RD Units: A158, E331</description>
+      <guid isPermaLink="false">2026-01-27 16:20:00</guid>
+      <pubDate>Tue, 27 Jan 2026 16:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 4:14 pm</title>
+      <description>26100 BLOCK VIEWLAND DR Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-01-27 16:14:00</guid>
+      <pubDate>Tue, 27 Jan 2026 16:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
       <description>2500 BLOCK JEFFERSON PIKE, CREATING CHILDREN LEARNING CENTER Radio: 9C Units: E201, T5</description>
@@ -288,24 +306,6 @@
       <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
       <guid isPermaLink="false">2026-01-26 06:28:00</guid>
       <pubDate>Mon, 26 Jan 2026 06:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:28 am</title>
-      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E161</description>
-      <guid isPermaLink="false">2026-01-26 06:28:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 6:25 am</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: R3</description>
-      <guid isPermaLink="false">2026-01-26 06:25:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:23 am</title>
-      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2026-01-26 06:23:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
