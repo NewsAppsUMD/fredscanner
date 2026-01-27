@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 21:34:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 22:02:26 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:42 pm</title>
+      <description>26100 BLOCK RUDALE DR Radio: 7A1 Units: ALS23</description>
+      <guid isPermaLink="false">2026-01-27 16:42:00</guid>
+      <pubDate>Tue, 27 Jan 2026 16:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 4:29 pm</title>
       <description>1100 BLOCK DUTCHMANS CREEK DR, DUNKIN DONUTS - BRUNSWICK CROSSING Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>8600 BLOCK BIGGS FORD RD, FREDERICKTOWNE BAPTIST CHURCH Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2026-01-26 06:39:00</guid>
       <pubDate>Mon, 26 Jan 2026 06:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:28 am</title>
-      <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2026-01-26 06:28:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
