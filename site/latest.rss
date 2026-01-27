@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 17:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 17:40:34 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 12:28 pm</title>
+      <description>6800 BLOCK LARKSPUR SQ Units: PE311, E33, TT4</description>
+      <guid isPermaLink="false">2026-01-27 12:28:00</guid>
+      <pubDate>Tue, 27 Jan 2026 12:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 12:09 pm</title>
+      <description>11600 BLOCK ROPP LN Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-01-27 12:09:00</guid>
+      <pubDate>Tue, 27 Jan 2026 12:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 11:20 am</title>
       <description>11800 BLOCK ROPP LN Radio: 6B Units: BR285</description>
@@ -294,18 +306,6 @@
       <description>8100 BLOCK MAPLEVILLE RD Units: E82</description>
       <guid isPermaLink="false">2026-01-25 14:12:00</guid>
       <pubDate>Sun, 25 Jan 2026 14:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 1:50 pm</title>
-      <description>1300 BLOCK DAVID LN Radio: 9C Units: E11, E33, TT4, A18</description>
-      <guid isPermaLink="false">2026-01-25 13:50:00</guid>
-      <pubDate>Sun, 25 Jan 2026 13:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:16 am</title>
-      <description>1600 BLOCK BOWMANS FARM RD Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-01-25 11:16:00</guid>
-      <pubDate>Sun, 25 Jan 2026 11:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
