@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 15:40:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 16:41:51 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 11:20 am</title>
+      <description>11800 BLOCK ROPP LN Radio: 6B Units: BR285</description>
+      <guid isPermaLink="false">2026-01-27 11:20:00</guid>
+      <pubDate>Tue, 27 Jan 2026 11:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 11:19 am</title>
+      <description>10100 BLOCK ROCKY RIDGE RD, Bldg:B Radio: 9D Units: E102</description>
+      <guid isPermaLink="false">2026-01-27 11:19:00</guid>
+      <pubDate>Tue, 27 Jan 2026 11:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 11:15 am</title>
+      <description>10100 BLOCK ROCKY RIDGE RD, Bldg:B Radio: 9D Units: ALS30</description>
+      <guid isPermaLink="false">2026-01-27 11:15:00</guid>
+      <pubDate>Tue, 27 Jan 2026 11:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 11:10 am</title>
+      <description>10100 BLOCK ROCKY RIDGE RD, Bldg:B Radio: 9D Units: E132, E91, R10, HM33, HMSU33, A307, PE102, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-01-27 11:10:00</guid>
+      <pubDate>Tue, 27 Jan 2026 11:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 10:59 am</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9C Units: E33, E11</description>
+      <guid isPermaLink="false">2026-01-27 10:59:00</guid>
+      <pubDate>Tue, 27 Jan 2026 10:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:42 am</title>
+      <description>6700 BLOCK ENGLISH MUFFIN WAY, UNITED PARCEL SERVICE Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-01-27 10:42:00</guid>
+      <pubDate>Tue, 27 Jan 2026 10:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:59 am</title>
       <description>7000 BLOCK EAGLEHEAD DR Radio: 9C Units: E153, E172, Q11</description>
@@ -270,42 +306,6 @@
       <description>1600 BLOCK BOWMANS FARM RD Radio: 9C Units: E33, TT4</description>
       <guid isPermaLink="false">2026-01-25 11:16:00</guid>
       <pubDate>Sun, 25 Jan 2026 11:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:02 am</title>
-      <description>10300 BLOCK HURON CT Radio: 9D Units: R24</description>
-      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
-      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:02 am</title>
-      <description>10300 BLOCK HURON CT Radio: 9D Units: A158</description>
-      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
-      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:02 am</title>
-      <description>10300 BLOCK HURON CT Radio: 9D Units: A339</description>
-      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
-      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:02 am</title>
-      <description>10300 BLOCK HURON CT Radio: 9D Units: R24</description>
-      <guid isPermaLink="false">2026-01-25 11:02:00</guid>
-      <pubDate>Sun, 25 Jan 2026 11:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:57 am</title>
-      <description>10300 BLOCK HURON CT Radio: 9D Units: E153, E331, E172, E111, PE23, R15, Q11, R24, A158, ALS33, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-01-25 10:57:00</guid>
-      <pubDate>Sun, 25 Jan 2026 10:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
-      <description>100 BLOCK WILLOWDALE DR, KINDERCARE LEARNING CENTER Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-01-25 10:28:00</guid>
-      <pubDate>Sun, 25 Jan 2026 10:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
