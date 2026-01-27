@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 13:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 14:07:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:02 am</title>
+      <description>MONOCACY BLVD / E SOUTH ST, IAO Radio: 9B Units: A38, E33</description>
+      <guid isPermaLink="false">2026-01-27 09:02:00</guid>
+      <pubDate>Tue, 27 Jan 2026 09:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:34 am</title>
       <description>100 BLOCK THOMAS JOHNSON DR, Apt/Unit:4, USDA - FREDERICK RESEARCH PARK Radio: 9C Units: E291, PE23</description>
@@ -300,12 +306,6 @@
       <description>3400 BLOCK MARBURY CT Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2026-01-25 01:41:00</guid>
       <pubDate>Sun, 25 Jan 2026 01:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:51 am</title>
-      <description>1600 BLOCK ROSEMONT AVE, SHEETZ - ROSEMONT Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-01-25 00:51:00</guid>
-      <pubDate>Sun, 25 Jan 2026 00:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
