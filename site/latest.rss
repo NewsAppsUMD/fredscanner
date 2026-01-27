@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Jan 2026 19:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 19:38:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
+      <description>2500 BLOCK JEFFERSON PIKE, CREATING CHILDREN LEARNING CENTER Radio: 9C Units: E201, T5</description>
+      <guid isPermaLink="false">2026-01-27 14:26:00</guid>
+      <pubDate>Tue, 27 Jan 2026 14:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:21 pm</title>
+      <description>23400 BLOCK FREDERICK RD STATION 735, STATION 735 Radio: 7A1 Units: PE311</description>
+      <guid isPermaLink="false">2026-01-27 14:21:00</guid>
+      <pubDate>Tue, 27 Jan 2026 14:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:17 pm</title>
+      <description>11000 BLOCK BRINK RD Radio: 7A4 Units: E231</description>
+      <guid isPermaLink="false">2026-01-27 14:17:00</guid>
+      <pubDate>Tue, 27 Jan 2026 14:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 1:07 pm</title>
       <description>2100 BLOCK BRISTOL DR Units: E11, E501</description>
@@ -288,24 +306,6 @@
       <description>12400 BLOCK WOODSBORO PIKE, EASTERN MOBILITY Radio: 9C Units: E91</description>
       <guid isPermaLink="false">2026-01-26 06:23:00</guid>
       <pubDate>Mon, 26 Jan 2026 06:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 6:21 am</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: E121</description>
-      <guid isPermaLink="false">2026-01-26 06:21:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>STABBING - ALS: 6:18 am</title>
-      <description>1200 BLOCK DANIELLE DR Radio: 9B Units: A39</description>
-      <guid isPermaLink="false">2026-01-26 06:18:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 6:14 am</title>
-      <description>1200 BLOCK DANIELLE DR Radio: 9D Units: A19, ALS2, TT4, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-01-26 06:14:00</guid>
-      <pubDate>Mon, 26 Jan 2026 06:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
