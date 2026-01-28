@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Jan 2026 00:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 02:40:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:56 pm</title>
+      <description>RT85 / I270, RT85 / I270 Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-01-27 20:56:00</guid>
+      <pubDate>Tue, 27 Jan 2026 20:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:25 pm</title>
       <description>3500 BLOCK CONNOR PL Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: E33</description>
       <guid isPermaLink="false">2026-01-26 09:35:00</guid>
       <pubDate>Mon, 26 Jan 2026 09:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:14 am</title>
-      <description>100 BLOCK HARP PL Radio: 9C Units: E82, TW7</description>
-      <guid isPermaLink="false">2026-01-26 09:14:00</guid>
-      <pubDate>Mon, 26 Jan 2026 09:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
