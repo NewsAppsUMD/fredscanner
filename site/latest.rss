@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 16:44:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 17:11:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:50 am</title>
+      <description>300 BLOCK S SETON AVE, Bldg:A, EMMITSBURG COMMUNITY CENTER Radio: 9C Units: E61, TW6</description>
+      <guid isPermaLink="false">2026-01-29 11:50:00</guid>
+      <pubDate>Thu, 29 Jan 2026 11:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:24 am</title>
       <description>3500 BLOCK JOHN SIMMONS ST, Bldg:C Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCKB MEADOW RD Units: A158, E331</description>
       <guid isPermaLink="false">2026-01-27 16:20:00</guid>
       <pubDate>Tue, 27 Jan 2026 16:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:14 pm</title>
-      <description>26100 BLOCK VIEWLAND DR Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2026-01-27 16:14:00</guid>
-      <pubDate>Tue, 27 Jan 2026 16:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
