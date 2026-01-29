@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 17:43:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 18:08:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:44 pm</title>
+      <description>100 BLOCK S MARKET ST, Bldg:A, CARRIAGE HOUSE APTS Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-01-29 12:44:00</guid>
+      <pubDate>Thu, 29 Jan 2026 12:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:50 am</title>
       <description>300 BLOCK S SETON AVE, Bldg:A, EMMITSBURG COMMUNITY CENTER Radio: 9C Units: E61, TW6</description>
@@ -300,12 +306,6 @@
       <description>1100 BLOCK DUTCHMANS CREEK DR, DUNKIN DONUTS - BRUNSWICK CROSSING Units: PE52</description>
       <guid isPermaLink="false">2026-01-27 16:29:00</guid>
       <pubDate>Tue, 27 Jan 2026 16:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
-      <description>5900 BLOCKB MEADOW RD Units: A158, E331</description>
-      <guid isPermaLink="false">2026-01-27 16:20:00</guid>
-      <pubDate>Tue, 27 Jan 2026 16:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
