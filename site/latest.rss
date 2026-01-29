@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 18:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 18:44:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:22 pm</title>
+      <description>9300 BLOCK WOODSBORO RD Radio: 9D Units: E172, R15, A179, ALS17, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-01-29 13:22:00</guid>
+      <pubDate>Thu, 29 Jan 2026 13:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:19 pm</title>
+      <description>8500 BLOCK PROGRESS DR Radio: 9C Units: E31, Q11</description>
+      <guid isPermaLink="false">2026-01-29 13:19:00</guid>
+      <pubDate>Thu, 29 Jan 2026 13:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:44 pm</title>
       <description>100 BLOCK S MARKET ST, Bldg:A, CARRIAGE HOUSE APTS Radio: 9C Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>FOXVILLE RD / TOWER RD Radio: 9D Units: PE102, K21, BR216, E212</description>
       <guid isPermaLink="false">2026-01-27 18:04:00</guid>
       <pubDate>Tue, 27 Jan 2026 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:42 pm</title>
-      <description>26100 BLOCK RUDALE DR Radio: 7A1 Units: ALS23</description>
-      <guid isPermaLink="false">2026-01-27 16:42:00</guid>
-      <pubDate>Tue, 27 Jan 2026 16:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 4:29 pm</title>
-      <description>1100 BLOCK DUTCHMANS CREEK DR, DUNKIN DONUTS - BRUNSWICK CROSSING Units: PE52</description>
-      <guid isPermaLink="false">2026-01-27 16:29:00</guid>
-      <pubDate>Tue, 27 Jan 2026 16:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
