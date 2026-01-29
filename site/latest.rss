@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 14:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 15:10:18 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:51 am</title>
+      <description>BEL AIRE LN / PARK RIDGE DR Radio: 9B Units: E11</description>
+      <guid isPermaLink="false">2026-01-29 09:51:00</guid>
+      <pubDate>Thu, 29 Jan 2026 09:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:32 am</title>
       <description>100 BLOCK N CHURCH ST, STATION 30 Units: A19</description>
@@ -300,12 +306,6 @@
       <description>11000 BLOCK BRINK RD Radio: 7A4 Units: E231</description>
       <guid isPermaLink="false">2026-01-27 14:17:00</guid>
       <pubDate>Tue, 27 Jan 2026 14:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:07 pm</title>
-      <description>2100 BLOCK BRISTOL DR Units: E11, E501</description>
-      <guid isPermaLink="false">2026-01-27 13:07:00</guid>
-      <pubDate>Tue, 27 Jan 2026 13:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
