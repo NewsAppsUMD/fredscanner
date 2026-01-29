@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 02:53:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 03:44:31 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:13 pm</title>
+      <description>1400 BLOCK KEY PKWY, Apt/Unit:202A, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Radio: 9C Units: E11, E121, TT4</description>
+      <guid isPermaLink="false">2026-01-28 22:13:00</guid>
+      <pubDate>Wed, 28 Jan 2026 22:13:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:58 pm</title>
+      <description>6000 BLOCK CALLA PL Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-01-28 21:58:00</guid>
+      <pubDate>Wed, 28 Jan 2026 21:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:48 pm</title>
       <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E161, Q11</description>
@@ -294,18 +306,6 @@
       <description>10100 BLOCK ROCKY RIDGE RD, Bldg:B Radio: 9D Units: E132, E91, R10, HM33, HMSU33, A307, PE102, BC902, SAF901</description>
       <guid isPermaLink="false">2026-01-27 11:10:00</guid>
       <pubDate>Tue, 27 Jan 2026 11:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 10:59 am</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9C Units: E33, E11</description>
-      <guid isPermaLink="false">2026-01-27 10:59:00</guid>
-      <pubDate>Tue, 27 Jan 2026 10:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:42 am</title>
-      <description>6700 BLOCK ENGLISH MUFFIN WAY, UNITED PARCEL SERVICE Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-01-27 10:42:00</guid>
-      <pubDate>Tue, 27 Jan 2026 10:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
