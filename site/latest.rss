@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Jan 2026 15:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 15:43:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:24 am</title>
+      <description>3500 BLOCK JOHN SIMMONS ST, Bldg:C Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2026-01-29 10:24:00</guid>
+      <pubDate>Thu, 29 Jan 2026 10:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:17 am</title>
+      <description>1200 BLOCK BASE RD Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2026-01-29 10:17:00</guid>
+      <pubDate>Thu, 29 Jan 2026 10:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:09 am</title>
+      <description>100 BLOCK JENNI LYNN DR Units: T5</description>
+      <guid isPermaLink="false">2026-01-29 10:09:00</guid>
+      <pubDate>Thu, 29 Jan 2026 10:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:51 am</title>
       <description>BEL AIRE LN / PARK RIDGE DR Radio: 9B Units: E11</description>
@@ -288,24 +306,6 @@
       <description>26100 BLOCK VIEWLAND DR Radio: 7A1 Units: A259</description>
       <guid isPermaLink="false">2026-01-27 16:14:00</guid>
       <pubDate>Tue, 27 Jan 2026 16:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
-      <description>2500 BLOCK JEFFERSON PIKE, CREATING CHILDREN LEARNING CENTER Radio: 9C Units: E201, T5</description>
-      <guid isPermaLink="false">2026-01-27 14:26:00</guid>
-      <pubDate>Tue, 27 Jan 2026 14:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 2:21 pm</title>
-      <description>23400 BLOCK FREDERICK RD STATION 735, STATION 735 Radio: 7A1 Units: PE311</description>
-      <guid isPermaLink="false">2026-01-27 14:21:00</guid>
-      <pubDate>Tue, 27 Jan 2026 14:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 2:17 pm</title>
-      <description>11000 BLOCK BRINK RD Radio: 7A4 Units: E231</description>
-      <guid isPermaLink="false">2026-01-27 14:17:00</guid>
-      <pubDate>Tue, 27 Jan 2026 14:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
