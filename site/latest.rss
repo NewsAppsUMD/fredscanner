@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 18:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 19:11:14 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:00 pm</title>
+      <description>200 BLOCK BISHOPS GLEN DR Units: E11</description>
+      <guid isPermaLink="false">2026-01-30 14:00:00</guid>
+      <pubDate>Fri, 30 Jan 2026 14:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 1:57 pm</title>
+      <description>1600 BLOCK OPOSSUMTOWN PIKE, STAUFFER FUNERAL HOME - FREDERICK Units: E291, E501, R2, R3, A299, A28, A19, A39, ALS29, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-01-30 13:57:00</guid>
+      <pubDate>Fri, 30 Jan 2026 13:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 12:54 pm</title>
       <description>6600 BLOCK SEA GULL CT Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>TOWER RD / FOXVILLE RD Units: A307, ALS30</description>
       <guid isPermaLink="false">2026-01-29 08:06:00</guid>
       <pubDate>Thu, 29 Jan 2026 08:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:01 am</title>
-      <description>CRESTWOOD BLVD / EDENTON CT Radio: 9D Units: PE311, R3, A318, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-01-29 08:01:00</guid>
-      <pubDate>Thu, 29 Jan 2026 08:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:32 am</title>
-      <description>200 BLOCK SOLAR DR Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-01-29 07:32:00</guid>
-      <pubDate>Thu, 29 Jan 2026 07:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
