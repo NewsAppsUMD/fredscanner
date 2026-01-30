@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 21:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 21:39:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:05 pm</title>
+      <description>I270SB / 28MM, I270SB / 28MM Units: PE311, E231, R3, A318, A259</description>
+      <guid isPermaLink="false">2026-01-30 16:05:00</guid>
+      <pubDate>Fri, 30 Jan 2026 16:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:51 pm</title>
       <description>6500 BLOCK GREEN VALLEY RD Units: A158, E153</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK JENNI LYNN DR Units: T5</description>
       <guid isPermaLink="false">2026-01-29 10:09:00</guid>
       <pubDate>Thu, 29 Jan 2026 10:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:51 am</title>
-      <description>BEL AIRE LN / PARK RIDGE DR Radio: 9B Units: E11</description>
-      <guid isPermaLink="false">2026-01-29 09:51:00</guid>
-      <pubDate>Thu, 29 Jan 2026 09:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
