@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 17:42:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 18:07:57 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 12:54 pm</title>
+      <description>6600 BLOCK SEA GULL CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-01-30 12:54:00</guid>
+      <pubDate>Fri, 30 Jan 2026 12:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:50 pm</title>
+      <description>I70EB / RT17, I70EB / RT17 Units: E72</description>
+      <guid isPermaLink="false">2026-01-30 12:50:00</guid>
+      <pubDate>Fri, 30 Jan 2026 12:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
+      <description>I70EB / RT17, I70EB / RT17 Units: E72</description>
+      <guid isPermaLink="false">2026-01-30 12:47:00</guid>
+      <pubDate>Fri, 30 Jan 2026 12:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:45 pm</title>
+      <description>I70EB / RT17, I70EB / RT17 Units: E121, R8, A89, A78</description>
+      <guid isPermaLink="false">2026-01-30 12:45:00</guid>
+      <pubDate>Fri, 30 Jan 2026 12:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:33 am</title>
       <description>GREEN VALLEY RD / DRUMMINE RD Radio: 9B Units: A179, E172</description>
@@ -282,30 +306,6 @@
       <description>200 BLOCK SOLAR DR Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2026-01-29 07:32:00</guid>
       <pubDate>Thu, 29 Jan 2026 07:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:37 am</title>
-      <description>500 BLOCK PATTON CIR, BUCKINGHAM CONDOS - 500 BLOCK PATTON CIR Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-01-29 02:37:00</guid>
-      <pubDate>Thu, 29 Jan 2026 02:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 1:49 am</title>
-      <description>7100 BLOCK WOODVILLE RD, TWDS WOODVILLE Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-01-29 01:49:00</guid>
-      <pubDate>Thu, 29 Jan 2026 01:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 10:13 pm</title>
-      <description>1400 BLOCK KEY PKWY, Apt/Unit:202A, KEY PARKWAY CONDOS - 1400 BLOCK KEY PKWY Radio: 9C Units: E11, E121, TT4</description>
-      <guid isPermaLink="false">2026-01-28 22:13:00</guid>
-      <pubDate>Wed, 28 Jan 2026 22:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:58 pm</title>
-      <description>6000 BLOCK CALLA PL Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-01-28 21:58:00</guid>
-      <pubDate>Wed, 28 Jan 2026 21:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
