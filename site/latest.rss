@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jan 2026 23:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:37:57 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:32 pm</title>
+      <description>40900 BLOCK TAYLORSTOWN MEADOWS PL Radio: 6DTAC11 Units: E281, R20, K5, T5, E232</description>
+      <guid isPermaLink="false">2026-01-30 18:32:00</guid>
+      <pubDate>Fri, 30 Jan 2026 18:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:20 pm</title>
       <description>RT340WB / MOUNT ZION RD, RT340WB / MOUNT ZION RD Units: E11, R3, A19, ALS4, BC903, EMS901</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK JOHN SIMMONS ST, Bldg:C Radio: 9C Units: E231, T23</description>
       <guid isPermaLink="false">2026-01-29 10:24:00</guid>
       <pubDate>Thu, 29 Jan 2026 10:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:17 am</title>
-      <description>1200 BLOCK BASE RD Radio: 9C Units: E501, E11</description>
-      <guid isPermaLink="false">2026-01-29 10:17:00</guid>
-      <pubDate>Thu, 29 Jan 2026 10:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
