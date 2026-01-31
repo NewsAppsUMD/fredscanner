@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 17:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 18:02:52 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 12:55 pm</title>
+      <description>6100 BLOCK MIDDLEBURG RD Units: E91</description>
+      <guid isPermaLink="false">2026-01-31 12:55:00</guid>
+      <pubDate>Sat, 31 Jan 2026 12:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:56 am</title>
       <description>3500 BLOCK JOHN SIMMONS ST, Bldg:A, CINCO DE MAYO - URBANA TOWN CENTER Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK LEE TRL Radio: ACOPS4 Units: E61, EK64, TW6, R10</description>
       <guid isPermaLink="false">2026-01-29 18:03:00</guid>
       <pubDate>Thu, 29 Jan 2026 18:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:09 pm</title>
-      <description>900 BLOCK N EAST ST, DOLLAR GENERAL - MONOCACY VILLAGE SHOPPING CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-01-29 17:09:00</guid>
-      <pubDate>Thu, 29 Jan 2026 17:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
