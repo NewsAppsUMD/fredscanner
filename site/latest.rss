@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Jan 2026 15:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 16:03:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:56 am</title>
+      <description>3500 BLOCK JOHN SIMMONS ST, Bldg:A, CINCO DE MAYO - URBANA TOWN CENTER Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2026-01-31 10:56:00</guid>
+      <pubDate>Sat, 31 Jan 2026 10:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 10:43 am</title>
+      <description>400 BLOCK DELAWARE RD Units: PE23</description>
+      <guid isPermaLink="false">2026-01-31 10:43:00</guid>
+      <pubDate>Sat, 31 Jan 2026 10:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 6:26 am</title>
       <description>200 BLOCK WASHINGTON ST Radio: 9B Units: R3</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK N EAST ST, DOLLAR GENERAL - MONOCACY VILLAGE SHOPPING CENTER Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-01-29 17:09:00</guid>
       <pubDate>Thu, 29 Jan 2026 17:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:02 pm</title>
-      <description>5300 BLOCK STRIPED MAPLE ST Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-01-29 16:02:00</guid>
-      <pubDate>Thu, 29 Jan 2026 16:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:51 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E232, A318</description>
-      <guid isPermaLink="false">2026-01-29 14:51:00</guid>
-      <pubDate>Thu, 29 Jan 2026 14:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
