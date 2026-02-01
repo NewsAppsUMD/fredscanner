@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Feb 2026 16:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 16:41:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:13 am</title>
+      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-02-01 11:13:00</guid>
+      <pubDate>Sun, 01 Feb 2026 11:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:54 am</title>
       <description>1300 BLOCK HOFFMAN HOME RD Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK APPLETON PL, THE GROVE AT ALBAN - 200 BLOCK APPLETON PL Units: E11, E31, PE23, E501, E121, R3, TT4, A18, ALS4, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-01-30 02:38:00</guid>
       <pubDate>Fri, 30 Jan 2026 02:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:19 am</title>
-      <description>3800 BLOCK CLAY ST Radio: 9D Units: E11, R3, T23</description>
-      <guid isPermaLink="false">2026-01-30 01:19:00</guid>
-      <pubDate>Fri, 30 Jan 2026 01:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
