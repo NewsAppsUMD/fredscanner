@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 03:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 04:40:49 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:34 pm</title>
+      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: E201, TT4</description>
+      <guid isPermaLink="false">2026-02-01 23:34:00</guid>
+      <pubDate>Sun, 01 Feb 2026 23:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:22 pm</title>
+      <description>THOMAS JOHNSON DR / CHRISTOPHERS XING Radio: 9B Units: EMS902</description>
+      <guid isPermaLink="false">2026-02-01 23:22:00</guid>
+      <pubDate>Sun, 01 Feb 2026 23:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 11:12 pm</title>
+      <description>100 BLOCK S MARKET ST, Apt/Unit:4A, JUNO BAKERY Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-02-01 23:12:00</guid>
+      <pubDate>Sun, 01 Feb 2026 23:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:06 pm</title>
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: T23</description>
@@ -288,24 +306,6 @@
       <description>6600 BLOCK SEA GULL CT Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-01-30 12:54:00</guid>
       <pubDate>Fri, 30 Jan 2026 12:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:50 pm</title>
-      <description>I70EB / RT17, I70EB / RT17 Units: E72</description>
-      <guid isPermaLink="false">2026-01-30 12:50:00</guid>
-      <pubDate>Fri, 30 Jan 2026 12:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
-      <description>I70EB / RT17, I70EB / RT17 Units: E72</description>
-      <guid isPermaLink="false">2026-01-30 12:47:00</guid>
-      <pubDate>Fri, 30 Jan 2026 12:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:45 pm</title>
-      <description>I70EB / RT17, I70EB / RT17 Units: E121, R8, A89, A78</description>
-      <guid isPermaLink="false">2026-01-30 12:45:00</guid>
-      <pubDate>Fri, 30 Jan 2026 12:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
