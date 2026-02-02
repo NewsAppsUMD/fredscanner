@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 00:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 01:32:12 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 8:27 pm</title>
+      <description>5800 BLOCK N CATOCTIN OVERLOOK DR Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-02-01 20:27:00</guid>
+      <pubDate>Sun, 01 Feb 2026 20:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:56 pm</title>
       <description>ROSEMONT AVE / N COLLEGE PKWY Radio: 9B Units: A28, E31</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CENTER CT / BALLENGER CENTER DR Radio: 9D Units: PE311, R3, A318, ALS31, EMS902</description>
       <guid isPermaLink="false">2026-01-30 09:05:00</guid>
       <pubDate>Fri, 30 Jan 2026 09:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:09 am</title>
-      <description>5500 BLOCK SPECTRUM DR, FSK GATEWAY SHOPPES Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-01-30 07:09:00</guid>
-      <pubDate>Fri, 30 Jan 2026 07:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
