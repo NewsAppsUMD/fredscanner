@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 17:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 18:09:31 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:48 pm</title>
+      <description>5100 BLOCK DARTMOOR PL Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-02-02 12:48:00</guid>
+      <pubDate>Mon, 02 Feb 2026 12:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:37 am</title>
       <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Radio: 9C Units: PE52, T5</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 28MM, I270SB / 28MM Units: PE311, E231, R3, A318, A259</description>
       <guid isPermaLink="false">2026-01-30 16:05:00</guid>
       <pubDate>Fri, 30 Jan 2026 16:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:51 pm</title>
-      <description>6500 BLOCK GREEN VALLEY RD Units: A158, E153</description>
-      <guid isPermaLink="false">2026-01-30 15:51:00</guid>
-      <pubDate>Fri, 30 Jan 2026 15:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
