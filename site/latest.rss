@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 13:25:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 13:50:14 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:33 am</title>
+      <description>200 BLOCK W PATRICK ST, WAY STATION Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-02-02 08:33:00</guid>
+      <pubDate>Mon, 02 Feb 2026 08:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:31 am</title>
+      <description>12800 BLOCK MINK FARM RD, Bldg:A, THORPEWOOD Radio: 9C Units: E212, TW6</description>
+      <guid isPermaLink="false">2026-02-02 08:31:00</guid>
+      <pubDate>Mon, 02 Feb 2026 08:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:34 pm</title>
       <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: E201, TT4</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK BISHOPS GLEN DR Units: E11</description>
       <guid isPermaLink="false">2026-01-30 14:00:00</guid>
       <pubDate>Fri, 30 Jan 2026 14:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 1:57 pm</title>
-      <description>1600 BLOCK OPOSSUMTOWN PIKE, STAUFFER FUNERAL HOME - FREDERICK Units: E291, E501, R2, R3, A299, A28, A19, A39, ALS29, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-01-30 13:57:00</guid>
-      <pubDate>Fri, 30 Jan 2026 13:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:54 pm</title>
-      <description>6600 BLOCK SEA GULL CT Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-01-30 12:54:00</guid>
-      <pubDate>Fri, 30 Jan 2026 12:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
