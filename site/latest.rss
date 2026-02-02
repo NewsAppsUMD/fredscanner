@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Feb 2026 18:44:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 23:04:59 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:36 pm</title>
+      <description>100 BLOCK E D ST Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-02-02 17:36:00</guid>
+      <pubDate>Mon, 02 Feb 2026 17:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:35 pm</title>
+      <description>11700 BLOCK OLD FREDERICK RD Radio: 9B Units: ALS30</description>
+      <guid isPermaLink="false">2026-02-02 17:35:00</guid>
+      <pubDate>Mon, 02 Feb 2026 17:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:24 pm</title>
+      <description>11700 BLOCK OLD FREDERICK RD Radio: 9B Units: A229, E162, E221</description>
+      <guid isPermaLink="false">2026-02-02 17:24:00</guid>
+      <pubDate>Mon, 02 Feb 2026 17:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 5:16 pm</title>
+      <description>10700 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: BR175, BR116</description>
+      <guid isPermaLink="false">2026-02-02 17:16:00</guid>
+      <pubDate>Mon, 02 Feb 2026 17:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 5:04 pm</title>
+      <description>10700 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: E172, E111, Q11, K1, K17</description>
+      <guid isPermaLink="false">2026-02-02 17:04:00</guid>
+      <pubDate>Mon, 02 Feb 2026 17:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 4:56 pm</title>
+      <description>9800 BLOCK CROSSFIELD RD Units: R8</description>
+      <guid isPermaLink="false">2026-02-02 16:56:00</guid>
+      <pubDate>Mon, 02 Feb 2026 16:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 3:52 pm</title>
+      <description>7700 BLOCK HARVEST HILLS CT Units: BR175</description>
+      <guid isPermaLink="false">2026-02-02 15:52:00</guid>
+      <pubDate>Mon, 02 Feb 2026 15:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:04 pm</title>
+      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9B Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-02-02 15:04:00</guid>
+      <pubDate>Mon, 02 Feb 2026 15:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:53 pm</title>
+      <description>4800 BLOCK ELMER DERR RD, UNITARIAN CONGREGATION CHURCH Radio: 9C Units: E201, TT4</description>
+      <guid isPermaLink="false">2026-02-02 14:53:00</guid>
+      <pubDate>Mon, 02 Feb 2026 14:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:29 pm</title>
       <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Units: PE52</description>
@@ -252,60 +306,6 @@
       <description>3500 BLOCK JOHN SIMMONS ST, Bldg:A, CINCO DE MAYO - URBANA TOWN CENTER Radio: 9C Units: E231, T23</description>
       <guid isPermaLink="false">2026-01-31 10:56:00</guid>
       <pubDate>Sat, 31 Jan 2026 10:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 10:43 am</title>
-      <description>400 BLOCK DELAWARE RD Units: PE23</description>
-      <guid isPermaLink="false">2026-01-31 10:43:00</guid>
-      <pubDate>Sat, 31 Jan 2026 10:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:26 am</title>
-      <description>200 BLOCK WASHINGTON ST Radio: 9B Units: R3</description>
-      <guid isPermaLink="false">2026-01-31 06:26:00</guid>
-      <pubDate>Sat, 31 Jan 2026 06:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:02 am</title>
-      <description>400 BLOCK ORCHARD CREST CIR Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-01-31 05:02:00</guid>
-      <pubDate>Sat, 31 Jan 2026 05:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:01 am</title>
-      <description>6800 BLOCK FARMBROOK CT Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-01-31 01:01:00</guid>
-      <pubDate>Sat, 31 Jan 2026 01:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:36 pm</title>
-      <description>400 BLOCK BIGGS AVE Radio: 9C Units: PE23, E31, TT4</description>
-      <guid isPermaLink="false">2026-01-30 21:36:00</guid>
-      <pubDate>Fri, 30 Jan 2026 21:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 9:25 pm</title>
-      <description>100 BLOCK BOXGROVE WAY Radio: 9C Units: E11, E501, A18</description>
-      <guid isPermaLink="false">2026-01-30 21:25:00</guid>
-      <pubDate>Fri, 30 Jan 2026 21:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 8:32 pm</title>
-      <description>2700 BLOCK WASHINGTON ST Radio: 9C Units: E232, E281, T23, A318</description>
-      <guid isPermaLink="false">2026-01-30 20:32:00</guid>
-      <pubDate>Fri, 30 Jan 2026 20:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:30 pm</title>
-      <description>100 BLOCK N ALTAMONT AVE Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-01-30 20:30:00</guid>
-      <pubDate>Fri, 30 Jan 2026 20:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:32 pm</title>
-      <description>40900 BLOCK TAYLORSTOWN MEADOWS PL Radio: 6DTAC11 Units: E281, R20, K5, T5, E232</description>
-      <guid isPermaLink="false">2026-01-30 18:32:00</guid>
-      <pubDate>Fri, 30 Jan 2026 18:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
