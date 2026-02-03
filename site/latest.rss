@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 21:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 21:43:04 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:35 pm</title>
+      <description>I270SB / RT80, I270SB / RT80 Units: A238, T23</description>
+      <guid isPermaLink="false">2026-02-03 16:35:00</guid>
+      <pubDate>Tue, 03 Feb 2026 16:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:22 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / CHURCH HILL RD Units: A89, E82</description>
+      <guid isPermaLink="false">2026-02-03 16:22:00</guid>
+      <pubDate>Tue, 03 Feb 2026 16:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>REKINDLE: 4:14 pm</title>
+      <description>3000 BLOCK DESMOND PL Units: K23</description>
+      <guid isPermaLink="false">2026-02-03 16:14:00</guid>
+      <pubDate>Tue, 03 Feb 2026 16:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>REKINDLE: 4:06 pm</title>
+      <description>3000 BLOCK DESMOND PL Units: E251</description>
+      <guid isPermaLink="false">2026-02-03 16:06:00</guid>
+      <pubDate>Tue, 03 Feb 2026 16:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - PERIPHERAL: 4:00 pm</title>
       <description>800 BLOCK APACHE CT Radio: 9B Units: E501, R2, A28</description>
@@ -282,30 +306,6 @@
       <description>7700 BLOCK HARVEST HILLS CT Units: BR175</description>
       <guid isPermaLink="false">2026-02-02 15:52:00</guid>
       <pubDate>Mon, 02 Feb 2026 15:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:04 pm</title>
-      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9B Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-02-02 15:04:00</guid>
-      <pubDate>Mon, 02 Feb 2026 15:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:53 pm</title>
-      <description>4800 BLOCK ELMER DERR RD, UNITARIAN CONGREGATION CHURCH Radio: 9C Units: E201, TT4</description>
-      <guid isPermaLink="false">2026-02-02 14:53:00</guid>
-      <pubDate>Mon, 02 Feb 2026 14:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:29 pm</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Units: PE52</description>
-      <guid isPermaLink="false">2026-02-02 13:29:00</guid>
-      <pubDate>Mon, 02 Feb 2026 13:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:14 pm</title>
-      <description>1400 BLOCK PORTER ST, FORT DETRICK - HEALTH CLINIC Radio: 9B Units: A19, E501</description>
-      <guid isPermaLink="false">2026-02-02 13:14:00</guid>
-      <pubDate>Mon, 02 Feb 2026 13:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
