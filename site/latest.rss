@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 13:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 13:50:53 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:38 am</title>
+      <description>1100 BLOCK DARGON QUARRY LN Radio: 9I Units: E72</description>
+      <guid isPermaLink="false">2026-02-03 08:38:00</guid>
+      <pubDate>Tue, 03 Feb 2026 08:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:31 am</title>
+      <description>1100 BLOCK DARGON QUARRY LN Units: PE52, E201, E281, R19, T5, TT4, A196, ALS20, BC903, BC904, SAF900</description>
+      <guid isPermaLink="false">2026-02-03 08:31:00</guid>
+      <pubDate>Tue, 03 Feb 2026 08:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:58 am</title>
       <description>MOUNTVILLE RD / WINCHESTER BLVD Radio: 9B Units: A149, E232</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
       <guid isPermaLink="false">2026-02-01 20:56:00</guid>
       <pubDate>Sun, 01 Feb 2026 20:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 8:45 pm</title>
-      <description>1100 BLOCK CODORUS ST Radio: 9C Units: E11, E501, A18</description>
-      <guid isPermaLink="false">2026-02-01 20:45:00</guid>
-      <pubDate>Sun, 01 Feb 2026 20:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 8:27 pm</title>
-      <description>5800 BLOCK N CATOCTIN OVERLOOK DR Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-02-01 20:27:00</guid>
-      <pubDate>Sun, 01 Feb 2026 20:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
