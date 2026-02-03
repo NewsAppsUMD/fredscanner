@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 08:43:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 09:11:03 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 4:07 am</title>
+      <description>3000 BLOCK DESMOND PL Radio: 9D Units: TTF, PE311, EK204, W25, CCK1</description>
+      <guid isPermaLink="false">2026-02-03 04:07:00</guid>
+      <pubDate>Tue, 03 Feb 2026 04:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:05 am</title>
+      <description>3000 BLOCK DESMOND PL Radio: 9D Units: RID, E31, R2, A238, EMS901</description>
+      <guid isPermaLink="false">2026-02-03 04:05:00</guid>
+      <pubDate>Tue, 03 Feb 2026 04:05:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:03 am</title>
+      <description>3000 BLOCK DESMOND PL Units: R15, K23</description>
+      <guid isPermaLink="false">2026-02-03 04:03:00</guid>
+      <pubDate>Tue, 03 Feb 2026 04:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 4:02 am</title>
+      <description>3000 BLOCK DESMOND PL Units: E172, R3, TT4, K33, K1</description>
+      <guid isPermaLink="false">2026-02-03 04:02:00</guid>
+      <pubDate>Tue, 03 Feb 2026 04:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 3:57 am</title>
+      <description>3000 BLOCK DESMOND PL Units: E251, E153, E231, E331, R15, T23, K23, A259, ALS23, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-02-03 03:57:00</guid>
+      <pubDate>Tue, 03 Feb 2026 03:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:09 am</title>
       <description>10300 BLOCK COPPERMINE RD, FAMILY COVENENT CHAPEL Radio: 9C Units: E162, Q11</description>
@@ -276,36 +306,6 @@
       <description>BALTIMORE NATIONAL PIKE PIKE / PLEASANT WALK RD Radio: 9B Units: E82</description>
       <guid isPermaLink="false">2026-02-01 12:51:00</guid>
       <pubDate>Sun, 01 Feb 2026 12:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:13 am</title>
-      <description>7200 BLOCK CORPORATE CT, HILTON GARDEN INN Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-02-01 11:13:00</guid>
-      <pubDate>Sun, 01 Feb 2026 11:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:54 am</title>
-      <description>1300 BLOCK HOFFMAN HOME RD Units: TW6</description>
-      <guid isPermaLink="false">2026-02-01 10:54:00</guid>
-      <pubDate>Sun, 01 Feb 2026 10:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:54 am</title>
-      <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E162, Q11</description>
-      <guid isPermaLink="false">2026-02-01 09:54:00</guid>
-      <pubDate>Sun, 01 Feb 2026 09:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:52 am</title>
-      <description>2400 BLOCK OSPREY WAY, TECHY Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-02-01 07:52:00</guid>
-      <pubDate>Sun, 01 Feb 2026 07:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:00 am</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:320, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11, E501</description>
-      <guid isPermaLink="false">2026-02-01 01:00:00</guid>
-      <pubDate>Sun, 01 Feb 2026 01:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
