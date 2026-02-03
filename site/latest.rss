@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 11:42:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 12:06:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:58 am</title>
+      <description>MOUNTVILLE RD / WINCHESTER BLVD Radio: 9B Units: A149, E232</description>
+      <guid isPermaLink="false">2026-02-03 06:58:00</guid>
+      <pubDate>Tue, 03 Feb 2026 06:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:24 am</title>
       <description>ROBIN DR / NEW DESIGN RD Radio: 9B Units: A319, PE311</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK N CATOCTIN OVERLOOK DR Radio: 9C Units: BR156</description>
       <guid isPermaLink="false">2026-02-01 20:27:00</guid>
       <pubDate>Sun, 01 Feb 2026 20:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:56 pm</title>
-      <description>ROSEMONT AVE / N COLLEGE PKWY Radio: 9B Units: A28, E31</description>
-      <guid isPermaLink="false">2026-02-01 16:56:00</guid>
-      <pubDate>Sun, 01 Feb 2026 16:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
