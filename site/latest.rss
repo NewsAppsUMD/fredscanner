@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Feb 2026 21:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 22:06:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:01 pm</title>
+      <description>2100 BLOCK BRECKEN DELL CT Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-02-03 17:01:00</guid>
+      <pubDate>Tue, 03 Feb 2026 17:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:55 pm</title>
+      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER - FREDERICK* Radio: 9C Units: E311, TT4</description>
+      <guid isPermaLink="false">2026-02-03 16:55:00</guid>
+      <pubDate>Tue, 03 Feb 2026 16:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:35 pm</title>
       <description>I270SB / RT80, I270SB / RT80 Units: A238, T23</description>
@@ -294,18 +306,6 @@
       <description>10700 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: E172, E111, Q11, K1, K17</description>
       <guid isPermaLink="false">2026-02-02 17:04:00</guid>
       <pubDate>Mon, 02 Feb 2026 17:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 4:56 pm</title>
-      <description>9800 BLOCK CROSSFIELD RD Units: R8</description>
-      <guid isPermaLink="false">2026-02-02 16:56:00</guid>
-      <pubDate>Mon, 02 Feb 2026 16:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:52 pm</title>
-      <description>7700 BLOCK HARVEST HILLS CT Units: BR175</description>
-      <guid isPermaLink="false">2026-02-02 15:52:00</guid>
-      <pubDate>Mon, 02 Feb 2026 15:52:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
