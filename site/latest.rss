@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 23:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:39:36 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 6:31 pm</title>
+      <description>100 BLOCK ASHLEY CT Radio: 9C Units: E82, E72, TW7, E212</description>
+      <guid isPermaLink="false">2026-02-04 18:31:00</guid>
+      <pubDate>Wed, 04 Feb 2026 18:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:20 pm</title>
+      <description>6900 BLOCK LINGANORE RD Radio: 9C Units: E331, EK114, K33</description>
+      <guid isPermaLink="false">2026-02-04 18:20:00</guid>
+      <pubDate>Wed, 04 Feb 2026 18:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:06 pm</title>
+      <description>7100 BLOCK WOODVILLE RD Units: TT4</description>
+      <guid isPermaLink="false">2026-02-04 18:06:00</guid>
+      <pubDate>Wed, 04 Feb 2026 18:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 6:02 pm</title>
+      <description>7100 BLOCK WOODVILLE RD Units: E172, E153, CCK1</description>
+      <guid isPermaLink="false">2026-02-04 18:02:00</guid>
+      <pubDate>Wed, 04 Feb 2026 18:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:45 pm</title>
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E111</description>
@@ -282,30 +306,6 @@
       <description>WORTHINGTON BLVD / LEW WALLACE ST Units: A238, T23</description>
       <guid isPermaLink="false">2026-02-03 14:20:00</guid>
       <pubDate>Tue, 03 Feb 2026 14:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 2:05 pm</title>
-      <description>6300 BLOCK POSEY ST Radio: 9C Units: E11, E311, TT4</description>
-      <guid isPermaLink="false">2026-02-03 14:05:00</guid>
-      <pubDate>Tue, 03 Feb 2026 14:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:21 pm</title>
-      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
-      <guid isPermaLink="false">2026-02-03 13:21:00</guid>
-      <pubDate>Tue, 03 Feb 2026 13:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>POLICE INCIDENT - EMS STANDBY: 12:04 pm</title>
-      <description>100 BLOCK FAIRFIELD DR Radio: 9D Units: A299, ALS2, E291, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-02-03 12:04:00</guid>
-      <pubDate>Tue, 03 Feb 2026 12:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:23 am</title>
-      <description>I270SB / 23MM, I270SB / 23MM Radio: 9B Units: R3</description>
-      <guid isPermaLink="false">2026-02-03 10:23:00</guid>
-      <pubDate>Tue, 03 Feb 2026 10:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
