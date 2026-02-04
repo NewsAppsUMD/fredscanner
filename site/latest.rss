@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 20:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 21:07:35 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 4:03 pm</title>
+      <description>8200 BLOCK BLUE HERON DR, Apt/Unit:3A Radio: 9C Units: E111, E291, R24, EK114</description>
+      <guid isPermaLink="false">2026-02-04 16:03:00</guid>
+      <pubDate>Wed, 04 Feb 2026 16:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:03 pm</title>
       <description>1600 BLOCK TROTTER ST Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>BERLIN TPKE / BOLINGTON RD Radio: 6LTAC31 Units: R14</description>
       <guid isPermaLink="false">2026-02-03 08:58:00</guid>
       <pubDate>Tue, 03 Feb 2026 08:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:38 am</title>
-      <description>1100 BLOCK DARGON QUARRY LN Radio: 9I Units: E72</description>
-      <guid isPermaLink="false">2026-02-03 08:38:00</guid>
-      <pubDate>Tue, 03 Feb 2026 08:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
