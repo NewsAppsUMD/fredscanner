@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Feb 2026 07:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 08:08:31 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:48 am</title>
+      <description>300 BLOCK PATTERSON PARK RD Radio: 9C Units: A18</description>
+      <guid isPermaLink="false">2026-02-04 02:48:00</guid>
+      <pubDate>Wed, 04 Feb 2026 02:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:40 am</title>
       <description>300 BLOCK PATTERSON PARK RD Radio: 9C Units: A129</description>
@@ -300,12 +306,6 @@
       <description>10300 BLOCK COPPERMINE RD, FAMILY COVENENT CHAPEL Radio: 9C Units: E162, Q11</description>
       <guid isPermaLink="false">2026-02-03 03:09:00</guid>
       <pubDate>Tue, 03 Feb 2026 03:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 2:08 am</title>
-      <description>1200 BLOCK AYNSLEY CT, Apt/Unit:PA, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-03 02:08:00</guid>
-      <pubDate>Tue, 03 Feb 2026 02:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
