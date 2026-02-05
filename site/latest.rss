@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 12:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 13:26:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:51 am</title>
+      <description>1000 BLOCK W PATRICK ST, TACO BELL - GOLDEN MILE Radio: 9B Units: A19, RE74</description>
+      <guid isPermaLink="false">2026-02-05 07:51:00</guid>
+      <pubDate>Thu, 05 Feb 2026 07:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:47 am</title>
+      <description>1000 BLOCK W PATRICK ST, FOR EYES OPTICAL - GOLDEN MILE Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-02-05 07:47:00</guid>
+      <pubDate>Thu, 05 Feb 2026 07:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:27 am</title>
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK APPLETOWN RD Units: E82, E72, K7, BR85</description>
       <guid isPermaLink="false">2026-02-03 20:39:00</guid>
       <pubDate>Tue, 03 Feb 2026 20:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:12 pm</title>
-      <description>7400 BLOCK WILLOW RD, Apt/Unit:UNIT OFFICE, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: Q11, E291</description>
-      <guid isPermaLink="false">2026-02-03 19:12:00</guid>
-      <pubDate>Tue, 03 Feb 2026 19:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:57 pm</title>
-      <description>13100 BLOCK SPRUCE RUN RD Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2026-02-03 17:57:00</guid>
-      <pubDate>Tue, 03 Feb 2026 17:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
