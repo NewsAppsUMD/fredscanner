@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 11:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:42:19 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:27 am</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2026-02-05 06:27:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 6:24 am</title>
+      <description>6700 BLOCK SNOW GOOSE CT Units: ALS2</description>
+      <guid isPermaLink="false">2026-02-05 06:24:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:21 am</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E61</description>
+      <guid isPermaLink="false">2026-02-05 06:21:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:18 am</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
+      <guid isPermaLink="false">2026-02-05 06:18:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE - ENTRAPMENT: 6:07 am</title>
       <description>6700 BLOCK SNOW GOOSE CT Units: RID, E501, T23, A38</description>
@@ -282,30 +306,6 @@
       <description>13100 BLOCK SPRUCE RUN RD Radio: 9C Units: K10</description>
       <guid isPermaLink="false">2026-02-03 17:57:00</guid>
       <pubDate>Tue, 03 Feb 2026 17:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:52 pm</title>
-      <description>13100 BLOCK SPRUCE RUN RD Radio: 9C Units: E212, E82, K21, A89</description>
-      <guid isPermaLink="false">2026-02-03 17:52:00</guid>
-      <pubDate>Tue, 03 Feb 2026 17:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:01 pm</title>
-      <description>2100 BLOCK BRECKEN DELL CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-03 17:01:00</guid>
-      <pubDate>Tue, 03 Feb 2026 17:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:55 pm</title>
-      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER - FREDERICK* Radio: 9C Units: E311, TT4</description>
-      <guid isPermaLink="false">2026-02-03 16:55:00</guid>
-      <pubDate>Tue, 03 Feb 2026 16:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:35 pm</title>
-      <description>I270SB / RT80, I270SB / RT80 Units: A238, T23</description>
-      <guid isPermaLink="false">2026-02-03 16:35:00</guid>
-      <pubDate>Tue, 03 Feb 2026 16:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
