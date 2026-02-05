@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Feb 2026 10:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 11:12:13 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 6:07 am</title>
+      <description>6700 BLOCK SNOW GOOSE CT Units: RID, E501, T23, A38</description>
+      <guid isPermaLink="false">2026-02-05 06:07:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 6:04 am</title>
+      <description>6700 BLOCK SNOW GOOSE CT Units: PE311, E141, E11, PE23, E331, R3, TT4, A319, A318, ALS31, BC901, BC903, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-02-05 06:04:00</guid>
+      <pubDate>Thu, 05 Feb 2026 06:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:36 am</title>
       <description>100 BLOCK STADIUM DR Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>I270SB / RT80, I270SB / RT80 Units: A238, T23</description>
       <guid isPermaLink="false">2026-02-03 16:35:00</guid>
       <pubDate>Tue, 03 Feb 2026 16:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:22 pm</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / CHURCH HILL RD Units: A89, E82</description>
-      <guid isPermaLink="false">2026-02-03 16:22:00</guid>
-      <pubDate>Tue, 03 Feb 2026 16:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>REKINDLE: 4:14 pm</title>
-      <description>3000 BLOCK DESMOND PL Units: K23</description>
-      <guid isPermaLink="false">2026-02-03 16:14:00</guid>
-      <pubDate>Tue, 03 Feb 2026 16:14:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
