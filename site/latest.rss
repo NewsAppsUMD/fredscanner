@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 00:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 00:50:36 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:19 pm</title>
+      <description>100 BLOCK LAUBER CT Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-02-05 19:19:00</guid>
+      <pubDate>Thu, 05 Feb 2026 19:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 7:11 pm</title>
+      <description>4600 BLOCK CAMBRIA RD Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-02-05 19:11:00</guid>
+      <pubDate>Thu, 05 Feb 2026 19:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 6:35 pm</title>
       <description>3600 BLOCK TAVISTOCK RD Radio: 9C Units: E231</description>
@@ -294,18 +306,6 @@
       <description>OLD ANNAPOLIS RD / KIMMEL RD Radio: 9B Units: A179, E172</description>
       <guid isPermaLink="false">2026-02-04 08:35:00</guid>
       <pubDate>Wed, 04 Feb 2026 08:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:33 am</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-02-04 08:33:00</guid>
-      <pubDate>Wed, 04 Feb 2026 08:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:17 am</title>
-      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-02-04 08:17:00</guid>
-      <pubDate>Wed, 04 Feb 2026 08:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
