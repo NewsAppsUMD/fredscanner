@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 12:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 13:25:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:53 am</title>
+      <description>CHRISTOPHERS XING / OPOSSUMTOWN PIKE Radio: 9D Units: PE23, R3, A299, ALS29, EMS902</description>
+      <guid isPermaLink="false">2026-02-06 07:53:00</guid>
+      <pubDate>Fri, 06 Feb 2026 07:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:19 am</title>
       <description>100 BLOCK W MAIN ST, NEW MARKET ELEMENTARY SCHOOL Radio: 9C Units: E153</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W POTOMAC ST Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-02-04 09:53:00</guid>
       <pubDate>Wed, 04 Feb 2026 09:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-02-04 08:54:00</guid>
-      <pubDate>Wed, 04 Feb 2026 08:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
