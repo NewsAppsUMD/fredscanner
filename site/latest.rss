@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Feb 2026 12:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 12:45:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:19 am</title>
+      <description>100 BLOCK W MAIN ST, NEW MARKET ELEMENTARY SCHOOL Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-02-06 07:19:00</guid>
+      <pubDate>Fri, 06 Feb 2026 07:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 1:20 am</title>
       <description>600 BLOCK SCHLEY AVE Radio: 9C Units: E11, E501</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-02-04 08:54:00</guid>
       <pubDate>Wed, 04 Feb 2026 08:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:48 am</title>
-      <description>10400 BLOCK DUBLIN RD Radio: 9C Units: EK134</description>
-      <guid isPermaLink="false">2026-02-04 08:48:00</guid>
-      <pubDate>Wed, 04 Feb 2026 08:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
