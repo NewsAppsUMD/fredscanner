@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Feb 2026 02:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 03:44:28 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:07 pm</title>
+      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-02-06 22:07:00</guid>
+      <pubDate>Fri, 06 Feb 2026 22:07:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 9:17 pm</title>
       <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TT4, E11</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK SNOW GOOSE CT Units: RID, E501, T23, A38</description>
       <guid isPermaLink="false">2026-02-05 06:07:00</guid>
       <pubDate>Thu, 05 Feb 2026 06:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 6:04 am</title>
-      <description>6700 BLOCK SNOW GOOSE CT Units: PE311, E141, E11, PE23, E331, R3, TT4, A319, A318, ALS31, BC901, BC903, SAF901, EMS901</description>
-      <guid isPermaLink="false">2026-02-05 06:04:00</guid>
-      <pubDate>Thu, 05 Feb 2026 06:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
