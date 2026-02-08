@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 01:06:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 02:15:22 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:46 pm</title>
+      <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: PE52</description>
+      <guid isPermaLink="false">2026-02-07 20:46:00</guid>
+      <pubDate>Sat, 07 Feb 2026 20:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:41 pm</title>
+      <description>8400 BLOCK PINE BLUFF RD Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-02-07 20:41:00</guid>
+      <pubDate>Sat, 07 Feb 2026 20:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:33 pm</title>
+      <description>6500 BLOCK DAYTONA CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-02-07 20:33:00</guid>
+      <pubDate>Sat, 07 Feb 2026 20:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:00 pm</title>
       <description>6500 BLOCK DAYTONA CT Units: PE311</description>
@@ -288,24 +306,6 @@
       <description>600 BLOCK SCHLEY AVE Radio: 9C Units: E11, E501</description>
       <guid isPermaLink="false">2026-02-06 01:20:00</guid>
       <pubDate>Fri, 06 Feb 2026 01:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:03 pm</title>
-      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER - FREDERICK* Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-02-05 22:03:00</guid>
-      <pubDate>Thu, 05 Feb 2026 22:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:44 pm</title>
-      <description>100 BLOCK HAMMOND DR Radio: 6DTAC11 Units: T5, PE52</description>
-      <guid isPermaLink="false">2026-02-05 20:44:00</guid>
-      <pubDate>Thu, 05 Feb 2026 20:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:19 pm</title>
-      <description>100 BLOCK LAUBER CT Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-02-05 19:19:00</guid>
-      <pubDate>Thu, 05 Feb 2026 19:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
