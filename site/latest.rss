@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 20:02:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 20:40:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:33 pm</title>
+      <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9D Units: TW6</description>
+      <guid isPermaLink="false">2026-02-08 15:33:00</guid>
+      <pubDate>Sun, 08 Feb 2026 15:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:31 pm</title>
+      <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-02-08 15:31:00</guid>
+      <pubDate>Sun, 08 Feb 2026 15:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 2:24 pm</title>
       <description>43100 BLOCK BUTTERFLY WAY Radio: 6DTAC11 Units: E281</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK VERMONT CT Radio: 9C Units: R3</description>
       <guid isPermaLink="false">2026-02-06 18:49:00</guid>
       <pubDate>Fri, 06 Feb 2026 18:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:01 pm</title>
-      <description>2100 BLOCKB WHITTIER DR Radio: 9C Units: E11, E291</description>
-      <guid isPermaLink="false">2026-02-06 18:01:00</guid>
-      <pubDate>Fri, 06 Feb 2026 18:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:04 pm</title>
-      <description>7300 BLOCK MARCIES CHOICE LN, Apt/Unit:FIRST, COUNTY DETENTION CENTER Units: PE311, E31, E11, PE23, E501, R3, T23, A319, ALS31, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-02-06 17:04:00</guid>
-      <pubDate>Fri, 06 Feb 2026 17:04:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
