@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 14:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 14:40:54 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:16 am</title>
+      <description>100 BLOCK W MAIN ST Units: BR156</description>
+      <guid isPermaLink="false">2026-02-08 09:16:00</guid>
+      <pubDate>Sun, 08 Feb 2026 09:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:52 am</title>
       <description>8800 BLOCK WATER STREET RD Units: E111</description>
@@ -300,12 +306,6 @@
       <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: R24</description>
       <guid isPermaLink="false">2026-02-06 13:35:00</guid>
       <pubDate>Fri, 06 Feb 2026 13:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:30 pm</title>
-      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111, E291, Q11</description>
-      <guid isPermaLink="false">2026-02-06 13:30:00</guid>
-      <pubDate>Fri, 06 Feb 2026 13:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
