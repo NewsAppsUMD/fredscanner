@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 04:43:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 05:28:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:20 am</title>
+      <description>GAS HOUSE PIKE / WOODRIDGE RD Radio: 9D Units: R15</description>
+      <guid isPermaLink="false">2026-02-08 00:20:00</guid>
+      <pubDate>Sun, 08 Feb 2026 00:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:15 am</title>
+      <description>GAS HOUSE PIKE / WOODRIDGE RD Radio: 9D Units: E111, R24, A249, ALS17, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-02-08 00:15:00</guid>
+      <pubDate>Sun, 08 Feb 2026 00:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 8:46 pm</title>
       <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: PE52</description>
@@ -294,18 +306,6 @@
       <description>CHRISTOPHERS XING / OPOSSUMTOWN PIKE Radio: 9D Units: PE23, R3, A299, ALS29, EMS902</description>
       <guid isPermaLink="false">2026-02-06 07:53:00</guid>
       <pubDate>Fri, 06 Feb 2026 07:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:19 am</title>
-      <description>100 BLOCK W MAIN ST, NEW MARKET ELEMENTARY SCHOOL Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-02-06 07:19:00</guid>
-      <pubDate>Fri, 06 Feb 2026 07:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:20 am</title>
-      <description>600 BLOCK SCHLEY AVE Radio: 9C Units: E11, E501</description>
-      <guid isPermaLink="false">2026-02-06 01:20:00</guid>
-      <pubDate>Fri, 06 Feb 2026 01:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
