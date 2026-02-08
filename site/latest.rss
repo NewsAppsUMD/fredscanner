@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 22:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 22:41:37 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 5:36 pm</title>
+      <description>1100 BLOCK KEY PKWY, Apt/Unit:301, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9B Units: E11, E501, E121, E291, PE311, R3, TT4, A18, A19, ALS4, BC903, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-02-08 17:36:00</guid>
+      <pubDate>Sun, 08 Feb 2026 17:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:29 pm</title>
+      <description>400 BLOCK CONSTELLATION LN Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-02-08 17:29:00</guid>
+      <pubDate>Sun, 08 Feb 2026 17:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:08 pm</title>
+      <description>600 BLOCK S MAIN ST Radio: CCA7 Units: K17</description>
+      <guid isPermaLink="false">2026-02-08 17:08:00</guid>
+      <pubDate>Sun, 08 Feb 2026 17:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:59 pm</title>
       <description>600 BLOCK S MAIN ST Radio: CCA7 Units: T23</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK EIGHTH AVE Radio: 9C Units: PE52, R19</description>
       <guid isPermaLink="false">2026-02-06 22:59:00</guid>
       <pubDate>Fri, 06 Feb 2026 22:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:55 pm</title>
-      <description>WINDSOR RD / SUNFLOWER DR Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2026-02-06 22:55:00</guid>
-      <pubDate>Fri, 06 Feb 2026 22:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:07 pm</title>
-      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-02-06 22:07:00</guid>
-      <pubDate>Fri, 06 Feb 2026 22:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:17 pm</title>
-      <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TT4, E11</description>
-      <guid isPermaLink="false">2026-02-06 21:17:00</guid>
-      <pubDate>Fri, 06 Feb 2026 21:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
