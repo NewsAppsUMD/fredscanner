@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 22:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 23:41:12 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 6:35 pm</title>
+      <description>100 BLOCK W BROAD WAY Radio: 6DTAC11 Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-02-08 18:35:00</guid>
+      <pubDate>Sun, 08 Feb 2026 18:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 6:26 pm</title>
+      <description>400 BLOCK HOBNAIL CT Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-02-08 18:26:00</guid>
+      <pubDate>Sun, 08 Feb 2026 18:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:18 pm</title>
+      <description>600 BLOCK TIVOLI RD Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-02-08 18:18:00</guid>
+      <pubDate>Sun, 08 Feb 2026 18:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:06 pm</title>
+      <description>10900 BLOCK HORAN CT Radio: 9C Units: E231, E153, T23</description>
+      <guid isPermaLink="false">2026-02-08 18:06:00</guid>
+      <pubDate>Sun, 08 Feb 2026 18:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:59 pm</title>
+      <description>7300 BLOCK EXECUTIVE WAY, SHEETZ - EXECUTIVE WAY Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-02-08 17:59:00</guid>
+      <pubDate>Sun, 08 Feb 2026 17:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 5:36 pm</title>
       <description>1100 BLOCK KEY PKWY, Apt/Unit:301, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9B Units: E11, E501, E121, E291, PE311, R3, TT4, A18, A19, ALS4, BC903, BC902, SAF901</description>
@@ -276,36 +306,6 @@
       <description>ORNDORFF RD / OLD FREDERICK RD Radio: 9C Units: BR65</description>
       <guid isPermaLink="false">2026-02-07 09:20:00</guid>
       <pubDate>Sat, 07 Feb 2026 09:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 8:33 am</title>
-      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:1101, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-02-07 08:33:00</guid>
-      <pubDate>Sat, 07 Feb 2026 08:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:36 am</title>
-      <description>MONROE AVE / MONOCACY BLVD Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-02-07 06:36:00</guid>
-      <pubDate>Sat, 07 Feb 2026 06:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:54 pm</title>
-      <description>3600 BLOCK MOLINE CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-02-06 23:54:00</guid>
-      <pubDate>Fri, 06 Feb 2026 23:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:05 pm</title>
-      <description>100 BLOCK EIGHTH AVE Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2026-02-06 23:05:00</guid>
-      <pubDate>Fri, 06 Feb 2026 23:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:59 pm</title>
-      <description>100 BLOCK EIGHTH AVE Radio: 9C Units: PE52, R19</description>
-      <guid isPermaLink="false">2026-02-06 22:59:00</guid>
-      <pubDate>Fri, 06 Feb 2026 22:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
