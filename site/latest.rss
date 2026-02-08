@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 21:04:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 21:39:29 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 4:17 pm</title>
+      <description>100 BLOCK VICTORIA SQ Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-02-08 16:17:00</guid>
+      <pubDate>Sun, 08 Feb 2026 16:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:33 pm</title>
       <description>RT15SB / LOHR RD, RT15SB / LOHR RD Radio: 9D Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK VICTORIA SQ Radio: 9C Units: E11, E501</description>
       <guid isPermaLink="false">2026-02-06 19:00:00</guid>
       <pubDate>Fri, 06 Feb 2026 19:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 6:49 pm</title>
-      <description>400 BLOCK VERMONT CT Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-02-06 18:49:00</guid>
-      <pubDate>Fri, 06 Feb 2026 18:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
