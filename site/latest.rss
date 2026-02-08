@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 16:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 16:42:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:20 am</title>
+      <description>2400 BLOCK OSPREY WAY Units: E111</description>
+      <guid isPermaLink="false">2026-02-08 11:20:00</guid>
+      <pubDate>Sun, 08 Feb 2026 11:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:05 am</title>
+      <description>23400 BLOCK FREDERICK DR, Apt/Unit:300, STATION MC735 - CLARKSBURG Units: PE311</description>
+      <guid isPermaLink="false">2026-02-08 11:05:00</guid>
+      <pubDate>Sun, 08 Feb 2026 11:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:42 am</title>
       <description>100 BLOCK SHELLDRAKE CT Radio: 7A4 Units: E251</description>
@@ -294,18 +306,6 @@
       <description>4500 BLOCK ARABY CHURCH RD Units: E231, E31, PE311, PE23, E331, E11, R3, T23, TT4, K33, K1, A238, ALS23, BC901, BC903, SAF901</description>
       <guid isPermaLink="false">2026-02-06 16:35:00</guid>
       <pubDate>Fri, 06 Feb 2026 16:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:28 pm</title>
-      <description>10300 BLOCK CRYSTAL FALLS DR, STATION WC016 - MT. AETNA VFD Units: E72</description>
-      <guid isPermaLink="false">2026-02-06 16:28:00</guid>
-      <pubDate>Fri, 06 Feb 2026 16:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:44 pm</title>
-      <description>3600 BLOCK ADDISON WOODS RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-02-06 15:44:00</guid>
-      <pubDate>Fri, 06 Feb 2026 15:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
