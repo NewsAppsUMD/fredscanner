@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 12:46:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 13:29:09 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:25 am</title>
+      <description>100 BLOCK E CHURCH ST, THE CELLAR DOOR Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-02-09 08:25:00</guid>
+      <pubDate>Mon, 09 Feb 2026 08:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:08 am</title>
+      <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TT4, E11</description>
+      <guid isPermaLink="false">2026-02-09 08:08:00</guid>
+      <pubDate>Mon, 09 Feb 2026 08:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:07 am</title>
       <description>13400 BLOCK JIMTOWN RD Radio: 9C Units: PE102</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK EIGHTH AVE Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-02-07 17:36:00</guid>
       <pubDate>Sat, 07 Feb 2026 17:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:54 pm</title>
-      <description>14000 BLOCK MOTTERS STATION RD Radio: 9C Units: BR135</description>
-      <guid isPermaLink="false">2026-02-07 16:54:00</guid>
-      <pubDate>Sat, 07 Feb 2026 16:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:22 pm</title>
-      <description>APPOLDS RD / MOTTERS STATION RD Radio: 9B Units: BR135</description>
-      <guid isPermaLink="false">2026-02-07 16:22:00</guid>
-      <pubDate>Sat, 07 Feb 2026 16:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
