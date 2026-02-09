@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Feb 2026 21:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:43:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:39 pm</title>
+      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9B Units: EK114</description>
+      <guid isPermaLink="false">2026-02-09 16:39:00</guid>
+      <pubDate>Mon, 09 Feb 2026 16:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
+      <description>RT144 / MEADOW RD, RT144 / MEADOW RD Radio: 9B Units: A339</description>
+      <guid isPermaLink="false">2026-02-09 16:27:00</guid>
+      <pubDate>Mon, 09 Feb 2026 16:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:24 pm</title>
+      <description>2400 BLOCK OSPREY WAY, IHOP RESTAURANT - MARKET SQUARE Radio: 9C Units: EK114, Q11</description>
+      <guid isPermaLink="false">2026-02-09 16:24:00</guid>
+      <pubDate>Mon, 09 Feb 2026 16:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:17 pm</title>
       <description>500 BLOCK PEARL ST Radio: 9C Units: E11, R3</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK MANDA DR Radio: 9C Units: E201, TW7, A89, RE74</description>
       <guid isPermaLink="false">2026-02-08 13:46:00</guid>
       <pubDate>Sun, 08 Feb 2026 13:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:20 pm</title>
-      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-08 12:20:00</guid>
-      <pubDate>Sun, 08 Feb 2026 12:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:20 am</title>
-      <description>2400 BLOCK OSPREY WAY Units: E111</description>
-      <guid isPermaLink="false">2026-02-08 11:20:00</guid>
-      <pubDate>Sun, 08 Feb 2026 11:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:05 am</title>
-      <description>23400 BLOCK FREDERICK DR, Apt/Unit:300, STATION MC735 - CLARKSBURG Units: PE311</description>
-      <guid isPermaLink="false">2026-02-08 11:05:00</guid>
-      <pubDate>Sun, 08 Feb 2026 11:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
