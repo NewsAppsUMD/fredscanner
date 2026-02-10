@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 12:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 12:46:35 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:29 am</title>
+      <description>N EAST ST / E SEVENTH ST Units: PE23</description>
+      <guid isPermaLink="false">2026-02-10 07:29:00</guid>
+      <pubDate>Tue, 10 Feb 2026 07:29:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:22 am</title>
+      <description>N CARROLL ST / E MAIN ST Units: A307, PE102</description>
+      <guid isPermaLink="false">2026-02-10 07:22:00</guid>
+      <pubDate>Tue, 10 Feb 2026 07:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 12:41 am</title>
       <description>100 BLOCK W CHURCH ST Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK JOSEPH CT Radio: 9C Units: E153, TT4</description>
       <guid isPermaLink="false">2026-02-08 18:56:00</guid>
       <pubDate>Sun, 08 Feb 2026 18:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 6:52 pm</title>
-      <description>100 BLOCK FEDERAL AVE Radio: 9C Units: E61, PE102, TW6, ACE232</description>
-      <guid isPermaLink="false">2026-02-08 18:52:00</guid>
-      <pubDate>Sun, 08 Feb 2026 18:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:48 pm</title>
-      <description>3300 BLOCK GALENA DR, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Units: E231</description>
-      <guid isPermaLink="false">2026-02-08 18:48:00</guid>
-      <pubDate>Sun, 08 Feb 2026 18:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
