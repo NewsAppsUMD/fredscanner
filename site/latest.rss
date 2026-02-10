@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 18:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 18:47:01 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 1:42 pm</title>
+      <description>1200 BLOCK N EAST ST, Bldg:A Radio: 9D Units: E31, R3</description>
+      <guid isPermaLink="false">2026-02-10 13:42:00</guid>
+      <pubDate>Tue, 10 Feb 2026 13:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:15 pm</title>
+      <description>3600 BLOCK FRY RD Radio: 9D Units: E201, R19, A209, ALS20, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-02-10 13:15:00</guid>
+      <pubDate>Tue, 10 Feb 2026 13:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 9:45 am</title>
       <description>100 BLOCK MOUNTAIN ORE CT Units: R10</description>
@@ -294,18 +306,6 @@
       <description>FINGERBOARD RD / FLINT HILL RD Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2026-02-09 08:34:00</guid>
       <pubDate>Mon, 09 Feb 2026 08:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:25 am</title>
-      <description>100 BLOCK E CHURCH ST, THE CELLAR DOOR Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-02-09 08:25:00</guid>
-      <pubDate>Mon, 09 Feb 2026 08:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:08 am</title>
-      <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL Radio: 9C Units: TT4, E11</description>
-      <guid isPermaLink="false">2026-02-09 08:08:00</guid>
-      <pubDate>Mon, 09 Feb 2026 08:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
