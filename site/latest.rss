@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Feb 2026 12:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 13:29:22 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 8:16 am</title>
+      <description>6400 BLOCK PLANT RD, CHARLES V MAIN TRAINING CENTER Units: E331, E31, R3, K33</description>
+      <guid isPermaLink="false">2026-02-10 08:16:00</guid>
+      <pubDate>Tue, 10 Feb 2026 08:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:47 am</title>
+      <description>W PATRICK ST / HILLCREST DR Units: A19, E11</description>
+      <guid isPermaLink="false">2026-02-10 07:47:00</guid>
+      <pubDate>Tue, 10 Feb 2026 07:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:29 am</title>
       <description>N EAST ST / E SEVENTH ST Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>5700 BLOCK TUSCARORA RD Radio: 9C Units: E141</description>
       <guid isPermaLink="false">2026-02-08 20:26:00</guid>
       <pubDate>Sun, 08 Feb 2026 20:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:04 pm</title>
-      <description>E GREENLEAF DR / CHRISTOPHERS XING Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-02-08 19:04:00</guid>
-      <pubDate>Sun, 08 Feb 2026 19:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:56 pm</title>
-      <description>5600 BLOCK JOSEPH CT Radio: 9C Units: E153, TT4</description>
-      <guid isPermaLink="false">2026-02-08 18:56:00</guid>
-      <pubDate>Sun, 08 Feb 2026 18:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
