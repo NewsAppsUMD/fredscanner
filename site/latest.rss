@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 20:43:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 21:07:53 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:45 pm</title>
+      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Radio: 9B Units: A307, PE102</description>
+      <guid isPermaLink="false">2026-02-12 15:45:00</guid>
+      <pubDate>Thu, 12 Feb 2026 15:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:35 pm</title>
       <description>5400 BLOCK HOLIDAY DR Radio: 9C Units: E311, TT4</description>
@@ -300,12 +306,6 @@
       <description>N EAST ST / E SEVENTH ST Units: PE23</description>
       <guid isPermaLink="false">2026-02-10 07:29:00</guid>
       <pubDate>Tue, 10 Feb 2026 07:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:22 am</title>
-      <description>N CARROLL ST / E MAIN ST Units: A307, PE102</description>
-      <guid isPermaLink="false">2026-02-10 07:22:00</guid>
-      <pubDate>Tue, 10 Feb 2026 07:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
