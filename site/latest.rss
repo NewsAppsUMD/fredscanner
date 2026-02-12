@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 16:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 17:20:24 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:00 pm</title>
+      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: ALS30</description>
+      <guid isPermaLink="false">2026-02-12 12:00:00</guid>
+      <pubDate>Thu, 12 Feb 2026 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:57 am</title>
+      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: PE102, E91, E162, R10, EK134, ACE232, BC902, BC901, SAF900</description>
+      <guid isPermaLink="false">2026-02-12 11:57:00</guid>
+      <pubDate>Thu, 12 Feb 2026 11:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:47 am</title>
+      <description>FINGERBOARD RD / CARRIAGE HILL DR Radio: 9B Units: A259, T23</description>
+      <guid isPermaLink="false">2026-02-12 11:47:00</guid>
+      <pubDate>Thu, 12 Feb 2026 11:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 11:32 am</title>
       <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: K9</description>
@@ -288,24 +306,6 @@
       <description>14800 BLOCK INGALLS CT Radio: 6HTAC21 Units: E281</description>
       <guid isPermaLink="false">2026-02-09 19:38:00</guid>
       <pubDate>Mon, 09 Feb 2026 19:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 7:33 pm</title>
-      <description>6900 BLOCK REGENTS CT, Apt/Unit:306, KINGSCREST APTS - 6900 BLOCK REGENTS CT Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-02-09 19:33:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 7:30 pm</title>
-      <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: T5</description>
-      <guid isPermaLink="false">2026-02-09 19:30:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 7:25 pm</title>
-      <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: E52, R19</description>
-      <guid isPermaLink="false">2026-02-09 19:25:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
