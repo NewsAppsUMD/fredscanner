@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 09:45:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 10:14:16 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:45 am</title>
+      <description>9800 BLOCK NOTTING HILL DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-02-12 04:45:00</guid>
+      <pubDate>Thu, 12 Feb 2026 04:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:10 pm</title>
       <description>7100 BLOCK GEOFFREY WAY, GILBANE BUILDING CO Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK PEARSON BLVD, BOTH 300 BLOCK &amp; 303 Radio: 9C Units: R24</description>
       <guid isPermaLink="false">2026-02-09 16:59:00</guid>
       <pubDate>Mon, 09 Feb 2026 16:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:45 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238</description>
-      <guid isPermaLink="false">2026-02-09 16:45:00</guid>
-      <pubDate>Mon, 09 Feb 2026 16:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
