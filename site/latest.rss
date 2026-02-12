@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 16:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 16:46:15 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 11:32 am</title>
+      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: K9</description>
+      <guid isPermaLink="false">2026-02-12 11:32:00</guid>
+      <pubDate>Thu, 12 Feb 2026 11:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 11:26 am</title>
+      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: E61, E132, T6, EK64, A68</description>
+      <guid isPermaLink="false">2026-02-12 11:26:00</guid>
+      <pubDate>Thu, 12 Feb 2026 11:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:15 am</title>
+      <description>8500 BLOCK ROCKY SPRINGS RD Radio: 9D Units: E11, E291, K1</description>
+      <guid isPermaLink="false">2026-02-12 11:15:00</guid>
+      <pubDate>Thu, 12 Feb 2026 11:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:21 am</title>
       <description>5400 BLOCK HOLIDAY DR Radio: 9C Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK N DELAWARE AVE Radio: 9C Units: E52, R19</description>
       <guid isPermaLink="false">2026-02-09 19:25:00</guid>
       <pubDate>Mon, 09 Feb 2026 19:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:16 pm</title>
-      <description>400 BLOCK W SOUTH ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-02-09 19:16:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:11 pm</title>
-      <description>400 BLOCK W SOUTH ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-02-09 19:11:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:08 pm</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: E31, E11, R2, A39, A19</description>
-      <guid isPermaLink="false">2026-02-09 19:08:00</guid>
-      <pubDate>Mon, 09 Feb 2026 19:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
