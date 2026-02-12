@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Feb 2026 13:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 14:26:35 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 9:16 am</title>
+      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2026-02-12 09:16:00</guid>
+      <pubDate>Thu, 12 Feb 2026 09:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:55 am</title>
+      <description>300 BLOCK POULTNEY PL Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-02-12 08:55:00</guid>
+      <pubDate>Thu, 12 Feb 2026 08:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:51 am</title>
       <description>8500 BLOCK PROGRESS DR, CARMAX SERVICE BUILDING Radio: 9C Units: EK114, Q11</description>
@@ -294,18 +306,6 @@
       <description>2200 BLOCK WALLER HOUSE CT Radio: 9C Units: E11, E291</description>
       <guid isPermaLink="false">2026-02-09 18:28:00</guid>
       <pubDate>Mon, 09 Feb 2026 18:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:27 pm</title>
-      <description>3300 BLOCK SUNSET RIDGE DR Radio: 9C Units: E231, T23</description>
-      <guid isPermaLink="false">2026-02-09 18:27:00</guid>
-      <pubDate>Mon, 09 Feb 2026 18:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:49 pm</title>
-      <description>5000 BLOCK SMALL GAINS WAY Radio: 9C Units: PE311, E201, R14</description>
-      <guid isPermaLink="false">2026-02-09 17:49:00</guid>
-      <pubDate>Mon, 09 Feb 2026 17:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
