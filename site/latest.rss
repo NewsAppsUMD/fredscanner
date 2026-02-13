@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 19:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 19:44:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 2:35 pm</title>
+      <description>100 BLOCK SPRING FARM DR Radio: 6DTAC11 Units: E281</description>
+      <guid isPermaLink="false">2026-02-13 14:35:00</guid>
+      <pubDate>Fri, 13 Feb 2026 14:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 2:28 pm</title>
+      <description>100 BLOCK SPRING FARM DR Radio: 6DTAC11 Units: T5, PE52</description>
+      <guid isPermaLink="false">2026-02-13 14:28:00</guid>
+      <pubDate>Fri, 13 Feb 2026 14:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:13 pm</title>
+      <description>I70WB / EXIT 53 (RT15), Apt/Unit:HTTPS://A91.IO/30YNR, I70WB / EXIT 53 Radio: 9B Units: A38, R3</description>
+      <guid isPermaLink="false">2026-02-13 14:13:00</guid>
+      <pubDate>Fri, 13 Feb 2026 14:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
       <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: E31</description>
@@ -288,24 +306,6 @@
       <description>7100 BLOCK CENTRAL CHURCH RD Radio: 9D Units: E153, RE171, A179, ALS17, EMS901</description>
       <guid isPermaLink="false">2026-02-11 07:03:00</guid>
       <pubDate>Wed, 11 Feb 2026 07:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:31 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9B Units: R2</description>
-      <guid isPermaLink="false">2026-02-11 06:31:00</guid>
-      <pubDate>Wed, 11 Feb 2026 06:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:53 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-02-11 03:53:00</guid>
-      <pubDate>Wed, 11 Feb 2026 03:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:48 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Units: EK114, Q11</description>
-      <guid isPermaLink="false">2026-02-11 03:48:00</guid>
-      <pubDate>Wed, 11 Feb 2026 03:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
