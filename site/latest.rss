@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Feb 2026 18:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 18:44:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
+      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-02-13 13:35:00</guid>
+      <pubDate>Fri, 13 Feb 2026 13:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:34 pm</title>
+      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11</description>
+      <guid isPermaLink="false">2026-02-13 13:34:00</guid>
+      <pubDate>Fri, 13 Feb 2026 13:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:21 pm</title>
+      <description>12400 BLOCK JESSE SMITH RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-02-13 13:21:00</guid>
+      <pubDate>Fri, 13 Feb 2026 13:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:38 am</title>
       <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, T23</description>
@@ -288,24 +306,6 @@
       <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Units: EK114, Q11</description>
       <guid isPermaLink="false">2026-02-11 03:48:00</guid>
       <pubDate>Wed, 11 Feb 2026 03:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:22 pm</title>
-      <description>I70WB / RT180, I70WB / RT180 Radio: 9D Units: E121, E31, R3, A129, A39, PE311, EMS901</description>
-      <guid isPermaLink="false">2026-02-10 18:22:00</guid>
-      <pubDate>Tue, 10 Feb 2026 18:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:57 pm</title>
-      <description>100 BLOCK EASTERN CIR Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-02-10 17:57:00</guid>
-      <pubDate>Tue, 10 Feb 2026 17:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
-      <description>S JEFFERSON ST / RAMP S JEFFERSON ST TO RT15NB RAMP Radio: 9B Units: A19</description>
-      <guid isPermaLink="false">2026-02-10 16:55:00</guid>
-      <pubDate>Tue, 10 Feb 2026 16:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
