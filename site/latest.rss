@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 05:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 05:44:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 12:34 am</title>
+      <description>600 BLOCK TIVOLI RD Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-02-14 00:34:00</guid>
+      <pubDate>Sat, 14 Feb 2026 00:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:11 pm</title>
       <description>11600 BLOCK OLD NATIONAL PIKE, ASIAN BISTRO Radio: 9C Units: E153</description>
@@ -300,12 +306,6 @@
       <description>TANEYTOWN PIKE / HARNEY RD Radio: 9B Units: A68, E61</description>
       <guid isPermaLink="false">2026-02-12 09:26:00</guid>
       <pubDate>Thu, 12 Feb 2026 09:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:16 am</title>
-      <description>1900 BLOCK ROSEMONT AVE, CITIZENS CARE &amp; REHAB Radio: 9C Units: E501, E11</description>
-      <guid isPermaLink="false">2026-02-12 09:16:00</guid>
-      <pubDate>Thu, 12 Feb 2026 09:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
