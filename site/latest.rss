@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 18:43:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 19:06:30 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 1:52 pm</title>
+      <description>600 BLOCK TIVOLI RD Radio: 9C Units: PE311, E11, TT4</description>
+      <guid isPermaLink="false">2026-02-14 13:52:00</guid>
+      <pubDate>Sat, 14 Feb 2026 13:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 1:42 pm</title>
+      <description>12500 BLOCK LEE HILL DR, BTWN 12500 BLOCK AND 12507 Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-02-14 13:42:00</guid>
+      <pubDate>Sat, 14 Feb 2026 13:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:27 am</title>
       <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:102, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, Apt/Unit:3303, FHH Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-02-12 17:33:00</guid>
       <pubDate>Thu, 12 Feb 2026 17:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:45 pm</title>
-      <description>RT15NB / RODDY CREEK RD, RT15NB / RODDY CREEK RD Radio: 9B Units: A307, PE102</description>
-      <guid isPermaLink="false">2026-02-12 15:45:00</guid>
-      <pubDate>Thu, 12 Feb 2026 15:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:35 pm</title>
-      <description>5400 BLOCK HOLIDAY DR Radio: 9C Units: E311, TT4</description>
-      <guid isPermaLink="false">2026-02-12 15:35:00</guid>
-      <pubDate>Thu, 12 Feb 2026 15:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
