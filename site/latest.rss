@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 15:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 15:38:35 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:35 am</title>
+      <description>11900 BLOCK FINGERBOARD RD Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-02-14 10:35:00</guid>
+      <pubDate>Sat, 14 Feb 2026 10:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:27 am</title>
+      <description>3500 BLOCK BESS WAY Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-02-14 10:27:00</guid>
+      <pubDate>Sat, 14 Feb 2026 10:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:11 am</title>
       <description>RT15 / 3MM, RT15 / 3MM Radio: 9C Units: BR285</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK TOLL HOUSE AVE, Apt/Unit:211, QUEST DIAGNOSTICS Radio: 9C Units: PE23, TT4</description>
       <guid isPermaLink="false">2026-02-12 14:32:00</guid>
       <pubDate>Thu, 12 Feb 2026 14:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:32 pm</title>
-      <description>6100 BLOCK SPRINGWATER PL, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-02-12 14:32:00</guid>
-      <pubDate>Thu, 12 Feb 2026 14:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:02 pm</title>
-      <description>5900 BLOCK MEADOW RD Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-02-12 14:02:00</guid>
-      <pubDate>Thu, 12 Feb 2026 14:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
