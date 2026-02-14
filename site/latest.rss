@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Feb 2026 13:44:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 14:06:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:52 am</title>
+      <description>URBANA PIKE / GREEN VALLEY RD Radio: 9B Units: E231</description>
+      <guid isPermaLink="false">2026-02-14 08:52:00</guid>
+      <pubDate>Sat, 14 Feb 2026 08:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:49 am</title>
+      <description>URBANA PIKE / GREEN VALLEY RD Radio: 9B Units: A238, T23</description>
+      <guid isPermaLink="false">2026-02-14 08:49:00</guid>
+      <pubDate>Sat, 14 Feb 2026 08:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:43 am</title>
       <description>7100 BLOCK LADD LN, EMMANUEL ALLIANCE Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>RODERICK RD / PETERS RD, IAO Radio: 9D Units: E231, R14, A238, ALS23, BC903, EMS902</description>
       <guid isPermaLink="false">2026-02-12 13:33:00</guid>
       <pubDate>Thu, 12 Feb 2026 13:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:00 pm</title>
-      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: ALS30</description>
-      <guid isPermaLink="false">2026-02-12 12:00:00</guid>
-      <pubDate>Thu, 12 Feb 2026 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:57 am</title>
-      <description>11100 BLOCK KEYSVILLE RD Radio: 9C Units: PE102, E91, E162, R10, EK134, ACE232, BC902, BC901, SAF900</description>
-      <guid isPermaLink="false">2026-02-12 11:57:00</guid>
-      <pubDate>Thu, 12 Feb 2026 11:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
