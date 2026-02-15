@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 21:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 21:37:58 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:19 pm</title>
+      <description>400 BLOCK N EAST ST, KREITZ AUTO REPAIR &amp; SALES Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-02-15 16:19:00</guid>
+      <pubDate>Sun, 15 Feb 2026 16:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 4:10 pm</title>
+      <description>RT85 / ENGLISH MUFFIN WAY, RT85 / ENGLISH MUFFIN WAY Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-02-15 16:10:00</guid>
+      <pubDate>Sun, 15 Feb 2026 16:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 3:45 pm</title>
       <description>8400 BLOCK SPIRES WAY, Bldg:CC, FREDERICK CLASSICAL CHARTER SCHOOL - RIVERSIDE CORPORATE PARK Radio: 9C Units: E31</description>
@@ -294,18 +306,6 @@
       <description>FINGERBOARD RD / CAMPUS DR Radio: 9B Units: A238, T23</description>
       <guid isPermaLink="false">2026-02-13 16:44:00</guid>
       <pubDate>Fri, 13 Feb 2026 16:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:02 pm</title>
-      <description>6200 BLOCK GLEN VALLEY TER, HAMPTON COURT CONDOS - 6200 BLOCK GLEN VALLEY TER Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2026-02-13 16:02:00</guid>
-      <pubDate>Fri, 13 Feb 2026 16:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:55 pm</title>
-      <description>900 BLOCK W PATRICK ST, CHIPOTLE - GOLDEN MILE Radio: 9D Units: E11, R2, A18, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-02-13 15:55:00</guid>
-      <pubDate>Fri, 13 Feb 2026 15:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
