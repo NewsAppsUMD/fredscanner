@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 22:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 22:40:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:18 pm</title>
+      <description>N MARKET ST / W TENTH ST Radio: 9B Units: A28, PE23</description>
+      <guid isPermaLink="false">2026-02-15 17:18:00</guid>
+      <pubDate>Sun, 15 Feb 2026 17:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:19 pm</title>
       <description>400 BLOCK N EAST ST, KREITZ AUTO REPAIR &amp; SALES Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>I70WB / E PATRICK ST, I70WB / E PATRICK ST Radio: 9B Units: E331, E31, R2, A339, A319</description>
       <guid isPermaLink="false">2026-02-13 17:03:00</guid>
       <pubDate>Fri, 13 Feb 2026 17:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:44 pm</title>
-      <description>FINGERBOARD RD / CAMPUS DR Radio: 9B Units: A238, T23</description>
-      <guid isPermaLink="false">2026-02-13 16:44:00</guid>
-      <pubDate>Fri, 13 Feb 2026 16:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
