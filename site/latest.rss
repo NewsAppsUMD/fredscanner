@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 02:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:56:37 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:00 pm</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A39</description>
+      <guid isPermaLink="false">2026-02-14 22:00:00</guid>
+      <pubDate>Sat, 14 Feb 2026 22:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:41 pm</title>
       <description>I270NB / RT80, RIGHT BEFORE Radio: 9B Units: ALS31</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11</description>
       <guid isPermaLink="false">2026-02-13 13:34:00</guid>
       <pubDate>Fri, 13 Feb 2026 13:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:21 pm</title>
-      <description>12400 BLOCK JESSE SMITH RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-02-13 13:21:00</guid>
-      <pubDate>Fri, 13 Feb 2026 13:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
