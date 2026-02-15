@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Feb 2026 17:05:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 17:39:36 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 12:29 pm</title>
+      <description>800 BLOCK N MARKET ST, Bldg:A Radio: 9C Units: PE23, E501, R3</description>
+      <guid isPermaLink="false">2026-02-15 12:29:00</guid>
+      <pubDate>Sun, 15 Feb 2026 12:29:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 7:17 am</title>
       <description>100 BLOCK LOCUST DR Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 53 (RT15), Apt/Unit:HTTPS://A91.IO/30YNR, I70WB / EXIT 53 Radio: 9B Units: A38, R3</description>
       <guid isPermaLink="false">2026-02-13 14:13:00</guid>
       <pubDate>Fri, 13 Feb 2026 14:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
-      <description>9000 BLOCK GAS HOUSE PIKE Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-02-13 13:35:00</guid>
-      <pubDate>Fri, 13 Feb 2026 13:35:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
