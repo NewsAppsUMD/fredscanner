@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 23:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 23:40:17 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:14 pm</title>
+      <description>2300 BLOCK FIELDBOOK LN Units: E153</description>
+      <guid isPermaLink="false">2026-02-16 18:14:00</guid>
+      <pubDate>Mon, 16 Feb 2026 18:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:53 pm</title>
       <description>MARKER RD / OLD NATIONAL PIKE Radio: 9C Units: BR75</description>
@@ -300,12 +306,6 @@
       <description>WOLFSVILLE RD / MARTIN RD Radio: 9C Units: BR216</description>
       <guid isPermaLink="false">2026-02-14 18:12:00</guid>
       <pubDate>Sat, 14 Feb 2026 18:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:39 pm</title>
-      <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: EK114, E162, Q11</description>
-      <guid isPermaLink="false">2026-02-14 17:39:00</guid>
-      <pubDate>Sat, 14 Feb 2026 17:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
