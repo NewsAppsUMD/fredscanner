@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 19:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:40:43 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:33 pm</title>
+      <description>100 BLOCK YORK ST Radio: CCA7 Units: E91</description>
+      <guid isPermaLink="false">2026-02-16 14:33:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:30 pm</title>
+      <description>100 BLOCK YORK ST Radio: CCA7 Units: EK64</description>
+      <guid isPermaLink="false">2026-02-16 14:30:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:28 pm</title>
+      <description>100 BLOCK YORK ST Radio: CCA7 Units: E91, E132</description>
+      <guid isPermaLink="false">2026-02-16 14:28:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:24 pm</title>
+      <description>500 BLOCK N MARKET ST, STATION 2 Units: RE74</description>
+      <guid isPermaLink="false">2026-02-16 14:24:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:23 pm</title>
+      <description>100 BLOCK E BALTIMORE ST Radio: CCA7 Units: TW6</description>
+      <guid isPermaLink="false">2026-02-16 14:23:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:21 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2026-02-16 14:21:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:10 pm</title>
+      <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E61</description>
+      <guid isPermaLink="false">2026-02-16 14:10:00</guid>
+      <pubDate>Mon, 16 Feb 2026 14:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 1:58 pm</title>
       <description>2400 BLOCK STONEY CREEK RD Radio: 9D Units: ALS2</description>
@@ -264,48 +306,6 @@
       <description>12500 BLOCK LEE HILL DR, BTWN 12500 BLOCK AND 12507 Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-02-14 13:42:00</guid>
       <pubDate>Sat, 14 Feb 2026 13:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:27 am</title>
-      <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:102, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-14 11:27:00</guid>
-      <pubDate>Sat, 14 Feb 2026 11:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 10:35 am</title>
-      <description>11900 BLOCK FINGERBOARD RD Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-02-14 10:35:00</guid>
-      <pubDate>Sat, 14 Feb 2026 10:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:27 am</title>
-      <description>3500 BLOCK BESS WAY Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-02-14 10:27:00</guid>
-      <pubDate>Sat, 14 Feb 2026 10:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:11 am</title>
-      <description>RT15 / 3MM, RT15 / 3MM Radio: 9C Units: BR285</description>
-      <guid isPermaLink="false">2026-02-14 09:11:00</guid>
-      <pubDate>Sat, 14 Feb 2026 09:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:52 am</title>
-      <description>URBANA PIKE / GREEN VALLEY RD Radio: 9B Units: E231</description>
-      <guid isPermaLink="false">2026-02-14 08:52:00</guid>
-      <pubDate>Sat, 14 Feb 2026 08:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:49 am</title>
-      <description>URBANA PIKE / GREEN VALLEY RD Radio: 9B Units: A238, T23</description>
-      <guid isPermaLink="false">2026-02-14 08:49:00</guid>
-      <pubDate>Sat, 14 Feb 2026 08:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:43 am</title>
-      <description>7100 BLOCK LADD LN, EMMANUEL ALLIANCE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-02-14 05:43:00</guid>
-      <pubDate>Sat, 14 Feb 2026 05:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
