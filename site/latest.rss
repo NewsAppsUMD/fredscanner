@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Feb 2026 18:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 19:12:51 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:58 pm</title>
+      <description>2400 BLOCK STONEY CREEK RD Radio: 9D Units: ALS2</description>
+      <guid isPermaLink="false">2026-02-16 13:58:00</guid>
+      <pubDate>Mon, 16 Feb 2026 13:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:56 pm</title>
+      <description>2400 BLOCK STONEY CREEK RD Radio: 9D Units: RID, E501, R3, A169, EMS901</description>
+      <guid isPermaLink="false">2026-02-16 13:56:00</guid>
+      <pubDate>Mon, 16 Feb 2026 13:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>EXPLOSION - STRUCTURE: 1:50 pm</title>
+      <description>2400 BLOCK STONEY CREEK RD Units: E291, EK114, E162, PE23, E11, R24, Q11, HM33, HMSU33, A248, A299, ALS29, BC901, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-02-16 13:50:00</guid>
+      <pubDate>Mon, 16 Feb 2026 13:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 1:05 pm</title>
       <description>10600 BLOCK OLD NATIONAL PIKE Radio: 9C Units: E153, E331, R3</description>
@@ -288,24 +306,6 @@
       <description>7100 BLOCK LADD LN, EMMANUEL ALLIANCE Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-02-14 05:43:00</guid>
       <pubDate>Sat, 14 Feb 2026 05:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 4:28 am</title>
-      <description>6700 BLOCK ENGLISH MUFFIN WAY, ROYAL FARMS - ENGLISH MUFFIN WAY Radio: 9D Units: A318, PE311, EMS901</description>
-      <guid isPermaLink="false">2026-02-14 04:28:00</guid>
-      <pubDate>Sat, 14 Feb 2026 04:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 1:48 am</title>
-      <description>300 BLOCK MAIN ST, STATION 8 Radio: 9D Units: E72</description>
-      <guid isPermaLink="false">2026-02-14 01:48:00</guid>
-      <pubDate>Sat, 14 Feb 2026 01:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:33 am</title>
-      <description>12100 BLOCK TOWER RD Radio: 9D Units: A229</description>
-      <guid isPermaLink="false">2026-02-14 01:33:00</guid>
-      <pubDate>Sat, 14 Feb 2026 01:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
