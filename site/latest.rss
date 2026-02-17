@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 18:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 18:45:54 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 1:37 pm</title>
+      <description>100 BLOCK BAUGHMANS LN, Apt/Unit:STE 201, FREDERICK DENTAL CENTER Radio: 9C Units: HM33, HMSU33, A39, ALS4, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-02-17 13:37:00</guid>
+      <pubDate>Tue, 17 Feb 2026 13:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 1:35 pm</title>
+      <description>100 BLOCK BAUGHMANS LN, Apt/Unit:STE 201, FREDERICK DENTAL CENTER Radio: 9C Units: E11, E31, TT4</description>
+      <guid isPermaLink="false">2026-02-17 13:35:00</guid>
+      <pubDate>Tue, 17 Feb 2026 13:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 12:59 pm</title>
       <description>8700 BLOCK MOUNT TABOR RD Radio: 9C Units: E82</description>
@@ -294,18 +306,6 @@
       <description>HAMPSHIRE DR / DYRHAM PARK DR Radio: 9D Units: E11, E501, E121, E31, PE23, R3, TT4, A18, ALS29, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-02-15 17:52:00</guid>
       <pubDate>Sun, 15 Feb 2026 17:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:18 pm</title>
-      <description>N MARKET ST / W TENTH ST Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-02-15 17:18:00</guid>
-      <pubDate>Sun, 15 Feb 2026 17:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:19 pm</title>
-      <description>400 BLOCK N EAST ST, KREITZ AUTO REPAIR &amp; SALES Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-02-15 16:19:00</guid>
-      <pubDate>Sun, 15 Feb 2026 16:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
