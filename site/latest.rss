@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 12:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 13:27:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:15 am</title>
+      <description>MAPLEVILLE RD / KEADLE RD Units: ALS8</description>
+      <guid isPermaLink="false">2026-02-17 08:15:00</guid>
+      <pubDate>Tue, 17 Feb 2026 08:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:46 am</title>
+      <description>I70EB / MAPLEVILLE RD Units: A89</description>
+      <guid isPermaLink="false">2026-02-17 07:46:00</guid>
+      <pubDate>Tue, 17 Feb 2026 07:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 6:22 am</title>
       <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: K21</description>
@@ -294,18 +306,6 @@
       <description>2300 BLOCK DIXON RD Radio: 9C Units: E231, T23, K23, E251</description>
       <guid isPermaLink="false">2026-02-15 12:40:00</guid>
       <pubDate>Sun, 15 Feb 2026 12:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 12:29 pm</title>
-      <description>800 BLOCK N MARKET ST, Bldg:A Radio: 9C Units: PE23, E501, R3</description>
-      <guid isPermaLink="false">2026-02-15 12:29:00</guid>
-      <pubDate>Sun, 15 Feb 2026 12:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 7:17 am</title>
-      <description>100 BLOCK LOCUST DR Units: BR106</description>
-      <guid isPermaLink="false">2026-02-15 07:17:00</guid>
-      <pubDate>Sun, 15 Feb 2026 07:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
