@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Feb 2026 11:14:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:43:13 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:22 am</title>
+      <description>13700 BLOCK MAUGANVILLE RD, STATION WC013 - MAUGANSVILLE GOODWILL VOL. FC. Units: K21</description>
+      <guid isPermaLink="false">2026-02-17 06:22:00</guid>
+      <pubDate>Tue, 17 Feb 2026 06:22:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:10 pm</title>
       <description>1400 BLOCK KEY PKWY, Apt/Unit:C6, HUNTERS GLEN APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK LOCUST DR Units: BR106</description>
       <guid isPermaLink="false">2026-02-15 07:17:00</guid>
       <pubDate>Sun, 15 Feb 2026 07:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:00 pm</title>
-      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A39</description>
-      <guid isPermaLink="false">2026-02-14 22:00:00</guid>
-      <pubDate>Sat, 14 Feb 2026 22:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
