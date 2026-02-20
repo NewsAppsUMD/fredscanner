@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 18:44:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 19:13:47 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:48 pm</title>
+      <description>11600 BLOCK MATHEWS RD Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-02-20 13:48:00</guid>
+      <pubDate>Fri, 20 Feb 2026 13:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:41 pm</title>
+      <description>11600 BLOCK MATHEWS RD Radio: 9C Units: E91</description>
+      <guid isPermaLink="false">2026-02-20 13:41:00</guid>
+      <pubDate>Fri, 20 Feb 2026 13:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 11:43 am</title>
       <description>DETRICK RD / BARNETT DR, IAO Radio: 9C Units: BR156</description>
@@ -294,18 +306,6 @@
       <description>1900 BLOCK GETTYSBURG VILLAGE DR Units: TW6</description>
       <guid isPermaLink="false">2026-02-18 07:34:00</guid>
       <pubDate>Wed, 18 Feb 2026 07:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:01 am</title>
-      <description>100 BLOCK BLK RAMP ROSEMONT AVE TO RT15SB RAMP Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-02-18 07:01:00</guid>
-      <pubDate>Wed, 18 Feb 2026 07:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:16 pm</title>
-      <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9D Units: EK114, R24, K17, K1</description>
-      <guid isPermaLink="false">2026-02-17 23:16:00</guid>
-      <pubDate>Tue, 17 Feb 2026 23:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
