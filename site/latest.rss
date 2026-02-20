@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 05:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 05:46:07 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:42 am</title>
+      <description>400 BLOCK MOHICAN DR, PH2 Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-02-20 00:42:00</guid>
+      <pubDate>Fri, 20 Feb 2026 00:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 11:56 pm</title>
       <description>12900 BLOCK MOXTON DR Radio: 9C Units: E251, E153, R15, K33</description>
@@ -300,12 +306,6 @@
       <description>6100 BLOCK FALLFISH CT Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-02-17 16:04:00</guid>
       <pubDate>Tue, 17 Feb 2026 16:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:51 pm</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, H L HARTZ COMPANY Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-02-17 15:51:00</guid>
-      <pubDate>Tue, 17 Feb 2026 15:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
