@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 22:41:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:05:51 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:59 pm</title>
+      <description>URBANA PKWY / BENNETT CREEK BLVD Radio: 9B Units: A238, T23</description>
+      <guid isPermaLink="false">2026-02-20 17:59:00</guid>
+      <pubDate>Fri, 20 Feb 2026 17:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 5:47 pm</title>
+      <description>100 BLOCK S LOUDOUN ST, LOVETTSVILLE ES Radio: 6DTAC11 Units: T5, E281</description>
+      <guid isPermaLink="false">2026-02-20 17:47:00</guid>
+      <pubDate>Fri, 20 Feb 2026 17:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 5:42 pm</title>
+      <description>26700 BLOCK HANEY AVE Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-02-20 17:42:00</guid>
+      <pubDate>Fri, 20 Feb 2026 17:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 5:37 pm</title>
       <description>17400 BLOCK N SETON AVE Radio: 9C Units: E61</description>
@@ -288,24 +306,6 @@
       <description>1600 BLOCK PINDER ST Radio: 9C Units: E23, TT4</description>
       <guid isPermaLink="false">2026-02-18 10:23:00</guid>
       <pubDate>Wed, 18 Feb 2026 10:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:02 am</title>
-      <description>MONOCACY BLVD / SCHIFFERSTADT BLVD Radio: 9B Units: A39, E23</description>
-      <guid isPermaLink="false">2026-02-18 10:02:00</guid>
-      <pubDate>Wed, 18 Feb 2026 10:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
-      <description>5500 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MIDDLE SCHOOL Radio: 9C Units: E311, TT4</description>
-      <guid isPermaLink="false">2026-02-18 09:58:00</guid>
-      <pubDate>Wed, 18 Feb 2026 09:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:50 am</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9D Units: E23, E11, R3, A39, A318, ALS4, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-02-18 09:50:00</guid>
-      <pubDate>Wed, 18 Feb 2026 09:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
