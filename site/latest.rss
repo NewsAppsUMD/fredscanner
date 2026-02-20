@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Feb 2026 15:43:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 16:09:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:04 am</title>
+      <description>7100 BLOCK GEOFFREY WAY, LEIDOS VACCINE PILOT PLACE Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-02-20 11:04:00</guid>
+      <pubDate>Fri, 20 Feb 2026 11:04:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 7:49 am</title>
       <description>1000 BLOCK W PATRICK ST, WAWA - GOLDEN MILE Units: E11, E31, PE23, E501, E291, R3, TT4, A18, ALS4, BC901, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9D Units: E502, R3, K33, EK224, EK134</description>
       <guid isPermaLink="false">2026-02-17 23:15:00</guid>
       <pubDate>Tue, 17 Feb 2026 23:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:11 pm</title>
-      <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9D Units: E172, EK114, E162, E291, PE23, E501, R24, Q11, TT4, K17, K1, K9, A179, ALS17, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-02-17 23:11:00</guid>
-      <pubDate>Tue, 17 Feb 2026 23:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
