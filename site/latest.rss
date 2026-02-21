@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 04:56:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 05:20:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:09 am</title>
+      <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2026-02-21 00:09:00</guid>
+      <pubDate>Sat, 21 Feb 2026 00:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:58 pm</title>
+      <description>DEVILBISS BRIDGE RD / LENHART RD Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2026-02-20 23:58:00</guid>
+      <pubDate>Fri, 20 Feb 2026 23:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:53 pm</title>
+      <description>DEVILBISS BRIDGE RD / LENHART RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2026-02-20 23:53:00</guid>
+      <pubDate>Fri, 20 Feb 2026 23:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:43 pm</title>
       <description>I70EB / SPRING RIDGE PKWY, I70EB / SPRING RIDGE PKWY Radio: 9B Units: E331, E31, R3, A339, A159</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK REICHS FORD RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-02-18 16:36:00</guid>
       <pubDate>Wed, 18 Feb 2026 16:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:43 pm</title>
-      <description>1400 BLOCK MOBLEY CT Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-02-18 15:43:00</guid>
-      <pubDate>Wed, 18 Feb 2026 15:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 3:23 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-18 15:23:00</guid>
-      <pubDate>Wed, 18 Feb 2026 15:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:33 pm</title>
-      <description>100 BLOCK WATER LAND CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-02-18 14:33:00</guid>
-      <pubDate>Wed, 18 Feb 2026 14:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
