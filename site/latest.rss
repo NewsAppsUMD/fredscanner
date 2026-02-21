@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 00:50:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 01:31:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:03 pm</title>
+      <description>MOUNTVILLE RD / BALLENGER CREEK PIKE, IAO, JUST PASSED INTERSECTON Units: E281, R14, A149, ALS20, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-02-20 20:03:00</guid>
+      <pubDate>Fri, 20 Feb 2026 20:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:59 pm</title>
       <description>URBANA PKWY / BENNETT CREEK BLVD Radio: 9B Units: A238, T23</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MIDDLE SCHOOL Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-02-18 10:38:00</guid>
       <pubDate>Wed, 18 Feb 2026 10:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
-      <description>1600 BLOCK PINDER ST Radio: 9C Units: E23, TT4</description>
-      <guid isPermaLink="false">2026-02-18 10:23:00</guid>
-      <pubDate>Wed, 18 Feb 2026 10:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
