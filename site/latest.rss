@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Feb 2026 23:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 23:37:08 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 6:11 pm</title>
+      <description>KEY PKWY / WILLOWDALE DR Radio: 9B Units: A19, ALS4, E11, EMS902</description>
+      <guid isPermaLink="false">2026-02-21 18:11:00</guid>
+      <pubDate>Sat, 21 Feb 2026 18:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
       <description>4600 BLOCK REELS MILL RD Radio: 9B Units: A238, T23</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A19</description>
       <guid isPermaLink="false">2026-02-19 12:27:00</guid>
       <pubDate>Thu, 19 Feb 2026 12:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:24 pm</title>
-      <description>600 BLOCK LAKEVIEW DR, MOUNT AIRY SHELL Radio: 9B Units: A339</description>
-      <guid isPermaLink="false">2026-02-19 12:24:00</guid>
-      <pubDate>Thu, 19 Feb 2026 12:24:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
