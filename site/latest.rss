@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 01:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 02:58:35 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 8:50 pm</title>
+      <description>3400 BLOCK URBANA PIKE Units: T23</description>
+      <guid isPermaLink="false">2026-02-21 20:50:00</guid>
+      <pubDate>Sat, 21 Feb 2026 20:50:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:13 pm</title>
       <description>3500 BLOCK WORTHINGTON BLVD, VILLAGES OF URBANA Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>9200 BLOCK HOLLOW RD Radio: 9C Units: BR85</description>
       <guid isPermaLink="false">2026-02-19 17:56:00</guid>
       <pubDate>Thu, 19 Feb 2026 17:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:45 pm</title>
-      <description>WATERSIDE DR / STONEY CREEK RD, IAO Units: E291, R24, A299, ALS29, EMS901</description>
-      <guid isPermaLink="false">2026-02-19 17:45:00</guid>
-      <pubDate>Thu, 19 Feb 2026 17:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
