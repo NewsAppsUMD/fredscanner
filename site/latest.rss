@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 16:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 16:42:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:33 am</title>
+      <description>I70WB / WASHINGTON COUNTY LINE, I70WB / WASHINGTON COUNTY LINE Radio: 9D Units: E72, R8, A89, ALS8, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-02-22 11:33:00</guid>
+      <pubDate>Sun, 22 Feb 2026 11:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:26 am</title>
+      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-02-22 11:26:00</guid>
+      <pubDate>Sun, 22 Feb 2026 11:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:05 am</title>
+      <description>I70EB / RT85(RT85), I70WB / RT355 Radio: 9D Units: E31, E11, R3, A38, A18, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-02-22 11:05:00</guid>
+      <pubDate>Sun, 22 Feb 2026 11:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:57 am</title>
       <description>11100 BLOCK EASTERDAY RD Radio: 9C Units: BR85</description>
@@ -288,24 +306,6 @@
       <description>5800 BLOCK ROSEBAY CT, IAO //AT THE ROUNDABOUT Radio: 9D Units: RID, E331, R20, A39</description>
       <guid isPermaLink="false">2026-02-20 01:14:00</guid>
       <pubDate>Fri, 20 Feb 2026 01:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 1:10 am</title>
-      <description>5800 BLOCK ROSEBAY CT, IAO //AT THE ROUNDABOUT Radio: 9D Units: A38, EMS902</description>
-      <guid isPermaLink="false">2026-02-20 01:10:00</guid>
-      <pubDate>Fri, 20 Feb 2026 01:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:08 am</title>
-      <description>5800 BLOCK ROSEBAY CT, IAO //AT THE ROUNDABOUT Radio: 9D Units: PE311, E31, E11, PE23, E501, R3, TT4, A318, ALS4, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-02-20 01:08:00</guid>
-      <pubDate>Fri, 20 Feb 2026 01:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:42 am</title>
-      <description>400 BLOCK MOHICAN DR, PH2 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-02-20 00:42:00</guid>
-      <pubDate>Fri, 20 Feb 2026 00:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
