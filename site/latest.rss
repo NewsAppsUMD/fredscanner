@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 22:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 22:39:49 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 5:20 pm</title>
+      <description>13400 BLOCK EAGLES REST DR Radio: 6DTAC11 Units: E281, R20</description>
+      <guid isPermaLink="false">2026-02-22 17:20:00</guid>
+      <pubDate>Sun, 22 Feb 2026 17:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 4:28 pm</title>
       <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: E121, K1</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S LOUDOUN ST, LOVETTSVILLE ES Radio: 6DTAC11 Units: T5, E281</description>
       <guid isPermaLink="false">2026-02-20 17:47:00</guid>
       <pubDate>Fri, 20 Feb 2026 17:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:42 pm</title>
-      <description>26700 BLOCK HANEY AVE Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2026-02-20 17:42:00</guid>
-      <pubDate>Fri, 20 Feb 2026 17:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
