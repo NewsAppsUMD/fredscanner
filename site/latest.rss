@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 15:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 16:03:41 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:57 am</title>
+      <description>11100 BLOCK EASTERDAY RD Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2026-02-22 10:57:00</guid>
+      <pubDate>Sun, 22 Feb 2026 10:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 8:25 am</title>
       <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Units: HM33, HMSU33, K33</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK MOHICAN DR, PH2 Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-02-20 00:42:00</guid>
       <pubDate>Fri, 20 Feb 2026 00:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 11:56 pm</title>
-      <description>12900 BLOCK MOXTON DR Radio: 9C Units: E251, E153, R15, K33</description>
-      <guid isPermaLink="false">2026-02-19 23:56:00</guid>
-      <pubDate>Thu, 19 Feb 2026 23:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
