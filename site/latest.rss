@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Feb 2026 22:39:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 23:04:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:42 pm</title>
+      <description>RT550 / CULLEN DR, RT550 / CULLEN DR Radio: 9I Units: PE102, EMS902</description>
+      <guid isPermaLink="false">2026-02-22 17:42:00</guid>
+      <pubDate>Sun, 22 Feb 2026 17:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:40 pm</title>
+      <description>11500 BLOCK HARP HILL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-02-22 17:40:00</guid>
+      <pubDate>Sun, 22 Feb 2026 17:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:20 pm</title>
       <description>13400 BLOCK EAGLES REST DR Radio: 6DTAC11 Units: E281, R20</description>
@@ -294,18 +306,6 @@
       <description>MOUNTVILLE RD / BALLENGER CREEK PIKE, IAO, JUST PASSED INTERSECTON Units: E281, R14, A149, ALS20, BC901, EMS902</description>
       <guid isPermaLink="false">2026-02-20 20:03:00</guid>
       <pubDate>Fri, 20 Feb 2026 20:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:59 pm</title>
-      <description>URBANA PKWY / BENNETT CREEK BLVD Radio: 9B Units: A238, T23</description>
-      <guid isPermaLink="false">2026-02-20 17:59:00</guid>
-      <pubDate>Fri, 20 Feb 2026 17:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:47 pm</title>
-      <description>100 BLOCK S LOUDOUN ST, LOVETTSVILLE ES Radio: 6DTAC11 Units: T5, E281</description>
-      <guid isPermaLink="false">2026-02-20 17:47:00</guid>
-      <pubDate>Fri, 20 Feb 2026 17:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
