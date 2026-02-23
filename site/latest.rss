@@ -6,7 +6,73 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 18:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 19:23:02 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:21 pm</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: Q11</description>
+      <guid isPermaLink="false">2026-02-23 14:21:00</guid>
+      <pubDate>Mon, 23 Feb 2026 14:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:12 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: K10</description>
+      <guid isPermaLink="false">2026-02-23 14:12:00</guid>
+      <pubDate>Mon, 23 Feb 2026 14:12:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:07 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / BLENTLINGER RD Radio: 9B Units: A18, E121</description>
+      <guid isPermaLink="false">2026-02-23 14:07:00</guid>
+      <pubDate>Mon, 23 Feb 2026 14:07:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:04 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: K1</description>
+      <guid isPermaLink="false">2026-02-23 14:04:00</guid>
+      <pubDate>Mon, 23 Feb 2026 14:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:02 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
+      <guid isPermaLink="false">2026-02-23 14:02:00</guid>
+      <pubDate>Mon, 23 Feb 2026 14:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:59 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: K1</description>
+      <guid isPermaLink="false">2026-02-23 13:59:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:53 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: TTF, E31, K17, W25</description>
+      <guid isPermaLink="false">2026-02-23 13:53:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:51 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: E172, A179</description>
+      <guid isPermaLink="false">2026-02-23 13:51:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:51:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:49 pm</title>
+      <description>100 BLOCK CREAMERY WAY, BOLLINGER CONSTRUCTION Radio: 9C Units: E61</description>
+      <guid isPermaLink="false">2026-02-23 13:49:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:48 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: RID, E331, R2, EMS902, W15</description>
+      <guid isPermaLink="false">2026-02-23 13:48:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:47 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: K33</description>
+      <guid isPermaLink="false">2026-02-23 13:47:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:47:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:40 pm</title>
       <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: E153, R3, TT4, BC902, BC901, SAF901, E251, CCK1</description>
@@ -240,72 +306,6 @@
       <description>10700 BLOCK LIBERTY RD Radio: 9B Units: A179, Q11</description>
       <guid isPermaLink="false">2026-02-22 22:31:00</guid>
       <pubDate>Sun, 22 Feb 2026 22:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:01 pm</title>
-      <description>4900 BLOCK REELS MILL RD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-02-22 22:01:00</guid>
-      <pubDate>Sun, 22 Feb 2026 22:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SHOOTING - ALS: 9:59 pm</title>
-      <description>100 BLOCK STONEGATE DR Radio: 9I Units: A18, ALS2, E11, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-02-22 21:59:00</guid>
-      <pubDate>Sun, 22 Feb 2026 21:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:57 pm</title>
-      <description>I70EB / RT40 (FRED), I70EB / RT40 Radio: 9D Units: E72, E121, R8, A89, A38, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-02-22 21:57:00</guid>
-      <pubDate>Sun, 22 Feb 2026 21:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 9:45 pm</title>
-      <description>14700 BLOCK OAK ORCHARD RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-02-22 21:45:00</guid>
-      <pubDate>Sun, 22 Feb 2026 21:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:42 pm</title>
-      <description>4600 BLOCK MOUNT ZION RD Radio: 9B Units: E121</description>
-      <guid isPermaLink="false">2026-02-22 21:42:00</guid>
-      <pubDate>Sun, 22 Feb 2026 21:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:19 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A259, E231</description>
-      <guid isPermaLink="false">2026-02-22 21:19:00</guid>
-      <pubDate>Sun, 22 Feb 2026 21:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:46 pm</title>
-      <description>14100 BLOCK UNIONVILLE RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-02-22 20:46:00</guid>
-      <pubDate>Sun, 22 Feb 2026 20:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:39 pm</title>
-      <description>GAMBRILL PARK RD / SHOOKSTOWN RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-02-22 20:39:00</guid>
-      <pubDate>Sun, 22 Feb 2026 20:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:38 pm</title>
-      <description>11500 BLOCK OLD ANNAPOLIS RD, IFO Radio: 9D Units: E153, RE171, A179, ALS17, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-02-22 20:38:00</guid>
-      <pubDate>Sun, 22 Feb 2026 20:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:35 pm</title>
-      <description>I70WB / 66MM, I70WB / 66MM Units: A259</description>
-      <guid isPermaLink="false">2026-02-22 20:35:00</guid>
-      <pubDate>Sun, 22 Feb 2026 20:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:03 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E251</description>
-      <guid isPermaLink="false">2026-02-22 20:03:00</guid>
-      <pubDate>Sun, 22 Feb 2026 20:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
