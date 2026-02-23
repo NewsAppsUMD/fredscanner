@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 16:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 17:22:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 12:18 pm</title>
+      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-02-23 12:18:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:11 pm</title>
+      <description>2900 BLOCK RODERICK RD Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2026-02-23 12:11:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:11:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:08 pm</title>
+      <description>NEW DESIGN RD / TUSCARORA RD Radio: 9D Units: HM33, HMSU33</description>
+      <guid isPermaLink="false">2026-02-23 12:08:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:06 pm</title>
+      <description>100 BLOCK SCHOOLHOUSE DR Radio: 9C Units: HM33, HMSU33, BC901</description>
+      <guid isPermaLink="false">2026-02-23 12:06:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:04 pm</title>
+      <description>100 BLOCK SCHOOLHOUSE DR Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2026-02-23 12:04:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:03 pm</title>
+      <description>NEW DESIGN RD / TUSCARORA RD Radio: 9D Units: A318</description>
+      <guid isPermaLink="false">2026-02-23 12:03:00</guid>
+      <pubDate>Mon, 23 Feb 2026 12:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:53 am</title>
+      <description>NEW DESIGN RD / TUSCARORA RD Radio: 9D Units: E281, R14, A149, ALS31, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-02-23 11:53:00</guid>
+      <pubDate>Mon, 23 Feb 2026 11:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:21 am</title>
       <description>12000 BLOCK WELLER RD Radio: 9C Units: A259</description>
@@ -264,48 +306,6 @@
       <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-02-22 18:38:00</guid>
       <pubDate>Sun, 22 Feb 2026 18:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:37 pm</title>
-      <description>3000 BLOCK BLACK ROCK RD, Bldg:A Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2026-02-22 18:37:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:21 pm</title>
-      <description>FINGERBOARD RD / HOPELAND RD Radio: 9D Units: E31</description>
-      <guid isPermaLink="false">2026-02-22 18:21:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:13 pm</title>
-      <description>FINGERBOARD RD / HOPELAND RD Radio: 9D Units: E231, R14, A238, ALS23, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-02-22 18:13:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:04 pm</title>
-      <description>4300 BLOCK GEORGIA PACIFIC BLVD, BLUE LINX Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-02-22 18:04:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:42 pm</title>
-      <description>RT550 / CULLEN DR, RT550 / CULLEN DR Radio: 9I Units: PE102, EMS902</description>
-      <guid isPermaLink="false">2026-02-22 17:42:00</guid>
-      <pubDate>Sun, 22 Feb 2026 17:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:40 pm</title>
-      <description>11500 BLOCK HARP HILL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-02-22 17:40:00</guid>
-      <pubDate>Sun, 22 Feb 2026 17:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:20 pm</title>
-      <description>13400 BLOCK EAGLES REST DR Radio: 6DTAC11 Units: E281, R20</description>
-      <guid isPermaLink="false">2026-02-22 17:20:00</guid>
-      <pubDate>Sun, 22 Feb 2026 17:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
