@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 18:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 18:46:31 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 1:40 pm</title>
+      <description>13900 BLOCK FOGGY BOTTOM DR Radio: 9D Units: E153, R3, TT4, BC902, BC901, SAF901, E251, CCK1</description>
+      <guid isPermaLink="false">2026-02-23 13:40:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:34 pm</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
+      <guid isPermaLink="false">2026-02-23 13:34:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:24 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: A319</description>
+      <guid isPermaLink="false">2026-02-23 13:24:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:23 pm</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A19</description>
+      <guid isPermaLink="false">2026-02-23 13:23:00</guid>
+      <pubDate>Mon, 23 Feb 2026 13:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:31 pm</title>
       <description>100 BLOCK AIRPORT DR E, FREDERICK COUNTY LAW ENFORCEMENT CENTER Radio: 9B Units: A38</description>
@@ -282,30 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E251</description>
       <guid isPermaLink="false">2026-02-22 20:03:00</guid>
       <pubDate>Sun, 22 Feb 2026 20:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:59 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E153, A159</description>
-      <guid isPermaLink="false">2026-02-22 19:59:00</guid>
-      <pubDate>Sun, 22 Feb 2026 19:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:43 pm</title>
-      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-02-22 19:43:00</guid>
-      <pubDate>Sun, 22 Feb 2026 19:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:56 pm</title>
-      <description>600 BLOCK N MAPLE AVE Radio: 9B Units: A196, PE52</description>
-      <guid isPermaLink="false">2026-02-22 18:56:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:50 pm</title>
-      <description>I70EB / 36MM Units: R8</description>
-      <guid isPermaLink="false">2026-02-22 18:50:00</guid>
-      <pubDate>Sun, 22 Feb 2026 18:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
