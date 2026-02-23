@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 01:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 02:59:00 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 9:45 pm</title>
+      <description>14700 BLOCK OAK ORCHARD RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-02-22 21:45:00</guid>
+      <pubDate>Sun, 22 Feb 2026 21:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:42 pm</title>
+      <description>4600 BLOCK MOUNT ZION RD Radio: 9B Units: E121</description>
+      <guid isPermaLink="false">2026-02-22 21:42:00</guid>
+      <pubDate>Sun, 22 Feb 2026 21:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:19 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A259, E231</description>
+      <guid isPermaLink="false">2026-02-22 21:19:00</guid>
+      <pubDate>Sun, 22 Feb 2026 21:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:46 pm</title>
+      <description>14100 BLOCK UNIONVILLE RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-02-22 20:46:00</guid>
+      <pubDate>Sun, 22 Feb 2026 20:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:39 pm</title>
+      <description>GAMBRILL PARK RD / SHOOKSTOWN RD Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-02-22 20:39:00</guid>
+      <pubDate>Sun, 22 Feb 2026 20:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:38 pm</title>
+      <description>11500 BLOCK OLD ANNAPOLIS RD, IFO Radio: 9D Units: E153, RE171, A179, ALS17, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-02-22 20:38:00</guid>
+      <pubDate>Sun, 22 Feb 2026 20:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:35 pm</title>
+      <description>I70WB / 66MM, I70WB / 66MM Units: A259</description>
+      <guid isPermaLink="false">2026-02-22 20:35:00</guid>
+      <pubDate>Sun, 22 Feb 2026 20:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:03 pm</title>
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E251</description>
@@ -264,48 +306,6 @@
       <description>100 BLOCK WALNUT ST Radio: 9C Units: E72, BR75, DNR</description>
       <guid isPermaLink="false">2026-02-21 14:40:00</guid>
       <pubDate>Sat, 21 Feb 2026 14:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 2:16 pm</title>
-      <description>9100 BLOCK FINGERBOARD RD, ROYAL FARMS - URBANA Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-02-21 14:16:00</guid>
-      <pubDate>Sat, 21 Feb 2026 14:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:29 pm</title>
-      <description>100 BLOCK S MCCAIN DR Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-02-21 12:29:00</guid>
-      <pubDate>Sat, 21 Feb 2026 12:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:04 pm</title>
-      <description>RT15SB / PUTMAN RD, RT15SB / PUTMAN RD Radio: 9D Units: EK114, ALS30</description>
-      <guid isPermaLink="false">2026-02-21 12:04:00</guid>
-      <pubDate>Sat, 21 Feb 2026 12:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:02 pm</title>
-      <description>RT15SB / PUTMAN RD, RT15SB / PUTMAN RD Radio: 9D Units: PE102, E291, R10, A229, A299, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-02-21 12:02:00</guid>
-      <pubDate>Sat, 21 Feb 2026 12:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 11:59 am</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-02-21 11:59:00</guid>
-      <pubDate>Sat, 21 Feb 2026 11:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:48 am</title>
-      <description>5300 BLOCK(5498) BLK SPECTRUM DR Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2026-02-21 11:48:00</guid>
-      <pubDate>Sat, 21 Feb 2026 11:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 6:02 am</title>
-      <description>600 BLOCK N BENTZ ST, Apt/Unit:102 Radio: 9C Units: PE23, E31, R3</description>
-      <guid isPermaLink="false">2026-02-21 06:02:00</guid>
-      <pubDate>Sat, 21 Feb 2026 06:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
