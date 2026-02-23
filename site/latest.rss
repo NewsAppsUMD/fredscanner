@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 16:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 16:46:17 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:21 am</title>
+      <description>12000 BLOCK WELLER RD Radio: 9C Units: A259</description>
+      <guid isPermaLink="false">2026-02-23 11:21:00</guid>
+      <pubDate>Mon, 23 Feb 2026 11:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:19 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: EK114</description>
+      <guid isPermaLink="false">2026-02-23 11:19:00</guid>
+      <pubDate>Mon, 23 Feb 2026 11:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:19 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-02-23 11:19:00</guid>
+      <pubDate>Mon, 23 Feb 2026 11:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:14 am</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: E291, EK114, Q11</description>
+      <guid isPermaLink="false">2026-02-23 11:14:00</guid>
+      <pubDate>Mon, 23 Feb 2026 11:14:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:06 am</title>
       <description>10200 BLOCK SCULPIN ST Radio: 9C Units: E153, TT4</description>
@@ -282,30 +306,6 @@
       <description>13400 BLOCK EAGLES REST DR Radio: 6DTAC11 Units: E281, R20</description>
       <guid isPermaLink="false">2026-02-22 17:20:00</guid>
       <pubDate>Sun, 22 Feb 2026 17:20:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 4:28 pm</title>
-      <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: E121, K1</description>
-      <guid isPermaLink="false">2026-02-22 16:28:00</guid>
-      <pubDate>Sun, 22 Feb 2026 16:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 4:28 pm</title>
-      <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: K21, E72</description>
-      <guid isPermaLink="false">2026-02-22 16:28:00</guid>
-      <pubDate>Sun, 22 Feb 2026 16:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:27 pm</title>
-      <description>3500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-02-22 16:27:00</guid>
-      <pubDate>Sun, 22 Feb 2026 16:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 4:20 pm</title>
-      <description>3900 BLOCK HIGHLAND AVE Radio: 9C Units: E82, E72, TW7, K21, E212</description>
-      <guid isPermaLink="false">2026-02-22 16:20:00</guid>
-      <pubDate>Sun, 22 Feb 2026 16:20:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
