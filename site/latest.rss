@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Feb 2026 00:11:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:54:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:43 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-02-22 19:43:00</guid>
+      <pubDate>Sun, 22 Feb 2026 19:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:56 pm</title>
       <description>600 BLOCK N MAPLE AVE Radio: 9B Units: A196, PE52</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK CARRIAGE WAY Radio: 9C Units: E291, E501, R2</description>
       <guid isPermaLink="false">2026-02-21 04:51:00</guid>
       <pubDate>Sat, 21 Feb 2026 04:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:15 am</title>
-      <description>RT340EB / CATOCTIN CREEK, RT340EB / CATOCTIN CREEK Radio: 9B Units: ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-02-21 04:15:00</guid>
-      <pubDate>Sat, 21 Feb 2026 04:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
