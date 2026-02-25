@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 17:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 17:47:00 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 12:24 pm</title>
+      <description>6300 BLOCK BANNISTER DR Units: E153</description>
+      <guid isPermaLink="false">2026-02-25 12:24:00</guid>
+      <pubDate>Wed, 25 Feb 2026 12:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:52 am</title>
       <description>4900 BLOCK INTERNATIONAL BLVD, Apt/Unit:113 Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK134</description>
       <guid isPermaLink="false">2026-02-23 14:29:00</guid>
       <pubDate>Mon, 23 Feb 2026 14:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:22 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK134</description>
-      <guid isPermaLink="false">2026-02-23 14:22:00</guid>
-      <pubDate>Mon, 23 Feb 2026 14:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
