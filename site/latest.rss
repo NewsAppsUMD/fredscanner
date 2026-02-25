@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 13:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 13:56:46 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:41 am</title>
+      <description>900 BLOCKA N EAST ST Radio: 9C Units: PE23, E31, R3</description>
+      <guid isPermaLink="false">2026-02-25 08:41:00</guid>
+      <pubDate>Wed, 25 Feb 2026 08:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FLOODING CONDITION: 8:40 am</title>
+      <description>100 BLOCK WILLIAM DR Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2026-02-25 08:40:00</guid>
+      <pubDate>Wed, 25 Feb 2026 08:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:54 am</title>
       <description>WAYNESBORO PIKE / FAIRFIELD RD Radio: ACOPS2 Units: A68, TW6</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S COURT ST, STATION 4 Units: Q11</description>
       <guid isPermaLink="false">2026-02-23 14:21:00</guid>
       <pubDate>Mon, 23 Feb 2026 14:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:12 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: K10</description>
-      <guid isPermaLink="false">2026-02-23 14:12:00</guid>
-      <pubDate>Mon, 23 Feb 2026 14:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:07 pm</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / BLENTLINGER RD Radio: 9B Units: A18, E121</description>
-      <guid isPermaLink="false">2026-02-23 14:07:00</guid>
-      <pubDate>Mon, 23 Feb 2026 14:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
