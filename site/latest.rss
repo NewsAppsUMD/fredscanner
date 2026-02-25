@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 19:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 19:45:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
+      <description>RT340 / KEEP TRYST RD Units: A196, R19, ALS20, PE52</description>
+      <guid isPermaLink="false">2026-02-25 14:37:00</guid>
+      <pubDate>Wed, 25 Feb 2026 14:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:24 pm</title>
       <description>RT17 / I70, RT17 / I70 Units: E72, E212, R8, A89, A79</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK QUINN ORCHARD RD, Bldg:1, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: RE74, Q11</description>
       <guid isPermaLink="false">2026-02-23 15:29:00</guid>
       <pubDate>Mon, 23 Feb 2026 15:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 3:21 pm</title>
-      <description>300 BLOCK E THIRD ST Units: E11</description>
-      <guid isPermaLink="false">2026-02-23 15:21:00</guid>
-      <pubDate>Mon, 23 Feb 2026 15:21:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
