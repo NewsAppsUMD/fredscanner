@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 12:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 13:28:26 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:59 am</title>
+      <description>FINGERBOARD RD / CAMPUS DR Radio: 9B Units: A238, T23</description>
+      <guid isPermaLink="false">2026-02-26 07:59:00</guid>
+      <pubDate>Thu, 26 Feb 2026 07:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:37 am</title>
       <description>4800 BLOCK HITESHOW DR Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: R2</description>
       <guid isPermaLink="false">2026-02-24 12:45:00</guid>
       <pubDate>Tue, 24 Feb 2026 12:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:44 pm</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: ALS2, BC902</description>
-      <guid isPermaLink="false">2026-02-24 12:44:00</guid>
-      <pubDate>Tue, 24 Feb 2026 12:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
