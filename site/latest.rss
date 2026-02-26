@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 00:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 00:51:11 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 7:44 pm</title>
+      <description>1800 BLOCK MONOCACY BLVD, RIVERSIDE PARK - THE SHOPS AT MONOCACY Units: E111</description>
+      <guid isPermaLink="false">2026-02-25 19:44:00</guid>
+      <pubDate>Wed, 25 Feb 2026 19:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 7:41 pm</title>
+      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9B Units: ALS2</description>
+      <guid isPermaLink="false">2026-02-25 19:41:00</guid>
+      <pubDate>Wed, 25 Feb 2026 19:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 7:31 pm</title>
+      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9B Units: E111, R24, A249</description>
+      <guid isPermaLink="false">2026-02-25 19:31:00</guid>
+      <pubDate>Wed, 25 Feb 2026 19:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:28 pm</title>
       <description>100 BLOCK RECORD ST Radio: 9C Units: E31</description>
@@ -288,24 +306,6 @@
       <description>8500 BLOCK ROSEBUD CT Units: TTF, E201, EK114, K23, K21, E212, W7</description>
       <guid isPermaLink="false">2026-02-23 23:57:00</guid>
       <pubDate>Mon, 23 Feb 2026 23:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:37 pm</title>
-      <description>8500 BLOCK ROSEBUD CT Units: RID, A79, EMS901</description>
-      <guid isPermaLink="false">2026-02-23 23:37:00</guid>
-      <pubDate>Mon, 23 Feb 2026 23:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:36 pm</title>
-      <description>8500 BLOCK ROSEBUD CT Units: E291, PE311, K7, K1, K33</description>
-      <guid isPermaLink="false">2026-02-23 23:36:00</guid>
-      <pubDate>Mon, 23 Feb 2026 23:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:29 pm</title>
-      <description>8500 BLOCK ROSEBUD CT Units: E121, E82, E72, E31, E501, R3, TW7, R2, A129, ALS8, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-02-23 23:29:00</guid>
-      <pubDate>Mon, 23 Feb 2026 23:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
