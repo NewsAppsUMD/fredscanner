@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 17:47:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 18:12:46 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 12:58 pm</title>
+      <description>800 BLOCK JUBAL WAY Radio: 9D Units: R24</description>
+      <guid isPermaLink="false">2026-02-26 12:58:00</guid>
+      <pubDate>Thu, 26 Feb 2026 12:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 12:58 pm</title>
+      <description>800 BLOCK JUBAL WAY Radio: 9D Units: E31, R3</description>
+      <guid isPermaLink="false">2026-02-26 12:58:00</guid>
+      <pubDate>Thu, 26 Feb 2026 12:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 12:54 pm</title>
+      <description>800 BLOCK JUBAL WAY Radio: 9D Units: E501, A299, BC901</description>
+      <guid isPermaLink="false">2026-02-26 12:54:00</guid>
+      <pubDate>Thu, 26 Feb 2026 12:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 12:53 pm</title>
+      <description>800 BLOCK JUBAL WAY Radio: 9D Units: E291, E111, PE23, E11, R24, Q11, ALS29, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-02-26 12:53:00</guid>
+      <pubDate>Thu, 26 Feb 2026 12:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 11:57 am</title>
       <description>BALLENGER CREEK PIKE / MOUNTVILLE RD Radio: 9D Units: R20, A149, ALS20, EMS901, E141</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK E ALL SAINTS ST(P), FPD HQ'S Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-02-24 18:51:00</guid>
       <pubDate>Tue, 24 Feb 2026 18:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:48 pm</title>
-      <description>3800 BLOCK URBANA PIKE, URBANA DISTRICT PARK Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-02-24 17:48:00</guid>
-      <pubDate>Tue, 24 Feb 2026 17:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:12 pm</title>
-      <description>9800 BLOCK PEBBLE BEACH CT Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-02-24 17:12:00</guid>
-      <pubDate>Tue, 24 Feb 2026 17:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:52 pm</title>
-      <description>5800 BLOCK WINDING OAKS CT Radio: 9D Units: E331, E31, PE23, PE311, E153, R3, R15, A339, ALS31, BC901, BC902, SAF900</description>
-      <guid isPermaLink="false">2026-02-24 15:52:00</guid>
-      <pubDate>Tue, 24 Feb 2026 15:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 1:15 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: A38</description>
-      <guid isPermaLink="false">2026-02-24 13:15:00</guid>
-      <pubDate>Tue, 24 Feb 2026 13:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
