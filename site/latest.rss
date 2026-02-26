@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Feb 2026 13:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 14:22:56 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:56 am</title>
+      <description>600 BLOCK AMBERFIELD RD Radio: 9C Units: PE311, E11, TT4</description>
+      <guid isPermaLink="false">2026-02-26 08:56:00</guid>
+      <pubDate>Thu, 26 Feb 2026 08:56:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:59 am</title>
       <description>FINGERBOARD RD / CAMPUS DR Radio: 9B Units: A238, T23</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: W22</description>
       <guid isPermaLink="false">2026-02-24 12:53:00</guid>
       <pubDate>Tue, 24 Feb 2026 12:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:45 pm</title>
-      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: R2</description>
-      <guid isPermaLink="false">2026-02-24 12:45:00</guid>
-      <pubDate>Tue, 24 Feb 2026 12:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
