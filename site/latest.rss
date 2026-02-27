@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 20:04:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 20:40:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:28 pm</title>
+      <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO I27100 BLOCKSB RAMP, IAO END OF RAMP Radio: 9B Units: E31, E121, R3, A38, A79</description>
+      <guid isPermaLink="false">2026-02-27 15:28:00</guid>
+      <pubDate>Fri, 27 Feb 2026 15:28:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 2:16 pm</title>
       <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9D Units: E72</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK RECORD ST Radio: 9C Units: R3</description>
       <guid isPermaLink="false">2026-02-25 17:47:00</guid>
       <pubDate>Wed, 25 Feb 2026 17:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:34 pm</title>
-      <description>100 BLOCK RECORD ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-02-25 17:34:00</guid>
-      <pubDate>Wed, 25 Feb 2026 17:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
