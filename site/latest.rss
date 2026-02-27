@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 19:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:40:50 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:16 pm</title>
+      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9D Units: E72</description>
+      <guid isPermaLink="false">2026-02-27 14:16:00</guid>
+      <pubDate>Fri, 27 Feb 2026 14:16:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:11 pm</title>
+      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9D Units: E72, R20, A209, ALS20, EMS902</description>
+      <guid isPermaLink="false">2026-02-27 14:11:00</guid>
+      <pubDate>Fri, 27 Feb 2026 14:11:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:02 pm</title>
       <description>BALLENGER CREEK PIKE / SOLAREX CT Radio: 9B Units: A318, PE311</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK RECORD ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-02-25 17:34:00</guid>
       <pubDate>Wed, 25 Feb 2026 17:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:27 pm</title>
-      <description>100 BLOCK LOVETT DR Radio: 6DTAC11 Units: T5, E281</description>
-      <guid isPermaLink="false">2026-02-25 17:27:00</guid>
-      <pubDate>Wed, 25 Feb 2026 17:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:11 pm</title>
-      <description>1000 BLOCK W PATRICK ST, DR WILLIAM J HALL DENTIST OFFICE - HILLCREST TOWN CENTER Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-02-25 17:11:00</guid>
-      <pubDate>Wed, 25 Feb 2026 17:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
