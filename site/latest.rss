@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 12:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 12:45:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
+      <description>27300 BLOCK CLARKSBURG RD Radio: 7A1 Units: R15</description>
+      <guid isPermaLink="false">2026-02-27 07:08:00</guid>
+      <pubDate>Fri, 27 Feb 2026 07:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 4:32 am</title>
       <description>5500 BLOCK UPPER MILL TER N Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>WAYNESBORO PIKE / FAIRFIELD RD Radio: ACOPS2 Units: A68, TW6</description>
       <guid isPermaLink="false">2026-02-25 07:54:00</guid>
       <pubDate>Wed, 25 Feb 2026 07:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:00 am</title>
-      <description>39500 BLOCK TOLLHOUSE RD Radio: 6B Units: K7</description>
-      <guid isPermaLink="false">2026-02-25 07:00:00</guid>
-      <pubDate>Wed, 25 Feb 2026 07:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
