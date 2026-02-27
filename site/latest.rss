@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 12:45:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 13:23:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:17 am</title>
+      <description>1000 BLOCK FRANCIS SCOTT KEY HWY Units: E91</description>
+      <guid isPermaLink="false">2026-02-27 08:17:00</guid>
+      <pubDate>Fri, 27 Feb 2026 08:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
       <description>27300 BLOCK CLARKSBURG RD Radio: 7A1 Units: R15</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WILLIAM DR Radio: 9C Units: PE102</description>
       <guid isPermaLink="false">2026-02-25 08:40:00</guid>
       <pubDate>Wed, 25 Feb 2026 08:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:54 am</title>
-      <description>WAYNESBORO PIKE / FAIRFIELD RD Radio: ACOPS2 Units: A68, TW6</description>
-      <guid isPermaLink="false">2026-02-25 07:54:00</guid>
-      <pubDate>Wed, 25 Feb 2026 07:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
