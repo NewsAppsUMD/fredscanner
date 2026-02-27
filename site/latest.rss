@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 21:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 22:03:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:59 pm</title>
+      <description>42000 BLOCK PANORAMA PL Radio: 6DTAC11 Units: E281</description>
+      <guid isPermaLink="false">2026-02-27 16:59:00</guid>
+      <pubDate>Fri, 27 Feb 2026 16:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:28 pm</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO I27100 BLOCKSB RAMP, IAO END OF RAMP Radio: 9B Units: E31, E121, R3, A38, A79</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, CHIARAMONTE ARTISAN SHOP Radio: 9B Units: A179, E172</description>
       <guid isPermaLink="false">2026-02-25 18:00:00</guid>
       <pubDate>Wed, 25 Feb 2026 18:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:47 pm</title>
-      <description>100 BLOCK RECORD ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-02-25 17:47:00</guid>
-      <pubDate>Wed, 25 Feb 2026 17:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
