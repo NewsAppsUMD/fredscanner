@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Feb 2026 22:39:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 23:03:46 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 5:48 pm</title>
+      <description>11000 BLOCK LOCUST DR Radio: 7A4 Units: E251, A259</description>
+      <guid isPermaLink="false">2026-02-27 17:48:00</guid>
+      <pubDate>Fri, 27 Feb 2026 17:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 5:37 pm</title>
+      <description>6600 BLOCK ENGLISH MUFFIN WAY, SPRING ARBOR LIVING Radio: 9C Units: PE311, E31, R14</description>
+      <guid isPermaLink="false">2026-02-27 17:37:00</guid>
+      <pubDate>Fri, 27 Feb 2026 17:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 5:09 pm</title>
       <description>10500 BLOCK EDWARDIAN LN Radio: 9C Units: E153, E331, R3</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9B Units: ALS2</description>
       <guid isPermaLink="false">2026-02-25 19:41:00</guid>
       <pubDate>Wed, 25 Feb 2026 19:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 7:31 pm</title>
-      <description>1700 BLOCK MONOCACY BLVD, BAKERY DE FRANCE - RIVERSIDE CORPORATE PARK Radio: 9B Units: E111, R24, A249</description>
-      <guid isPermaLink="false">2026-02-25 19:31:00</guid>
-      <pubDate>Wed, 25 Feb 2026 19:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:28 pm</title>
-      <description>100 BLOCK RECORD ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-02-25 18:28:00</guid>
-      <pubDate>Wed, 25 Feb 2026 18:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
