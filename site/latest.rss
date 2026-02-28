@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 15:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 16:02:22 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:48 am</title>
+      <description>CHAPEL ALY / E THIRD ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-02-28 10:48:00</guid>
+      <pubDate>Sat, 28 Feb 2026 10:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:38 am</title>
+      <description>100 BLOCK E BALTIMORE ST Radio: CCA7 Units: EK64</description>
+      <guid isPermaLink="false">2026-02-28 10:38:00</guid>
+      <pubDate>Sat, 28 Feb 2026 10:38:00 -0500</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 10:32 am</title>
       <description>100 BLOCK W THIRD ST, Apt/Unit:A Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK AMBERFIELD RD Radio: 9C Units: PE311, E11, TT4</description>
       <guid isPermaLink="false">2026-02-26 08:56:00</guid>
       <pubDate>Thu, 26 Feb 2026 08:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:59 am</title>
-      <description>FINGERBOARD RD / CAMPUS DR Radio: 9B Units: A238, T23</description>
-      <guid isPermaLink="false">2026-02-26 07:59:00</guid>
-      <pubDate>Thu, 26 Feb 2026 07:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:37 am</title>
-      <description>4800 BLOCK HITESHOW DR Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-02-26 05:37:00</guid>
-      <pubDate>Thu, 26 Feb 2026 05:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
