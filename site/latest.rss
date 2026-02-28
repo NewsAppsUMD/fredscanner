@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 06:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 06:43:44 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 1:39 am</title>
+      <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Radio: 9D Units: CMD2</description>
+      <guid isPermaLink="false">2026-02-28 01:39:00</guid>
+      <pubDate>Sat, 28 Feb 2026 01:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 1:33 am</title>
+      <description>900 BLOCK W SEVENTH ST, M&amp;T BANK - W SEVENTH ST Radio: 9D Units: PE23, E501, E11, E31, E291, R3, TT4, A28, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-02-28 01:33:00</guid>
+      <pubDate>Sat, 28 Feb 2026 01:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:51 pm</title>
       <description>1000 BLOCK TWIN ARCH RD, HIGHS Units: E153</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK GEORGE ST Radio: CCA7 Units: E91, E132, E162, BC901</description>
       <guid isPermaLink="false">2026-02-26 02:29:00</guid>
       <pubDate>Thu, 26 Feb 2026 02:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:23 am</title>
-      <description>100 BLOCK GEORGE ST Radio: CCA7 Units: E61, TW6</description>
-      <guid isPermaLink="false">2026-02-26 02:23:00</guid>
-      <pubDate>Thu, 26 Feb 2026 02:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:01 pm</title>
-      <description>14600 BLOCK CARS MILL RD, STATION HC013 - GLENWOOD Units: K33</description>
-      <guid isPermaLink="false">2026-02-25 23:01:00</guid>
-      <pubDate>Wed, 25 Feb 2026 23:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
