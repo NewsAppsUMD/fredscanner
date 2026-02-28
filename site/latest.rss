@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 00:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 00:47:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:40 pm</title>
+      <description>5200 BLOCK MUIRFIELD DR Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-02-27 19:40:00</guid>
+      <pubDate>Fri, 27 Feb 2026 19:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 7:04 pm</title>
       <description>6900 BLOCK ALEX CT Units: PE311, E31, E11, E331, E501, R3, TT4, A319, ALS31, BC901, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>3500 BLOCK HIPSLEY MILL RD Units: K33</description>
       <guid isPermaLink="false">2026-02-25 22:42:00</guid>
       <pubDate>Wed, 25 Feb 2026 22:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 8:43 pm</title>
-      <description>4200 BLOCK BILL MOXLEY RD Radio: 9C Units: T23</description>
-      <guid isPermaLink="false">2026-02-25 20:43:00</guid>
-      <pubDate>Wed, 25 Feb 2026 20:43:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
