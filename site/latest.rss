@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 00:11:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 00:59:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:52 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, IFO HAIR SALON Radio: 9B Units: A37, E11</description>
+      <guid isPermaLink="false">2026-02-28 19:52:00</guid>
+      <pubDate>Sat, 28 Feb 2026 19:52:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:25 pm</title>
+      <description>RT340EB / RT180 (FREDERICK), RT340EB / RT180 Radio: 9B Units: A19, E31</description>
+      <guid isPermaLink="false">2026-02-28 19:25:00</guid>
+      <pubDate>Sat, 28 Feb 2026 19:25:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:10 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: K10</description>
+      <guid isPermaLink="false">2026-02-28 19:10:00</guid>
+      <pubDate>Sat, 28 Feb 2026 19:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 7:06 pm</title>
       <description>1900 BLOCK N MARKET ST, FITZGERALD AUTO MALL WAREHOUSE Radio: 9D Units: E23, EK114</description>
@@ -288,24 +306,6 @@
       <description>KEY PKWY / BAKER PL E Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-02-27 13:24:00</guid>
       <pubDate>Fri, 27 Feb 2026 13:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:25 pm</title>
-      <description>4600 BLOCK DEER SPRING RD Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-02-27 12:25:00</guid>
-      <pubDate>Fri, 27 Feb 2026 12:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 10:17 am</title>
-      <description>300 BLOCK MILLER DR, NCI - BLDG 363 Radio: 9C Units: E501, E11</description>
-      <guid isPermaLink="false">2026-02-27 10:17:00</guid>
-      <pubDate>Fri, 27 Feb 2026 10:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:28 am</title>
-      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-02-27 09:28:00</guid>
-      <pubDate>Fri, 27 Feb 2026 09:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
