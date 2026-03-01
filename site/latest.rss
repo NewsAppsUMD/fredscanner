@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Mar 2026 12:44:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 13:15:06 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 7:59 am</title>
+      <description>7100 BLOCK LADD CIR Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-03-01 07:59:00</guid>
+      <pubDate>Sun, 01 Mar 2026 07:59:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 6:16 am</title>
       <description>5700 BLOCK HONEY GLEN CT Radio: 9C Units: E153, R15, K33, E251</description>
@@ -300,12 +306,6 @@
       <description>BALLENGER CREEK PIKE / SOLAREX CT Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2026-02-27 14:02:00</guid>
       <pubDate>Fri, 27 Feb 2026 14:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:57 pm</title>
-      <description>I70WB / 37MM Radio: TAC1OPS Units: RE74</description>
-      <guid isPermaLink="false">2026-02-27 13:57:00</guid>
-      <pubDate>Fri, 27 Feb 2026 13:57:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
