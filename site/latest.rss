@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Mar 2026 02:55:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 03:45:58 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:27 pm</title>
+      <description>1600 BLOCK WISE RD Radio: 9C Units: E281</description>
+      <guid isPermaLink="false">2026-03-01 22:27:00</guid>
+      <pubDate>Sun, 01 Mar 2026 22:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:47 pm</title>
       <description>8700 BLOCK MOUNT TABOR RD Units: E31, EK204</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK ALEX CT Units: PE311, E31, E11, E331, E501, R3, TT4, A319, ALS31, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-02-27 19:04:00</guid>
       <pubDate>Fri, 27 Feb 2026 19:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:55 pm</title>
-      <description>100 BLOCK BYTE DR, SPRINGHILL SUITES BY MARRIOTT - GOVERNORS CHOICE Radio: 9C Units: R2, E291</description>
-      <guid isPermaLink="false">2026-02-27 18:55:00</guid>
-      <pubDate>Fri, 27 Feb 2026 18:55:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
