@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Mar 2026 11:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 11:41:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:31 am</title>
+      <description>WRENS VIEW LN Units: R19</description>
+      <guid isPermaLink="false">2026-03-03 06:31:00</guid>
+      <pubDate>Tue, 03 Mar 2026 06:31:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:31 am</title>
+      <description>WRENS VIEW LN Units: R19</description>
+      <guid isPermaLink="false">2026-03-03 06:31:00</guid>
+      <pubDate>Tue, 03 Mar 2026 06:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:32 pm</title>
       <description>1200 BLOCK VOLUNTEER DR Units: PE52</description>
@@ -294,18 +306,6 @@
       <description>PETERSVILLE RD / W B ST Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-02-28 16:27:00</guid>
       <pubDate>Sat, 28 Feb 2026 16:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:48 pm</title>
-      <description>GOOD INTENT RD / WOODSBORO PIKE Radio: 9B Units: A169, E91</description>
-      <guid isPermaLink="false">2026-02-28 15:48:00</guid>
-      <pubDate>Sat, 28 Feb 2026 15:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:39 pm</title>
-      <description>200 BLOCK FAIRVIEW AVE, FREDERICK CHURCH OF THE BRETHREN Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-02-28 15:39:00</guid>
-      <pubDate>Sat, 28 Feb 2026 15:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
