@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 04 Mar 2026 15:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 15:43:59 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 10:33 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
+      <guid isPermaLink="false">2026-03-04 10:33:00</guid>
+      <pubDate>Wed, 04 Mar 2026 10:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 10:17 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
+      <guid isPermaLink="false">2026-03-04 10:17:00</guid>
+      <pubDate>Wed, 04 Mar 2026 10:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:08 am</title>
       <description>500 BLOCK N MARKET ST, STATION 3 Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>5100 BLOCK PERRY RD Units: E172</description>
       <guid isPermaLink="false">2026-03-01 09:11:00</guid>
       <pubDate>Sun, 01 Mar 2026 09:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:59 am</title>
-      <description>7100 BLOCK LADD CIR Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-03-01 07:59:00</guid>
-      <pubDate>Sun, 01 Mar 2026 07:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:16 am</title>
-      <description>5700 BLOCK HONEY GLEN CT Radio: 9C Units: E153, R15, K33, E251</description>
-      <guid isPermaLink="false">2026-03-01 06:16:00</guid>
-      <pubDate>Sun, 01 Mar 2026 06:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
