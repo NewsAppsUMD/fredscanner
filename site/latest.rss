@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 00:11:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 00:53:26 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:36 pm</title>
+      <description>12500 BLOCK LEE HILL DR Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-03-04 19:36:00</guid>
+      <pubDate>Wed, 04 Mar 2026 19:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:56 pm</title>
       <description>10800 BLOCK HARNEY RD Radio: 9D Units: E61, TW6, A69, PE102, EMS902</description>
@@ -300,12 +306,6 @@
       <description>1000 BLOCK CHAMBERSBURG RD Units: TW6</description>
       <guid isPermaLink="false">2026-03-02 04:39:00</guid>
       <pubDate>Mon, 02 Mar 2026 04:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 10:27 pm</title>
-      <description>1600 BLOCK WISE RD Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2026-03-01 22:27:00</guid>
-      <pubDate>Sun, 01 Mar 2026 22:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
