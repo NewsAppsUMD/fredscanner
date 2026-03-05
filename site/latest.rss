@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 15:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 16:14:49 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:48 am</title>
+      <description>1800 BLOCK GETTYSBURG VILLAGE DR Units: TW6</description>
+      <guid isPermaLink="false">2026-03-05 10:48:00</guid>
+      <pubDate>Thu, 05 Mar 2026 10:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:55 am</title>
       <description>5400 BLOCK YUKON CT, Bldg:A, Apt/Unit:STE A, WM H MEDCAF AND SONS HVAC Radio: 9C Units: EK204, E121, R20, K1</description>
@@ -300,12 +306,6 @@
       <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA Units: E212, R8, A89</description>
       <guid isPermaLink="false">2026-03-02 11:13:00</guid>
       <pubDate>Mon, 02 Mar 2026 11:13:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:09 am</title>
-      <description>RT15SB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9B Units: E501, E11, R2, A29, A18</description>
-      <guid isPermaLink="false">2026-03-02 11:09:00</guid>
-      <pubDate>Mon, 02 Mar 2026 11:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
