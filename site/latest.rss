@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 23:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:45:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
+      <description>MAIN ST / ROHRERSVILLE RD Units: RE74</description>
+      <guid isPermaLink="false">2026-03-05 18:31:00</guid>
+      <pubDate>Thu, 05 Mar 2026 18:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:40 pm</title>
       <description>8200 BLOCK BLACKS MILL RD Radio: 9C Units: E162, EK224</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK VOLUNTEER DR Units: PE52</description>
       <guid isPermaLink="false">2026-03-02 21:32:00</guid>
       <pubDate>Mon, 02 Mar 2026 21:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:45 pm</title>
-      <description>100 BLOCK DEERWOODS PL Units: E82, E72, E121, E11, R3, TW7, K21, K7, A89, ALS8, E212, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-03-02 20:45:00</guid>
-      <pubDate>Mon, 02 Mar 2026 20:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
