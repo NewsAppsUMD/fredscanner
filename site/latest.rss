@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 22:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 23:11:11 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:40 pm</title>
+      <description>8200 BLOCK BLACKS MILL RD Radio: 9C Units: E162, EK224</description>
+      <guid isPermaLink="false">2026-03-05 17:40:00</guid>
+      <pubDate>Thu, 05 Mar 2026 17:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 5:39 pm</title>
+      <description>1400 BLOCK W PATRICK ST, WEST POINTE PLAZA Radio: 9C Units: E121, E31, TW1</description>
+      <guid isPermaLink="false">2026-03-05 17:39:00</guid>
+      <pubDate>Thu, 05 Mar 2026 17:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:59 pm</title>
       <description>4800 BLOCK GREEN VALLEY RD, EXTREME FABRICATION Radio: 9C Units: E251, T23</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK DEERWOODS PL Units: E82, E72, E121, E11, R3, TW7, K21, K7, A89, ALS8, E212, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2026-03-02 20:45:00</guid>
       <pubDate>Mon, 02 Mar 2026 20:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:18 pm</title>
-      <description>8300 BLOCK DREAM PL Units: E111</description>
-      <guid isPermaLink="false">2026-03-02 18:18:00</guid>
-      <pubDate>Mon, 02 Mar 2026 18:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:27 pm</title>
-      <description>100 BLOCK HOLLING DR, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9D Units: PE23, E31, E11, E291, E501, R3, TT4, A38, ALS31, BC903, C900, SAF901</description>
-      <guid isPermaLink="false">2026-03-02 16:27:00</guid>
-      <pubDate>Mon, 02 Mar 2026 16:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
