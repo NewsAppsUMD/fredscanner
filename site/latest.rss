@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Mar 2026 19:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 19:48:02 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 2:39 pm</title>
+      <description>8700 BLOCK PETE WILES RD Radio: 9C Units: E82, E72, TW7, K7</description>
+      <guid isPermaLink="false">2026-03-05 14:39:00</guid>
+      <pubDate>Thu, 05 Mar 2026 14:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
       <description>HAYWARD RD / THOMAS JOHNSON DR Radio: 9B Units: A19, PE23</description>
@@ -300,12 +306,6 @@
       <description>13300 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: E172, C900, EMS901</description>
       <guid isPermaLink="false">2026-03-02 14:44:00</guid>
       <pubDate>Mon, 02 Mar 2026 14:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 2:09 pm</title>
-      <description>600 BLOCK MOUNT LENA RD Units: K21, E82</description>
-      <guid isPermaLink="false">2026-03-02 14:09:00</guid>
-      <pubDate>Mon, 02 Mar 2026 14:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
