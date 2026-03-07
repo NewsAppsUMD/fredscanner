@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Mar 2026 23:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:11:00 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 7:02 pm</title>
+      <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-03-06 19:02:00</guid>
+      <pubDate>Fri, 06 Mar 2026 19:02:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:58 pm</title>
+      <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: E111, E291, Q11, K1</description>
+      <guid isPermaLink="false">2026-03-06 18:58:00</guid>
+      <pubDate>Fri, 06 Mar 2026 18:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:33 pm</title>
       <description>1300 BLOCK E PATRICK ST, MARKS EQUIPMENT - AIRPORT INDUSTRIAL PARK Units: E31, A37, ALS4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
       <guid isPermaLink="false">2026-03-04 10:33:00</guid>
       <pubDate>Wed, 04 Mar 2026 10:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:17 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
-      <guid isPermaLink="false">2026-03-04 10:17:00</guid>
-      <pubDate>Wed, 04 Mar 2026 10:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:08 am</title>
-      <description>500 BLOCK N MARKET ST, STATION 3 Units: PE23</description>
-      <guid isPermaLink="false">2026-03-04 10:08:00</guid>
-      <pubDate>Wed, 04 Mar 2026 10:08:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
