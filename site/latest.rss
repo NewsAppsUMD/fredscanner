@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 15:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 16:02:56 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:40 am</title>
+      <description>1800 BLOCK BIRD RUN Radio: 9C Units: BC902</description>
+      <guid isPermaLink="false">2026-03-07 10:40:00</guid>
+      <pubDate>Sat, 07 Mar 2026 10:40:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:39 am</title>
+      <description>1800 BLOCK BIRD RUN Radio: 9C Units: E31, R3</description>
+      <guid isPermaLink="false">2026-03-07 10:39:00</guid>
+      <pubDate>Sat, 07 Mar 2026 10:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 10:19 am</title>
       <description>2000 BLOCK CHAPEL CT Radio: 9C Units: E501, PE23, TW1</description>
@@ -294,18 +306,6 @@
       <description>8900 BLOCK BENNETT CREEK BLVD, SOCIAL SECURITY ADMINISTRATION NATIONAL SUPPORT CENTER Radio: 9C Units: E231, T23</description>
       <guid isPermaLink="false">2026-03-04 18:37:00</guid>
       <pubDate>Wed, 04 Mar 2026 18:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:42 pm</title>
-      <description>4700 BLOCK MUSSETTER RD Units: E251, E331, T23, K33</description>
-      <guid isPermaLink="false">2026-03-04 15:42:00</guid>
-      <pubDate>Wed, 04 Mar 2026 15:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 2:49 pm</title>
-      <description>900 BLOCK W SEVENTH ST, TACO BELL - COLLEGE PARK PLAZA Radio: 9D Units: A29, PE23, EMS902</description>
-      <guid isPermaLink="false">2026-03-04 14:49:00</guid>
-      <pubDate>Wed, 04 Mar 2026 14:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
