@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Mar 2026 00:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:50:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:13 pm</title>
+      <description>8700 BLOCK WOODVILLE RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2026-03-06 19:13:00</guid>
+      <pubDate>Fri, 06 Mar 2026 19:13:00 -0500</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 7:02 pm</title>
       <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
       <guid isPermaLink="false">2026-03-04 10:43:00</guid>
       <pubDate>Wed, 04 Mar 2026 10:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:33 am</title>
-      <description>100 BLOCK W MAIN ST, STATION 15 Units: E153</description>
-      <guid isPermaLink="false">2026-03-04 10:33:00</guid>
-      <pubDate>Wed, 04 Mar 2026 10:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
