@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 01:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 02:56:50 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:20 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: A159</description>
+      <guid isPermaLink="false">2026-03-07 21:20:00</guid>
+      <pubDate>Sat, 07 Mar 2026 21:20:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:19 pm</title>
+      <description>W MAIN ST / TANNERY DR Units: A69, E61</description>
+      <guid isPermaLink="false">2026-03-07 21:19:00</guid>
+      <pubDate>Sat, 07 Mar 2026 21:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:47 pm</title>
+      <description>5300 BLOCK BUFFALO RD Units: R15</description>
+      <guid isPermaLink="false">2026-03-07 20:47:00</guid>
+      <pubDate>Sat, 07 Mar 2026 20:47:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 8:43 pm</title>
+      <description>5300 BLOCK BUFFALO RD Units: E172</description>
+      <guid isPermaLink="false">2026-03-07 20:43:00</guid>
+      <pubDate>Sat, 07 Mar 2026 20:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:32 pm</title>
+      <description>RT15-340EB / I70, RT15-340EB / I70 Units: E31, PE311, R3, A38, A319</description>
+      <guid isPermaLink="false">2026-03-07 20:32:00</guid>
+      <pubDate>Sat, 07 Mar 2026 20:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:43 pm</title>
       <description>1800 BLOCK LATHAM DR, LATTERDAY SAINTS CHURCH Units: E111, Q11</description>
@@ -276,36 +306,6 @@
       <description>HAYWARD RD / THOMAS JOHNSON DR Radio: 9B Units: A19, PE23</description>
       <guid isPermaLink="false">2026-03-05 11:53:00</guid>
       <pubDate>Thu, 05 Mar 2026 11:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:38 am</title>
-      <description>100 BLOCK WESTVIEW DR Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2026-03-05 11:38:00</guid>
-      <pubDate>Thu, 05 Mar 2026 11:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:37 am</title>
-      <description>1100 BLOCK KEY PKWY, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-03-05 11:37:00</guid>
-      <pubDate>Thu, 05 Mar 2026 11:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:48 am</title>
-      <description>1800 BLOCK GETTYSBURG VILLAGE DR Units: TW6</description>
-      <guid isPermaLink="false">2026-03-05 10:48:00</guid>
-      <pubDate>Thu, 05 Mar 2026 10:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:55 am</title>
-      <description>5400 BLOCK YUKON CT, Bldg:A, Apt/Unit:STE A, WM H MEDCAF AND SONS HVAC Radio: 9C Units: EK204, E121, R20, K1</description>
-      <guid isPermaLink="false">2026-03-05 09:55:00</guid>
-      <pubDate>Thu, 05 Mar 2026 09:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 9:34 am</title>
-      <description>NEW DESIGN RD / FOXCROFT DR Radio: 9D Units: A318, PE311, EMS901</description>
-      <guid isPermaLink="false">2026-03-05 09:34:00</guid>
-      <pubDate>Thu, 05 Mar 2026 09:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
