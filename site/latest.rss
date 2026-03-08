@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 23:03:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:36:59 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 7:12 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:207, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, PE23, E141, R3, A18, A19, ALS4, BC902, BC903, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-03-08 19:12:00</guid>
+      <pubDate>Sun, 08 Mar 2026 19:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 7:06 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:207, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: E11, E31, TT4</description>
+      <guid isPermaLink="false">2026-03-08 19:06:00</guid>
+      <pubDate>Sun, 08 Mar 2026 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:51 pm</title>
       <description>I270NB / EXIT 32, I270NB / EXIT 32 Radio: 9C Units: E31, E11</description>
@@ -294,18 +306,6 @@
       <description>1600 BLOCK BOWMANS FARM RD, MARYLAND MOTOR VEHICLE ADMINISTRATION Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2026-03-06 08:11:00</guid>
       <pubDate>Fri, 06 Mar 2026 08:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:23 am</title>
-      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST Radio: 9B Units: E11, E31, R3, A19, A37</description>
-      <guid isPermaLink="false">2026-03-06 07:23:00</guid>
-      <pubDate>Fri, 06 Mar 2026 07:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:38 am</title>
-      <description>500 BLOCK W MAIN ST Radio: 9B Units: PE102</description>
-      <guid isPermaLink="false">2026-03-06 05:38:00</guid>
-      <pubDate>Fri, 06 Mar 2026 05:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
