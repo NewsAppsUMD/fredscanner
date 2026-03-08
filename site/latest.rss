@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Mar 2026 03:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 04:31:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:10 pm</title>
+      <description>LIBERTY RD / ALBAUGH RD Units: A179</description>
+      <guid isPermaLink="false">2026-03-07 23:10:00</guid>
+      <pubDate>Sat, 07 Mar 2026 23:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 pm</title>
       <description>3600 BLOCK DENISON ST Radio: 9C Units: E231</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK GREEN VALLEY RD, EXTREME FABRICATION Radio: 9C Units: E251, T23</description>
       <guid isPermaLink="false">2026-03-05 14:59:00</guid>
       <pubDate>Thu, 05 Mar 2026 14:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 2:39 pm</title>
-      <description>8700 BLOCK PETE WILES RD Radio: 9C Units: E82, E72, TW7, K7</description>
-      <guid isPermaLink="false">2026-03-05 14:39:00</guid>
-      <pubDate>Thu, 05 Mar 2026 14:39:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
