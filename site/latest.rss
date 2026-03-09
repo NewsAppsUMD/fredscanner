@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 20:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 20:42:52 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 4:31 pm</title>
+      <description>13300 BLOCK SAGLE RD Radio: 6HTAC21 Units: R20, K5, PE52</description>
+      <guid isPermaLink="false">2026-03-09 16:31:00</guid>
+      <pubDate>Mon, 09 Mar 2026 16:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 4:19 pm</title>
+      <description>11900 BLOCK WOLFSVILLE RD Units: E212, E82, PE102, TW7, K21, A89, BR216, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-03-09 16:19:00</guid>
+      <pubDate>Mon, 09 Mar 2026 16:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE THREATENING A STRUCTURE: 4:01 pm</title>
       <description>5300 BLOCK GOLD MINE RD Radio: 9C Units: E121, E72, E31, TW1, K1, A129, BR16, BC903, SAF901</description>
@@ -294,18 +306,6 @@
       <description>5300 BLOCK BUFFALO RD Units: R15</description>
       <guid isPermaLink="false">2026-03-07 20:47:00</guid>
       <pubDate>Sat, 07 Mar 2026 20:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:43 pm</title>
-      <description>5300 BLOCK BUFFALO RD Units: E172</description>
-      <guid isPermaLink="false">2026-03-07 20:43:00</guid>
-      <pubDate>Sat, 07 Mar 2026 20:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:32 pm</title>
-      <description>RT15-340EB / I70, RT15-340EB / I70 Units: E31, PE311, R3, A38, A319</description>
-      <guid isPermaLink="false">2026-03-07 20:32:00</guid>
-      <pubDate>Sat, 07 Mar 2026 20:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
