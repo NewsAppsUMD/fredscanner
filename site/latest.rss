@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 13:53:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 14:17:29 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 10:08 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-03-09 10:08:00</guid>
+      <pubDate>Mon, 09 Mar 2026 10:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 5:59 am</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT15-34100 BLOCKWB RAMP Radio: 9C Units: E31, E11</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK CHAPEL CT Radio: 9C Units: E501, PE23, TW1</description>
       <guid isPermaLink="false">2026-03-07 10:19:00</guid>
       <pubDate>Sat, 07 Mar 2026 10:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:01 am</title>
-      <description>1000 BLOCK W PATRICK ST, WAWA - GOLDEN MILE Radio: 9B Units: A18, TW1</description>
-      <guid isPermaLink="false">2026-03-07 10:01:00</guid>
-      <pubDate>Sat, 07 Mar 2026 10:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
