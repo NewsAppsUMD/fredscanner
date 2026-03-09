@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 02:57:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 03:51:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:36 pm</title>
+      <description>2800 BLOCK HADDINGTON CT Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-03-08 23:36:00</guid>
+      <pubDate>Sun, 08 Mar 2026 23:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:21 pm</title>
+      <description>400 BLOCK E CHURCH ST, OX FIBRE APARTMENTS Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-03-08 23:21:00</guid>
+      <pubDate>Sun, 08 Mar 2026 23:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:07 pm</title>
+      <description>100 BLOCK E ALL SAINTS ST(P), FPD HQ'S Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-03-08 23:07:00</guid>
+      <pubDate>Sun, 08 Mar 2026 23:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:31 pm</title>
       <description>100 BLOCK N CHURCH ST, LOVETTSVILLE POST OFFICE Radio: 6B Units: T5, PE52</description>
@@ -288,24 +306,6 @@
       <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-03-06 19:02:00</guid>
       <pubDate>Fri, 06 Mar 2026 19:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:58 pm</title>
-      <description>7900 BLOCK LONGMEADOW DR Radio: 9C Units: E111, E291, Q11, K1</description>
-      <guid isPermaLink="false">2026-03-06 18:58:00</guid>
-      <pubDate>Fri, 06 Mar 2026 18:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:33 pm</title>
-      <description>1300 BLOCK E PATRICK ST, MARKS EQUIPMENT - AIRPORT INDUSTRIAL PARK Units: E31, A37, ALS4</description>
-      <guid isPermaLink="false">2026-03-06 17:33:00</guid>
-      <pubDate>Fri, 06 Mar 2026 17:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:27 pm</title>
-      <description>300 BLOCK E THIRD ST Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-03-06 17:27:00</guid>
-      <pubDate>Fri, 06 Mar 2026 17:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
