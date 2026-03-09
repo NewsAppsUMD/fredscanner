@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 05:25:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 05:46:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:27 am</title>
+      <description>400 BLOCK E CHURCH ST, OX FIBRE APARTMENTS Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-03-09 01:27:00</guid>
+      <pubDate>Mon, 09 Mar 2026 01:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:48 am</title>
       <description>5900 BLOCK UNION RIDGE CT Radio: 9C Units: E141</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCKW BTWN XOVR &amp; MT TABOR RD HWY Radio: 9B Units: E72, R8, A89</description>
       <guid isPermaLink="false">2026-03-06 20:46:00</guid>
       <pubDate>Fri, 06 Mar 2026 20:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:13 pm</title>
-      <description>8700 BLOCK WOODVILLE RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2026-03-06 19:13:00</guid>
-      <pubDate>Fri, 06 Mar 2026 19:13:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
