@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 00:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 01:31:54 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:26 pm</title>
+      <description>RT15NB / ROSEMONT AVE(ROSEMONT AVE), RT15NB / ROSEMONT AVE Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-03-08 21:26:00</guid>
+      <pubDate>Sun, 08 Mar 2026 21:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:17 pm</title>
+      <description>ROSEMONT AVE / 15N BTWN ROSEMONT AVE BRDGE &amp; ROSEMONT AVE OFF RMP HWY Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-03-08 21:17:00</guid>
+      <pubDate>Sun, 08 Mar 2026 21:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:16 pm</title>
+      <description>200 BLOCK S JEFFERSON ST Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-03-08 21:16:00</guid>
+      <pubDate>Sun, 08 Mar 2026 21:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE - ENTRAPMENT: 7:12 pm</title>
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:207, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, PE23, E141, R3, A18, A19, ALS4, BC902, BC903, SAF901, EMS901</description>
@@ -288,24 +306,6 @@
       <description>600 BLOCK W ADAMS CIR, BELLE COURT APTS - 600 BLOCK W ADAMS CIR Radio: 9C Units: E162</description>
       <guid isPermaLink="false">2026-03-06 09:48:00</guid>
       <pubDate>Fri, 06 Mar 2026 09:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:50 am</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Radio: 9C Units: E141, T23</description>
-      <guid isPermaLink="false">2026-03-06 08:50:00</guid>
-      <pubDate>Fri, 06 Mar 2026 08:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:49 am</title>
-      <description>BALL RD / URBANA PIKE Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-03-06 08:49:00</guid>
-      <pubDate>Fri, 06 Mar 2026 08:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:11 am</title>
-      <description>1600 BLOCK BOWMANS FARM RD, MARYLAND MOTOR VEHICLE ADMINISTRATION Radio: 9B Units: A339, E331</description>
-      <guid isPermaLink="false">2026-03-06 08:11:00</guid>
-      <pubDate>Fri, 06 Mar 2026 08:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
