@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 00:09:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:49:00 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 8:20 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Apt/Unit:33, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, E31, TW1</description>
+      <guid isPermaLink="false">2026-03-09 20:20:00</guid>
+      <pubDate>Mon, 09 Mar 2026 20:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:01 pm</title>
       <description>800 BLOCK E MAIN ST, THURMONT ELEMENTARY SCHOOL Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK REPRESENTATION LN Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-03-08 15:08:00</guid>
       <pubDate>Sun, 08 Mar 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:32 pm</title>
-      <description>9100 BLOCK FROSTOWN RD, LUCY SCHOOL Radio: 9D Units: E82, RE74, A89, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-03-08 14:32:00</guid>
-      <pubDate>Sun, 08 Mar 2026 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
