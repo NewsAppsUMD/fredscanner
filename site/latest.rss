@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Mar 2026 23:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 00:09:34 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:01 pm</title>
+      <description>800 BLOCK E MAIN ST, THURMONT ELEMENTARY SCHOOL Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-03-09 20:01:00</guid>
+      <pubDate>Mon, 09 Mar 2026 20:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:28 pm</title>
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK FROSTOWN RD, LUCY SCHOOL Radio: 9D Units: E82, RE74, A89, ALS8, BC903, EMS901</description>
       <guid isPermaLink="false">2026-03-08 14:32:00</guid>
       <pubDate>Sun, 08 Mar 2026 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 2:17 pm</title>
-      <description>FOUNTAIN ROCK RD / RETREAT RD Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-03-08 14:17:00</guid>
-      <pubDate>Sun, 08 Mar 2026 14:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
