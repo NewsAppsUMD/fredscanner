@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Mar 2026 15:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:46:49 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:33 am</title>
+      <description>600 BLOCK W POTOMAC ST Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-03-10 11:33:00</guid>
+      <pubDate>Tue, 10 Mar 2026 11:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:02 am</title>
       <description>300 BLOCK AVIATION WAY, AIRPORT TERMINAL BLDG - FREDERICK REGIONAL AIRPORT Units: E31, K33</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK E CHURCH ST, OX FIBRE APARTMENTS Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-03-09 01:27:00</guid>
       <pubDate>Mon, 09 Mar 2026 01:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:48 am</title>
-      <description>5900 BLOCK UNION RIDGE CT Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2026-03-09 00:48:00</guid>
-      <pubDate>Mon, 09 Mar 2026 00:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
