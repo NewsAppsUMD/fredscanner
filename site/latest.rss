@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 05:45:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 06:13:15 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 1:56 am</title>
+      <description>7800 BLOCK WORMANS MILL RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-03-11 01:56:00</guid>
+      <pubDate>Wed, 11 Mar 2026 01:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 1:50 am</title>
+      <description>7800 BLOCK WORMANS MILL RD Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-03-11 01:50:00</guid>
+      <pubDate>Wed, 11 Mar 2026 01:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:32 am</title>
       <description>9200 BLOCK KLAMATH CT Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>CENTER ST / FIELDPOINTE BLVD Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2026-03-09 19:18:00</guid>
       <pubDate>Mon, 09 Mar 2026 19:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:27 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: K10</description>
-      <guid isPermaLink="false">2026-03-09 17:27:00</guid>
-      <pubDate>Mon, 09 Mar 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:23 pm</title>
-      <description>5700 BLOCK HAWK RIDGE RD Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-03-09 17:23:00</guid>
-      <pubDate>Mon, 09 Mar 2026 17:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
