@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 18:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:15:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 2:51 pm</title>
+      <description>100 BLOCK N CHURCH ST, STATION 10 Radio: 9C Units: PE102, E61, EK224</description>
+      <guid isPermaLink="false">2026-03-11 14:51:00</guid>
+      <pubDate>Wed, 11 Mar 2026 14:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:25 pm</title>
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>RT40A / I70, RT40A / I70 Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-03-10 07:49:00</guid>
       <pubDate>Tue, 10 Mar 2026 07:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 6:38 am</title>
-      <description>300 BLOCKA S SETON AVE Radio: 9D Units: A69, ALS30, E61, EMS902</description>
-      <guid isPermaLink="false">2026-03-10 06:38:00</guid>
-      <pubDate>Tue, 10 Mar 2026 06:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
