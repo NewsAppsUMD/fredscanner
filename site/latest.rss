@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Mar 2026 22:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 23:03:44 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:59 pm</title>
+      <description>12100 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-03-11 18:59:00</guid>
+      <pubDate>Wed, 11 Mar 2026 18:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:54 pm</title>
+      <description>10400 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-03-11 18:54:00</guid>
+      <pubDate>Wed, 11 Mar 2026 18:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:45 pm</title>
+      <description>ELM ST / W MAIN ST Radio: 9D Units: E72, RE74, A78, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-03-11 18:45:00</guid>
+      <pubDate>Wed, 11 Mar 2026 18:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 6:41 pm</title>
+      <description>CLARKSBURG RD / LEWISDALE RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-03-11 18:41:00</guid>
+      <pubDate>Wed, 11 Mar 2026 18:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:29 pm</title>
       <description>100 BLOCK E SIXTEENTH ST, SIXTEENTH STREET APTS Radio: 9C Units: PE23, TT4</description>
@@ -282,30 +306,6 @@
       <description>7800 BLOCK RODDY CREEK RD Radio: 9C Units: PE102</description>
       <guid isPermaLink="false">2026-03-10 10:11:00</guid>
       <pubDate>Tue, 10 Mar 2026 10:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:10 am</title>
-      <description>RT15NB / WILLOW RD, RT15NB / WILLOW RD Radio: 9B Units: E291, E111, R2, A299, A229, EK224</description>
-      <guid isPermaLink="false">2026-03-10 10:10:00</guid>
-      <pubDate>Tue, 10 Mar 2026 10:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:37 am</title>
-      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: E251, E153, A159, A339</description>
-      <guid isPermaLink="false">2026-03-10 09:37:00</guid>
-      <pubDate>Tue, 10 Mar 2026 09:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:33 am</title>
-      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Units: E331, K33</description>
-      <guid isPermaLink="false">2026-03-10 09:33:00</guid>
-      <pubDate>Tue, 10 Mar 2026 09:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:28 am</title>
-      <description>MONOCACY BLVD / S MARKET ST Radio: 9B Units: A318, R3</description>
-      <guid isPermaLink="false">2026-03-10 08:28:00</guid>
-      <pubDate>Tue, 10 Mar 2026 08:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
