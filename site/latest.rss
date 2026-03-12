@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 16:46:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 17:16:55 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 1:10 pm</title>
+      <description>4700 BLOCK TEEN BARNES RD Radio: 9C Units: E201, E121, R20, EK204</description>
+      <guid isPermaLink="false">2026-03-12 13:10:00</guid>
+      <pubDate>Thu, 12 Mar 2026 13:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:32 pm</title>
       <description>3400 BLOCK ANGELICA WAY Radio: 9C Units: E231, T23</description>
@@ -300,12 +306,6 @@
       <description>3900 BLOCK BUCKEYSTOWN PIKE, SAINT JOHNS CATHOLIC PREP Radio: 9C Units: PE311, E11, R14, K1</description>
       <guid isPermaLink="false">2026-03-11 10:48:00</guid>
       <pubDate>Wed, 11 Mar 2026 10:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:46 am</title>
-      <description>RT80 / THOMPSON DR, RT80 / THOMPSON DR Radio: 9B Units: A238, E251</description>
-      <guid isPermaLink="false">2026-03-11 10:46:00</guid>
-      <pubDate>Wed, 11 Mar 2026 10:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
