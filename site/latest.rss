@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 11:39:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 12:05:48 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 7:58 am</title>
+      <description>10200 BLOCK LITTLE ROCK LN Radio: 9C Units: EK224, K22</description>
+      <guid isPermaLink="false">2026-03-12 07:58:00</guid>
+      <pubDate>Thu, 12 Mar 2026 07:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:52 am</title>
+      <description>10200 BLOCK LITTLE ROCK LN Radio: 9C Units: E291, K10, BR226, EK224, K22</description>
+      <guid isPermaLink="false">2026-03-12 07:52:00</guid>
+      <pubDate>Thu, 12 Mar 2026 07:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 7:45 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-03-12 07:45:00</guid>
+      <pubDate>Thu, 12 Mar 2026 07:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:18 am</title>
       <description>2100 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E281</description>
@@ -288,24 +306,6 @@
       <description>1300 BLOCK N MARKET ST, FREDERICK CHURCH OF CHRIST Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-03-10 21:47:00</guid>
       <pubDate>Tue, 10 Mar 2026 21:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 7:57 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9B Units: E31, R3, A37</description>
-      <guid isPermaLink="false">2026-03-10 19:57:00</guid>
-      <pubDate>Tue, 10 Mar 2026 19:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:40 pm</title>
-      <description>1400 BLOCK KEY PKWY, Bldg:C, HUNTERS GLEN APTS - 1400 BLOCK KEY PKWY Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-03-10 19:40:00</guid>
-      <pubDate>Tue, 10 Mar 2026 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 7:15 pm</title>
-      <description>2400 BLOCK THURSTON RD Radio: 9D Units: E231, R14, A238, ALS23, EMS901</description>
-      <guid isPermaLink="false">2026-03-10 19:15:00</guid>
-      <pubDate>Tue, 10 Mar 2026 19:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
