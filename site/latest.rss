@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 00:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 01:31:45 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:16 pm</title>
+      <description>600 BLOCK E CHURCH ST, UNRIVALED IRON GYM Radio: 9C Units: PE23, E31, R3</description>
+      <guid isPermaLink="false">2026-03-11 21:16:00</guid>
+      <pubDate>Wed, 11 Mar 2026 21:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:51 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / KEHNE RD Units: A18</description>
+      <guid isPermaLink="false">2026-03-11 20:51:00</guid>
+      <pubDate>Wed, 11 Mar 2026 20:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 8:42 pm</title>
       <description>BALTIMORE NATIONAL PIKE PIKE / KEHNE RD Radio: 9D Units: E121, R3, A129, ALS2, EMS901</description>
@@ -294,18 +306,6 @@
       <description>8300 BLOCK GAMBRILL PARK RD, IAO Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-03-10 16:09:00</guid>
       <pubDate>Tue, 10 Mar 2026 16:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:06 pm</title>
-      <description>I70WB / EXIT 53 (RT15), I70WB / EXIT 53 Radio: 9B Units: A37, E31</description>
-      <guid isPermaLink="false">2026-03-10 16:06:00</guid>
-      <pubDate>Tue, 10 Mar 2026 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:41 pm</title>
-      <description>100 BLOCK W FREDERICK ST Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-03-10 14:41:00</guid>
-      <pubDate>Tue, 10 Mar 2026 14:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
