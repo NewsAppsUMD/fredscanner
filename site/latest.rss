@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Mar 2026 12:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 13:25:59 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:22 am</title>
+      <description>FINGERBOARD RD / URBANA PIKE Radio: 9B Units: A238, T23</description>
+      <guid isPermaLink="false">2026-03-12 09:22:00</guid>
+      <pubDate>Thu, 12 Mar 2026 09:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 7:58 am</title>
       <description>10200 BLOCK LITTLE ROCK LN Radio: 9C Units: EK224, K22</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK N MARKET ST, FREDERICK CHURCH OF CHRIST Radio: 9D Units: CMD2</description>
       <guid isPermaLink="false">2026-03-10 21:53:00</guid>
       <pubDate>Tue, 10 Mar 2026 21:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:47 pm</title>
-      <description>1300 BLOCK N MARKET ST, FREDERICK CHURCH OF CHRIST Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-03-10 21:47:00</guid>
-      <pubDate>Tue, 10 Mar 2026 21:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
