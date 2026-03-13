@@ -6,7 +6,79 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 16:08:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 19:40:44 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:41 pm</title>
+      <description>800 BLOCK GABRIEL CT, Apt/Unit:321, CRYSTAL PARK APTS - 800 BLOCK GABRIEL CT UNIT 313 Units: E11, E31, E23, E291, PE311, R3, Q11, T23, A19, ALS4, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-03-13 14:41:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:40 pm</title>
+      <description>8300 BLOCK RESEARCH PLZ, FORT DETRICK - BLDG 8300 BLOCK Units: E501, TT4</description>
+      <guid isPermaLink="false">2026-03-13 14:40:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:39 pm</title>
+      <description>CLEMSONVILLE RD / MARBLE QUARRY RD Radio: 9C Units: BTF, E91, K9, BR176, BR135, BR156, BR116, W17</description>
+      <guid isPermaLink="false">2026-03-13 14:39:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:33 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: BR156</description>
+      <guid isPermaLink="false">2026-03-13 14:33:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:33 pm</title>
+      <description>100 BLOCK THIRD ST, STATION 16 Units: BR106</description>
+      <guid isPermaLink="false">2026-03-13 14:33:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:24 pm</title>
+      <description>PETER SHRINER RD / CLEMSONVILLE RD Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-03-13 14:24:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:18 pm</title>
+      <description>PETER SHRINER RD / CLEMSONVILLE RD Radio: 9C Units: E172, BR96, CCBR145</description>
+      <guid isPermaLink="false">2026-03-13 14:18:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:16 pm</title>
+      <description>PETER SHRINER RD / CLEMSONVILLE RD Radio: 9C Units: BR176, CCBR105</description>
+      <guid isPermaLink="false">2026-03-13 14:16:00</guid>
+      <pubDate>Fri, 13 Mar 2026 14:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:57 pm</title>
+      <description>E CHURCH ST / HIGHLAND ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-03-13 13:57:00</guid>
+      <pubDate>Fri, 13 Mar 2026 13:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:46 pm</title>
+      <description>8000 BLOCK BULL RUSH CT Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-03-13 13:46:00</guid>
+      <pubDate>Fri, 13 Mar 2026 13:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:20 pm</title>
+      <description>1400 BLOCK CRESCENT SPOT LN Radio: 9C Units: E11, R3</description>
+      <guid isPermaLink="false">2026-03-13 13:20:00</guid>
+      <pubDate>Fri, 13 Mar 2026 13:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:18 pm</title>
+      <description>2100 BLOCK THURSTON RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-03-13 12:18:00</guid>
+      <pubDate>Fri, 13 Mar 2026 12:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:10 am</title>
       <description>YEAGERTOWN RD / BOYERS MILL RD Radio: 9B Units: A158, E153</description>
@@ -234,78 +306,6 @@
       <description>3200 BLOCK DIGITAL DR, Bldg:C Radio: 9C Units: E141, TW1</description>
       <guid isPermaLink="false">2026-03-12 00:40:00</guid>
       <pubDate>Thu, 12 Mar 2026 00:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:34 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-03-12 00:34:00</guid>
-      <pubDate>Thu, 12 Mar 2026 00:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:16 pm</title>
-      <description>600 BLOCK E CHURCH ST, UNRIVALED IRON GYM Radio: 9C Units: PE23, E31, R3</description>
-      <guid isPermaLink="false">2026-03-11 21:16:00</guid>
-      <pubDate>Wed, 11 Mar 2026 21:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:51 pm</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / KEHNE RD Units: A18</description>
-      <guid isPermaLink="false">2026-03-11 20:51:00</guid>
-      <pubDate>Wed, 11 Mar 2026 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:42 pm</title>
-      <description>BALTIMORE NATIONAL PIKE PIKE / KEHNE RD Radio: 9D Units: E121, R3, A129, ALS2, EMS901</description>
-      <guid isPermaLink="false">2026-03-11 20:42:00</guid>
-      <pubDate>Wed, 11 Mar 2026 20:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:54 pm</title>
-      <description>13000 BLOCK PRICES DISTILLERY RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2026-03-11 19:54:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:51 pm</title>
-      <description>7100 BLOCK JOHN PICKETT RD Units: E153</description>
-      <guid isPermaLink="false">2026-03-11 19:51:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:49 pm</title>
-      <description>13000 BLOCK PRICES DISTILLERY RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2026-03-11 19:49:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:38 pm</title>
-      <description>13100 BLOCK PRICES DISTILLERY RD Radio: 7A3 Units: E251</description>
-      <guid isPermaLink="false">2026-03-11 19:38:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:37 pm</title>
-      <description>25700 BLOCK BURNT HILL RD Radio: 7A3 Units: E153</description>
-      <guid isPermaLink="false">2026-03-11 19:37:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:17 pm</title>
-      <description>9200 BLOCK SLATE QUARRY RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-03-11 19:17:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 7:12 pm</title>
-      <description>10100 BLOCK FAUBERG ST Radio: 9C Units: E331, E31, R3</description>
-      <guid isPermaLink="false">2026-03-11 19:12:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:11 pm</title>
-      <description>13100 BLOCK PRICES DISTILLERY RD Radio: 7A1 Units: E153</description>
-      <guid isPermaLink="false">2026-03-11 19:11:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
