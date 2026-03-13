@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 05:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 05:45:08 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:28 am</title>
+      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: A19</description>
+      <guid isPermaLink="false">2026-03-13 01:28:00</guid>
+      <pubDate>Fri, 13 Mar 2026 01:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:28 am</title>
+      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: E72</description>
+      <guid isPermaLink="false">2026-03-13 01:28:00</guid>
+      <pubDate>Fri, 13 Mar 2026 01:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:17 pm</title>
       <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9D Units: E501, E11, R2, A28, A18, ALS2, BC902, EMS902</description>
@@ -294,18 +306,6 @@
       <description>1200 BLOCK OAKWOOD DR Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-03-11 15:56:00</guid>
       <pubDate>Wed, 11 Mar 2026 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 2:51 pm</title>
-      <description>100 BLOCK N CHURCH ST, STATION 10 Radio: 9C Units: PE102, E61, EK224</description>
-      <guid isPermaLink="false">2026-03-11 14:51:00</guid>
-      <pubDate>Wed, 11 Mar 2026 14:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:25 pm</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-03-11 14:25:00</guid>
-      <pubDate>Wed, 11 Mar 2026 14:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
