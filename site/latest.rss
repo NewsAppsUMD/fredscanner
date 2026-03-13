@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 13:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:13:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:11 am</title>
+      <description>URBANA PIKE / GROVE RD Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2026-03-13 10:11:00</guid>
+      <pubDate>Fri, 13 Mar 2026 10:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:06 am</title>
+      <description>URBANA PIKE / GROVE RD Radio: 9B Units: A29, E31</description>
+      <guid isPermaLink="false">2026-03-13 10:06:00</guid>
+      <pubDate>Fri, 13 Mar 2026 10:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 9:28 am</title>
       <description>500 BLOCK ELLISON CT Radio: 9C Units: PE311, E11, TT4</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-03-11 19:05:00</guid>
       <pubDate>Wed, 11 Mar 2026 19:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:59 pm</title>
-      <description>12100 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2026-03-11 18:59:00</guid>
-      <pubDate>Wed, 11 Mar 2026 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:54 pm</title>
-      <description>10400 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2026-03-11 18:54:00</guid>
-      <pubDate>Wed, 11 Mar 2026 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
