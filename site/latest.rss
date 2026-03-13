@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 20:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 20:43:13 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 4:34 pm</title>
+      <description>13100 BLOCK PENN SHOP RD Units: E153, CCK1</description>
+      <guid isPermaLink="false">2026-03-13 16:34:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:25 pm</title>
+      <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-03-13 16:25:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:21 pm</title>
+      <description>OLD ANNAPOLIS RD / BRIDLE PATH LN Radio: 9B Units: A179, RE171</description>
+      <guid isPermaLink="false">2026-03-13 16:21:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:20 pm</title>
+      <description>6300 BLOCK NEW LONDON RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-03-13 16:20:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 4:09 pm</title>
+      <description>800 BLOCK GABRIEL CT, Apt/Unit:321, CRYSTAL PARK APTS - 800 BLOCK GABRIEL CT UNIT 313 Radio: 9I Units: FTF, E281, E501, R14, WCT6, MAU15, W1</description>
+      <guid isPermaLink="false">2026-03-13 16:09:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 3:50 pm</title>
       <description>4100 BLOCK ARABY CHURCH RD Radio: 9C Units: E231, K23, BR35</description>
@@ -276,36 +306,6 @@
       <description>800 BLOCK SHERMAN DR Radio: ACOPS2 Units: TW6</description>
       <guid isPermaLink="false">2026-03-12 13:37:00</guid>
       <pubDate>Thu, 12 Mar 2026 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:22 pm</title>
-      <description>200 BLOCK MADISON ST, Bldg:6, Apt/Unit:120, CARVER APTS BUILDING 6 Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-03-12 13:22:00</guid>
-      <pubDate>Thu, 12 Mar 2026 13:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:14 pm</title>
-      <description>4700 BLOCK TEEN BARNES RD Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-03-12 13:14:00</guid>
-      <pubDate>Thu, 12 Mar 2026 13:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:10 pm</title>
-      <description>4700 BLOCK TEEN BARNES RD Radio: 9C Units: E201, E121, R20, EK204</description>
-      <guid isPermaLink="false">2026-03-12 13:10:00</guid>
-      <pubDate>Thu, 12 Mar 2026 13:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:32 pm</title>
-      <description>3400 BLOCK ANGELICA WAY Radio: 9C Units: E231, T23</description>
-      <guid isPermaLink="false">2026-03-12 12:32:00</guid>
-      <pubDate>Thu, 12 Mar 2026 12:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 12:15 pm</title>
-      <description>1000 BLOCK TWIN ARCH RD Radio: CCA7 Units: R15</description>
-      <guid isPermaLink="false">2026-03-12 12:15:00</guid>
-      <pubDate>Thu, 12 Mar 2026 12:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
