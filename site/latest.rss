@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 15:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 16:08:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:10 am</title>
+      <description>YEAGERTOWN RD / BOYERS MILL RD Radio: 9B Units: A158, E153</description>
+      <guid isPermaLink="false">2026-03-13 11:10:00</guid>
+      <pubDate>Fri, 13 Mar 2026 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:09 am</title>
+      <description>THURSTON RD / OLD HUNDRED RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-03-13 11:09:00</guid>
+      <pubDate>Fri, 13 Mar 2026 11:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:11 am</title>
       <description>URBANA PIKE / GROVE RD Radio: 9B Units: A38</description>
@@ -294,18 +306,6 @@
       <description>13100 BLOCK PRICES DISTILLERY RD Radio: 7A1 Units: E153</description>
       <guid isPermaLink="false">2026-03-11 19:11:00</guid>
       <pubDate>Wed, 11 Mar 2026 19:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:10 pm</title>
-      <description>25700 BLOCK BURNT HILL RD Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2026-03-11 19:10:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 7:05 pm</title>
-      <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-03-11 19:05:00</guid>
-      <pubDate>Wed, 11 Mar 2026 19:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
