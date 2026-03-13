@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Mar 2026 20:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 21:07:46 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:59 pm</title>
+      <description>200 BLOCK W FIFTH ST, IN BACK YARD Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-03-13 16:59:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:42 pm</title>
+      <description>1400 BLOCK HUGHES FORD RD, ALTEC INDUSTRIAL Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-03-13 16:42:00</guid>
+      <pubDate>Fri, 13 Mar 2026 16:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 4:34 pm</title>
       <description>13100 BLOCK PENN SHOP RD Units: E153, CCK1</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK FREDERICK RD, MOUNTAIN GATE RESTAURANT Radio: 9C Units: PE102, TW6</description>
       <guid isPermaLink="false">2026-03-12 13:51:00</guid>
       <pubDate>Thu, 12 Mar 2026 13:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 1:37 pm</title>
-      <description>800 BLOCK SHERMAN DR Radio: ACOPS2 Units: TW6</description>
-      <guid isPermaLink="false">2026-03-12 13:37:00</guid>
-      <pubDate>Thu, 12 Mar 2026 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 1:37 pm</title>
-      <description>800 BLOCK SHERMAN DR Radio: ACOPS2 Units: TW6</description>
-      <guid isPermaLink="false">2026-03-12 13:37:00</guid>
-      <pubDate>Thu, 12 Mar 2026 13:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
