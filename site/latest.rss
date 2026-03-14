@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 14:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 15:05:10 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:57 am</title>
+      <description>4100 BLOCK ARABY CHURCH RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-03-14 10:57:00</guid>
+      <pubDate>Sat, 14 Mar 2026 10:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:43 am</title>
+      <description>11100 BLOCK HAZELNUT LN Radio: 9C Units: E251, TT23</description>
+      <guid isPermaLink="false">2026-03-14 10:43:00</guid>
+      <pubDate>Sat, 14 Mar 2026 10:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:51 am</title>
       <description>800 BLOCK DUNBROOKE CT Radio: 9C Units: E291, E111</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK GABRIEL CT, Apt/Unit:321, CRYSTAL PARK APTS - 800 BLOCK GABRIEL CT UNIT 313 Radio: 9I Units: RID, E121, R24, A37, EMS901, W1</description>
       <guid isPermaLink="false">2026-03-13 14:45:00</guid>
       <pubDate>Fri, 13 Mar 2026 14:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:41 pm</title>
-      <description>800 BLOCK GABRIEL CT, Apt/Unit:321, CRYSTAL PARK APTS - 800 BLOCK GABRIEL CT UNIT 313 Units: E11, E31, E23, E291, PE311, R3, Q11, T23, A19, ALS4, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-03-13 14:41:00</guid>
-      <pubDate>Fri, 13 Mar 2026 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:40 pm</title>
-      <description>8300 BLOCK RESEARCH PLZ, FORT DETRICK - BLDG 8300 BLOCK Units: E501, TT4</description>
-      <guid isPermaLink="false">2026-03-13 14:40:00</guid>
-      <pubDate>Fri, 13 Mar 2026 14:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
