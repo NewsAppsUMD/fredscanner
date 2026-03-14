@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 10:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 11:04:23 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:50 am</title>
+      <description>1000 BLOCKA POPLAR ST Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-03-14 06:50:00</guid>
+      <pubDate>Sat, 14 Mar 2026 06:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:32 am</title>
       <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111</description>
@@ -298,12 +304,6 @@
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:33 pm</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: BR156</description>
-      <guid isPermaLink="false">2026-03-13 14:33:00</guid>
-      <pubDate>Fri, 13 Mar 2026 14:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:33 pm</title>
-      <description>100 BLOCK THIRD ST, STATION 16 Units: BR106</description>
       <guid isPermaLink="false">2026-03-13 14:33:00</guid>
       <pubDate>Fri, 13 Mar 2026 14:33:00 -0400</pubDate>
     </item>
