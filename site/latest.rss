@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 14 Mar 2026 02:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 03:44:57 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:23 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: R15</description>
+      <guid isPermaLink="false">2026-03-13 23:23:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:19 pm</title>
+      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: E61</description>
+      <guid isPermaLink="false">2026-03-13 23:19:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:17 pm</title>
+      <description>700 BLOCK N MARKET ST, NOMA LAUNDRY Radio: 9D Units: A38</description>
+      <guid isPermaLink="false">2026-03-13 23:17:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:13 pm</title>
+      <description>700 BLOCK N MARKET ST, NOMA LAUNDRY Radio: 9D Units: RID, PE311, Q11, A37, EMS902, W2</description>
+      <guid isPermaLink="false">2026-03-13 23:13:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:11 pm</title>
+      <description>N MARKET ST / E EIGHTH ST, LAUNDRY MAT Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-03-13 23:11:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 11:10 pm</title>
+      <description>N MARKET ST / E EIGHTH ST, LAUNDRY MAT Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-03-13 23:10:00</guid>
+      <pubDate>Fri, 13 Mar 2026 23:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:26 pm</title>
       <description>2200 BLOCK W GREENLEAF DR Radio: 9C Units: E11</description>
@@ -270,42 +306,6 @@
       <description>PETER SHRINER RD / CLEMSONVILLE RD Radio: 9C Units: BR176, CCBR105</description>
       <guid isPermaLink="false">2026-03-13 14:16:00</guid>
       <pubDate>Fri, 13 Mar 2026 14:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:57 pm</title>
-      <description>E CHURCH ST / HIGHLAND ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-03-13 13:57:00</guid>
-      <pubDate>Fri, 13 Mar 2026 13:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:46 pm</title>
-      <description>8000 BLOCK BULL RUSH CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-03-13 13:46:00</guid>
-      <pubDate>Fri, 13 Mar 2026 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 1:20 pm</title>
-      <description>1400 BLOCK CRESCENT SPOT LN Radio: 9C Units: E11, R3</description>
-      <guid isPermaLink="false">2026-03-13 13:20:00</guid>
-      <pubDate>Fri, 13 Mar 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:18 pm</title>
-      <description>2100 BLOCK THURSTON RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-03-13 12:18:00</guid>
-      <pubDate>Fri, 13 Mar 2026 12:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:10 am</title>
-      <description>YEAGERTOWN RD / BOYERS MILL RD Radio: 9B Units: A158, E153</description>
-      <guid isPermaLink="false">2026-03-13 11:10:00</guid>
-      <pubDate>Fri, 13 Mar 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:09 am</title>
-      <description>THURSTON RD / OLD HUNDRED RD Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2026-03-13 11:09:00</guid>
-      <pubDate>Fri, 13 Mar 2026 11:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
