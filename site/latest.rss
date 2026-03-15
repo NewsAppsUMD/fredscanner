@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Mar 2026 09:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 09:43:11 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:17 am</title>
+      <description>4100 BLOCK APPALOOSA LN Units: E121, TW7</description>
+      <guid isPermaLink="false">2026-03-15 05:17:00</guid>
+      <pubDate>Sun, 15 Mar 2026 05:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:15 am</title>
+      <description>4100 BLOCK APPALOOSA LN Units: E72</description>
+      <guid isPermaLink="false">2026-03-15 05:15:00</guid>
+      <pubDate>Sun, 15 Mar 2026 05:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:16 am</title>
       <description>100 BLOCK W CHURCH ST Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>13100 BLOCK PENN SHOP RD Units: E153, CCK1</description>
       <guid isPermaLink="false">2026-03-13 16:34:00</guid>
       <pubDate>Fri, 13 Mar 2026 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:25 pm</title>
-      <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-03-13 16:25:00</guid>
-      <pubDate>Fri, 13 Mar 2026 16:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:21 pm</title>
-      <description>OLD ANNAPOLIS RD / BRIDLE PATH LN Radio: 9B Units: A179, RE171</description>
-      <guid isPermaLink="false">2026-03-13 16:21:00</guid>
-      <pubDate>Fri, 13 Mar 2026 16:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
