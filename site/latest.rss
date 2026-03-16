@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 16:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 16:47:01 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:24 pm</title>
+      <description>JOHN DRAPER RD / RIDENOUR RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-03-16 12:24:00</guid>
+      <pubDate>Mon, 16 Mar 2026 12:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:09 pm</title>
       <description>FINGERBOARD RD / MARYLAND MANOR DR Radio: 9B Units: A259</description>
@@ -300,12 +306,6 @@
       <description>7000 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: E121, TT4</description>
       <guid isPermaLink="false">2026-03-14 15:57:00</guid>
       <pubDate>Sat, 14 Mar 2026 15:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:10 pm</title>
-      <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9B Units: A307, PE102</description>
-      <guid isPermaLink="false">2026-03-14 14:10:00</guid>
-      <pubDate>Sat, 14 Mar 2026 14:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
