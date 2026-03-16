@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 13:29:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 14:01:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:44 am</title>
+      <description>100 BLOCK W CHURCH ST Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-03-16 09:44:00</guid>
+      <pubDate>Mon, 16 Mar 2026 09:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 9:43 am</title>
+      <description>100 BLOCK E ALL SAINTS ST, FPD HQ'S Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-03-16 09:43:00</guid>
+      <pubDate>Mon, 16 Mar 2026 09:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:33 am</title>
+      <description>100 BLOCK W CHURCH ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-03-16 09:33:00</guid>
+      <pubDate>Mon, 16 Mar 2026 09:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
+      <description>100 BLOCK W CHURCH ST Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-03-16 09:32:00</guid>
+      <pubDate>Mon, 16 Mar 2026 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 6:15 am</title>
       <description>9200 BLOCKB REICHS FORD RD Radio: 9C Units: E331, K33, BR35</description>
@@ -282,30 +306,6 @@
       <description>1000 BLOCKA POPLAR ST Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-03-14 06:50:00</guid>
       <pubDate>Sat, 14 Mar 2026 06:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:32 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-03-14 02:32:00</guid>
-      <pubDate>Sat, 14 Mar 2026 02:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:32 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-03-14 02:32:00</guid>
-      <pubDate>Sat, 14 Mar 2026 02:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:27 am</title>
-      <description>8500 BLOCK PROGRESS DR, NCI - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-03-14 02:27:00</guid>
-      <pubDate>Sat, 14 Mar 2026 02:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:23 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: R15</description>
-      <guid isPermaLink="false">2026-03-13 23:23:00</guid>
-      <pubDate>Fri, 13 Mar 2026 23:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
