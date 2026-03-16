@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Mar 2026 07:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 08:19:31 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:06 am</title>
+      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: E72</description>
+      <guid isPermaLink="false">2026-03-16 04:06:00</guid>
+      <pubDate>Mon, 16 Mar 2026 04:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:16 am</title>
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE Radio: 9B Units: E72, R8, A89</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E EIGHTH ST, LAUNDRY MAT Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-03-13 23:11:00</guid>
       <pubDate>Fri, 13 Mar 2026 23:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:10 pm</title>
-      <description>N MARKET ST / E EIGHTH ST, LAUNDRY MAT Radio: 9D Units: PE23, E31, E501, E11, E291, R3, TT4, A29, ALS2, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-03-13 23:10:00</guid>
-      <pubDate>Fri, 13 Mar 2026 23:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
