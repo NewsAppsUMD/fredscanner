@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 11:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 11:43:47 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 7:38 am</title>
+      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K10</description>
+      <guid isPermaLink="false">2026-03-17 07:38:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:38 am</title>
+      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K9</description>
+      <guid isPermaLink="false">2026-03-17 07:38:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:36 am</title>
+      <description>BETHEL RD / HARVEST DR Radio: 9C Units: EK114, BR16</description>
+      <guid isPermaLink="false">2026-03-17 07:36:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:33 am</title>
+      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K10</description>
+      <guid isPermaLink="false">2026-03-17 07:33:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WOODS FIRE: 7:31 am</title>
+      <description>BETHEL RD / HARVEST DR Radio: 9C Units: E291, K1, BR226, EK224, K22</description>
+      <guid isPermaLink="false">2026-03-17 07:31:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 7:20 am</title>
+      <description>28500 BLOCK CLARKSBURG RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-03-17 07:20:00</guid>
+      <pubDate>Tue, 17 Mar 2026 07:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:10 am</title>
       <description>RT340EB / RT15 (JEFFERSON), RT340EB / RT15 Units: E201, E11, R20, A209, A18</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK W CHURCH ST Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-03-16 09:33:00</guid>
       <pubDate>Mon, 16 Mar 2026 09:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
-      <description>100 BLOCK W CHURCH ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-03-16 09:32:00</guid>
-      <pubDate>Mon, 16 Mar 2026 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 6:15 am</title>
-      <description>9200 BLOCKB REICHS FORD RD Radio: 9C Units: E331, K33, BR35</description>
-      <guid isPermaLink="false">2026-03-16 06:15:00</guid>
-      <pubDate>Mon, 16 Mar 2026 06:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:43 am</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: ALS8</description>
-      <guid isPermaLink="false">2026-03-16 05:43:00</guid>
-      <pubDate>Mon, 16 Mar 2026 05:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:28 am</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9B Units: A89, E82</description>
-      <guid isPermaLink="false">2026-03-16 05:28:00</guid>
-      <pubDate>Mon, 16 Mar 2026 05:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 4:25 am</title>
-      <description>100 BLOCK PROSPECT RD Units: E153</description>
-      <guid isPermaLink="false">2026-03-16 04:25:00</guid>
-      <pubDate>Mon, 16 Mar 2026 04:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:06 am</title>
-      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: E72</description>
-      <guid isPermaLink="false">2026-03-16 04:06:00</guid>
-      <pubDate>Mon, 16 Mar 2026 04:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
