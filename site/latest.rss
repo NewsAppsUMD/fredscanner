@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Mar 2026 01:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 02:55:57 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 10:27 pm</title>
+      <description>S SETON AVE / 15S BTWN XOVR &amp; S SETON AVE HWY Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-03-16 22:27:00</guid>
+      <pubDate>Mon, 16 Mar 2026 22:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:07 pm</title>
+      <description>1200 BLOCK FURGESON LN Radio: 9C Units: E11, TW1</description>
+      <guid isPermaLink="false">2026-03-16 22:07:00</guid>
+      <pubDate>Mon, 16 Mar 2026 22:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:51 pm</title>
+      <description>100 BLOCK LEEKYLER PL Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-03-16 21:51:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:47 pm</title>
+      <description>WOODLAND AVE / IRONMASTER DR Radio: 9C Units: BR136</description>
+      <guid isPermaLink="false">2026-03-16 21:47:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:46 pm</title>
+      <description>E MAIN ST / S CARROLL ST Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2026-03-16 21:46:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 9:42 pm</title>
+      <description>6600 BLOCK CANADA GOOSE CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-03-16 21:42:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD OUTSIDE: 9:41 pm</title>
+      <description>13700 BLOCK STRAFFORD DR, THURMONT AMBULANCE EVENT COMPLEX Radio: 9C Units: E101</description>
+      <guid isPermaLink="false">2026-03-16 21:41:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:36 pm</title>
+      <description>5400 BLOCK ETZLER RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-03-16 21:36:00</guid>
+      <pubDate>Mon, 16 Mar 2026 21:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE THREATENING A STRUCTURE: 9:19 pm</title>
       <description>12700 BLOCK CATOCTIN HOLLOW RD Radio: 9C Units: PE102, E291, E61, TW6, K10, A307, BR106, EK224, BC902, SAF901</description>
@@ -258,54 +306,6 @@
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Radio: 9B Units: E11, PE23, R3, A18, A29</description>
       <guid isPermaLink="false">2026-03-15 18:39:00</guid>
       <pubDate>Sun, 15 Mar 2026 18:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:51 pm</title>
-      <description>CARROLL CREEK / S CARROLL ST, CARROLL CREEK / S CARROLL ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-03-15 17:51:00</guid>
-      <pubDate>Sun, 15 Mar 2026 17:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:36 pm</title>
-      <description>11200 BLOCK CREAGERSTOWN RD Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2026-03-15 16:36:00</guid>
-      <pubDate>Sun, 15 Mar 2026 16:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:49 pm</title>
-      <description>4700 BLOCK MID COUNTY CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-03-15 15:49:00</guid>
-      <pubDate>Sun, 15 Mar 2026 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
-      <description>1800 BLOCK LATHAM DR, HEARTFIELDS OF FREDERICK Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-03-15 14:35:00</guid>
-      <pubDate>Sun, 15 Mar 2026 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:50 pm</title>
-      <description>CRESTWOOD BLVD / BALLENGER CREEK PIKE Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2026-03-15 13:50:00</guid>
-      <pubDate>Sun, 15 Mar 2026 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:53 am</title>
-      <description>4000 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-03-15 11:53:00</guid>
-      <pubDate>Sun, 15 Mar 2026 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:36 am</title>
-      <description>9000 BLOCK BEALLS FARM RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-03-15 11:36:00</guid>
-      <pubDate>Sun, 15 Mar 2026 11:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:37 am</title>
-      <description>MIDDLEBURG RD / FRANCIS SCOTT KEY HWY Units: E91</description>
-      <guid isPermaLink="false">2026-03-15 09:37:00</guid>
-      <pubDate>Sun, 15 Mar 2026 09:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
