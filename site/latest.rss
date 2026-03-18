@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 14:02:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 14:50:55 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 10:38 am</title>
+      <description>27000 BLOCK RIDGE RD REDEEMER LUTH CHURCH, REDEEMER LUTH CHURCH Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-03-18 10:38:00</guid>
+      <pubDate>Wed, 18 Mar 2026 10:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 10:28 am</title>
+      <description>FLINT HILL RD / MONOCACY BOTTOM RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-03-18 10:28:00</guid>
+      <pubDate>Wed, 18 Mar 2026 10:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
       <description>100 BLOCK W PATRICK ST Radio: 9C Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>12700 BLOCK CATOCTIN HOLLOW RD Radio: 9C Units: PE102, E291, E61, TW6, K10, A307, BR106, EK224, BC902, SAF901</description>
       <guid isPermaLink="false">2026-03-16 21:19:00</guid>
       <pubDate>Mon, 16 Mar 2026 21:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:10 pm</title>
-      <description>TWIN PONDS LN / INDIAN SPRINGS RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-03-16 21:10:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:05 pm</title>
-      <description>11000 BLOCK POWELL RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-03-16 21:05:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
