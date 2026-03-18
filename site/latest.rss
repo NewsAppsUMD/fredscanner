@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 12:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 13:29:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
+      <description>100 BLOCK W PATRICK ST Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-03-18 09:18:00</guid>
+      <pubDate>Wed, 18 Mar 2026 09:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
+      <description>3500 BLOCK WORTHINGTON BLVD Radio: 9C Units: E31, TT23</description>
+      <guid isPermaLink="false">2026-03-18 08:54:00</guid>
+      <pubDate>Wed, 18 Mar 2026 08:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:52 am</title>
+      <description>3600 BLOCK DONNA CT Radio: 9C Units: E251, E231, R15, K23</description>
+      <guid isPermaLink="false">2026-03-18 08:52:00</guid>
+      <pubDate>Wed, 18 Mar 2026 08:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:57 am</title>
       <description>1500 BLOCK ANDOVER LN Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>11000 BLOCK POWELL RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2026-03-16 21:05:00</guid>
       <pubDate>Mon, 16 Mar 2026 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:00 pm</title>
-      <description>11000 BLOCK POWELL RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-03-16 21:00:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD OUTSIDE: 8:54 pm</title>
-      <description>W NINTH ST / MOTTER AVE Units: PE23</description>
-      <guid isPermaLink="false">2026-03-16 20:54:00</guid>
-      <pubDate>Mon, 16 Mar 2026 20:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:46 pm</title>
-      <description>19200 BLOCK WASCHE RD Radio: 7A4 Units: TT23, E281, E141</description>
-      <guid isPermaLink="false">2026-03-16 20:46:00</guid>
-      <pubDate>Mon, 16 Mar 2026 20:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
