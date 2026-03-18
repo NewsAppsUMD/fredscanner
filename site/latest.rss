@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 17:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:48:19 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:44 pm</title>
+      <description>6100 BLOCK HOLTER RD Units: E121</description>
+      <guid isPermaLink="false">2026-03-18 13:44:00</guid>
+      <pubDate>Wed, 18 Mar 2026 13:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 1:11 pm</title>
       <description>RT340EB / 11MM, RT340EB / 11MM Units: E201, E11</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK CANADA GOOSE CT Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-03-16 21:42:00</guid>
       <pubDate>Mon, 16 Mar 2026 21:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD OUTSIDE: 9:41 pm</title>
-      <description>13700 BLOCK STRAFFORD DR, THURMONT AMBULANCE EVENT COMPLEX Radio: 9C Units: E101</description>
-      <guid isPermaLink="false">2026-03-16 21:41:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
