@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 23:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:39:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:13 pm</title>
+      <description>600 BLOCK BLAZER TRL, HOOD COLLEGE - COBLENTZ HALL Radio: 9C Units: PE23, TW1</description>
+      <guid isPermaLink="false">2026-03-18 19:13:00</guid>
+      <pubDate>Wed, 18 Mar 2026 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
       <description>APPROX LOC:15-340E FROM RT351 OFF RAMP TO I70WB ON RAMP HWY Radio: 9B Units: PE311, E11, R2, A318, A319</description>
@@ -300,12 +306,6 @@
       <description>S SETON AVE / 15S BTWN XOVR &amp; S SETON AVE HWY Radio: 9C Units: BR65</description>
       <guid isPermaLink="false">2026-03-16 22:27:00</guid>
       <pubDate>Mon, 16 Mar 2026 22:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:07 pm</title>
-      <description>1200 BLOCK FURGESON LN Radio: 9C Units: E11, TW1</description>
-      <guid isPermaLink="false">2026-03-16 22:07:00</guid>
-      <pubDate>Mon, 16 Mar 2026 22:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
