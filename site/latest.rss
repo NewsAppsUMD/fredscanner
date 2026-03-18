@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Mar 2026 16:47:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 17:21:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 1:11 pm</title>
+      <description>RT340EB / 11MM, RT340EB / 11MM Units: E201, E11</description>
+      <guid isPermaLink="false">2026-03-18 13:11:00</guid>
+      <pubDate>Wed, 18 Mar 2026 13:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:03 pm</title>
+      <description>2000 BLOCK YELLOW SPRINGS RD, MCDONALDS - ROSEMONT Units: A18, E11</description>
+      <guid isPermaLink="false">2026-03-18 13:03:00</guid>
+      <pubDate>Wed, 18 Mar 2026 13:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:38 am</title>
       <description>27000 BLOCK RIDGE RD REDEEMER LUTH CHURCH, REDEEMER LUTH CHURCH Radio: 7A1 Units: E251</description>
@@ -294,18 +306,6 @@
       <description>13700 BLOCK STRAFFORD DR, THURMONT AMBULANCE EVENT COMPLEX Radio: 9C Units: E101</description>
       <guid isPermaLink="false">2026-03-16 21:41:00</guid>
       <pubDate>Mon, 16 Mar 2026 21:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:36 pm</title>
-      <description>5400 BLOCK ETZLER RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-03-16 21:36:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 9:19 pm</title>
-      <description>12700 BLOCK CATOCTIN HOLLOW RD Radio: 9C Units: PE102, E291, E61, TW6, K10, A307, BR106, EK224, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-03-16 21:19:00</guid>
-      <pubDate>Mon, 16 Mar 2026 21:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
