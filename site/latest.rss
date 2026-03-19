@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 16:16:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 16:46:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:30 pm</title>
+      <description>3800 BLOCK NEW DESIGN RD, MEMORIAL GARDENS Radio: 9D Units: W14</description>
+      <guid isPermaLink="false">2026-03-19 12:30:00</guid>
+      <pubDate>Thu, 19 Mar 2026 12:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:26 pm</title>
+      <description>3800 BLOCK NEW DESIGN RD, MEMORIAL GARDENS Radio: 9D Units: A319, ALS4</description>
+      <guid isPermaLink="false">2026-03-19 12:26:00</guid>
+      <pubDate>Thu, 19 Mar 2026 12:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:22 pm</title>
+      <description>3800 BLOCK NEW DESIGN RD, MEMORIAL GARDENS Radio: 9D Units: PE311, R14, A148, ALS31, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-03-19 12:22:00</guid>
+      <pubDate>Thu, 19 Mar 2026 12:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 11:11 am</title>
       <description>1700 BLOCK FLETCHERS DR Radio: 9C Units: E201, R14</description>
@@ -288,24 +306,6 @@
       <description>BUCKEYSTOWN PIKE / URBANA PIKE Radio: 9B Units: A37, E31</description>
       <guid isPermaLink="false">2026-03-17 09:25:00</guid>
       <pubDate>Tue, 17 Mar 2026 09:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 7:38 am</title>
-      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2026-03-17 07:38:00</guid>
-      <pubDate>Tue, 17 Mar 2026 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 7:38 am</title>
-      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K9</description>
-      <guid isPermaLink="false">2026-03-17 07:38:00</guid>
-      <pubDate>Tue, 17 Mar 2026 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 7:36 am</title>
-      <description>BETHEL RD / HARVEST DR Radio: 9C Units: EK114, BR16</description>
-      <guid isPermaLink="false">2026-03-17 07:36:00</guid>
-      <pubDate>Tue, 17 Mar 2026 07:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
