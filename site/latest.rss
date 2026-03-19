@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 14:44:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 15:14:46 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:11 am</title>
+      <description>1700 BLOCK FLETCHERS DR Radio: 9C Units: E201, R14</description>
+      <guid isPermaLink="false">2026-03-19 11:11:00</guid>
+      <pubDate>Thu, 19 Mar 2026 11:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 11:10 am</title>
+      <description>1700 BLOCK FLETCHERS DR Units: E281</description>
+      <guid isPermaLink="false">2026-03-19 11:10:00</guid>
+      <pubDate>Thu, 19 Mar 2026 11:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:19 am</title>
       <description>21000 BLOCK FREDERICK RD HOME DEPOT, HOME DEPOT Radio: 7A1 Units: E231</description>
@@ -294,18 +306,6 @@
       <description>BETHEL RD / HARVEST DR Radio: 9C Units: EK114, BR16</description>
       <guid isPermaLink="false">2026-03-17 07:36:00</guid>
       <pubDate>Tue, 17 Mar 2026 07:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 7:33 am</title>
-      <description>BETHEL RD / HARVEST DR Radio: 9C Units: K10</description>
-      <guid isPermaLink="false">2026-03-17 07:33:00</guid>
-      <pubDate>Tue, 17 Mar 2026 07:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 7:31 am</title>
-      <description>BETHEL RD / HARVEST DR Radio: 9C Units: E291, K1, BR226, EK224, K22</description>
-      <guid isPermaLink="false">2026-03-17 07:31:00</guid>
-      <pubDate>Tue, 17 Mar 2026 07:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
