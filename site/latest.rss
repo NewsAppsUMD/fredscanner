@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 20:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 20:43:41 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 4:36 pm</title>
+      <description>3800 BLOCK OLIVE SCHOOL RD Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-03-19 16:36:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>EXPLOSION - MISCELLANEOUS: 4:34 pm</title>
+      <description>600 BLOCK WILD HUNT RD Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-03-19 16:34:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:27 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: EK64, PE102, TW6, ACE232</description>
+      <guid isPermaLink="false">2026-03-19 16:27:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
+      <description>APPROX LOC:270N BTWN RT 80 ON RAMP &amp; XOVR HWY Radio: 9B Units: E231, PE311, R2, A238, A319, TT23</description>
+      <guid isPermaLink="false">2026-03-19 16:26:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:16 pm</title>
+      <description>N MARKET ST / N EAST ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-03-19 16:16:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:08 pm</title>
+      <description>6100 BLOCK YEAGERTOWN RD, PH2 Radio: 9B Units: A159, E331</description>
+      <guid isPermaLink="false">2026-03-19 16:08:00</guid>
+      <pubDate>Thu, 19 Mar 2026 16:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:02 pm</title>
       <description>9700 BLOCK GAS HOUSE PIKE Radio: 9B Units: A249, E111</description>
@@ -270,42 +306,6 @@
       <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Units: E291, BR116</description>
       <guid isPermaLink="false">2026-03-17 16:31:00</guid>
       <pubDate>Tue, 17 Mar 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 4:18 pm</title>
-      <description>I70EB / 44MM, I70EB / 44MM Units: E82, E121</description>
-      <guid isPermaLink="false">2026-03-17 16:18:00</guid>
-      <pubDate>Tue, 17 Mar 2026 16:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 3:38 pm</title>
-      <description>6600 BLOCK TEAL LOOP Units: PE23</description>
-      <guid isPermaLink="false">2026-03-17 15:38:00</guid>
-      <pubDate>Tue, 17 Mar 2026 15:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 3:37 pm</title>
-      <description>6600 BLOCK TEAL LOOP Units: E311, E141, TT4, A319</description>
-      <guid isPermaLink="false">2026-03-17 15:37:00</guid>
-      <pubDate>Tue, 17 Mar 2026 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:13 pm</title>
-      <description>FARMBROOK DR / CHARSTONE CT Units: A319, R3</description>
-      <guid isPermaLink="false">2026-03-17 15:13:00</guid>
-      <pubDate>Tue, 17 Mar 2026 15:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:00 pm</title>
-      <description>8500 BLOCK MAPLEVILLE RD, FAHRNEY KEEDY HOME &amp; VILLAGE Units: R8, A89</description>
-      <guid isPermaLink="false">2026-03-17 15:00:00</guid>
-      <pubDate>Tue, 17 Mar 2026 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:25 pm</title>
-      <description>16800 BLOCK SCOTT RD Units: E61</description>
-      <guid isPermaLink="false">2026-03-17 14:25:00</guid>
-      <pubDate>Tue, 17 Mar 2026 14:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
