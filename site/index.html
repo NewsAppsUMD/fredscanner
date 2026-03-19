@@ -307,11 +307,7 @@
         <div class="stats">
             <div class="stat-card">
                 <div class="stat-value" id="totalIncidents">0</div>
-                <div class="stat-label">Total Incidents</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value" id="dateRange">-</div>
-                <div class="stat-label">Date Range</div>
+                <div class="stat-label">Incidents in <span id="dateRange">-</span></div>
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="avgPerDay">0</div>
@@ -534,7 +530,7 @@
                 const topEvent = Object.entries(eventCounts)
                     .sort((a, b) => b[1] - a[1])[0];
                 document.getElementById('topEvent').textContent =
-                    topEvent ? topEvent[0].substring(0, 25) + (topEvent[0].length > 25 ? '...' : '') : '-';
+                    topEvent ? topEvent[0] : '-';
             } else {
                 document.getElementById('dateRange').textContent = '-';
                 document.getElementById('avgPerDay').textContent = '0';
