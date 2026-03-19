@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Mar 2026 17:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 17:46:21 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 1:24 pm</title>
+      <description>7900 BLOCK RIVER RUN CT Radio: 9C Units: TW11</description>
+      <guid isPermaLink="false">2026-03-19 13:24:00</guid>
+      <pubDate>Thu, 19 Mar 2026 13:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 1:23 pm</title>
+      <description>7900 BLOCK RIVER RUN CT Radio: 9C Units: TW11</description>
+      <guid isPermaLink="false">2026-03-19 13:23:00</guid>
+      <pubDate>Thu, 19 Mar 2026 13:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 1:23 pm</title>
+      <description>7900 BLOCK RIVER RUN CT Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-03-19 13:23:00</guid>
+      <pubDate>Thu, 19 Mar 2026 13:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 1:17 pm</title>
+      <description>7900 BLOCK RIVER RUN CT Radio: 9C Units: E111, E291, TW11</description>
+      <guid isPermaLink="false">2026-03-19 13:17:00</guid>
+      <pubDate>Thu, 19 Mar 2026 13:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:06 pm</title>
       <description>9100 BLOCK FROSTOWN RD, LUCY SCHOOL Radio: 9C Units: E72</description>
@@ -282,30 +306,6 @@
       <description>4700 BLOCK ARABY CHURCH RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-03-17 13:00:00</guid>
       <pubDate>Tue, 17 Mar 2026 13:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 12:11 pm</title>
-      <description>7300 BLOCK HOLLOW RD Radio: 9D Units: E121, RE74, A129, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-03-17 12:11:00</guid>
-      <pubDate>Tue, 17 Mar 2026 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:09 pm</title>
-      <description>7700 BLOCK COBLENTZ RD Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-03-17 12:09:00</guid>
-      <pubDate>Tue, 17 Mar 2026 12:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:34 am</title>
-      <description>200 BLOCK W MAIN ST, Apt/Unit:5 Radio: 9B Units: E61, PE102, TW6, ACE232</description>
-      <guid isPermaLink="false">2026-03-17 11:34:00</guid>
-      <pubDate>Tue, 17 Mar 2026 11:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:59 am</title>
-      <description>13900 BLOCK GARDNER AVE Units: R10</description>
-      <guid isPermaLink="false">2026-03-17 09:59:00</guid>
-      <pubDate>Tue, 17 Mar 2026 09:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
