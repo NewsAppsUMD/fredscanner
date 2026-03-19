@@ -133,6 +133,23 @@
             letter-spacing: 0.5px;
         }
 
+        .pct-up {
+            color: #c62828;
+        }
+
+        .pct-down {
+            color: #2e7d32;
+        }
+
+        .pct-na {
+            color: #999;
+            font-size: 0.6em;
+        }
+
+        .pct-zero {
+            color: #666;
+        }
+
         .chart-container {
             background: white;
             padding: 25px;
@@ -304,6 +321,14 @@
                 <div class="stat-value" id="topEvent">-</div>
                 <div class="stat-label">Most Common Event</div>
             </div>
+            <div class="stat-card">
+                <div class="stat-value" id="change7d"><span class="pct-na">N/A</span></div>
+                <div class="stat-label">7-Day Change</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="change30d"><span class="pct-na">N/A</span></div>
+                <div class="stat-label">30-Day Change</div>
+            </div>
         </div>
 
         <div class="chart-container">
@@ -439,6 +464,49 @@
             updateTable();
         }
 
+        function formatPctChange(current, previous) {
+            if (previous === 0 && current === 0) {
+                return '<span class="pct-na">N/A</span>';
+            }
+            if (previous === 0) {
+                return '<span class="pct-up">\u2191 New</span>';
+            }
+            const pct = ((current - previous) / previous) * 100;
+            const rounded = Math.round(pct);
+            if (rounded > 0) {
+                return `<span class="pct-up">\u2191 ${rounded}%</span>`;
+            } else if (rounded < 0) {
+                return `<span class="pct-down">\u2193 ${Math.abs(rounded)}%</span>`;
+            }
+            return '<span class="pct-zero">0%</span>';
+        }
+
+        function updatePercentageChanges() {
+            const eventFilter = document.getElementById('eventFilter').value;
+            const source = eventFilter
+                ? allIncidents.filter(i => i.Event === eventFilter)
+                : allIncidents;
+
+            const now = new Date();
+            const startOfToday = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);
+
+            function countInRange(daysAgoStart, daysAgoEnd) {
+                const start = new Date(startOfToday);
+                start.setDate(start.getDate() - daysAgoStart);
+                const end = new Date(startOfToday);
+                end.setDate(end.getDate() - daysAgoEnd);
+                return source.filter(i => i.datetime > start && i.datetime <= end).length;
+            }
+
+            const last7 = countInRange(7, 0);
+            const prev7 = countInRange(14, 7);
+            const last30 = countInRange(30, 0);
+            const prev30 = countInRange(60, 30);
+
+            document.getElementById('change7d').innerHTML = formatPctChange(last7, prev7);
+            document.getElementById('change30d').innerHTML = formatPctChange(last30, prev30);
+        }
+
         function updateStats() {
             const total = filteredIncidents.length;
             document.getElementById('totalIncidents').textContent = total.toLocaleString();
@@ -472,6 +540,8 @@
                 document.getElementById('avgPerDay').textContent = '0';
                 document.getElementById('topEvent').textContent = '-';
             }
+
+            updatePercentageChanges();
         }
 
         function updateChart() {
