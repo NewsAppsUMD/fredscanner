@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 00:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:53:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:14 pm</title>
+      <description>2500 BLOCK W BOSS ARNOLD RD Units: A196, R19</description>
+      <guid isPermaLink="false">2026-03-19 20:14:00</guid>
+      <pubDate>Thu, 19 Mar 2026 20:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:54 pm</title>
       <description>FINGERBOARD RD / SINGLETON DR Units: A259</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK DONNA CT Radio: 9C Units: E251, E231, R15, K23</description>
       <guid isPermaLink="false">2026-03-18 08:52:00</guid>
       <pubDate>Wed, 18 Mar 2026 08:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:57 am</title>
-      <description>1500 BLOCK ANDOVER LN Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-03-18 06:57:00</guid>
-      <pubDate>Wed, 18 Mar 2026 06:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
