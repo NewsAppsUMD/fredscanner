@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 01:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 02:55:25 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 9:51 pm</title>
+      <description>21200 BLOCK MARTINSBURG RD DICKERSON RESOURCE RECOVERY FACILITY, DICKERSON RESOURCE RECOVERY FACILITY Radio: 7A4 Units: E141, E281</description>
+      <guid isPermaLink="false">2026-03-19 21:51:00</guid>
+      <pubDate>Thu, 19 Mar 2026 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:36 pm</title>
+      <description>9200 BLOCK RIDGEFIELD CIR Units: E331, E31, R3</description>
+      <guid isPermaLink="false">2026-03-19 21:36:00</guid>
+      <pubDate>Thu, 19 Mar 2026 21:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:14 pm</title>
       <description>2500 BLOCK W BOSS ARNOLD RD Units: A196, R19</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W PATRICK ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-03-18 09:18:00</guid>
       <pubDate>Wed, 18 Mar 2026 09:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
-      <description>3500 BLOCK WORTHINGTON BLVD Radio: 9C Units: E31, TT23</description>
-      <guid isPermaLink="false">2026-03-18 08:54:00</guid>
-      <pubDate>Wed, 18 Mar 2026 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:52 am</title>
-      <description>3600 BLOCK DONNA CT Radio: 9C Units: E251, E231, R15, K23</description>
-      <guid isPermaLink="false">2026-03-18 08:52:00</guid>
-      <pubDate>Wed, 18 Mar 2026 08:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
