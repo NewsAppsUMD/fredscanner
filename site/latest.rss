@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Mar 2026 18:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:44:47 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 2:36 pm</title>
+      <description>6100 BLOCK DETRICK RD Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-03-20 14:36:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 2:31 pm</title>
+      <description>5400 BLOCK FROGGY BOTTOM LN Radio: 9C Units: PE311, E31</description>
+      <guid isPermaLink="false">2026-03-20 14:31:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:29 pm</title>
+      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: E291, TW11</description>
+      <guid isPermaLink="false">2026-03-20 14:29:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:23 pm</title>
+      <description>RT15SB / EMMITSBURG RD Radio: ACOPS2 Units: EK64, A68</description>
+      <guid isPermaLink="false">2026-03-20 14:23:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 2:23 pm</title>
+      <description>RT15SB / EMMITSBURG RD Radio: ACOPS2 Units: EK64, A68</description>
+      <guid isPermaLink="false">2026-03-20 14:23:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:07 pm</title>
+      <description>26300 BLOCK WOODFIELD RD WOODFIELD COMMONS APTS, WOODFIELD COMMONS APTS Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-03-20 14:07:00</guid>
+      <pubDate>Fri, 20 Mar 2026 14:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - FIRE: 1:50 pm</title>
       <description>GRACEHAM RD / ROCKY RIDGE RD Radio: 9B Units: PE102, A307</description>
@@ -270,42 +306,6 @@
       <description>1700 BLOCK FLETCHERS DR Units: E281</description>
       <guid isPermaLink="false">2026-03-19 11:10:00</guid>
       <pubDate>Thu, 19 Mar 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:19 am</title>
-      <description>21000 BLOCK FREDERICK RD HOME DEPOT, HOME DEPOT Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2026-03-19 10:19:00</guid>
-      <pubDate>Thu, 19 Mar 2026 10:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
-      <description>14700 BLOCK PARK CENTRAL RD, VISITOR CENTER - CATOCTIN MOUNTAIN PARK Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2026-03-19 08:45:00</guid>
-      <pubDate>Thu, 19 Mar 2026 08:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:15 am</title>
-      <description>14700 BLOCK PARK CENTRAL RD, VISITOR CENTER - CATOCTIN MOUNTAIN PARK Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-03-19 08:15:00</guid>
-      <pubDate>Thu, 19 Mar 2026 08:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:42 am</title>
-      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-03-19 03:42:00</guid>
-      <pubDate>Thu, 19 Mar 2026 03:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:37 am</title>
-      <description>5400 BLOCK MOUNT ZION RD, WASHINGTON COUNTY HUMAN DEVELOPMENT Radio: 9C Units: E201, TW1</description>
-      <guid isPermaLink="false">2026-03-19 03:37:00</guid>
-      <pubDate>Thu, 19 Mar 2026 03:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:55 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2026-03-18 21:55:00</guid>
-      <pubDate>Wed, 18 Mar 2026 21:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
