@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 03:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 04:29:49 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 12:03 am</title>
+      <description>3600 BLOCK PROMISE CT Units: R19, K5</description>
+      <guid isPermaLink="false">2026-03-21 00:03:00</guid>
+      <pubDate>Sat, 21 Mar 2026 00:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 11:58 pm</title>
+      <description>3600 BLOCK PROMISE CT Radio: 9C Units: E281, E201, R20, EK204</description>
+      <guid isPermaLink="false">2026-03-20 23:58:00</guid>
+      <pubDate>Fri, 20 Mar 2026 23:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:43 pm</title>
+      <description>2400 BLOCK BALLENGER CREEK PIKE Units: A148, E281</description>
+      <guid isPermaLink="false">2026-03-20 23:43:00</guid>
+      <pubDate>Fri, 20 Mar 2026 23:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 11:32 pm</title>
       <description>2000 BLOCK DAHLGREN RD Units: E82, BR85</description>
@@ -288,24 +306,6 @@
       <description>600 BLOCK WILD HUNT RD Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-03-19 16:34:00</guid>
       <pubDate>Thu, 19 Mar 2026 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:27 pm</title>
-      <description>100 BLOCK W MAIN ST Radio: 9C Units: EK64, PE102, TW6, ACE232</description>
-      <guid isPermaLink="false">2026-03-19 16:27:00</guid>
-      <pubDate>Thu, 19 Mar 2026 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
-      <description>APPROX LOC:270N BTWN RT 80 ON RAMP &amp; XOVR HWY Radio: 9B Units: E231, PE311, R2, A238, A319, TT23</description>
-      <guid isPermaLink="false">2026-03-19 16:26:00</guid>
-      <pubDate>Thu, 19 Mar 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:16 pm</title>
-      <description>N MARKET ST / N EAST ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-03-19 16:16:00</guid>
-      <pubDate>Thu, 19 Mar 2026 16:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
