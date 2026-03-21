@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Mar 2026 16:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 16:41:52 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 12:33 pm</title>
+      <description>1600 BLOCK PINDER ST Radio: 9C Units: PE23, E31, R3</description>
+      <guid isPermaLink="false">2026-03-21 12:33:00</guid>
+      <pubDate>Sat, 21 Mar 2026 12:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 10:18 am</title>
       <description>3600 BLOCK PROMISE CT Radio: 9C Units: E201, R20, EK204, PE52</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK LEAFY HOLLOW CIR Units: E153</description>
       <guid isPermaLink="false">2026-03-19 19:12:00</guid>
       <pubDate>Thu, 19 Mar 2026 19:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:46 pm</title>
-      <description>5000 BLOCK IJAMSVILLE RD Units: A339, E331</description>
-      <guid isPermaLink="false">2026-03-19 18:46:00</guid>
-      <pubDate>Thu, 19 Mar 2026 18:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
