@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Mar 2026 22:03:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 22:40:12 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:24 pm</title>
+      <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - MEMORIAL HALL Radio: 9C Units: PE23, TW1</description>
+      <guid isPermaLink="false">2026-03-22 18:24:00</guid>
+      <pubDate>Sun, 22 Mar 2026 18:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 5:36 pm</title>
       <description>I70EB 35MM Units: BR85</description>
@@ -300,12 +306,6 @@
       <description>RT80 / BAKER VALLEY RD, RT80 / BAKER VALLEY RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-03-20 17:34:00</guid>
       <pubDate>Fri, 20 Mar 2026 17:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:33 pm</title>
-      <description>100 BLOCK N CHURCH ST, STATION 30 Units: K33</description>
-      <guid isPermaLink="false">2026-03-20 17:33:00</guid>
-      <pubDate>Fri, 20 Mar 2026 17:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
