@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 03:00:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 03:59:49 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 11:51 pm</title>
+      <description>8200 BLOCK DAMASCUS RD Radio: 7A8 Units: E251</description>
+      <guid isPermaLink="false">2026-03-22 23:51:00</guid>
+      <pubDate>Sun, 22 Mar 2026 23:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:33 pm</title>
+      <description>100 BLOCK W LOCUST ST, STATION CC00100 BLOCK - UNION BRIDGE VFC INC Units: E91</description>
+      <guid isPermaLink="false">2026-03-22 23:33:00</guid>
+      <pubDate>Sun, 22 Mar 2026 23:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:15 pm</title>
       <description>10100 BLOCK BLUEGILL ST Radio: 9C Units: E153</description>
@@ -294,18 +306,6 @@
       <description>3600 BLOCK PROMISE CT Radio: 9C Units: E281, E201, R20, EK204</description>
       <guid isPermaLink="false">2026-03-20 23:58:00</guid>
       <pubDate>Fri, 20 Mar 2026 23:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:43 pm</title>
-      <description>2400 BLOCK BALLENGER CREEK PIKE Units: A148, E281</description>
-      <guid isPermaLink="false">2026-03-20 23:43:00</guid>
-      <pubDate>Fri, 20 Mar 2026 23:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 11:32 pm</title>
-      <description>2000 BLOCK DAHLGREN RD Units: E82, BR85</description>
-      <guid isPermaLink="false">2026-03-20 23:32:00</guid>
-      <pubDate>Fri, 20 Mar 2026 23:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
