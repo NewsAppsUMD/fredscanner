@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 22:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 23:07:17 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:40 pm</title>
+      <description>23400 BLOCK FREDERICK RD STATION 735, STATION 735 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-03-23 18:40:00</guid>
+      <pubDate>Mon, 23 Mar 2026 18:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 6:01 pm</title>
       <description>12500 BLOCK BILLS CT Units: E251, E153, CCK1</description>
@@ -298,12 +304,6 @@
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 7:30 pm</title>
       <description>12700 BLOCK ROUGHTON DR Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-03-21 19:30:00</guid>
-      <pubDate>Sat, 21 Mar 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 7:30 pm</title>
-      <description>MIDDLEBURG RD / CROUSE MILL RD Units: E91</description>
       <guid isPermaLink="false">2026-03-21 19:30:00</guid>
       <pubDate>Sat, 21 Mar 2026 19:30:00 -0400</pubDate>
     </item>
