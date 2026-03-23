@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Mar 2026 21:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 22:05:47 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 6:01 pm</title>
+      <description>12500 BLOCK BILLS CT Units: E251, E153, CCK1</description>
+      <guid isPermaLink="false">2026-03-23 18:01:00</guid>
+      <pubDate>Mon, 23 Mar 2026 18:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:47 pm</title>
+      <description>MILL POND RD / OSPREY WAY, IAO Units: A248, A299, E291</description>
+      <guid isPermaLink="false">2026-03-23 17:47:00</guid>
+      <pubDate>Mon, 23 Mar 2026 17:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 5:32 pm</title>
       <description>200 BLOCK N CHURCH ST, DOLLAR GENERAL - THURMONT Radio: 9C Units: PE102, E61, TW6, E221</description>
@@ -294,18 +306,6 @@
       <description>MIDDLEBURG RD / CROUSE MILL RD Units: E91</description>
       <guid isPermaLink="false">2026-03-21 19:30:00</guid>
       <pubDate>Sat, 21 Mar 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 7:16 pm</title>
-      <description>500 BLOCK SUMMER BLOSSOM TER Radio: CCA7 Units: R15</description>
-      <guid isPermaLink="false">2026-03-21 19:16:00</guid>
-      <pubDate>Sat, 21 Mar 2026 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:38 pm</title>
-      <description>12700 BLOCK ROUGHTON DR Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-03-21 18:38:00</guid>
-      <pubDate>Sat, 21 Mar 2026 18:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
