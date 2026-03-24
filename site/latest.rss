@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Mar 2026 16:46:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 17:19:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:08 pm</title>
+      <description>100 BLOCK W SOUTH ST Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-03-24 13:08:00</guid>
+      <pubDate>Tue, 24 Mar 2026 13:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:12 pm</title>
       <description>SPECTRUM DR / BUCKEYSTOWN PIKE Units: PE311, R3, A318, ALS31, BC903, EMS901</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A38</description>
       <guid isPermaLink="false">2026-03-22 10:35:00</guid>
       <pubDate>Sun, 22 Mar 2026 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 10:12 am</title>
-      <description>100 BLOCK BLK SUGARLOAF GREEN TRAIL Radio: 9D Units: E251</description>
-      <guid isPermaLink="false">2026-03-22 10:12:00</guid>
-      <pubDate>Sun, 22 Mar 2026 10:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
