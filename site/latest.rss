@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 20:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:43:03 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:30 pm</title>
+      <description>15500 BLOCK KELBAUGH RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-03-26 16:30:00</guid>
+      <pubDate>Thu, 26 Mar 2026 16:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:57 pm</title>
       <description>4200 BLOCK MIDDLE POINT RD Radio: 9D Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>W B ST / N VIRGINIA AVE Radio: 9C Units: BR55</description>
       <guid isPermaLink="false">2026-03-24 21:30:00</guid>
       <pubDate>Tue, 24 Mar 2026 21:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE FUEL SPILL: 9:13 pm</title>
-      <description>RAMP RT15SB TO I70EB RAMP / 270S FROM RT 15 TO RAMP FROM 70W PIKE Radio: 9D Units: E31</description>
-      <guid isPermaLink="false">2026-03-24 21:13:00</guid>
-      <pubDate>Tue, 24 Mar 2026 21:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
