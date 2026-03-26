@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 19:46:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 20:07:33 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:57 pm</title>
+      <description>4200 BLOCK MIDDLE POINT RD Radio: 9D Units: TW1</description>
+      <guid isPermaLink="false">2026-03-26 15:57:00</guid>
+      <pubDate>Thu, 26 Mar 2026 15:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 3:55 pm</title>
+      <description>4200 BLOCK MIDDLE POINT RD Radio: 9D Units: E212, E82, E121, R10, TW7, K21, K7, A89, ALS8, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-03-26 15:55:00</guid>
+      <pubDate>Thu, 26 Mar 2026 15:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 3:38 pm</title>
       <description>OLD HOLTER RD / JEFFERSON PIKE Radio: 9C Units: E121</description>
@@ -294,18 +306,6 @@
       <description>RAMP RT15SB TO I70EB RAMP / 270S FROM RT 15 TO RAMP FROM 70W PIKE Radio: 9D Units: E31</description>
       <guid isPermaLink="false">2026-03-24 21:13:00</guid>
       <pubDate>Tue, 24 Mar 2026 21:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE FUEL SPILL: 9:08 pm</title>
-      <description>RAMP RT15SB TO I70EB RAMP / 270S FROM RT 15 TO RAMP FROM 70W PIKE Radio: 9D Units: E11, HM33, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-03-24 21:08:00</guid>
-      <pubDate>Tue, 24 Mar 2026 21:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 9:02 pm</title>
-      <description>MILL POINT RD / MAPLEVILLE RD Units: E82, R8</description>
-      <guid isPermaLink="false">2026-03-24 21:02:00</guid>
-      <pubDate>Tue, 24 Mar 2026 21:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
