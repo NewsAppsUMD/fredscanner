@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 09:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:17:51 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:08 am</title>
+      <description>100 BLOCK W BROAD WAY Radio: 6B Units: A197</description>
+      <guid isPermaLink="false">2026-03-26 06:08:00</guid>
+      <pubDate>Thu, 26 Mar 2026 06:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:56 am</title>
+      <description>7200 BLOCK BOWERS RD Radio: 9C Units: E502, E31, PE23, E291, R3, EK114, EK204, ALS4, BC903, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-03-26 05:56:00</guid>
+      <pubDate>Thu, 26 Mar 2026 05:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 5:54 am</title>
+      <description>7200 BLOCK BOWERS RD Radio: 9C Units: E11, E121, TW1, K7, A18</description>
+      <guid isPermaLink="false">2026-03-26 05:54:00</guid>
+      <pubDate>Thu, 26 Mar 2026 05:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:31 pm</title>
       <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Radio: 9C Units: E251</description>
@@ -288,24 +306,6 @@
       <description>I70EB / RT75, I70EB / RT75 Radio: 9C Units: A158</description>
       <guid isPermaLink="false">2026-03-23 15:37:00</guid>
       <pubDate>Mon, 23 Mar 2026 15:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:31 pm</title>
-      <description>7900 BLOCK FINGERBOARD RD, Bldg:B Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-03-23 15:31:00</guid>
-      <pubDate>Mon, 23 Mar 2026 15:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:12 pm</title>
-      <description>I70EB / RT75, I70EB / RT75 Radio: 9C Units: E153, E251</description>
-      <guid isPermaLink="false">2026-03-23 15:12:00</guid>
-      <pubDate>Mon, 23 Mar 2026 15:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 2:42 pm</title>
-      <description>400 BLOCK FRANKLIN ST, STATION 7 Radio: 9C Units: HMSU33</description>
-      <guid isPermaLink="false">2026-03-23 14:42:00</guid>
-      <pubDate>Mon, 23 Mar 2026 14:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
