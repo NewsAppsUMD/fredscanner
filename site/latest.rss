@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Mar 2026 19:23:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 19:46:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:38 pm</title>
+      <description>OLD HOLTER RD / JEFFERSON PIKE Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-03-26 15:38:00</guid>
+      <pubDate>Thu, 26 Mar 2026 15:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 3:37 pm</title>
+      <description>BALLENGER CREEK PIKE / ALAN LINTON BLVD E Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-03-26 15:37:00</guid>
+      <pubDate>Thu, 26 Mar 2026 15:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 3:13 pm</title>
       <description>BALLENGER CREEK PIKE / ALAN LINTON BLVD W Radio: 9C Units: E311</description>
@@ -294,18 +306,6 @@
       <description>MILL POINT RD / MAPLEVILLE RD Units: E82, R8</description>
       <guid isPermaLink="false">2026-03-24 21:02:00</guid>
       <pubDate>Tue, 24 Mar 2026 21:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:26 pm</title>
-      <description>5600 BLOCK SCOTT RIDGE PL Radio: 9C Units: E331, E31, R3</description>
-      <guid isPermaLink="false">2026-03-24 20:26:00</guid>
-      <pubDate>Tue, 24 Mar 2026 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 6:30 pm</title>
-      <description>CORPORATE DR / BALLENGER CREEK PIKE, ACROSS FROM THE PARK Radio: 9D Units: A318, ALS31, E11, EMS901</description>
-      <guid isPermaLink="false">2026-03-24 18:30:00</guid>
-      <pubDate>Tue, 24 Mar 2026 18:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
