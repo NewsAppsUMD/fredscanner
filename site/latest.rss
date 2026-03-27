@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Mar 2026 21:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 21:43:05 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:28 pm</title>
+      <description>6600 BLOCK HUNTER TRAIL WAY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-03-27 17:28:00</guid>
+      <pubDate>Fri, 27 Mar 2026 17:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:13 pm</title>
+      <description>100 BLOCK WAGON SHED CT Radio: 9C Units: E72</description>
+      <guid isPermaLink="false">2026-03-27 17:13:00</guid>
+      <pubDate>Fri, 27 Mar 2026 17:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 2:28 pm</title>
       <description>800 BLOCK MOTTER AVE, SHARPES SQUARE Radio: 9D Units: A29, PE23, EMS902</description>
@@ -294,18 +306,6 @@
       <description>7200 BLOCK BOWERS RD Radio: 9C Units: E502, E31, PE23, E291, R3, EK114, EK204, ALS4, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-03-26 05:56:00</guid>
       <pubDate>Thu, 26 Mar 2026 05:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 5:54 am</title>
-      <description>7200 BLOCK BOWERS RD Radio: 9C Units: E11, E121, TW1, K7, A18</description>
-      <guid isPermaLink="false">2026-03-26 05:54:00</guid>
-      <pubDate>Thu, 26 Mar 2026 05:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:31 pm</title>
-      <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-03-25 23:31:00</guid>
-      <pubDate>Wed, 25 Mar 2026 23:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
