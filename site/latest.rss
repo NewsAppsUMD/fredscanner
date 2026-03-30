@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 30 Mar 2026 15:25:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 15:53:20 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 11:41 am</title>
+      <description>GREEN VALLEY RD / WELLER RD Units: E251, E153, K33, A259, TT23</description>
+      <guid isPermaLink="false">2026-03-30 11:41:00</guid>
+      <pubDate>Mon, 30 Mar 2026 11:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:21 am</title>
       <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: E502, E11, R2, A29, A18</description>
@@ -300,12 +306,6 @@
       <description>800 BLOCK MOTTER AVE, SHARPES SQUARE Radio: 9D Units: A29, PE23, EMS902</description>
       <guid isPermaLink="false">2026-03-27 14:28:00</guid>
       <pubDate>Fri, 27 Mar 2026 14:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:36 pm</title>
-      <description>100 BLOCK WESTVIEW DR Radio: 9C Units: E133, E221</description>
-      <guid isPermaLink="false">2026-03-27 13:36:00</guid>
-      <pubDate>Fri, 27 Mar 2026 13:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
