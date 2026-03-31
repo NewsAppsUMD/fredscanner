@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 22:08:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 22:42:47 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:08 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, KINDERCARE LEARNING CENTER Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-03-31 18:08:00</guid>
+      <pubDate>Tue, 31 Mar 2026 18:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:13 pm</title>
       <description>WAVERLEY DR / SHOOKSTOWN RD Radio: 9B Units: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>11600 BLOCK HUNT CLUB RD, THURMONT SPORTSMANS CLUB Radio: 9B Units: A169, E162</description>
       <guid isPermaLink="false">2026-03-29 15:44:00</guid>
       <pubDate>Sun, 29 Mar 2026 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:09 pm</title>
-      <description>18100 BLOCK MORGAN PINE RD Units: T5</description>
-      <guid isPermaLink="false">2026-03-29 15:09:00</guid>
-      <pubDate>Sun, 29 Mar 2026 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
