@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 31 Mar 2026 19:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 20:10:29 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:43 pm</title>
+      <description>I70EB / 39MM, I70EB / 39MM Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-03-31 15:43:00</guid>
+      <pubDate>Tue, 31 Mar 2026 15:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 1:38 pm</title>
       <description>5200 BLOCK MOUNTVILLE RD, THE RANCH Radio: 9C Units: BR145</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9I Units: E153, RE171, A158, ALS17, EMS901</description>
       <guid isPermaLink="false">2026-03-29 15:03:00</guid>
       <pubDate>Sun, 29 Mar 2026 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:54 pm</title>
-      <description>11200 BLOCK ROCKY RIDGE RD Radio: 9D Units: U13</description>
-      <guid isPermaLink="false">2026-03-29 14:54:00</guid>
-      <pubDate>Sun, 29 Mar 2026 14:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
