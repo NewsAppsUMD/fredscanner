@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 01:34:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 03:00:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:40 pm</title>
+      <description>200 BLOCK E CHURCH ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-04-01 22:40:00</guid>
+      <pubDate>Wed, 01 Apr 2026 22:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 9:55 pm</title>
+      <description>300 BLOCK S CHURCH ST Radio: 9C Units: HM33, HMSU33</description>
+      <guid isPermaLink="false">2026-04-01 21:55:00</guid>
+      <pubDate>Wed, 01 Apr 2026 21:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 9:46 pm</title>
+      <description>300 BLOCK S CHURCH ST Radio: 9C Units: E72, E121, TW7</description>
+      <guid isPermaLink="false">2026-04-01 21:46:00</guid>
+      <pubDate>Wed, 01 Apr 2026 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 pm</title>
+      <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY - OLD FARM DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-04-01 21:32:00</guid>
+      <pubDate>Wed, 01 Apr 2026 21:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:34 pm</title>
       <description>12000 BLOCK WOLFSVILLE RD Units: E82, E212</description>
@@ -282,30 +306,6 @@
       <description>4700 BLOCK ARCADIA DR, Apt/Unit:135 Radio: 9C Units: PE311, TW1</description>
       <guid isPermaLink="false">2026-03-30 12:02:00</guid>
       <pubDate>Mon, 30 Mar 2026 12:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 11:41 am</title>
-      <description>GREEN VALLEY RD / WELLER RD Units: E251, E153, K33, A259, TT23</description>
-      <guid isPermaLink="false">2026-03-30 11:41:00</guid>
-      <pubDate>Mon, 30 Mar 2026 11:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:21 am</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Units: E502, E11, R2, A29, A18</description>
-      <guid isPermaLink="false">2026-03-30 10:21:00</guid>
-      <pubDate>Mon, 30 Mar 2026 10:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:14 am</title>
-      <description>I270SB / RT80, I270SB / RT80 Units: E231, R3, A238, TT23</description>
-      <guid isPermaLink="false">2026-03-30 09:14:00</guid>
-      <pubDate>Mon, 30 Mar 2026 09:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:51 am</title>
-      <description>100 BLOCK WILLOWDALE DR, KINDERCARE LEARNING CENTER Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-03-30 08:51:00</guid>
-      <pubDate>Mon, 30 Mar 2026 08:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
