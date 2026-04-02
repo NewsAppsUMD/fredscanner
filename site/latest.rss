@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 16:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 16:46:00 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:25 pm</title>
+      <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Units: E72</description>
+      <guid isPermaLink="false">2026-04-02 12:25:00</guid>
+      <pubDate>Thu, 02 Apr 2026 12:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:05 pm</title>
       <description>4500 BLOCK OLD NATIONAL PIKE Units: A129, E121</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK KEY PKWY, Apt/Unit:C6, HUNTERS GLEN APTS - 1400 BLOCK KEY PKWY Radio: 9I Units: E11, E31, R2, HM33, HM50, HMSU33, A18, A19, ALS4, BC901, SAF900, EMS901</description>
       <guid isPermaLink="false">2026-03-30 17:02:00</guid>
       <pubDate>Mon, 30 Mar 2026 17:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SINKING VEHICLE: 4:52 pm</title>
-      <description>8600 BLOCK BALTIMORE NATIONAL PIKE PIKE Units: A79</description>
-      <guid isPermaLink="false">2026-03-30 16:52:00</guid>
-      <pubDate>Mon, 30 Mar 2026 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
