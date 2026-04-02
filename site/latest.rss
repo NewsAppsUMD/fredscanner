@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Apr 2026 05:57:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 06:32:32 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 2:26 am</title>
+      <description>25600 BLOCK OLD HUNDRED RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-04-02 02:26:00</guid>
+      <pubDate>Thu, 02 Apr 2026 02:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:40 pm</title>
       <description>200 BLOCK E CHURCH ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>REICHS FORD RD / HILLMARK CT Radio: 9B Units: E331</description>
       <guid isPermaLink="false">2026-03-30 15:18:00</guid>
       <pubDate>Mon, 30 Mar 2026 15:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:02 pm</title>
-      <description>4700 BLOCK ARCADIA DR, Apt/Unit:135 Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-03-30 12:02:00</guid>
-      <pubDate>Mon, 30 Mar 2026 12:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
