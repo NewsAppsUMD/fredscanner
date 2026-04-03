@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 22:06:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 22:42:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:30 pm</title>
+      <description>400 BLOCK MAIN ST, MYERSVILLE ELEMENTARY SCHOOL Radio: 9C Units: E82, TW7</description>
+      <guid isPermaLink="false">2026-04-03 18:30:00</guid>
+      <pubDate>Fri, 03 Apr 2026 18:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:26 pm</title>
+      <description>PROSPECT BLVD / S JEFFERSON ST Radio: 9B Units: A39, TT4</description>
+      <guid isPermaLink="false">2026-04-03 18:26:00</guid>
+      <pubDate>Fri, 03 Apr 2026 18:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:15 pm</title>
+      <description>4300 BLOCK OLD NATIONAL PIKE, BOXCAR Radio: 9D Units: E121, RE74, A79, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-04-03 18:15:00</guid>
+      <pubDate>Fri, 03 Apr 2026 18:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:49 pm</title>
       <description>900 BLOCK W PATRICK ST, CHIPOTLE - GOLDEN MILE Radio: 9B Units: A18, E11</description>
@@ -288,24 +306,6 @@
       <description>3100 BLOCK IVY MEADOW DR Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-04-01 19:35:00</guid>
       <pubDate>Wed, 01 Apr 2026 19:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:35 pm</title>
-      <description>4500 BLOCK JEFFERSON PIKE Units: BR205, E121</description>
-      <guid isPermaLink="false">2026-04-01 18:35:00</guid>
-      <pubDate>Wed, 01 Apr 2026 18:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:17 pm</title>
-      <description>1100 BLOCK DUTCHMANS CREEK DR, DUNKIN DONUTS - BRUNSWICK CROSSING Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-04-01 13:17:00</guid>
-      <pubDate>Wed, 01 Apr 2026 13:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
-      <description>5600 BLOCK FAIRFIELD RD, CARROL VALLEY POLICE DEPT Units: TW6</description>
-      <guid isPermaLink="false">2026-04-01 11:27:00</guid>
-      <pubDate>Wed, 01 Apr 2026 11:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
