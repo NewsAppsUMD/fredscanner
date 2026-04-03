@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Apr 2026 12:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 12:45:48 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 8:34 am</title>
+      <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-04-03 08:34:00</guid>
+      <pubDate>Fri, 03 Apr 2026 08:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:25 am</title>
+      <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-04-03 08:25:00</guid>
+      <pubDate>Fri, 03 Apr 2026 08:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:12 am</title>
+      <description>MA CARRCO: I70EB / RT27, MA CARRCO: I70WB / RT27 Units: E153, A158</description>
+      <guid isPermaLink="false">2026-04-03 08:12:00</guid>
+      <pubDate>Fri, 03 Apr 2026 08:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:23 am</title>
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCK TO I7100 BLOCKWB RAMP Radio: 9B Units: E31, E121, R3, A38, A129</description>
@@ -288,24 +306,6 @@
       <description>I70EB / 39MM, I70EB / 39MM Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2026-03-31 15:43:00</guid>
       <pubDate>Tue, 31 Mar 2026 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:38 pm</title>
-      <description>5200 BLOCK MOUNTVILLE RD, THE RANCH Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-03-31 13:38:00</guid>
-      <pubDate>Tue, 31 Mar 2026 13:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 1:12 pm</title>
-      <description>5500 BLOCK WOODVILLE RD Radio: 9D Units: TT4, K33</description>
-      <guid isPermaLink="false">2026-03-31 13:12:00</guid>
-      <pubDate>Tue, 31 Mar 2026 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE THREATENING A STRUCTURE: 1:06 pm</title>
-      <description>5500 BLOCK WOODVILLE RD Radio: 9D Units: E153, E331, A158, BR156, BC901, SAF900, E251, CCK1</description>
-      <guid isPermaLink="false">2026-03-31 13:06:00</guid>
-      <pubDate>Tue, 31 Mar 2026 13:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
