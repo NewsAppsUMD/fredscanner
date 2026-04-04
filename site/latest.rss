@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 02:57:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 03:50:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:25 pm</title>
+      <description>100 BLOCK W ALL SAINTS ST Radio: 9B Units: A39, R3</description>
+      <guid isPermaLink="false">2026-04-03 23:25:00</guid>
+      <pubDate>Fri, 03 Apr 2026 23:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:59 pm</title>
       <description>27100 BLOCK PURDUM RD IAO, IAO Radio: 7A1 Units: R15</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK S CHURCH ST Radio: 9C Units: E72, E121, TW7</description>
       <guid isPermaLink="false">2026-04-01 21:46:00</guid>
       <pubDate>Wed, 01 Apr 2026 21:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:32 pm</title>
-      <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY - OLD FARM DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-04-01 21:32:00</guid>
-      <pubDate>Wed, 01 Apr 2026 21:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
