@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Apr 2026 02:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 03:36:55 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:59 pm</title>
+      <description>7300 BLOCK EXECUTIVE WAY, PHOENIX MECANO Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-04 22:59:00</guid>
+      <pubDate>Sat, 04 Apr 2026 22:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 7:53 pm</title>
       <description>100 BLOCK E FREDERICK ST, PIZZA HUT - WALKERSVILLE Radio: 9C Units: BR116</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-04-03 08:25:00</guid>
       <pubDate>Fri, 03 Apr 2026 08:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:12 am</title>
-      <description>MA CARRCO: I70EB / RT27, MA CARRCO: I70WB / RT27 Units: E153, A158</description>
-      <guid isPermaLink="false">2026-04-03 08:12:00</guid>
-      <pubDate>Fri, 03 Apr 2026 08:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
