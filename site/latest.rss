@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Apr 2026 23:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 00:14:34 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 7:53 pm</title>
+      <description>100 BLOCK E FREDERICK ST, PIZZA HUT - WALKERSVILLE Radio: 9C Units: BR116</description>
+      <guid isPermaLink="false">2026-04-04 19:53:00</guid>
+      <pubDate>Sat, 04 Apr 2026 19:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:11 pm</title>
       <description>100 BLOCK W FREDERICK ST, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111, TT23</description>
@@ -300,12 +306,6 @@
       <description>MA CARRCO: I70EB / RT27, MA CARRCO: I70WB / RT27 Units: E153, A158</description>
       <guid isPermaLink="false">2026-04-03 08:12:00</guid>
       <pubDate>Fri, 03 Apr 2026 08:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:23 am</title>
-      <description>100 BLOCK BLK RAMP RT15-34100 BLOCK TO I7100 BLOCKWB RAMP Radio: 9B Units: E31, E121, R3, A38, A129</description>
-      <guid isPermaLink="false">2026-04-03 06:23:00</guid>
-      <pubDate>Fri, 03 Apr 2026 06:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
