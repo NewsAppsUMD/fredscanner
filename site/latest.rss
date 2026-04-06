@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 01:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 02:15:34 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:54 pm</title>
+      <description>12600 BLOCK WEST OAK DR Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-04-05 21:54:00</guid>
+      <pubDate>Sun, 05 Apr 2026 21:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:34 pm</title>
+      <description>10600 BLOCK OLD ANNAPOLIS RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-04-05 21:34:00</guid>
+      <pubDate>Sun, 05 Apr 2026 21:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 8:45 pm</title>
       <description>6600 BLOCK DUNCAN PL Radio: 9C Units: PE311, E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W ALL SAINTS ST Radio: 9B Units: A39, R3</description>
       <guid isPermaLink="false">2026-04-03 23:25:00</guid>
       <pubDate>Fri, 03 Apr 2026 23:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:59 pm</title>
-      <description>27100 BLOCK PURDUM RD IAO, IAO Radio: 7A1 Units: R15</description>
-      <guid isPermaLink="false">2026-04-03 21:59:00</guid>
-      <pubDate>Fri, 03 Apr 2026 21:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 7:49 pm</title>
-      <description>3000 BLOCK WASATCH VIEW DR Radio: 9C Units: E231, K23, E251, TT23</description>
-      <guid isPermaLink="false">2026-04-03 19:49:00</guid>
-      <pubDate>Fri, 03 Apr 2026 19:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
