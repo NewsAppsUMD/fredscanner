@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 07:30:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 08:28:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:24 am</title>
+      <description>3400 BLOCK CAMPUS DR, URBANA HIGH SCHOOL Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-04-06 04:24:00</guid>
+      <pubDate>Mon, 06 Apr 2026 04:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 1:25 am</title>
       <description>3200 BLOCK BASFORD RD Radio: 9C Units: BR285</description>
@@ -300,12 +306,6 @@
       <description>TRAILS PARKING LOT - GAMBRILL STATE PARK, TRAILS PARKING LOT - GAMBRILL STATE PARK Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-04-04 08:39:00</guid>
       <pubDate>Sat, 04 Apr 2026 08:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:28 am</title>
-      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:1101, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2026-04-04 06:28:00</guid>
-      <pubDate>Sat, 04 Apr 2026 06:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
