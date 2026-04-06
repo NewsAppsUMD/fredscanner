@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 16:13:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 16:44:38 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 12:40 pm</title>
+      <description>22800 BLOCK WHELAN LN CORRECTIONAL FACILITY, CORRECTIONAL FACILITY Radio: 7A1 Units: A238</description>
+      <guid isPermaLink="false">2026-04-06 12:40:00</guid>
+      <pubDate>Mon, 06 Apr 2026 12:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>CO DET SOUNDING: 11:58 am</title>
       <description>6200 BLOCK POSEY ST Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>S MARYLAND AVE / W POTOMAC ST Radio: 9B Units: A196, R19</description>
       <guid isPermaLink="false">2026-04-04 15:09:00</guid>
       <pubDate>Sat, 04 Apr 2026 15:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:58 pm</title>
-      <description>600 BLOCK AMBERFIELD RD Radio: 9C Units: A18</description>
-      <guid isPermaLink="false">2026-04-04 12:58:00</guid>
-      <pubDate>Sat, 04 Apr 2026 12:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
