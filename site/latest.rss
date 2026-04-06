@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Apr 2026 19:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 19:45:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:34 pm</title>
+      <description>6400 BLOCK BOYERS MILL RD, IAO Radio: 9B Units: ALS31</description>
+      <guid isPermaLink="false">2026-04-06 15:34:00</guid>
+      <pubDate>Mon, 06 Apr 2026 15:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:24 pm</title>
+      <description>6400 BLOCK BOYERS MILL RD, IAO Radio: 9B Units: A249, E331</description>
+      <guid isPermaLink="false">2026-04-06 15:24:00</guid>
+      <pubDate>Mon, 06 Apr 2026 15:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 12:40 pm</title>
       <description>22800 BLOCK WHELAN LN CORRECTIONAL FACILITY, CORRECTIONAL FACILITY Radio: 7A1 Units: A238</description>
@@ -294,18 +306,6 @@
       <description>OPOSSUMTOWN PIKE / BLOOMFIELD RD Radio: 9I Units: E291, R2, A19, ALS29, EMS901</description>
       <guid isPermaLink="false">2026-04-04 15:44:00</guid>
       <pubDate>Sat, 04 Apr 2026 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:43 pm</title>
-      <description>5500 BLOCK FOXVILLE RD Radio: 9D Units: PE102, TW6, A307, EMS902</description>
-      <guid isPermaLink="false">2026-04-04 15:43:00</guid>
-      <pubDate>Sat, 04 Apr 2026 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:09 pm</title>
-      <description>S MARYLAND AVE / W POTOMAC ST Radio: 9B Units: A196, R19</description>
-      <guid isPermaLink="false">2026-04-04 15:09:00</guid>
-      <pubDate>Sat, 04 Apr 2026 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
