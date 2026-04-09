@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 04:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:13:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 1:05 am</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: PE23</description>
+      <guid isPermaLink="false">2026-04-09 01:05:00</guid>
+      <pubDate>Thu, 09 Apr 2026 01:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 1:03 am</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: PE311, W3</description>
+      <guid isPermaLink="false">2026-04-09 01:03:00</guid>
+      <pubDate>Thu, 09 Apr 2026 01:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 1:02 am</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: A318, A339</description>
+      <guid isPermaLink="false">2026-04-09 01:02:00</guid>
+      <pubDate>Thu, 09 Apr 2026 01:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 1:01 am</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: A37, ALS31</description>
+      <guid isPermaLink="false">2026-04-09 01:01:00</guid>
+      <pubDate>Thu, 09 Apr 2026 01:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 12:57 am</title>
+      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: E31, R3, A39, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-04-09 00:57:00</guid>
+      <pubDate>Thu, 09 Apr 2026 00:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 7:46 pm</title>
       <description>3800 BLOCK GREEN VALLEY RD Radio: 9D Units: E251, R15, A259, ALS23, EMS902</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK N MAIN ST, TROUTS MARKET Radio: 9D Units: E162, R24, A169, ALS17, BC902, EMS902</description>
       <guid isPermaLink="false">2026-04-06 18:53:00</guid>
       <pubDate>Mon, 06 Apr 2026 18:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:51 pm</title>
-      <description>100 BLOCK LAUREN CT, BACKYARD Radio: 9D Units: RID, PE311, TW11, A18, EMS901, W1</description>
-      <guid isPermaLink="false">2026-04-06 17:51:00</guid>
-      <pubDate>Mon, 06 Apr 2026 17:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:50 pm</title>
-      <description>100 BLOCK LAUREN CT, BACKYARD Units: E11, E31, PE23, E121, E501, R3, TT4, A39, ALS4, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-04-06 17:50:00</guid>
-      <pubDate>Mon, 06 Apr 2026 17:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 3:44 pm</title>
-      <description>CARROLL CREEK PARK AMPITHEATER, CARROLL CREEK PARK AMPITHEATER Radio: 9B Units: E31, R3, A39</description>
-      <guid isPermaLink="false">2026-04-06 15:44:00</guid>
-      <pubDate>Mon, 06 Apr 2026 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:34 pm</title>
-      <description>6400 BLOCK BOYERS MILL RD, IAO Radio: 9B Units: ALS31</description>
-      <guid isPermaLink="false">2026-04-06 15:34:00</guid>
-      <pubDate>Mon, 06 Apr 2026 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:24 pm</title>
-      <description>6400 BLOCK BOYERS MILL RD, IAO Radio: 9B Units: A249, E331</description>
-      <guid isPermaLink="false">2026-04-06 15:24:00</guid>
-      <pubDate>Mon, 06 Apr 2026 15:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
