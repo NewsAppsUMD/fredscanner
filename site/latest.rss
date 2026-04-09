@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 22:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 22:43:49 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 6:38 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-04-09 18:38:00</guid>
+      <pubDate>Thu, 09 Apr 2026 18:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:36 pm</title>
+      <description>BALLENGER CREEK PIKE / HURDLE HILL CT Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2026-04-09 18:36:00</guid>
+      <pubDate>Thu, 09 Apr 2026 18:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:59 pm</title>
       <description>4700 BLOCK HAZELNUT CT Radio: 9D Units: E251, E153, E231, E331, RE171, R3, A259, ALS23, BC901, BC903, SAF901, TT23</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK SHOREBIRD ST, Bldg:B, BUFFALO WILD WINGS - MARKET SQUARE Radio: 9B Units: A249, E111</description>
       <guid isPermaLink="false">2026-04-07 16:50:00</guid>
       <pubDate>Tue, 07 Apr 2026 16:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:32 pm</title>
-      <description>100 BLOCK(3100 BLOCK100 BLOCK) BLK ORCHARD MANOR DR Units: E82</description>
-      <guid isPermaLink="false">2026-04-07 15:32:00</guid>
-      <pubDate>Tue, 07 Apr 2026 15:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:29 pm</title>
-      <description>1500 BLOCK PORTER ST, FORT DETRICK - BLDG 1500 BLOCK - COMMISSARY Radio: 9D Units: E501, R2, A18, ALS2, EMS902</description>
-      <guid isPermaLink="false">2026-04-07 14:29:00</guid>
-      <pubDate>Tue, 07 Apr 2026 14:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
