@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Apr 2026 16:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 16:51:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:20 pm</title>
+      <description>4600 BLOCK WEDGEWOOD BLVD, BIMBO BAKERIES - 4600 BLOCK WEDGEWOOD BLVD Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-09 12:20:00</guid>
+      <pubDate>Thu, 09 Apr 2026 12:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:06 am</title>
       <description>600 BLOCK SOLAREX CT, ALLEGANY PEPSI BOTTLING CO - CENTERGATE Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK OSPREY WAY, ONELIFE FITNESS - MARKET SQUARE Radio: 9C Units: E291, TW11</description>
       <guid isPermaLink="false">2026-04-06 22:42:00</guid>
       <pubDate>Mon, 06 Apr 2026 22:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:16 pm</title>
-      <description>3600 BLOCK STONE BARN DR Radio: 9C Units: E251, TT23</description>
-      <guid isPermaLink="false">2026-04-06 22:16:00</guid>
-      <pubDate>Mon, 06 Apr 2026 22:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
