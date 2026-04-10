@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 15:15:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:45:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:38 am</title>
+      <description>4400 BLOCK GEORGIA PACIFIC BLVD, ALSIDE EXTERIOR BUILDING PRODUCTS Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-10 11:38:00</guid>
+      <pubDate>Fri, 10 Apr 2026 11:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:26 am</title>
+      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-04-10 11:26:00</guid>
+      <pubDate>Fri, 10 Apr 2026 11:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:55 am</title>
       <description>1200 BLOCK BASE RD Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-04-08 10:29:00</guid>
       <pubDate>Wed, 08 Apr 2026 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:23 am</title>
-      <description>7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-04-08 10:23:00</guid>
-      <pubDate>Wed, 08 Apr 2026 10:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 9:48 am</title>
-      <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-04-08 09:48:00</guid>
-      <pubDate>Wed, 08 Apr 2026 09:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
