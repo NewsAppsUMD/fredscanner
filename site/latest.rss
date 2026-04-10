@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 14:44:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:15:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:55 am</title>
+      <description>1200 BLOCK BASE RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-04-10 10:55:00</guid>
+      <pubDate>Fri, 10 Apr 2026 10:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:14 am</title>
       <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-04-08 09:48:00</guid>
       <pubDate>Wed, 08 Apr 2026 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:30 am</title>
-      <description>600 BLOCK BLANDWOOD RD Radio: 9B Units: PE23</description>
-      <guid isPermaLink="false">2026-04-08 09:30:00</guid>
-      <pubDate>Wed, 08 Apr 2026 09:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
