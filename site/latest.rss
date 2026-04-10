@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Apr 2026 15:45:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 16:15:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:53 am</title>
+      <description>1700 BLOCK MONOCACY BLVD, RUTTERS - RIVERSIDE CORPORATE PARK Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-04-10 11:53:00</guid>
+      <pubDate>Fri, 10 Apr 2026 11:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:52 am</title>
+      <description>1700 BLOCK MONOCACY BLVD, RUTTERS - RIVERSIDE CORPORATE PARK Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-04-10 11:52:00</guid>
+      <pubDate>Fri, 10 Apr 2026 11:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:47 am</title>
+      <description>1700 BLOCK MONOCACY BLVD, RUTTERS - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-04-10 11:47:00</guid>
+      <pubDate>Fri, 10 Apr 2026 11:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:38 am</title>
       <description>4400 BLOCK GEORGIA PACIFIC BLVD, ALSIDE EXTERIOR BUILDING PRODUCTS Radio: 9C Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>2700 BLOCK CAMOMILE DR W Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-04-08 14:00:00</guid>
       <pubDate>Wed, 08 Apr 2026 14:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:33 pm</title>
-      <description>4000 BLOCK BELGRAVE CIR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-04-08 12:33:00</guid>
-      <pubDate>Wed, 08 Apr 2026 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:30 am</title>
-      <description>I70EB / RT40 (FRED), I70EB / RT40 Radio: 9C Units: E121, BR35</description>
-      <guid isPermaLink="false">2026-04-08 11:30:00</guid>
-      <pubDate>Wed, 08 Apr 2026 11:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:29 am</title>
-      <description>7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-04-08 10:29:00</guid>
-      <pubDate>Wed, 08 Apr 2026 10:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
