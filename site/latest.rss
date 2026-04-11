@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 16:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:43:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A238, E231</description>
+      <guid isPermaLink="false">2026-04-11 12:40:00</guid>
+      <pubDate>Sat, 11 Apr 2026 12:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:19 pm</title>
+      <description>KEMP LN / ROCKY SPRINGS RD Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-04-11 12:19:00</guid>
+      <pubDate>Sat, 11 Apr 2026 12:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 12:14 pm</title>
+      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE Units: E61</description>
+      <guid isPermaLink="false">2026-04-11 12:14:00</guid>
+      <pubDate>Sat, 11 Apr 2026 12:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:43 am</title>
       <description>BURKITTSVILLE RD / JEFFERSON PIKE Radio: 9B Units: A197, PE52</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCK TIPPIN DR, SUPER 8 MOTEL - THURMONT Radio: 9C Units: PE102, TW6</description>
       <guid isPermaLink="false">2026-04-09 01:20:00</guid>
       <pubDate>Thu, 09 Apr 2026 01:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 1:05 am</title>
-      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: PE23</description>
-      <guid isPermaLink="false">2026-04-09 01:05:00</guid>
-      <pubDate>Thu, 09 Apr 2026 01:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 1:03 am</title>
-      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: PE311, W3</description>
-      <guid isPermaLink="false">2026-04-09 01:03:00</guid>
-      <pubDate>Thu, 09 Apr 2026 01:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 1:02 am</title>
-      <description>MONOCACY BLVD / S EAST ST Radio: 9D Units: A318, A339</description>
-      <guid isPermaLink="false">2026-04-09 01:02:00</guid>
-      <pubDate>Thu, 09 Apr 2026 01:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
