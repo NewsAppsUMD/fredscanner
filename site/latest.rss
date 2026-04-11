@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Apr 2026 06:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 07:20:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:44 am</title>
+      <description>RT144 / BARTHOLOWS RD, RT144 / BARTHOLOWS RD Radio: 9B Units: BC901</description>
+      <guid isPermaLink="false">2026-04-11 02:44:00</guid>
+      <pubDate>Sat, 11 Apr 2026 02:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:12 am</title>
       <description>6800 BLOCK WOODRIDGE RD Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK GREEN VALLEY RD Radio: 9D Units: E251, R15, A259, ALS23, EMS902</description>
       <guid isPermaLink="false">2026-04-08 19:46:00</guid>
       <pubDate>Wed, 08 Apr 2026 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:28 pm</title>
-      <description>3400 BLOCK WESTPORT DR Radio: 9C Units: E201, T5, PE52</description>
-      <guid isPermaLink="false">2026-04-08 18:28:00</guid>
-      <pubDate>Wed, 08 Apr 2026 18:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
