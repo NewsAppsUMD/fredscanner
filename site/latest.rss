@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 18:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 18:50:47 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:34 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2026-04-13 14:34:00</guid>
+      <pubDate>Mon, 13 Apr 2026 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:34 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
+      <guid isPermaLink="false">2026-04-13 14:34:00</guid>
+      <pubDate>Mon, 13 Apr 2026 14:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:20 pm</title>
       <description>CRESTWOOD BLVD / FELLINGWOOD DR, BETWEEN FELLINGWOOD DR AND FARMBROOK DR Radio: 9B Units: A319, PE311</description>
@@ -294,18 +306,6 @@
       <description>I70WB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9B Units: E31, E121, R3, A39, A129</description>
       <guid isPermaLink="false">2026-04-12 03:39:00</guid>
       <pubDate>Sun, 12 Apr 2026 03:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:14 pm</title>
-      <description>I70WB / 38MM Radio: PS1 Units: A89, ALS8, E82</description>
-      <guid isPermaLink="false">2026-04-11 23:14:00</guid>
-      <pubDate>Sat, 11 Apr 2026 23:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 9:55 pm</title>
-      <description>6000 BLOCK DICKERSON RD Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2026-04-11 21:55:00</guid>
-      <pubDate>Sat, 11 Apr 2026 21:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
