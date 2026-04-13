@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Apr 2026 11:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 12:18:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:01 am</title>
+      <description>LANDER RD / SUNRISE DR Radio: 9C Units: E281</description>
+      <guid isPermaLink="false">2026-04-13 08:01:00</guid>
+      <pubDate>Mon, 13 Apr 2026 08:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 7:45 am</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:4, BIKE DOCTOR - EVERGREEN SQUARE Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-04-13 07:45:00</guid>
+      <pubDate>Mon, 13 Apr 2026 07:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
       <description>SOLAREX CT / BALLENGER CREEK PIKE Radio: 9B Units: A318, PE311</description>
@@ -294,18 +306,6 @@
       <description>16300 BLOCK JOHN WALSH WAY, MSMU - PALMIERI ACTIVITIES CENTER Radio: 9C Units: E61, TW6, A68</description>
       <guid isPermaLink="false">2026-04-11 18:23:00</guid>
       <pubDate>Sat, 11 Apr 2026 18:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:11 pm</title>
-      <description>6100 BLOCK MURRAY TER Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-04-11 17:11:00</guid>
-      <pubDate>Sat, 11 Apr 2026 17:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:46 pm</title>
-      <description>11200 BLOCK LOOP RD, STATION FC016 - SOUTH MOUNTAIN FIRE/AMBULANCE CO Units: BR106</description>
-      <guid isPermaLink="false">2026-04-11 16:46:00</guid>
-      <pubDate>Sat, 11 Apr 2026 16:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
