@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 01:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 02:15:31 +0000</lastBuildDate>
+    <item>
+      <title>POLICE INCIDENT - EMS STANDBY: 10:02 pm</title>
+      <description>3100 BLOCK BLACK ROCK RD Radio: 9D Units: A89, ALS8, E82, E212, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-04-13 22:02:00</guid>
+      <pubDate>Mon, 13 Apr 2026 22:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:29 pm</title>
+      <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2026-04-13 21:29:00</guid>
+      <pubDate>Mon, 13 Apr 2026 21:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:28 pm</title>
+      <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2026-04-13 21:28:00</guid>
+      <pubDate>Mon, 13 Apr 2026 21:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 9:23 pm</title>
+      <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: BR85, E82</description>
+      <guid isPermaLink="false">2026-04-13 21:23:00</guid>
+      <pubDate>Mon, 13 Apr 2026 21:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 8:35 pm</title>
       <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Radio: 9C Units: E153</description>
@@ -282,30 +306,6 @@
       <description>15300 BLOCK SABILLASVILLE RD Units: BR106</description>
       <guid isPermaLink="false">2026-04-12 12:41:00</guid>
       <pubDate>Sun, 12 Apr 2026 12:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:40 pm</title>
-      <description>4600 BLOCK OLD NATIONAL PIKE Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-04-12 12:40:00</guid>
-      <pubDate>Sun, 12 Apr 2026 12:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:36 pm</title>
-      <description>15300 BLOCK SABILLASVILLE RD Units: EK224, E133</description>
-      <guid isPermaLink="false">2026-04-12 12:36:00</guid>
-      <pubDate>Sun, 12 Apr 2026 12:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:34 pm</title>
-      <description>100 BLOCK BLK RAMP RT4100 BLOCKEB TO RT15SB RAMP Radio: 9D Units: E11, R3, A18, ALS4, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-04-12 12:34:00</guid>
-      <pubDate>Sun, 12 Apr 2026 12:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 12:04 pm</title>
-      <description>12800 BLOCK CATOCTIN FURNACE RD Radio: 9C Units: E291, E133, E111, TW6, K10, A229, BR106, E221, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-04-12 12:04:00</guid>
-      <pubDate>Sun, 12 Apr 2026 12:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
