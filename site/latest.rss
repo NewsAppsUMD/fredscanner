@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 18:49:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 19:28:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:13 pm</title>
+      <description>300 BLOCK N MARKET ST, GALE HOUSE Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-04-14 15:13:00</guid>
+      <pubDate>Tue, 14 Apr 2026 15:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 3:08 pm</title>
+      <description>100 BLOCK WATER ST, THE SUDS SHOP Units: E61</description>
+      <guid isPermaLink="false">2026-04-14 15:08:00</guid>
+      <pubDate>Tue, 14 Apr 2026 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 3:02 pm</title>
+      <description>100 BLOCK WATER ST, THE SUDS SHOP Units: E101, E133, TW6, E221</description>
+      <guid isPermaLink="false">2026-04-14 15:02:00</guid>
+      <pubDate>Tue, 14 Apr 2026 15:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:31 pm</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231, A238</description>
@@ -288,24 +306,6 @@
       <description>5700 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:4, BIKE DOCTOR - EVERGREEN SQUARE Radio: 9C Units: E31, PE23, R3</description>
       <guid isPermaLink="false">2026-04-13 07:45:00</guid>
       <pubDate>Mon, 13 Apr 2026 07:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
-      <description>SOLAREX CT / BALLENGER CREEK PIKE Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2026-04-13 07:08:00</guid>
-      <pubDate>Mon, 13 Apr 2026 07:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:38 am</title>
-      <description>5600 BLOCK URBANA PIKE, PARTY CITY - KEY PLAZA Radio: 9B Units: E31</description>
-      <guid isPermaLink="false">2026-04-13 06:38:00</guid>
-      <pubDate>Mon, 13 Apr 2026 06:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:38 pm</title>
-      <description>1300 BLOCK HUNTLEY CIR Radio: 9C Units: E61, ACE21, TW6, HM33, HMSU33, A68, ALS30, ACE232, BC902, SAF900</description>
-      <guid isPermaLink="false">2026-04-12 21:38:00</guid>
-      <pubDate>Sun, 12 Apr 2026 21:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
