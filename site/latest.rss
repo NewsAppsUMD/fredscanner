@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 12:49:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:31:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:27 am</title>
+      <description>3300 BLOCK WORTHINGTON BLVD, URBANA DANCE STUDIO Units: A238, TT23</description>
+      <guid isPermaLink="false">2026-04-14 09:27:00</guid>
+      <pubDate>Tue, 14 Apr 2026 09:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:55 am</title>
       <description>100 BLOCK S CARROLL ST, DELAPLAINE ARTS CENTER Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>20000 BLOCK COOL HOLLOW RD Units: A89</description>
       <guid isPermaLink="false">2026-04-12 12:55:00</guid>
       <pubDate>Sun, 12 Apr 2026 12:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:49 pm</title>
-      <description>20000 BLOCK COOL HOLLOW RD Units: E82, K7</description>
-      <guid isPermaLink="false">2026-04-12 12:49:00</guid>
-      <pubDate>Sun, 12 Apr 2026 12:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
