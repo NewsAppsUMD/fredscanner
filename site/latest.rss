@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Apr 2026 23:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 23:43:50 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 7:23 pm</title>
+      <description>6100 BLOCK DICKERSON RD, Bldg:F Radio: 9D Units: E281, R14, A149, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-04-14 19:23:00</guid>
+      <pubDate>Tue, 14 Apr 2026 19:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:53 pm</title>
       <description>ROSEMONT AVE / TUSCANNEY DR Radio: 9D Units: A19, ALS2, E11, EMS902</description>
@@ -300,12 +306,6 @@
       <description>CRESTWOOD BLVD / FELLINGWOOD DR, BETWEEN FELLINGWOOD DR AND FARMBROOK DR Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-04-13 13:20:00</guid>
       <pubDate>Mon, 13 Apr 2026 13:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 1:10 pm</title>
-      <description>10300 BLOCK KEYSVILLE RD Radio: 9C Units: E61, EK134, BR65</description>
-      <guid isPermaLink="false">2026-04-13 13:10:00</guid>
-      <pubDate>Mon, 13 Apr 2026 13:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
