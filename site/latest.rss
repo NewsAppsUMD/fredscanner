@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 12:48:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:30:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 8:49 am</title>
+      <description>2100 BLOCK BRISTOL DR Radio: 9D Units: E11, R2, A18, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-04-15 08:49:00</guid>
+      <pubDate>Wed, 15 Apr 2026 08:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:33 am</title>
       <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER SL Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: BR75</description>
       <guid isPermaLink="false">2026-04-13 21:28:00</guid>
       <pubDate>Mon, 13 Apr 2026 21:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 9:23 pm</title>
-      <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: BR85, E82</description>
-      <guid isPermaLink="false">2026-04-13 21:23:00</guid>
-      <pubDate>Mon, 13 Apr 2026 21:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
