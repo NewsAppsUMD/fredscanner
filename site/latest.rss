@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 11:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 11:46:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:21 am</title>
+      <description>IJAMSVILLE RD / OLD NATIONAL PIKE Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2026-04-15 07:21:00</guid>
+      <pubDate>Wed, 15 Apr 2026 07:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 5:11 am</title>
       <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: BT19</description>
@@ -300,12 +306,6 @@
       <description>I70EB / BARTHOLOWS RD, I70EB / BARTHOLOWS RD Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-04-13 20:35:00</guid>
       <pubDate>Mon, 13 Apr 2026 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 6:39 pm</title>
-      <description>5900 BLOCK ELMER DERR RD Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-04-13 18:39:00</guid>
-      <pubDate>Mon, 13 Apr 2026 18:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
