@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Apr 2026 08:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 09:30:01 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 5:11 am</title>
+      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: BT19</description>
+      <guid isPermaLink="false">2026-04-15 05:11:00</guid>
+      <pubDate>Wed, 15 Apr 2026 05:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 5:06 am</title>
+      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: BR285</description>
+      <guid isPermaLink="false">2026-04-15 05:06:00</guid>
+      <pubDate>Wed, 15 Apr 2026 05:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 5:04 am</title>
+      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: EK204, R19, T5, TR29, BT28, A196, A197, BC903, SAF901, EMS901, PE52</description>
+      <guid isPermaLink="false">2026-04-15 05:04:00</guid>
+      <pubDate>Wed, 15 Apr 2026 05:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:25 am</title>
       <description>500 BLOCK BRODBECK DR, HOOD COLLEGE - ALUMNAE HALL Units: PE23, TW1</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK ELMER DERR RD Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-04-13 18:39:00</guid>
       <pubDate>Mon, 13 Apr 2026 18:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:24 pm</title>
-      <description>6700 BLOCK PUTMAN RD Radio: 9B Units: E221</description>
-      <guid isPermaLink="false">2026-04-13 17:24:00</guid>
-      <pubDate>Mon, 13 Apr 2026 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:19 pm</title>
-      <description>6700 BLOCK PUTMAN RD Radio: 9B Units: A229, PE102, E221</description>
-      <guid isPermaLink="false">2026-04-13 17:19:00</guid>
-      <pubDate>Mon, 13 Apr 2026 17:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:24 pm</title>
-      <description>MOUNT EPHRAIM RD / STEWART HILL RD Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-04-13 16:24:00</guid>
-      <pubDate>Mon, 13 Apr 2026 16:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
