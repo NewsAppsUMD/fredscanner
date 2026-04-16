@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 12:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:50:59 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:17 am</title>
+      <description>S JEFFERSON ST / W SOUTH ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-04-16 08:17:00</guid>
+      <pubDate>Thu, 16 Apr 2026 08:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:16 am</title>
+      <description>16100 BLOCK KELBAUGH RD Radio: 9B Units: ALS30, EMS902</description>
+      <guid isPermaLink="false">2026-04-16 08:16:00</guid>
+      <pubDate>Thu, 16 Apr 2026 08:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
       <description>16100 BLOCK KELBAUGH RD Radio: 9B Units: A68, E61</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK N MARKET ST, GALE HOUSE Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-04-14 15:13:00</guid>
       <pubDate>Tue, 14 Apr 2026 15:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:08 pm</title>
-      <description>100 BLOCK WATER ST, THE SUDS SHOP Units: E61</description>
-      <guid isPermaLink="false">2026-04-14 15:08:00</guid>
-      <pubDate>Tue, 14 Apr 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:02 pm</title>
-      <description>100 BLOCK WATER ST, THE SUDS SHOP Units: E101, E133, TW6, E221</description>
-      <guid isPermaLink="false">2026-04-14 15:02:00</guid>
-      <pubDate>Tue, 14 Apr 2026 15:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
