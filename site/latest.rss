@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 16:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:29:25 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 1:12 pm</title>
+      <description>1400 BLOCK MOBLEY CT Radio: 9C Units: E23, E31, TT4</description>
+      <guid isPermaLink="false">2026-04-16 13:12:00</guid>
+      <pubDate>Thu, 16 Apr 2026 13:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:39 pm</title>
       <description>I70EB / MOUNT PHILLIP RD, I70EB / MOUNT PHILLIP RD Radio: 9C Units: E121, E31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Units: A39, ALS4, E31, EMS901</description>
       <guid isPermaLink="false">2026-04-14 21:15:00</guid>
       <pubDate>Tue, 14 Apr 2026 21:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:32 pm</title>
-      <description>HARNEY RD / BOLLINGER SCHOOL RD Radio: 9I Units: W6</description>
-      <guid isPermaLink="false">2026-04-14 20:32:00</guid>
-      <pubDate>Tue, 14 Apr 2026 20:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
