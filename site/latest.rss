@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Apr 2026 17:57:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 18:30:35 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:26 pm</title>
+      <description>13500 BLOCK COPPERMINE RD Radio: 9D Units: CCBR105, CCBR145, BR96</description>
+      <guid isPermaLink="false">2026-04-16 14:26:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:23 pm</title>
+      <description>13500 BLOCK COPPERMINE RD Radio: 9D Units: E331, R3, BR175, K22, K10</description>
+      <guid isPermaLink="false">2026-04-16 14:23:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:19 pm</title>
+      <description>600 BLOCK NINTH AVE, BRUNSWICK MEDICAL CENTER Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-04-16 14:19:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:18 pm</title>
+      <description>COPPERMINE RD / KEYS CHAPEL RD, IN AREA OF-- SAWMILL ON FIRE Radio: 9D Units: TTF, E153, K33, EK134, W17, CCK1, CCK14</description>
+      <guid isPermaLink="false">2026-04-16 14:18:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:15 pm</title>
+      <description>COPPERMINE RD / KEYS CHAPEL RD, IN AREA OF-- SAWMILL ON FIRE Radio: 9D Units: K9</description>
+      <guid isPermaLink="false">2026-04-16 14:15:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 2:11 pm</title>
+      <description>COPPERMINE RD / KEYS CHAPEL RD, IN AREA OF-- SAWMILL ON FIRE Units: E172, E91, E111, R24, Q11, TW1, K17, A169, BC901, BC903, SAF900</description>
+      <guid isPermaLink="false">2026-04-16 14:11:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>POLICE INCIDENT - EMS STANDBY: 2:02 pm</title>
+      <description>3400 BLOCK ADGATE DR Radio: 9D Units: A259, ALS23, E153, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-04-16 14:02:00</guid>
+      <pubDate>Thu, 16 Apr 2026 14:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:26 pm</title>
       <description>300 BLOCK PROSPECT BLVD, Bldg:A, CASCADES OF FREDERICK Radio: 9C Units: E31, TT4</description>
@@ -264,48 +306,6 @@
       <description>300 BLOCK S SETON AVE, Apt/Unit:OFC LEASE, SETON VILLAGE APARTMENTS Radio: 9C Units: TW6</description>
       <guid isPermaLink="false">2026-04-15 09:44:00</guid>
       <pubDate>Wed, 15 Apr 2026 09:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 8:49 am</title>
-      <description>2100 BLOCK BRISTOL DR Radio: 9D Units: E11, R2, A18, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-04-15 08:49:00</guid>
-      <pubDate>Wed, 15 Apr 2026 08:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:33 am</title>
-      <description>5200 BLOCK PRESIDENTS CT, JCR WESTVIEW CORNER SL Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-04-15 08:33:00</guid>
-      <pubDate>Wed, 15 Apr 2026 08:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:21 am</title>
-      <description>IJAMSVILLE RD / OLD NATIONAL PIKE Radio: 9B Units: A339, E331</description>
-      <guid isPermaLink="false">2026-04-15 07:21:00</guid>
-      <pubDate>Wed, 15 Apr 2026 07:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 5:11 am</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: BT19</description>
-      <guid isPermaLink="false">2026-04-15 05:11:00</guid>
-      <pubDate>Wed, 15 Apr 2026 05:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 5:06 am</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: BR285</description>
-      <guid isPermaLink="false">2026-04-15 05:06:00</guid>
-      <pubDate>Wed, 15 Apr 2026 05:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 5:04 am</title>
-      <description>100 BLOCK S MAPLE AVE, BRUNSWICK CAMPGROUND BOAT RAMP Units: EK204, R19, T5, TR29, BT28, A196, A197, BC903, SAF901, EMS901, PE52</description>
-      <guid isPermaLink="false">2026-04-15 05:04:00</guid>
-      <pubDate>Wed, 15 Apr 2026 05:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:25 am</title>
-      <description>500 BLOCK BRODBECK DR, HOOD COLLEGE - ALUMNAE HALL Units: PE23, TW1</description>
-      <guid isPermaLink="false">2026-04-15 01:25:00</guid>
-      <pubDate>Wed, 15 Apr 2026 01:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
