@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 02:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 03:39:47 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:53 pm</title>
+      <description>9200 BLOCK ANGELICA LN Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-04-16 22:53:00</guid>
+      <pubDate>Thu, 16 Apr 2026 22:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:05 pm</title>
       <description>8600 BLOCK SATINWOOD DR Units: E31, TT23</description>
@@ -300,12 +306,6 @@
       <description>MOUNT PHILLIP RD / MOUNT ZION RD Units: E121</description>
       <guid isPermaLink="false">2026-04-16 03:18:00</guid>
       <pubDate>Thu, 16 Apr 2026 03:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:06 am</title>
-      <description>100 BLOCK SUNHIGH DR Units: PE102</description>
-      <guid isPermaLink="false">2026-04-16 01:06:00</guid>
-      <pubDate>Thu, 16 Apr 2026 01:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
