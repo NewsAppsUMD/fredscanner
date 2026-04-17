@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 01:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 02:15:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:05 pm</title>
+      <description>8600 BLOCK SATINWOOD DR Units: E31, TT23</description>
+      <guid isPermaLink="false">2026-04-16 22:05:00</guid>
+      <pubDate>Thu, 16 Apr 2026 22:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:51 pm</title>
+      <description>1500 BLOCK LAUREL WOOD WAY Units: R3</description>
+      <guid isPermaLink="false">2026-04-16 21:51:00</guid>
+      <pubDate>Thu, 16 Apr 2026 21:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:46 pm</title>
+      <description>1500 BLOCK LAUREL WOOD WAY Units: E111, E291, PE23, E501, E31, R24, Q11, TW1, A249, ALS29, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-04-16 21:46:00</guid>
+      <pubDate>Thu, 16 Apr 2026 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 9:45 pm</title>
+      <description>500 BLOCK BRIDLEWREATH Units: R15</description>
+      <guid isPermaLink="false">2026-04-16 21:45:00</guid>
+      <pubDate>Thu, 16 Apr 2026 21:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 8:17 pm</title>
       <description>40800 BLOCK MEADOW VISTA PL Radio: 6B Units: BR285</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK SUNHIGH DR Units: PE102</description>
       <guid isPermaLink="false">2026-04-16 01:06:00</guid>
       <pubDate>Thu, 16 Apr 2026 01:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:37 pm</title>
-      <description>100 BLOCK BLK 15S BTWN 7TH ST BRDGE &amp; ROSEMONT AVE BRDGE HWY Radio: 9B Units: E11, E31, R2, A29, A18</description>
-      <guid isPermaLink="false">2026-04-15 23:37:00</guid>
-      <pubDate>Wed, 15 Apr 2026 23:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:35 pm</title>
-      <description>1100 BLOCK KEY PKWY, WINDSOR GARDEN APTS - 1100 BLOCK KEY PKWY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-04-15 22:35:00</guid>
-      <pubDate>Wed, 15 Apr 2026 22:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:55 pm</title>
-      <description>NEW DESIGN RD / FOXCROFT DR Radio: 9B Units: A37, PE311</description>
-      <guid isPermaLink="false">2026-04-15 21:55:00</guid>
-      <pubDate>Wed, 15 Apr 2026 21:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:50 pm</title>
-      <description>14500 BLOCK BLACK ANKLE RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2026-04-15 20:50:00</guid>
-      <pubDate>Wed, 15 Apr 2026 20:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
