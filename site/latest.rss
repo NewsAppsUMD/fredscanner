@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 21:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 22:10:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:47 pm</title>
+      <description>URBANA PIKE / TABLER RD Radio: 9B Units: E231, ALS31</description>
+      <guid isPermaLink="false">2026-04-17 17:47:00</guid>
+      <pubDate>Fri, 17 Apr 2026 17:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:46 pm</title>
+      <description>URBANA PIKE / TABLER RD Radio: 9B Units: A39, ALS23, EMS901</description>
+      <guid isPermaLink="false">2026-04-17 17:46:00</guid>
+      <pubDate>Fri, 17 Apr 2026 17:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:41 pm</title>
       <description>TENNISON DR / ENGLISH MUFFIN WAY Radio: 9B Units: A319, PE311</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, STATION 11 Units: TW6</description>
       <guid isPermaLink="false">2026-04-16 14:42:00</guid>
       <pubDate>Thu, 16 Apr 2026 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:41 pm</title>
-      <description>300 BLOCK BAUGHMANS LN, STATION 1 Units: RE74</description>
-      <guid isPermaLink="false">2026-04-16 14:41:00</guid>
-      <pubDate>Thu, 16 Apr 2026 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:32 pm</title>
-      <description>13500 BLOCK COPPERMINE RD Radio: 9D Units: BR116, BR16</description>
-      <guid isPermaLink="false">2026-04-16 14:32:00</guid>
-      <pubDate>Thu, 16 Apr 2026 14:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
