@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 23:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 23:43:28 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:32 pm</title>
+      <description>500 BLOCK W MAIN ST Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-04-17 19:32:00</guid>
+      <pubDate>Fri, 17 Apr 2026 19:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:30 pm</title>
+      <description>500 BLOCK W MAIN ST Radio: 9B Units: BR65</description>
+      <guid isPermaLink="false">2026-04-17 19:30:00</guid>
+      <pubDate>Fri, 17 Apr 2026 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 6:21 pm</title>
       <description>URBANA PIKE / TABLER RD Radio: 9B Units: A37</description>
@@ -294,18 +306,6 @@
       <description>9400 BLOCK CARRIAGE HILL ST Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-04-16 14:53:00</guid>
       <pubDate>Thu, 16 Apr 2026 14:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:50 pm</title>
-      <description>13500 BLOCK COPPERMINE RD Radio: 9D Units: CAN1</description>
-      <guid isPermaLink="false">2026-04-16 14:50:00</guid>
-      <pubDate>Thu, 16 Apr 2026 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:49 pm</title>
-      <description>13500 BLOCK COPPERMINE RD Radio: 9D Units: E291, PE23</description>
-      <guid isPermaLink="false">2026-04-16 14:49:00</guid>
-      <pubDate>Thu, 16 Apr 2026 14:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
