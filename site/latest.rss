@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 08:45:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 09:14:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:58 am</title>
+      <description>100 BLOCK WAVERLEY DR, Bldg:DD, Apt/Unit:303, ELMWOOD TERRACE APTS - BLDG DD Units: E11, TW1</description>
+      <guid isPermaLink="false">2026-04-18 04:58:00</guid>
+      <pubDate>Sat, 18 Apr 2026 04:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 10:26 pm</title>
       <description>100 BLOCK S COURT ST, Apt/Unit:FIRST Radio: 9C Units: TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N CHURCH ST, STATION 30 Units: A37</description>
       <guid isPermaLink="false">2026-04-16 18:33:00</guid>
       <pubDate>Thu, 16 Apr 2026 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:24 pm</title>
-      <description>6600 BLOCK FOXVILLE RD, PHASE 2 Units: E133, TW6, A229, EMS902</description>
-      <guid isPermaLink="false">2026-04-16 18:24:00</guid>
-      <pubDate>Thu, 16 Apr 2026 18:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
