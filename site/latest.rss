@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 10:43:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 11:12:00 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:00 am</title>
+      <description>1600 BLOCK KNOXLYN RD Units: E61</description>
+      <guid isPermaLink="false">2026-04-18 07:00:00</guid>
+      <pubDate>Sat, 18 Apr 2026 07:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:56 am</title>
+      <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-04-18 06:56:00</guid>
+      <pubDate>Sat, 18 Apr 2026 06:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:58 am</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:DD, Apt/Unit:303, ELMWOOD TERRACE APTS - BLDG DD Units: E11, TW1</description>
@@ -294,18 +306,6 @@
       <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E251</description>
       <guid isPermaLink="false">2026-04-16 19:30:00</guid>
       <pubDate>Thu, 16 Apr 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:47 pm</title>
-      <description>LIBERTY RD / MONOCACY RIVER Units: A29, E111</description>
-      <guid isPermaLink="false">2026-04-16 18:47:00</guid>
-      <pubDate>Thu, 16 Apr 2026 18:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:33 pm</title>
-      <description>100 BLOCK N CHURCH ST, STATION 30 Units: A37</description>
-      <guid isPermaLink="false">2026-04-16 18:33:00</guid>
-      <pubDate>Thu, 16 Apr 2026 18:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
