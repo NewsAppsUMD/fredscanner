@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 13:25:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:50:11 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:40 am</title>
+      <description>700 BLOCK UNION ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-04-18 09:40:00</guid>
+      <pubDate>Sat, 18 Apr 2026 09:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:51 am</title>
       <description>400 BLOCK HARLAN WAY, Bldg:A, Apt/Unit:403/405, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK LAUREL WOOD WAY Units: E111, E291, PE23, E501, E31, R24, Q11, TW1, A249, ALS29, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-04-16 21:46:00</guid>
       <pubDate>Thu, 16 Apr 2026 21:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 9:45 pm</title>
-      <description>500 BLOCK BRIDLEWREATH Units: R15</description>
-      <guid isPermaLink="false">2026-04-16 21:45:00</guid>
-      <pubDate>Thu, 16 Apr 2026 21:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
