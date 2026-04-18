@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Apr 2026 23:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:17:02 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:00 pm</title>
+      <description>300 BLOCK E SECOND ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-04-17 20:00:00</guid>
+      <pubDate>Fri, 17 Apr 2026 20:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 7:32 pm</title>
       <description>500 BLOCK W MAIN ST Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: A37</description>
       <guid isPermaLink="false">2026-04-16 15:00:00</guid>
       <pubDate>Thu, 16 Apr 2026 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:53 pm</title>
-      <description>9400 BLOCK CARRIAGE HILL ST Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-04-16 14:53:00</guid>
-      <pubDate>Thu, 16 Apr 2026 14:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
