@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Apr 2026 18:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 19:14:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:47 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-04-18 14:47:00</guid>
+      <pubDate>Sat, 18 Apr 2026 14:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:34 pm</title>
       <description>13200 BLOCK GLISSANS MILL RD Radio: 9C Units: BR176</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK INTERCOASTAL DR, COSTCO DEPOT Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-04-17 12:24:00</guid>
       <pubDate>Fri, 17 Apr 2026 12:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:56 am</title>
-      <description>9200 BLOCK ANGELICA LN Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-04-17 11:56:00</guid>
-      <pubDate>Fri, 17 Apr 2026 11:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
