@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 19:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 19:43:13 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 3:35 pm</title>
+      <description>16100 BLOCK SAINT ANTHONY RD Radio: 9C Units: E61, PE102, TW6, K10</description>
+      <guid isPermaLink="false">2026-04-19 15:35:00</guid>
+      <pubDate>Sun, 19 Apr 2026 15:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:07 pm</title>
       <description>300 BLOCK PROSPECT BLVD, Bldg:A, CASCADES OF FREDERICK Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK E SECOND ST Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2026-04-17 20:00:00</guid>
       <pubDate>Fri, 17 Apr 2026 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:32 pm</title>
-      <description>500 BLOCK W MAIN ST Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-04-17 19:32:00</guid>
-      <pubDate>Fri, 17 Apr 2026 19:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
