@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 20:08:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 20:43:29 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 4:24 pm</title>
+      <description>4400 BLOCK CHESTNUT GROVE RD Units: RE74</description>
+      <guid isPermaLink="false">2026-04-19 16:24:00</guid>
+      <pubDate>Sun, 19 Apr 2026 16:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:15 pm</title>
+      <description>I70WB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2026-04-19 16:15:00</guid>
+      <pubDate>Sun, 19 Apr 2026 16:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:14 pm</title>
+      <description>500 BLOCK LOGAN ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-04-19 16:14:00</guid>
+      <pubDate>Sun, 19 Apr 2026 16:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 3:35 pm</title>
       <description>16100 BLOCK SAINT ANTHONY RD Radio: 9C Units: E61, PE102, TW6, K10</description>
@@ -288,24 +306,6 @@
       <description>3600 BLOCK PROMISE CT Radio: 9D Units: E281, R20, A209, BC903, EMS901, PE52</description>
       <guid isPermaLink="false">2026-04-17 22:19:00</guid>
       <pubDate>Fri, 17 Apr 2026 22:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:22 pm</title>
-      <description>3600 BLOCK SINGLETON TER Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-04-17 21:22:00</guid>
-      <pubDate>Fri, 17 Apr 2026 21:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:07 pm</title>
-      <description>6400 BLOCK MERCANTILE DR E, Apt/Unit:108, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-04-17 21:07:00</guid>
-      <pubDate>Fri, 17 Apr 2026 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:00 pm</title>
-      <description>300 BLOCK E SECOND ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-04-17 20:00:00</guid>
-      <pubDate>Fri, 17 Apr 2026 20:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
