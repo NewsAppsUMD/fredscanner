@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 23:09:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:43:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:26 pm</title>
+      <description>6500 BLOCK S CLIFTON RD Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-04-19 19:26:00</guid>
+      <pubDate>Sun, 19 Apr 2026 19:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:57 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: E501, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, Bldg:DD, Apt/Unit:303, ELMWOOD TERRACE APTS - BLDG DD Units: E11, TW1</description>
       <guid isPermaLink="false">2026-04-18 04:58:00</guid>
       <pubDate>Sat, 18 Apr 2026 04:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:26 pm</title>
-      <description>100 BLOCK S COURT ST, Apt/Unit:FIRST Radio: 9C Units: TT4</description>
-      <guid isPermaLink="false">2026-04-17 22:26:00</guid>
-      <pubDate>Fri, 17 Apr 2026 22:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
