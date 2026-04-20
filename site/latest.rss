@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Apr 2026 22:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 22:44:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:39 pm</title>
+      <description>I270NB / 26MM, I270NB / RT80 Radio: 9B Units: E231, R3, A238, E251, TT23</description>
+      <guid isPermaLink="false">2026-04-20 18:39:00</guid>
+      <pubDate>Mon, 20 Apr 2026 18:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 5:48 pm</title>
       <description>100 BLOCK FEATHERSTONE PL Radio: 9C Units: E11, E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK HARLAN WAY, Bldg:A, Apt/Unit:403/405, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TT4</description>
       <guid isPermaLink="false">2026-04-18 08:51:00</guid>
       <pubDate>Sat, 18 Apr 2026 08:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:40 am</title>
-      <description>200 BLOCK BISHOPS GLEN DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-04-18 08:40:00</guid>
-      <pubDate>Sat, 18 Apr 2026 08:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
