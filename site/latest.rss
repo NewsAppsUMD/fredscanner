@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Apr 2026 23:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 00:17:58 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:51 pm</title>
+      <description>4700 BLOCK BLACK EYED SUSAN MEWS Radio: 9D Units: A259, ALS23, EMS902, E251</description>
+      <guid isPermaLink="false">2026-04-19 19:51:00</guid>
+      <pubDate>Sun, 19 Apr 2026 19:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:26 pm</title>
       <description>6500 BLOCK S CLIFTON RD Radio: 9B Units: A129, E121</description>
@@ -300,12 +306,6 @@
       <description>6000 BLOCK DOUGLAS AVE Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-04-18 06:56:00</guid>
       <pubDate>Sat, 18 Apr 2026 06:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:58 am</title>
-      <description>100 BLOCK WAVERLEY DR, Bldg:DD, Apt/Unit:303, ELMWOOD TERRACE APTS - BLDG DD Units: E11, TW1</description>
-      <guid isPermaLink="false">2026-04-18 04:58:00</guid>
-      <pubDate>Sat, 18 Apr 2026 04:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
