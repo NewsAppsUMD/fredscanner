@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 14:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 15:26:36 +0000</lastBuildDate>
+    <item>
+      <title>DUMPSTER FIRE: 10:36 am</title>
+      <description>5200 BLOCK INTERCOASTAL DR, COSTCO DEPOT Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-04-21 10:36:00</guid>
+      <pubDate>Tue, 21 Apr 2026 10:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 10:34 am</title>
+      <description>5200 BLOCK INTERCOASTAL DR, COSTCO DEPOT Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-04-21 10:34:00</guid>
+      <pubDate>Tue, 21 Apr 2026 10:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHIMNEY FIRE: 10:19 am</title>
       <description>200 BLOCK LOOKOUT AVE Units: E153, E251</description>
@@ -294,18 +306,6 @@
       <description>5200 BLOCK INTERCOASTAL DR, COSTCO DEPOT Radio: 9D Units: E153, R15, A159, ALS33, BC901, EMS901</description>
       <guid isPermaLink="false">2026-04-19 04:29:00</guid>
       <pubDate>Sun, 19 Apr 2026 04:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 2:17 am</title>
-      <description>700 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-04-19 02:17:00</guid>
-      <pubDate>Sun, 19 Apr 2026 02:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:25 am</title>
-      <description>700 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-04-19 01:25:00</guid>
-      <pubDate>Sun, 19 Apr 2026 01:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
