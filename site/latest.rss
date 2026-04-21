@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 09:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 10:28:02 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:40 am</title>
+      <description>7100 BLOCK JOHN PICKETT RD Units: K17</description>
+      <guid isPermaLink="false">2026-04-21 05:40:00</guid>
+      <pubDate>Tue, 21 Apr 2026 05:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:40 am</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E31</description>
+      <guid isPermaLink="false">2026-04-21 05:40:00</guid>
+      <pubDate>Tue, 21 Apr 2026 05:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:31 am</title>
+      <description>7100 BLOCK JOHN PICKETT RD Units: E153</description>
+      <guid isPermaLink="false">2026-04-21 05:31:00</guid>
+      <pubDate>Tue, 21 Apr 2026 05:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:26 am</title>
       <description>7100 BLOCK JOHN PICKETT RD Units: R15</description>
@@ -288,24 +306,6 @@
       <description>OLD FREDERICK RD / ROCKY RIDGE RD Radio: 9B Units: A307, E133</description>
       <guid isPermaLink="false">2026-04-18 18:00:00</guid>
       <pubDate>Sat, 18 Apr 2026 18:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:26 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9D Units: PE23</description>
-      <guid isPermaLink="false">2026-04-18 16:26:00</guid>
-      <pubDate>Sat, 18 Apr 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:20 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9D Units: A39, ALS4</description>
-      <guid isPermaLink="false">2026-04-18 16:20:00</guid>
-      <pubDate>Sat, 18 Apr 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:11 pm</title>
-      <description>RT40 / BAUGHMANS LN, RT40 / BAUGHMANS LN Radio: 9D Units: E31, R3, A19, ALS4, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-04-18 16:11:00</guid>
-      <pubDate>Sat, 18 Apr 2026 16:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
