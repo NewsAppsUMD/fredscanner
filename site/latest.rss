@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Apr 2026 18:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 18:48:20 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 2:38 pm</title>
+      <description>1800 BLOCK SHOOKSTOWN RD Radio: 9C Units: E212, E121, K7, A19, BC903, SAF901, DNR</description>
+      <guid isPermaLink="false">2026-04-21 14:38:00</guid>
+      <pubDate>Tue, 21 Apr 2026 14:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:37 pm</title>
+      <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: R3, ALS4, EMS902</description>
+      <guid isPermaLink="false">2026-04-21 14:37:00</guid>
+      <pubDate>Tue, 21 Apr 2026 14:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:34 pm</title>
+      <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-04-21 14:34:00</guid>
+      <pubDate>Tue, 21 Apr 2026 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
+      <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-21 14:26:00</guid>
+      <pubDate>Tue, 21 Apr 2026 14:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:06 pm</title>
       <description>100 BLOCK FIELDSTONE CT Radio: 9C Units: PE23</description>
@@ -282,30 +306,6 @@
       <description>RT75 / RAILROAD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2026-04-19 08:05:00</guid>
       <pubDate>Sun, 19 Apr 2026 08:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:31 am</title>
-      <description>13100 BLOCK WOLFSVILLE RD Radio: 9B Units: BR216</description>
-      <guid isPermaLink="false">2026-04-19 07:31:00</guid>
-      <pubDate>Sun, 19 Apr 2026 07:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 6:52 am</title>
-      <description>600 BLOCK CHRIST CHURCH RD Radio: JEFFTAC1 Units: R19</description>
-      <guid isPermaLink="false">2026-04-19 06:52:00</guid>
-      <pubDate>Sun, 19 Apr 2026 06:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:31 am</title>
-      <description>LIBERTY RD / OLD ANNAPOLIS RD Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-04-19 05:31:00</guid>
-      <pubDate>Sun, 19 Apr 2026 05:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:37 am</title>
-      <description>300 BLOCK PROSPECT BLVD, FIELDPOINTE APTS - 342 HIGHVIEW TER Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-04-19 04:37:00</guid>
-      <pubDate>Sun, 19 Apr 2026 04:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
