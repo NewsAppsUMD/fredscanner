@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 15:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 16:21:52 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 12:17 pm</title>
+      <description>8400 BLOCK BAKERY WAY Radio: 9C Units: E111, E291, Q11</description>
+      <guid isPermaLink="false">2026-04-22 12:17:00</guid>
+      <pubDate>Wed, 22 Apr 2026 12:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:03 am</title>
       <description>MOTTER AVE / FAIRVIEW AVE Radio: 9B Units: A39, E23</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK TANEY AVE, Bldg:B, APPLEGATE APTS - BLDG B Units: E501, E11, PE23, E291, E31, R3, TT4, A18, ALS2, BC902, BC903, SAF901</description>
       <guid isPermaLink="false">2026-04-20 19:20:00</guid>
       <pubDate>Mon, 20 Apr 2026 19:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:39 pm</title>
-      <description>I270NB / 26MM, I270NB / RT80 Radio: 9B Units: E231, R3, A238, E251, TT23</description>
-      <guid isPermaLink="false">2026-04-20 18:39:00</guid>
-      <pubDate>Mon, 20 Apr 2026 18:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
