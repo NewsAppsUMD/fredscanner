@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 03:38:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 04:54:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:37 pm</title>
+      <description>FINGERBOARD RD / URBANA CHURCH PASS Radio: 9B Units: ALS23</description>
+      <guid isPermaLink="false">2026-04-21 23:37:00</guid>
+      <pubDate>Tue, 21 Apr 2026 23:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:22 pm</title>
       <description>FINGERBOARD RD / URBANA CHURCH PASS Radio: 9B Units: A238, TT23</description>
@@ -300,12 +306,6 @@
       <description>4700 BLOCK BLACK EYED SUSAN MEWS Radio: 9D Units: A259, ALS23, EMS902, E251</description>
       <guid isPermaLink="false">2026-04-19 19:51:00</guid>
       <pubDate>Sun, 19 Apr 2026 19:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:26 pm</title>
-      <description>6500 BLOCK S CLIFTON RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-04-19 19:26:00</guid>
-      <pubDate>Sun, 19 Apr 2026 19:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
