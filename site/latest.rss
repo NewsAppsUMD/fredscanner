@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 22:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:15:26 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 7:12 pm</title>
+      <description>5600 BLOCK QUEEN ANNE CT Units: E153, R15, E251</description>
+      <guid isPermaLink="false">2026-04-22 19:12:00</guid>
+      <pubDate>Wed, 22 Apr 2026 19:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:01 pm</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: ALS23</description>
+      <guid isPermaLink="false">2026-04-22 19:01:00</guid>
+      <pubDate>Wed, 22 Apr 2026 19:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 6:47 pm</title>
+      <description>5800 BLOCK EAGLEHEAD DR, OAKDALE HIGH SCHOOL Units: E331, R15, A339, ALS4, EMS901</description>
+      <guid isPermaLink="false">2026-04-22 18:47:00</guid>
+      <pubDate>Wed, 22 Apr 2026 18:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:47 pm</title>
       <description>7800 BLOCK PICNIC WOODS RD Radio: 9C Units: E72</description>
@@ -288,24 +306,6 @@
       <description>4300 BLOCK OLD NATIONAL PIKE, MEDONE PHARMACY Radio: 9C Units: E72, TW7</description>
       <guid isPermaLink="false">2026-04-21 07:03:00</guid>
       <pubDate>Tue, 21 Apr 2026 07:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:40 am</title>
-      <description>7100 BLOCK JOHN PICKETT RD Units: K17</description>
-      <guid isPermaLink="false">2026-04-21 05:40:00</guid>
-      <pubDate>Tue, 21 Apr 2026 05:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:40 am</title>
-      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: E31</description>
-      <guid isPermaLink="false">2026-04-21 05:40:00</guid>
-      <pubDate>Tue, 21 Apr 2026 05:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:31 am</title>
-      <description>7100 BLOCK JOHN PICKETT RD Units: E153</description>
-      <guid isPermaLink="false">2026-04-21 05:31:00</guid>
-      <pubDate>Tue, 21 Apr 2026 05:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
