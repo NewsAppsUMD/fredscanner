@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 23:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:44:30 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 7:33 pm</title>
+      <description>6700 BLOCK MANORLY CT Units: PE311, E11, R3</description>
+      <guid isPermaLink="false">2026-04-22 19:33:00</guid>
+      <pubDate>Wed, 22 Apr 2026 19:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 7:12 pm</title>
       <description>5600 BLOCK QUEEN ANNE CT Units: E153, R15, E251</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK OLD NATIONAL PIKE, MEDONE PHARMACY Radio: 9C Units: TW1</description>
       <guid isPermaLink="false">2026-04-21 07:08:00</guid>
       <pubDate>Tue, 21 Apr 2026 07:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:03 am</title>
-      <description>4300 BLOCK OLD NATIONAL PIKE, MEDONE PHARMACY Radio: 9C Units: E72, TW7</description>
-      <guid isPermaLink="false">2026-04-21 07:03:00</guid>
-      <pubDate>Tue, 21 Apr 2026 07:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
