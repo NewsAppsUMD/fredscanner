@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Apr 2026 00:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:02:13 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 8:22 pm</title>
+      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: E91</description>
+      <guid isPermaLink="false">2026-04-21 20:22:00</guid>
+      <pubDate>Tue, 21 Apr 2026 20:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 8:21 pm</title>
+      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: R24</description>
+      <guid isPermaLink="false">2026-04-21 20:21:00</guid>
+      <pubDate>Tue, 21 Apr 2026 20:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 8:16 pm</title>
+      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: A249</description>
+      <guid isPermaLink="false">2026-04-21 20:16:00</guid>
+      <pubDate>Tue, 21 Apr 2026 20:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:15 pm</title>
+      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: E111, E161, Q11</description>
+      <guid isPermaLink="false">2026-04-21 20:15:00</guid>
+      <pubDate>Tue, 21 Apr 2026 20:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:42 pm</title>
       <description>4600 BLOCK IJAMSVILLE RD, FREDERICK PONY CLUB Radio: 9C Units: E251</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: E501, TT4</description>
       <guid isPermaLink="false">2026-04-19 16:57:00</guid>
       <pubDate>Sun, 19 Apr 2026 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:24 pm</title>
-      <description>4400 BLOCK CHESTNUT GROVE RD Units: RE74</description>
-      <guid isPermaLink="false">2026-04-19 16:24:00</guid>
-      <pubDate>Sun, 19 Apr 2026 16:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:15 pm</title>
-      <description>I70WB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2026-04-19 16:15:00</guid>
-      <pubDate>Sun, 19 Apr 2026 16:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:14 pm</title>
-      <description>500 BLOCK LOGAN ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-04-19 16:14:00</guid>
-      <pubDate>Sun, 19 Apr 2026 16:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 3:35 pm</title>
-      <description>16100 BLOCK SAINT ANTHONY RD Radio: 9C Units: E61, PE102, TW6, K10</description>
-      <guid isPermaLink="false">2026-04-19 15:35:00</guid>
-      <pubDate>Sun, 19 Apr 2026 15:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
