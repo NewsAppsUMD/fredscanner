@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 16:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:29:12 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:23 pm</title>
+      <description>400 BLOCK AVIATION WAY, MSP AVIATION HANGAR - FREDERICK REGIONAL AIRPORT Units: R3</description>
+      <guid isPermaLink="false">2026-04-23 13:23:00</guid>
+      <pubDate>Thu, 23 Apr 2026 13:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:14 pm</title>
+      <description>2500 BLOCK BRADDOCK RD Units: E172, K17</description>
+      <guid isPermaLink="false">2026-04-23 13:14:00</guid>
+      <pubDate>Thu, 23 Apr 2026 13:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:35 pm</title>
+      <description>5300 BLOCK AMOS REEDER RD Units: BC903</description>
+      <guid isPermaLink="false">2026-04-23 12:35:00</guid>
+      <pubDate>Thu, 23 Apr 2026 12:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:33 pm</title>
+      <description>5300 BLOCK AMOS REEDER RD Units: E121</description>
+      <guid isPermaLink="false">2026-04-23 12:33:00</guid>
+      <pubDate>Thu, 23 Apr 2026 12:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 12:31 pm</title>
+      <description>100 BLOCK(5324) BLK AMOS REEDER RD Units: K21</description>
+      <guid isPermaLink="false">2026-04-23 12:31:00</guid>
+      <pubDate>Thu, 23 Apr 2026 12:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:23 pm</title>
       <description>100 BLOCK(5324) BLK AMOS REEDER RD Units: E82, E72, K7</description>
@@ -276,36 +306,6 @@
       <description>FINGERBOARD RD / URBANA CHURCH PASS Radio: 9B Units: A238, TT23</description>
       <guid isPermaLink="false">2026-04-21 23:22:00</guid>
       <pubDate>Tue, 21 Apr 2026 23:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 8:22 pm</title>
-      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2026-04-21 20:22:00</guid>
-      <pubDate>Tue, 21 Apr 2026 20:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 8:21 pm</title>
-      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: R24</description>
-      <guid isPermaLink="false">2026-04-21 20:21:00</guid>
-      <pubDate>Tue, 21 Apr 2026 20:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 8:16 pm</title>
-      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: A249</description>
-      <guid isPermaLink="false">2026-04-21 20:16:00</guid>
-      <pubDate>Tue, 21 Apr 2026 20:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:15 pm</title>
-      <description>100 BLOCK W PENNSYLVANIA AVE Radio: 9C Units: E111, E161, Q11</description>
-      <guid isPermaLink="false">2026-04-21 20:15:00</guid>
-      <pubDate>Tue, 21 Apr 2026 20:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:42 pm</title>
-      <description>4600 BLOCK IJAMSVILLE RD, FREDERICK PONY CLUB Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-04-21 17:42:00</guid>
-      <pubDate>Tue, 21 Apr 2026 17:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
