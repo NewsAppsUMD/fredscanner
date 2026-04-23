@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 05:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 06:34:24 +0000</lastBuildDate>
+    <item>
+      <title>DUMPSTER FIRE: 1:56 am</title>
+      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: K23</description>
+      <guid isPermaLink="false">2026-04-23 01:56:00</guid>
+      <pubDate>Thu, 23 Apr 2026 01:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 1:50 am</title>
+      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-04-23 01:50:00</guid>
+      <pubDate>Thu, 23 Apr 2026 01:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 1:44 am</title>
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: K33</description>
@@ -294,18 +306,6 @@
       <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-04-21 14:26:00</guid>
       <pubDate>Tue, 21 Apr 2026 14:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:06 pm</title>
-      <description>100 BLOCK FIELDSTONE CT Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-04-21 13:06:00</guid>
-      <pubDate>Tue, 21 Apr 2026 13:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
-      <description>10500 BLOCK GLADE RD, WALKERSVILLE VET Radio: 9C Units: E161, Q11</description>
-      <guid isPermaLink="false">2026-04-21 11:27:00</guid>
-      <pubDate>Tue, 21 Apr 2026 11:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
