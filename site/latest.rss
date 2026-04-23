@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 15:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 16:31:02 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 12:23 pm</title>
+      <description>100 BLOCK(5324) BLK AMOS REEDER RD Units: E82, E72, K7</description>
+      <guid isPermaLink="false">2026-04-23 12:23:00</guid>
+      <pubDate>Thu, 23 Apr 2026 12:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:53 am</title>
+      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-04-23 11:53:00</guid>
+      <pubDate>Thu, 23 Apr 2026 11:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:04 am</title>
       <description>23100 BLOCK MISTFLOWER DR Radio: 7A4 Units: E231</description>
@@ -294,18 +306,6 @@
       <description>4600 BLOCK IJAMSVILLE RD, FREDERICK PONY CLUB Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2026-04-21 17:42:00</guid>
       <pubDate>Tue, 21 Apr 2026 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:20 pm</title>
-      <description>SHOOKSTOWN RD / MONTEVUE LN Radio: 9B Units: A19</description>
-      <guid isPermaLink="false">2026-04-21 17:20:00</guid>
-      <pubDate>Tue, 21 Apr 2026 17:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:18 pm</title>
-      <description>SHOOKSTOWN RD / MONTEVUE LN Radio: 9B Units: R2, A19, ALS2, EMS902</description>
-      <guid isPermaLink="false">2026-04-21 17:18:00</guid>
-      <pubDate>Tue, 21 Apr 2026 17:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
