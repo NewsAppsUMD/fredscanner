@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 20:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 20:45:16 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:21 pm</title>
+      <description>100 BLOCK E MAIN ST Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-04-23 16:21:00</guid>
+      <pubDate>Thu, 23 Apr 2026 16:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:00 pm</title>
       <description>100 BLOCK THOMAS JOHNSON DR, STATION 29 Units: E72</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9I Units: E82, R20, A39, ALS31, BC903, EMS900</description>
       <guid isPermaLink="false">2026-04-22 12:33:00</guid>
       <pubDate>Wed, 22 Apr 2026 12:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 12:24 pm</title>
-      <description>8400 BLOCK BAKERY WAY Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-04-22 12:24:00</guid>
-      <pubDate>Wed, 22 Apr 2026 12:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
