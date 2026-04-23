@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 06:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 07:32:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:24 am</title>
+      <description>15300 BLOCK SABILLASVILLE RD Radio: 9B Units: A307, PE102</description>
+      <guid isPermaLink="false">2026-04-23 03:24:00</guid>
+      <pubDate>Thu, 23 Apr 2026 03:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>DUMPSTER FIRE: 1:56 am</title>
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: K23</description>
@@ -300,12 +306,6 @@
       <description>HILLCREST DR / W PATRICK ST Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-04-21 14:34:00</guid>
       <pubDate>Tue, 21 Apr 2026 14:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
-      <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-04-21 14:26:00</guid>
-      <pubDate>Tue, 21 Apr 2026 14:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
