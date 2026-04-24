@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 07:33:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:38:12 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 3:38 am</title>
+      <description>5200 BLOCK BUCKEYSTOWN PIKE, MCDONALDS - WESTVIEW PROMENADE Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-04-24 03:38:00</guid>
+      <pubDate>Fri, 24 Apr 2026 03:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:29 am</title>
       <description>3800 BLOCK JEFFERSON PIKE Radio: 9C Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>6700 BLOCK ACCIPITER DR Units: BR156</description>
       <guid isPermaLink="false">2026-04-22 20:28:00</guid>
       <pubDate>Wed, 22 Apr 2026 20:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:57 pm</title>
-      <description>900 BLOCK W PATRICK ST, COMFORT INN - RED HORSE Units: TT4</description>
-      <guid isPermaLink="false">2026-04-22 19:57:00</guid>
-      <pubDate>Wed, 22 Apr 2026 19:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
