@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Apr 2026 23:44:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 00:21:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:18 pm</title>
+      <description>400 BLOCK HARLAN WAY, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TW1</description>
+      <guid isPermaLink="false">2026-04-23 20:18:00</guid>
+      <pubDate>Thu, 23 Apr 2026 20:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 8:00 pm</title>
+      <description>6000 BLOCK BUCKEYSTOWN PIKE, SHEETZ - I70 / EAST ST Radio: 9B Units: E31, R3, A39, ALS4, EMS902</description>
+      <guid isPermaLink="false">2026-04-23 20:00:00</guid>
+      <pubDate>Thu, 23 Apr 2026 20:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 7:58 pm</title>
+      <description>3800 BLOCK BRAVEHEART DR Radio: 9B Units: E231, R15, A259</description>
+      <guid isPermaLink="false">2026-04-23 19:58:00</guid>
+      <pubDate>Thu, 23 Apr 2026 19:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 7:55 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, WALMART - MONOCACY BLVD Radio: 9B Units: E111</description>
+      <guid isPermaLink="false">2026-04-23 19:55:00</guid>
+      <pubDate>Thu, 23 Apr 2026 19:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:43 pm</title>
+      <description>7900 BLOCK YELLOW SPRINGS RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-04-23 19:43:00</guid>
+      <pubDate>Thu, 23 Apr 2026 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:17 pm</title>
       <description>3000 BLOCK GREEN VALLEY RD Radio: 9B Units: A259, E251</description>
@@ -276,36 +306,6 @@
       <description>7800 BLOCK PICNIC WOODS RD Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2026-04-22 17:47:00</guid>
       <pubDate>Wed, 22 Apr 2026 17:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:33 pm</title>
-      <description>RT15NB / SPAHRS QUARRY RD Radio: 9B Units: ALS30</description>
-      <guid isPermaLink="false">2026-04-22 16:33:00</guid>
-      <pubDate>Wed, 22 Apr 2026 16:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
-      <description>RT15NB / SPAHRS QUARRY RD Radio: 9B Units: E272, E161, R10, A299, A307, EK224</description>
-      <guid isPermaLink="false">2026-04-22 16:20:00</guid>
-      <pubDate>Wed, 22 Apr 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:20 pm</title>
-      <description>300 BLOCK FRANKLIN ST, Bldg:E, MIDDLETOWN VALLEY APARTMENTS - 300 BLOCK FRANKLIN ST Radio: 9C Units: BR75</description>
-      <guid isPermaLink="false">2026-04-22 15:20:00</guid>
-      <pubDate>Wed, 22 Apr 2026 15:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:14 pm</title>
-      <description>7300 BLOCK BALTIMORE NATIONAL PIKE, IFO Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-04-22 15:14:00</guid>
-      <pubDate>Wed, 22 Apr 2026 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:10 pm</title>
-      <description>300 BLOCK N MARKET ST Radio: 9C Units: CCE102, HCE41</description>
-      <guid isPermaLink="false">2026-04-22 15:10:00</guid>
-      <pubDate>Wed, 22 Apr 2026 15:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
