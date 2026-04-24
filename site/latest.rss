@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Apr 2026 15:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 15:51:52 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:31 am</title>
+      <description>9300 BLOCK ELGIN LN Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-04-24 11:31:00</guid>
+      <pubDate>Fri, 24 Apr 2026 11:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:07 am</title>
       <description>ETZLER MILL RD / RENNER RD, IAO Radio: 9C Units: BR175</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: K23</description>
       <guid isPermaLink="false">2026-04-23 01:56:00</guid>
       <pubDate>Thu, 23 Apr 2026 01:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 1:50 am</title>
-      <description>9000 BLOCK REICHS FORD RD, COUNTY LANDFILL Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-04-23 01:50:00</guid>
-      <pubDate>Thu, 23 Apr 2026 01:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
