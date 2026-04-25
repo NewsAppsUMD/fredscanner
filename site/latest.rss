@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 11:43:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 12:10:03 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 7:50 am</title>
+      <description>11400 BLOCK WOODLAND WAY RD Radio: 9C Units: HM33</description>
+      <guid isPermaLink="false">2026-04-25 07:50:00</guid>
+      <pubDate>Sat, 25 Apr 2026 07:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 7:36 am</title>
       <description>11400 BLOCK WOODLAND WAY RD Radio: 9C Units: E82, E212</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK AMOS REEDER RD Units: BC903</description>
       <guid isPermaLink="false">2026-04-23 12:35:00</guid>
       <pubDate>Thu, 23 Apr 2026 12:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:33 pm</title>
-      <description>5300 BLOCK AMOS REEDER RD Units: E121</description>
-      <guid isPermaLink="false">2026-04-23 12:33:00</guid>
-      <pubDate>Thu, 23 Apr 2026 12:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
