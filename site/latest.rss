@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Apr 2026 00:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 01:01:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:42 pm</title>
+      <description>BALLENGER CENTER DR / BALLENGER CENTER CT, INFRONT OF TACO BELL Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-04-24 20:42:00</guid>
+      <pubDate>Fri, 24 Apr 2026 20:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 7:55 pm</title>
       <description>2700 BLOCK WOLFE DR, IN FRONT OF Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2026-04-23 11:53:00</guid>
       <pubDate>Thu, 23 Apr 2026 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:04 am</title>
-      <description>23100 BLOCK MISTFLOWER DR Radio: 7A4 Units: E231</description>
-      <guid isPermaLink="false">2026-04-23 11:04:00</guid>
-      <pubDate>Thu, 23 Apr 2026 11:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
