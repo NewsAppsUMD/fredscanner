@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 03:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 05:00:29 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 12:12 am</title>
+      <description>I270NB / 23MM, I270NB / 23MM Radio: 9D Units: E231, A238, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-04-26 00:12:00</guid>
+      <pubDate>Sun, 26 Apr 2026 00:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:51 pm</title>
+      <description>5600 BLOCK SPECTRUM DR Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-25 23:51:00</guid>
+      <pubDate>Sat, 25 Apr 2026 23:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:35 pm</title>
       <description>I70EB / RT85, I70EB / RT85 Radio: 9D Units: E11, E31, R3, A18, A39, PE311, BC903, EMS901</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK HARLAN WAY, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11, TW1</description>
       <guid isPermaLink="false">2026-04-23 20:18:00</guid>
       <pubDate>Thu, 23 Apr 2026 20:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:00 pm</title>
-      <description>6000 BLOCK BUCKEYSTOWN PIKE, SHEETZ - I70 / EAST ST Radio: 9B Units: E31, R3, A39, ALS4, EMS902</description>
-      <guid isPermaLink="false">2026-04-23 20:00:00</guid>
-      <pubDate>Thu, 23 Apr 2026 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 7:58 pm</title>
-      <description>3800 BLOCK BRAVEHEART DR Radio: 9B Units: E231, R15, A259</description>
-      <guid isPermaLink="false">2026-04-23 19:58:00</guid>
-      <pubDate>Thu, 23 Apr 2026 19:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
