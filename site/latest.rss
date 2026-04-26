@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Apr 2026 12:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 12:45:41 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 8:19 am</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:100, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-04-26 08:19:00</guid>
+      <pubDate>Sun, 26 Apr 2026 08:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 2:13 am</title>
       <description>300 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
@@ -298,12 +304,6 @@
     <item>
       <title>BUILDING FIRE: 10:14 pm</title>
       <description>100 BLOCK(3100 BLOCK1) BLK CENTURY DR Units: E152, R15, E251</description>
-      <guid isPermaLink="false">2026-04-23 22:14:00</guid>
-      <pubDate>Thu, 23 Apr 2026 22:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:14 pm</title>
-      <description>100 BLOCK(3100 BLOCK1) BLK CENTURY DR Units: TT23</description>
       <guid isPermaLink="false">2026-04-23 22:14:00</guid>
       <pubDate>Thu, 23 Apr 2026 22:14:00 -0400</pubDate>
     </item>
