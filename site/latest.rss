@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 16:30:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:29:11 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:35 pm</title>
+      <description>8700 BLOCK BALL RD Units: BR235</description>
+      <guid isPermaLink="false">2026-04-27 12:35:00</guid>
+      <pubDate>Mon, 27 Apr 2026 12:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 12:27 pm</title>
       <description>25200 BLOCK CONRAD CT Radio: 7A4 Units: R15</description>
@@ -300,12 +306,6 @@
       <description>11500 BLOCK HARP HILL RD Units: E82, E72, RE74, E121, R3, TW7, K21, K7, A89, ALS8, E212, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2026-04-25 18:20:00</guid>
       <pubDate>Sat, 25 Apr 2026 18:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 5:34 pm</title>
-      <description>26300 BLOCK WOODFIELD RD WOODFIELD COMMONS APTS, WOODFIELD COMMONS APTS Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2026-04-25 17:34:00</guid>
-      <pubDate>Sat, 25 Apr 2026 17:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
