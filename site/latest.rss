@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 20:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 21:20:50 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:40 pm</title>
+      <description>1100 BLOCK W PATRICK ST, FREESTATE PETROLEUM - GOLDEN MILE Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2026-04-27 16:40:00</guid>
+      <pubDate>Mon, 27 Apr 2026 16:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:30 pm</title>
+      <description>KIMMEL RD / GLISSANS MILL RD Radio: 9C Units: BR176</description>
+      <guid isPermaLink="false">2026-04-27 16:30:00</guid>
+      <pubDate>Mon, 27 Apr 2026 16:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:25 pm</title>
       <description>1100 BLOCK W PATRICK ST, FREESTATE PETROLEUM - GOLDEN MILE Radio: 9B Units: A18, E11</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK MAIN ST, STATION 8 Units: E111</description>
       <guid isPermaLink="false">2026-04-25 18:49:00</guid>
       <pubDate>Sat, 25 Apr 2026 18:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 6:32 pm</title>
-      <description>11500 BLOCK HARP HILL RD Units: TTF, PE311, EK204, K23, EK114, K10, W21</description>
-      <guid isPermaLink="false">2026-04-25 18:32:00</guid>
-      <pubDate>Sat, 25 Apr 2026 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 6:29 pm</title>
-      <description>11500 BLOCK HARP HILL RD Units: K33</description>
-      <guid isPermaLink="false">2026-04-25 18:29:00</guid>
-      <pubDate>Sat, 25 Apr 2026 18:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
