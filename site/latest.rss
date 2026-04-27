@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 12:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:00:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:55 am</title>
+      <description>5700 BLOCK BARTS WAY Radio: 9C Units: E331, TW1</description>
+      <guid isPermaLink="false">2026-04-27 08:55:00</guid>
+      <pubDate>Mon, 27 Apr 2026 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:31 am</title>
+      <description>100 BLOCK N CHURCH ST, STATION 30 Units: A18</description>
+      <guid isPermaLink="false">2026-04-27 08:31:00</guid>
+      <pubDate>Mon, 27 Apr 2026 08:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:04 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: ACE232</description>
+      <guid isPermaLink="false">2026-04-27 08:04:00</guid>
+      <pubDate>Mon, 27 Apr 2026 08:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:50 am</title>
       <description>100 BLOCK W MAIN ST, OSTEOPATHIC PRIMARY CARE Radio: 9C Units: BR65</description>
@@ -288,24 +306,6 @@
       <description>I70WB / RT180, I70WB / RT180 Radio: 9C Units: E31, E121</description>
       <guid isPermaLink="false">2026-04-25 10:06:00</guid>
       <pubDate>Sat, 25 Apr 2026 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>5500 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MIDDLE SCHOOL Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-04-25 09:48:00</guid>
-      <pubDate>Sat, 25 Apr 2026 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:28 am</title>
-      <description>100 BLOCK JOHN ST, STATION CC003 - WESTMINSTER FIRE ENGINE AND HOSE CO Units: TW6</description>
-      <guid isPermaLink="false">2026-04-25 08:28:00</guid>
-      <pubDate>Sat, 25 Apr 2026 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 7:50 am</title>
-      <description>11400 BLOCK WOODLAND WAY RD Radio: 9C Units: HM33</description>
-      <guid isPermaLink="false">2026-04-25 07:50:00</guid>
-      <pubDate>Sat, 25 Apr 2026 07:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
