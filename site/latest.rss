@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Apr 2026 11:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 12:02:06 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:50 am</title>
+      <description>100 BLOCK W MAIN ST, OSTEOPATHIC PRIMARY CARE Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-04-27 07:50:00</guid>
+      <pubDate>Mon, 27 Apr 2026 07:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 7:44 am</title>
+      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E133, ACE232</description>
+      <guid isPermaLink="false">2026-04-27 07:44:00</guid>
+      <pubDate>Mon, 27 Apr 2026 07:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:37 am</title>
+      <description>9400 BLOCK WAYNESBORO RD, EMMITSBURG VETERINARY HOSPITAL Radio: 9C Units: PE102, ACE232</description>
+      <guid isPermaLink="false">2026-04-27 07:37:00</guid>
+      <pubDate>Mon, 27 Apr 2026 07:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:30 am</title>
+      <description>RT15NB / MOTTERS STATION RD, RT15NB / MOTTERS STATION RD Units: E61, TW6, A68, ALS30, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-04-27 07:30:00</guid>
+      <pubDate>Mon, 27 Apr 2026 07:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 6:21 am</title>
       <description>7200 BLOCK HOLLOW RD, MIDDLETOWN POST OFFICE Radio: 9C Units: E121</description>
@@ -282,30 +306,6 @@
       <description>11400 BLOCK WOODLAND WAY RD Radio: 9C Units: HM33</description>
       <guid isPermaLink="false">2026-04-25 07:50:00</guid>
       <pubDate>Sat, 25 Apr 2026 07:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 7:36 am</title>
-      <description>11400 BLOCK WOODLAND WAY RD Radio: 9C Units: E82, E212</description>
-      <guid isPermaLink="false">2026-04-25 07:36:00</guid>
-      <pubDate>Sat, 25 Apr 2026 07:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:10 am</title>
-      <description>1000 BLOCK REAGANS RD, Apt/Unit:104 Radio: 9C Units: E291, TW1</description>
-      <guid isPermaLink="false">2026-04-25 03:10:00</guid>
-      <pubDate>Sat, 25 Apr 2026 03:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:07 pm</title>
-      <description>11800 BLOCK PINE TREE CT Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2026-04-24 21:07:00</guid>
-      <pubDate>Fri, 24 Apr 2026 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:42 pm</title>
-      <description>BALLENGER CENTER DR / BALLENGER CENTER CT, INFRONT OF TACO BELL Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-04-24 20:42:00</guid>
-      <pubDate>Fri, 24 Apr 2026 20:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
