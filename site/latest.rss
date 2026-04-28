@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 06:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 07:19:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:44 am</title>
+      <description>I270SB / 26MM, I270SB / 26MM Radio: 9D Units: HM33</description>
+      <guid isPermaLink="false">2026-04-28 02:44:00</guid>
+      <pubDate>Tue, 28 Apr 2026 02:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:34 am</title>
+      <description>I270SB / 26MM, I270SB / 24MM Radio: 9D Units: E231, R3, A238, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-04-28 02:34:00</guid>
+      <pubDate>Tue, 28 Apr 2026 02:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 10:05 pm</title>
       <description>BUCKEYSTOWN PIKE / SPECTRUM DR Radio: 9D Units: A318</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK SPECTRUM DR Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-04-25 23:51:00</guid>
       <pubDate>Sat, 25 Apr 2026 23:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:35 pm</title>
-      <description>I70EB / RT85, I70EB / RT85 Radio: 9D Units: E11, E31, R3, A18, A39, PE311, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-04-25 22:35:00</guid>
-      <pubDate>Sat, 25 Apr 2026 22:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 10:24 pm</title>
-      <description>4700 BLOCK COWMANS CT S Radio: 9C Units: E251, E152, K33, A259</description>
-      <guid isPermaLink="false">2026-04-25 22:24:00</guid>
-      <pubDate>Sat, 25 Apr 2026 22:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
