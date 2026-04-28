@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Apr 2026 14:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:12:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:41 am</title>
+      <description>500 BLOCK HIMES AVE Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-04-28 11:41:00</guid>
+      <pubDate>Tue, 28 Apr 2026 11:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:38 am</title>
+      <description>500 BLOCK HIMES AVE Radio: 9C Units: PE311, TW1</description>
+      <guid isPermaLink="false">2026-04-28 11:38:00</guid>
+      <pubDate>Tue, 28 Apr 2026 11:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 11:20 am</title>
+      <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-04-28 11:20:00</guid>
+      <pubDate>Tue, 28 Apr 2026 11:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:46 am</title>
       <description>I270SB / 28MM, I270SB / 28MM Radio: 9B Units: PE311, E231, R3, A238, A319, ALS23, EMS901, TT23</description>
@@ -288,24 +306,6 @@
       <description>5200 BLOCK MIDDLEBURG RD Units: E91, E133, EK134, K9</description>
       <guid isPermaLink="false">2026-04-26 15:43:00</guid>
       <pubDate>Sun, 26 Apr 2026 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:59 pm</title>
-      <description>300 BLOCK WESTVIEW DR Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-04-26 12:59:00</guid>
-      <pubDate>Sun, 26 Apr 2026 12:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 11:06 am</title>
-      <description>600 BLOCK WILD HUNT RD Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-04-26 11:06:00</guid>
-      <pubDate>Sun, 26 Apr 2026 11:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:47 am</title>
-      <description>RT15SB / TUSCARORA CREEK, RT15SB / TUSCARORA CREEK Radio: 9B Units: E291, E11, R2, A299, A29</description>
-      <guid isPermaLink="false">2026-04-26 10:47:00</guid>
-      <pubDate>Sun, 26 Apr 2026 10:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
