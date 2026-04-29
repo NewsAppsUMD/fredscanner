@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Apr 2026 05:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 06:16:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:23 am</title>
+      <description>7400 BLOCK GROVE RD, MCDONALDS - EVERGREEN POINT Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-04-29 01:23:00</guid>
+      <pubDate>Wed, 29 Apr 2026 01:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:51 pm</title>
       <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Units: E31, E11, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST, OSTEOPATHIC PRIMARY CARE Radio: 9C Units: BR65</description>
       <guid isPermaLink="false">2026-04-27 07:50:00</guid>
       <pubDate>Mon, 27 Apr 2026 07:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 7:44 am</title>
-      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E133, ACE232</description>
-      <guid isPermaLink="false">2026-04-27 07:44:00</guid>
-      <pubDate>Mon, 27 Apr 2026 07:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
