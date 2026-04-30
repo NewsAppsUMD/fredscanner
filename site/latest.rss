@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Apr 2026 01:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:16:38 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:47 pm</title>
+      <description>MONOCACY BLVD / BUCHEIMER RD Radio: 9C Units: E31, PE23, R3, HM33, HM50, HMSU33, E121, A38, A37, ALS4, BC901, SAF900, EMS900</description>
+      <guid isPermaLink="false">2026-04-29 21:47:00</guid>
+      <pubDate>Wed, 29 Apr 2026 21:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 8:06 pm</title>
       <description>1200 BLOCK YOUNKINS DR Radio: 9C Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 26MM, I270SB / 26MM Radio: 9D Units: HM33</description>
       <guid isPermaLink="false">2026-04-28 02:44:00</guid>
       <pubDate>Tue, 28 Apr 2026 02:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:34 am</title>
-      <description>I270SB / 26MM, I270SB / 24MM Radio: 9D Units: E231, R3, A238, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-04-28 02:34:00</guid>
-      <pubDate>Tue, 28 Apr 2026 02:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
