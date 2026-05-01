@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 19:52:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 20:16:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:08 pm</title>
+      <description>RT15SB / I70, RT15SB / I70 Radio: 9B Units: E11, PE311, R3, A18, A319</description>
+      <guid isPermaLink="false">2026-05-01 16:08:00</guid>
+      <pubDate>Fri, 01 May 2026 16:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 3:59 pm</title>
+      <description>RT144 / DETRICK RD, RT144 / DETRICK RD Units: A159</description>
+      <guid isPermaLink="false">2026-05-01 15:59:00</guid>
+      <pubDate>Fri, 01 May 2026 15:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 3:58 pm</title>
+      <description>RT144 / DETRICK RD, RT144 / DETRICK RD Units: K17, BR156</description>
+      <guid isPermaLink="false">2026-05-01 15:58:00</guid>
+      <pubDate>Fri, 01 May 2026 15:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 3:55 pm</title>
+      <description>RT144 / DETRICK RD, RT144 / DETRICK RD Units: BR156</description>
+      <guid isPermaLink="false">2026-05-01 15:55:00</guid>
+      <pubDate>Fri, 01 May 2026 15:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:54 pm</title>
       <description>RT355 / ARABY CHURCH RD (N), RT355 / ARABY CHURCH RD Radio: 9B Units: A38, E231</description>
@@ -282,30 +306,6 @@
       <description>500 BLOCK LANCASTER PL Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-04-29 18:53:00</guid>
       <pubDate>Wed, 29 Apr 2026 18:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:27 pm</title>
-      <description>11000 BLOCK LIBERTY RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-04-29 18:27:00</guid>
-      <pubDate>Wed, 29 Apr 2026 18:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:45 pm</title>
-      <description>9600 BLOCK WOODSBORO PIKE Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-04-29 17:45:00</guid>
-      <pubDate>Wed, 29 Apr 2026 17:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:28 pm</title>
-      <description>SPECTRUM DR / HOLIDAY DR, IN AREA OF// IN FRONT OF COUNTRY INN Radio: 9D Units: PE311, R3, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-04-29 17:28:00</guid>
-      <pubDate>Wed, 29 Apr 2026 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:04 pm</title>
-      <description>10900 BLOCK HAVEN PARK CIR Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-04-29 16:04:00</guid>
-      <pubDate>Wed, 29 Apr 2026 16:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
