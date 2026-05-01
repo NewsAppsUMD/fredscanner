@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 18:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:48:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
+      <description>I270SB / MONOCACY RIVER, Apt/Unit:HTTPS://A91.IO/21IYU, I270SB / MONOCACY RIVER Radio: 9B Units: PE311, E231, R3, A318, A238</description>
+      <guid isPermaLink="false">2026-05-01 14:36:00</guid>
+      <pubDate>Fri, 01 May 2026 14:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:31 pm</title>
+      <description>7300 BLOCK GUILFORD DR, BEST BUY - FREDERICK CROSSING Radio: 9D Units: A319, ALS31, R3, EMS901</description>
+      <guid isPermaLink="false">2026-05-01 14:31:00</guid>
+      <pubDate>Fri, 01 May 2026 14:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 2:02 pm</title>
       <description>5300 BLOCK BUCKEYSTOWN PIKE, HAMPTON INN - BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK E CHURCH ST, IN AREA OF: IN BACK OF Radio: 9B Units: A29, E31</description>
       <guid isPermaLink="false">2026-04-29 15:44:00</guid>
       <pubDate>Wed, 29 Apr 2026 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
-      <description>NEW DESIGN RD / ENGLISH MUFFIN LN Radio: 9B Units: A318, PE311</description>
-      <guid isPermaLink="false">2026-04-29 15:04:00</guid>
-      <pubDate>Wed, 29 Apr 2026 15:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:41 pm</title>
-      <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-04-29 14:41:00</guid>
-      <pubDate>Wed, 29 Apr 2026 14:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
