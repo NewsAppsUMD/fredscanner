@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 15:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 15:46:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:44 am</title>
+      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9D Units: E501, E11, R2, A38, A29, ALS2, EMS902</description>
+      <guid isPermaLink="false">2026-05-01 11:44:00</guid>
+      <pubDate>Fri, 01 May 2026 11:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 11:30 am</title>
+      <description>NEW DESIGN RD / WEDGEWOOD BLVD Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-05-01 11:30:00</guid>
+      <pubDate>Fri, 01 May 2026 11:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:49 am</title>
       <description>200 BLOCK MADISON ST Radio: 9C Units: E31, TT4</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK S JEFFERSON ST, FREDERICK COUNTY MENTAL HEALTH DEPARTMENT Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-04-29 10:24:00</guid>
       <pubDate>Wed, 29 Apr 2026 10:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 9:57 am</title>
-      <description>12600 BLOCK LAYMAN RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-04-29 09:57:00</guid>
-      <pubDate>Wed, 29 Apr 2026 09:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:34 am</title>
-      <description>100 BLOCK N MARKET ST, BREWERS ALLEY Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-04-29 08:34:00</guid>
-      <pubDate>Wed, 29 Apr 2026 08:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
