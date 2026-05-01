@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 10:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:23:35 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:15 am</title>
+      <description>8400 BLOCK BROADBAND DR, PUBLIC STORAGE - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-05-01 07:15:00</guid>
+      <pubDate>Fri, 01 May 2026 07:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:09 am</title>
       <description>100 BLOCK HILLCREST DR, LATINO MARKET - VISTA SHOPS AT GOLDEN MILE Radio: 9B Units: A18, TW1</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK SHOREBIRD ST, Bldg:C, MARKET SQUARE AT FREDERICK Radio: 9C Units: E111, Q11</description>
       <guid isPermaLink="false">2026-04-29 07:52:00</guid>
       <pubDate>Wed, 29 Apr 2026 07:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:48 am</title>
-      <description>FINGERBOARD RD / CLARKSBURG RD Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2026-04-29 07:48:00</guid>
-      <pubDate>Wed, 29 Apr 2026 07:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
