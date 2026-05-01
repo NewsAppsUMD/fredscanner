@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 17:46:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:19:41 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 2:02 pm</title>
+      <description>5300 BLOCK BUCKEYSTOWN PIKE, HAMPTON INN - BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-05-01 14:02:00</guid>
+      <pubDate>Fri, 01 May 2026 14:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 1:43 pm</title>
       <description>5900 BLOCK FREDERICK CROSSING LN, Apt/Unit:100 Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-04-29 14:41:00</guid>
       <pubDate>Wed, 29 Apr 2026 14:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:41 pm</title>
-      <description>I70WB / 59MM, I70WB / 59MM Radio: 9B Units: E331, E31, R15, A158, A38</description>
-      <guid isPermaLink="false">2026-04-29 13:41:00</guid>
-      <pubDate>Wed, 29 Apr 2026 13:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
