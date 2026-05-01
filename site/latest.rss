@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 01 May 2026 00:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:17:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:44 pm</title>
+      <description>ROHRERSVILLE / ROHRESVILLE SCHOOL RD Units: R19</description>
+      <guid isPermaLink="false">2026-04-30 20:44:00</guid>
+      <pubDate>Thu, 30 Apr 2026 20:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - PERIPHERAL: 7:58 pm</title>
       <description>100 BLOCK WAVERLEY DR, Bldg:J, ELMWOOD TERRACE APTS - BLDG J Radio: 9B Units: E11, R3, A18</description>
@@ -300,12 +306,6 @@
       <description>S CARROLL ST / E PATRICK ST Radio: 9I Units: A38, ALS4, E31</description>
       <guid isPermaLink="false">2026-04-28 19:30:00</guid>
       <pubDate>Tue, 28 Apr 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 7:14 pm</title>
-      <description>100 BLOCK WALKERS VILLAGE WAY, ANIMAL CARE CLINIC Radio: 9D Units: E111, R24, A29, PE23, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-04-28 19:14:00</guid>
-      <pubDate>Tue, 28 Apr 2026 19:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
