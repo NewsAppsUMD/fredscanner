@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 21:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 21:43:50 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:14 pm</title>
+      <description>300 BLOCK MAIN ST, STATION 8 Units: A38</description>
+      <guid isPermaLink="false">2026-05-02 17:14:00</guid>
+      <pubDate>Sat, 02 May 2026 17:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - EJECTION: 5:03 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9D Units: A79</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK PROSPECT BLVD, UHAUL CENTER OF FREDERICK - PROSPECT BLVD Radio: 9C Units: R3</description>
       <guid isPermaLink="false">2026-04-30 23:49:00</guid>
       <pubDate>Thu, 30 Apr 2026 23:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:14 pm</title>
-      <description>3700 BLOCK HORINE RD Units: R19</description>
-      <guid isPermaLink="false">2026-04-30 22:14:00</guid>
-      <pubDate>Thu, 30 Apr 2026 22:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
