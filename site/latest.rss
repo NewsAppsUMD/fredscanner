@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 00:23:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 01:08:52 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:53 pm</title>
+      <description>1300 BLOCK MONOCACY CROSSING PKWY Radio: 9C Units: E52</description>
+      <guid isPermaLink="false">2026-05-01 20:53:00</guid>
+      <pubDate>Fri, 01 May 2026 20:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:49 pm</title>
       <description>I70EB / EXIT 59 (RT144 NEWM), I70EB / EXIT 59 Radio: 9B Units: E331, E152, R3, A339, A159</description>
@@ -300,12 +306,6 @@
       <description>12400 BLOCKA RENNER RD Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2026-04-30 06:58:00</guid>
       <pubDate>Thu, 30 Apr 2026 06:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:25 am</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231, A238</description>
-      <guid isPermaLink="false">2026-04-30 05:25:00</guid>
-      <pubDate>Thu, 30 Apr 2026 05:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
