@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 17:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 18:14:56 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 1:56 pm</title>
+      <description>700 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-05-02 13:56:00</guid>
+      <pubDate>Sat, 02 May 2026 13:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:30 pm</title>
       <description>TUSCARORA RD / OLD LICKSVILLE RD, Apt/Unit:HTTPS://A91.IO/KSO69 Radio: 9B Units: A149, E281</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A38</description>
       <guid isPermaLink="false">2026-04-30 15:35:00</guid>
       <pubDate>Thu, 30 Apr 2026 15:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:47 pm</title>
-      <description>JEFFERSON PIKE / FAIR OAKS DR Radio: 9D Units: E11, R3, A19, ALS4, EMS902</description>
-      <guid isPermaLink="false">2026-04-30 14:47:00</guid>
-      <pubDate>Thu, 30 Apr 2026 14:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
