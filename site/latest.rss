@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 16:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 16:44:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:30 pm</title>
+      <description>TUSCARORA RD / OLD LICKSVILLE RD, Apt/Unit:HTTPS://A91.IO/KSO69 Radio: 9B Units: A149, E281</description>
+      <guid isPermaLink="false">2026-05-02 12:30:00</guid>
+      <pubDate>Sat, 02 May 2026 12:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:27 pm</title>
+      <description>I270SB / MONOCACY RIVER, I270SB / MONOCACY RIVER Radio: 9B Units: PE311, E231, R3, A38, A238</description>
+      <guid isPermaLink="false">2026-05-02 12:27:00</guid>
+      <pubDate>Sat, 02 May 2026 12:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 11:53 am</title>
       <description>2500 BLOCK SHELLEY CIR, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>JEFFERSON PIKE / FAIR OAKS DR Radio: 9D Units: E11, R3, A19, ALS4, EMS902</description>
       <guid isPermaLink="false">2026-04-30 14:47:00</guid>
       <pubDate>Thu, 30 Apr 2026 14:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:53 am</title>
-      <description>3300 BLOCK WORTHINGTON BLVD, URBANA VILLAGE Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-04-30 11:53:00</guid>
-      <pubDate>Thu, 30 Apr 2026 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:49 am</title>
-      <description>W SEVENTH ST / FAIRVIEW AVE Units: A29, PE23</description>
-      <guid isPermaLink="false">2026-04-30 11:49:00</guid>
-      <pubDate>Thu, 30 Apr 2026 11:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
