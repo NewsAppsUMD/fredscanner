@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 May 2026 18:45:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 19:20:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
+      <description>13000 BLOCK WOODSBORO PIKE Radio: 9B Units: A169, E91</description>
+      <guid isPermaLink="false">2026-05-02 14:46:00</guid>
+      <pubDate>Sat, 02 May 2026 14:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:45 pm</title>
+      <description>1300 BLOCK HOLLING PL, Apt/Unit:202, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-05-02 14:45:00</guid>
+      <pubDate>Sat, 02 May 2026 14:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:44 pm</title>
+      <description>1300 BLOCK HOLLING PL, Apt/Unit:202, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Radio: 9C Units: E23</description>
+      <guid isPermaLink="false">2026-05-02 14:44:00</guid>
+      <pubDate>Sat, 02 May 2026 14:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 1:56 pm</title>
       <description>700 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, Bldg:J, ELMWOOD TERRACE APTS - BLDG J Radio: 9B Units: E11, R3, A18</description>
       <guid isPermaLink="false">2026-04-30 19:58:00</guid>
       <pubDate>Thu, 30 Apr 2026 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:35 pm</title>
-      <description>POINT OF ROCKS RD / LANDER RD Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2026-04-30 18:35:00</guid>
-      <pubDate>Thu, 30 Apr 2026 18:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:14 pm</title>
-      <description>RT340EB / CATHOLIC CHURCH RD, RT340EB / CATHOLIC CHURCH RD Radio: 9C Units: BR55, BR205</description>
-      <guid isPermaLink="false">2026-04-30 17:14:00</guid>
-      <pubDate>Thu, 30 Apr 2026 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:35 pm</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A38</description>
-      <guid isPermaLink="false">2026-04-30 15:35:00</guid>
-      <pubDate>Thu, 30 Apr 2026 15:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
