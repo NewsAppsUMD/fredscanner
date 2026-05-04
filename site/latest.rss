@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 16:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:03:42 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 12:32 pm</title>
+      <description>1300 BLOCK CROPS WAY Radio: 9C Units: E501, E23</description>
+      <guid isPermaLink="false">2026-05-04 12:32:00</guid>
+      <pubDate>Mon, 04 May 2026 12:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>POLICE INCIDENT - EMS STANDBY: 11:15 am</title>
       <description>5600 BLOCK OLD NEW MARKET RD Radio: 9D Units: A259, ALS17, E152, BC901, EMS902</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK MAIN ST, STATION 8 Units: A38</description>
       <guid isPermaLink="false">2026-05-02 17:14:00</guid>
       <pubDate>Sat, 02 May 2026 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 5:03 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9D Units: A79</description>
-      <guid isPermaLink="false">2026-05-02 17:03:00</guid>
-      <pubDate>Sat, 02 May 2026 17:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
