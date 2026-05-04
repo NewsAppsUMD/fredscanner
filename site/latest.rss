@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 22:46:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 23:16:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:52 pm</title>
+      <description>1900 BLOCK ROSEMONT AVE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-04 18:52:00</guid>
+      <pubDate>Mon, 04 May 2026 18:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:42 pm</title>
       <description>RIDGE RD / PENN SHOP RD Radio: 9D Units: R15, BC902, EMS901</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / BARTGIS RD, RT15SB / BARTGIS RD Radio: 9B Units: E291, EK114, R24, A229, A299, E221</description>
       <guid isPermaLink="false">2026-05-03 11:35:00</guid>
       <pubDate>Sun, 03 May 2026 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:14 am</title>
-      <description>3100 BLOCK PARK MILLS RD Units: E231, E141, E31, PE311, PE23, R3, TT4, K23, A238, ALS23, BC902, BC901, SAF900, E251, TT23</description>
-      <guid isPermaLink="false">2026-05-03 08:14:00</guid>
-      <pubDate>Sun, 03 May 2026 08:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
