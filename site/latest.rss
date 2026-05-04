@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 04 May 2026 12:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:05:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:01 am</title>
+      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: A37</description>
+      <guid isPermaLink="false">2026-05-04 09:01:00</guid>
+      <pubDate>Mon, 04 May 2026 09:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:01 am</title>
+      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: A18, A37</description>
+      <guid isPermaLink="false">2026-05-04 09:01:00</guid>
+      <pubDate>Mon, 04 May 2026 09:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:55 am</title>
+      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: A319, A19</description>
+      <guid isPermaLink="false">2026-05-04 08:55:00</guid>
+      <pubDate>Mon, 04 May 2026 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:54 am</title>
+      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: TT4</description>
+      <guid isPermaLink="false">2026-05-04 08:54:00</guid>
+      <pubDate>Mon, 04 May 2026 08:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:47 am</title>
+      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: PE311, R3, A318, ALS31, BC904, EMS902</description>
+      <guid isPermaLink="false">2026-05-04 08:47:00</guid>
+      <pubDate>Mon, 04 May 2026 08:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 8:27 am</title>
       <description>4100 BLOCK LANDER RD Radio: 9D Units: CAN1</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK W ALL SAINTS ST Radio: 9D Units: E31, PE23, PE311, E501, E331, R3, TT4, TW1, A37, ALS4, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-05-02 04:45:00</guid>
       <pubDate>Sat, 02 May 2026 04:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:02 am</title>
-      <description>100 BLOCK E FIFTH ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-02 01:02:00</guid>
-      <pubDate>Sat, 02 May 2026 01:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:29 am</title>
-      <description>200 BLOCK GROVE BLVD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-02 00:29:00</guid>
-      <pubDate>Sat, 02 May 2026 00:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:59 pm</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:174, LUCKY CORNER VIETNAMESE CUISINE AT WESTVIEW - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: E31, R3</description>
-      <guid isPermaLink="false">2026-05-01 22:59:00</guid>
-      <pubDate>Fri, 01 May 2026 22:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 10:58 pm</title>
-      <description>5100 BLOCK BUCKEYSTOWN PIKE, Bldg:174, LUCKY CORNER VIETNAMESE CUISINE AT WESTVIEW - WESTVIEW VILLAGE SHOPPING CENTER Radio: 9C Units: E311</description>
-      <guid isPermaLink="false">2026-05-01 22:58:00</guid>
-      <pubDate>Fri, 01 May 2026 22:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:08 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-01 22:08:00</guid>
-      <pubDate>Fri, 01 May 2026 22:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
