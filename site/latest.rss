@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 13:32:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 15:32:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 10:44 am</title>
+      <description>1900 BLOCK RIVERSIDE WAY, ROY ROGERS - RIVERSIDE CENTER Radio: 9C Units: EK114</description>
+      <guid isPermaLink="false">2026-05-05 10:44:00</guid>
+      <pubDate>Tue, 05 May 2026 10:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATERCRAFT IN DISTRESS: 10:39 am</title>
+      <description>POTOMAC RIVER / PETERSVILLE RD Radio: 9D Units: PE52, BT19, BT28, A197, A198</description>
+      <guid isPermaLink="false">2026-05-05 10:39:00</guid>
+      <pubDate>Tue, 05 May 2026 10:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 9:58 am</title>
+      <description>20600 BLOCK BOLAND FARM RD, STATION 734 Units: R14</description>
+      <guid isPermaLink="false">2026-05-05 09:58:00</guid>
+      <pubDate>Tue, 05 May 2026 09:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:54 am</title>
+      <description>FREDERICK RD / DOWDENS STATION WAY Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-05-05 09:54:00</guid>
+      <pubDate>Tue, 05 May 2026 09:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:46 am</title>
+      <description>FREDERICK RD / DOWDENS STATION WAY Radio: 7A1 Units: A238</description>
+      <guid isPermaLink="false">2026-05-05 09:46:00</guid>
+      <pubDate>Tue, 05 May 2026 09:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:10 am</title>
       <description>MARKER RD / BOLIVAR RD, RT40A / MARKER RD Radio: 9C Units: BR75</description>
@@ -276,36 +306,6 @@
       <description>CATOCTIN FURNACE RD / BLUE MOUNTAIN RD Radio: 9B Units: A229</description>
       <guid isPermaLink="false">2026-05-03 20:41:00</guid>
       <pubDate>Sun, 03 May 2026 20:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:30 pm</title>
-      <description>CATOCTIN FURNACE RD / BLUE MOUNTAIN RD Radio: 9B Units: A307, PE102</description>
-      <guid isPermaLink="false">2026-05-03 20:30:00</guid>
-      <pubDate>Sun, 03 May 2026 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:45 pm</title>
-      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD Radio: 9B Units: E291, E111, R24, A299, A229, E221</description>
-      <guid isPermaLink="false">2026-05-03 19:45:00</guid>
-      <pubDate>Sun, 03 May 2026 19:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:42 pm</title>
-      <description>GAS HOUSE PIKE / SANANDREW DR Radio: 9D Units: E152, R15, A159, ALS17, EMS902</description>
-      <guid isPermaLink="false">2026-05-03 18:42:00</guid>
-      <pubDate>Sun, 03 May 2026 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:15 pm</title>
-      <description>1200 BLOCK DUTCHMANS CREEK DR, WEIS MARKET - BRUNSWICK CROSSING Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-05-03 18:15:00</guid>
-      <pubDate>Sun, 03 May 2026 18:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 6:10 pm</title>
-      <description>7000 BLOCK MANDALONG CT Radio: 9C Units: E152, E172, R15</description>
-      <guid isPermaLink="false">2026-05-03 18:10:00</guid>
-      <pubDate>Sun, 03 May 2026 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
