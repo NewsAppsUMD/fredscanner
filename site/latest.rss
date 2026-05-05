@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 19:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 20:33:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
+      <description>TATUM CT / SHOOKSTOWN RD Units: A19</description>
+      <guid isPermaLink="false">2026-05-05 16:09:00</guid>
+      <pubDate>Tue, 05 May 2026 16:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:02 pm</title>
+      <description>TATUM CT / SHOOKSTOWN RD Units: A19, E11</description>
+      <guid isPermaLink="false">2026-05-05 16:02:00</guid>
+      <pubDate>Tue, 05 May 2026 16:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:44 pm</title>
       <description>6500 BLOCK PICNIC WOODS RD Radio: 9C Units: E72</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A196</description>
       <guid isPermaLink="false">2026-05-04 09:19:00</guid>
       <pubDate>Mon, 04 May 2026 09:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:12 am</title>
-      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: ALS2</description>
-      <guid isPermaLink="false">2026-05-04 09:12:00</guid>
-      <pubDate>Mon, 04 May 2026 09:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:03 am</title>
-      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: W31</description>
-      <guid isPermaLink="false">2026-05-04 09:03:00</guid>
-      <pubDate>Mon, 04 May 2026 09:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
