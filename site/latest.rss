@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 May 2026 20:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 21:20:03 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 5:13 pm</title>
+      <description>6100 BLOCK GOSHAWK ST Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-05-05 17:13:00</guid>
+      <pubDate>Tue, 05 May 2026 17:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:11 pm</title>
+      <description>5900 BLOCK BUCKEYSTOWN PIKE, CAPITAL ONE BANK - BUCKEYSTOWN PIKE Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-05-05 17:11:00</guid>
+      <pubDate>Tue, 05 May 2026 17:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:45 pm</title>
+      <description>8300 BLOCK REVELATION AVE Radio: 9C Units: EK114, E291, Q11</description>
+      <guid isPermaLink="false">2026-05-05 16:45:00</guid>
+      <pubDate>Tue, 05 May 2026 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:39 pm</title>
+      <description>3300 BLOCK BRETHREN CHURCH RD, AT MAILBOX Radio: 9C Units: BR85, BR216, BR75</description>
+      <guid isPermaLink="false">2026-05-05 16:39:00</guid>
+      <pubDate>Tue, 05 May 2026 16:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 4:35 pm</title>
+      <description>3300 BLOCK BRETHREN CHURCH RD, AT MAILBOX Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2026-05-05 16:35:00</guid>
+      <pubDate>Tue, 05 May 2026 16:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
       <description>TATUM CT / SHOOKSTOWN RD Units: A19</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, PNC BANK - MONOCACY BLVD Radio: 9B Units: A38, R3</description>
       <guid isPermaLink="false">2026-05-04 11:12:00</guid>
       <pubDate>Mon, 04 May 2026 11:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:14 am</title>
-      <description>2500 BLOCK HOPTON LN Radio: 9C Units: EK114, Q11</description>
-      <guid isPermaLink="false">2026-05-04 10:14:00</guid>
-      <pubDate>Mon, 04 May 2026 10:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:49 am</title>
-      <description>500 BLOCK BRADLEY CT, Apt/Unit:A, BUCKINGHAM CONDOS - 500 BLOCK BRADLEY CT Radio: 9C Units: E311, E31, TT4</description>
-      <guid isPermaLink="false">2026-05-04 09:49:00</guid>
-      <pubDate>Mon, 04 May 2026 09:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:22 am</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2026-05-04 09:22:00</guid>
-      <pubDate>Mon, 04 May 2026 09:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:21 am</title>
-      <description>BALLENGER CREEK PIKE / MERCANTILE DR E, URBAN AIR TRAMPOLINE AND ADVENTURE PARK - BALLENGER CREEK PLAZA Radio: 91I Units: A38</description>
-      <guid isPermaLink="false">2026-05-04 09:21:00</guid>
-      <pubDate>Mon, 04 May 2026 09:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:19 am</title>
-      <description>5500 BLOCK NEW DESIGN RD, STATION 31 Units: A196</description>
-      <guid isPermaLink="false">2026-05-04 09:19:00</guid>
-      <pubDate>Mon, 04 May 2026 09:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
