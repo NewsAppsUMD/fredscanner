@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 21:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 21:48:20 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:43 pm</title>
+      <description>3000 BLOCK DESMOND PL Units: E251</description>
+      <guid isPermaLink="false">2026-05-06 17:43:00</guid>
+      <pubDate>Wed, 06 May 2026 17:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:33 pm</title>
+      <description>26000 BLOCK FREDERICK RD Radio: 7A4 Units: K23, E231, R15, E251, TT23</description>
+      <guid isPermaLink="false">2026-05-06 17:33:00</guid>
+      <pubDate>Wed, 06 May 2026 17:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:04 pm</title>
       <description>WILSON PL / W SEVENTH ST Radio: 9B Units: A19, E501</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK CLENDENIN WAY Radio: 9B Units: E231</description>
       <guid isPermaLink="false">2026-05-05 19:08:00</guid>
       <pubDate>Tue, 05 May 2026 19:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:06 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK64</description>
-      <guid isPermaLink="false">2026-05-05 19:06:00</guid>
-      <pubDate>Tue, 05 May 2026 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:05 pm</title>
-      <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: Q11</description>
-      <guid isPermaLink="false">2026-05-05 19:05:00</guid>
-      <pubDate>Tue, 05 May 2026 19:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
