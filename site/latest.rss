@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 13:03:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:14:27 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:26 am</title>
+      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, H L HARTZ COMPANY Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-05-06 09:26:00</guid>
+      <pubDate>Wed, 06 May 2026 09:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:50 am</title>
       <description>400 BLOCK WAYNESBORO PIKE Units: E61, A68</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: TW1</description>
       <guid isPermaLink="false">2026-05-05 14:36:00</guid>
       <pubDate>Tue, 05 May 2026 14:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:34 pm</title>
-      <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: EK114, Q11</description>
-      <guid isPermaLink="false">2026-05-05 14:34:00</guid>
-      <pubDate>Tue, 05 May 2026 14:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
