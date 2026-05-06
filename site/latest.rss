@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 00:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 01:08:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:53 pm</title>
+      <description>6000 BLOCK DICKERSON RD Radio: 9D Units: ALS20</description>
+      <guid isPermaLink="false">2026-05-05 20:53:00</guid>
+      <pubDate>Tue, 05 May 2026 20:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:44 pm</title>
+      <description>3600 BLOCK BEALLS FARM CT Units: E251, TT23</description>
+      <guid isPermaLink="false">2026-05-05 20:44:00</guid>
+      <pubDate>Tue, 05 May 2026 20:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:39 pm</title>
+      <description>600 BLOCK BUSHYTAIL DR Radio: 9C Units: E121, PE311, TW1</description>
+      <guid isPermaLink="false">2026-05-05 20:39:00</guid>
+      <pubDate>Tue, 05 May 2026 20:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 8:36 pm</title>
+      <description>600 BLOCK CAMP GETTYSBURG RD Units: EK64</description>
+      <guid isPermaLink="false">2026-05-05 20:36:00</guid>
+      <pubDate>Tue, 05 May 2026 20:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:31 pm</title>
+      <description>6000 BLOCK DICKERSON RD Radio: 9D Units: E231</description>
+      <guid isPermaLink="false">2026-05-05 20:31:00</guid>
+      <pubDate>Tue, 05 May 2026 20:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 8:22 pm</title>
+      <description>2700 BLOCK ADAMS ST, STATION 14 Units: RE74</description>
+      <guid isPermaLink="false">2026-05-05 20:22:00</guid>
+      <pubDate>Tue, 05 May 2026 20:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:22 pm</title>
+      <description>6200 BLOCK WHITE OAK DR Units: E331</description>
+      <guid isPermaLink="false">2026-05-05 20:22:00</guid>
+      <pubDate>Tue, 05 May 2026 20:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 8:17 pm</title>
       <description>2700 BLOCK ADAMS ST, STATION 14 Units: A18</description>
@@ -264,48 +306,6 @@
       <description>I70WB / 42MM, I70WB / 42MM Radio: 9I Units: E82, E72, RE74, A89, A79, ALS8, BC903, EMS901</description>
       <guid isPermaLink="false">2026-05-05 11:39:00</guid>
       <pubDate>Tue, 05 May 2026 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 10:44 am</title>
-      <description>1900 BLOCK RIVERSIDE WAY, ROY ROGERS - RIVERSIDE CENTER Radio: 9C Units: EK114</description>
-      <guid isPermaLink="false">2026-05-05 10:44:00</guid>
-      <pubDate>Tue, 05 May 2026 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATERCRAFT IN DISTRESS: 10:39 am</title>
-      <description>POTOMAC RIVER / PETERSVILLE RD Radio: 9D Units: PE52, BT19, BT28, A197, A198</description>
-      <guid isPermaLink="false">2026-05-05 10:39:00</guid>
-      <pubDate>Tue, 05 May 2026 10:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:58 am</title>
-      <description>20600 BLOCK BOLAND FARM RD, STATION 734 Units: R14</description>
-      <guid isPermaLink="false">2026-05-05 09:58:00</guid>
-      <pubDate>Tue, 05 May 2026 09:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:54 am</title>
-      <description>FREDERICK RD / DOWDENS STATION WAY Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2026-05-05 09:54:00</guid>
-      <pubDate>Tue, 05 May 2026 09:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:46 am</title>
-      <description>FREDERICK RD / DOWDENS STATION WAY Radio: 7A1 Units: A238</description>
-      <guid isPermaLink="false">2026-05-05 09:46:00</guid>
-      <pubDate>Tue, 05 May 2026 09:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:10 am</title>
-      <description>MARKER RD / BOLIVAR RD, RT40A / MARKER RD Radio: 9C Units: BR75</description>
-      <guid isPermaLink="false">2026-05-05 08:10:00</guid>
-      <pubDate>Tue, 05 May 2026 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:07 am</title>
-      <description>PENN SHOP RD / SKYVIEW DR, Apt/Unit:HTTPS://A91.IO/YWG20 Radio: 9B Units: A159</description>
-      <guid isPermaLink="false">2026-05-05 08:07:00</guid>
-      <pubDate>Tue, 05 May 2026 08:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
