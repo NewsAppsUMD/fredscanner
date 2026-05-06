@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 06 May 2026 12:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 13:03:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:50 am</title>
+      <description>400 BLOCK WAYNESBORO PIKE Units: E61, A68</description>
+      <guid isPermaLink="false">2026-05-06 08:50:00</guid>
+      <pubDate>Wed, 06 May 2026 08:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:50 am</title>
+      <description>400 BLOCK WAYNESBORO PIKE Units: E61, A68</description>
+      <guid isPermaLink="false">2026-05-06 08:50:00</guid>
+      <pubDate>Wed, 06 May 2026 08:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:45 am</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A318</description>
+      <guid isPermaLink="false">2026-05-06 08:45:00</guid>
+      <pubDate>Wed, 06 May 2026 08:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:44 am</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: PE311</description>
+      <guid isPermaLink="false">2026-05-06 08:44:00</guid>
+      <pubDate>Wed, 06 May 2026 08:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:40 am</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A319, R3, E251</description>
+      <guid isPermaLink="false">2026-05-06 08:40:00</guid>
+      <pubDate>Wed, 06 May 2026 08:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - FIRE: 8:36 am</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / 31MM Radio: 9B Units: TT23</description>
+      <guid isPermaLink="false">2026-05-06 08:36:00</guid>
+      <pubDate>Wed, 06 May 2026 08:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - FIRE: 8:34 am</title>
+      <description>I270NB / SCENIC OVERLOOK, I270NB / 31MM Radio: 9B Units: E231, PE311, A238</description>
+      <guid isPermaLink="false">2026-05-06 08:34:00</guid>
+      <pubDate>Wed, 06 May 2026 08:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:57 am</title>
       <description>500 BLOCK E MAIN ST Radio: 9C Units: PE102</description>
@@ -264,48 +306,6 @@
       <description>2500 BLOCK WATERSIDE DR, PARK PLACE II - WORMANS MILL Radio: 9C Units: EK114, Q11</description>
       <guid isPermaLink="false">2026-05-05 14:34:00</guid>
       <pubDate>Tue, 05 May 2026 14:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:30 pm</title>
-      <description>W PATRICK ST / BLENTLINGER RD Units: A129, E121</description>
-      <guid isPermaLink="false">2026-05-05 14:30:00</guid>
-      <pubDate>Tue, 05 May 2026 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:24 pm</title>
-      <description>300 BLOCK E THIRD ST Units: E23</description>
-      <guid isPermaLink="false">2026-05-05 14:24:00</guid>
-      <pubDate>Tue, 05 May 2026 14:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:19 pm</title>
-      <description>GROVE RD / INDUSTRY LN Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-05-05 14:19:00</guid>
-      <pubDate>Tue, 05 May 2026 14:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 2:09 pm</title>
-      <description>100 BLOCK E PATRICK ST, CARROLL CREEK PARKING DECK Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-05-05 14:09:00</guid>
-      <pubDate>Tue, 05 May 2026 14:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:43 pm</title>
-      <description>5400 BLOCK HOLIDAY DR Radio: 9B Units: A37, PE23</description>
-      <guid isPermaLink="false">2026-05-05 13:43:00</guid>
-      <pubDate>Tue, 05 May 2026 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:32 pm</title>
-      <description>5700 BLOCK KATSURA CT Units: E31, E291, PE23, E501, E201, R3, TT4, TW1, A37, ALS2, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-05-05 13:32:00</guid>
-      <pubDate>Tue, 05 May 2026 13:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:26 pm</title>
-      <description>RT144 / QUINN ORCHARD RD, IN AREA OF Radio: 9B Units: A339, E331</description>
-      <guid isPermaLink="false">2026-05-05 13:26:00</guid>
-      <pubDate>Tue, 05 May 2026 13:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
