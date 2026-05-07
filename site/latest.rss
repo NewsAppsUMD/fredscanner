@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 07 May 2026 21:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:46:01 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 5:30 pm</title>
+      <description>6900 BLOCK CASTLE CT, Apt/Unit:107 Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-05-07 17:30:00</guid>
+      <pubDate>Thu, 07 May 2026 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:03 pm</title>
       <description>700 BLOCK E PATRICK ST Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK WAYNESBORO PIKE Units: E61, A68</description>
       <guid isPermaLink="false">2026-05-06 08:50:00</guid>
       <pubDate>Wed, 06 May 2026 08:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:45 am</title>
-      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A318</description>
-      <guid isPermaLink="false">2026-05-06 08:45:00</guid>
-      <pubDate>Wed, 06 May 2026 08:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
