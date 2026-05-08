@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 23:17:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 23:45:57 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:41 pm</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-05-08 19:41:00</guid>
+      <pubDate>Fri, 08 May 2026 19:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:28 pm</title>
+      <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23, TT4</description>
+      <guid isPermaLink="false">2026-05-08 19:28:00</guid>
+      <pubDate>Fri, 08 May 2026 19:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:25 pm</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-05-08 19:25:00</guid>
+      <pubDate>Fri, 08 May 2026 19:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:14 pm</title>
+      <description>100 BLOCK STONEGATE DR Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-05-08 19:14:00</guid>
+      <pubDate>Fri, 08 May 2026 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:58 pm</title>
       <description>7100 BLOCK ROCK CREEK DR Units: E121, E33, PE23, E501, E72, R3, TW1, TT4, A129, ALS2, BC903, BC902, SAF901</description>
@@ -282,30 +306,6 @@
       <description>1600 BLOCK DYRHAM PARK DR Units: E11, E121, E501, E31, PE23, R3, TW1, TT4, A19, ALS4, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-05-06 21:19:00</guid>
       <pubDate>Wed, 06 May 2026 21:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:02 pm</title>
-      <description>2900 BLOCK CARAWAY DR Units: TT23</description>
-      <guid isPermaLink="false">2026-05-06 21:02:00</guid>
-      <pubDate>Wed, 06 May 2026 21:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:59 pm</title>
-      <description>GAPLAND RD / MOUNTAIN CHURCH RD Units: A196</description>
-      <guid isPermaLink="false">2026-05-06 20:59:00</guid>
-      <pubDate>Wed, 06 May 2026 20:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:54 pm</title>
-      <description>2900 BLOCK CARAWAY DR Units: E231</description>
-      <guid isPermaLink="false">2026-05-06 20:54:00</guid>
-      <pubDate>Wed, 06 May 2026 20:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:47 pm</title>
-      <description>GAPLAND RD / MOUNTAIN CHURCH RD Units: RE74, EMS901</description>
-      <guid isPermaLink="false">2026-05-06 20:47:00</guid>
-      <pubDate>Wed, 06 May 2026 20:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
