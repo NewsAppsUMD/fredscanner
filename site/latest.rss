@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 16:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:29:05 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:12 pm</title>
+      <description>2400 BLOCK GRAYSTONE LN Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-08 13:12:00</guid>
+      <pubDate>Fri, 08 May 2026 13:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:51 am</title>
       <description>BUCKEYSTOWN PIKE / CRESTWOOD BLVD Radio: 9B Units: A318, PE311</description>
@@ -300,12 +306,6 @@
       <description>RT144 / QUINN ORCHARD RD, RT144 / QUINN ORCHARD RD Units: A339, E331</description>
       <guid isPermaLink="false">2026-05-06 15:15:00</guid>
       <pubDate>Wed, 06 May 2026 15:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 3:03 pm</title>
-      <description>13500 BLOCK MOTTERS STATION RD, ROCKY RIDGE POST OFFICE Radio: 9D Units: E133</description>
-      <guid isPermaLink="false">2026-05-06 15:03:00</guid>
-      <pubDate>Wed, 06 May 2026 15:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
