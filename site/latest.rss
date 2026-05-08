@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 08 May 2026 15:30:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 16:01:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:51 am</title>
+      <description>BUCKEYSTOWN PIKE / CRESTWOOD BLVD Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-05-08 11:51:00</guid>
+      <pubDate>Fri, 08 May 2026 11:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 10:21 am</title>
       <description>600 BLOCK W ADAMS CIR, FREDERICK COUNTY BELL COURT Radio: 9C Units: E161, E91</description>
@@ -300,12 +306,6 @@
       <description>13500 BLOCK MOTTERS STATION RD, ROCKY RIDGE POST OFFICE Radio: 9D Units: E133</description>
       <guid isPermaLink="false">2026-05-06 15:03:00</guid>
       <pubDate>Wed, 06 May 2026 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:37 pm</title>
-      <description>100 BLOCK W SOUTH ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-05-06 14:37:00</guid>
-      <pubDate>Wed, 06 May 2026 14:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
