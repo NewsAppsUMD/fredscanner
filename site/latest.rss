@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 11:17:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:45:06 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 7:28 am</title>
+      <description>300 BLOCK E MAIN ST Radio: 9C Units: E61, PE102, TW6, ACE232, C6</description>
+      <guid isPermaLink="false">2026-05-09 07:28:00</guid>
+      <pubDate>Sat, 09 May 2026 07:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:23 am</title>
       <description>WESTVIEW DR / EXECUTIVE WAY Units: A38, PE311</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WHITTIER DR, WHITTIER ELEMENTARY SCHOOL Radio: 9C Units: E11, TW1</description>
       <guid isPermaLink="false">2026-05-07 15:44:00</guid>
       <pubDate>Thu, 07 May 2026 15:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
-      <description>RT15 / 2MM, RT15 / 2MM Radio: 9B Units: A149, E281</description>
-      <guid isPermaLink="false">2026-05-07 14:57:00</guid>
-      <pubDate>Thu, 07 May 2026 14:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
