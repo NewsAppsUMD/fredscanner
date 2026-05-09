@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 09 May 2026 08:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 08:58:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:35 am</title>
+      <description>5800 BLOCK BALLENGER CREEK PIKE, PNC BANK - BALLENGER CREEK PLAZA Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-05-09 04:35:00</guid>
+      <pubDate>Sat, 09 May 2026 04:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:53 pm</title>
       <description>5500 BLOCK SPECTRUM DR, FOREIGN AUTO EXCELLENCE Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>4100 BLOCK HARVARD PL Radio: 9C Units: E141, TW1</description>
       <guid isPermaLink="false">2026-05-07 13:14:00</guid>
       <pubDate>Thu, 07 May 2026 13:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:58 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, Bldg:A, COAL FIRE PIZZA - CLEMSON CORNER Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-05-07 12:58:00</guid>
-      <pubDate>Thu, 07 May 2026 12:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
