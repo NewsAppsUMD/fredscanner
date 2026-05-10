@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 13:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 14:02:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
+      <description>1800 BLOCK WHEYFIELD DR Radio: 9C Units: EK114, Q11</description>
+      <guid isPermaLink="false">2026-05-10 09:32:00</guid>
+      <pubDate>Sun, 10 May 2026 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 8:52 am</title>
       <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>1600 BLOCK PINDER ST Radio: 9C Units: E11, TT4</description>
       <guid isPermaLink="false">2026-05-08 08:52:00</guid>
       <pubDate>Fri, 08 May 2026 08:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 8:47 am</title>
-      <description>1900 BLOCK N MARKET ST, Bldg:1162 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-08 08:47:00</guid>
-      <pubDate>Fri, 08 May 2026 08:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
