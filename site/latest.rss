@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 22:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 23:16:02 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:49 pm</title>
+      <description>3000 BLOCK HERB GARDEN DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-05-10 18:49:00</guid>
+      <pubDate>Sun, 10 May 2026 18:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:44 pm</title>
+      <description>I70EB / RT144 (FRED), I70EB / RT144 Units: E33, E331, R3, A38</description>
+      <guid isPermaLink="false">2026-05-10 18:44:00</guid>
+      <pubDate>Sun, 10 May 2026 18:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 5:06 pm</title>
       <description>5500 BLOCK PINNACLE WAY Radio: 9C Units: E331</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK JACKS CT Units: E153</description>
       <guid isPermaLink="false">2026-05-08 16:58:00</guid>
       <pubDate>Fri, 08 May 2026 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 4:14 pm</title>
-      <description>100 BLOCK CHALLENGER CT Radio: 9C Units: EK114, E161, Q11</description>
-      <guid isPermaLink="false">2026-05-08 16:14:00</guid>
-      <pubDate>Fri, 08 May 2026 16:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:09 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2026-05-08 15:09:00</guid>
-      <pubDate>Fri, 08 May 2026 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
