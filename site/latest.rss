@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 09:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:29:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:02 am</title>
+      <description>100 BLOCK LAUREN CT Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-05-10 06:02:00</guid>
+      <pubDate>Sun, 10 May 2026 06:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:16 am</title>
       <description>5300 BLOCK AGRO DR Radio: 9B Units: A149, R14</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311, TW1</description>
       <guid isPermaLink="false">2026-05-08 08:11:00</guid>
       <pubDate>Fri, 08 May 2026 08:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:56 am</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: E231, ALS23, A238</description>
-      <guid isPermaLink="false">2026-05-08 07:56:00</guid>
-      <pubDate>Fri, 08 May 2026 07:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
