@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 16:45:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:18:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:56 pm</title>
+      <description>I70WB / E PATRICK ST(RT144), I70WB / E PATRICK ST Radio: 9B Units: E331, E33, R3, A339, A38</description>
+      <guid isPermaLink="false">2026-05-10 12:56:00</guid>
+      <pubDate>Sun, 10 May 2026 12:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 12:51 pm</title>
+      <description>1700 BLOCK CANAL RUN DR Radio: 9C Units: E281, E201, R14</description>
+      <guid isPermaLink="false">2026-05-10 12:51:00</guid>
+      <pubDate>Sun, 10 May 2026 12:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 11:28 am</title>
       <description>6500 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226</description>
@@ -294,18 +306,6 @@
       <description>BUCKEYSTOWN PIKE / CRESTWOOD BLVD Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2026-05-08 11:51:00</guid>
       <pubDate>Fri, 08 May 2026 11:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 10:21 am</title>
-      <description>600 BLOCK W ADAMS CIR, FREDERICK COUNTY BELL COURT Radio: 9C Units: E161, E91</description>
-      <guid isPermaLink="false">2026-05-08 10:21:00</guid>
-      <pubDate>Fri, 08 May 2026 10:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:09 am</title>
-      <description>300 BLOCK S SETON AVE, Bldg:B, Apt/Unit:B, FREDERICK COUNTY FIRE MUSEUM Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2026-05-08 10:09:00</guid>
-      <pubDate>Fri, 08 May 2026 10:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
