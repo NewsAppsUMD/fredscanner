@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 10 May 2026 15:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 15:45:33 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 11:28 am</title>
+      <description>6500 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2026-05-10 11:28:00</guid>
+      <pubDate>Sun, 10 May 2026 11:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:27 am</title>
+      <description>100 BLOCK E C ST Radio: 9C Units: PE52, R19</description>
+      <guid isPermaLink="false">2026-05-10 11:27:00</guid>
+      <pubDate>Sun, 10 May 2026 11:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
       <description>1800 BLOCK WHEYFIELD DR Radio: 9C Units: EK114, Q11</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK S SETON AVE, Bldg:B, Apt/Unit:B, FREDERICK COUNTY FIRE MUSEUM Radio: 9C Units: E61, TW6</description>
       <guid isPermaLink="false">2026-05-08 10:09:00</guid>
       <pubDate>Fri, 08 May 2026 10:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 9:59 am</title>
-      <description>3000 BLOCK THURSTON RD, GREENBRIER PET RESORT &amp; VETERINARY CENTER Radio: 9C Units: E231, K23, E251, TT23</description>
-      <guid isPermaLink="false">2026-05-08 09:59:00</guid>
-      <pubDate>Fri, 08 May 2026 09:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:52 am</title>
-      <description>1600 BLOCK PINDER ST Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-05-08 08:52:00</guid>
-      <pubDate>Fri, 08 May 2026 08:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
