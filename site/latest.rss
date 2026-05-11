@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 21:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 22:21:01 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: A38</description>
+      <guid isPermaLink="false">2026-05-11 17:57:00</guid>
+      <pubDate>Mon, 11 May 2026 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
+      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Units: E501, E11, R2, A29, A19</description>
+      <guid isPermaLink="false">2026-05-11 17:50:00</guid>
+      <pubDate>Mon, 11 May 2026 17:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:23 pm</title>
       <description>5500 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MIDDLE SCHOOL Radio: 9D Units: E11</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E C ST Radio: 9C Units: PE52, R19</description>
       <guid isPermaLink="false">2026-05-10 11:27:00</guid>
       <pubDate>Sun, 10 May 2026 11:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:32 am</title>
-      <description>1800 BLOCK WHEYFIELD DR Radio: 9C Units: EK114, Q11</description>
-      <guid isPermaLink="false">2026-05-10 09:32:00</guid>
-      <pubDate>Sun, 10 May 2026 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 8:52 am</title>
-      <description>2400 BLOCK HIGHPOINT VIEW CT, VISTA VIEW CONDOS - 2400 BLOCK HIGHPOINT VIEW CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-10 08:52:00</guid>
-      <pubDate>Sun, 10 May 2026 08:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
