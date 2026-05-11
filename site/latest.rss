@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 22:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 23:17:49 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:14 pm</title>
+      <description>1100 BLOCK MILLER FARM DR Units: PE52</description>
+      <guid isPermaLink="false">2026-05-11 19:14:00</guid>
+      <pubDate>Mon, 11 May 2026 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: A38</description>
@@ -300,12 +306,6 @@
       <description>6500 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226</description>
       <guid isPermaLink="false">2026-05-10 11:28:00</guid>
       <pubDate>Sun, 10 May 2026 11:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:27 am</title>
-      <description>100 BLOCK E C ST Radio: 9C Units: PE52, R19</description>
-      <guid isPermaLink="false">2026-05-10 11:27:00</guid>
-      <pubDate>Sun, 10 May 2026 11:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
