@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2026 13:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 15:36:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:27 am</title>
+      <description>1600 BLOCK ROSEMONT AVE, SHEETZ - ROSEMONT Units: ALS31</description>
+      <guid isPermaLink="false">2026-05-11 11:27:00</guid>
+      <pubDate>Mon, 11 May 2026 11:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:15 am</title>
+      <description>1600 BLOCK ROSEMONT AVE, SHEETZ - ROSEMONT Units: A19, E11</description>
+      <guid isPermaLink="false">2026-05-11 11:15:00</guid>
+      <pubDate>Mon, 11 May 2026 11:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:05 am</title>
+      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A319</description>
+      <guid isPermaLink="false">2026-05-11 11:05:00</guid>
+      <pubDate>Mon, 11 May 2026 11:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:03 am</title>
+      <description>11800 BLOCK BROWNINGSVILLE RD Radio: 9B Units: A238</description>
+      <guid isPermaLink="false">2026-05-11 11:03:00</guid>
+      <pubDate>Mon, 11 May 2026 11:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:46 am</title>
+      <description>11800 BLOCK BROWNINGSVILLE RD Radio: 9B Units: A339</description>
+      <guid isPermaLink="false">2026-05-11 10:46:00</guid>
+      <pubDate>Mon, 11 May 2026 10:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:32 am</title>
+      <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-05-11 10:32:00</guid>
+      <pubDate>Mon, 11 May 2026 10:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:24 am</title>
+      <description>400 BLOCK PROSPECT BLVD, HOBBY TOWN USA - FESTIVAL CENTER Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-05-11 10:24:00</guid>
+      <pubDate>Mon, 11 May 2026 10:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 8:49 am</title>
       <description>100 BLOCK W MAIN ST, TEST TEST TEST TEST Units: E152</description>
@@ -264,48 +306,6 @@
       <description>KATHERINE ALY / KATHERINE WAY Radio: 9D Units: A259</description>
       <guid isPermaLink="false">2026-05-09 12:18:00</guid>
       <pubDate>Sat, 09 May 2026 12:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:15 pm</title>
-      <description>KATHERINE ALY / KATHERINE WAY Radio: 9D Units: A238, ALS23, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-05-09 12:15:00</guid>
-      <pubDate>Sat, 09 May 2026 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>EXPLOSION - MISCELLANEOUS: 11:56 am</title>
-      <description>CASH SMITH RD / COPPERMINE RD Radio: 9C Units: E161</description>
-      <guid isPermaLink="false">2026-05-09 11:56:00</guid>
-      <pubDate>Sat, 09 May 2026 11:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:35 am</title>
-      <description>ROSEMONT AVE / W SECOND ST Radio: 9D Units: A19, ALS2, E11, EMS902</description>
-      <guid isPermaLink="false">2026-05-09 10:35:00</guid>
-      <pubDate>Sat, 09 May 2026 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:53 am</title>
-      <description>5900 BLOCK GENESIS LN, EDENTON RETIREMENT FIDDLERS GREEN Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-05-09 08:53:00</guid>
-      <pubDate>Sat, 09 May 2026 08:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:25 am</title>
-      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9B Units: PE23, E11, R3, A29, A19</description>
-      <guid isPermaLink="false">2026-05-09 08:25:00</guid>
-      <pubDate>Sat, 09 May 2026 08:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:28 am</title>
-      <description>300 BLOCK E MAIN ST Radio: 9C Units: E61, PE102, TW6, ACE232, C6</description>
-      <guid isPermaLink="false">2026-05-09 07:28:00</guid>
-      <pubDate>Sat, 09 May 2026 07:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:23 am</title>
-      <description>WESTVIEW DR / EXECUTIVE WAY Units: A38, PE311</description>
-      <guid isPermaLink="false">2026-05-09 05:23:00</guid>
-      <pubDate>Sat, 09 May 2026 05:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
