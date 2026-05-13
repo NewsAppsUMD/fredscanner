@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 May 2026 22:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 22:51:24 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 6:40 pm</title>
+      <description>1700 BLOCK CANAL RUN DR Radio: 9D Units: A149, ALS4, E281, EMS901</description>
+      <guid isPermaLink="false">2026-05-13 18:40:00</guid>
+      <pubDate>Wed, 13 May 2026 18:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:24 pm</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL Radio: 9B Units: R2, EMS901</description>
+      <guid isPermaLink="false">2026-05-13 18:24:00</guid>
+      <pubDate>Wed, 13 May 2026 18:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:21 pm</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL Radio: 9B Units: A319, PE311</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: A38</description>
       <guid isPermaLink="false">2026-05-11 17:57:00</guid>
       <pubDate>Mon, 11 May 2026 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:50 pm</title>
-      <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Units: E501, E11, R2, A29, A19</description>
-      <guid isPermaLink="false">2026-05-11 17:50:00</guid>
-      <pubDate>Mon, 11 May 2026 17:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 5:23 pm</title>
-      <description>5500 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK MIDDLE SCHOOL Radio: 9D Units: E11</description>
-      <guid isPermaLink="false">2026-05-11 17:23:00</guid>
-      <pubDate>Mon, 11 May 2026 17:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
