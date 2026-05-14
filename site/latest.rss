@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 23:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 23:45:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
+      <description>5600 BLOCK MOUNTAIN LAUREL DR, IN FRONT OF LOCATION Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-05-14 19:41:00</guid>
+      <pubDate>Thu, 14 May 2026 19:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:40 pm</title>
+      <description>6200 BLOCK N STEAMBOAT WAY Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2026-05-14 19:40:00</guid>
+      <pubDate>Thu, 14 May 2026 19:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:26 pm</title>
       <description>100 BLOCK PLEASANT ACRES DR Radio: 9C Units: E102</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HILLCREST DR Radio: 9B Units: A38, E11</description>
       <guid isPermaLink="false">2026-05-12 17:56:00</guid>
       <pubDate>Tue, 12 May 2026 17:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:54 pm</title>
-      <description>RT28 / OLD LICKSVILLE RD (E), RT28 / OLD LICKSVILLE RD Radio: 9D Units: E281, R14, A149, ALS20, BC903, EMS900</description>
-      <guid isPermaLink="false">2026-05-12 17:54:00</guid>
-      <pubDate>Tue, 12 May 2026 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:43 pm</title>
-      <description>FAIRVIEW AVE / ROSEMONT AVE Radio: 9D Units: A18, PE23, E11, EMS902</description>
-      <guid isPermaLink="false">2026-05-12 17:43:00</guid>
-      <pubDate>Tue, 12 May 2026 17:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
