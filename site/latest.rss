@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 15:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 16:37:07 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:16 pm</title>
+      <description>5200 BLOCK WESTVIEW DR, EXTENDED STAY AMERICA Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-05-14 12:16:00</guid>
+      <pubDate>Thu, 14 May 2026 12:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:55 am</title>
+      <description>RT28 / DOCTOR BELT RD, RT28 / DOCTOR BELT RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2026-05-14 11:55:00</guid>
+      <pubDate>Thu, 14 May 2026 11:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
       <description>5200 BLOCK BLACK LOCUST DR, Bldg:D Radio: 9C Units: PE311, TW1</description>
@@ -294,18 +306,6 @@
       <description>5700 BLOCK ELMER DERR RD Units: E201, PE311, E33, E121, E501, E141, R20, TW1, TT4, EK204, K33, K5, A209, ALS20, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-05-12 17:15:00</guid>
       <pubDate>Tue, 12 May 2026 17:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:13 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2026-05-12 17:13:00</guid>
-      <pubDate>Tue, 12 May 2026 17:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:55 pm</title>
-      <description>MONOCACY BLVD / E CHURCH ST Radio: 9D Units: A38</description>
-      <guid isPermaLink="false">2026-05-12 16:55:00</guid>
-      <pubDate>Tue, 12 May 2026 16:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
