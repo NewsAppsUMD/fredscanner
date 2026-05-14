@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 02:17:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 03:43:40 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:51 pm</title>
+      <description>28000 BLOCK RIDGE RD Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-05-13 22:51:00</guid>
+      <pubDate>Wed, 13 May 2026 22:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:35 pm</title>
       <description>8600 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR176</description>
@@ -300,12 +306,6 @@
       <description>2100 BLOCK BRECKEN DELL CT Units: E11</description>
       <guid isPermaLink="false">2026-05-12 09:35:00</guid>
       <pubDate>Tue, 12 May 2026 09:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:24 am</title>
-      <description>19100 BLOCK SANDYHOOK RD Units: R19</description>
-      <guid isPermaLink="false">2026-05-12 09:24:00</guid>
-      <pubDate>Tue, 12 May 2026 09:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
