@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 May 2026 19:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 20:04:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:55 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / HOLLOW RD Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-05-15 15:55:00</guid>
+      <pubDate>Fri, 15 May 2026 15:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 1:56 pm</title>
       <description>MOTTER AVE / FAIRVIEW AVE Radio: 9D Units: A38, PE23, EMS902</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK GIRL SCOUT RD Units: EK64</description>
       <guid isPermaLink="false">2026-05-13 08:49:00</guid>
       <pubDate>Wed, 13 May 2026 08:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:04 am</title>
-      <description>4800 BLOCK HITESHOW DR Radio: 9B Units: E201, TT4</description>
-      <guid isPermaLink="false">2026-05-13 08:04:00</guid>
-      <pubDate>Wed, 13 May 2026 08:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
