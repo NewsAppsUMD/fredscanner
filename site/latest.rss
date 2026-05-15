@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 May 2026 23:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:26:28 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 8:20 pm</title>
+      <description>12700 BLOCK BUCHANAN TRL E Units: R10</description>
+      <guid isPermaLink="false">2026-05-14 20:20:00</guid>
+      <pubDate>Thu, 14 May 2026 20:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:05 pm</title>
+      <description>I70WB / 36MM Units: E82</description>
+      <guid isPermaLink="false">2026-05-14 20:05:00</guid>
+      <pubDate>Thu, 14 May 2026 20:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 7:56 pm</title>
+      <description>300 BLOCK FURGESON LN Units: A19</description>
+      <guid isPermaLink="false">2026-05-14 19:56:00</guid>
+      <pubDate>Thu, 14 May 2026 19:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:48 pm</title>
+      <description>600 BLOCK CULLER AVE Radio: 9B Units: PE23</description>
+      <guid isPermaLink="false">2026-05-14 19:48:00</guid>
+      <pubDate>Thu, 14 May 2026 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
       <description>5600 BLOCK MOUNTAIN LAUREL DR, IN FRONT OF LOCATION Radio: 9B Units: A18, E11</description>
@@ -282,30 +306,6 @@
       <description>RIDGE RD / BRADDOCK RD Radio: CCA7 Units: K17</description>
       <guid isPermaLink="false">2026-05-12 20:59:00</guid>
       <pubDate>Tue, 12 May 2026 20:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 8:55 pm</title>
-      <description>6200 BLOCK DAVINCI ST Radio: 9C Units: E11, PE311, TT4</description>
-      <guid isPermaLink="false">2026-05-12 20:55:00</guid>
-      <pubDate>Tue, 12 May 2026 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 8:13 pm</title>
-      <description>2500 BLOCK MONUMENT RD Radio: 9C Units: E82, BR85, DNR</description>
-      <guid isPermaLink="false">2026-05-12 20:13:00</guid>
-      <pubDate>Tue, 12 May 2026 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:21 pm</title>
-      <description>RT15NB / RT77, RT15NB / RT77 Units: A307, PE102</description>
-      <guid isPermaLink="false">2026-05-12 18:21:00</guid>
-      <pubDate>Tue, 12 May 2026 18:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
-      <description>100 BLOCK HILLCREST DR Radio: 9B Units: A38, E11</description>
-      <guid isPermaLink="false">2026-05-12 17:56:00</guid>
-      <pubDate>Tue, 12 May 2026 17:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
