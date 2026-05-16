@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 17:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 18:16:04 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 1:56 pm</title>
+      <description>14900 BLOCK N FRANKLINVILLE RD, IAO Radio: 9C Units: A307</description>
+      <guid isPermaLink="false">2026-05-16 13:56:00</guid>
+      <pubDate>Sat, 16 May 2026 13:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 1:35 pm</title>
       <description>14900 BLOCK N FRANKLINVILLE RD, IAO Radio: 9C Units: BR65</description>
@@ -300,12 +306,6 @@
       <description>13800 BLOCK TAYLORSTOWN RD Radio: 6B Units: TT4</description>
       <guid isPermaLink="false">2026-05-14 10:44:00</guid>
       <pubDate>Thu, 14 May 2026 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:30 am</title>
-      <description>6000 BLOCK SPRING RIDGE PKWY Radio: 9B Units: A339, E331</description>
-      <guid isPermaLink="false">2026-05-14 10:30:00</guid>
-      <pubDate>Thu, 14 May 2026 10:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
