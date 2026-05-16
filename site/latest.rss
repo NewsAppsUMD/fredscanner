@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 18:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 18:46:14 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:39 pm</title>
+      <description>4500 BLOCK TUSCARORA RD Radio: 9I Units: A149, ALS20, EMS901</description>
+      <guid isPermaLink="false">2026-05-16 14:39:00</guid>
+      <pubDate>Sat, 16 May 2026 14:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 2:31 pm</title>
+      <description>SUGARLOAF MOUNTAIN - EAST VIEW PARKING, SUGARLOAF MOUNTAIN - EAST VIEW PARKING Radio: 9D Units: E231, E281, R14, TR29, BC901, SAF900, EMS900</description>
+      <guid isPermaLink="false">2026-05-16 14:31:00</guid>
+      <pubDate>Sat, 16 May 2026 14:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 1:56 pm</title>
       <description>14900 BLOCK N FRANKLINVILLE RD, IAO Radio: 9C Units: A307</description>
@@ -294,18 +306,6 @@
       <description>RT28 / DOCTOR BELT RD, RT28 / DOCTOR BELT RD Radio: 9B Units: A149, R14</description>
       <guid isPermaLink="false">2026-05-14 11:55:00</guid>
       <pubDate>Thu, 14 May 2026 11:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Bldg:D Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-05-14 11:27:00</guid>
-      <pubDate>Thu, 14 May 2026 11:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:44 am</title>
-      <description>13800 BLOCK TAYLORSTOWN RD Radio: 6B Units: TT4</description>
-      <guid isPermaLink="false">2026-05-14 10:44:00</guid>
-      <pubDate>Thu, 14 May 2026 10:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
