@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 17:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 17:46:24 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 1:35 pm</title>
+      <description>14900 BLOCK N FRANKLINVILLE RD, IAO Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-05-16 13:35:00</guid>
+      <pubDate>Sat, 16 May 2026 13:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 1:31 pm</title>
+      <description>14900 BLOCK N FRANKLINVILLE RD, IAO Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-05-16 13:31:00</guid>
+      <pubDate>Sat, 16 May 2026 13:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:29 pm</title>
+      <description>12800 BLOCK MENTZER GAP RD Units: TW6</description>
+      <guid isPermaLink="false">2026-05-16 13:29:00</guid>
+      <pubDate>Sat, 16 May 2026 13:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 12:01 pm</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE, ETERNIA DREAMS Radio: 9C Units: PE311, E33, R3</description>
@@ -288,24 +306,6 @@
       <description>6000 BLOCK SPRING RIDGE PKWY Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2026-05-14 10:30:00</guid>
       <pubDate>Thu, 14 May 2026 10:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:29 am</title>
-      <description>100 BLOCK ALESSANDRA CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-14 10:29:00</guid>
-      <pubDate>Thu, 14 May 2026 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:55 am</title>
-      <description>100 BLOCK W MAIN ST, MIDDLETOWN TOWN OFFICE Radio: 9C Units: E72, TW7</description>
-      <guid isPermaLink="false">2026-05-14 09:55:00</guid>
-      <pubDate>Thu, 14 May 2026 09:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:37 am</title>
-      <description>URBANA PIKE / BUCKEYSTOWN PIKE Radio: 9D Units: E33, R2, A38, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-05-14 09:37:00</guid>
-      <pubDate>Thu, 14 May 2026 09:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
