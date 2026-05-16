@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 06:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 07:14:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:45 am</title>
+      <description>I70WB / 45MM, I70WB / 45MM Radio: 9B Units: E121, E82, R3, A129, A89</description>
+      <guid isPermaLink="false">2026-05-16 02:45:00</guid>
+      <pubDate>Sat, 16 May 2026 02:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 2:18 am</title>
+      <description>500 BLOCK SILO HILL PKWY, SLEEP INN &amp; SUITES - EMMITSBURG Radio: 9C Units: TW6</description>
+      <guid isPermaLink="false">2026-05-16 02:18:00</guid>
+      <pubDate>Sat, 16 May 2026 02:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:59 am</title>
       <description>RT15 / RT464, RT15 / RT464 Radio: 9B Units: A149, E281</description>
@@ -294,18 +306,6 @@
       <description>I70WB / RT40A(BRADDOCK), I70WB / RT40A Radio: 9B Units: ALS8</description>
       <guid isPermaLink="false">2026-05-13 20:19:00</guid>
       <pubDate>Wed, 13 May 2026 20:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT: 8:14 pm</title>
-      <description>17200 BLOCK MOUNTAIN VIEW RD Radio: 9D Units: RID, R10, W6</description>
-      <guid isPermaLink="false">2026-05-13 20:14:00</guid>
-      <pubDate>Wed, 13 May 2026 20:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:13 pm</title>
-      <description>700 BLOCK E B ST Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-05-13 20:13:00</guid>
-      <pubDate>Wed, 13 May 2026 20:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
