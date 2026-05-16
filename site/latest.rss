@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 May 2026 07:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 08:13:10 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:55 am</title>
+      <description>RT15SB / 2MM Units: TW6, A69</description>
+      <guid isPermaLink="false">2026-05-16 03:55:00</guid>
+      <pubDate>Sat, 16 May 2026 03:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:55 am</title>
+      <description>RT15SB / 2MM Units: EK64</description>
+      <guid isPermaLink="false">2026-05-16 03:55:00</guid>
+      <pubDate>Sat, 16 May 2026 03:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:45 am</title>
       <description>I70WB / 45MM, I70WB / 45MM Radio: 9B Units: E121, E82, R3, A129, A89</description>
@@ -294,18 +306,6 @@
       <description>8600 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2026-05-13 20:35:00</guid>
       <pubDate>Wed, 13 May 2026 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:25 pm</title>
-      <description>6400 BLOCK SPRING FOREST RD Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-05-13 20:25:00</guid>
-      <pubDate>Wed, 13 May 2026 20:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:19 pm</title>
-      <description>I70WB / RT40A(BRADDOCK), I70WB / RT40A Radio: 9B Units: ALS8</description>
-      <guid isPermaLink="false">2026-05-13 20:19:00</guid>
-      <pubDate>Wed, 13 May 2026 20:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
