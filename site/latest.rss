@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 17 May 2026 22:16:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 22:45:36 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:26 pm</title>
+      <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Radio: 9I Units: E501, R2, A29, ALS2, BC901, EMS900</description>
+      <guid isPermaLink="false">2026-05-17 18:26:00</guid>
+      <pubDate>Sun, 17 May 2026 18:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:50 pm</title>
       <description>JAMES MONROE HWY / SUGARLOAF VIEW LN Radio: 6B Units: E281, A209</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK KEY PKWY Radio: 9B Units: A18</description>
       <guid isPermaLink="false">2026-05-15 17:32:00</guid>
       <pubDate>Fri, 15 May 2026 17:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:31 pm</title>
-      <description>100 BLOCK KEY PKWY Radio: 9B Units: U1</description>
-      <guid isPermaLink="false">2026-05-15 17:31:00</guid>
-      <pubDate>Fri, 15 May 2026 17:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
