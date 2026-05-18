@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 22:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 23:21:33 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:56 pm</title>
+      <description>PENN SHOP RD / GOLF CLUB TER, IAO Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-05-18 18:56:00</guid>
+      <pubDate>Mon, 18 May 2026 18:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:58 pm</title>
       <description>1500 BLOCK TILCO DR, Apt/Unit:114 Radio: 9C Units: E33, TW1</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE, ETERNIA DREAMS Radio: 9C Units: PE311, E33, R3</description>
       <guid isPermaLink="false">2026-05-16 12:01:00</guid>
       <pubDate>Sat, 16 May 2026 12:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:38 am</title>
-      <description>100 BLOCK N WISNER ST, IAO Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-05-16 11:38:00</guid>
-      <pubDate>Sat, 16 May 2026 11:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
