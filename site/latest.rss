@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 18 May 2026 12:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:09:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:59 am</title>
+      <description>100 BLOCK(2100 BLOCK723) BLK NATIONAL PIKE, SHEETZ Units: A89</description>
+      <guid isPermaLink="false">2026-05-18 09:59:00</guid>
+      <pubDate>Mon, 18 May 2026 09:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:15 am</title>
+      <description>900 BLOCK WATERFORD DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-18 09:15:00</guid>
+      <pubDate>Mon, 18 May 2026 09:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:19 am</title>
       <description>700 BLOCK E PATRICK ST Radio: 9C Units: E33, T4</description>
@@ -294,18 +306,6 @@
       <description>RT15 / RT464, RT15 / RT464 Radio: 9B Units: A149, E281</description>
       <guid isPermaLink="false">2026-05-16 01:59:00</guid>
       <pubDate>Sat, 16 May 2026 01:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:47 am</title>
-      <description>500 BLOCK SILO HILL PKWY, SLEEP INN &amp; SUITES - EMMITSBURG Radio: 9C Units: TW6</description>
-      <guid isPermaLink="false">2026-05-16 01:47:00</guid>
-      <pubDate>Sat, 16 May 2026 01:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:32 am</title>
-      <description>RT340WB / ELMER RD, RT340WB / ELMER RD Radio: 9D Units: E201, R20, A209, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-05-16 00:32:00</guid>
-      <pubDate>Sat, 16 May 2026 00:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
