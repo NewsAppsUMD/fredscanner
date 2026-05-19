@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 17:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 18:33:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:17 pm</title>
+      <description>10100 BLOCK HANSONVILLE RD, FREDERICK CHRISTIAN FELLOWSHIP - 10100 BLOCK HANSONVILLE RD Radio: 9C Units: E111, Q11, E221</description>
+      <guid isPermaLink="false">2026-05-19 14:17:00</guid>
+      <pubDate>Tue, 19 May 2026 14:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:29 pm</title>
       <description>2500 BLOCK WATERSIDE DR, Apt/Unit:211, PARK PLACE II - WORMANS MILL Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Units: A19, ALS4</description>
       <guid isPermaLink="false">2026-05-17 19:00:00</guid>
       <pubDate>Sun, 17 May 2026 19:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:26 pm</title>
-      <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Radio: 9I Units: E501, R2, A29, ALS2, BC901, EMS900</description>
-      <guid isPermaLink="false">2026-05-17 18:26:00</guid>
-      <pubDate>Sun, 17 May 2026 18:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
