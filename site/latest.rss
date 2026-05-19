@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 15:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 16:32:34 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:03 pm</title>
+      <description>2100 BLOCK OLD FARM DR, LA PETITE ACADEMY - OLD FARM DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-19 12:03:00</guid>
+      <pubDate>Tue, 19 May 2026 12:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:59 am</title>
+      <description>E FIFTH ST / N EAST ST Radio: 9B Units: A29, PE23</description>
+      <guid isPermaLink="false">2026-05-19 10:59:00</guid>
+      <pubDate>Tue, 19 May 2026 10:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:04 am</title>
       <description>100 BLOCK W CHURCH ST, RISER ACADEMY Radio: 9C Units: PE23</description>
@@ -294,18 +306,6 @@
       <description>JAMES MONROE HWY / SUGARLOAF VIEW LN Radio: 6B Units: E281, A209</description>
       <guid isPermaLink="false">2026-05-17 16:50:00</guid>
       <pubDate>Sun, 17 May 2026 16:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:44 pm</title>
-      <description>I70WB / 42MM, I70WB / 42MM Radio: 9B Units: E82, E72, RE74, A89</description>
-      <guid isPermaLink="false">2026-05-17 13:44:00</guid>
-      <pubDate>Sun, 17 May 2026 13:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
-      <description>8500 BLOCK LONGLEAF DR Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-05-17 13:38:00</guid>
-      <pubDate>Sun, 17 May 2026 13:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
