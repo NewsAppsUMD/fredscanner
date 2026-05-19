@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 12:26:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 13:35:18 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 9:30 am</title>
+      <description>42000 BLOCK SWEET SPRING LN Radio: 6DTAC11 Units: A209, R20, EK204, T5, E201</description>
+      <guid isPermaLink="false">2026-05-19 09:30:00</guid>
+      <pubDate>Tue, 19 May 2026 09:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:45 am</title>
+      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9B Units: E121</description>
+      <guid isPermaLink="false">2026-05-19 08:45:00</guid>
+      <pubDate>Tue, 19 May 2026 08:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:39 am</title>
+      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9B Units: A129, E72</description>
+      <guid isPermaLink="false">2026-05-19 08:39:00</guid>
+      <pubDate>Tue, 19 May 2026 08:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:26 am</title>
       <description>1500 BLOCK N MARKET ST, THOMAS JOHNSON HIGH SCHOOL Radio: 9B Units: A29, PE23</description>
@@ -288,24 +306,6 @@
       <description>MILL BOTTOM RD / RIDGE RD Radio: 9D Units: E153, BC901, EMS902</description>
       <guid isPermaLink="false">2026-05-17 12:39:00</guid>
       <pubDate>Sun, 17 May 2026 12:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:18 am</title>
-      <description>1000 BLOCK W PATRICK ST, PETERSENS CARPET &amp; FLOORING Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-05-17 11:18:00</guid>
-      <pubDate>Sun, 17 May 2026 11:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:24 am</title>
-      <description>3800 BLOCK JEFFERSON PIKE, JEFFERSON UNITED CHURCH OF CHRIST Radio: 9C Units: E201, T5</description>
-      <guid isPermaLink="false">2026-05-17 10:24:00</guid>
-      <pubDate>Sun, 17 May 2026 10:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:41 am</title>
-      <description>I70EB / RT17, I70EB / RT17 Radio: 9D Units: E82, E72, RE74, A89, A78, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-05-17 07:41:00</guid>
-      <pubDate>Sun, 17 May 2026 07:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
