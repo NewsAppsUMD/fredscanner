@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 05:18:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 06:45:11 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:43 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: A37</description>
+      <guid isPermaLink="false">2026-05-19 02:43:00</guid>
+      <pubDate>Tue, 19 May 2026 02:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:41 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: E111</description>
+      <guid isPermaLink="false">2026-05-19 02:41:00</guid>
+      <pubDate>Tue, 19 May 2026 02:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:27 am</title>
+      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: W15</description>
+      <guid isPermaLink="false">2026-05-19 02:27:00</guid>
+      <pubDate>Tue, 19 May 2026 02:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:14 am</title>
+      <description>300 BLOCK BALLENGER CENTER DR Units: PE311, TW1</description>
+      <guid isPermaLink="false">2026-05-19 02:14:00</guid>
+      <pubDate>Tue, 19 May 2026 02:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 am</title>
+      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: HM33, HMSU33</description>
+      <guid isPermaLink="false">2026-05-19 01:52:00</guid>
+      <pubDate>Tue, 19 May 2026 01:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 am</title>
+      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: E251, A38</description>
+      <guid isPermaLink="false">2026-05-19 01:52:00</guid>
+      <pubDate>Tue, 19 May 2026 01:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:47 am</title>
+      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: E153, E331, R15, A259, A339, ALS17, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-05-19 01:47:00</guid>
+      <pubDate>Tue, 19 May 2026 01:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 12:57 am</title>
       <description>I70EB / 35MM Units: E82</description>
@@ -264,48 +306,6 @@
       <description>2500 BLOCK HEMINGWAY DR, Apt/Unit:1A, RIDGEVIEW CONDOS - 2500 BLOCK HEMINGWAY DR Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-05-17 02:43:00</guid>
       <pubDate>Sun, 17 May 2026 02:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 2:31 am</title>
-      <description>1300 BLOCK MOTTER AVE, Apt/Unit:87, FREDERICK GREENES APTS Radio: 9C Units: TT4</description>
-      <guid isPermaLink="false">2026-05-17 02:31:00</guid>
-      <pubDate>Sun, 17 May 2026 02:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 1:53 am</title>
-      <description>1300 BLOCK MOTTER AVE, Apt/Unit:87, FREDERICK GREENES APTS Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-17 01:53:00</guid>
-      <pubDate>Sun, 17 May 2026 01:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:50 am</title>
-      <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-05-17 00:50:00</guid>
-      <pubDate>Sun, 17 May 2026 00:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:40 pm</title>
-      <description>I70EB / 39MM, I70EB / 39MM Radio: 9B Units: E82, A89</description>
-      <guid isPermaLink="false">2026-05-16 23:40:00</guid>
-      <pubDate>Sat, 16 May 2026 23:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:14 pm</title>
-      <description>9500 BLOCK HARMONY RD Radio: 9C Units: BR85</description>
-      <guid isPermaLink="false">2026-05-16 20:14:00</guid>
-      <pubDate>Sat, 16 May 2026 20:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:37 pm</title>
-      <description>5700 BLOCK HALLER PL Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-05-16 19:37:00</guid>
-      <pubDate>Sat, 16 May 2026 19:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 4:09 pm</title>
-      <description>I70EB / EXIT 59 (RT144 NEWM), I70EB / EXIT 59 Radio: 9C Units: E331, E153</description>
-      <guid isPermaLink="false">2026-05-16 16:09:00</guid>
-      <pubDate>Sat, 16 May 2026 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
