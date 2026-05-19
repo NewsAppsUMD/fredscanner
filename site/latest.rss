@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 19:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 20:31:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:13 pm</title>
+      <description>MOUNTVILLE RD / LANDER RD, Apt/Unit:HTTPS://A91.IO/03NZB Radio: 9B Units: A149, E201</description>
+      <guid isPermaLink="false">2026-05-19 16:13:00</guid>
+      <pubDate>Tue, 19 May 2026 16:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:38 pm</title>
+      <description>8800 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR175, BR116</description>
+      <guid isPermaLink="false">2026-05-19 15:38:00</guid>
+      <pubDate>Tue, 19 May 2026 15:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:34 pm</title>
+      <description>NEW WINDSOR RD / CLEMSONVILLE RD Radio: 9B Units: A179</description>
+      <guid isPermaLink="false">2026-05-19 15:34:00</guid>
+      <pubDate>Tue, 19 May 2026 15:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:32 pm</title>
+      <description>8800 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-05-19 15:32:00</guid>
+      <pubDate>Tue, 19 May 2026 15:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:17 pm</title>
       <description>10100 BLOCK HANSONVILLE RD, FREDERICK CHRISTIAN FELLOWSHIP - 10100 BLOCK HANSONVILLE RD Radio: 9C Units: E111, Q11, E221</description>
@@ -282,30 +306,6 @@
       <description>5900 BLOCK APLOMADO LN Units: E331</description>
       <guid isPermaLink="false">2026-05-17 19:48:00</guid>
       <pubDate>Sun, 17 May 2026 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:48 pm</title>
-      <description>5900 BLOCK APLOMADO LN Units: E331</description>
-      <guid isPermaLink="false">2026-05-17 19:48:00</guid>
-      <pubDate>Sun, 17 May 2026 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:44 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, Bldg:200, DAYS INN Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-05-17 19:44:00</guid>
-      <pubDate>Sun, 17 May 2026 19:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 7:04 pm</title>
-      <description>9600 BLOCK WOODLAND RD Radio: 9D Units: E111, R24, A248, ALS17, EMS901</description>
-      <guid isPermaLink="false">2026-05-17 19:04:00</guid>
-      <pubDate>Sun, 17 May 2026 19:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:00 pm</title>
-      <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Units: A19, ALS4</description>
-      <guid isPermaLink="false">2026-05-17 19:00:00</guid>
-      <pubDate>Sun, 17 May 2026 19:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
