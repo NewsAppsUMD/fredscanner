@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 08:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 09:44:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:14 am</title>
+      <description>1300 BLOCK DAVID LN Units: E11</description>
+      <guid isPermaLink="false">2026-05-19 04:14:00</guid>
+      <pubDate>Tue, 19 May 2026 04:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:43 am</title>
       <description>100 BLOCK W MAIN ST, STATION 15 Units: A37</description>
@@ -300,12 +306,6 @@
       <description>LEATHERMAN RD / FISH HATCHERY RD Units: E291, PE102, E111, PE23, E162, E501, R24, Q11, TW1, EK224, K9, A229, ALS29, E221, K22, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-05-17 07:01:00</guid>
       <pubDate>Sun, 17 May 2026 07:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:43 am</title>
-      <description>2500 BLOCK HEMINGWAY DR, Apt/Unit:1A, RIDGEVIEW CONDOS - 2500 BLOCK HEMINGWAY DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-17 02:43:00</guid>
-      <pubDate>Sun, 17 May 2026 02:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
