@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 04:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 06:21:25 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:08 am</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: PE102</description>
+      <guid isPermaLink="false">2026-05-20 02:08:00</guid>
+      <pubDate>Wed, 20 May 2026 02:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:58 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK64</description>
+      <guid isPermaLink="false">2026-05-20 01:58:00</guid>
+      <pubDate>Wed, 20 May 2026 01:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:30 am</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK134</description>
+      <guid isPermaLink="false">2026-05-20 01:30:00</guid>
+      <pubDate>Wed, 20 May 2026 01:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:28 am</title>
+      <description>6500 BLOCKH NEW LONDON RD Units: K9</description>
+      <guid isPermaLink="false">2026-05-20 01:28:00</guid>
+      <pubDate>Wed, 20 May 2026 01:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 1:24 am</title>
+      <description>100 BLOCK W MAIN ST, STATION 15 Units: RE74</description>
+      <guid isPermaLink="false">2026-05-20 01:24:00</guid>
+      <pubDate>Wed, 20 May 2026 01:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:22 am</title>
+      <description>6500 BLOCKH NEW LONDON RD Units: TTF, E231, EK114, EK204, W17</description>
+      <guid isPermaLink="false">2026-05-20 01:22:00</guid>
+      <pubDate>Wed, 20 May 2026 01:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:18 am</title>
+      <description>6500 BLOCKH NEW LONDON RD Units: RID, PE23, T4, A179, EMS901, W15</description>
+      <guid isPermaLink="false">2026-05-20 01:18:00</guid>
+      <pubDate>Wed, 20 May 2026 01:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:15 am</title>
+      <description>6500 BLOCKH NEW LONDON RD Units: K23, EK114</description>
+      <guid isPermaLink="false">2026-05-20 01:15:00</guid>
+      <pubDate>Wed, 20 May 2026 01:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 1:09 am</title>
+      <description>6500 BLOCKH NEW LONDON RD Units: E153, E172, E331, E31, PE311, R15, R3, K17, K33, A159, ALS17, BC901, BC903, SAF900, E251, CCK1</description>
+      <guid isPermaLink="false">2026-05-20 01:09:00</guid>
+      <pubDate>Wed, 20 May 2026 01:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:05 pm</title>
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: E311</description>
@@ -252,60 +306,6 @@
       <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2026-05-18 21:13:00</guid>
       <pubDate>Mon, 18 May 2026 21:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 8:18 pm</title>
-      <description>100 BLOCK JOHN ST, STATION CC003 - WESTMINSTER FIRE ENGINE AND HOSE CO Units: TW6</description>
-      <guid isPermaLink="false">2026-05-18 20:18:00</guid>
-      <pubDate>Mon, 18 May 2026 20:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:29 pm</title>
-      <description>APPROX LOC:15-340W FROM S JEFF ST TO JEFF PIKE OVRPASS HWY, PH2 Radio: 9B Units: PE23, E11, R3, A38, A37</description>
-      <guid isPermaLink="false">2026-05-18 19:29:00</guid>
-      <pubDate>Mon, 18 May 2026 19:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:18 pm</title>
-      <description>1300 BLOCK HUGHES FORD RD, S&amp;V PARTNERSHIP Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2026-05-18 19:18:00</guid>
-      <pubDate>Mon, 18 May 2026 19:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:56 pm</title>
-      <description>PENN SHOP RD / GOLF CLUB TER, IAO Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-05-18 18:56:00</guid>
-      <pubDate>Mon, 18 May 2026 18:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:58 pm</title>
-      <description>1500 BLOCK TILCO DR, Apt/Unit:114 Radio: 9C Units: E33, TW1</description>
-      <guid isPermaLink="false">2026-05-18 16:58:00</guid>
-      <pubDate>Mon, 18 May 2026 16:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:49 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, MCDONALDS - PROSPECT PLAZA Radio: 9B Units: A37, T4</description>
-      <guid isPermaLink="false">2026-05-18 16:49:00</guid>
-      <pubDate>Mon, 18 May 2026 16:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:30 pm</title>
-      <description>1500 BLOCK FREEDMAN DR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-18 15:30:00</guid>
-      <pubDate>Mon, 18 May 2026 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:04 pm</title>
-      <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: A169</description>
-      <guid isPermaLink="false">2026-05-18 15:04:00</guid>
-      <pubDate>Mon, 18 May 2026 15:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:51 pm</title>
-      <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: TW1, E33</description>
-      <guid isPermaLink="false">2026-05-18 12:51:00</guid>
-      <pubDate>Mon, 18 May 2026 12:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
