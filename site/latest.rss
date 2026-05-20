@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 15:01:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 16:31:36 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:25 pm</title>
+      <description>8400 BLOCK PROGRESS CT Radio: 9D Units: R2</description>
+      <guid isPermaLink="false">2026-05-20 12:25:00</guid>
+      <pubDate>Wed, 20 May 2026 12:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:23 pm</title>
+      <description>8400 BLOCK PROGRESS CT Radio: 9D Units: E111, R24, A29, ALS2, EMS902</description>
+      <guid isPermaLink="false">2026-05-20 12:23:00</guid>
+      <pubDate>Wed, 20 May 2026 12:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:43 am</title>
+      <description>100 BLOCK S CHURCH ST Radio: 6B Units: T5</description>
+      <guid isPermaLink="false">2026-05-20 11:43:00</guid>
+      <pubDate>Wed, 20 May 2026 11:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:16 am</title>
+      <description>CRESTWOOD BLVD / SOCIETY CIR Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-05-20 11:16:00</guid>
+      <pubDate>Wed, 20 May 2026 11:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 10:17 am</title>
       <description>100 BLOCK S JEFFERSON ST Radio: 9C Units: E31</description>
@@ -282,30 +306,6 @@
       <description>300 BLOCK BALLENGER CENTER DR Units: PE311, TW1</description>
       <guid isPermaLink="false">2026-05-19 02:14:00</guid>
       <pubDate>Tue, 19 May 2026 02:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 am</title>
-      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: HM33, HMSU33</description>
-      <guid isPermaLink="false">2026-05-19 01:52:00</guid>
-      <pubDate>Tue, 19 May 2026 01:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:52 am</title>
-      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: E251, A38</description>
-      <guid isPermaLink="false">2026-05-19 01:52:00</guid>
-      <pubDate>Tue, 19 May 2026 01:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:47 am</title>
-      <description>I70WB / 61MM, I70WB / 61MM Radio: 9D Units: E153, E331, R15, A259, A339, ALS17, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-05-19 01:47:00</guid>
-      <pubDate>Tue, 19 May 2026 01:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:57 am</title>
-      <description>I70EB / 35MM Units: E82</description>
-      <guid isPermaLink="false">2026-05-19 00:57:00</guid>
-      <pubDate>Tue, 19 May 2026 00:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
