@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 19 May 2026 23:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 00:30:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:12 pm</title>
+      <description>10800 BLOCK HAUGHS CHURCH RD Radio: 9B Units: A169, E132</description>
+      <guid isPermaLink="false">2026-05-19 20:12:00</guid>
+      <pubDate>Tue, 19 May 2026 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:04 pm</title>
+      <description>2500 BLOCK ISLAND GROVE BLVD Radio: 9C Units: E291, Q11</description>
+      <guid isPermaLink="false">2026-05-19 20:04:00</guid>
+      <pubDate>Tue, 19 May 2026 20:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 7:54 pm</title>
+      <description>400 BLOCK W MAIN ST, Apt/Unit:B Units: EMS902</description>
+      <guid isPermaLink="false">2026-05-19 19:54:00</guid>
+      <pubDate>Tue, 19 May 2026 19:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 7:49 pm</title>
+      <description>400 BLOCK W MAIN ST, Apt/Unit:B Units: EK64, PE102, E132, ACE21, TW6, A69, ALS30, ACE23, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-05-19 19:49:00</guid>
+      <pubDate>Tue, 19 May 2026 19:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 7:28 pm</title>
       <description>11700 BLOCK WARNER RD Radio: 9C Units: K17</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: T4, PE23</description>
       <guid isPermaLink="false">2026-05-18 12:46:00</guid>
       <pubDate>Mon, 18 May 2026 12:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 11:33 am</title>
-      <description>7100 BLOCK GUILFORD DR Radio: 9C Units: E311</description>
-      <guid isPermaLink="false">2026-05-18 11:33:00</guid>
-      <pubDate>Mon, 18 May 2026 11:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 11:21 am</title>
-      <description>I70WB / CARROLL COUNTY LINE, I70WB / EXIT 68 Radio: 9D Units: E153, A159, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-05-18 11:21:00</guid>
-      <pubDate>Mon, 18 May 2026 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:17 am</title>
-      <description>20600 BLOCK BOLAND FARM RD, STATION MC734 - GERMANTOWN/MILESTONE Units: A259</description>
-      <guid isPermaLink="false">2026-05-18 11:17:00</guid>
-      <pubDate>Mon, 18 May 2026 11:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:59 am</title>
-      <description>100 BLOCK(2100 BLOCK723) BLK NATIONAL PIKE, SHEETZ Units: A89</description>
-      <guid isPermaLink="false">2026-05-18 09:59:00</guid>
-      <pubDate>Mon, 18 May 2026 09:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
