@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 22:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 23:34:07 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:23 pm</title>
+      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S N V PARTNER SHIP Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2026-05-20 19:23:00</guid>
+      <pubDate>Wed, 20 May 2026 19:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 6:57 pm</title>
+      <description>13800 BLOCK GRACEHAM RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-05-20 18:57:00</guid>
+      <pubDate>Wed, 20 May 2026 18:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
       <description>3200 BLOCK MAR-LU-RIDGE RD Radio: 9C Units: E201, T5</description>
@@ -294,18 +306,6 @@
       <description>6500 BLOCKH NEW LONDON RD Units: E153, E172, E331, E31, PE311, R15, R3, K17, K33, A159, ALS17, BC901, BC903, SAF900, E251, CCK1</description>
       <guid isPermaLink="false">2026-05-20 01:09:00</guid>
       <pubDate>Wed, 20 May 2026 01:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:05 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Units: E311</description>
-      <guid isPermaLink="false">2026-05-19 23:05:00</guid>
-      <pubDate>Tue, 19 May 2026 23:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:12 pm</title>
-      <description>10800 BLOCK HAUGHS CHURCH RD Radio: 9B Units: A169, E132</description>
-      <guid isPermaLink="false">2026-05-19 20:12:00</guid>
-      <pubDate>Tue, 19 May 2026 20:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
