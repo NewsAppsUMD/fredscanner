@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 18:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 19:42:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:39 pm</title>
+      <description>I70WB / 52MM, I70WB / 52MM Radio: 9B Units: E31, E121, R3, A38, A129</description>
+      <guid isPermaLink="false">2026-05-20 15:39:00</guid>
+      <pubDate>Wed, 20 May 2026 15:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:36 pm</title>
+      <description>BUCKEYSTOWN PIKE / FINGERBOARD RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2026-05-20 15:36:00</guid>
+      <pubDate>Wed, 20 May 2026 15:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:08 pm</title>
+      <description>12500 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-05-20 15:08:00</guid>
+      <pubDate>Wed, 20 May 2026 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:02 pm</title>
+      <description>12500 BLOCK WOODSBORO PIKE Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2026-05-20 15:02:00</guid>
+      <pubDate>Wed, 20 May 2026 15:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 2:55 pm</title>
+      <description>600 BLOCK NINTH AVE, MED ONE PHARMACY Radio: 9C Units: E51, E281, R19</description>
+      <guid isPermaLink="false">2026-05-20 14:55:00</guid>
+      <pubDate>Wed, 20 May 2026 14:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 2:06 pm</title>
       <description>100 BLOCK GREENWICH DR Radio: 9C Units: E111, E162, Q11</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK BAUGHMANS LN Radio: 9C Units: E11, T4</description>
       <guid isPermaLink="false">2026-05-19 09:48:00</guid>
       <pubDate>Tue, 19 May 2026 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 9:39 am</title>
-      <description>28600 BLOCK CLARKSBURG RD Radio: 7A1 Units: E251</description>
-      <guid isPermaLink="false">2026-05-19 09:39:00</guid>
-      <pubDate>Tue, 19 May 2026 09:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 9:30 am</title>
-      <description>42000 BLOCK SWEET SPRING LN Radio: 6DTAC11 Units: A209, R20, EK204, T5, E201</description>
-      <guid isPermaLink="false">2026-05-19 09:30:00</guid>
-      <pubDate>Tue, 19 May 2026 09:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:45 am</title>
-      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9B Units: E121</description>
-      <guid isPermaLink="false">2026-05-19 08:45:00</guid>
-      <pubDate>Tue, 19 May 2026 08:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:39 am</title>
-      <description>400 BLOCK MIDDLETOWN PKWY, CVS PHARMACY - CROSS STONE COMMONS Radio: 9B Units: A129, E72</description>
-      <guid isPermaLink="false">2026-05-19 08:39:00</guid>
-      <pubDate>Tue, 19 May 2026 08:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:26 am</title>
-      <description>1500 BLOCK N MARKET ST, THOMAS JOHNSON HIGH SCHOOL Radio: 9B Units: A29, PE23</description>
-      <guid isPermaLink="false">2026-05-19 07:26:00</guid>
-      <pubDate>Tue, 19 May 2026 07:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
