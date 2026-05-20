@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 May 2026 21:32:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 22:28:42 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
+      <description>3200 BLOCK MAR-LU-RIDGE RD Radio: 9C Units: E201, T5</description>
+      <guid isPermaLink="false">2026-05-20 18:10:00</guid>
+      <pubDate>Wed, 20 May 2026 18:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
+      <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: PE311, T4</description>
+      <guid isPermaLink="false">2026-05-20 17:56:00</guid>
+      <pubDate>Wed, 20 May 2026 17:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:51 pm</title>
+      <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: E11, E331, R2, A19, A38</description>
+      <guid isPermaLink="false">2026-05-20 17:51:00</guid>
+      <pubDate>Wed, 20 May 2026 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 5:40 pm</title>
+      <description>1700 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2026-05-20 17:40:00</guid>
+      <pubDate>Wed, 20 May 2026 17:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:35 pm</title>
+      <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Radio: 9C Units: E31, TW1</description>
+      <guid isPermaLink="false">2026-05-20 17:35:00</guid>
+      <pubDate>Wed, 20 May 2026 17:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:27 pm</title>
       <description>URBANA PKWY / BENNETT CREEK BLVD Radio: 9C Units: BR235</description>
@@ -276,36 +306,6 @@
       <description>10800 BLOCK HAUGHS CHURCH RD Radio: 9B Units: A169, E132</description>
       <guid isPermaLink="false">2026-05-19 20:12:00</guid>
       <pubDate>Tue, 19 May 2026 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:04 pm</title>
-      <description>2500 BLOCK ISLAND GROVE BLVD Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2026-05-19 20:04:00</guid>
-      <pubDate>Tue, 19 May 2026 20:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 7:54 pm</title>
-      <description>400 BLOCK W MAIN ST, Apt/Unit:B Units: EMS902</description>
-      <guid isPermaLink="false">2026-05-19 19:54:00</guid>
-      <pubDate>Tue, 19 May 2026 19:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:49 pm</title>
-      <description>400 BLOCK W MAIN ST, Apt/Unit:B Units: EK64, PE102, E132, ACE21, TW6, A69, ALS30, ACE23, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-05-19 19:49:00</guid>
-      <pubDate>Tue, 19 May 2026 19:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 7:28 pm</title>
-      <description>11700 BLOCK WARNER RD Radio: 9C Units: K17</description>
-      <guid isPermaLink="false">2026-05-19 19:28:00</guid>
-      <pubDate>Tue, 19 May 2026 19:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 7:22 pm</title>
-      <description>11700 BLOCK WARNER RD Radio: 9C Units: E162, K9</description>
-      <guid isPermaLink="false">2026-05-19 19:22:00</guid>
-      <pubDate>Tue, 19 May 2026 19:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
