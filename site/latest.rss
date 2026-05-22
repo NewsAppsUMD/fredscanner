@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 19:04:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 20:07:51 +0000</lastBuildDate>
+    <item>
+      <title>BUS ACCIDENT: 3:55 pm</title>
+      <description>BOYERS MILL RD / NIGHTINGALE PL, PRIOR TO LAKE Radio: 9D Units: E111</description>
+      <guid isPermaLink="false">2026-05-22 15:55:00</guid>
+      <pubDate>Fri, 22 May 2026 15:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUS ACCIDENT: 3:53 pm</title>
+      <description>BOYERS MILL RD / NIGHTINGALE PL, PRIOR TO LAKE Radio: 9D Units: E153, E331, RE171, R24, A159, A339, A179, A248, ALS17, BC901, SAF900, EMS900</description>
+      <guid isPermaLink="false">2026-05-22 15:53:00</guid>
+      <pubDate>Fri, 22 May 2026 15:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:17 pm</title>
+      <description>S CLIFTON RD / WITMER LN Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-05-22 15:17:00</guid>
+      <pubDate>Fri, 22 May 2026 15:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 3:10 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-05-22 15:10:00</guid>
+      <pubDate>Fri, 22 May 2026 15:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:26 pm</title>
       <description>1000 BLOCK FAIRVIEW AVE, NORTH FREDERICK ELEMENTARY SCHOOL Radio: 9C Units: PE23</description>
@@ -282,30 +306,6 @@
       <description>BUCKEYSTOWN PIKE / FINGERBOARD RD Radio: 9B Units: A319</description>
       <guid isPermaLink="false">2026-05-20 15:56:00</guid>
       <pubDate>Wed, 20 May 2026 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 3:49 pm</title>
-      <description>200 BLOCK WYNGATE DR Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-05-20 15:49:00</guid>
-      <pubDate>Wed, 20 May 2026 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:47 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-05-20 15:47:00</guid>
-      <pubDate>Wed, 20 May 2026 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:46 pm</title>
-      <description>7200 BLOCK MCKINNEY CIR Radio: 9C Units: E11, PE23, T4</description>
-      <guid isPermaLink="false">2026-05-20 15:46:00</guid>
-      <pubDate>Wed, 20 May 2026 15:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:45 pm</title>
-      <description>100 BLOCK E FREDERICK ST, PIZZA HUT - WALKERSVILLE Radio: 9B Units: A169, E111</description>
-      <guid isPermaLink="false">2026-05-20 15:45:00</guid>
-      <pubDate>Wed, 20 May 2026 15:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
