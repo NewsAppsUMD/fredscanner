@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 03:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 05:18:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:51 am</title>
+      <description>4900 BLOCK MERIDIAN WAY, Bldg:A, WELLINGTON TRACE APTS - 4900 BLOCK MERIDIAN WAY Radio: 9B Units: PE311, T4</description>
+      <guid isPermaLink="false">2026-05-22 00:51:00</guid>
+      <pubDate>Fri, 22 May 2026 00:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:50 pm</title>
       <description>7900 BLOCK SCHOONER CT Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK GREENWICH DR Radio: 9C Units: E111, E162, Q11</description>
       <guid isPermaLink="false">2026-05-20 14:06:00</guid>
       <pubDate>Wed, 20 May 2026 14:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:40 pm</title>
-      <description>14500 BLOCK TOWER RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-05-20 13:40:00</guid>
-      <pubDate>Wed, 20 May 2026 13:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
