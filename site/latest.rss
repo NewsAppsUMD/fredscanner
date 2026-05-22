@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 14:16:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:29:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:16 am</title>
+      <description>LIBERTY RD / WATERSIDE DR Radio: 9B Units: A248, E111</description>
+      <guid isPermaLink="false">2026-05-22 11:16:00</guid>
+      <pubDate>Fri, 22 May 2026 11:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:09 am</title>
+      <description>13800 BLOCK TAYLORSTOWN RD Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-05-22 11:09:00</guid>
+      <pubDate>Fri, 22 May 2026 11:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:58 am</title>
       <description>100 BLOCK WILLOWDALE DR, RESIDENCES AT THE MANOR - 100 BLOCK WILLOWDALE DR Radio: 9D Units: A38, ALS4, E11, EMS902</description>
@@ -294,18 +306,6 @@
       <description>BUCKEYSTOWN PIKE / FINGERBOARD RD Radio: 9B Units: A149, R14</description>
       <guid isPermaLink="false">2026-05-20 15:36:00</guid>
       <pubDate>Wed, 20 May 2026 15:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:08 pm</title>
-      <description>12500 BLOCK WOODSBORO PIKE Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2026-05-20 15:08:00</guid>
-      <pubDate>Wed, 20 May 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:02 pm</title>
-      <description>12500 BLOCK WOODSBORO PIKE Radio: 9C Units: BR96</description>
-      <guid isPermaLink="false">2026-05-20 15:02:00</guid>
-      <pubDate>Wed, 20 May 2026 15:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
