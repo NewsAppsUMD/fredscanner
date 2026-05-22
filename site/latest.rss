@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 May 2026 23:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 23:49:51 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 7:36 pm</title>
+      <description>44200 BLOCK SPINKS FERRY RD Radio: 6DTAC11 Units: E281</description>
+      <guid isPermaLink="false">2026-05-22 19:36:00</guid>
+      <pubDate>Fri, 22 May 2026 19:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:31 pm</title>
+      <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Radio: 9B Units: E153, R15, A259</description>
+      <guid isPermaLink="false">2026-05-22 19:31:00</guid>
+      <pubDate>Fri, 22 May 2026 19:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:54 pm</title>
       <description>I70EB / EXIT 68, I70EB / EXIT 68 Radio: 9B Units: E153</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK NORTH PL, CHURCH OF JESUS CHRIST OF LATTER DAY SAINTS Radio: 9C Units: E31, TW1</description>
       <guid isPermaLink="false">2026-05-20 17:35:00</guid>
       <pubDate>Wed, 20 May 2026 17:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:27 pm</title>
-      <description>URBANA PKWY / BENNETT CREEK BLVD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-05-20 17:27:00</guid>
-      <pubDate>Wed, 20 May 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:10 pm</title>
-      <description>12100 BLOCK BUCHANAN TRL E Units: R10</description>
-      <guid isPermaLink="false">2026-05-20 17:10:00</guid>
-      <pubDate>Wed, 20 May 2026 17:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
