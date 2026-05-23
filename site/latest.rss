@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 02:16:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 03:43:44 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 11:23 pm</title>
+      <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: E11, E291, TW1</description>
+      <guid isPermaLink="false">2026-05-22 23:23:00</guid>
+      <pubDate>Fri, 22 May 2026 23:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:05 pm</title>
+      <description>6300 BLOCK MANOR WOODS RD, BHUDIST TEMPLE Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2026-05-22 23:05:00</guid>
+      <pubDate>Fri, 22 May 2026 23:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:13 pm</title>
+      <description>3100 BLOCK FLINT HILL RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-05-22 22:13:00</guid>
+      <pubDate>Fri, 22 May 2026 22:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:44 pm</title>
       <description>WOODSBORO PIKE / LIBERTY RD Radio: 9B Units: A248, E111</description>
@@ -288,24 +306,6 @@
       <description>13800 BLOCK GRACEHAM RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2026-05-20 18:57:00</guid>
       <pubDate>Wed, 20 May 2026 18:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
-      <description>3200 BLOCK MAR-LU-RIDGE RD Radio: 9C Units: E201, T5</description>
-      <guid isPermaLink="false">2026-05-20 18:10:00</guid>
-      <pubDate>Wed, 20 May 2026 18:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
-      <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: PE311, T4</description>
-      <guid isPermaLink="false">2026-05-20 17:56:00</guid>
-      <pubDate>Wed, 20 May 2026 17:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:51 pm</title>
-      <description>I70EB / NEW DESIGN RD, I70EB / NEW DESIGN RD Radio: 9B Units: E11, E331, R2, A19, A38</description>
-      <guid isPermaLink="false">2026-05-20 17:51:00</guid>
-      <pubDate>Wed, 20 May 2026 17:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
