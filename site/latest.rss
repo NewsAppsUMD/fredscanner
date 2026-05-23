@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 03:43:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 05:12:32 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 12:07 am</title>
+      <description>HAMBURG RD / GAMBRILL PARK RD Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-05-23 00:07:00</guid>
+      <pubDate>Sat, 23 May 2026 00:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:49 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
+      <guid isPermaLink="false">2026-05-22 23:49:00</guid>
+      <pubDate>Fri, 22 May 2026 23:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 11:23 pm</title>
       <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: E11, E291, TW1</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / I70, RT15SB / I70 Radio: 9B Units: E11, PE311, R3, A19, A319</description>
       <guid isPermaLink="false">2026-05-20 19:42:00</guid>
       <pubDate>Wed, 20 May 2026 19:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:23 pm</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S N V PARTNER SHIP Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2026-05-20 19:23:00</guid>
-      <pubDate>Wed, 20 May 2026 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:57 pm</title>
-      <description>13800 BLOCK GRACEHAM RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-05-20 18:57:00</guid>
-      <pubDate>Wed, 20 May 2026 18:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
