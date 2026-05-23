@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 14:50:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 15:22:07 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:13 am</title>
+      <description>100 BLOCK W SEVENTH ST Radio: 9C Units: R3</description>
+      <guid isPermaLink="false">2026-05-23 11:13:00</guid>
+      <pubDate>Sat, 23 May 2026 11:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:10 am</title>
+      <description>100 BLOCK W SEVENTH ST Radio: 9C Units: E31, E501, R2</description>
+      <guid isPermaLink="false">2026-05-23 11:10:00</guid>
+      <pubDate>Sat, 23 May 2026 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:59 am</title>
+      <description>7000 BLOCK CLUB HOUSE CIR Units: TW1, A179</description>
+      <guid isPermaLink="false">2026-05-23 10:59:00</guid>
+      <pubDate>Sat, 23 May 2026 10:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:52 am</title>
+      <description>7000 BLOCK CLUB HOUSE CIR Units: E172, E331, E111, PE23, R15, Q11, R24, A159, ALS17, BC901, BC903, SAF901, E251</description>
+      <guid isPermaLink="false">2026-05-23 10:52:00</guid>
+      <pubDate>Sat, 23 May 2026 10:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 10:41 am</title>
       <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E153</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK GEORGETOWN RD Radio: 9C Units: BR116</description>
       <guid isPermaLink="false">2026-05-21 16:40:00</guid>
       <pubDate>Thu, 21 May 2026 16:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:17 pm</title>
-      <description>TALBOT RUN RD / WOODVILLE RD Radio: 91B Units: EMS901</description>
-      <guid isPermaLink="false">2026-05-21 15:17:00</guid>
-      <pubDate>Thu, 21 May 2026 15:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:13 pm</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2026-05-21 15:13:00</guid>
-      <pubDate>Thu, 21 May 2026 15:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:12 pm</title>
-      <description>TALBOT RUN RD / WOODVILLE RD Radio: 91B Units: A318, PE23</description>
-      <guid isPermaLink="false">2026-05-21 15:12:00</guid>
-      <pubDate>Thu, 21 May 2026 15:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:00 pm</title>
-      <description>100 BLOCK NORTH POINTE TER Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-05-21 14:00:00</guid>
-      <pubDate>Thu, 21 May 2026 14:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
