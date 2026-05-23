@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 23 May 2026 19:26:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 19:51:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:14 pm</title>
+      <description>1000 BLOCK W SEVENTH ST, ROLLINS REAL ESTATE - FAIRVIEW CENTER Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-05-23 15:14:00</guid>
+      <pubDate>Sat, 23 May 2026 15:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE FUEL SPILL: 2:39 pm</title>
       <description>100 BLOCK BAUGHMANS LN, DUTCH PLANT FARM Radio: 9C Units: E11, E31, HM33, HMSU33, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>9400 BLOCK HAMBURG RD Radio: 9C Units: BR226</description>
       <guid isPermaLink="false">2026-05-21 18:47:00</guid>
       <pubDate>Thu, 21 May 2026 18:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:20 pm</title>
-      <description>1000 BLOCK W PATRICK ST, HILLCREST LIQUORS - HILLCREST TOWN CENTER Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-05-21 17:20:00</guid>
-      <pubDate>Thu, 21 May 2026 17:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
