@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 08:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 09:35:19 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:10 am</title>
+      <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-05-24 05:10:00</guid>
+      <pubDate>Sun, 24 May 2026 05:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:03 am</title>
+      <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-05-24 05:03:00</guid>
+      <pubDate>Sun, 24 May 2026 05:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:18 am</title>
       <description>RT15SB / I70, RT15SB / I70 Radio: 9B Units: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>MONOCACY BLVD / RIVERBEND WAY Radio: 9B Units: A248, E111</description>
       <guid isPermaLink="false">2026-05-22 16:17:00</guid>
       <pubDate>Fri, 22 May 2026 16:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 3:55 pm</title>
-      <description>BOYERS MILL RD / NIGHTINGALE PL, PRIOR TO LAKE Radio: 9D Units: E111</description>
-      <guid isPermaLink="false">2026-05-22 15:55:00</guid>
-      <pubDate>Fri, 22 May 2026 15:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUS ACCIDENT: 3:53 pm</title>
-      <description>BOYERS MILL RD / NIGHTINGALE PL, PRIOR TO LAKE Radio: 9D Units: E153, E331, RE171, R24, A159, A339, A179, A248, ALS17, BC901, SAF900, EMS900</description>
-      <guid isPermaLink="false">2026-05-22 15:53:00</guid>
-      <pubDate>Fri, 22 May 2026 15:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
