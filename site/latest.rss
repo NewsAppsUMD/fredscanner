@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 24 May 2026 18:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 18:50:14 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 2:40 pm</title>
+      <description>3400 BLOCK PRICES DISTILLERY RD Units: E251, E231, K23, TT23</description>
+      <guid isPermaLink="false">2026-05-24 14:40:00</guid>
+      <pubDate>Sun, 24 May 2026 14:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:37 pm</title>
       <description>2200 BLOCK VILLAGE SQUARE RD Radio: 9C Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>LIBERTY RD / WORMANS MILL RD Radio: 9B Units: A248, E111</description>
       <guid isPermaLink="false">2026-05-22 20:05:00</guid>
       <pubDate>Fri, 22 May 2026 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:36 pm</title>
-      <description>44200 BLOCK SPINKS FERRY RD Radio: 6DTAC11 Units: E281</description>
-      <guid isPermaLink="false">2026-05-22 19:36:00</guid>
-      <pubDate>Fri, 22 May 2026 19:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
