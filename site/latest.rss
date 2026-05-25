@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 14:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 15:31:47 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 11:23 am</title>
+      <description>6800 BLOCK ENGLISH MUFFIN WAY, ARC3 GAS Radio: 9D Units: PE311, E31, R3, HM33, HM50, E121, A319, A38, ALS31, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-05-25 11:23:00</guid>
+      <pubDate>Mon, 25 May 2026 11:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:19 am</title>
+      <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: PE52</description>
+      <guid isPermaLink="false">2026-05-25 11:19:00</guid>
+      <pubDate>Mon, 25 May 2026 11:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:59 am</title>
+      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: E11, T4</description>
+      <guid isPermaLink="false">2026-05-25 10:59:00</guid>
+      <pubDate>Mon, 25 May 2026 10:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:56 am</title>
+      <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: ALS20</description>
+      <guid isPermaLink="false">2026-05-25 10:56:00</guid>
+      <pubDate>Mon, 25 May 2026 10:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:50 am</title>
+      <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: A197, A78</description>
+      <guid isPermaLink="false">2026-05-25 10:50:00</guid>
+      <pubDate>Mon, 25 May 2026 10:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:50 am</title>
+      <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: A197, A78</description>
+      <guid isPermaLink="false">2026-05-25 10:50:00</guid>
+      <pubDate>Mon, 25 May 2026 10:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:18 am</title>
       <description>8000 BLOCK LIGHTHOUSE LNDG Radio: 9C Units: E111</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK BAUGHMANS LN, DUTCH PLANT FARM Radio: 9C Units: E11, E31, HM33, HMSU33, BC902, SAF901</description>
       <guid isPermaLink="false">2026-05-23 14:39:00</guid>
       <pubDate>Sat, 23 May 2026 14:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:15 pm</title>
-      <description>1300 BLOCK W SEVENTH ST, STAPLES - SEVENTH STREET SHOPPING CENTER Radio: 9D Units: E501, R2, A29, ALS2, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-05-23 12:15:00</guid>
-      <pubDate>Sat, 23 May 2026 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:13 am</title>
-      <description>100 BLOCK W SEVENTH ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-05-23 11:13:00</guid>
-      <pubDate>Sat, 23 May 2026 11:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:10 am</title>
-      <description>100 BLOCK W SEVENTH ST Radio: 9C Units: E31, E501, R2</description>
-      <guid isPermaLink="false">2026-05-23 11:10:00</guid>
-      <pubDate>Sat, 23 May 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:59 am</title>
-      <description>7000 BLOCK CLUB HOUSE CIR Units: TW1, A179</description>
-      <guid isPermaLink="false">2026-05-23 10:59:00</guid>
-      <pubDate>Sat, 23 May 2026 10:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:52 am</title>
-      <description>7000 BLOCK CLUB HOUSE CIR Units: E172, E331, E111, PE23, R15, Q11, R24, A159, ALS17, BC901, BC903, SAF901, E251</description>
-      <guid isPermaLink="false">2026-05-23 10:52:00</guid>
-      <pubDate>Sat, 23 May 2026 10:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:41 am</title>
-      <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-05-23 10:41:00</guid>
-      <pubDate>Sat, 23 May 2026 10:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
