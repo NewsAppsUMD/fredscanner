@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 13:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:22:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:18 am</title>
+      <description>8000 BLOCK LIGHTHOUSE LNDG Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-05-25 10:18:00</guid>
+      <pubDate>Mon, 25 May 2026 10:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:44 am</title>
+      <description>100 BLOCK N ALTAMONT AVE Radio: 9C Units: PE102, TW6</description>
+      <guid isPermaLink="false">2026-05-25 09:44:00</guid>
+      <pubDate>Mon, 25 May 2026 09:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:53 am</title>
       <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: A259</description>
@@ -294,18 +306,6 @@
       <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-05-23 10:41:00</guid>
       <pubDate>Sat, 23 May 2026 10:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:20 am</title>
-      <description>100 BLOCK SANDERS RD, Apt/Unit:8A, STATION 8 HIGHLAND LODGE Units: R10</description>
-      <guid isPermaLink="false">2026-05-23 10:20:00</guid>
-      <pubDate>Sat, 23 May 2026 10:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:18 am</title>
-      <description>100 BLOCK SANDERS RD, Apt/Unit:8A Units: TW6, EK64</description>
-      <guid isPermaLink="false">2026-05-23 10:18:00</guid>
-      <pubDate>Sat, 23 May 2026 10:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
