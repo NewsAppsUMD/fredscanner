@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 20:07:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 20:51:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:47 pm</title>
+      <description>RT340EB / 10MM, RT340EB / 10MM Radio: 9D Units: PE52, E201, R20, A196, A209, ALS20, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-05-25 16:47:00</guid>
+      <pubDate>Mon, 25 May 2026 16:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:32 pm</title>
+      <description>6300 BLOCK E WHITECOAT DR Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2026-05-25 16:32:00</guid>
+      <pubDate>Mon, 25 May 2026 16:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 3:48 pm</title>
       <description>RT15SB / ROSEMONT AVE, RT15SB / ROSEMONT AVE Radio: 9D Units: E501, E11, R2, A38, A37, ALS2, EMS902</description>
@@ -294,18 +306,6 @@
       <description>6600 BLOCK S CLIFTON RD Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-05-23 21:39:00</guid>
       <pubDate>Sat, 23 May 2026 21:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:56 pm</title>
-      <description>3800 BLOCK BRAVEHEART DR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-05-23 20:56:00</guid>
-      <pubDate>Sat, 23 May 2026 20:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:55 pm</title>
-      <description>6000 BLOCK LINGANORE RD, IN AREA OF// TOWARDS OLD NATIONAL PIKE Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-05-23 19:55:00</guid>
-      <pubDate>Sat, 23 May 2026 19:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
