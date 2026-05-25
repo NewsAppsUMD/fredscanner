@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 11:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 13:03:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:53 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: A259</description>
+      <guid isPermaLink="false">2026-05-25 08:53:00</guid>
+      <pubDate>Mon, 25 May 2026 08:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:36 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270NB / DOCTOR PERRY RD Radio: 9B Units: E231, A239, TT23</description>
+      <guid isPermaLink="false">2026-05-25 08:36:00</guid>
+      <pubDate>Mon, 25 May 2026 08:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 8:17 am</title>
+      <description>6300 BLOCK LYSANDER CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-05-25 08:17:00</guid>
+      <pubDate>Mon, 25 May 2026 08:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:32 am</title>
       <description>1700 BLOCK TRESTLE ST Units: E153, E251</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK SANDERS RD, Apt/Unit:8A Units: TW6, EK64</description>
       <guid isPermaLink="false">2026-05-23 10:18:00</guid>
       <pubDate>Sat, 23 May 2026 10:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:04 am</title>
-      <description>500 BLOCK KLINEHARTS ALY, CALLER SAYS ACROSS FROM 507 Radio: 9C Units: PE23, T4</description>
-      <guid isPermaLink="false">2026-05-23 10:04:00</guid>
-      <pubDate>Sat, 23 May 2026 10:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:11 am</title>
-      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2026-05-23 07:11:00</guid>
-      <pubDate>Sat, 23 May 2026 07:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 6:08 am</title>
-      <description>14600 BLOCK PEN MAR HIGHROCK RD Units: EMSUTV30</description>
-      <guid isPermaLink="false">2026-05-23 06:08:00</guid>
-      <pubDate>Sat, 23 May 2026 06:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
