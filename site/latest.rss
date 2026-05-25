@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 May 2026 00:29:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 01:26:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:57 pm</title>
+      <description>10600 BLOCK BREWERTON LN Radio: 9C Units: E153, Q11</description>
+      <guid isPermaLink="false">2026-05-24 20:57:00</guid>
+      <pubDate>Sun, 24 May 2026 20:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:56 pm</title>
+      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: E52, T5</description>
+      <guid isPermaLink="false">2026-05-24 20:56:00</guid>
+      <pubDate>Sun, 24 May 2026 20:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:53 pm</title>
+      <description>3300 BLOCK DIGITAL DR Radio: 9C Units: E141, TW1</description>
+      <guid isPermaLink="false">2026-05-24 20:53:00</guid>
+      <pubDate>Sun, 24 May 2026 20:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:58 pm</title>
       <description>1000 BLOCK W SEVENTH ST Radio: 9C Units: PE23</description>
@@ -288,24 +306,6 @@
       <description>3600 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2026-05-23 02:03:00</guid>
       <pubDate>Sat, 23 May 2026 02:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:07 am</title>
-      <description>HAMBURG RD / GAMBRILL PARK RD Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-05-23 00:07:00</guid>
-      <pubDate>Sat, 23 May 2026 00:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:49 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-05-22 23:49:00</guid>
-      <pubDate>Fri, 22 May 2026 23:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 11:23 pm</title>
-      <description>1600 BLOCK DOUBLE BANK RD Radio: 9C Units: E11, E291, TW1</description>
-      <guid isPermaLink="false">2026-05-22 23:23:00</guid>
-      <pubDate>Fri, 22 May 2026 23:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
