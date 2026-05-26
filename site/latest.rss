@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 03:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 05:18:00 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:59 pm</title>
+      <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: R24</description>
+      <guid isPermaLink="false">2026-05-25 23:59:00</guid>
+      <pubDate>Mon, 25 May 2026 23:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:59 pm</title>
+      <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: R2</description>
+      <guid isPermaLink="false">2026-05-25 23:59:00</guid>
+      <pubDate>Mon, 25 May 2026 23:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:54 pm</title>
+      <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: E111, E291, R24</description>
+      <guid isPermaLink="false">2026-05-25 23:54:00</guid>
+      <pubDate>Mon, 25 May 2026 23:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:01 pm</title>
       <description>12300 BLOCK AUBURN RD Radio: 9C Units: PE102, E221</description>
@@ -288,24 +306,6 @@
       <description>OLD ANNAPOLIS RD / GREEN VALLEY RD Radio: 9C Units: BR175</description>
       <guid isPermaLink="false">2026-05-24 05:52:00</guid>
       <pubDate>Sun, 24 May 2026 05:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:10 am</title>
-      <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-05-24 05:10:00</guid>
-      <pubDate>Sun, 24 May 2026 05:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:03 am</title>
-      <description>300 BLOCK CUMMINGS DR, BRUNSWICK MIDDLE SCHOOL Radio: 9C Units: PE52, T5</description>
-      <guid isPermaLink="false">2026-05-24 05:03:00</guid>
-      <pubDate>Sun, 24 May 2026 05:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:18 am</title>
-      <description>RT15SB / I70, RT15SB / I70 Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-05-24 04:18:00</guid>
-      <pubDate>Sun, 24 May 2026 04:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
