@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 21:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 22:27:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:17 pm</title>
+      <description>JEFFERSON TECHNOLOGY BLVD / IMPERIAL DR Radio: 9B Units: A319, T4</description>
+      <guid isPermaLink="false">2026-05-26 18:17:00</guid>
+      <pubDate>Tue, 26 May 2026 18:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 6:07 pm</title>
+      <description>9000 BLOCK WALNUT ST Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2026-05-26 18:07:00</guid>
+      <pubDate>Tue, 26 May 2026 18:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:21 pm</title>
       <description>100 BLOCK N CHURCH ST, STATION 30 Units: A38</description>
@@ -294,18 +306,6 @@
       <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: A197, A78</description>
       <guid isPermaLink="false">2026-05-25 10:50:00</guid>
       <pubDate>Mon, 25 May 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:50 am</title>
-      <description>KAETZEL RD / ROHRERSVILLE RD Radio: PS2 Units: A197, A78</description>
-      <guid isPermaLink="false">2026-05-25 10:50:00</guid>
-      <pubDate>Mon, 25 May 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:18 am</title>
-      <description>8000 BLOCK LIGHTHOUSE LNDG Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-05-25 10:18:00</guid>
-      <pubDate>Mon, 25 May 2026 10:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
