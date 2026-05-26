@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 May 2026 05:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 06:44:46 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 1:18 am</title>
+      <description>500 BLOCK FRAIM ST Units: E501, E11</description>
+      <guid isPermaLink="false">2026-05-26 01:18:00</guid>
+      <pubDate>Tue, 26 May 2026 01:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 11:59 pm</title>
       <description>1700 BLOCK CASTLE ROCK RD Radio: 9C Units: R24</description>
@@ -300,12 +306,6 @@
       <description>27000 BLOCK RIDGE RD REDEEMER LUTH CHURCH, REDEEMER LUTH CHURCH Radio: 7A4 Units: A259, E251</description>
       <guid isPermaLink="false">2026-05-24 08:17:00</guid>
       <pubDate>Sun, 24 May 2026 08:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:52 am</title>
-      <description>OLD ANNAPOLIS RD / GREEN VALLEY RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-05-24 05:52:00</guid>
-      <pubDate>Sun, 24 May 2026 05:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
