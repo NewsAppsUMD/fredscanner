@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 12:34:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 14:06:11 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:46 am</title>
+      <description>16600 BLOCK S SETON AVE Radio: 9C Units: EK64</description>
+      <guid isPermaLink="false">2026-05-27 09:46:00</guid>
+      <pubDate>Wed, 27 May 2026 09:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:32 am</title>
+      <description>I70EB / WEIGH STATION (NEWM), I70EB / WEIGH STATION Radio: 9D Units: E251, E153, RE171, A158, ALS17, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-05-27 09:32:00</guid>
+      <pubDate>Wed, 27 May 2026 09:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 9:27 am</title>
+      <description>400 BLOCK ENSEMBLE WAY Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-05-27 09:27:00</guid>
+      <pubDate>Wed, 27 May 2026 09:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:21 am</title>
+      <description>200 BLOCK TIPPIN DR, DOLLAR TREE - ORCHARD HILLS SHOPPING CENTER Radio: 9C Units: EK64</description>
+      <guid isPermaLink="false">2026-05-27 09:21:00</guid>
+      <pubDate>Wed, 27 May 2026 09:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 9:14 am</title>
+      <description>200 BLOCK TIPPIN DR, DOLLAR TREE - ORCHARD HILLS SHOPPING CENTER Radio: 9C Units: PE102, E132, R10, E221</description>
+      <guid isPermaLink="false">2026-05-27 09:14:00</guid>
+      <pubDate>Wed, 27 May 2026 09:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:11 am</title>
+      <description>JEFFERSON PIKE / WYE CREEK DR, IAO Radio: 9B Units: ALS20, EMS901</description>
+      <guid isPermaLink="false">2026-05-27 09:11:00</guid>
+      <pubDate>Wed, 27 May 2026 09:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 4:03 am</title>
       <description>27700 BLOCK BARNES RD Radio: 7A1 Units: A259</description>
@@ -270,42 +306,6 @@
       <description>NEW DESIGN RD / ROBIN DR Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-05-25 17:53:00</guid>
       <pubDate>Mon, 25 May 2026 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:38 pm</title>
-      <description>LYNWOOD FARM CT / FREDERICK RD Radio: 7A1 Units: A239</description>
-      <guid isPermaLink="false">2026-05-25 17:38:00</guid>
-      <pubDate>Mon, 25 May 2026 17:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:59 pm</title>
-      <description>11900 BLOCK GLADHILL BROTHERS RD Radio: 9C Units: E251, R15</description>
-      <guid isPermaLink="false">2026-05-25 16:59:00</guid>
-      <pubDate>Mon, 25 May 2026 16:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
-      <description>1800 BLOCK GETTYSBURG VILLAGE DR, OUTLETS Units: TW6</description>
-      <guid isPermaLink="false">2026-05-25 16:52:00</guid>
-      <pubDate>Mon, 25 May 2026 16:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:51 pm</title>
-      <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, RT340WB / JEFFERSON TECHNOLOGY BLVD Radio: 9D Units: E11, E121, R3, A19, A129, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-05-25 16:51:00</guid>
-      <pubDate>Mon, 25 May 2026 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:47 pm</title>
-      <description>RT340EB / 10MM, RT340EB / 10MM Radio: 9D Units: PE52, E201, R20, A196, A209, ALS20, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-05-25 16:47:00</guid>
-      <pubDate>Mon, 25 May 2026 16:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:32 pm</title>
-      <description>6300 BLOCK E WHITECOAT DR Radio: 9C Units: E501, E11</description>
-      <guid isPermaLink="false">2026-05-25 16:32:00</guid>
-      <pubDate>Mon, 25 May 2026 16:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
