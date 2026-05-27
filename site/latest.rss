@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 19:15:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 20:14:41 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:02 pm</title>
+      <description>200 BLOCK E PATRICK ST, FREDERICK POST OFFICE - E PATRICK ST Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2026-05-27 16:02:00</guid>
+      <pubDate>Wed, 27 May 2026 16:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:20 pm</title>
+      <description>9200 BLOCK SHAFERS MILL DR, SHAFERS MILL VILLAGE FITNESS CENTER Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-05-27 15:20:00</guid>
+      <pubDate>Wed, 27 May 2026 15:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 2:39 pm</title>
       <description>12700 BLOCK FINGERBOARD RD Radio: 7A1 Units: A259</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Radio: WCFEMSDISP Units: E153</description>
       <guid isPermaLink="false">2026-05-26 05:34:00</guid>
       <pubDate>Tue, 26 May 2026 05:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:38 am</title>
-      <description>200 BLOCK TIGER WAY Radio: TAC1OPS Units: RE74, MAU15</description>
-      <guid isPermaLink="false">2026-05-26 04:38:00</guid>
-      <pubDate>Tue, 26 May 2026 04:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:33 am</title>
-      <description>200 BLOCK TIGER WAY Units: E82</description>
-      <guid isPermaLink="false">2026-05-26 04:33:00</guid>
-      <pubDate>Tue, 26 May 2026 04:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
