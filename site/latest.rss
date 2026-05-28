@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 11:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 12:40:42 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:28 am</title>
+      <description>11000 BLOCK EMERALD CROWN DR Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-05-28 08:28:00</guid>
+      <pubDate>Thu, 28 May 2026 08:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:16 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, T4</description>
+      <guid isPermaLink="false">2026-05-28 08:16:00</guid>
+      <pubDate>Thu, 28 May 2026 08:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:58 am</title>
+      <description>MARYLAND AVE / OLD NATIONAL PIKE Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-05-28 07:58:00</guid>
+      <pubDate>Thu, 28 May 2026 07:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:52 am</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, T4</description>
+      <guid isPermaLink="false">2026-05-28 07:52:00</guid>
+      <pubDate>Thu, 28 May 2026 07:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:50 am</title>
+      <description>WATER ST / N CHURCH ST Radio: 9B Units: A309, A229, E102</description>
+      <guid isPermaLink="false">2026-05-28 07:50:00</guid>
+      <pubDate>Thu, 28 May 2026 07:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:39 am</title>
+      <description>MARYLAND AVE / OLD NATIONAL PIKE Radio: 9B Units: A78, A19, E121</description>
+      <guid isPermaLink="false">2026-05-28 07:39:00</guid>
+      <pubDate>Thu, 28 May 2026 07:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:20 am</title>
+      <description>I70EB / MONUMENT RD, I70EB / MONUMENT RD Radio: 9D Units: E82, RE74, A89, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-05-28 07:20:00</guid>
+      <pubDate>Thu, 28 May 2026 07:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:10 am</title>
       <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Units: BR145</description>
@@ -264,48 +306,6 @@
       <description>N BENTZ ST / W FIFTH ST Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2026-05-26 14:07:00</guid>
       <pubDate>Tue, 26 May 2026 14:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 1:49 pm</title>
-      <description>FINGERBOARD RD / WORTHINGTON BLVD Radio: 9D Units: E231, R3, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-05-26 13:49:00</guid>
-      <pubDate>Tue, 26 May 2026 13:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:18 pm</title>
-      <description>100 BLOCK SILO HILL RD, Apt/Unit:8, EMMITSBURG LIQUOR Radio: 9C Units: R10</description>
-      <guid isPermaLink="false">2026-05-26 13:18:00</guid>
-      <pubDate>Tue, 26 May 2026 13:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 1:11 pm</title>
-      <description>100 BLOCK SILO HILL RD, Apt/Unit:8, EMMITSBURG LIQUOR Radio: 9C Units: EK64, PE102, TW6, ACE23</description>
-      <guid isPermaLink="false">2026-05-26 13:11:00</guid>
-      <pubDate>Tue, 26 May 2026 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:32 am</title>
-      <description>3000 BLOCK BUCKEYSTOWN PIKE, BISHOP CLAGGETT CENTER Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-05-26 10:32:00</guid>
-      <pubDate>Tue, 26 May 2026 10:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:00 am</title>
-      <description>HOLTER RD / MIDDLETOWN PKWY, IAO Radio: 9B Units: A78, E72</description>
-      <guid isPermaLink="false">2026-05-26 09:00:00</guid>
-      <pubDate>Tue, 26 May 2026 09:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:28 am</title>
-      <description>100 BLOCK COUNCIL DR, MONTGOMERY VAULT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-05-26 08:28:00</guid>
-      <pubDate>Tue, 26 May 2026 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:28 am</title>
-      <description>100 BLOCK COUNCIL DR, MONTGOMERY VAULT Radio: 9C Units: BR96</description>
-      <guid isPermaLink="false">2026-05-26 08:28:00</guid>
-      <pubDate>Tue, 26 May 2026 08:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
