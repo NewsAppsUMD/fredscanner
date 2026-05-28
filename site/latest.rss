@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 May 2026 15:44:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:11:15 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:50 pm</title>
+      <description>6600 BLOCK S CLIFTON RD Radio: 9C Units: BR125</description>
+      <guid isPermaLink="false">2026-05-28 12:50:00</guid>
+      <pubDate>Thu, 28 May 2026 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 12:40 pm</title>
+      <description>100 BLOCK HAMILTON AVE Radio: 9C Units: PE23, E331, R3</description>
+      <guid isPermaLink="false">2026-05-28 12:40:00</guid>
+      <pubDate>Thu, 28 May 2026 12:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:24 am</title>
       <description>2400 BLOCK PLEASANT VIEW RD, Apt/Unit:C1, SHORESH DAY CAMP Radio: 9C Units: E141</description>
@@ -294,18 +306,6 @@
       <description>10500 BLOCK POWELL RD Radio: 9C Units: E291, PE102, R10, EK224</description>
       <guid isPermaLink="false">2026-05-26 19:57:00</guid>
       <pubDate>Tue, 26 May 2026 19:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:50 pm</title>
-      <description>3300 BLOCK DIGITAL DR, Bldg:BWI 150 D, ROWEN DATA CENTER Radio: 9C Units: E141, TW1</description>
-      <guid isPermaLink="false">2026-05-26 18:50:00</guid>
-      <pubDate>Tue, 26 May 2026 18:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 6:49 pm</title>
-      <description>100 BLOCK E GREEN ST, Apt/Unit:2 Radio: 9C Units: E72, E121, TW7</description>
-      <guid isPermaLink="false">2026-05-26 18:49:00</guid>
-      <pubDate>Tue, 26 May 2026 18:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
