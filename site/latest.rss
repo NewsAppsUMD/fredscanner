@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 27 May 2026 23:32:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 00:27:36 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:19 pm</title>
+      <description>1500 BLOCK VILLAGE GREEN WAY, HOLIDAY INN EXPRESS Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2026-05-27 20:19:00</guid>
+      <pubDate>Wed, 27 May 2026 20:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:47 pm</title>
+      <description>OLD NATIONAL PIKE / JESSE SMITH RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-05-27 19:47:00</guid>
+      <pubDate>Wed, 27 May 2026 19:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:46 pm</title>
+      <description>700 BLOCK CARROLL PKWY, Bldg:9, PARKVIEW APTS Radio: 9C Units: E11, TW1</description>
+      <guid isPermaLink="false">2026-05-27 19:46:00</guid>
+      <pubDate>Wed, 27 May 2026 19:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL SPILL: 7:43 pm</title>
+      <description>1300 BLOCK E PATRICK ST, TACO BELL - E PATRICK ST Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-05-27 19:43:00</guid>
+      <pubDate>Wed, 27 May 2026 19:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:56 pm</title>
       <description>100 BLOCK BLK RAMP CHRISTOPHERS XING TO RT15SB RAMP Radio: 9B Units: A29</description>
@@ -282,30 +306,6 @@
       <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: T5</description>
       <guid isPermaLink="false">2026-05-26 07:32:00</guid>
       <pubDate>Tue, 26 May 2026 07:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:32 am</title>
-      <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-05-26 07:32:00</guid>
-      <pubDate>Tue, 26 May 2026 07:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:27 am</title>
-      <description>3500 BLOCK JEFFERSON PIKE, VALLEY ELEMENTARY SCHOOL Radio: 9C Units: E201, T5</description>
-      <guid isPermaLink="false">2026-05-26 07:27:00</guid>
-      <pubDate>Tue, 26 May 2026 07:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:07 am</title>
-      <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-05-26 06:07:00</guid>
-      <pubDate>Tue, 26 May 2026 06:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:42 am</title>
-      <description>100 BLOCK CHAPLINE ST, STATION WC001 - SHARPSBURG VFC., INC. Radio: WCFEMSDISP Units: PE52</description>
-      <guid isPermaLink="false">2026-05-26 05:42:00</guid>
-      <pubDate>Tue, 26 May 2026 05:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
