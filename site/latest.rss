@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 20:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 20:45:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:37 pm</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, T4</description>
+      <guid isPermaLink="false">2026-05-30 16:37:00</guid>
+      <pubDate>Sat, 30 May 2026 16:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:06 pm</title>
       <description>200 BLOCK MONTEVUE LN, 40 WEST AUTO CARE &amp; TOWING Radio: 9C Units: E31, TW1</description>
@@ -300,12 +306,6 @@
       <description>SHOOKSTOWN RD / WILLOWDALE DR Radio: 9B Units: A29, E11</description>
       <guid isPermaLink="false">2026-05-28 16:48:00</guid>
       <pubDate>Thu, 28 May 2026 16:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:31 pm</title>
-      <description>BAUGHMANS LN / ROCK CREEK DR, IN AREA OF Units: A18, E11</description>
-      <guid isPermaLink="false">2026-05-28 16:31:00</guid>
-      <pubDate>Thu, 28 May 2026 16:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
