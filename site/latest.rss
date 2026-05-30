@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 16:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 17:22:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:12 pm</title>
+      <description>8800 BLOCK INDIAN SPRINGS RD Units: E11, R3, A299, ALS29, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-05-30 13:12:00</guid>
+      <pubDate>Sat, 30 May 2026 13:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
+      <description>W PATRICK ST / OLD CAMP RD Radio: 9B Units: A18</description>
+      <guid isPermaLink="false">2026-05-30 13:00:00</guid>
+      <pubDate>Sat, 30 May 2026 13:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 12:56 pm</title>
+      <description>200 BLOCK N MARKET ST, CREME DE LA CREME Radio: 9C Units: E31, PE23, R3</description>
+      <guid isPermaLink="false">2026-05-30 12:56:00</guid>
+      <pubDate>Sat, 30 May 2026 12:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:53 pm</title>
+      <description>W PATRICK ST / OLD CAMP RD Units: A129, E121</description>
+      <guid isPermaLink="false">2026-05-30 12:53:00</guid>
+      <pubDate>Sat, 30 May 2026 12:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:14 pm</title>
       <description>1400 BLOCK TILCO DR Units: A339, E31</description>
@@ -282,30 +306,6 @@
       <description>I270SB / MONOCACY RIVER, I270SB / MONOCACY RIVER Radio: 9B Units: E31, E231, R3, A37, A239</description>
       <guid isPermaLink="false">2026-05-28 10:35:00</guid>
       <pubDate>Thu, 28 May 2026 10:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:21 am</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Units: ALS8</description>
-      <guid isPermaLink="false">2026-05-28 09:21:00</guid>
-      <pubDate>Thu, 28 May 2026 09:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:58 am</title>
-      <description>EYLERS VALLEY FLINT RD / BLACK RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-05-28 08:58:00</guid>
-      <pubDate>Thu, 28 May 2026 08:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:54 am</title>
-      <description>3000 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-05-28 08:54:00</guid>
-      <pubDate>Thu, 28 May 2026 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:28 am</title>
-      <description>11000 BLOCK EMERALD CROWN DR Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-05-28 08:28:00</guid>
-      <pubDate>Thu, 28 May 2026 08:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
