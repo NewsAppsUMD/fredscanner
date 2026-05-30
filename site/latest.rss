@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 21:46:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:18:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
+      <description>5900 BLOCK RAMSEUR CIR, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR Radio: 9C Units: E311</description>
+      <guid isPermaLink="false">2026-05-30 18:10:00</guid>
+      <pubDate>Sat, 30 May 2026 18:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:06 pm</title>
+      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: PE23, T4</description>
+      <guid isPermaLink="false">2026-05-30 18:06:00</guid>
+      <pubDate>Sat, 30 May 2026 18:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:53 pm</title>
+      <description>100 BLOCK E SOUTH ST, Bldg:A Radio: 9C Units: PE23, T4</description>
+      <guid isPermaLink="false">2026-05-30 17:53:00</guid>
+      <pubDate>Sat, 30 May 2026 17:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE ALARM SPECIFY: 5:52 pm</title>
+      <description>6400 BLOCK(5900) BLK MERCANTILE DR E Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-30 17:52:00</guid>
+      <pubDate>Sat, 30 May 2026 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 5:46 pm</title>
+      <description>SUGAR MAPLE CT / BURNING BUSH DR Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-05-30 17:46:00</guid>
+      <pubDate>Sat, 30 May 2026 17:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:27 pm</title>
       <description>4700 BLOCK BALLENGER CREEK PIKE Radio: 9B Units: A18</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK S MAIN ST, STATION AC006 - BIGLERVILLE FIRE HOSE AND TRUCK COMPANY #1 Units: EK64</description>
       <guid isPermaLink="false">2026-05-29 09:30:00</guid>
       <pubDate>Fri, 29 May 2026 09:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 6:57 am</title>
-      <description>600 BLOCK HUNTING RIDGE DR Radio: 9D Units: RE74</description>
-      <guid isPermaLink="false">2026-05-29 06:57:00</guid>
-      <pubDate>Fri, 29 May 2026 06:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 6:56 am</title>
-      <description>600 BLOCK HUNTING RIDGE DR Radio: 9D Units: E11, R2, A19</description>
-      <guid isPermaLink="false">2026-05-29 06:56:00</guid>
-      <pubDate>Fri, 29 May 2026 06:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:36 am</title>
-      <description>3300 BLOCK KEMPTOWN CHURCH RD Radio: 9B Units: A259, E251</description>
-      <guid isPermaLink="false">2026-05-29 06:36:00</guid>
-      <pubDate>Fri, 29 May 2026 06:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR OUTSIDE: 11:25 pm</title>
-      <description>400 BLOCK LOGAN ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-05-28 23:25:00</guid>
-      <pubDate>Thu, 28 May 2026 23:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:22 pm</title>
-      <description>5500 BLOCK ADAMSTOWN RD, TRANS TECH Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-05-28 21:22:00</guid>
-      <pubDate>Thu, 28 May 2026 21:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
