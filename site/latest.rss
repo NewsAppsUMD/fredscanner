@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 30 May 2026 22:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 22:46:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:42 pm</title>
+      <description>RT15NB / STULL RD, RT15NB / STULL RD Radio: 9C Units: E291, E162, E221</description>
+      <guid isPermaLink="false">2026-05-30 18:42:00</guid>
+      <pubDate>Sat, 30 May 2026 18:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
       <description>5900 BLOCK RAMSEUR CIR, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR Radio: 9C Units: E311</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK N MARKET ST Radio: 9C Units: E31, E11, R3</description>
       <guid isPermaLink="false">2026-05-29 10:10:00</guid>
       <pubDate>Fri, 29 May 2026 10:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:30 am</title>
-      <description>100 BLOCK S MAIN ST, STATION AC006 - BIGLERVILLE FIRE HOSE AND TRUCK COMPANY #1 Units: EK64</description>
-      <guid isPermaLink="false">2026-05-29 09:30:00</guid>
-      <pubDate>Fri, 29 May 2026 09:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
