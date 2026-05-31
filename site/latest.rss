@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 19:28:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:55:00 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:46 pm</title>
+      <description>7300 BLOCK PARKVIEW DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-05-31 15:46:00</guid>
+      <pubDate>Sun, 31 May 2026 15:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:23 pm</title>
       <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: A259, ALS2</description>
@@ -300,12 +306,6 @@
       <description>12900 BLOCK WOODSBORO PIKE Radio: 9C Units: E91</description>
       <guid isPermaLink="false">2026-05-30 14:02:00</guid>
       <pubDate>Sat, 30 May 2026 14:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:37 pm</title>
-      <description>5600 BLOCK BOYERS MILL RD Units: BR156</description>
-      <guid isPermaLink="false">2026-05-30 13:37:00</guid>
-      <pubDate>Sat, 30 May 2026 13:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
