@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 18:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 19:28:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:23 pm</title>
+      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: A259, ALS2</description>
+      <guid isPermaLink="false">2026-05-31 15:23:00</guid>
+      <pubDate>Sun, 31 May 2026 15:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:22 pm</title>
+      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: R15</description>
+      <guid isPermaLink="false">2026-05-31 15:22:00</guid>
+      <pubDate>Sun, 31 May 2026 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:21 pm</title>
+      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: E251, RE171</description>
+      <guid isPermaLink="false">2026-05-31 15:21:00</guid>
+      <pubDate>Sun, 31 May 2026 15:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:16 pm</title>
+      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9B Units: A159, R15</description>
+      <guid isPermaLink="false">2026-05-31 15:16:00</guid>
+      <pubDate>Sun, 31 May 2026 15:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:55 pm</title>
       <description>100 BLOCK ALESSANDRA CT, CRYSTAL PARK APTS - 100 BLOCK ALESSANDRA CT Radio: 9C Units: E311</description>
@@ -282,30 +306,6 @@
       <description>5600 BLOCK BOYERS MILL RD Units: BR156</description>
       <guid isPermaLink="false">2026-05-30 13:37:00</guid>
       <pubDate>Sat, 30 May 2026 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:12 pm</title>
-      <description>8800 BLOCK INDIAN SPRINGS RD Units: E11, R3, A299, ALS29, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-05-30 13:12:00</guid>
-      <pubDate>Sat, 30 May 2026 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:00 pm</title>
-      <description>W PATRICK ST / OLD CAMP RD Radio: 9B Units: A18</description>
-      <guid isPermaLink="false">2026-05-30 13:00:00</guid>
-      <pubDate>Sat, 30 May 2026 13:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:56 pm</title>
-      <description>200 BLOCK N MARKET ST, CREME DE LA CREME Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-05-30 12:56:00</guid>
-      <pubDate>Sat, 30 May 2026 12:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:53 pm</title>
-      <description>W PATRICK ST / OLD CAMP RD Units: A129, E121</description>
-      <guid isPermaLink="false">2026-05-30 12:53:00</guid>
-      <pubDate>Sat, 30 May 2026 12:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
