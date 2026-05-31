@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 14:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 15:26:22 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:09 am</title>
+      <description>2700 BLOCK CANADA HILL RD Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-05-31 11:09:00</guid>
+      <pubDate>Sun, 31 May 2026 11:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:23 am</title>
       <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>11700 BLOCK OLD NATIONAL PIKE, NEW MARKET CENTER Radio: 9D Units: E251, R15, A259, ALS4, BC901, EMS901</description>
       <guid isPermaLink="false">2026-05-30 08:54:00</guid>
       <pubDate>Sat, 30 May 2026 08:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:49 am</title>
-      <description>10100 BLOCK LEWISDALE RD Radio: 9D Units: E231, R15, A239, ALS23, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-05-30 07:49:00</guid>
-      <pubDate>Sat, 30 May 2026 07:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
