@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 19:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 20:22:52 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:56 pm</title>
+      <description>SPECTRUM DR / LOWES LN Radio: 9B Units: A319, E311</description>
+      <guid isPermaLink="false">2026-05-31 15:56:00</guid>
+      <pubDate>Sun, 31 May 2026 15:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:46 pm</title>
       <description>7300 BLOCK PARKVIEW DR Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>BALD EAGLE CAMPGROUND, BALD EAGLE CAMPGROUND Radio: 9D Units: E201, R20, R19, TR29, BT28, BT19, A209, A196, ALS20, BC903, SAF901, EMS901, PE52</description>
       <guid isPermaLink="false">2026-05-30 15:42:00</guid>
       <pubDate>Sat, 30 May 2026 15:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:02 pm</title>
-      <description>12900 BLOCK WOODSBORO PIKE Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2026-05-30 14:02:00</guid>
-      <pubDate>Sat, 30 May 2026 14:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
