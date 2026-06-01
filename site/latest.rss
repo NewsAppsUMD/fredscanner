@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 15:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:58:41 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
+      <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2026-06-01 13:30:00</guid>
+      <pubDate>Mon, 01 Jun 2026 13:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:33 pm</title>
+      <description>5600 BLOCK JEFFERSON BLVD, IAO Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-06-01 12:33:00</guid>
+      <pubDate>Mon, 01 Jun 2026 12:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:30 pm</title>
+      <description>300 BLOCK CROWN POINT DR Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-06-01 12:30:00</guid>
+      <pubDate>Mon, 01 Jun 2026 12:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:32 am</title>
       <description>1100 BLOCK W PATRICK ST, Apt/Unit:M Radio: 9C Units: E11, PE23, T4</description>
@@ -288,24 +306,6 @@
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: ALS2</description>
       <guid isPermaLink="false">2026-05-30 19:03:00</guid>
       <pubDate>Sat, 30 May 2026 19:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:47 pm</title>
-      <description>RT15NB / STULL RD, RT15NB / STULL RD Radio: 9C Units: E221</description>
-      <guid isPermaLink="false">2026-05-30 18:47:00</guid>
-      <pubDate>Sat, 30 May 2026 18:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:42 pm</title>
-      <description>RT15NB / STULL RD, RT15NB / STULL RD Radio: 9C Units: E291, E162, E221</description>
-      <guid isPermaLink="false">2026-05-30 18:42:00</guid>
-      <pubDate>Sat, 30 May 2026 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:10 pm</title>
-      <description>5900 BLOCK RAMSEUR CIR, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR Radio: 9C Units: E311</description>
-      <guid isPermaLink="false">2026-05-30 18:10:00</guid>
-      <pubDate>Sat, 30 May 2026 18:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
