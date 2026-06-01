@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 22:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 23:08:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:01 pm</title>
+      <description>10900 BLOCK LOWELL CT Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-06-01 19:01:00</guid>
+      <pubDate>Mon, 01 Jun 2026 19:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 6:32 pm</title>
+      <description>8200 BLOCK VALLEY VIEW TER Radio: 9C Units: E72</description>
+      <guid isPermaLink="false">2026-06-01 18:32:00</guid>
+      <pubDate>Mon, 01 Jun 2026 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:07 pm</title>
       <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9B Units: A238, TT23</description>
@@ -294,18 +306,6 @@
       <description>OLIVE SCHOOL RD / JEFFERSON PIKE Radio: 9C Units: BR55</description>
       <guid isPermaLink="false">2026-05-30 20:57:00</guid>
       <pubDate>Sat, 30 May 2026 20:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:44 pm</title>
-      <description>I270SB / RAILROAD, I270SB / RAILROAD Radio: 9D Units: PE311, E231, R3, A239, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-05-30 20:44:00</guid>
-      <pubDate>Sat, 30 May 2026 20:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:50 pm</title>
-      <description>500 BLOCK N BENTZ ST Radio: 9C Units: E31, T4</description>
-      <guid isPermaLink="false">2026-05-30 19:50:00</guid>
-      <pubDate>Sat, 30 May 2026 19:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
