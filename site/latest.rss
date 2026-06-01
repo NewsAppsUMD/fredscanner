@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 17:58:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:45:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:40 pm</title>
+      <description>1100 BLOCK AVONDALE CT Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-01 15:40:00</guid>
+      <pubDate>Mon, 01 Jun 2026 15:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
+      <description>9100 BLOCK LIBERTY KNOLLS CT Radio: 9C Units: E172, Q11</description>
+      <guid isPermaLink="false">2026-06-01 14:35:00</guid>
+      <pubDate>Mon, 01 Jun 2026 14:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
       <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, T4</description>
@@ -294,18 +306,6 @@
       <description>7000 BLOCK MICHAELS MILL RD Radio: 9B Units: A149, R14</description>
       <guid isPermaLink="false">2026-05-30 19:41:00</guid>
       <pubDate>Sat, 30 May 2026 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 7:34 pm</title>
-      <description>100 BLOCK GREENWAY DR Radio: 9C Units: E11, E501</description>
-      <guid isPermaLink="false">2026-05-30 19:34:00</guid>
-      <pubDate>Sat, 30 May 2026 19:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:03 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: ALS2</description>
-      <guid isPermaLink="false">2026-05-30 19:03:00</guid>
-      <pubDate>Sat, 30 May 2026 19:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
