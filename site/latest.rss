@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 May 2026 23:49:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 00:31:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:26 pm</title>
+      <description>URBANA PIKE / LEW WALLACE ST Radio: 9B Units: A239, E231</description>
+      <guid isPermaLink="false">2026-05-31 20:26:00</guid>
+      <pubDate>Sun, 31 May 2026 20:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:08 pm</title>
+      <description>E SEVENTH ST / N MARKET ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-05-31 20:08:00</guid>
+      <pubDate>Sun, 31 May 2026 20:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:51 pm</title>
+      <description>HOLTER RD / BUSSARD RD, JUMBOS PUMPKIN PATCH Radio: 9D Units: E121, RE74, A129, ALS20, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-05-31 19:51:00</guid>
+      <pubDate>Sun, 31 May 2026 19:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:34 pm</title>
       <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23, T4</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, T4</description>
       <guid isPermaLink="false">2026-05-30 16:37:00</guid>
       <pubDate>Sat, 30 May 2026 16:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:06 pm</title>
-      <description>200 BLOCK MONTEVUE LN, 40 WEST AUTO CARE &amp; TOWING Radio: 9C Units: E31, TW1</description>
-      <guid isPermaLink="false">2026-05-30 16:06:00</guid>
-      <pubDate>Sat, 30 May 2026 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 3:56 pm</title>
-      <description>BALD EAGLE CAMPGROUND, BALD EAGLE CAMPGROUND Radio: 9D Units: T5</description>
-      <guid isPermaLink="false">2026-05-30 15:56:00</guid>
-      <pubDate>Sat, 30 May 2026 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATER RESCUE: 3:56 pm</title>
-      <description>BALD EAGLE CAMPGROUND, BALD EAGLE CAMPGROUND Radio: 9D Units: R14</description>
-      <guid isPermaLink="false">2026-05-30 15:56:00</guid>
-      <pubDate>Sat, 30 May 2026 15:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
