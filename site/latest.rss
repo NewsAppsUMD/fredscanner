@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Jun 2026 09:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:15:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:47 am</title>
+      <description>I70EB / 30MM Units: E82, A89, ALS8</description>
+      <guid isPermaLink="false">2026-06-01 06:47:00</guid>
+      <pubDate>Mon, 01 Jun 2026 06:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 4:34 am</title>
       <description>10300 BLOCK REINDEER TRL Radio: 9B Units: E153</description>
@@ -300,12 +306,6 @@
       <description>4700 BLOCK BALLENGER CREEK PIKE Radio: 9B Units: A18</description>
       <guid isPermaLink="false">2026-05-30 17:27:00</guid>
       <pubDate>Sat, 30 May 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:21 pm</title>
-      <description>4700 BLOCK BALLENGER CREEK PIKE Radio: 9B Units: ALS20</description>
-      <guid isPermaLink="false">2026-05-30 17:21:00</guid>
-      <pubDate>Sat, 30 May 2026 17:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
