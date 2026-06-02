@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 15:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 16:59:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:56 pm</title>
+      <description>8900 BLOCK FINGERBOARD RD, SEVEN ELEVEN - URBANA Radio: 9B Units: ALS23, EMS901</description>
+      <guid isPermaLink="false">2026-06-02 12:56:00</guid>
+      <pubDate>Tue, 02 Jun 2026 12:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:46 pm</title>
+      <description>8900 BLOCK FINGERBOARD RD, SEVEN ELEVEN - URBANA Radio: 9B Units: A238, TT23</description>
+      <guid isPermaLink="false">2026-06-02 12:46:00</guid>
+      <pubDate>Tue, 02 Jun 2026 12:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:31 pm</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-06-02 12:31:00</guid>
+      <pubDate>Tue, 02 Jun 2026 12:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:09 am</title>
       <description>2100 BLOCK WAINWRIGHT CT, Apt/Unit:BD, OLD FARM CONDOS - 2100 BLOCK WAINWRIGHT CT Radio: 9C Units: E11</description>
@@ -288,24 +306,6 @@
       <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: E251, RE171</description>
       <guid isPermaLink="false">2026-05-31 15:21:00</guid>
       <pubDate>Sun, 31 May 2026 15:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:16 pm</title>
-      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9B Units: A159, R15</description>
-      <guid isPermaLink="false">2026-05-31 15:16:00</guid>
-      <pubDate>Sun, 31 May 2026 15:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:55 pm</title>
-      <description>100 BLOCK ALESSANDRA CT, CRYSTAL PARK APTS - 100 BLOCK ALESSANDRA CT Radio: 9C Units: E311</description>
-      <guid isPermaLink="false">2026-05-31 13:55:00</guid>
-      <pubDate>Sun, 31 May 2026 13:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 1:48 pm</title>
-      <description>1300 BLOCK SCHAFFER DR, LAKE COVENTRY PARK Radio: 9D Units: A18, ALS4, E11, EMS901</description>
-      <guid isPermaLink="false">2026-05-31 13:48:00</guid>
-      <pubDate>Sun, 31 May 2026 13:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
