@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 21:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 22:01:51 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:25 pm</title>
+      <description>7800 BLOCK BALTIMORE NATIONAL PIKE Units: E121</description>
+      <guid isPermaLink="false">2026-06-02 17:25:00</guid>
+      <pubDate>Tue, 02 Jun 2026 17:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:12 pm</title>
+      <description>E SIXTH ST / N EAST ST Units: A29, E23</description>
+      <guid isPermaLink="false">2026-06-02 17:12:00</guid>
+      <pubDate>Tue, 02 Jun 2026 17:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:51 pm</title>
       <description>MAIN ST / WOODSBORO RD Units: A179, E172</description>
@@ -294,18 +306,6 @@
       <description>3100 BLOCK RIVERWALK PL, Apt/Unit:312, FAIRWAY VISTA APTS - 3100 BLOCK RIVERWALK PL Radio: 9C Units: T4</description>
       <guid isPermaLink="false">2026-06-01 03:12:00</guid>
       <pubDate>Mon, 01 Jun 2026 03:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:07 am</title>
-      <description>3100 BLOCK RIVERWALK PL, Apt/Unit:312, FAIRWAY VISTA APTS - 3100 BLOCK RIVERWALK PL Radio: 9C Units: PE23, Q11</description>
-      <guid isPermaLink="false">2026-06-01 03:07:00</guid>
-      <pubDate>Mon, 01 Jun 2026 03:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:19 pm</title>
-      <description>URBANA PIKE / LEW WALLACE ST Radio: 9B Units: A239, E231</description>
-      <guid isPermaLink="false">2026-05-31 21:19:00</guid>
-      <pubDate>Sun, 31 May 2026 21:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
