@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 12:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 13:46:44 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:45 am</title>
+      <description>200 BLOCK W PATRICK ST, WAY STATION Radio: 9C Units: E31, T4</description>
+      <guid isPermaLink="false">2026-06-02 08:45:00</guid>
+      <pubDate>Tue, 02 Jun 2026 08:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:39 am</title>
       <description>500 BLOCK W SOUTH ST, THE JUNCTION APARTMENTS Radio: 9C Units: E31, T4</description>
@@ -300,12 +306,6 @@
       <description>2700 BLOCK CANADA HILL RD Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2026-05-31 11:09:00</guid>
       <pubDate>Sun, 31 May 2026 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:23 am</title>
-      <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-31 09:23:00</guid>
-      <pubDate>Sun, 31 May 2026 09:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
