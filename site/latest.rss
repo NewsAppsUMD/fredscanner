@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 16:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:20:38 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 2:15 pm</title>
+      <description>6200 BLOCK PAUL RUDY RD Radio: 9D Units: TT23, R8</description>
+      <guid isPermaLink="false">2026-06-02 14:15:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:10 pm</title>
+      <description>6200 BLOCK PAUL RUDY RD Radio: 9D Units: RID, Q11, A129, EMS902, W7, E52</description>
+      <guid isPermaLink="false">2026-06-02 14:10:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:07 pm</title>
+      <description>6200 BLOCK PAUL RUDY RD Units: R19, K1</description>
+      <guid isPermaLink="false">2026-06-02 14:07:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 2:04 pm</title>
+      <description>5600 BLOCK ZOE LN Radio: 9C Units: E153, PE23, T4</description>
+      <guid isPermaLink="false">2026-06-02 14:04:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 2:02 pm</title>
+      <description>RT340WB / JEFFERSON TECHNOLOGY BLVD, RT340WB / JEFFERSON TECHNOLOGY BLVD Radio: 91D Units: E501, E31, R3, HM33, HM50, HMSU33, A18, A209, ALS4, ALS2, BC901, SAF900, EMS901</description>
+      <guid isPermaLink="false">2026-06-02 14:02:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:00 pm</title>
+      <description>6200 BLOCK PAUL RUDY RD Units: E72, E201, E121, E141, E281, E11, R20, TW7, RE74, K7, EK204, K5, A78, ALS20, BC902, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-06-02 14:00:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 1:50 pm</title>
+      <description>4900 BLOCK INTERNATIONAL BLVD Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-02 13:50:00</guid>
+      <pubDate>Tue, 02 Jun 2026 13:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 1:16 pm</title>
+      <description>6300 BLOCK KNOLLWOOD DR Radio: 91C Units: E331, E31, R3</description>
+      <guid isPermaLink="false">2026-06-02 13:16:00</guid>
+      <pubDate>Tue, 02 Jun 2026 13:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:56 pm</title>
       <description>8900 BLOCK FINGERBOARD RD, SEVEN ELEVEN - URBANA Radio: 9B Units: ALS23, EMS901</description>
@@ -258,54 +306,6 @@
       <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2026-05-31 19:34:00</guid>
       <pubDate>Sun, 31 May 2026 19:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:38 pm</title>
-      <description>I70WB / 42MM, I70WB / 42MM Radio: 9C Units: E82, E72</description>
-      <guid isPermaLink="false">2026-05-31 18:38:00</guid>
-      <pubDate>Sun, 31 May 2026 18:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:39 pm</title>
-      <description>9600 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-05-31 17:39:00</guid>
-      <pubDate>Sun, 31 May 2026 17:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 5:34 pm</title>
-      <description>9600 BLOCK OPOSSUMTOWN PIKE, BETHEL LUTHERAN CHURCH Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-05-31 17:34:00</guid>
-      <pubDate>Sun, 31 May 2026 17:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:56 pm</title>
-      <description>SPECTRUM DR / LOWES LN Radio: 9B Units: A319, E311</description>
-      <guid isPermaLink="false">2026-05-31 15:56:00</guid>
-      <pubDate>Sun, 31 May 2026 15:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:46 pm</title>
-      <description>7300 BLOCK PARKVIEW DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-05-31 15:46:00</guid>
-      <pubDate>Sun, 31 May 2026 15:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:23 pm</title>
-      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: A259, ALS2</description>
-      <guid isPermaLink="false">2026-05-31 15:23:00</guid>
-      <pubDate>Sun, 31 May 2026 15:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:22 pm</title>
-      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: R15</description>
-      <guid isPermaLink="false">2026-05-31 15:22:00</guid>
-      <pubDate>Sun, 31 May 2026 15:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:21 pm</title>
-      <description>RT75 / MEADOW WAY, RT75 / MEADOW WAY Radio: 9D Units: E251, RE171</description>
-      <guid isPermaLink="false">2026-05-31 15:21:00</guid>
-      <pubDate>Sun, 31 May 2026 15:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
