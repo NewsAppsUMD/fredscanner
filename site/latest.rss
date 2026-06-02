@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 02 Jun 2026 18:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 19:43:36 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:33 pm</title>
+      <description>3800 BLOCK CARRIAGE HILL DR Units: E231</description>
+      <guid isPermaLink="false">2026-06-02 15:33:00</guid>
+      <pubDate>Tue, 02 Jun 2026 15:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:17 pm</title>
+      <description>I270SB / RT80, I270SB / RT80 Units: A238, TT23</description>
+      <guid isPermaLink="false">2026-06-02 15:17:00</guid>
+      <pubDate>Tue, 02 Jun 2026 15:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:23 pm</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: A318</description>
+      <guid isPermaLink="false">2026-06-02 14:23:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:17 pm</title>
+      <description>4600 BLOCK LANDER RD, STATION 20 Units: PE102</description>
+      <guid isPermaLink="false">2026-06-02 14:17:00</guid>
+      <pubDate>Tue, 02 Jun 2026 14:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:15 pm</title>
       <description>6200 BLOCK PAUL RUDY RD Radio: 9D Units: TT23, R8</description>
@@ -282,30 +306,6 @@
       <description>8500 BLOCK FINGERBOARD RD, IAO Radio: 91C Units: BR235</description>
       <guid isPermaLink="false">2026-05-31 20:45:00</guid>
       <pubDate>Sun, 31 May 2026 20:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:26 pm</title>
-      <description>URBANA PIKE / LEW WALLACE ST Radio: 9B Units: A239, E231</description>
-      <guid isPermaLink="false">2026-05-31 20:26:00</guid>
-      <pubDate>Sun, 31 May 2026 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 8:08 pm</title>
-      <description>E SEVENTH ST / N MARKET ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-05-31 20:08:00</guid>
-      <pubDate>Sun, 31 May 2026 20:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:51 pm</title>
-      <description>HOLTER RD / BUSSARD RD, JUMBOS PUMPKIN PATCH Radio: 9D Units: E121, RE74, A129, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-05-31 19:51:00</guid>
-      <pubDate>Sun, 31 May 2026 19:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:34 pm</title>
-      <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23, T4</description>
-      <guid isPermaLink="false">2026-05-31 19:34:00</guid>
-      <pubDate>Sun, 31 May 2026 19:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
