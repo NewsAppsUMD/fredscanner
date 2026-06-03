@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Jun 2026 16:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:26:25 +0000</lastBuildDate>
+    <item>
+      <title>WOODS FIRE: 2:05 pm</title>
+      <description>RT77 / QUIRAUK SCHOOL RD, RT77 / QUIRAUK SCHOOL RD Radio: 9C Units: E212, K21</description>
+      <guid isPermaLink="false">2026-06-03 14:05:00</guid>
+      <pubDate>Wed, 03 Jun 2026 14:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 2:04 pm</title>
+      <description>RT77 / QUIRAUK SCHOOL RD, RT77 / QUIRAUK SCHOOL RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-06-03 14:04:00</guid>
+      <pubDate>Wed, 03 Jun 2026 14:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 1:53 pm</title>
+      <description>5800 BLOCK BALLENGER CREEK PIKE, WAWA - BALLENGER CREEK Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-06-03 13:53:00</guid>
+      <pubDate>Wed, 03 Jun 2026 13:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:53 pm</title>
+      <description>4800 BLOCK HITESHOW DR Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-03 13:53:00</guid>
+      <pubDate>Wed, 03 Jun 2026 13:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:48 pm</title>
+      <description>3000 BLOCK HERB GARDEN DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-06-03 12:48:00</guid>
+      <pubDate>Wed, 03 Jun 2026 12:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 12:07 pm</title>
       <description>2600 BLOCK MARKER RD Radio: 9C Units: E121</description>
@@ -276,36 +306,6 @@
       <description>8200 BLOCK VALLEY VIEW TER Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2026-06-01 18:32:00</guid>
       <pubDate>Mon, 01 Jun 2026 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:07 pm</title>
-      <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9B Units: A238, TT23</description>
-      <guid isPermaLink="false">2026-06-01 18:07:00</guid>
-      <pubDate>Mon, 01 Jun 2026 18:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:35 pm</title>
-      <description>14500 BLOCK BLACK ANKLE RD Radio: 9D Units: RE171, A179, ALS17, EMS902</description>
-      <guid isPermaLink="false">2026-06-01 16:35:00</guid>
-      <pubDate>Mon, 01 Jun 2026 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:40 pm</title>
-      <description>1100 BLOCK AVONDALE CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-06-01 15:40:00</guid>
-      <pubDate>Mon, 01 Jun 2026 15:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
-      <description>9100 BLOCK LIBERTY KNOLLS CT Radio: 9C Units: E172, Q11</description>
-      <guid isPermaLink="false">2026-06-01 14:35:00</guid>
-      <pubDate>Mon, 01 Jun 2026 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:30 pm</title>
-      <description>4800 BLOCK INTERNATIONAL BLVD, Apt/Unit:102 Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2026-06-01 13:30:00</guid>
-      <pubDate>Mon, 01 Jun 2026 13:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
