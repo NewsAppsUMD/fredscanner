@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 13:59:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 15:11:26 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:01 am</title>
+      <description>3200 BLOCK IVY MEADOW DR Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-06-04 11:01:00</guid>
+      <pubDate>Thu, 04 Jun 2026 11:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 10:13 am</title>
+      <description>6000 BLOCK SPRING RIDGE PKWY, CELEBREE LEARNING CENTER - SPRING RIDGE Radio: 9C Units: E153, R3</description>
+      <guid isPermaLink="false">2026-06-04 10:13:00</guid>
+      <pubDate>Thu, 04 Jun 2026 10:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:11 am</title>
+      <description>6000 BLOCK SPRING RIDGE PKWY, CELEBREE LEARNING CENTER - SPRING RIDGE Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-06-04 10:11:00</guid>
+      <pubDate>Thu, 04 Jun 2026 10:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:10 am</title>
       <description>I70WB / 38MM Radio: PS1 Units: A89, E82</description>
@@ -288,24 +306,6 @@
       <description>I270SB / RT80, I270SB / RT80 Units: A238, TT23</description>
       <guid isPermaLink="false">2026-06-02 15:17:00</guid>
       <pubDate>Tue, 02 Jun 2026 15:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:23 pm</title>
-      <description>4600 BLOCK LANDER RD, STATION 20 Units: A318</description>
-      <guid isPermaLink="false">2026-06-02 14:23:00</guid>
-      <pubDate>Tue, 02 Jun 2026 14:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:17 pm</title>
-      <description>4600 BLOCK LANDER RD, STATION 20 Units: PE102</description>
-      <guid isPermaLink="false">2026-06-02 14:17:00</guid>
-      <pubDate>Tue, 02 Jun 2026 14:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:15 pm</title>
-      <description>6200 BLOCK PAUL RUDY RD Radio: 9D Units: TT23, R8</description>
-      <guid isPermaLink="false">2026-06-02 14:15:00</guid>
-      <pubDate>Tue, 02 Jun 2026 14:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
