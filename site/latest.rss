@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Jun 2026 19:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 20:40:05 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:28 pm</title>
+      <description>W PATRICK ST / N MCCAIN DR Radio: 9B Units: A18, E11</description>
+      <guid isPermaLink="false">2026-06-04 16:28:00</guid>
+      <pubDate>Thu, 04 Jun 2026 16:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:23 pm</title>
+      <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-06-04 16:23:00</guid>
+      <pubDate>Thu, 04 Jun 2026 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:52 pm</title>
+      <description>FOXVILLE RD / PRYOR RD Radio: 9B Units: E102, R10, A308, ALS30, EMS902</description>
+      <guid isPermaLink="false">2026-06-04 15:52:00</guid>
+      <pubDate>Thu, 04 Jun 2026 15:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:10 pm</title>
       <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: A19, E11</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK KLINEHARTS ALY Radio: 9C Units: E291, T4</description>
       <guid isPermaLink="false">2026-06-03 09:48:00</guid>
       <pubDate>Wed, 03 Jun 2026 09:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:18 am</title>
-      <description>7300 BLOCK GUILFORD DR, RUBY TUESDAY - FREDERICK CROSSING Radio: 9B Units: A37, E291</description>
-      <guid isPermaLink="false">2026-06-03 09:18:00</guid>
-      <pubDate>Wed, 03 Jun 2026 09:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 8:56 am</title>
-      <description>500 BLOCK FAIRVIEW AVE Radio: 9D Units: PE23, R3, A29, ALS2, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-06-03 08:56:00</guid>
-      <pubDate>Wed, 03 Jun 2026 08:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:42 am</title>
-      <description>100 BLOCK W CHURCH ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-06-03 07:42:00</guid>
-      <pubDate>Wed, 03 Jun 2026 07:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
