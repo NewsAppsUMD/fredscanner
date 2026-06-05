@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 16:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:34:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:16 pm</title>
+      <description>BALLENGER CREEK PIKE / CRESTWOOD BLVD Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-06-05 13:16:00</guid>
+      <pubDate>Fri, 05 Jun 2026 13:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 12:51 pm</title>
+      <description>6400 BLOCK QUINN RD Units: A339</description>
+      <guid isPermaLink="false">2026-06-05 12:51:00</guid>
+      <pubDate>Fri, 05 Jun 2026 12:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
       <description>LIBERTY RD / MONOCACY RIVER Radio: 9B Units: A249, E111</description>
@@ -294,18 +306,6 @@
       <description>HARPERS FERRY RD / LOCK 33 Units: R19</description>
       <guid isPermaLink="false">2026-06-03 19:02:00</guid>
       <pubDate>Wed, 03 Jun 2026 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 5:33 pm</title>
-      <description>7800 BLOCK LYTHAN PL Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-06-03 17:33:00</guid>
-      <pubDate>Wed, 03 Jun 2026 17:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:29 pm</title>
-      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: R3, E231, A238</description>
-      <guid isPermaLink="false">2026-06-03 17:29:00</guid>
-      <pubDate>Wed, 03 Jun 2026 17:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
