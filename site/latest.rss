@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 18:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 19:32:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:14 pm</title>
+      <description>6400 BLOCK LAKERIDGE DR Radio: 9B Units: A339, E153</description>
+      <guid isPermaLink="false">2026-06-05 15:14:00</guid>
+      <pubDate>Fri, 05 Jun 2026 15:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 3:03 pm</title>
+      <description>ADAMSTOWN COMMONS DR / JOHN MILLS RD Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2026-06-05 15:03:00</guid>
+      <pubDate>Fri, 05 Jun 2026 15:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:57 pm</title>
+      <description>2200 BLOCK JEFFERSON PIKE, FAITH BAPTIST CHURCH Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-06-05 14:57:00</guid>
+      <pubDate>Fri, 05 Jun 2026 14:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:48 pm</title>
+      <description>RT40 / ROSEBUD CT, RT40 / HOLLOW RD Radio: 9B Units: ALS8, EMS902</description>
+      <guid isPermaLink="false">2026-06-05 14:48:00</guid>
+      <pubDate>Fri, 05 Jun 2026 14:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:41 pm</title>
+      <description>RT40 / ROSEBUD CT, RT40 / HOLLOW RD Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-06-05 14:41:00</guid>
+      <pubDate>Fri, 05 Jun 2026 14:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:41 pm</title>
+      <description>BALTIMORE NATIONAL PIKE PIKE / HOLLOW RD, Apt/Unit:HTTPS://A91.IO/HOC03 Radio: 9B Units: A89, E82</description>
+      <guid isPermaLink="false">2026-06-05 14:41:00</guid>
+      <pubDate>Fri, 05 Jun 2026 14:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 1:46 pm</title>
       <description>I70EB / 68MM, I70EB / 65MM Radio: 9D Units: E153, EMS901</description>
@@ -270,42 +306,6 @@
       <description>4400 BLOCK MIDDLE POINT RD Radio: 9B Units: ALS8</description>
       <guid isPermaLink="false">2026-06-03 21:03:00</guid>
       <pubDate>Wed, 03 Jun 2026 21:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:00 pm</title>
-      <description>4400 BLOCK MIDDLE POINT RD Radio: 9B Units: A89, E82, E212</description>
-      <guid isPermaLink="false">2026-06-03 21:00:00</guid>
-      <pubDate>Wed, 03 Jun 2026 21:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:05 pm</title>
-      <description>9000 BLOCK WALNUT ST Radio: 9B Units: E153</description>
-      <guid isPermaLink="false">2026-06-03 20:05:00</guid>
-      <pubDate>Wed, 03 Jun 2026 20:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:01 pm</title>
-      <description>14600 BLOCK OAK ORCHARD RD Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-06-03 20:01:00</guid>
-      <pubDate>Wed, 03 Jun 2026 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:19 pm</title>
-      <description>WOLFSVILLE RD / MEETING HOUSE RD Radio: 9C Units: E72, E121, E11, R3, TW7, K21, K7, A78, ALS8, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-06-03 19:19:00</guid>
-      <pubDate>Wed, 03 Jun 2026 19:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:14 pm</title>
-      <description>WOLFSVILLE RD / MEETING HOUSE RD Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2026-06-03 19:14:00</guid>
-      <pubDate>Wed, 03 Jun 2026 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:11 pm</title>
-      <description>I70WB / MONUMENT RD, I70WB / MONUMENT RD Radio: 9B Units: E72, R8, A89</description>
-      <guid isPermaLink="false">2026-06-03 19:11:00</guid>
-      <pubDate>Wed, 03 Jun 2026 19:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
