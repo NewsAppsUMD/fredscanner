@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Jun 2026 14:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 15:31:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:40 am</title>
+      <description>12400 BLOCK FINGERBOARD RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-06-05 10:40:00</guid>
+      <pubDate>Fri, 05 Jun 2026 10:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:27 am</title>
+      <description>1000 BLOCK N MARKET ST Radio: 9C Units: PE23, T4</description>
+      <guid isPermaLink="false">2026-06-05 10:27:00</guid>
+      <pubDate>Fri, 05 Jun 2026 10:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:30 am</title>
       <description>6900 BLOCK EAGLEHEAD DR Radio: 9C Units: E153</description>
@@ -294,18 +306,6 @@
       <description>7800 BLOCK LYTHAN PL Radio: 9C Units: E331, E153, R15</description>
       <guid isPermaLink="false">2026-06-03 17:27:00</guid>
       <pubDate>Wed, 03 Jun 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:14 pm</title>
-      <description>BUCKEYSTOWN PIKE / GROVE RD Radio: 9I Units: A319</description>
-      <guid isPermaLink="false">2026-06-03 17:14:00</guid>
-      <pubDate>Wed, 03 Jun 2026 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:07 pm</title>
-      <description>BUCKEYSTOWN PIKE / GROVE RD Radio: 9I Units: PE311, R3, A318, ALS31, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-06-03 17:07:00</guid>
-      <pubDate>Wed, 03 Jun 2026 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
