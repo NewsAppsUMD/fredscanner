@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 22:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 23:20:35 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:17 pm</title>
+      <description>4100 BLOCK ROCK HALL RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-06-06 19:17:00</guid>
+      <pubDate>Sat, 06 Jun 2026 19:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:15 pm</title>
+      <description>4100 BLOCK ROCK HALL RD Radio: 9C Units: BR285</description>
+      <guid isPermaLink="false">2026-06-06 19:15:00</guid>
+      <pubDate>Sat, 06 Jun 2026 19:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:00 pm</title>
+      <description>ED MCCLAIN RD / GREEN VALLEY RD Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-06-06 19:00:00</guid>
+      <pubDate>Sat, 06 Jun 2026 19:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:59 pm</title>
+      <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-06-06 18:59:00</guid>
+      <pubDate>Sat, 06 Jun 2026 18:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:55 pm</title>
+      <description>1300 BLOCK DANBERRY DR Radio: 9B Units: A18</description>
+      <guid isPermaLink="false">2026-06-06 18:55:00</guid>
+      <pubDate>Sat, 06 Jun 2026 18:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 6:54 pm</title>
+      <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-06-06 18:54:00</guid>
+      <pubDate>Sat, 06 Jun 2026 18:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:51 pm</title>
+      <description>APPROX LOC:10085 ROCKY RIDGE RD Radio: 9B Units: A308, E132</description>
+      <guid isPermaLink="false">2026-06-06 18:51:00</guid>
+      <pubDate>Sat, 06 Jun 2026 18:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:41 pm</title>
       <description>12800 BLOCK CATOCTIN FURNACE RD Radio: 9C Units: BR106</description>
@@ -264,48 +306,6 @@
       <description>37400 BLOCK ADVENTURE CENTER LN, HARPERS FERRY ADVENTURE CENTER Radio: 6LTAC31 Units: PE52, TR29, T5, A198, R20</description>
       <guid isPermaLink="false">2026-06-06 11:37:00</guid>
       <pubDate>Sat, 06 Jun 2026 11:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:27 am</title>
-      <description>5900 BLOCK OAKCROSS LN Units: E331, T4</description>
-      <guid isPermaLink="false">2026-06-06 11:27:00</guid>
-      <pubDate>Sat, 06 Jun 2026 11:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:22 am</title>
-      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Units: E31, E11, T4</description>
-      <guid isPermaLink="false">2026-06-06 10:22:00</guid>
-      <pubDate>Sat, 06 Jun 2026 10:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:39 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A129</description>
-      <guid isPermaLink="false">2026-06-06 09:39:00</guid>
-      <pubDate>Sat, 06 Jun 2026 09:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:21 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A19</description>
-      <guid isPermaLink="false">2026-06-06 09:21:00</guid>
-      <pubDate>Sat, 06 Jun 2026 09:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:13 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A19</description>
-      <guid isPermaLink="false">2026-06-06 09:13:00</guid>
-      <pubDate>Sat, 06 Jun 2026 09:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:12 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A78</description>
-      <guid isPermaLink="false">2026-06-06 09:12:00</guid>
-      <pubDate>Sat, 06 Jun 2026 09:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:10 am</title>
-      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A89, E82</description>
-      <guid isPermaLink="false">2026-06-06 09:10:00</guid>
-      <pubDate>Sat, 06 Jun 2026 09:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
