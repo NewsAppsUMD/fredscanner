@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 11:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 11:57:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:20 am</title>
+      <description>1900 BLOCK ROCKY WAY, Apt/Unit:207 Units: E501, T4</description>
+      <guid isPermaLink="false">2026-06-06 07:20:00</guid>
+      <pubDate>Sat, 06 Jun 2026 07:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:17 am</title>
+      <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-06 07:17:00</guid>
+      <pubDate>Sat, 06 Jun 2026 07:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR OUTSIDE: 4:40 am</title>
       <description>1800 BLOCK SPRUCE PEAK WAY Radio: 9C Units: E11, A19</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / RAMP RT15NB TO S JEFFERSON ST, RT15NB / RAMP RT15NB TO S JEFFERSON ST Radio: 9C Units: BR35, BR16</description>
       <guid isPermaLink="false">2026-06-04 13:21:00</guid>
       <pubDate>Thu, 04 Jun 2026 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 12:49 pm</title>
-      <description>FINGERBOARD RD / SUGARLOAF PKWY Radio: 9B Units: ALS23, EMS901</description>
-      <guid isPermaLink="false">2026-06-04 12:49:00</guid>
-      <pubDate>Thu, 04 Jun 2026 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:47 pm</title>
-      <description>FINGERBOARD RD / SUGARLOAF PKWY Radio: 9B Units: A238, TT23</description>
-      <guid isPermaLink="false">2026-06-04 12:47:00</guid>
-      <pubDate>Thu, 04 Jun 2026 12:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
