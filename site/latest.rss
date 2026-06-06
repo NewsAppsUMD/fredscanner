@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 18:52:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 19:29:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
+      <description>RT15SB / RAMP S JEFFERSON ST TO I270SB, RT15SB / RAMP S JEFFERSON ST TO I270SB Radio: 9B Units: E31, PE311, R3, A19, A38</description>
+      <guid isPermaLink="false">2026-06-06 14:57:00</guid>
+      <pubDate>Sat, 06 Jun 2026 14:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE THREATENING A STRUCTURE: 2:37 pm</title>
       <description>BLACKS MILL RD / HESSONG BRIDGE RD Radio: 9C Units: PE102, E162, E132, Q11, EK224, A229, BR226, E221, BC902, SAF901</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: A19</description>
       <guid isPermaLink="false">2026-06-04 23:34:00</guid>
       <pubDate>Thu, 04 Jun 2026 23:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:20 pm</title>
-      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST Units: PE23</description>
-      <guid isPermaLink="false">2026-06-04 23:20:00</guid>
-      <pubDate>Thu, 04 Jun 2026 23:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
