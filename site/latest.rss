@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 12:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 13:30:18 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:21 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A19</description>
+      <guid isPermaLink="false">2026-06-06 09:21:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:13 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A19</description>
+      <guid isPermaLink="false">2026-06-06 09:13:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:12 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A78</description>
+      <guid isPermaLink="false">2026-06-06 09:12:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:10 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A89, E82</description>
+      <guid isPermaLink="false">2026-06-06 09:10:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:02 am</title>
+      <description>700 BLOCK E PATRICK ST Units: E31, T4</description>
+      <guid isPermaLink="false">2026-06-06 09:02:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:18 am</title>
       <description>BUSSARD RD / HOLTER RD Units: BR125, E72</description>
@@ -276,36 +306,6 @@
       <description>MAIN ST / SOUTH ST Radio: 9B Units: A179, E172</description>
       <guid isPermaLink="false">2026-06-04 18:19:00</guid>
       <pubDate>Thu, 04 Jun 2026 18:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:16 pm</title>
-      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST Radio: 9B Units: E501, E11, R2, A28, A18</description>
-      <guid isPermaLink="false">2026-06-04 18:16:00</guid>
-      <pubDate>Thu, 04 Jun 2026 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:28 pm</title>
-      <description>W PATRICK ST / N MCCAIN DR Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-06-04 16:28:00</guid>
-      <pubDate>Thu, 04 Jun 2026 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:23 pm</title>
-      <description>500 BLOCK N BENTZ ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-06-04 16:23:00</guid>
-      <pubDate>Thu, 04 Jun 2026 16:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:52 pm</title>
-      <description>FOXVILLE RD / PRYOR RD Radio: 9B Units: E102, R10, A308, ALS30, EMS902</description>
-      <guid isPermaLink="false">2026-06-04 15:52:00</guid>
-      <pubDate>Thu, 04 Jun 2026 15:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:10 pm</title>
-      <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-06-04 15:10:00</guid>
-      <pubDate>Thu, 04 Jun 2026 15:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
