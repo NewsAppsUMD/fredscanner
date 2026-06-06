@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 19:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 20:32:38 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:23 pm</title>
+      <description>500 BLOCK N BENTZ ST Radio: 9B Units: PE23, T4</description>
+      <guid isPermaLink="false">2026-06-06 16:23:00</guid>
+      <pubDate>Sat, 06 Jun 2026 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:13 pm</title>
+      <description>100 BLOCK BLK SUGARLOAF BLUE TRAIL Radio: 9D Units: U23</description>
+      <guid isPermaLink="false">2026-06-06 16:13:00</guid>
+      <pubDate>Sat, 06 Jun 2026 16:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:10 pm</title>
+      <description>100 BLOCK BLK SUGARLOAF BLUE TRAIL Radio: 9D Units: E231, R14, TR29, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-06-06 16:10:00</guid>
+      <pubDate>Sat, 06 Jun 2026 16:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
       <description>RT15SB / RAMP S JEFFERSON ST TO I270SB, RT15SB / RAMP S JEFFERSON ST TO I270SB Radio: 9B Units: E31, PE311, R3, A19, A38</description>
@@ -288,24 +306,6 @@
       <description>1000 BLOCK N MARKET ST Radio: 9C Units: PE23, T4</description>
       <guid isPermaLink="false">2026-06-05 10:27:00</guid>
       <pubDate>Fri, 05 Jun 2026 10:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:30 am</title>
-      <description>6900 BLOCK EAGLEHEAD DR Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-06-05 03:30:00</guid>
-      <pubDate>Fri, 05 Jun 2026 03:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 2:28 am</title>
-      <description>I70WB / 48MM, I70WB / 48MM Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-06-05 02:28:00</guid>
-      <pubDate>Fri, 05 Jun 2026 02:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:34 pm</title>
-      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: A19</description>
-      <guid isPermaLink="false">2026-06-04 23:34:00</guid>
-      <pubDate>Thu, 04 Jun 2026 23:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
