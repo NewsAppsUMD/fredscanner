@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jun 2026 13:30:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 14:11:28 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:39 am</title>
+      <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A129</description>
+      <guid isPermaLink="false">2026-06-06 09:39:00</guid>
+      <pubDate>Sat, 06 Jun 2026 09:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:21 am</title>
       <description>9600 BLOCK MYERSVILLE RD, MCDONALDS - MYERSVILLE Units: A19</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / ANNANDALE RD, RT15SB / ANNANDALE RD Units: BR65</description>
       <guid isPermaLink="false">2026-06-04 20:17:00</guid>
       <pubDate>Thu, 04 Jun 2026 20:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:19 pm</title>
-      <description>MAIN ST / SOUTH ST Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-06-04 18:19:00</guid>
-      <pubDate>Thu, 04 Jun 2026 18:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
