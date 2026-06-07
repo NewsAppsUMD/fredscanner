@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 16:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:56:50 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 12:40 pm</title>
+      <description>CAMPUS DR / FINGERBOARD RD, BY HIGH SCHOOL THE Y Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-06-07 12:40:00</guid>
+      <pubDate>Sun, 07 Jun 2026 12:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:27 pm</title>
+      <description>E CHURCH ST / HOLDEN RD Radio: 9B Units: A37, PE23</description>
+      <guid isPermaLink="false">2026-06-07 12:27:00</guid>
+      <pubDate>Sun, 07 Jun 2026 12:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 12:17 pm</title>
       <description>1000 BLOCK CHINABERRY DR Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>6000 BLOCK DICKERSON RD Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2026-06-06 18:20:00</guid>
       <pubDate>Sat, 06 Jun 2026 18:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:18 pm</title>
-      <description>7000 BLOCK RIDGE RD Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-06-06 18:18:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:17 pm</title>
-      <description>2700 BLOCK LANDER RD Radio: 9C Units: BR285</description>
-      <guid isPermaLink="false">2026-06-06 18:17:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
