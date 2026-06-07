@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 19:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 20:35:09 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 4:10 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL// IN PARKING LOT// IN ISLAND// ACROSS FROM OLIVE GADEN Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-07 16:10:00</guid>
+      <pubDate>Sun, 07 Jun 2026 16:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR INSIDE: 3:11 pm</title>
       <description>1200 BLOCK E PATRICK ST, Apt/Unit:13C Radio: 9C Units: E33, E331, R3</description>
@@ -300,12 +306,6 @@
       <description>10600 BLOCK NATHANIEL WAY Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-06-06 18:54:00</guid>
       <pubDate>Sat, 06 Jun 2026 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:51 pm</title>
-      <description>APPROX LOC:10085 ROCKY RIDGE RD Radio: 9B Units: A308, E132</description>
-      <guid isPermaLink="false">2026-06-06 18:51:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
