@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 14:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 15:03:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:57 am</title>
+      <description>FINGERBOARD RD / CAMPUS DR Radio: 9D Units: E231, R15, A239, ALS31, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-06-07 10:57:00</guid>
+      <pubDate>Sun, 07 Jun 2026 10:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 9:44 am</title>
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: T4, PE23</description>
@@ -298,12 +304,6 @@
     <item>
       <title>WIRES DOWN OR ARCING: 6:00 pm</title>
       <description>MOUNTVILLE RD / INWOOD DR Radio: 91C Units: BR145</description>
-      <guid isPermaLink="false">2026-06-06 18:00:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:00 pm</title>
-      <description>LIBERTY RD / WOODSBORO PIKE Radio: 91C Units: E111</description>
       <guid isPermaLink="false">2026-06-06 18:00:00</guid>
       <pubDate>Sat, 06 Jun 2026 18:00:00 -0400</pubDate>
     </item>
