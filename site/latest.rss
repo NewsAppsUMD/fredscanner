@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 18:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 18:53:36 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 2:43 pm</title>
+      <description>11800 BLOCK BUFFINGTON RD, AT SHARP CURVE Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2026-06-07 14:43:00</guid>
+      <pubDate>Sun, 07 Jun 2026 14:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 2:33 pm</title>
+      <description>MA WASHCO: I70WB / 38MM, MA WASHCO: I70WB / 38MM Units: E82</description>
+      <guid isPermaLink="false">2026-06-07 14:33:00</guid>
+      <pubDate>Sun, 07 Jun 2026 14:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:32 pm</title>
+      <description>8800 BLOCK SEEKERS WALK Radio: 9D Units: A248, A299, ALS29, E111, EMS901</description>
+      <guid isPermaLink="false">2026-06-07 14:32:00</guid>
+      <pubDate>Sun, 07 Jun 2026 14:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:07 pm</title>
       <description>5300 BLOCK E HYATT RD Radio: 9C Units: BR156</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK COVELL RD Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2026-06-06 18:38:00</guid>
       <pubDate>Sat, 06 Jun 2026 18:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:33 pm</title>
-      <description>S MCCAIN DR / APPLETREE CT, PH2 Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-06-06 18:33:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:28 pm</title>
-      <description>1900 BLOCK ROCKY WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-06-06 18:28:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:27 pm</title>
-      <description>6000 BLOCK DICKERSON RD Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-06-06 18:27:00</guid>
-      <pubDate>Sat, 06 Jun 2026 18:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
