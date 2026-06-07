@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 22:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 22:48:22 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 6:20 pm</title>
+      <description>7000 BLOCK WOOD CT Radio: 9D Units: A229</description>
+      <guid isPermaLink="false">2026-06-07 18:20:00</guid>
+      <pubDate>Sun, 07 Jun 2026 18:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>ATV ACCIDENT: 6:12 pm</title>
       <description>7000 BLOCK WOOD CT Radio: 9D Units: PE102, R10, A308, ALS30, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9C Units: E281</description>
       <guid isPermaLink="false">2026-06-06 19:37:00</guid>
       <pubDate>Sat, 06 Jun 2026 19:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:17 pm</title>
-      <description>4100 BLOCK ROCK HALL RD Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2026-06-06 19:17:00</guid>
-      <pubDate>Sat, 06 Jun 2026 19:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
