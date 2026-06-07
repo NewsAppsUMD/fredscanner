@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 07 Jun 2026 22:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 23:21:48 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:16 pm</title>
+      <description>10300 BLOCK SPRINGSIDE TER Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-06-07 19:16:00</guid>
+      <pubDate>Sun, 07 Jun 2026 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:13 pm</title>
+      <description>6900 BLOCK EYLERS VALLEY FLINT RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-06-07 19:13:00</guid>
+      <pubDate>Sun, 07 Jun 2026 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ATV ACCIDENT: 6:20 pm</title>
       <description>7000 BLOCK WOOD CT Radio: 9D Units: A229</description>
@@ -294,18 +306,6 @@
       <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2026-06-06 19:52:00</guid>
       <pubDate>Sat, 06 Jun 2026 19:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:46 pm</title>
-      <description>3000 BLOCK BLACK ROCK RD Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2026-06-06 19:46:00</guid>
-      <pubDate>Sat, 06 Jun 2026 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:37 pm</title>
-      <description>NOLANDS FERRY BOAT RAMP, NOLANDS FERRY BOAT RAMP Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2026-06-06 19:37:00</guid>
-      <pubDate>Sat, 06 Jun 2026 19:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
