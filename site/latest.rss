@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 12:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 13:25:48 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:22 am</title>
+      <description>5700 BLOCK MAGNOLIA TREE CT, Apt/Unit:A33, MOUNTAIN GLEN APTS - 5700 BLOCK MAGNOLIA TREE CT Radio: 9D Units: PE311, E331, E33, PE23, E501, R3, T4, A319, ALS31, BC902, OPSAC900, SAF901</description>
+      <guid isPermaLink="false">2026-06-09 09:22:00</guid>
+      <pubDate>Tue, 09 Jun 2026 09:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 8:21 am</title>
       <description>I70WB / RT75(RT75), I70WB / RT75 Units: E153, E331</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK LEATHER FERN WAY Radio: 9C Units: E11, E33, T4</description>
       <guid isPermaLink="false">2026-06-07 11:12:00</guid>
       <pubDate>Sun, 07 Jun 2026 11:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:08 am</title>
-      <description>400 BLOCK BRUNSWICK ST Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-06-07 11:08:00</guid>
-      <pubDate>Sun, 07 Jun 2026 11:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
