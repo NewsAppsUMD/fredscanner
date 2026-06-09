@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jun 2026 17:38:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 18:40:02 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 2:26 pm</title>
+      <description>9800 BLOCK HANSONVILLE RD Units: BR226</description>
+      <guid isPermaLink="false">2026-06-09 14:26:00</guid>
+      <pubDate>Tue, 09 Jun 2026 14:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 2:20 pm</title>
+      <description>9800 BLOCK HANSONVILLE RD Units: BR226</description>
+      <guid isPermaLink="false">2026-06-09 14:20:00</guid>
+      <pubDate>Tue, 09 Jun 2026 14:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:29 am</title>
       <description>BARTHOLOWS RD / MOLESWORTH ENTRANCE Units: A259, E251</description>
@@ -294,18 +306,6 @@
       <description>E CHURCH ST / HOLDEN RD Radio: 9B Units: A37, PE23</description>
       <guid isPermaLink="false">2026-06-07 12:27:00</guid>
       <pubDate>Sun, 07 Jun 2026 12:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 12:17 pm</title>
-      <description>1000 BLOCK CHINABERRY DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-06-07 12:17:00</guid>
-      <pubDate>Sun, 07 Jun 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:01 pm</title>
-      <description>10300 BLOCK SPRINGSIDE TER Radio: 9C Units: E153</description>
-      <guid isPermaLink="false">2026-06-07 12:01:00</guid>
-      <pubDate>Sun, 07 Jun 2026 12:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
