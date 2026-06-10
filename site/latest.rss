@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 18:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 19:20:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:48 pm</title>
+      <description>RT15-340EB / 9MM, RT15-340EB / 9MM Radio: 9D Units: E201, E11, R20, A209, A18, ALS20, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-06-10 14:48:00</guid>
+      <pubDate>Wed, 10 Jun 2026 14:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:34 pm</title>
+      <description>200 BLOCK E PATRICK ST, EVENT VENU Units: E33, T4</description>
+      <guid isPermaLink="false">2026-06-10 14:34:00</guid>
+      <pubDate>Wed, 10 Jun 2026 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:22 pm</title>
+      <description>MONOCACY BLVD / E PATRICK ST Units: A38, R3</description>
+      <guid isPermaLink="false">2026-06-10 14:22:00</guid>
+      <pubDate>Wed, 10 Jun 2026 14:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:21 pm</title>
+      <description>400 BLOCK W SOUTH ST Units: E33</description>
+      <guid isPermaLink="false">2026-06-10 14:21:00</guid>
+      <pubDate>Wed, 10 Jun 2026 14:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:04 pm</title>
       <description>7100 BLOCK GUILFORD DR Units: E33, T4</description>
@@ -282,30 +306,6 @@
       <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Radio: 9C Units: BC901</description>
       <guid isPermaLink="false">2026-06-07 17:10:00</guid>
       <pubDate>Sun, 07 Jun 2026 17:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:02 pm</title>
-      <description>BRUNSWICK ST / N GEORGIA AVE Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-06-07 17:02:00</guid>
-      <pubDate>Sun, 07 Jun 2026 17:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 4:50 pm</title>
-      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: A196, PE52</description>
-      <guid isPermaLink="false">2026-06-07 16:50:00</guid>
-      <pubDate>Sun, 07 Jun 2026 16:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:10 pm</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL// IN PARKING LOT// IN ISLAND// ACROSS FROM OLIVE GADEN Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-06-07 16:10:00</guid>
-      <pubDate>Sun, 07 Jun 2026 16:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 3:11 pm</title>
-      <description>1200 BLOCK E PATRICK ST, Apt/Unit:13C Radio: 9C Units: E33, E331, R3</description>
-      <guid isPermaLink="false">2026-06-07 15:11:00</guid>
-      <pubDate>Sun, 07 Jun 2026 15:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
