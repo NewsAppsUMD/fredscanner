@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 10 Jun 2026 08:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 09:45:27 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 5:42 am</title>
+      <description>11900 BLOCK BETHESDA CHURCH RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-06-10 05:42:00</guid>
+      <pubDate>Wed, 10 Jun 2026 05:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 4:47 am</title>
+      <description>400 BLOCK PROSPECT BLVD, SKYLOS SPORTS MEDICINE - FESTIVAL CENTER Radio: 9C Units: E33, E11, T4</description>
+      <guid isPermaLink="false">2026-06-10 04:47:00</guid>
+      <pubDate>Wed, 10 Jun 2026 04:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 3:26 pm</title>
       <description>E PATRICK ST / N MAXWELL AVE Radio: 9D Units: A37, PE23, E33, EMS902</description>
@@ -294,18 +306,6 @@
       <description>8800 BLOCK SEEKERS WALK Radio: 9D Units: A248, A299, ALS29, E111, EMS901</description>
       <guid isPermaLink="false">2026-06-07 14:32:00</guid>
       <pubDate>Sun, 07 Jun 2026 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:07 pm</title>
-      <description>5300 BLOCK E HYATT RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-06-07 13:07:00</guid>
-      <pubDate>Sun, 07 Jun 2026 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:07 pm</title>
-      <description>I70EB / SPRING RIDGE PKWY, I70EB / SPRING RIDGE PKWY Radio: 9B Units: E331, E153, R3, A339, A159</description>
-      <guid isPermaLink="false">2026-06-07 13:07:00</guid>
-      <pubDate>Sun, 07 Jun 2026 13:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
