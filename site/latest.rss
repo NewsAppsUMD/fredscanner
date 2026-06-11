@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jun 2026 17:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 18:30:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:22 pm</title>
+      <description>4900 BLOCK EXECUTIVE CT S, Apt/Unit:D Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2026-06-11 14:22:00</guid>
+      <pubDate>Thu, 11 Jun 2026 14:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 2:15 pm</title>
+      <description>1800 BLOCK MONOCACY VIEW CIR, Apt/Unit:B Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-06-11 14:15:00</guid>
+      <pubDate>Thu, 11 Jun 2026 14:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:20 pm</title>
+      <description>9000 BLOCK BENNETT CREEK BLVD, KITE PHARMA Radio: 9C Units: E231, TW1</description>
+      <guid isPermaLink="false">2026-06-11 13:20:00</guid>
+      <pubDate>Thu, 11 Jun 2026 13:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:08 pm</title>
       <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9B Units: A319, E311</description>
@@ -288,24 +306,6 @@
       <description>700 BLOCK E PATRICK ST Radio: 9C Units: E33, T4</description>
       <guid isPermaLink="false">2026-06-09 09:52:00</guid>
       <pubDate>Tue, 09 Jun 2026 09:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:22 am</title>
-      <description>5700 BLOCK MAGNOLIA TREE CT, Apt/Unit:A33, MOUNTAIN GLEN APTS - 5700 BLOCK MAGNOLIA TREE CT Radio: 9D Units: PE311, E331, E33, PE23, E501, R3, T4, A319, ALS31, BC902, OPSAC900, SAF901</description>
-      <guid isPermaLink="false">2026-06-09 09:22:00</guid>
-      <pubDate>Tue, 09 Jun 2026 09:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL VEHICLE FIRE: 8:21 am</title>
-      <description>I70WB / RT75(RT75), I70WB / RT75 Units: E153, E331</description>
-      <guid isPermaLink="false">2026-06-09 08:21:00</guid>
-      <pubDate>Tue, 09 Jun 2026 08:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:48 am</title>
-      <description>100 BLOCK WESTERN DR Radio: 9C Units: E121, TW1</description>
-      <guid isPermaLink="false">2026-06-09 06:48:00</guid>
-      <pubDate>Tue, 09 Jun 2026 06:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
