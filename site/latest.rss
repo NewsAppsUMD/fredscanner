@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Jun 2026 11:48:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 13:02:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:48 am</title>
+      <description>RT355 / BIG WOODS RD, RT355 / BIG WOODS RD Radio: 9B Units: A239, E231</description>
+      <guid isPermaLink="false">2026-06-12 08:48:00</guid>
+      <pubDate>Fri, 12 Jun 2026 08:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
+      <description>1200 BLOCK BASE RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-12 08:38:00</guid>
+      <pubDate>Fri, 12 Jun 2026 08:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:34 am</title>
+      <description>5800 BLOCK HOLLYS WAY Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-06-12 08:34:00</guid>
+      <pubDate>Fri, 12 Jun 2026 08:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:50 am</title>
       <description>JAMES MONROE HWY / NEWVALLEY CHURCH RD Radio: 6B Units: E281</description>
@@ -288,24 +306,6 @@
       <description>PARK MILLS RD / FINGERBOARD RD Units: A239, TT23</description>
       <guid isPermaLink="false">2026-06-10 16:31:00</guid>
       <pubDate>Wed, 10 Jun 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:12 pm</title>
-      <description>I70WB / NEW DESIGN RD, I70WB / NEW DESIGN RD Units: E33, E231, R3, A38, A318, ALS4, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-06-10 16:12:00</guid>
-      <pubDate>Wed, 10 Jun 2026 16:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:11 pm</title>
-      <description>E THIRD ST / N EAST ST Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-06-10 16:11:00</guid>
-      <pubDate>Wed, 10 Jun 2026 16:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:46 pm</title>
-      <description>4300 BLOCK OLD NATIONAL PIKE Radio: 9D Units: A78</description>
-      <guid isPermaLink="false">2026-06-10 15:46:00</guid>
-      <pubDate>Wed, 10 Jun 2026 15:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
