@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 21:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 22:21:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:11 pm</title>
+      <description>10000 BLOCK PEBBLE BEACH TER Radio: 9D Units: E331, R15, A339, ALS33, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-06-13 18:11:00</guid>
+      <pubDate>Sat, 13 Jun 2026 18:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:37 pm</title>
       <description>4600 BLOCK LANDER RD, STATION 20 Units: A37, E72</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK CONTENDER WAY, BUTTERFLY RIDGE ELEMENTARY SCHOOL Radio: 9C Units: E11, T4</description>
       <guid isPermaLink="false">2026-06-12 05:43:00</guid>
       <pubDate>Fri, 12 Jun 2026 05:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:04 am</title>
-      <description>100 BLOCK E PATRICK ST, FREDERICK GAZETTE Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2026-06-12 01:04:00</guid>
-      <pubDate>Fri, 12 Jun 2026 01:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
