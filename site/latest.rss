@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 15:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:27:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:22 pm</title>
+      <description>1700 BLOCK N MARKET ST, IFO CUGINO FORNO Radio: 9D Units: E33, R2, A28, ALS2, EMS901</description>
+      <guid isPermaLink="false">2026-06-13 12:22:00</guid>
+      <pubDate>Sat, 13 Jun 2026 12:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:42 am</title>
+      <description>GAS HOUSE PIKE / SANANDREW DR Radio: 9C Units: E153</description>
+      <guid isPermaLink="false">2026-06-13 11:42:00</guid>
+      <pubDate>Sat, 13 Jun 2026 11:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 10:54 am</title>
       <description>100 BLOCK W THIRD ST Units: PE23, E33, T4</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:109, MILL CROSSING CONDOS Units: E11</description>
       <guid isPermaLink="false">2026-06-11 17:54:00</guid>
       <pubDate>Thu, 11 Jun 2026 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:20 pm</title>
-      <description>I70EB / RT17(RT17), I70EB / RT17 Radio: 9D Units: E72, E121, R8, A78, A19, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-06-11 16:20:00</guid>
-      <pubDate>Thu, 11 Jun 2026 16:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:09 pm</title>
-      <description>I70WB / EXIT 53 (RT15), I70WB / EXIT 53 Radio: 9B Units: A319, E33</description>
-      <guid isPermaLink="false">2026-06-11 16:09:00</guid>
-      <pubDate>Thu, 11 Jun 2026 16:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
