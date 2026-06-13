@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 18:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 19:29:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:14 pm</title>
+      <description>RT15NB / HESSONG BRIDGE RD, RT15NB / HESSONG BRIDGE RD Radio: 9D Units: E291, PE102, R24, A229, A299, ALS29, E221, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-06-13 15:14:00</guid>
+      <pubDate>Sat, 13 Jun 2026 15:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 3:04 pm</title>
+      <description>CRYSTAL FOUNTAIN RD / ANNANDALE RD Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-06-13 15:04:00</guid>
+      <pubDate>Sat, 13 Jun 2026 15:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:43 pm</title>
       <description>RT17 / I70, RT17 / I70 Radio: 9B Units: A89, E82</description>
@@ -294,18 +306,6 @@
       <description>RT144 / MUSSETTER RD, RT144 / MUSSETTER RD Radio: 9C Units: BR156</description>
       <guid isPermaLink="false">2026-06-11 19:48:00</guid>
       <pubDate>Thu, 11 Jun 2026 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:45 pm</title>
-      <description>8000 BLOCK RIDGE RD Radio: 9C Units: BR125</description>
-      <guid isPermaLink="false">2026-06-11 19:45:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:30 pm</title>
-      <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-06-11 19:30:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
