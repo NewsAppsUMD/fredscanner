@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 16:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 16:59:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:43 pm</title>
+      <description>RT17 / I70, RT17 / I70 Radio: 9B Units: A89, E82</description>
+      <guid isPermaLink="false">2026-06-13 12:43:00</guid>
+      <pubDate>Sat, 13 Jun 2026 12:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 12:22 pm</title>
       <description>1700 BLOCK N MARKET ST, IFO CUGINO FORNO Radio: 9D Units: E33, R2, A28, ALS2, EMS901</description>
@@ -300,12 +306,6 @@
       <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2026-06-11 19:30:00</guid>
       <pubDate>Thu, 11 Jun 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 5:54 pm</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:109, MILL CROSSING CONDOS Units: E11</description>
-      <guid isPermaLink="false">2026-06-11 17:54:00</guid>
-      <pubDate>Thu, 11 Jun 2026 17:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
