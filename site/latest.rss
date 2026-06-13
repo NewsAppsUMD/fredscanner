@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 19:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:04:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:32 pm</title>
+      <description>RT144 / MEADOW RD, RT144 / MEADOW RD Radio: 9B Units: A339, E153</description>
+      <guid isPermaLink="false">2026-06-13 15:32:00</guid>
+      <pubDate>Sat, 13 Jun 2026 15:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:14 pm</title>
       <description>RT15NB / HESSONG BRIDGE RD, RT15NB / HESSONG BRIDGE RD Radio: 9D Units: E291, PE102, R24, A229, A299, ALS29, E221, BC902, EMS902</description>
@@ -300,12 +306,6 @@
       <description>6200 BLOCK WHITE OAK DR Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-06-11 19:50:00</guid>
       <pubDate>Thu, 11 Jun 2026 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:48 pm</title>
-      <description>RT144 / MUSSETTER RD, RT144 / MUSSETTER RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-06-11 19:48:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
