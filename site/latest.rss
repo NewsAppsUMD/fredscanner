@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Jun 2026 20:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 20:52:17 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 4:46 pm</title>
+      <description>13100 BLOCK LEGORE BRIDGE RD Units: E132, E91, E162, PE102, E111, E61, R10, TW6, R24, EK134, K9, K10, A169, ALS30, E221, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-06-13 16:46:00</guid>
+      <pubDate>Sat, 13 Jun 2026 16:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:39 pm</title>
+      <description>W COLLEGE TER / CARROLL PKWY Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-06-13 16:39:00</guid>
+      <pubDate>Sat, 13 Jun 2026 16:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:15 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2026-06-13 16:15:00</guid>
+      <pubDate>Sat, 13 Jun 2026 16:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:04 pm</title>
+      <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: E291, TW1</description>
+      <guid isPermaLink="false">2026-06-13 16:04:00</guid>
+      <pubDate>Sat, 13 Jun 2026 16:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:01 pm</title>
+      <description>200 BLOCK E SIXTEENTH ST Radio: 9C Units: PE23, T4</description>
+      <guid isPermaLink="false">2026-06-13 16:01:00</guid>
+      <pubDate>Sat, 13 Jun 2026 16:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:32 pm</title>
       <description>RT144 / MEADOW RD, RT144 / MEADOW RD Radio: 9B Units: A339, E153</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, ROYAL FARMS - MONOCACY BLVD Radio: 9C Units: E33, E331, R3</description>
       <guid isPermaLink="false">2026-06-11 22:45:00</guid>
       <pubDate>Thu, 11 Jun 2026 22:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:07 pm</title>
-      <description>OLD NATIONAL PIKE / BILL MOXLEY RD Units: BR156</description>
-      <guid isPermaLink="false">2026-06-11 20:07:00</guid>
-      <pubDate>Thu, 11 Jun 2026 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:00 pm</title>
-      <description>OLD NATIONAL PIKE / BILL MOXLEY RD Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-06-11 20:00:00</guid>
-      <pubDate>Thu, 11 Jun 2026 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:53 pm</title>
-      <description>10900 BLOCK LIBERTY RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2026-06-11 19:53:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:50 pm</title>
-      <description>CATOCTIN HOLLOW RD / MINK FARM RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-06-11 19:50:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:50 pm</title>
-      <description>6200 BLOCK WHITE OAK DR Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-06-11 19:50:00</guid>
-      <pubDate>Thu, 11 Jun 2026 19:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
