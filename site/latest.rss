@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 03:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 05:06:40 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:12 pm</title>
+      <description>GREEN VALLEY RD / RAILROAD XING Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-06-13 23:12:00</guid>
+      <pubDate>Sat, 13 Jun 2026 23:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:12 pm</title>
       <description>1500 BLOCK(610) BLK TANEYTOWN RD Radio: ACOPS4 Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E141</description>
       <guid isPermaLink="false">2026-06-12 09:29:00</guid>
       <pubDate>Fri, 12 Jun 2026 09:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:16 am</title>
-      <description>6900 BLOCK BRIGHTON CT, KINGSCREST APTS - 6900 BLOCK BRIGHTON CT Radio: 9C Units: PE311, T4</description>
-      <guid isPermaLink="false">2026-06-12 09:16:00</guid>
-      <pubDate>Fri, 12 Jun 2026 09:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
