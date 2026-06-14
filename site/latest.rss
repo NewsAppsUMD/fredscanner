@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 12:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 13:04:52 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:21 am</title>
+      <description>1900 BLOCK HARPERS CT Radio: 9C Units: E291, TW1</description>
+      <guid isPermaLink="false">2026-06-14 08:21:00</guid>
+      <pubDate>Sun, 14 Jun 2026 08:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:06 am</title>
       <description>15800 BLOCK OLD FREDERICK RD Radio: 9B Units: E61, TW6, A69, ALS30, EMS902</description>
@@ -300,12 +306,6 @@
       <description>I70WB / HARMONY RD, I70WB / HARMONY RD Radio: 9D Units: E11, RE74, R8, A129, A89, ALS8, BC903, EMS901</description>
       <guid isPermaLink="false">2026-06-12 13:12:00</guid>
       <pubDate>Fri, 12 Jun 2026 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:50 am</title>
-      <description>100 BLOCK E SOUTH ST Radio: 9C Units: E33, T4</description>
-      <guid isPermaLink="false">2026-06-12 11:50:00</guid>
-      <pubDate>Fri, 12 Jun 2026 11:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
