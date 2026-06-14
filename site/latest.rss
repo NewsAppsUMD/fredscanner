@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 16:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 16:57:42 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 12:47 pm</title>
+      <description>8200 BLOCK GLEN HEATHER DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-14 12:47:00</guid>
+      <pubDate>Sun, 14 Jun 2026 12:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 12:42 pm</title>
+      <description>2900 BLOCK SUMANTOWN RD, CATOCTIN CREEK PARK &amp; NATURE CENTER Radio: 9D Units: E201, E72, E121, R20, A209, ALS20, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-06-14 12:42:00</guid>
+      <pubDate>Sun, 14 Jun 2026 12:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 12:30 pm</title>
+      <description>BROOK VALLEY RD / MONOCACY FORD RD Radio: 9C Units: E111, PE23, BR16, BR35</description>
+      <guid isPermaLink="false">2026-06-14 12:30:00</guid>
+      <pubDate>Sun, 14 Jun 2026 12:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 12:22 pm</title>
+      <description>BROOK VALLEY RD / MONOCACY FORD RD Radio: 9C Units: E291, BR116, DNR</description>
+      <guid isPermaLink="false">2026-06-14 12:22:00</guid>
+      <pubDate>Sun, 14 Jun 2026 12:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:53 am</title>
       <description>100 BLOCK N CHURCH ST, LOVETTSVILLE POST OFFICE Radio: 6B Units: T5</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK VICTORIA SQ Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-06-12 18:15:00</guid>
       <pubDate>Fri, 12 Jun 2026 18:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:07 pm</title>
-      <description>I70EB / RT340-15(RT15-340) Radio: 9B Units: E72, E33, R3, A129, A37</description>
-      <guid isPermaLink="false">2026-06-12 18:07:00</guid>
-      <pubDate>Fri, 12 Jun 2026 18:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:43 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2026-06-12 15:43:00</guid>
-      <pubDate>Fri, 12 Jun 2026 15:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:01 pm</title>
-      <description>4800 BLOCK BUCKEYSTOWN PIKE, HOME2 SUITES Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-06-12 15:01:00</guid>
-      <pubDate>Fri, 12 Jun 2026 15:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 2:50 pm</title>
-      <description>100 BLOCK E BALTIMORE ST, STATION CC005 - TANEYTOWN VFC Units: E61</description>
-      <guid isPermaLink="false">2026-06-12 14:50:00</guid>
-      <pubDate>Fri, 12 Jun 2026 14:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
