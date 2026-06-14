@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 01:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 03:04:04 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:12 pm</title>
+      <description>1500 BLOCK(610) BLK TANEYTOWN RD Radio: ACOPS4 Units: TW6</description>
+      <guid isPermaLink="false">2026-06-13 22:12:00</guid>
+      <pubDate>Sat, 13 Jun 2026 22:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 9:46 pm</title>
+      <description>1600 BLOCK WHEYFIELD DR Radio: 9D Units: A249, ALS2, E111, EMS902</description>
+      <guid isPermaLink="false">2026-06-13 21:46:00</guid>
+      <pubDate>Sat, 13 Jun 2026 21:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 8:20 pm</title>
       <description>2400 BLOCK CANADA HILL RD Radio: 9C Units: BR85</description>
@@ -294,18 +306,6 @@
       <description>6900 BLOCK BRIGHTON CT, KINGSCREST APTS - 6900 BLOCK BRIGHTON CT Radio: 9C Units: PE311, T4</description>
       <guid isPermaLink="false">2026-06-12 09:16:00</guid>
       <pubDate>Fri, 12 Jun 2026 09:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:48 am</title>
-      <description>RT355 / BIG WOODS RD, RT355 / BIG WOODS RD Radio: 9B Units: A239, E231</description>
-      <guid isPermaLink="false">2026-06-12 08:48:00</guid>
-      <pubDate>Fri, 12 Jun 2026 08:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
-      <description>1200 BLOCK BASE RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-06-12 08:38:00</guid>
-      <pubDate>Fri, 12 Jun 2026 08:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
