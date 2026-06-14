@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 17:33:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 18:25:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:14 pm</title>
+      <description>600 BLOCK W MAIN ST, WILES BRANCH PARK Radio: 9B Units: E72, A78, ALS8</description>
+      <guid isPermaLink="false">2026-06-14 14:14:00</guid>
+      <pubDate>Sun, 14 Jun 2026 14:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 2:03 pm</title>
+      <description>100 BLOCK BLK SUGARLOAF GREEN TRAIL Radio: 9I Units: E231, R3, TR29, EMSUTV31, A239, ALS23, BC902, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-06-14 14:03:00</guid>
+      <pubDate>Sun, 14 Jun 2026 14:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:49 pm</title>
+      <description>4500 BLOCK PINE VALLEY CT Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-06-14 13:49:00</guid>
+      <pubDate>Sun, 14 Jun 2026 13:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:32 pm</title>
+      <description>2500 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2026-06-14 13:32:00</guid>
+      <pubDate>Sun, 14 Jun 2026 13:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 12:59 pm</title>
       <description>BROOK VALLEY RD / MONOCACY FORD RD Radio: 9C Units: A249</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK W SOUTH ST Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2026-06-12 19:51:00</guid>
       <pubDate>Fri, 12 Jun 2026 19:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:47 pm</title>
-      <description>10900 BLOCK ROCKY RIDGE RD Radio: 9C Units: E132</description>
-      <guid isPermaLink="false">2026-06-12 19:47:00</guid>
-      <pubDate>Fri, 12 Jun 2026 19:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:30 pm</title>
-      <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: E72</description>
-      <guid isPermaLink="false">2026-06-12 19:30:00</guid>
-      <pubDate>Fri, 12 Jun 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:14 pm</title>
-      <description>100 BLOCK KEYESGAP RD, JEFFERSON COUNTY STATION 5 Units: EMSUTV31</description>
-      <guid isPermaLink="false">2026-06-12 19:14:00</guid>
-      <pubDate>Fri, 12 Jun 2026 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 6:39 pm</title>
-      <description>100 BLOCK KEYESGAP RD, JEFFERSON COUNTY STATION 5 Units: EMSUTV19</description>
-      <guid isPermaLink="false">2026-06-12 18:39:00</guid>
-      <pubDate>Fri, 12 Jun 2026 18:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
