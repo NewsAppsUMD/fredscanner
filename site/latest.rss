@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Jun 2026 21:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:23:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:02 pm</title>
+      <description>2400 BLOCK MONOCACY BLVD, WALMART - MONOCACY BLVD Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2026-06-14 18:02:00</guid>
+      <pubDate>Sun, 14 Jun 2026 18:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:01 pm</title>
+      <description>700 BLOCK W POTOMAC ST, Bldg:A, DOLLAR GENERAL - BRUNSWICK Radio: 9D Units: E52, R19, A196, ALS20, EMS901</description>
+      <guid isPermaLink="false">2026-06-14 18:01:00</guid>
+      <pubDate>Sun, 14 Jun 2026 18:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:56 pm</title>
+      <description>9300 BLOCK ELGIN LN Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-06-14 17:56:00</guid>
+      <pubDate>Sun, 14 Jun 2026 17:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
       <description>W PATRICK ST / W COLLEGE TER, Apt/Unit:HTTPS://A91.IO/AWP94 Radio: 9B Units: A28, T4</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / LOHR RD, RT15NB / LOHR RD Units: A69, PE102</description>
       <guid isPermaLink="false">2026-06-13 02:45:00</guid>
       <pubDate>Sat, 13 Jun 2026 02:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:13 am</title>
-      <description>1100 BLOCK W PATRICK ST Units: E11, T4</description>
-      <guid isPermaLink="false">2026-06-13 00:13:00</guid>
-      <pubDate>Sat, 13 Jun 2026 00:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE - ENTRAPMENT: 10:17 pm</title>
-      <description>700 BLOCK CARROLL PKWY, Bldg:7, PARKVIEW APTS Units: A19, EMS902</description>
-      <guid isPermaLink="false">2026-06-12 22:17:00</guid>
-      <pubDate>Fri, 12 Jun 2026 22:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:14 pm</title>
-      <description>700 BLOCK CARROLL PKWY, Bldg:7, PARKVIEW APTS Units: E11, E33, PE23, E501, E291, R3, T4, A18, ALS4, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-06-12 22:14:00</guid>
-      <pubDate>Fri, 12 Jun 2026 22:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
