@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 01:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 03:04:54 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 10:43 pm</title>
+      <description>9200 BLOCK BESSIE CLEMSON RD Radio: 9C Units: E61</description>
+      <guid isPermaLink="false">2026-06-14 22:43:00</guid>
+      <pubDate>Sun, 14 Jun 2026 22:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:12 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: A37</description>
+      <guid isPermaLink="false">2026-06-14 22:12:00</guid>
+      <pubDate>Sun, 14 Jun 2026 22:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 9:35 pm</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: E61</description>
@@ -294,18 +306,6 @@
       <description>4600 BLOCK LANDER RD, STATION 20 Units: A37, E72</description>
       <guid isPermaLink="false">2026-06-13 17:37:00</guid>
       <pubDate>Sat, 13 Jun 2026 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 5:22 pm</title>
-      <description>POTOMAC RIVER @ C&amp;O CANAL CATOCTIN AQUEDUCT, POTOMAC RIVER @ C&amp;O CANAL CATOCTIN AQUEDUCT Radio: 9I Units: E201, R20, R19, TR29, BT28, BT19, BT29, A209, A196, ALS20, BC903, SAF901, EMS901, PE52</description>
-      <guid isPermaLink="false">2026-06-13 17:22:00</guid>
-      <pubDate>Sat, 13 Jun 2026 17:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 4:53 pm</title>
-      <description>13100 BLOCK LEGORE BRIDGE RD Units: R3, TW1, EK114</description>
-      <guid isPermaLink="false">2026-06-13 16:53:00</guid>
-      <pubDate>Sat, 13 Jun 2026 16:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
