@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jun 2026 19:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 21:02:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
+      <description>NEW DESIGN RD / TUSCARORA RD Units: A239</description>
+      <guid isPermaLink="false">2026-06-15 16:54:00</guid>
+      <pubDate>Mon, 15 Jun 2026 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
+      <description>NEW DESIGN RD / TUSCARORA RD Units: R14</description>
+      <guid isPermaLink="false">2026-06-15 16:27:00</guid>
+      <pubDate>Mon, 15 Jun 2026 16:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 3:22 pm</title>
       <description>GUILFORD DR / NEW DESIGN RD Radio: 9D Units: PE311, R3, A319, ALS31, EMS901</description>
@@ -294,18 +306,6 @@
       <description>2900 BLOCK SUMANTOWN RD, CATOCTIN CREEK PARK &amp; NATURE CENTER Radio: 9D Units: E201, E72, E121, R20, A209, ALS20, BC903, SAF901, EMS902</description>
       <guid isPermaLink="false">2026-06-14 12:42:00</guid>
       <pubDate>Sun, 14 Jun 2026 12:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 12:30 pm</title>
-      <description>BROOK VALLEY RD / MONOCACY FORD RD Radio: 9C Units: E111, PE23, BR16, BR35</description>
-      <guid isPermaLink="false">2026-06-14 12:30:00</guid>
-      <pubDate>Sun, 14 Jun 2026 12:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 12:22 pm</title>
-      <description>BROOK VALLEY RD / MONOCACY FORD RD Radio: 9C Units: E291, BR116, DNR</description>
-      <guid isPermaLink="false">2026-06-14 12:22:00</guid>
-      <pubDate>Sun, 14 Jun 2026 12:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
