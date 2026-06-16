@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 00:41:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:51:17 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:20 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, Bldg:J, MADRONES AMERICAN GRILL - CLEMSON CORNER Radio: 9B Units: BR116</description>
+      <guid isPermaLink="false">2026-06-15 21:20:00</guid>
+      <pubDate>Mon, 15 Jun 2026 21:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:11 pm</title>
+      <description>100 BLOCK KIMBERLY KRISTIN WAY Radio: 6B Units: PE52</description>
+      <guid isPermaLink="false">2026-06-15 21:11:00</guid>
+      <pubDate>Mon, 15 Jun 2026 21:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 8:32 pm</title>
       <description>CHARLES TOWN PIKE / BERLIN TPKE Radio: 6B Units: K5</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK SUGARLOAF GREEN TRAIL Radio: 9I Units: E231, R3, TR29, EMSUTV31, A239, ALS23, BC902, SAF901, EMS901</description>
       <guid isPermaLink="false">2026-06-14 14:03:00</guid>
       <pubDate>Sun, 14 Jun 2026 14:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:49 pm</title>
-      <description>4500 BLOCK PINE VALLEY CT Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-06-14 13:49:00</guid>
-      <pubDate>Sun, 14 Jun 2026 13:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:32 pm</title>
-      <description>2500 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2026-06-14 13:32:00</guid>
-      <pubDate>Sun, 14 Jun 2026 13:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
