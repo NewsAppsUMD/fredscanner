@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 20:01:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:28:47 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:53 pm</title>
+      <description>500 BLOCK CHUKKAR CT Radio: 9D Units: A18, ALS4, E11, EMS901</description>
+      <guid isPermaLink="false">2026-06-16 16:53:00</guid>
+      <pubDate>Tue, 16 Jun 2026 16:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:51 pm</title>
+      <description>5800 BLOCK WOODWINDS CIR Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-16 16:51:00</guid>
+      <pubDate>Tue, 16 Jun 2026 16:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:38 pm</title>
+      <description>RT340WB / CATOCTIN CREEK, RT340WB / CATOCTIN CREEK Radio: 9B Units: E201, R20, A209, ALS20, EMS902</description>
+      <guid isPermaLink="false">2026-06-16 16:38:00</guid>
+      <pubDate>Tue, 16 Jun 2026 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
       <description>N MARKET ST / E PATRICK ST Radio: 9D Units: A318</description>
@@ -288,24 +306,6 @@
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: A37</description>
       <guid isPermaLink="false">2026-06-14 22:12:00</guid>
       <pubDate>Sun, 14 Jun 2026 22:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 9:35 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E61</description>
-      <guid isPermaLink="false">2026-06-14 21:35:00</guid>
-      <pubDate>Sun, 14 Jun 2026 21:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:20 pm</title>
-      <description>9200 BLOCK BESSIE CLEMSON RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2026-06-14 21:20:00</guid>
-      <pubDate>Sun, 14 Jun 2026 21:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:13 pm</title>
-      <description>9200 BLOCK BESSIE CLEMSON RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2026-06-14 21:13:00</guid>
-      <pubDate>Sun, 14 Jun 2026 21:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
