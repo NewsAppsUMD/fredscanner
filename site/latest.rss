@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 16 Jun 2026 18:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:01:19 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
+      <description>N MARKET ST / E PATRICK ST Radio: 9D Units: A318</description>
+      <guid isPermaLink="false">2026-06-16 15:05:00</guid>
+      <pubDate>Tue, 16 Jun 2026 15:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:46 pm</title>
+      <description>N MARKET ST / E PATRICK ST Radio: 9B Units: BC901</description>
+      <guid isPermaLink="false">2026-06-16 14:46:00</guid>
+      <pubDate>Tue, 16 Jun 2026 14:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 2:45 pm</title>
+      <description>100 BLOCK E FIFTH ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-06-16 14:45:00</guid>
+      <pubDate>Tue, 16 Jun 2026 14:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:44 pm</title>
       <description>N MARKET ST / E PATRICK ST Radio: 9B Units: A28, R3</description>
@@ -288,24 +306,6 @@
       <description>9200 BLOCK BESSIE CLEMSON RD Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2026-06-14 21:13:00</guid>
       <pubDate>Sun, 14 Jun 2026 21:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:46 pm</title>
-      <description>13100 BLOCK NEW WINDSOR RD Radio: 9C Units: BR176</description>
-      <guid isPermaLink="false">2026-06-14 20:46:00</guid>
-      <pubDate>Sun, 14 Jun 2026 20:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:39 pm</title>
-      <description>DAYSVILLE RD / HARP RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-06-14 20:39:00</guid>
-      <pubDate>Sun, 14 Jun 2026 20:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:12 pm</title>
-      <description>100 BLOCK TREATMENT PLANT RD, FREDERICK WASTEWATER PLANT Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-06-14 20:12:00</guid>
-      <pubDate>Sun, 14 Jun 2026 20:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
