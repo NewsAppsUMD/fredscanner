@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 09:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:12:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>900 BLOCK JUBAL WAY Units: Q11</description>
+      <guid isPermaLink="false">2026-06-17 06:46:00</guid>
+      <pubDate>Wed, 17 Jun 2026 06:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:19 am</title>
       <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: E251</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / TUSCARORA RD Units: R14</description>
       <guid isPermaLink="false">2026-06-15 16:27:00</guid>
       <pubDate>Mon, 15 Jun 2026 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:22 pm</title>
-      <description>GUILFORD DR / NEW DESIGN RD Radio: 9D Units: PE311, R3, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-06-15 15:22:00</guid>
-      <pubDate>Mon, 15 Jun 2026 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
