@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jun 2026 14:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:43:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:08 am</title>
+      <description>300 BLOCK BALLENGER CENTER DR, AUTUMN LAKE HEALTHCARE AT BALLENGER Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-17 11:08:00</guid>
+      <pubDate>Wed, 17 Jun 2026 11:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 10:38 am</title>
+      <description>N MARKET ST / ROUTZAHN WAY Radio: 9D Units: ALS2, E111, EMS902</description>
+      <guid isPermaLink="false">2026-06-17 10:38:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:34 am</title>
+      <description>JEFFERSON PIKE / JEFFERSON COMMONS WAY, BTWN JEFF COMMONS AND GREENFIELD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-17 10:34:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
+      <description>3200 BLOCK DIGITAL DR, Bldg:A Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-06-17 10:28:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:25 am</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 Units: ALS8</description>
+      <guid isPermaLink="false">2026-06-17 10:25:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:18 am</title>
+      <description>2800 BLOCKA MONUMENT RD Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2026-06-17 10:18:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:11 am</title>
+      <description>3200 BLOCK DIGITAL DR Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-06-17 10:11:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 10:09 am</title>
+      <description>8200 BLOCK MAPLEVILLE RD Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-06-17 10:09:00</guid>
+      <pubDate>Wed, 17 Jun 2026 10:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:37 am</title>
       <description>3200 BLOCK DIGITAL DR Radio: 9C Units: E141, TW1</description>
@@ -258,54 +306,6 @@
       <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9B Units: A179</description>
       <guid isPermaLink="false">2026-06-16 08:24:00</guid>
       <pubDate>Tue, 16 Jun 2026 08:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:19 am</title>
-      <description>RT194 / DEER RUN DR, RT194 / DEER RUN DR Radio: 9B Units: A169, E111</description>
-      <guid isPermaLink="false">2026-06-16 08:19:00</guid>
-      <pubDate>Tue, 16 Jun 2026 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:12 am</title>
-      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Radio: 9B Units: R3</description>
-      <guid isPermaLink="false">2026-06-16 08:12:00</guid>
-      <pubDate>Tue, 16 Jun 2026 08:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:07 am</title>
-      <description>RT15SB / MOTTER AVE, RT15SB / MOTTER AVE Radio: 9B Units: E111, PE23, R24, A299, A28</description>
-      <guid isPermaLink="false">2026-06-16 08:07:00</guid>
-      <pubDate>Tue, 16 Jun 2026 08:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:33 pm</title>
-      <description>6000 BLOCK URBANA PIKE, ENTERPRISE CAR RENTAL Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-06-15 23:33:00</guid>
-      <pubDate>Mon, 15 Jun 2026 23:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:19 pm</title>
-      <description>3600 BLOCK DONNA CT Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-06-15 23:19:00</guid>
-      <pubDate>Mon, 15 Jun 2026 23:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 11:07 pm</title>
-      <description>700 BLOCK E PATRICK ST, FREDERICK FAIRGROUNDS Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-06-15 23:07:00</guid>
-      <pubDate>Mon, 15 Jun 2026 23:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:20 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, Bldg:J, MADRONES AMERICAN GRILL - CLEMSON CORNER Radio: 9B Units: BR116</description>
-      <guid isPermaLink="false">2026-06-15 21:20:00</guid>
-      <pubDate>Mon, 15 Jun 2026 21:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 9:11 pm</title>
-      <description>100 BLOCK KIMBERLY KRISTIN WAY Radio: 6B Units: PE52</description>
-      <guid isPermaLink="false">2026-06-15 21:11:00</guid>
-      <pubDate>Mon, 15 Jun 2026 21:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
