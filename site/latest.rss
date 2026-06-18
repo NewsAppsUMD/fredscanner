@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 08:59:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:36:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:53 am</title>
+      <description>7700 BLOCK LIBERTY RD Units: A249, E111</description>
+      <guid isPermaLink="false">2026-06-18 05:53:00</guid>
+      <pubDate>Thu, 18 Jun 2026 05:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:02 am</title>
+      <description>W MAIN ST / TIPPIN DR Radio: 9B Units: A229, E102</description>
+      <guid isPermaLink="false">2026-06-18 05:02:00</guid>
+      <pubDate>Thu, 18 Jun 2026 05:02:00 -0400</pubDate>
+    </item>
     <item>
       <title>RIVER RESCUE: 10:52 pm</title>
       <description>MONOCACY RIVER / OLD NATIONAL PIKE Radio: 9D Units: BT19</description>
@@ -294,18 +306,6 @@
       <description>5800 BLOCK WOODWINDS CIR Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-06-16 16:51:00</guid>
       <pubDate>Tue, 16 Jun 2026 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:38 pm</title>
-      <description>RT340WB / CATOCTIN CREEK, RT340WB / CATOCTIN CREEK Radio: 9B Units: E201, R20, A209, ALS20, EMS902</description>
-      <guid isPermaLink="false">2026-06-16 16:38:00</guid>
-      <pubDate>Tue, 16 Jun 2026 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:05 pm</title>
-      <description>N MARKET ST / E PATRICK ST Radio: 9D Units: A318</description>
-      <guid isPermaLink="false">2026-06-16 15:05:00</guid>
-      <pubDate>Tue, 16 Jun 2026 15:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
