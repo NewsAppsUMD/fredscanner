@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 15:01:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 16:40:06 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 11:50 am</title>
+      <description>200 BLOCK S MARKET ST Radio: 9D Units: E33, PE23, PE311, E501, E331, R3, TW4, TW1, A38, ALS2, BC904, BC903, SAF900</description>
+      <guid isPermaLink="false">2026-06-18 11:50:00</guid>
+      <pubDate>Thu, 18 Jun 2026 11:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 11:39 am</title>
+      <description>100 BLOCK FARMSTEAD PL Radio: 9C Units: E72, E121, R20</description>
+      <guid isPermaLink="false">2026-06-18 11:39:00</guid>
+      <pubDate>Thu, 18 Jun 2026 11:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 7:38 am</title>
       <description>100 BLOCK WASHINGTON ST Radio: 9C Units: R8</description>
@@ -294,18 +306,6 @@
       <description>3400 BLOCK STONE BARN DR, SUGARLOAF ELEMENTARY SCHOOL Radio: 9C Units: TT23</description>
       <guid isPermaLink="false">2026-06-16 19:02:00</guid>
       <pubDate>Tue, 16 Jun 2026 19:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:58 pm</title>
-      <description>NEW DESIGN RD / ROBIN DR Radio: 9B Units: A37, PE311</description>
-      <guid isPermaLink="false">2026-06-16 18:58:00</guid>
-      <pubDate>Tue, 16 Jun 2026 18:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE UNIT ASSISTING OTHER AGENCY: 5:29 pm</title>
-      <description>100 BLOCK JENNIFER LYNNE DR Units: EMSUTV19</description>
-      <guid isPermaLink="false">2026-06-16 17:29:00</guid>
-      <pubDate>Tue, 16 Jun 2026 17:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
