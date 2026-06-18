@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 18 Jun 2026 01:48:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:03:18 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 10:52 pm</title>
+      <description>MONOCACY RIVER / OLD NATIONAL PIKE Radio: 9D Units: BT19</description>
+      <guid isPermaLink="false">2026-06-17 22:52:00</guid>
+      <pubDate>Wed, 17 Jun 2026 22:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 10:46 pm</title>
+      <description>MONOCACY RIVER / OLD NATIONAL PIKE Units: E331, E33, R3, TW4, TR29, BT29, BT28, BT19, A339, A37, ALS4, BC901, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-06-17 22:46:00</guid>
+      <pubDate>Wed, 17 Jun 2026 22:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 6:58 pm</title>
       <description>RT15NB / CATOCTIN HOLLOW RD, RT15NB / CATOCTIN HOLLOW RD Radio: 9C Units: BR226, BR106</description>
@@ -294,18 +306,6 @@
       <description>N MARKET ST / E PATRICK ST Radio: 9D Units: A318</description>
       <guid isPermaLink="false">2026-06-16 15:05:00</guid>
       <pubDate>Tue, 16 Jun 2026 15:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:46 pm</title>
-      <description>N MARKET ST / E PATRICK ST Radio: 9B Units: BC901</description>
-      <guid isPermaLink="false">2026-06-16 14:46:00</guid>
-      <pubDate>Tue, 16 Jun 2026 14:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:45 pm</title>
-      <description>100 BLOCK E FIFTH ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-06-16 14:45:00</guid>
-      <pubDate>Tue, 16 Jun 2026 14:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
