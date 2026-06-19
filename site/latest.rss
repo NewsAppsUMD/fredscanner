@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Jun 2026 18:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:31:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:08 pm</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: A259</description>
+      <guid isPermaLink="false">2026-06-19 15:08:00</guid>
+      <pubDate>Fri, 19 Jun 2026 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:05 pm</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: R15</description>
+      <guid isPermaLink="false">2026-06-19 15:05:00</guid>
+      <pubDate>Fri, 19 Jun 2026 15:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
+      <description>I70WB / RT85, I70WB / RT85 Radio: 9B Units: E33, E11, R3, A37, A18</description>
+      <guid isPermaLink="false">2026-06-19 15:02:00</guid>
+      <pubDate>Fri, 19 Jun 2026 15:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:58 pm</title>
+      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E251, A158</description>
+      <guid isPermaLink="false">2026-06-19 14:58:00</guid>
+      <pubDate>Fri, 19 Jun 2026 14:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:30 pm</title>
+      <description>200 BLOCK WILLOWDALE DR, ELKS LODGE - WILLOWDALE DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-19 14:30:00</guid>
+      <pubDate>Fri, 19 Jun 2026 14:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:26 pm</title>
       <description>7900 BLOCK MYERSVILLE RD Radio: 9D Units: E72, RE74, A78, ALS8, EMS902</description>
@@ -276,36 +306,6 @@
       <description>N BENTZ ST / EVERGREEN PL Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-06-18 12:51:00</guid>
       <pubDate>Thu, 18 Jun 2026 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:50 am</title>
-      <description>200 BLOCK S MARKET ST Radio: 9D Units: E33, PE23, PE311, E501, E331, R3, TW4, TW1, A38, ALS2, BC904, BC903, SAF900</description>
-      <guid isPermaLink="false">2026-06-18 11:50:00</guid>
-      <pubDate>Thu, 18 Jun 2026 11:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 11:39 am</title>
-      <description>100 BLOCK FARMSTEAD PL Radio: 9C Units: E72, E121, R20</description>
-      <guid isPermaLink="false">2026-06-18 11:39:00</guid>
-      <pubDate>Thu, 18 Jun 2026 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:38 am</title>
-      <description>100 BLOCK WASHINGTON ST Radio: 9C Units: R8</description>
-      <guid isPermaLink="false">2026-06-18 07:38:00</guid>
-      <pubDate>Thu, 18 Jun 2026 07:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:35 am</title>
-      <description>100 BLOCK WASHINGTON ST Radio: 9C Units: E72, E121, T7</description>
-      <guid isPermaLink="false">2026-06-18 07:35:00</guid>
-      <pubDate>Thu, 18 Jun 2026 07:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:53 am</title>
-      <description>7700 BLOCK LIBERTY RD Units: A249, E111</description>
-      <guid isPermaLink="false">2026-06-18 05:53:00</guid>
-      <pubDate>Thu, 18 Jun 2026 05:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
