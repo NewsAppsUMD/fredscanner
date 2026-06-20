@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 00:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 01:40:02 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE - ENTRAPMENT: 9:06 pm</title>
+      <description>300 BLOCK PROSPECT BLVD, Bldg:B, FIELDPOINTE APTS - 300 BLOCK PROSPECT BLVD Units: A28, EMS901</description>
+      <guid isPermaLink="false">2026-06-19 21:06:00</guid>
+      <pubDate>Fri, 19 Jun 2026 21:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 9:03 pm</title>
+      <description>300 BLOCKB PROSPECT BLVD Units: PE23, E501, E331, E291, E201, R3, Q11, A38, ALS4, BC902, BC903, SAF900</description>
+      <guid isPermaLink="false">2026-06-19 21:03:00</guid>
+      <pubDate>Fri, 19 Jun 2026 21:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 7:52 pm</title>
       <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: TW1</description>
@@ -294,18 +306,6 @@
       <description>11400 BLOCK BETHESDA CHURCH RD Radio: 7A1 Units: E251</description>
       <guid isPermaLink="false">2026-06-18 16:28:00</guid>
       <pubDate>Thu, 18 Jun 2026 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 4:19 pm</title>
-      <description>4900 BLOCK FARRINGDON CT Radio: 9C Units: TW4</description>
-      <guid isPermaLink="false">2026-06-18 16:19:00</guid>
-      <pubDate>Thu, 18 Jun 2026 16:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 4:17 pm</title>
-      <description>4900 BLOCK FARRINGDON CT Radio: 9C Units: PE311, E33, TW1</description>
-      <guid isPermaLink="false">2026-06-18 16:17:00</guid>
-      <pubDate>Thu, 18 Jun 2026 16:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
