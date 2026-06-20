@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 17:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:58:45 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 1:45 pm</title>
+      <description>LAT: &lt;39.5678&gt; LONG: &lt;-77.4611&gt; Units: PE102, E111, PE23, R8, TR29, EMSUTV30, A229, ALS29, E221, E212, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-06-20 13:45:00</guid>
+      <pubDate>Sat, 20 Jun 2026 13:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:43 pm</title>
+      <description>8700 BLOCK FINGERBOARD RD Radio: 9B Units: A319</description>
+      <guid isPermaLink="false">2026-06-20 13:43:00</guid>
+      <pubDate>Sat, 20 Jun 2026 13:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
+      <description>8700 BLOCK FINGERBOARD RD Radio: 9B Units: PE311</description>
+      <guid isPermaLink="false">2026-06-20 13:42:00</guid>
+      <pubDate>Sat, 20 Jun 2026 13:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:38 pm</title>
+      <description>8700 BLOCK FINGERBOARD RD Radio: 9B Units: A239, TT23</description>
+      <guid isPermaLink="false">2026-06-20 13:38:00</guid>
+      <pubDate>Sat, 20 Jun 2026 13:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:57 pm</title>
       <description>3600 BLOCK RED SAGE WAY N Radio: 9C Units: E231</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK W PATRICK ST, FREDERICKTOWNE MOTORS Radio: 9C Units: E33</description>
       <guid isPermaLink="false">2026-06-19 10:02:00</guid>
       <pubDate>Fri, 19 Jun 2026 10:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:45 am</title>
-      <description>2700 BLOCK DECATUR DR Units: E141</description>
-      <guid isPermaLink="false">2026-06-19 08:45:00</guid>
-      <pubDate>Fri, 19 Jun 2026 08:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - UNDERGROUND: 7:14 am</title>
-      <description>S MARKET ST / N MARKET ST Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-06-19 07:14:00</guid>
-      <pubDate>Fri, 19 Jun 2026 07:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:37 am</title>
-      <description>5000 BLOCK WESTVIEW DR, TOWNEPLACE SUITES BY MARRIOTT Radio: 9C Units: PE311, TW4</description>
-      <guid isPermaLink="false">2026-06-19 05:37:00</guid>
-      <pubDate>Fri, 19 Jun 2026 05:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:43 am</title>
-      <description>I70EB / SPRING RIDGE PKWY, I70EB / SPRING RIDGE PKWY Radio: 9B Units: E331, E152, R3, A339, A158</description>
-      <guid isPermaLink="false">2026-06-19 04:43:00</guid>
-      <pubDate>Fri, 19 Jun 2026 04:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
