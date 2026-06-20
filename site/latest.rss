@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Jun 2026 13:01:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:13:27 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 10:08 am</title>
+      <description>WEST STONE CT / ROHERSVILLE RD Units: E82</description>
+      <guid isPermaLink="false">2026-06-20 10:08:00</guid>
+      <pubDate>Sat, 20 Jun 2026 10:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 10:03 am</title>
+      <description>WEST STONE CT / ROHERSVILLE Units: BR75</description>
+      <guid isPermaLink="false">2026-06-20 10:03:00</guid>
+      <pubDate>Sat, 20 Jun 2026 10:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:28 am</title>
+      <description>6400 BLOCK LAKERIDGE DR Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2026-06-20 09:28:00</guid>
+      <pubDate>Sat, 20 Jun 2026 09:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 6:36 am</title>
       <description>100 BLOCK S MARKET ST(P), Bldg:A, Apt/Unit:2, MANNY MART Radio: 9C Units: E33, PE23, R3</description>
@@ -288,24 +306,6 @@
       <description>4600 BLOCK DEER SPRING RD Radio: 9C Units: BR125</description>
       <guid isPermaLink="false">2026-06-19 00:53:00</guid>
       <pubDate>Fri, 19 Jun 2026 00:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:20 pm</title>
-      <description>400 BLOCK W SOUTH ST Radio: 9D Units: E33, PE23, E11, PE311, E501, R3, TW4, TW1, A37, ALS4, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-06-18 23:20:00</guid>
-      <pubDate>Thu, 18 Jun 2026 23:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:31 pm</title>
-      <description>100 BLOCK LEEKYLER PL Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-06-18 22:31:00</guid>
-      <pubDate>Thu, 18 Jun 2026 22:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 9:18 pm</title>
-      <description>4900 BLOCK REELS MILL RD Radio: 9D Units: E231, R3, A239, ALS23, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-06-18 21:18:00</guid>
-      <pubDate>Thu, 18 Jun 2026 21:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
