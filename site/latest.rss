@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 18:59:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:37:59 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:27 pm</title>
+      <description>12000 BLOCK S270 X13 TO X11 HWY S270F MIDDLBROOK RD - WATKINS MILL RD, S270F MIDDLBROOK RD - WATKINS MILL RD Radio: 7A1 Units: R3</description>
+      <guid isPermaLink="false">2026-06-21 15:27:00</guid>
+      <pubDate>Sun, 21 Jun 2026 15:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT: 2:32 pm</title>
       <description>100 BLOCK(100 BLOCK1) BLK N STRATTON ST Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>300 BLOCKB PROSPECT BLVD Units: PE23, E501, E331, E291, E201, R3, Q11, A38, ALS4, BC902, BC903, SAF900</description>
       <guid isPermaLink="false">2026-06-19 21:03:00</guid>
       <pubDate>Fri, 19 Jun 2026 21:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 7:52 pm</title>
-      <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-06-19 19:52:00</guid>
-      <pubDate>Fri, 19 Jun 2026 19:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
