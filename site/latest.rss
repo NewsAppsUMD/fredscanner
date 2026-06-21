@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 16:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:00:22 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:28 pm</title>
+      <description>DOUBS RD / MOUNTVILLE RD Radio: 9B Units: A149, R14</description>
+      <guid isPermaLink="false">2026-06-21 12:28:00</guid>
+      <pubDate>Sun, 21 Jun 2026 12:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:28 pm</title>
+      <description>LANDER RD / RT340, LANDER RD / RT340 Radio: 9B Units: A198</description>
+      <guid isPermaLink="false">2026-06-21 12:28:00</guid>
+      <pubDate>Sun, 21 Jun 2026 12:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:23 pm</title>
+      <description>RT15NB / MOTTERS STATION RD, RT15NB / MOTTERS STATION RD Radio: 9B Units: A69, E61</description>
+      <guid isPermaLink="false">2026-06-21 12:23:00</guid>
+      <pubDate>Sun, 21 Jun 2026 12:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 11:48 am</title>
       <description>1100 BLOCK W PATRICK ST, AUTOZONE - W PATRICK ST Radio: 9C Units: E11</description>
@@ -288,24 +306,6 @@
       <description>7600 BLOCK HAMPTON VALLEY RD, SUMMIT LAKE CAMP Units: BR65</description>
       <guid isPermaLink="false">2026-06-19 18:13:00</guid>
       <pubDate>Fri, 19 Jun 2026 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:06 pm</title>
-      <description>100 BLOCK W CHAPLINE ST, STATION WC001 - SHARPSBURG FIRE Units: PE52</description>
-      <guid isPermaLink="false">2026-06-19 18:06:00</guid>
-      <pubDate>Fri, 19 Jun 2026 18:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:49 pm</title>
-      <description>8300 BLOCK PINECLIFF PARK RD, PINECLIFF DISTRICT PARK Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-06-19 16:49:00</guid>
-      <pubDate>Fri, 19 Jun 2026 16:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:08 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: A259</description>
-      <guid isPermaLink="false">2026-06-19 15:08:00</guid>
-      <pubDate>Fri, 19 Jun 2026 15:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
