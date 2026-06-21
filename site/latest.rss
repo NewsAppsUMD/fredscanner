@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 15:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 16:08:04 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:48 am</title>
+      <description>1100 BLOCK W PATRICK ST, AUTOZONE - W PATRICK ST Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-21 11:48:00</guid>
+      <pubDate>Sun, 21 Jun 2026 11:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:41 am</title>
+      <description>11100 BLOCK BERLIN TPKE BRIDGE END CTR GAS STA Radio: 6B Units: PE52</description>
+      <guid isPermaLink="false">2026-06-21 11:41:00</guid>
+      <pubDate>Sun, 21 Jun 2026 11:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:31 am</title>
+      <description>1000 BLOCK LINDFIELD DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-21 11:31:00</guid>
+      <pubDate>Sun, 21 Jun 2026 11:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 10:40 am</title>
       <description>500 BLOCK STANTON ST Radio: 9C Units: Q11, E291</description>
@@ -288,24 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: A259</description>
       <guid isPermaLink="false">2026-06-19 15:08:00</guid>
       <pubDate>Fri, 19 Jun 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:05 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: R15</description>
-      <guid isPermaLink="false">2026-06-19 15:05:00</guid>
-      <pubDate>Fri, 19 Jun 2026 15:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
-      <description>I70WB / RT85, I70WB / RT85 Radio: 9B Units: E33, E11, R3, A37, A18</description>
-      <guid isPermaLink="false">2026-06-19 15:02:00</guid>
-      <pubDate>Fri, 19 Jun 2026 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:58 pm</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9B Units: E251, A158</description>
-      <guid isPermaLink="false">2026-06-19 14:58:00</guid>
-      <pubDate>Fri, 19 Jun 2026 14:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
