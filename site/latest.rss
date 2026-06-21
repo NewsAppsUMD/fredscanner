@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 01:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 03:04:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:46 pm</title>
+      <description>100 BLOCK W SOUTH ST Radio: 9C Units: E33, TW4</description>
+      <guid isPermaLink="false">2026-06-20 22:46:00</guid>
+      <pubDate>Sat, 20 Jun 2026 22:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:03 pm</title>
+      <description>5600 BLOCK BARBERRY CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-20 22:03:00</guid>
+      <pubDate>Sat, 20 Jun 2026 22:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>EXPLOSION - MISCELLANEOUS: 9:49 pm</title>
+      <description>100 BLOCK W MAIN ST Radio: 9C Units: A339, ALS17, E152, EMS901</description>
+      <guid isPermaLink="false">2026-06-20 21:49:00</guid>
+      <pubDate>Sat, 20 Jun 2026 21:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 9:27 pm</title>
       <description>I270NB / RT80(RT80), I270NB / RT80 Radio: 9C Units: BR235, E231</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK HIGH ST, STATION CC010 - STATION 10 Units: E91</description>
       <guid isPermaLink="false">2026-06-19 12:38:00</guid>
       <pubDate>Fri, 19 Jun 2026 12:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:37 pm</title>
-      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: K33</description>
-      <guid isPermaLink="false">2026-06-19 12:37:00</guid>
-      <pubDate>Fri, 19 Jun 2026 12:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:31 pm</title>
-      <description>100 BLOCK(6516) BLK RUNKLES RD Units: E152</description>
-      <guid isPermaLink="false">2026-06-19 12:31:00</guid>
-      <pubDate>Fri, 19 Jun 2026 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 12:28 pm</title>
-      <description>100 BLOCK(6516) BLK RUNKLES RD Units: R15, E251</description>
-      <guid isPermaLink="false">2026-06-19 12:28:00</guid>
-      <pubDate>Fri, 19 Jun 2026 12:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
