@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Jun 2026 18:00:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:59:25 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 2:32 pm</title>
+      <description>100 BLOCK(100 BLOCK1) BLK N STRATTON ST Units: TW6</description>
+      <guid isPermaLink="false">2026-06-21 14:32:00</guid>
+      <pubDate>Sun, 21 Jun 2026 14:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 2:25 pm</title>
+      <description>27900 BLOCK BARNES RD Radio: 7A1 Units: E251</description>
+      <guid isPermaLink="false">2026-06-21 14:25:00</guid>
+      <pubDate>Sun, 21 Jun 2026 14:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 1:52 pm</title>
       <description>APPALACHIAN TRAIL DAHLGREN CAMP, DAHLGREN CAMP APPALACHIAN TRAIL Radio: 9D Units: E121</description>
@@ -294,18 +306,6 @@
       <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: TW1</description>
       <guid isPermaLink="false">2026-06-19 19:52:00</guid>
       <pubDate>Fri, 19 Jun 2026 19:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 7:29 pm</title>
-      <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Radio: 9C Units: PE311, E33, TW4</description>
-      <guid isPermaLink="false">2026-06-19 19:29:00</guid>
-      <pubDate>Fri, 19 Jun 2026 19:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:19 pm</title>
-      <description>100 BLOCK W CHAPLINE ST, STATION WC001 - SHARPSBURG FIRE Units: E72</description>
-      <guid isPermaLink="false">2026-06-19 18:19:00</guid>
-      <pubDate>Fri, 19 Jun 2026 18:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
