@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 11:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:19:51 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:08 am</title>
+      <description>1000 BLOCK REAGANS RD Radio: 9C Units: TW1, E291</description>
+      <guid isPermaLink="false">2026-06-22 08:08:00</guid>
+      <pubDate>Mon, 22 Jun 2026 08:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:01 am</title>
+      <description>I70EB / RT340-15, I70EB / RT340-15 Radio: 9B Units: E121, E33, R3, A129, A37</description>
+      <guid isPermaLink="false">2026-06-22 08:01:00</guid>
+      <pubDate>Mon, 22 Jun 2026 08:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 7:26 am</title>
+      <description>100 BLOCK JENNIFER LYNNE DR Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2026-06-22 07:26:00</guid>
+      <pubDate>Mon, 22 Jun 2026 07:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 7:21 am</title>
+      <description>100 BLOCK JENNIFER LYNNE DR Radio: 9C Units: PE52, E281, R19</description>
+      <guid isPermaLink="false">2026-06-22 07:21:00</guid>
+      <pubDate>Mon, 22 Jun 2026 07:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:59 am</title>
       <description>3500 BLOCK WINTHROP LN Radio: 9C Units: E231, TT23</description>
@@ -282,30 +306,6 @@
       <description>600 BLOCK BLAZER TRL, HOOD COLLEGE - COBLENTZ HALL Radio: 9C Units: PE23, TW1</description>
       <guid isPermaLink="false">2026-06-20 16:37:00</guid>
       <pubDate>Sat, 20 Jun 2026 16:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 2:13 pm</title>
-      <description>200 BLOCK MADISON ST, Bldg:3, Apt/Unit:APT 48 CARVER APTS, CARVER APTS BUILDING 3 Radio: 9C Units: E33, PE23, R3</description>
-      <guid isPermaLink="false">2026-06-20 14:13:00</guid>
-      <pubDate>Sat, 20 Jun 2026 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:45 pm</title>
-      <description>LAT: &lt;39.5678&gt; LONG: &lt;-77.4611&gt; Units: PE102, E111, PE23, R8, TR29, EMSUTV30, A229, ALS29, E221, E212, BC903, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-06-20 13:45:00</guid>
-      <pubDate>Sat, 20 Jun 2026 13:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:43 pm</title>
-      <description>8700 BLOCK FINGERBOARD RD Radio: 9B Units: A319</description>
-      <guid isPermaLink="false">2026-06-20 13:43:00</guid>
-      <pubDate>Sat, 20 Jun 2026 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:42 pm</title>
-      <description>8700 BLOCK FINGERBOARD RD Radio: 9B Units: PE311</description>
-      <guid isPermaLink="false">2026-06-20 13:42:00</guid>
-      <pubDate>Sat, 20 Jun 2026 13:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
