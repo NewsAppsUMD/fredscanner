@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 15:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:10:14 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:46 pm</title>
+      <description>2400 BLOCK RANDOLF TER Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-22 12:46:00</guid>
+      <pubDate>Mon, 22 Jun 2026 12:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:10 pm</title>
+      <description>5200 BLOCK URBANA PIKE Radio: 9C Units: E33, TW4</description>
+      <guid isPermaLink="false">2026-06-22 12:10:00</guid>
+      <pubDate>Mon, 22 Jun 2026 12:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:08 pm</title>
+      <description>100 BLOCK BLK RAMP RT15SB TO E MAIN ST RAMP, RT15SB / RT14100 BLOCK Radio: 9I Units: E61, TW6, A69, ALS30, EMS902</description>
+      <guid isPermaLink="false">2026-06-22 12:08:00</guid>
+      <pubDate>Mon, 22 Jun 2026 12:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 11:51 am</title>
+      <description>4500 BLOCK BILL MOXLEY RD Radio: 9D Units: E251, R15, A259, EMS901</description>
+      <guid isPermaLink="false">2026-06-22 11:51:00</guid>
+      <pubDate>Mon, 22 Jun 2026 11:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 8:08 am</title>
       <description>1000 BLOCK REAGANS RD Radio: 9C Units: TW1, E291</description>
@@ -282,30 +306,6 @@
       <description>4300 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: E141</description>
       <guid isPermaLink="false">2026-06-20 18:17:00</guid>
       <pubDate>Sat, 20 Jun 2026 18:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:55 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-06-20 17:55:00</guid>
-      <pubDate>Sat, 20 Jun 2026 17:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:21 pm</title>
-      <description>7800 BLOCK PICNIC WOODS RD Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-06-20 17:21:00</guid>
-      <pubDate>Sat, 20 Jun 2026 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:19 pm</title>
-      <description>1000 BLOCK JEFFERSON PIKE, PARK N RIDE BRUNSWICK Radio: 9D Units: A196, ALS20, T5, EMS901</description>
-      <guid isPermaLink="false">2026-06-20 17:19:00</guid>
-      <pubDate>Sat, 20 Jun 2026 17:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:37 pm</title>
-      <description>600 BLOCK BLAZER TRL, HOOD COLLEGE - COBLENTZ HALL Radio: 9C Units: PE23, TW1</description>
-      <guid isPermaLink="false">2026-06-20 16:37:00</guid>
-      <pubDate>Sat, 20 Jun 2026 16:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
