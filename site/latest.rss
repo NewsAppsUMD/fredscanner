@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 18:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:01:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 3:43 pm</title>
+      <description>12200 BLOCK BALTIMORE NATIONAL PIKE, NEW MARKET WEIGH STATION I70EB Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2026-06-22 15:43:00</guid>
+      <pubDate>Mon, 22 Jun 2026 15:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:23 pm</title>
       <description>6000 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, TW4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9C Units: A339, ALS17, E152, EMS901</description>
       <guid isPermaLink="false">2026-06-20 21:49:00</guid>
       <pubDate>Sat, 20 Jun 2026 21:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 9:27 pm</title>
-      <description>I270NB / RT80(RT80), I270NB / RT80 Radio: 9C Units: BR235, E231</description>
-      <guid isPermaLink="false">2026-06-20 21:27:00</guid>
-      <pubDate>Sat, 20 Jun 2026 21:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
