@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Jun 2026 03:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:13:03 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 11:51 pm</title>
+      <description>300 BLOCKB PROSPECT BLVD, Apt/Unit:302 Radio: 9C Units: E33, PE23, R3</description>
+      <guid isPermaLink="false">2026-06-21 23:51:00</guid>
+      <pubDate>Sun, 21 Jun 2026 23:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:59 pm</title>
       <description>SUGARLOAF PKWY / JOHN SIMMONS ST Radio: 9C Units: BR235, E251</description>
@@ -300,12 +306,6 @@
       <description>3600 BLOCK RED SAGE WAY N Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-06-20 12:57:00</guid>
       <pubDate>Sat, 20 Jun 2026 12:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 12:41 pm</title>
-      <description>14500 BLOCK BLACK ANKLE RD Radio: 9D Units: RE171, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-06-20 12:41:00</guid>
-      <pubDate>Sat, 20 Jun 2026 12:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
