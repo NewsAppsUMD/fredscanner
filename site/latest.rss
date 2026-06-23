@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 13:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:17:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:46 am</title>
+      <description>9100 BLOCK WAYNESBORO RD Radio: 9D Units: E61, TW6, A69, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-06-23 09:46:00</guid>
+      <pubDate>Tue, 23 Jun 2026 09:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 9:36 am</title>
+      <description>LINGANORE RD / GAS HOUSE PIKE Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-06-23 09:36:00</guid>
+      <pubDate>Tue, 23 Jun 2026 09:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:52 pm</title>
       <description>1400 BLOCK KEY PKWY, Apt/Unit:C6, HICKORY HILL APTS - 1431C KEY PKWY Radio: 9C Units: E11, TW4</description>
@@ -294,18 +306,6 @@
       <description>1000 BLOCK LINDFIELD DR Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-06-21 11:31:00</guid>
       <pubDate>Sun, 21 Jun 2026 11:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:40 am</title>
-      <description>500 BLOCK STANTON ST Radio: 9C Units: Q11, E291</description>
-      <guid isPermaLink="false">2026-06-21 10:40:00</guid>
-      <pubDate>Sun, 21 Jun 2026 10:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:20 am</title>
-      <description>300 BLOCK FIELDPOINTE BLVD, FIELDPOINTE APTS - 300 BLOCK PROSPECT BLVD Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-06-21 00:20:00</guid>
-      <pubDate>Sun, 21 Jun 2026 00:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
