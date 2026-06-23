@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Jun 2026 22:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:22:50 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:18 pm</title>
+      <description>2900 BLOCK HERB GARDEN DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-06-23 19:18:00</guid>
+      <pubDate>Tue, 23 Jun 2026 19:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:57 pm</title>
       <description>ROSEMONT AVE / MONTEVUE LN Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>27900 BLOCK BARNES RD Radio: 7A1 Units: E251</description>
       <guid isPermaLink="false">2026-06-21 14:25:00</guid>
       <pubDate>Sun, 21 Jun 2026 14:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:52 pm</title>
-      <description>APPALACHIAN TRAIL DAHLGREN CAMP, DAHLGREN CAMP APPALACHIAN TRAIL Radio: 9D Units: E121</description>
-      <guid isPermaLink="false">2026-06-21 13:52:00</guid>
-      <pubDate>Sun, 21 Jun 2026 13:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
