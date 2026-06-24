@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Jun 2026 23:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 23:50:23 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 7:40 pm</title>
+      <description>KELBAUGH RD / RT550, KELBAUGH RD / RT550 Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-06-24 19:40:00</guid>
+      <pubDate>Wed, 24 Jun 2026 19:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:27 pm</title>
+      <description>NEW DESIGN RD / GUILFORD DR Radio: 9B Units: A37, PE311</description>
+      <guid isPermaLink="false">2026-06-24 19:27:00</guid>
+      <pubDate>Wed, 24 Jun 2026 19:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:04 pm</title>
       <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Radio: 9C Units: E11, TW4</description>
@@ -294,18 +306,6 @@
       <description>4500 BLOCK BILL MOXLEY RD Radio: 9D Units: E251, R15, A259, EMS901</description>
       <guid isPermaLink="false">2026-06-22 11:51:00</guid>
       <pubDate>Mon, 22 Jun 2026 11:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 8:08 am</title>
-      <description>1000 BLOCK REAGANS RD Radio: 9C Units: TW1, E291</description>
-      <guid isPermaLink="false">2026-06-22 08:08:00</guid>
-      <pubDate>Mon, 22 Jun 2026 08:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:01 am</title>
-      <description>I70EB / RT340-15, I70EB / RT340-15 Radio: 9B Units: E121, E33, R3, A129, A37</description>
-      <guid isPermaLink="false">2026-06-22 08:01:00</guid>
-      <pubDate>Mon, 22 Jun 2026 08:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
