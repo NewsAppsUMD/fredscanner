@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 22:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:57:33 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:31 pm</title>
+      <description>500 BLOCK PRIMUS CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-06-25 18:31:00</guid>
+      <pubDate>Thu, 25 Jun 2026 18:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:10 pm</title>
+      <description>14100 BLOCK GRACEHAM RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2026-06-25 18:10:00</guid>
+      <pubDate>Thu, 25 Jun 2026 18:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:17 pm</title>
       <description>8300 BLOCK YELLOW SPRINGS RD, KOREAN EMMANUEL CHURCH Radio: 9D Units: E11, R2, A19, ALS4, BC902, EMS901</description>
@@ -294,18 +306,6 @@
       <description>HORINE RD / POINT OF ROCKS RD Radio: 9D Units: A129</description>
       <guid isPermaLink="false">2026-06-23 14:44:00</guid>
       <pubDate>Tue, 23 Jun 2026 14:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:38 pm</title>
-      <description>HORINE RD / POINT OF ROCKS RD Radio: 9D Units: R19</description>
-      <guid isPermaLink="false">2026-06-23 14:38:00</guid>
-      <pubDate>Tue, 23 Jun 2026 14:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:33 pm</title>
-      <description>HORINE RD / POINT OF ROCKS RD Radio: 9D Units: E281, R19, R20, A198, BC902, EMS901, PE52</description>
-      <guid isPermaLink="false">2026-06-23 14:33:00</guid>
-      <pubDate>Tue, 23 Jun 2026 14:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
