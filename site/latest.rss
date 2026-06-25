@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 14:15:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 15:26:43 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 10:53 am</title>
+      <description>16700 BLOCK THURSTON RD Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-06-25 10:53:00</guid>
+      <pubDate>Thu, 25 Jun 2026 10:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 9:06 am</title>
       <description>8400 BLOCK WOODSBORO PIKE Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>WARNER RD / WOODSBORO PIKE Radio: 9C Units: BR96</description>
       <guid isPermaLink="false">2026-06-22 17:12:00</guid>
       <pubDate>Mon, 22 Jun 2026 17:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, Apt/Unit:UNIT A14 Radio: 9C Units: E33, TW4</description>
-      <guid isPermaLink="false">2026-06-22 16:52:00</guid>
-      <pubDate>Mon, 22 Jun 2026 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
