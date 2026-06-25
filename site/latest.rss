@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 00:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 01:38:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:18 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E33, E11, R3, A28, A37, ALS2, EMS901</description>
+      <guid isPermaLink="false">2026-06-24 21:18:00</guid>
+      <pubDate>Wed, 24 Jun 2026 21:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 7:52 pm</title>
       <description>800 BLOCK BLAKELY CT, Apt/Unit:283, CRYSTAL PARK APTS - 800 BLOCK BLAKELY CT UNIT 283 Radio: 9C Units: E11, E501</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK URBANA PIKE Radio: 9C Units: E33, TW4</description>
       <guid isPermaLink="false">2026-06-22 12:10:00</guid>
       <pubDate>Mon, 22 Jun 2026 12:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 12:08 pm</title>
-      <description>100 BLOCK BLK RAMP RT15SB TO E MAIN ST RAMP, RT15SB / RT14100 BLOCK Radio: 9I Units: E61, TW6, A69, ALS30, EMS902</description>
-      <guid isPermaLink="false">2026-06-22 12:08:00</guid>
-      <pubDate>Mon, 22 Jun 2026 12:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
