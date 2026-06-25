@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 16:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:13:27 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 1:04 pm</title>
+      <description>14900 BLOCK HEMP AVE Radio: 9C Units: BR176</description>
+      <guid isPermaLink="false">2026-06-25 13:04:00</guid>
+      <pubDate>Thu, 25 Jun 2026 13:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:11 pm</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, TW4</description>
+      <guid isPermaLink="false">2026-06-25 12:11:00</guid>
+      <pubDate>Thu, 25 Jun 2026 12:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>SINKING VEHICLE: 12:06 pm</title>
       <description>MOUTH OF MONOCACY BOAT RAMP, MOUTH OF MONOCACY BOAT RAMP Radio: 9D Units: E231, R14, TR29, BT28, DIVE15, A239, ALS23, ALS31, BC901, SAF901, EMS901, TT23</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK MARLEY ST Radio: 9C Units: E152, R3, E251</description>
       <guid isPermaLink="false">2026-06-22 21:40:00</guid>
       <pubDate>Mon, 22 Jun 2026 21:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 6:44 pm</title>
-      <description>1400 BLOCK RISING RIDGE RD Radio: CCA7 Units: E152</description>
-      <guid isPermaLink="false">2026-06-22 18:44:00</guid>
-      <pubDate>Mon, 22 Jun 2026 18:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:25 pm</title>
-      <description>6000 BLOCK JEFFERSON BLVD Radio: 9C Units: E121, TW4</description>
-      <guid isPermaLink="false">2026-06-22 18:25:00</guid>
-      <pubDate>Mon, 22 Jun 2026 18:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
