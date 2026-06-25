@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Jun 2026 07:43:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:02:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:11 am</title>
+      <description>500 BLOCK W SOUTH ST, Apt/Unit:101, THE JUNCTION APARTMENTS Radio: 9C Units: E33, TW4</description>
+      <guid isPermaLink="false">2026-06-25 04:11:00</guid>
+      <pubDate>Thu, 25 Jun 2026 04:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:18 pm</title>
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E33, E11, R3, A28, A37, ALS2, EMS901</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK RANDOLF TER Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-06-22 12:46:00</guid>
       <pubDate>Mon, 22 Jun 2026 12:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:10 pm</title>
-      <description>5200 BLOCK URBANA PIKE Radio: 9C Units: E33, TW4</description>
-      <guid isPermaLink="false">2026-06-22 12:10:00</guid>
-      <pubDate>Mon, 22 Jun 2026 12:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
