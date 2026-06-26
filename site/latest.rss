@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 18:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 19:31:05 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 2:52 pm</title>
+      <description>3500 BLOCK WORTHINGTON BLVD, CHROMACULTURE Radio: 9C Units: E231, E251, TT23</description>
+      <guid isPermaLink="false">2026-06-26 14:52:00</guid>
+      <pubDate>Fri, 26 Jun 2026 14:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:16 pm</title>
       <description>9700 BLOCK KEYSVILLE RD Radio: 9C Units: E61, TW6</description>
@@ -300,12 +306,6 @@
       <description>SANDY HOOK RD / OVERLOOK CLIFF TRL Units: A197, ALS20</description>
       <guid isPermaLink="false">2026-06-24 15:59:00</guid>
       <pubDate>Wed, 24 Jun 2026 15:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:15 pm</title>
-      <description>100 BLOCK N BENTZ ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-06-24 13:15:00</guid>
-      <pubDate>Wed, 24 Jun 2026 13:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
