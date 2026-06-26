@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Jun 2026 16:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:32:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:16 pm</title>
+      <description>9700 BLOCK KEYSVILLE RD Radio: 9C Units: E61, TW6</description>
+      <guid isPermaLink="false">2026-06-26 13:16:00</guid>
+      <pubDate>Fri, 26 Jun 2026 13:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:50 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: E161</description>
+      <guid isPermaLink="false">2026-06-26 12:50:00</guid>
+      <pubDate>Fri, 26 Jun 2026 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:50 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: E221</description>
+      <guid isPermaLink="false">2026-06-26 12:50:00</guid>
+      <pubDate>Fri, 26 Jun 2026 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:50 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: E102</description>
+      <guid isPermaLink="false">2026-06-26 12:50:00</guid>
+      <pubDate>Fri, 26 Jun 2026 12:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:48 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: ALS29, EMS900</description>
+      <guid isPermaLink="false">2026-06-26 12:48:00</guid>
+      <pubDate>Fri, 26 Jun 2026 12:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:44 pm</title>
+      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Units: E291, E102, R10, A309, E221</description>
+      <guid isPermaLink="false">2026-06-26 12:44:00</guid>
+      <pubDate>Fri, 26 Jun 2026 12:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:47 am</title>
       <description>100 BLOCK EAST RD Units: E152, E251</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK N BENTZ ST Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-06-24 13:15:00</guid>
       <pubDate>Wed, 24 Jun 2026 13:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:48 pm</title>
-      <description>10600 BLOCK FINN DR, DEER CROSSING ELEMENTARY SCHOOL Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-06-24 12:48:00</guid>
-      <pubDate>Wed, 24 Jun 2026 12:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:03 pm</title>
-      <description>10600 BLOCK FINN DR, DEER CROSSING ELEMENTARY SCHOOL Radio: 9C Units: E152, TW4</description>
-      <guid isPermaLink="false">2026-06-24 12:03:00</guid>
-      <pubDate>Wed, 24 Jun 2026 12:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:55 am</title>
-      <description>5000 BLOCK WESTVIEW DR, TOWNEPLACE SUITES BY MARRIOTT Radio: 9C Units: PE311, TW4</description>
-      <guid isPermaLink="false">2026-06-24 10:55:00</guid>
-      <pubDate>Wed, 24 Jun 2026 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 9:41 am</title>
-      <description>100 BLOCK OVERCREEK CT Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-06-24 09:41:00</guid>
-      <pubDate>Wed, 24 Jun 2026 09:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:50 am</title>
-      <description>9900 BLOCK GRAVEL HILL RD Radio: 9C Units: E161</description>
-      <guid isPermaLink="false">2026-06-24 07:50:00</guid>
-      <pubDate>Wed, 24 Jun 2026 07:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:59 am</title>
-      <description>300 BLOCK W PATRICK ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-06-24 05:59:00</guid>
-      <pubDate>Wed, 24 Jun 2026 05:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
