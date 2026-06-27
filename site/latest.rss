@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 06:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 07:31:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:47 am</title>
+      <description>7500 BLOCK RIDGE RD, Bldg:B Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-06-27 02:47:00</guid>
+      <pubDate>Sat, 27 Jun 2026 02:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:33 am</title>
       <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: BR35</description>
@@ -300,12 +306,6 @@
       <description>RADIO LN / N CARROLL ST Radio: 9D Units: A307, PE102, BC902, EMS902</description>
       <guid isPermaLink="false">2026-06-24 17:57:00</guid>
       <pubDate>Wed, 24 Jun 2026 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:49 pm</title>
-      <description>I70WB / RT85, I70WB / RT85 Units: A37, R3</description>
-      <guid isPermaLink="false">2026-06-24 17:49:00</guid>
-      <pubDate>Wed, 24 Jun 2026 17:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
