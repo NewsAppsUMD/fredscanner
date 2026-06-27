@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 15:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:51:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
+      <description>RT15SB / W SEVENTH ST(W SEVENTH ST), RT15SB / W SEVENTH ST Radio: 9B Units: E11, E33, R2, A19, A37</description>
+      <guid isPermaLink="false">2026-06-27 11:39:00</guid>
+      <pubDate>Sat, 27 Jun 2026 11:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 10:54 am</title>
       <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: TW1</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK ANDOVER LN Radio: 9B Units: A129</description>
       <guid isPermaLink="false">2026-06-25 07:19:00</guid>
       <pubDate>Thu, 25 Jun 2026 07:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:17 am</title>
-      <description>RT40 / N MCCAIN DR, RT40 / N MCCAIN DR Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-06-25 07:17:00</guid>
-      <pubDate>Thu, 25 Jun 2026 07:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
