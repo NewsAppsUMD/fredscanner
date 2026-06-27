@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 20:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 20:50:31 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:30 pm</title>
+      <description>W PATRICK ST / RT15 NB W PATRICK ST OFF RAMP &amp; RT 40 BRDGE HWY Radio: 9D Units: A18, ALS4, E11, EMS902</description>
+      <guid isPermaLink="false">2026-06-27 16:30:00</guid>
+      <pubDate>Sat, 27 Jun 2026 16:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 2:37 pm</title>
       <description>MARYLAND HEIGHTS Units: PE52, A197, R19</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK E FOURTH ST, THE GLASS FACTORY Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-06-25 12:02:00</guid>
       <pubDate>Thu, 25 Jun 2026 12:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:28 am</title>
-      <description>500 BLOCK HIMES AVE Radio: 9C Units: E11, TW4</description>
-      <guid isPermaLink="false">2026-06-25 11:28:00</guid>
-      <pubDate>Thu, 25 Jun 2026 11:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
