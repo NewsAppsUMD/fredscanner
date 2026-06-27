@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 12:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 13:30:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:52 am</title>
+      <description>KLINE BLVD / W PATRICK ST Radio: 9B Units: A37, TW4</description>
+      <guid isPermaLink="false">2026-06-27 08:52:00</guid>
+      <pubDate>Sat, 27 Jun 2026 08:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:08 am</title>
       <description>100 BLOCK BLK RAMP RT15SB TO I7100 BLOCKEB RAMP Radio: 9B Units: E11, PE311, R3, A18, A319</description>
@@ -300,12 +306,6 @@
       <description>KELBAUGH RD / RT550, KELBAUGH RD / RT550 Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2026-06-24 19:40:00</guid>
       <pubDate>Wed, 24 Jun 2026 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:27 pm</title>
-      <description>NEW DESIGN RD / GUILFORD DR Radio: 9B Units: A37, PE311</description>
-      <guid isPermaLink="false">2026-06-24 19:27:00</guid>
-      <pubDate>Wed, 24 Jun 2026 19:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
