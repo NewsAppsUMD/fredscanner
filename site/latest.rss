@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Jun 2026 13:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 14:30:09 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:21 am</title>
+      <description>500 BLOCK SILO HILL PKWY, SLEEP INN &amp; SUITES - EMMITSBURG Radio: 9C Units: E61, TW6</description>
+      <guid isPermaLink="false">2026-06-27 10:21:00</guid>
+      <pubDate>Sat, 27 Jun 2026 10:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:57 am</title>
+      <description>JEFFERSON PIKE / JEFFERSON COMMONS WAY Radio: 9B Units: A37</description>
+      <guid isPermaLink="false">2026-06-27 09:57:00</guid>
+      <pubDate>Sat, 27 Jun 2026 09:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:51 am</title>
+      <description>JEFFERSON PIKE / JEFFERSON COMMONS WAY Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-06-27 09:51:00</guid>
+      <pubDate>Sat, 27 Jun 2026 09:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:52 am</title>
       <description>KLINE BLVD / W PATRICK ST Radio: 9B Units: A37, TW4</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK W SOUTH ST, Apt/Unit:101, THE JUNCTION APARTMENTS Radio: 9C Units: E33, TW4</description>
       <guid isPermaLink="false">2026-06-25 04:11:00</guid>
       <pubDate>Thu, 25 Jun 2026 04:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:18 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9D Units: E33, E11, R3, A28, A37, ALS2, EMS901</description>
-      <guid isPermaLink="false">2026-06-24 21:18:00</guid>
-      <pubDate>Wed, 24 Jun 2026 21:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:52 pm</title>
-      <description>800 BLOCK BLAKELY CT, Apt/Unit:283, CRYSTAL PARK APTS - 800 BLOCK BLAKELY CT UNIT 283 Radio: 9C Units: E11, E501</description>
-      <guid isPermaLink="false">2026-06-24 19:52:00</guid>
-      <pubDate>Wed, 24 Jun 2026 19:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:40 pm</title>
-      <description>KELBAUGH RD / RT550, KELBAUGH RD / RT550 Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-06-24 19:40:00</guid>
-      <pubDate>Wed, 24 Jun 2026 19:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
