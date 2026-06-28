@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 14:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 15:26:15 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 10:51 am</title>
+      <description>3500 BLOCK WINTHROP LN Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-06-28 10:51:00</guid>
+      <pubDate>Sun, 28 Jun 2026 10:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:21 am</title>
       <description>I70EB / 53MM, I70EB / 53MM Radio: 9B Units: A319, PE311</description>
@@ -300,12 +306,6 @@
       <description>DICKERSON RD / GREENFIELD RD Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2026-06-26 10:39:00</guid>
       <pubDate>Fri, 26 Jun 2026 10:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: E31, TW4</description>
-      <guid isPermaLink="false">2026-06-26 10:12:00</guid>
-      <pubDate>Fri, 26 Jun 2026 10:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
