@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 18:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 19:28:49 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: Q11</description>
+      <guid isPermaLink="false">2026-06-28 15:02:00</guid>
+      <pubDate>Sun, 28 Jun 2026 15:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:01 pm</title>
+      <description>13400 BLOCK JIMTOWN RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-06-28 15:01:00</guid>
+      <pubDate>Sun, 28 Jun 2026 15:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: E291, E111, R24, A249, A169, E221</description>
+      <guid isPermaLink="false">2026-06-28 14:57:00</guid>
+      <pubDate>Sun, 28 Jun 2026 14:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:18 pm</title>
       <description>CATHOLIC CHURCH RD / BRENTLAND RD Radio: 9C Units: BR55</description>
@@ -288,24 +306,6 @@
       <description>1800 BLOCK BROOKFIELD CT, EXTRA SPACE STORAGE Radio: 9C Units: PE23, Q11</description>
       <guid isPermaLink="false">2026-06-26 16:01:00</guid>
       <pubDate>Fri, 26 Jun 2026 16:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 3:49 pm</title>
-      <description>BUCKEYSTOWN PIKE / FRANCIS SCOTT KEY DR, TRUIST - POINTE PLAZA Radio: 9D Units: E33, R3, A37, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-06-26 15:49:00</guid>
-      <pubDate>Fri, 26 Jun 2026 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:31 pm</title>
-      <description>9000 BLOCK RIDGEFIELD DR, LA PETITE ACADEMY - SPRING RIDGE Radio: 9C Units: E331, TW4</description>
-      <guid isPermaLink="false">2026-06-26 15:31:00</guid>
-      <pubDate>Fri, 26 Jun 2026 15:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 2:52 pm</title>
-      <description>3500 BLOCK WORTHINGTON BLVD, CHROMACULTURE Radio: 9C Units: E231, E251, TT23</description>
-      <guid isPermaLink="false">2026-06-26 14:52:00</guid>
-      <pubDate>Fri, 26 Jun 2026 14:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
