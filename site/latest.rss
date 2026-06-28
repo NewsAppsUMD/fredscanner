@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 22:46:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 23:21:14 +0000</lastBuildDate>
+    <item>
+      <title>FHH STANDBY FOR HELICOPTER LANDING: 6:54 pm</title>
+      <description>400 BLOCK W SEVENTH ST Units: K33</description>
+      <guid isPermaLink="false">2026-06-28 18:54:00</guid>
+      <pubDate>Sun, 28 Jun 2026 18:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 5:39 pm</title>
       <description>I270NB / RT80, I270NB / 23MM Units: E231, PE251</description>
@@ -300,12 +306,6 @@
       <description>7500 BLOCK RIDGE RD, Bldg:B Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-06-27 02:47:00</guid>
       <pubDate>Sat, 27 Jun 2026 02:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 12:33 am</title>
-      <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-06-27 00:33:00</guid>
-      <pubDate>Sat, 27 Jun 2026 00:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
