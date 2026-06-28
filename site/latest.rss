@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Jun 2026 21:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:47:53 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 5:39 pm</title>
+      <description>I270NB / RT80, I270NB / 23MM Units: E231, PE251</description>
+      <guid isPermaLink="false">2026-06-28 17:39:00</guid>
+      <pubDate>Sun, 28 Jun 2026 17:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:04 pm</title>
       <description>100 BLOCK WILLOWDALE DR, Bldg:J, Apt/Unit:J101, WILLOWDALE CROSSING APARTMENTS - 100 BLOCKJ WILLOWDALE DR Radio: 9C Units: E11, TW4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S BENTZ ST, MULLINIX PARK Radio: 9C Units: BR35</description>
       <guid isPermaLink="false">2026-06-27 00:33:00</guid>
       <pubDate>Sat, 27 Jun 2026 00:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:53 pm</title>
-      <description>800 BLOCK APACHE CT Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-06-26 22:53:00</guid>
-      <pubDate>Fri, 26 Jun 2026 22:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
