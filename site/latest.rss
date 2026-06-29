@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Jun 2026 14:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:44:25 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:38 am</title>
+      <description>100 BLOCKB W FREDERICK ST Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-06-29 11:38:00</guid>
+      <pubDate>Mon, 29 Jun 2026 11:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:43 am</title>
+      <description>400 BLOCK S JEFFERSON ST Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2026-06-29 10:43:00</guid>
+      <pubDate>Mon, 29 Jun 2026 10:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:34 am</title>
+      <description>100 BLOCK E NINTH ST Radio: 9C Units: PE23, TW4</description>
+      <guid isPermaLink="false">2026-06-29 10:34:00</guid>
+      <pubDate>Mon, 29 Jun 2026 10:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:24 am</title>
+      <description>2200 BLOCK W PALACE GREEN TER Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-06-29 10:24:00</guid>
+      <pubDate>Mon, 29 Jun 2026 10:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:21 am</title>
+      <description>400 BLOCK S JEFFERSON ST Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2026-06-29 10:21:00</guid>
+      <pubDate>Mon, 29 Jun 2026 10:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 9:07 am</title>
       <description>100 BLOCK W MAIN ST, SPORTSLAND Radio: 9C Units: E72</description>
@@ -276,36 +306,6 @@
       <description>SPECTRUM DR / HOLIDAY DR Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-06-27 13:34:00</guid>
       <pubDate>Sat, 27 Jun 2026 13:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
-      <description>RT15SB / PRYOR RD (S), RT15SB / PRYOR RD Radio: 9B Units: PE102, E291, R10, A309, A229, E221</description>
-      <guid isPermaLink="false">2026-06-27 13:21:00</guid>
-      <pubDate>Sat, 27 Jun 2026 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 12:24 pm</title>
-      <description>1300 BLOCK W SEVENTH ST, GLORY DAYS GRILL - SEVENTH STREET SHOPPING CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-06-27 12:24:00</guid>
-      <pubDate>Sat, 27 Jun 2026 12:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:21 pm</title>
-      <description>100 BLOCK HEATHFIELD DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-06-27 12:21:00</guid>
-      <pubDate>Sat, 27 Jun 2026 12:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
-      <description>RT15SB / W SEVENTH ST(W SEVENTH ST), RT15SB / W SEVENTH ST Radio: 9B Units: E11, E33, R2, A19, A37</description>
-      <guid isPermaLink="false">2026-06-27 11:39:00</guid>
-      <pubDate>Sat, 27 Jun 2026 11:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:54 am</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-06-27 10:54:00</guid>
-      <pubDate>Sat, 27 Jun 2026 10:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
