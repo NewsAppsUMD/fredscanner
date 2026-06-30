@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 13:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:49:30 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 10:00 am</title>
+      <description>100 BLOCK HAMILTON AVE, Apt/Unit:315 Radio: 9C Units: PE23, PE311, TW4</description>
+      <guid isPermaLink="false">2026-06-30 10:00:00</guid>
+      <pubDate>Tue, 30 Jun 2026 10:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:56 am</title>
+      <description>600 BLOCK ANGELWING LN Radio: 9D Units: E11, E31, R3, HM33, HM50, HMSU33, E121, A129, A19, ALS4, BC903, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-06-30 09:56:00</guid>
+      <pubDate>Tue, 30 Jun 2026 09:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 7:28 am</title>
       <description>200 BLOCK N CHURCH ST, THURMONT AUTO SALES Radio: 9B Units: E61</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK SEWARD ST Units: E231, E33, A37, ALS31, BC901, SAF901, TT23</description>
       <guid isPermaLink="false">2026-06-28 11:37:00</guid>
       <pubDate>Sun, 28 Jun 2026 11:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:36 am</title>
-      <description>1200 BLOCK ARDMORE CT, THE GROVE AT ALBAN - 1200 BLOCK ARDMORE CT Radio: 9C Units: E11, TW4</description>
-      <guid isPermaLink="false">2026-06-28 11:36:00</guid>
-      <pubDate>Sun, 28 Jun 2026 11:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 10:51 am</title>
-      <description>3500 BLOCK WINTHROP LN Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-06-28 10:51:00</guid>
-      <pubDate>Sun, 28 Jun 2026 10:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
