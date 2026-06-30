@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Jun 2026 22:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 22:54:10 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 6:42 pm</title>
+      <description>100 BLOCK NORTH POINTE TER, IAO Radio: 9B Units: BR75</description>
+      <guid isPermaLink="false">2026-06-30 18:42:00</guid>
+      <pubDate>Tue, 30 Jun 2026 18:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:16 pm</title>
+      <description>1200 BLOCK DANIELLE DR Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-06-30 18:16:00</guid>
+      <pubDate>Tue, 30 Jun 2026 18:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
       <description>HIMES AVE / JEFFERSON PIKE Radio: 9B Units: A319</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, Bldg:J, Apt/Unit:J101, WILLOWDALE CROSSING APARTMENTS - 100 BLOCKJ WILLOWDALE DR Radio: 9C Units: E11, TW4</description>
       <guid isPermaLink="false">2026-06-28 17:04:00</guid>
       <pubDate>Sun, 28 Jun 2026 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:02 pm</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN Radio: 9B Units: Q11</description>
-      <guid isPermaLink="false">2026-06-28 15:02:00</guid>
-      <pubDate>Sun, 28 Jun 2026 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 3:01 pm</title>
-      <description>13400 BLOCK JIMTOWN RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-06-28 15:01:00</guid>
-      <pubDate>Sun, 28 Jun 2026 15:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
