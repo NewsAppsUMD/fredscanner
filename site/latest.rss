@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 21:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 22:36:33 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:25 pm</title>
+      <description>N MARKET ST / E SIXTH ST Units: A29</description>
+      <guid isPermaLink="false">2026-07-01 18:25:00</guid>
+      <pubDate>Wed, 01 Jul 2026 18:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 5:22 pm</title>
       <description>6500 BLOCK EWALD CT Radio: 9D Units: E311, E31, E23, E501, E291, R3, TW1, TW4, A318, ALS2, BC902, BC901, SAF901</description>
@@ -298,12 +304,6 @@
     <item>
       <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 7:12 pm</title>
       <description>10200 BLOCK LAKE LINGANORE BLVD Radio: 9C Units: TT23, E501</description>
-      <guid isPermaLink="false">2026-06-29 19:12:00</guid>
-      <pubDate>Mon, 29 Jun 2026 19:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK - TRANSMISSION OR DISTRIBUTION LINE: 7:12 pm</title>
-      <description>10200 BLOCK LAKE LINGANORE BLVD Radio: 9C Units: HM33</description>
       <guid isPermaLink="false">2026-06-29 19:12:00</guid>
       <pubDate>Mon, 29 Jun 2026 19:12:00 -0400</pubDate>
     </item>
