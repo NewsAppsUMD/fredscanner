@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Jul 2026 00:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 01:43:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 8:38 pm</title>
+      <description>I270SB / RT80, I270SB / RT80 Radio: 9C Units: E231, PE251</description>
+      <guid isPermaLink="false">2026-06-30 20:38:00</guid>
+      <pubDate>Tue, 30 Jun 2026 20:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:15 pm</title>
       <description>100 BLOCK WILLOWDALE DR, Bldg:E, Apt/Unit:102, WILLOWDALE CROSSING APTS - 100 BLOCKE WILLOWDALE DR Radio: 9B Units: E11, TW4</description>
@@ -300,12 +306,6 @@
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
       <guid isPermaLink="false">2026-06-28 20:00:00</guid>
       <pubDate>Sun, 28 Jun 2026 20:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FHH STANDBY FOR HELICOPTER LANDING: 6:54 pm</title>
-      <description>400 BLOCK W SEVENTH ST Units: K33</description>
-      <guid isPermaLink="false">2026-06-28 18:54:00</guid>
-      <pubDate>Sun, 28 Jun 2026 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
