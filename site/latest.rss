@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 12:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:06:36 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:55 am</title>
+      <description>2700 BLOCK CAMOMILE DR W Radio: 9C Units: PE251, TW4</description>
+      <guid isPermaLink="false">2026-07-02 08:55:00</guid>
+      <pubDate>Thu, 02 Jul 2026 08:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 8:53 am</title>
+      <description>1700 BLOCK HUNTERSTOWN RD Units: CAN1</description>
+      <guid isPermaLink="false">2026-07-02 08:53:00</guid>
+      <pubDate>Thu, 02 Jul 2026 08:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:51 am</title>
+      <description>I270SB / BENNETT CREEK, I270SB / RT80 Radio: 9B Units: E231, R3, A239, TT23</description>
+      <guid isPermaLink="false">2026-07-02 08:51:00</guid>
+      <pubDate>Thu, 02 Jul 2026 08:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
+      <description>1300 BLOCK HUGHES FORD RD, H L HARTZ COMPANY Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-02 08:22:00</guid>
+      <pubDate>Thu, 02 Jul 2026 08:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:21 am</title>
+      <description>1300 BLOCK HUGHES FORD RD, H L HARTZ COMPANY Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2026-07-02 08:21:00</guid>
+      <pubDate>Thu, 02 Jul 2026 08:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:53 am</title>
       <description>8600 BLOCK BIGGS FORD RD, SAINT TIMOTHY ROMAN CATHOLIC CHURCH Radio: 9B Units: A299, Q11</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK NORTH POINTE TER, IAO Radio: 9B Units: BR75</description>
       <guid isPermaLink="false">2026-06-30 18:42:00</guid>
       <pubDate>Tue, 30 Jun 2026 18:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:16 pm</title>
-      <description>1200 BLOCK DANIELLE DR Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-06-30 18:16:00</guid>
-      <pubDate>Tue, 30 Jun 2026 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
-      <description>HIMES AVE / JEFFERSON PIKE Radio: 9B Units: A319</description>
-      <guid isPermaLink="false">2026-06-30 17:34:00</guid>
-      <pubDate>Tue, 30 Jun 2026 17:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
-      <description>HIMES AVE / JEFFERSON PIKE Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-06-30 17:27:00</guid>
-      <pubDate>Tue, 30 Jun 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FHH STANDBY FOR HELICOPTER LANDING: 5:10 pm</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
-      <guid isPermaLink="false">2026-06-30 17:10:00</guid>
-      <pubDate>Tue, 30 Jun 2026 17:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:16 pm</title>
-      <description>4800 BLOCK SIDING CT Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-06-30 16:16:00</guid>
-      <pubDate>Tue, 30 Jun 2026 16:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
