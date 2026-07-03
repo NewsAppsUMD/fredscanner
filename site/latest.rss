@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Jul 2026 21:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 21:48:51 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 5:31 pm</title>
+      <description>7900 BLOCK QUAY CT Radio: 9C Units: E291, E501, Q11, K1</description>
+      <guid isPermaLink="false">2026-07-03 17:31:00</guid>
+      <pubDate>Fri, 03 Jul 2026 17:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:27 pm</title>
+      <description>3400 BLOCK ANGELICA WAY Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-07-03 17:27:00</guid>
+      <pubDate>Fri, 03 Jul 2026 17:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 4:52 pm</title>
       <description>2200 BLOCK W GREENLEAF DR Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>12300 BLOCK BERLIN PK, STATION LC612 - LOVETTSVILLE VOLUNTEER FIRE &amp; RESCUE Units: E281</description>
       <guid isPermaLink="false">2026-07-02 14:04:00</guid>
       <pubDate>Thu, 02 Jul 2026 14:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:39 pm</title>
-      <description>5200 BLOCK WESTVIEW DR, Apt/Unit:323, EXTENDED STAY AMERICA Radio: 9C Units: E31, TW4</description>
-      <guid isPermaLink="false">2026-07-02 13:39:00</guid>
-      <pubDate>Thu, 02 Jul 2026 13:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:22 pm</title>
-      <description>5800 BLOCK DRAWBRIDGE CT Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-07-02 13:22:00</guid>
-      <pubDate>Thu, 02 Jul 2026 13:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
