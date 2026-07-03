@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Jul 2026 23:48:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:27:21 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 8:07 pm</title>
+      <description>1100 BLOCKA ORCHARD TER, Apt/Unit:102 Radio: 9C Units: E11, E31, TW4</description>
+      <guid isPermaLink="false">2026-07-02 20:07:00</guid>
+      <pubDate>Thu, 02 Jul 2026 20:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:27 pm</title>
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: A129, E121</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E SIXTH ST Units: A29</description>
       <guid isPermaLink="false">2026-07-01 18:25:00</guid>
       <pubDate>Wed, 01 Jul 2026 18:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:22 pm</title>
-      <description>6500 BLOCK EWALD CT Radio: 9D Units: E311, E31, E23, E501, E291, R3, TW1, TW4, A318, ALS2, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-07-01 17:22:00</guid>
-      <pubDate>Wed, 01 Jul 2026 17:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
