@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 01:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 02:15:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 10:09 pm</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9B Units: ALS2</description>
+      <guid isPermaLink="false">2026-07-03 22:09:00</guid>
+      <pubDate>Fri, 03 Jul 2026 22:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:48 pm</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9B Units: A248</description>
+      <guid isPermaLink="false">2026-07-03 21:48:00</guid>
+      <pubDate>Fri, 03 Jul 2026 21:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:48 pm</title>
+      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S AND V PARTNERSHIP Radio: 9C Units: E31, TW4</description>
+      <guid isPermaLink="false">2026-07-03 21:48:00</guid>
+      <pubDate>Fri, 03 Jul 2026 21:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:46 pm</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9B Units: ALS17</description>
+      <guid isPermaLink="false">2026-07-03 21:46:00</guid>
+      <pubDate>Fri, 03 Jul 2026 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:46 pm</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9B Units: A249</description>
+      <guid isPermaLink="false">2026-07-03 21:46:00</guid>
+      <pubDate>Fri, 03 Jul 2026 21:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:37 pm</title>
+      <description>10500 BLOCK LIBERTY RD Radio: 9B Units: A179, RE171</description>
+      <guid isPermaLink="false">2026-07-03 21:37:00</guid>
+      <pubDate>Fri, 03 Jul 2026 21:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>FHH STANDBY FOR HELICOPTER LANDING: 8:22 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
@@ -270,42 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
       <guid isPermaLink="false">2026-07-02 17:52:00</guid>
       <pubDate>Thu, 02 Jul 2026 17:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:28 pm</title>
-      <description>MA WASHCO: I70WB / 38MM, MA WASHCO: I70WB / 38MM Units: E82</description>
-      <guid isPermaLink="false">2026-07-02 17:28:00</guid>
-      <pubDate>Thu, 02 Jul 2026 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:35 pm</title>
-      <description>RT40 / ROSEBUD CT, RT40 / ROSEBUD CT Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-07-02 16:35:00</guid>
-      <pubDate>Thu, 02 Jul 2026 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:16 pm</title>
-      <description>RT15NB / S JEFFERSON ST, RT340EB / RT180 Units: R15, A339, A129, E11, E501</description>
-      <guid isPermaLink="false">2026-07-02 16:16:00</guid>
-      <pubDate>Thu, 02 Jul 2026 16:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:15 pm</title>
-      <description>FOXCROFT DR / NEW DESIGN RD Units: A18, A339, R3</description>
-      <guid isPermaLink="false">2026-07-02 16:15:00</guid>
-      <pubDate>Thu, 02 Jul 2026 16:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:06 pm</title>
-      <description>300 BLOCK S JEFFERSON ST, OWLS CLUB - CARROLLTON Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-07-02 16:06:00</guid>
-      <pubDate>Thu, 02 Jul 2026 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 3:57 pm</title>
-      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: E82</description>
-      <guid isPermaLink="false">2026-07-02 15:57:00</guid>
-      <pubDate>Thu, 02 Jul 2026 15:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
