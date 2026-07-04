@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 04 Jul 2026 03:43:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 05:13:57 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:59 pm</title>
+      <description>41600 BLOCK WAKEHURST PL Radio: 6DTAC11 Units: E281</description>
+      <guid isPermaLink="false">2026-07-04 23:59:00</guid>
+      <pubDate>Sat, 04 Jul 2026 23:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 12:46 am</title>
+      <description>1000 BLOCK JEFFERSON PIKE, PARK N RIDE BRUNSWICK Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-07-04 00:46:00</guid>
+      <pubDate>Sat, 04 Jul 2026 00:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 11:46 pm</title>
+      <description>200 BLOCK COBBLE WAY Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-07-03 23:46:00</guid>
+      <pubDate>Fri, 03 Jul 2026 23:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 11:42 pm</title>
+      <description>200 BLOCK COBBLE WAY Radio: 9C Units: E111, E162, Q11</description>
+      <guid isPermaLink="false">2026-07-03 23:42:00</guid>
+      <pubDate>Fri, 03 Jul 2026 23:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:09 pm</title>
       <description>10500 BLOCK LIBERTY RD Radio: 9B Units: ALS2</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK W SOUTH ST, Apt/Unit:C Units: A29, ALS4, EMS902</description>
       <guid isPermaLink="false">2026-07-02 18:50:00</guid>
       <pubDate>Thu, 02 Jul 2026 18:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:47 pm</title>
-      <description>100 BLOCK W SOUTH ST, Apt/Unit:C Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-07-02 18:47:00</guid>
-      <pubDate>Thu, 02 Jul 2026 18:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:33 pm</title>
-      <description>6400 BLOCK S CLIFTON RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-07-02 18:33:00</guid>
-      <pubDate>Thu, 02 Jul 2026 18:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:04 pm</title>
-      <description>1600 BLOCK BROADFORD PARK ST Radio: 9D Units: E121, E31, PE23, E501, E72, R3, TW1, TW4, A129, ALS4, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-07-02 18:04:00</guid>
-      <pubDate>Thu, 02 Jul 2026 18:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FHH STANDBY FOR HELICOPTER LANDING: 5:52 pm</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
-      <guid isPermaLink="false">2026-07-02 17:52:00</guid>
-      <pubDate>Thu, 02 Jul 2026 17:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
