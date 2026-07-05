@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 15:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:21:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:09 pm</title>
+      <description>300 BLOCK TOPPER RD Radio: ACOPS3 Units: A68, TW6</description>
+      <guid isPermaLink="false">2026-07-05 12:09:00</guid>
+      <pubDate>Sun, 05 Jul 2026 12:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:51 am</title>
+      <description>8700 BLOCKC LINKS BRIDGE LN Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-07-05 11:51:00</guid>
+      <pubDate>Sun, 05 Jul 2026 11:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:48 am</title>
+      <description>DOTTERER RD / GREEN VALLEY RD Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-07-05 11:48:00</guid>
+      <pubDate>Sun, 05 Jul 2026 11:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:37 am</title>
+      <description>8100 BLOCK STEVENS RD, Bldg:B Radio: 9C Units: BR226</description>
+      <guid isPermaLink="false">2026-07-05 11:37:00</guid>
+      <pubDate>Sun, 05 Jul 2026 11:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:33 am</title>
+      <description>12100 BLOCK WILDCAT RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-07-05 11:33:00</guid>
+      <pubDate>Sun, 05 Jul 2026 11:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:21 am</title>
       <description>TOWER RD / MIDDLE POINT RD Radio: 9C Units: BR216</description>
@@ -276,36 +306,6 @@
       <description>1800 BLOCK COUNTRY RUN WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-07-03 14:05:00</guid>
       <pubDate>Fri, 03 Jul 2026 14:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:37 pm</title>
-      <description>I70EB / RT340-15, I70EB / I270 Radio: 9B Units: E121, E31, R3, A129, A37</description>
-      <guid isPermaLink="false">2026-07-03 13:37:00</guid>
-      <pubDate>Fri, 03 Jul 2026 13:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:49 pm</title>
-      <description>22000 BLOCK MOHAWK DR Units: K21</description>
-      <guid isPermaLink="false">2026-07-03 12:49:00</guid>
-      <pubDate>Fri, 03 Jul 2026 12:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:46 pm</title>
-      <description>JAMES MONROE HWY / NEWVALLEY CHURCH RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2026-07-03 12:46:00</guid>
-      <pubDate>Fri, 03 Jul 2026 12:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:34 pm</title>
-      <description>JAMES MONROE HWY / MYERSVILLE LN Radio: 6B Units: ALS20, E281</description>
-      <guid isPermaLink="false">2026-07-03 12:34:00</guid>
-      <pubDate>Fri, 03 Jul 2026 12:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:26 am</title>
-      <description>1600 BLOCK COOPERS WAY Radio: 9C Units: R2</description>
-      <guid isPermaLink="false">2026-07-03 10:26:00</guid>
-      <pubDate>Fri, 03 Jul 2026 10:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
