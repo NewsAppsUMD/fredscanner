@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 03:43:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 05:17:21 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:59 am</title>
+      <description>3000 BLOCK OLD NATIONAL PIKE Units: E72</description>
+      <guid isPermaLink="false">2026-07-05 00:59:00</guid>
+      <pubDate>Sun, 05 Jul 2026 00:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:37 am</title>
+      <description>6200 BLOCK PAYTON WAY Units: PE311, E141, E201, PE23, E501, E281, R3, TW1, TW4, EK204, K1, K33, A319, ALS31, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-07-05 00:37:00</guid>
+      <pubDate>Sun, 05 Jul 2026 00:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 12:16 am</title>
+      <description>400 BLOCK BLK CENTER ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-07-05 00:16:00</guid>
+      <pubDate>Sun, 05 Jul 2026 00:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:14 am</title>
+      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: E11, E72, R3, A129, A89</description>
+      <guid isPermaLink="false">2026-07-05 00:14:00</guid>
+      <pubDate>Sun, 05 Jul 2026 00:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 12:11 am</title>
+      <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, E82</description>
+      <guid isPermaLink="false">2026-07-05 00:11:00</guid>
+      <pubDate>Sun, 05 Jul 2026 00:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:59 pm</title>
       <description>41600 BLOCK WAKEHURST PL Radio: 6DTAC11 Units: E281</description>
@@ -276,36 +306,6 @@
       <description>1100 BLOCKA ORCHARD TER, Apt/Unit:102 Radio: 9C Units: E11, E31, TW4</description>
       <guid isPermaLink="false">2026-07-02 20:07:00</guid>
       <pubDate>Thu, 02 Jul 2026 20:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:27 pm</title>
-      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-07-02 19:27:00</guid>
-      <pubDate>Thu, 02 Jul 2026 19:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:14 pm</title>
-      <description>100 BLOCK W SOUTH ST, Apt/Unit:C Units: EMS901</description>
-      <guid isPermaLink="false">2026-07-02 19:14:00</guid>
-      <pubDate>Thu, 02 Jul 2026 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:06 pm</title>
-      <description>6400 BLOCK MERCANTILE DR E, Apt/Unit:108, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-07-02 19:06:00</guid>
-      <pubDate>Thu, 02 Jul 2026 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:59 pm</title>
-      <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
-      <guid isPermaLink="false">2026-07-02 18:59:00</guid>
-      <pubDate>Thu, 02 Jul 2026 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 6:50 pm</title>
-      <description>100 BLOCK W SOUTH ST, Apt/Unit:C Units: A29, ALS4, EMS902</description>
-      <guid isPermaLink="false">2026-07-02 18:50:00</guid>
-      <pubDate>Thu, 02 Jul 2026 18:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
