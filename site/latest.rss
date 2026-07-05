@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 05 Jul 2026 22:46:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 23:21:21 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 7:08 pm</title>
+      <description>POTOMAC RIVER @ BASS ROCK Units: A196</description>
+      <guid isPermaLink="false">2026-07-05 19:08:00</guid>
+      <pubDate>Sun, 05 Jul 2026 19:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 6:59 pm</title>
+      <description>17700 BLOCK HUNT MASTER CT Units: R15</description>
+      <guid isPermaLink="false">2026-07-05 18:59:00</guid>
+      <pubDate>Sun, 05 Jul 2026 18:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 6:55 pm</title>
+      <description>POTOMAC RIVER @ BASS ROCK Units: PE52</description>
+      <guid isPermaLink="false">2026-07-05 18:55:00</guid>
+      <pubDate>Sun, 05 Jul 2026 18:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:30 pm</title>
       <description>W PATRICK ST / S MCCAIN DR Radio: 9B Units: A19, E11</description>
@@ -288,24 +306,6 @@
       <description>FINGERBOARD RD / THURSTON RD Radio: 9I Units: A259</description>
       <guid isPermaLink="false">2026-07-03 19:16:00</guid>
       <pubDate>Fri, 03 Jul 2026 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:10 pm</title>
-      <description>FINGERBOARD RD / THURSTON RD Radio: 9I Units: E231, R14, A238, ALS23, BC903, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-07-03 19:10:00</guid>
-      <pubDate>Fri, 03 Jul 2026 19:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 6:48 pm</title>
-      <description>5800 BLOCK FOXVILLE RD Radio: 9D Units: E61, E132, R10, TR29, EMSUTV30, A309, PE102, E212, EK224, E511, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-07-03 18:48:00</guid>
-      <pubDate>Fri, 03 Jul 2026 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 5:31 pm</title>
-      <description>7900 BLOCK QUAY CT Radio: 9C Units: E291, E501, Q11, K1</description>
-      <guid isPermaLink="false">2026-07-03 17:31:00</guid>
-      <pubDate>Fri, 03 Jul 2026 17:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
