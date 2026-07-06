@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 23:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 23:49:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:40 pm</title>
+      <description>5600 BLOCKA BUCKEYSTOWN PIKE, SAMS CLUB FUEL STATION Radio: 9C Units: PE311, T4</description>
+      <guid isPermaLink="false">2026-07-06 19:40:00</guid>
+      <pubDate>Mon, 06 Jul 2026 19:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 6:13 pm</title>
       <description>E LINCOLN AVE / CREAMERY RD Radio: 9C Units: E61</description>
@@ -300,12 +306,6 @@
       <description>17700 BLOCK HUNT MASTER CT Units: R15</description>
       <guid isPermaLink="false">2026-07-05 18:59:00</guid>
       <pubDate>Sun, 05 Jul 2026 18:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 6:55 pm</title>
-      <description>POTOMAC RIVER @ BASS ROCK Units: PE52</description>
-      <guid isPermaLink="false">2026-07-05 18:55:00</guid>
-      <pubDate>Sun, 05 Jul 2026 18:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
