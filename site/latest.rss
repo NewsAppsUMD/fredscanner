@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 19:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:35:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
+      <description>6100 BLOCK MEADOW RD, LAT/ LONG MESSAGE Radio: 9B Units: A159, E331</description>
+      <guid isPermaLink="false">2026-07-06 16:32:00</guid>
+      <pubDate>Mon, 06 Jul 2026 16:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
+      <description>7300 BLOCK GUILFORD DR, RUBY TUESDAY - FREDERICK CROSSING Radio: 9B Units: A37, PE311</description>
+      <guid isPermaLink="false">2026-07-06 16:20:00</guid>
+      <pubDate>Mon, 06 Jul 2026 16:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:47 pm</title>
+      <description>RT15 / 4MM, RT15 / 4MM Radio: 9D Units: A18</description>
+      <guid isPermaLink="false">2026-07-06 15:47:00</guid>
+      <pubDate>Mon, 06 Jul 2026 15:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:40 pm</title>
+      <description>RT15 / 4MM, RT15 / 4MM Radio: 9D Units: E281, R14, A209, ALS2, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-06 15:40:00</guid>
+      <pubDate>Mon, 06 Jul 2026 15:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:50 pm</title>
       <description>SILO HILL RD / E MAIN ST Radio: 9B Units: E61, TW6, A68, ALS30, EMS902</description>
@@ -282,30 +306,6 @@
       <description>I70EB / RT180, I70EB / RT180 Radio: 9B Units: E121, E31, R3, A129, A38</description>
       <guid isPermaLink="false">2026-07-05 18:04:00</guid>
       <pubDate>Sun, 05 Jul 2026 18:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:43 pm</title>
-      <description>ROYAL OAK DR / TESSIE CT, IAO Radio: 9B Units: A159, E152</description>
-      <guid isPermaLink="false">2026-07-05 17:43:00</guid>
-      <pubDate>Sun, 05 Jul 2026 17:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:05 pm</title>
-      <description>400 BLOCK FRANKLIN ST, STATION 7 Units: E111</description>
-      <guid isPermaLink="false">2026-07-05 17:05:00</guid>
-      <pubDate>Sun, 05 Jul 2026 17:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:01 pm</title>
-      <description>9300 BLOCK GARIS SHOP RD Radio: TAC2OPS Units: RE74, E82</description>
-      <guid isPermaLink="false">2026-07-05 17:01:00</guid>
-      <pubDate>Sun, 05 Jul 2026 17:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:40 pm</title>
-      <description>9300 BLOCK GARIS SHOP RD Radio: TAC2OPS Units: E72</description>
-      <guid isPermaLink="false">2026-07-05 16:40:00</guid>
-      <pubDate>Sun, 05 Jul 2026 16:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
