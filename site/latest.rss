@@ -6,7 +6,55 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 06 Jul 2026 01:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 02:16:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:11 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, E82, R3, A129, A89</description>
+      <guid isPermaLink="false">2026-07-05 22:11:00</guid>
+      <pubDate>Sun, 05 Jul 2026 22:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:55 pm</title>
+      <description>11600 BLOCK WOODLEA DR Radio: FROPS11 Units: BC902, A309</description>
+      <guid isPermaLink="false">2026-07-05 21:55:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 9:39 pm</title>
+      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: E162</description>
+      <guid isPermaLink="false">2026-07-05 21:39:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:35 pm</title>
+      <description>11600 BLOCK IRONWOOD DR Radio: FROPS8 Units: R10</description>
+      <guid isPermaLink="false">2026-07-05 21:35:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:33 pm</title>
+      <description>11600 BLOCK IRONWOOD DR Radio: FROPS8 Units: A308</description>
+      <guid isPermaLink="false">2026-07-05 21:33:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:31 pm</title>
+      <description>11600 BLOCK IRONWOOD DR Units: TW6</description>
+      <guid isPermaLink="false">2026-07-05 21:31:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:30 pm</title>
+      <description>11600 BLOCK IRONWOOD DR Units: EK64</description>
+      <guid isPermaLink="false">2026-07-05 21:30:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 9:24 pm</title>
+      <description>10700 BLOCKA FINGERBOARD RD Radio: 9C Units: PE251</description>
+      <guid isPermaLink="false">2026-07-05 21:24:00</guid>
+      <pubDate>Sun, 05 Jul 2026 21:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:57 pm</title>
       <description>2900 BLOCK BRUBECK TER Radio: 9C Units: PE251, TT23</description>
@@ -258,54 +306,6 @@
       <description>1700 BLOCK N MARKET ST, THE BOTTLING PLANT Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-07-05 06:18:00</guid>
       <pubDate>Sun, 05 Jul 2026 06:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 6:13 am</title>
-      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: E162</description>
-      <guid isPermaLink="false">2026-07-05 06:13:00</guid>
-      <pubDate>Sun, 05 Jul 2026 06:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:31 am</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-07-05 05:31:00</guid>
-      <pubDate>Sun, 05 Jul 2026 05:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:18 am</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311, E31, TW1</description>
-      <guid isPermaLink="false">2026-07-05 02:18:00</guid>
-      <pubDate>Sun, 05 Jul 2026 02:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:59 am</title>
-      <description>3000 BLOCK OLD NATIONAL PIKE Units: E72</description>
-      <guid isPermaLink="false">2026-07-05 00:59:00</guid>
-      <pubDate>Sun, 05 Jul 2026 00:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 12:37 am</title>
-      <description>6200 BLOCK PAYTON WAY Units: PE311, E141, E201, PE23, E501, E281, R3, TW1, TW4, EK204, K1, K33, A319, ALS31, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-07-05 00:37:00</guid>
-      <pubDate>Sun, 05 Jul 2026 00:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 12:16 am</title>
-      <description>400 BLOCK BLK CENTER ST Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-07-05 00:16:00</guid>
-      <pubDate>Sun, 05 Jul 2026 00:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:14 am</title>
-      <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD Radio: 9B Units: E11, E72, R3, A129, A89</description>
-      <guid isPermaLink="false">2026-07-05 00:14:00</guid>
-      <pubDate>Sun, 05 Jul 2026 00:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:11 am</title>
-      <description>I70WB / 47MM, I70WB / 47MM Radio: 9C Units: E121, E82</description>
-      <guid isPermaLink="false">2026-07-05 00:11:00</guid>
-      <pubDate>Sun, 05 Jul 2026 00:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
