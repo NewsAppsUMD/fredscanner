@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 21:00:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:56:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:49 pm</title>
+      <description>9100 BLOCK BRIEN PL Radio: 9B Units: A238, TT23</description>
+      <guid isPermaLink="false">2026-07-07 17:49:00</guid>
+      <pubDate>Tue, 07 Jul 2026 17:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:59 pm</title>
+      <description>BUCKEYSTOWN PIKE / SPECTRUM DR Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-07-07 16:59:00</guid>
+      <pubDate>Tue, 07 Jul 2026 16:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:57 pm</title>
+      <description>28800 BLOCK KEMPTOWN RD STONE SILO BREWERY, STONE SILO BREWERY Radio: 7A1 Units: R15</description>
+      <guid isPermaLink="false">2026-07-07 16:57:00</guid>
+      <pubDate>Tue, 07 Jul 2026 16:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:54 pm</title>
       <description>3600 BLOCK POINT OF ROCKS RD Radio: 9C Units: BR285</description>
@@ -288,24 +306,6 @@
       <description>RT40 / WILLOWDALE DR, RT40 / WILLOWDALE DR Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-07-06 01:24:00</guid>
       <pubDate>Mon, 06 Jul 2026 01:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:14 am</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121 Radio: 7A1 Units: E231, A238</description>
-      <guid isPermaLink="false">2026-07-06 01:14:00</guid>
-      <pubDate>Mon, 06 Jul 2026 01:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:53 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: E311, TW1</description>
-      <guid isPermaLink="false">2026-07-05 22:53:00</guid>
-      <pubDate>Sun, 05 Jul 2026 22:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:44 pm</title>
-      <description>5700 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: E31, TW4</description>
-      <guid isPermaLink="false">2026-07-05 22:44:00</guid>
-      <pubDate>Sun, 05 Jul 2026 22:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
