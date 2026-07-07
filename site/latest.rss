@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Jul 2026 18:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 19:10:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 2:20 pm</title>
+      <description>N EAST ST / E SIXTH ST Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-07 14:20:00</guid>
+      <pubDate>Tue, 07 Jul 2026 14:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 2:17 pm</title>
+      <description>5900 BLOCK ETTERBEEK ST Radio: 9C Units: E331, E152, TW1</description>
+      <guid isPermaLink="false">2026-07-07 14:17:00</guid>
+      <pubDate>Tue, 07 Jul 2026 14:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:33 pm</title>
       <description>100 BLOCK CREAMERY CT, EMMITSBURG GLASS CO Radio: 9C Units: E61, TW6</description>
@@ -294,18 +306,6 @@
       <description>11600 BLOCK IRONWOOD DR Radio: FROPS8 Units: A308</description>
       <guid isPermaLink="false">2026-07-05 21:33:00</guid>
       <pubDate>Sun, 05 Jul 2026 21:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:31 pm</title>
-      <description>11600 BLOCK IRONWOOD DR Units: TW6</description>
-      <guid isPermaLink="false">2026-07-05 21:31:00</guid>
-      <pubDate>Sun, 05 Jul 2026 21:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:30 pm</title>
-      <description>11600 BLOCK IRONWOOD DR Units: EK64</description>
-      <guid isPermaLink="false">2026-07-05 21:30:00</guid>
-      <pubDate>Sun, 05 Jul 2026 21:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
