@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 01:40:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 03:00:17 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:44 pm</title>
+      <description>1700 BLOCK N MARKET ST, CUGINO FORNO Radio: 9B Units: A29, PE23</description>
+      <guid isPermaLink="false">2026-07-07 21:44:00</guid>
+      <pubDate>Tue, 07 Jul 2026 21:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:21 pm</title>
       <description>6900 BLOCK FAIR LN Radio: 9C Units: E152</description>
@@ -300,12 +306,6 @@
       <description>RT77 / TOWER RD, RT77 / TOWER RD Radio: 9B Units: A309, E212</description>
       <guid isPermaLink="false">2026-07-06 10:02:00</guid>
       <pubDate>Mon, 06 Jul 2026 10:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:09 am</title>
-      <description>RT15NB / FISH HATCHERY RD, RT15NB / FISH HATCHERY RD Radio: 9C Units: BR226, EK224</description>
-      <guid isPermaLink="false">2026-07-06 09:09:00</guid>
-      <pubDate>Mon, 06 Jul 2026 09:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
