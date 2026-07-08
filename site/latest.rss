@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 20:48:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:23:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:06 pm</title>
+      <description>5700 BLOCK BILLET ST Radio: 9C Units: E152, T4</description>
+      <guid isPermaLink="false">2026-07-08 17:06:00</guid>
+      <pubDate>Wed, 08 Jul 2026 17:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:05 pm</title>
+      <description>7300 BLOCK HOLTER RD, REMSBERG PARK//CALLER WALKING ON LOOP Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2026-07-08 17:05:00</guid>
+      <pubDate>Wed, 08 Jul 2026 17:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:05 pm</title>
+      <description>7300 BLOCK HOLTER RD, REMSBERG PARK//CALLER WALKING ON LOOP Radio: 9C Units: BR125</description>
+      <guid isPermaLink="false">2026-07-08 17:05:00</guid>
+      <pubDate>Wed, 08 Jul 2026 17:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:04 pm</title>
+      <description>100 BLOCK GLENBROOK DR, RICHLAND GOLF CLUB - CROSS STONE COMMONS Radio: 9C Units: E121, TW7</description>
+      <guid isPermaLink="false">2026-07-08 17:04:00</guid>
+      <pubDate>Wed, 08 Jul 2026 17:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:59 pm</title>
+      <description>7300 BLOCK HOLTER RD, REMSBERG PARK//CALLER WALKING ON LOOP Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2026-07-08 16:59:00</guid>
+      <pubDate>Wed, 08 Jul 2026 16:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:53 pm</title>
+      <description>100 BLOCK W MAIN ST, ZION LUTHERAN CHURCH Radio: 9C Units: E72, TW7</description>
+      <guid isPermaLink="false">2026-07-08 16:53:00</guid>
+      <pubDate>Wed, 08 Jul 2026 16:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
       <description>5700 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A37, R3</description>
@@ -270,42 +306,6 @@
       <description>1400 BLOCK RANDALL ST, FORTH DETRIC LAB USMRIID Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-07-07 09:51:00</guid>
       <pubDate>Tue, 07 Jul 2026 09:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:33 am</title>
-      <description>8600 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-07-07 09:33:00</guid>
-      <pubDate>Tue, 07 Jul 2026 09:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:27 am</title>
-      <description>8600 BLOCK CHESTNUT GROVE RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-07-07 09:27:00</guid>
-      <pubDate>Tue, 07 Jul 2026 09:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:49 am</title>
-      <description>2500 BLOCK BALLENGER CREEK PIKE Radio: 9B Units: A148, E281</description>
-      <guid isPermaLink="false">2026-07-07 08:49:00</guid>
-      <pubDate>Tue, 07 Jul 2026 08:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:10 am</title>
-      <description>2400 BLOCK OLD NATIONAL PIKE Radio: 9C Units: BR75</description>
-      <guid isPermaLink="false">2026-07-07 08:10:00</guid>
-      <pubDate>Tue, 07 Jul 2026 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:09 am</title>
-      <description>5500 BLOCK TUSCARORA RD Radio: 9B Units: U14</description>
-      <guid isPermaLink="false">2026-07-07 07:09:00</guid>
-      <pubDate>Tue, 07 Jul 2026 07:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:08 am</title>
-      <description>5500 BLOCK TUSCARORA RD Radio: 9B Units: A148, R14</description>
-      <guid isPermaLink="false">2026-07-07 07:08:00</guid>
-      <pubDate>Tue, 07 Jul 2026 07:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
