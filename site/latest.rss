@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 03:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:34:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:14 am</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2026-07-08 00:14:00</guid>
+      <pubDate>Wed, 08 Jul 2026 00:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:13 am</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: TW7</description>
+      <guid isPermaLink="false">2026-07-08 00:13:00</guid>
+      <pubDate>Wed, 08 Jul 2026 00:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:08 am</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-07-08 00:08:00</guid>
+      <pubDate>Wed, 08 Jul 2026 00:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:44 pm</title>
       <description>1700 BLOCK N MARKET ST, CUGINO FORNO Radio: 9B Units: A29, PE23</description>
@@ -288,24 +306,6 @@
       <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:1, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Radio: 9C Units: E331, T4</description>
       <guid isPermaLink="false">2026-07-06 12:59:00</guid>
       <pubDate>Mon, 06 Jul 2026 12:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:28 pm</title>
-      <description>4000 BLOCK TUSCARORA RD Radio: 9B Units: E281</description>
-      <guid isPermaLink="false">2026-07-06 12:28:00</guid>
-      <pubDate>Mon, 06 Jul 2026 12:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:18 am</title>
-      <description>I70WB / 58MM, I70WB / 58MM Radio: 9D Units: E331, E31, R15, A339, A159, PE251, EMS902</description>
-      <guid isPermaLink="false">2026-07-06 11:18:00</guid>
-      <pubDate>Mon, 06 Jul 2026 11:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:02 am</title>
-      <description>RT77 / TOWER RD, RT77 / TOWER RD Radio: 9B Units: A309, E212</description>
-      <guid isPermaLink="false">2026-07-06 10:02:00</guid>
-      <pubDate>Mon, 06 Jul 2026 10:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
