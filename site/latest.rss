@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 13:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 14:46:25 +0000</lastBuildDate>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:40 am</title>
+      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9B Units: R2</description>
+      <guid isPermaLink="false">2026-07-08 09:40:00</guid>
+      <pubDate>Wed, 08 Jul 2026 09:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 9:32 am</title>
+      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9B Units: PE102, E132, R10, HM33, HM50, E121, A309, A229, ALS30, EK224, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-07-08 09:32:00</guid>
+      <pubDate>Wed, 08 Jul 2026 09:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:58 am</title>
       <description>WORMANS MILL RD / SHOREBIRD ST Radio: 9D Units: E111, R2, A249, ALS2, EMS901</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK-B FIELDPOINTE BLVD, Apt/Unit:301 Units: E31, E11, E501, E331, E291, R3, T4, A38, ALS20, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-07-06 17:46:00</guid>
       <pubDate>Mon, 06 Jul 2026 17:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
-      <description>6100 BLOCK MEADOW RD, LAT/ LONG MESSAGE Radio: 9B Units: A159, E331</description>
-      <guid isPermaLink="false">2026-07-06 16:32:00</guid>
-      <pubDate>Mon, 06 Jul 2026 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
-      <description>7300 BLOCK GUILFORD DR, RUBY TUESDAY - FREDERICK CROSSING Radio: 9B Units: A37, PE311</description>
-      <guid isPermaLink="false">2026-07-06 16:20:00</guid>
-      <pubDate>Mon, 06 Jul 2026 16:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
