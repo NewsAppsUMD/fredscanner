@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 23:23:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 23:49:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:38 pm</title>
+      <description>RIDGE RD / S MAIN ST Units: R15</description>
+      <guid isPermaLink="false">2026-07-08 19:38:00</guid>
+      <pubDate>Wed, 08 Jul 2026 19:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:26 pm</title>
+      <description>12500 BLOCK HESSONG BRIDGE RD, IAO Radio: 9B Units: A229, PE102, EK224</description>
+      <guid isPermaLink="false">2026-07-08 19:26:00</guid>
+      <pubDate>Wed, 08 Jul 2026 19:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:20 pm</title>
+      <description>100 BLOCK JOHN ST, STATION CC003 - WESTMINSTER FIRE ENGINE AND HOSE CO Units: A169</description>
+      <guid isPermaLink="false">2026-07-08 19:20:00</guid>
+      <pubDate>Wed, 08 Jul 2026 19:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>FHH STANDBY FOR HELICOPTER LANDING: 7:07 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
@@ -288,24 +306,6 @@
       <description>5900 BLOCK ETTERBEEK ST Radio: 9C Units: E331, E152, TW1</description>
       <guid isPermaLink="false">2026-07-07 14:17:00</guid>
       <pubDate>Tue, 07 Jul 2026 14:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:33 pm</title>
-      <description>100 BLOCK CREAMERY CT, EMMITSBURG GLASS CO Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2026-07-07 13:33:00</guid>
-      <pubDate>Tue, 07 Jul 2026 13:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:12 pm</title>
-      <description>5500 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-07-07 12:12:00</guid>
-      <pubDate>Tue, 07 Jul 2026 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:41 am</title>
-      <description>100 BLOCK S CARROLL ST, MCCLINTOCK DISTILLING Radio: 9C Units: E31, PE311, R3</description>
-      <guid isPermaLink="false">2026-07-07 11:41:00</guid>
-      <pubDate>Tue, 07 Jul 2026 11:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
