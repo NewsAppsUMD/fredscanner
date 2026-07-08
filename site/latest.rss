@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 08 Jul 2026 15:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:30:00 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 12:14 pm</title>
+      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E61</description>
+      <guid isPermaLink="false">2026-07-08 12:14:00</guid>
+      <pubDate>Wed, 08 Jul 2026 12:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:11 am</title>
       <description>4700 BLOCK YARD WASTE CT, COUNTY LANDFILL TRANSFER STATION Radio: 9C Units: E331, T4</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCKA BUCKEYSTOWN PIKE, SAMS CLUB FUEL STATION Radio: 9C Units: PE311, T4</description>
       <guid isPermaLink="false">2026-07-06 19:40:00</guid>
       <pubDate>Mon, 06 Jul 2026 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:13 pm</title>
-      <description>E LINCOLN AVE / CREAMERY RD Radio: 9C Units: E61</description>
-      <guid isPermaLink="false">2026-07-06 18:13:00</guid>
-      <pubDate>Mon, 06 Jul 2026 18:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
