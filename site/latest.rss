@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 17:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:34:02 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:29 pm</title>
+      <description>5000 BLOCK JUDICIAL WAY Radio: 9C Units: TT23, E231</description>
+      <guid isPermaLink="false">2026-07-09 14:29:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:17 pm</title>
+      <description>5400 BLOCK LYNDALE WAY Radio: 9C Units: E121, TT23</description>
+      <guid isPermaLink="false">2026-07-09 14:17:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:15 pm</title>
+      <description>100 BLOCK STEINER WAY Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-09 14:15:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SINKING VEHICLE: 2:12 pm</title>
+      <description>NEW DESIGN RD / ENGLISH MUFFIN WAY Units: PE311, E201, R14, TW1, TR29, BT29, BT28, DIVE15, A318, A38, ALS31, ALS4, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-07-09 14:12:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:00 pm</title>
+      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: BC903</description>
+      <guid isPermaLink="false">2026-07-09 14:00:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:57 pm</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: E331, TW1</description>
+      <guid isPermaLink="false">2026-07-09 13:57:00</guid>
+      <pubDate>Thu, 09 Jul 2026 13:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:50 pm</title>
+      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: ALS31</description>
+      <guid isPermaLink="false">2026-07-09 13:50:00</guid>
+      <pubDate>Thu, 09 Jul 2026 13:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:45 pm</title>
+      <description>I70WB / RT75, I70WB / RT75 Radio: 9B Units: E251, E331, R15, A159, A339</description>
+      <guid isPermaLink="false">2026-07-09 13:45:00</guid>
+      <pubDate>Thu, 09 Jul 2026 13:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FHH STANDBY FOR HELICOPTER LANDING: 1:33 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
+      <guid isPermaLink="false">2026-07-09 13:33:00</guid>
+      <pubDate>Thu, 09 Jul 2026 13:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:18 pm</title>
       <description>W PATRICK ST / S MCCAIN DR Radio: 9B Units: A19, E11</description>
@@ -252,60 +306,6 @@
       <description>WORMANS MILL RD / SHOREBIRD ST Radio: 9D Units: E111, R2, A249, ALS2, EMS901</description>
       <guid isPermaLink="false">2026-07-08 07:58:00</guid>
       <pubDate>Wed, 08 Jul 2026 07:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:14 am</title>
-      <description>11700 BLOCK HUNT CLUB RD Radio: 9B Units: E162</description>
-      <guid isPermaLink="false">2026-07-08 07:14:00</guid>
-      <pubDate>Wed, 08 Jul 2026 07:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:10 am</title>
-      <description>100 BLOCK BLK RAMP RT18100 BLOCK TO RT34100 BLOCKEB -PETE RAMP Radio: 9B Units: R14</description>
-      <guid isPermaLink="false">2026-07-08 05:10:00</guid>
-      <pubDate>Wed, 08 Jul 2026 05:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:10 am</title>
-      <description>100 BLOCK BLK RAMP RT18100 BLOCK TO RT34100 BLOCKEB -PETE RAMP Radio: 9B Units: R19</description>
-      <guid isPermaLink="false">2026-07-08 05:10:00</guid>
-      <pubDate>Wed, 08 Jul 2026 05:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:05 am</title>
-      <description>100 BLOCK BLK RAMP RT18100 BLOCK TO RT34100 BLOCKEB -PETE RAMP Radio: 9B Units: E201, R19, A209, ALS20, EMS901, PE52</description>
-      <guid isPermaLink="false">2026-07-08 05:05:00</guid>
-      <pubDate>Wed, 08 Jul 2026 05:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:31 am</title>
-      <description>400 BLOCK HERRINGBONE WAY Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-07-08 02:31:00</guid>
-      <pubDate>Wed, 08 Jul 2026 02:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:14 am</title>
-      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: T5</description>
-      <guid isPermaLink="false">2026-07-08 00:14:00</guid>
-      <pubDate>Wed, 08 Jul 2026 00:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:13 am</title>
-      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: TW7</description>
-      <guid isPermaLink="false">2026-07-08 00:13:00</guid>
-      <pubDate>Wed, 08 Jul 2026 00:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:08 am</title>
-      <description>1200 BLOCK MAPLE TERRACE LN, Bldg:500, MAPLE TERRACE APTS Radio: 9C Units: PE52, T5</description>
-      <guid isPermaLink="false">2026-07-08 00:08:00</guid>
-      <pubDate>Wed, 08 Jul 2026 00:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:44 pm</title>
-      <description>1700 BLOCK N MARKET ST, CUGINO FORNO Radio: 9B Units: A29, PE23</description>
-      <guid isPermaLink="false">2026-07-07 21:44:00</guid>
-      <pubDate>Tue, 07 Jul 2026 21:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
