@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 18:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:30:50 +0000</lastBuildDate>
+    <item>
+      <title>STRANDED IN FLOODWATER: 3:26 pm</title>
+      <description>LIME KILN RD / LIME KILN WAY Radio: 9C Units: E311, BT29, A38</description>
+      <guid isPermaLink="false">2026-07-09 15:26:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:25 pm</title>
+      <description>GREEN VALLEY RD / FINGERBOARD RD Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-07-09 15:25:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:24 pm</title>
+      <description>3100 BLOCK OLD NATIONAL PIKE, POOLE &amp; SONS EXCAVATING Units: A78, E72</description>
+      <guid isPermaLink="false">2026-07-09 15:24:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 3:19 pm</title>
+      <description>5900 BLOCK PECKING STONE ST Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-07-09 15:19:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD OUTSIDE: 3:06 pm</title>
+      <description>DOCTOR PERRY RD / URBANA PIKE, RT355 / BIG WOODS RD Units: E231</description>
+      <guid isPermaLink="false">2026-07-09 15:06:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:02 pm</title>
+      <description>3400 BLOCK BIG WOODS RD, IAO - NEAR THE IDLEWILD FARM - 3400 BLOCK BIG WOODS RD Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-07-09 15:02:00</guid>
+      <pubDate>Thu, 09 Jul 2026 15:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:57 pm</title>
+      <description>1700 BLOCK DOGWOOD DR Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-09 14:57:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:38 pm</title>
+      <description>WELDON RD / BARNES RD N Radio: 9C Units: CCBR145</description>
+      <guid isPermaLink="false">2026-07-09 14:38:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:37 pm</title>
+      <description>5500 BLOCK DOUBS RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-07-09 14:37:00</guid>
+      <pubDate>Thu, 09 Jul 2026 14:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:29 pm</title>
       <description>5000 BLOCK JUDICIAL WAY Radio: 9C Units: TT23, E231</description>
@@ -252,60 +306,6 @@
       <description>3500 BLOCK HOPELAND RD Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2026-07-08 15:47:00</guid>
       <pubDate>Wed, 08 Jul 2026 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:14 pm</title>
-      <description>I70EB / 38MM Radio: PS1 Units: E82</description>
-      <guid isPermaLink="false">2026-07-08 15:14:00</guid>
-      <pubDate>Wed, 08 Jul 2026 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:10 pm</title>
-      <description>12000 BLOCK PENTERRA MANOR LN, CREAGERSTOWN PARK Radio: 9C Units: E91</description>
-      <guid isPermaLink="false">2026-07-08 15:10:00</guid>
-      <pubDate>Wed, 08 Jul 2026 15:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 2:45 pm</title>
-      <description>11800 BLOCK ROPP LN Radio: 6B Units: BR285</description>
-      <guid isPermaLink="false">2026-07-08 14:45:00</guid>
-      <pubDate>Wed, 08 Jul 2026 14:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:01 pm</title>
-      <description>N MARKET ST / E THIRTEENTH ST Radio: 9B Units: A29, R3</description>
-      <guid isPermaLink="false">2026-07-08 14:01:00</guid>
-      <pubDate>Wed, 08 Jul 2026 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 12:14 pm</title>
-      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER Radio: 9D Units: E61</description>
-      <guid isPermaLink="false">2026-07-08 12:14:00</guid>
-      <pubDate>Wed, 08 Jul 2026 12:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:11 am</title>
-      <description>4700 BLOCK YARD WASTE CT, COUNTY LANDFILL TRANSFER STATION Radio: 9C Units: E331, T4</description>
-      <guid isPermaLink="false">2026-07-08 11:11:00</guid>
-      <pubDate>Wed, 08 Jul 2026 11:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 9:40 am</title>
-      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9B Units: R2</description>
-      <guid isPermaLink="false">2026-07-08 09:40:00</guid>
-      <pubDate>Wed, 08 Jul 2026 09:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 9:32 am</title>
-      <description>100 BLOCK FREDERICK RD, SUNOCO - THURMONT Radio: 9B Units: PE102, E132, R10, HM33, HM50, E121, A309, A229, ALS30, EK224, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-07-08 09:32:00</guid>
-      <pubDate>Wed, 08 Jul 2026 09:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:58 am</title>
-      <description>WORMANS MILL RD / SHOREBIRD ST Radio: 9D Units: E111, R2, A249, ALS2, EMS901</description>
-      <guid isPermaLink="false">2026-07-08 07:58:00</guid>
-      <pubDate>Wed, 08 Jul 2026 07:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
