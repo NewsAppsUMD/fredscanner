@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 02:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 03:43:22 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 10:59 pm</title>
+      <description>5600 BLOCK QUEEN ANNE CT Radio: 9C Units: R15</description>
+      <guid isPermaLink="false">2026-07-08 22:59:00</guid>
+      <pubDate>Wed, 08 Jul 2026 22:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 10:54 pm</title>
+      <description>5600 BLOCK QUEEN ANNE CT Radio: 9C Units: E152, E331, R3</description>
+      <guid isPermaLink="false">2026-07-08 22:54:00</guid>
+      <pubDate>Wed, 08 Jul 2026 22:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>FHH STANDBY FOR HELICOPTER LANDING: 9:55 pm</title>
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
@@ -294,18 +306,6 @@
       <description>CHESTNUT GROVE RD / OAK LEAF CT Radio: 9C Units: BR176</description>
       <guid isPermaLink="false">2026-07-07 15:47:00</guid>
       <pubDate>Tue, 07 Jul 2026 15:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:46 pm</title>
-      <description>600 BLOCK E POTOMAC ST, BRUNSWICK CITY PARK Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-07-07 15:46:00</guid>
-      <pubDate>Tue, 07 Jul 2026 15:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:40 pm</title>
-      <description>600 BLOCK E POTOMAC ST, BRUNSWICK CITY PARK Radio: 9C Units: PE52, T5</description>
-      <guid isPermaLink="false">2026-07-07 15:40:00</guid>
-      <pubDate>Tue, 07 Jul 2026 15:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
