@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 09 Jul 2026 21:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:02:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:30 pm</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:103, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: E11, TW1</description>
+      <guid isPermaLink="false">2026-07-09 17:30:00</guid>
+      <pubDate>Thu, 09 Jul 2026 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>WOODS FIRE: 5:20 pm</title>
       <description>8200 BLOCK EMERSON BURRIER RD Radio: 9C Units: BR156, CCK14</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK GLENBROOK DR, RICHLAND GOLF CLUB - CROSS STONE COMMONS Radio: 9C Units: E121, TW7</description>
       <guid isPermaLink="false">2026-07-08 17:04:00</guid>
       <pubDate>Wed, 08 Jul 2026 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:59 pm</title>
-      <description>7300 BLOCK HOLTER RD, REMSBERG PARK//CALLER WALKING ON LOOP Radio: 9C Units: BR75</description>
-      <guid isPermaLink="false">2026-07-08 16:59:00</guid>
-      <pubDate>Wed, 08 Jul 2026 16:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
