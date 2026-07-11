@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 17:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:45:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:25 pm</title>
+      <description>URBANA PIKE / BUCKEYSTOWN PIKE Radio: 9B Units: A38, R3</description>
+      <guid isPermaLink="false">2026-07-11 13:25:00</guid>
+      <pubDate>Sat, 11 Jul 2026 13:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:30 am</title>
       <description>STONEY CREEK DR / JEFFERSON PIKE Radio: 9B Units: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>GREEN VALLEY RD / FINGERBOARD RD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2026-07-09 15:25:00</guid>
       <pubDate>Thu, 09 Jul 2026 15:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:24 pm</title>
-      <description>3100 BLOCK OLD NATIONAL PIKE, POOLE &amp; SONS EXCAVATING Units: A78, E72</description>
-      <guid isPermaLink="false">2026-07-09 15:24:00</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
