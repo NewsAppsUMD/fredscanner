@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 10:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:20:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:41 am</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9D Units: E72, R8, A89, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-11 06:41:00</guid>
+      <pubDate>Sat, 11 Jul 2026 06:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:07 am</title>
       <description>400 BLOCK PROSPECT BLVD, VETURGENCY - FESTIVAL CENTER Radio: 9C Units: BR35</description>
@@ -300,12 +306,6 @@
       <description>WELDON RD / BARNES RD N Radio: 9C Units: CCBR145</description>
       <guid isPermaLink="false">2026-07-09 14:38:00</guid>
       <pubDate>Thu, 09 Jul 2026 14:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:37 pm</title>
-      <description>5500 BLOCK DOUBS RD Radio: 9C Units: E141</description>
-      <guid isPermaLink="false">2026-07-09 14:37:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
