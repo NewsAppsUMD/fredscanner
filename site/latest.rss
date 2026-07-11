@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 19:51:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:15:43 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:04 pm</title>
+      <description>2700 BLOCK ADAMS ST, STATION 14 Units: E152</description>
+      <guid isPermaLink="false">2026-07-11 16:04:00</guid>
+      <pubDate>Sat, 11 Jul 2026 16:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:53 pm</title>
+      <description>1500 BLOCK VOLUNTEER DR, STATION 5 Units: RE74</description>
+      <guid isPermaLink="false">2026-07-11 15:53:00</guid>
+      <pubDate>Sat, 11 Jul 2026 15:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 3:35 pm</title>
       <description>100 BLOCK N BERLIN PIKE Radio: 6DTAC11 Units: ALS20, E201, R14, A199, E52</description>
@@ -294,18 +306,6 @@
       <description>8200 BLOCK EMERSON BURRIER RD Radio: 9C Units: BR156, CCK14</description>
       <guid isPermaLink="false">2026-07-09 17:20:00</guid>
       <pubDate>Thu, 09 Jul 2026 17:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 5:15 pm</title>
-      <description>8200 BLOCK EMERSON BURRIER RD Radio: 9C Units: RE171, K17</description>
-      <guid isPermaLink="false">2026-07-09 17:15:00</guid>
-      <pubDate>Thu, 09 Jul 2026 17:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:14 pm</title>
-      <description>8200 BLOCK EMERSON BURRIER RD Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-07-09 17:14:00</guid>
-      <pubDate>Thu, 09 Jul 2026 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
