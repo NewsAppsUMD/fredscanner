@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 04:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 05:26:50 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 12:07 am</title>
+      <description>400 BLOCK PROSPECT BLVD, VETURGENCY - FESTIVAL CENTER Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-07-11 00:07:00</guid>
+      <pubDate>Sat, 11 Jul 2026 00:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>ATV ACCIDENT: 9:21 pm</title>
       <description>11800 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: E152, RE171, A179, ALS17, BC902, EMS901</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK DOUBS RD Radio: 9C Units: E141</description>
       <guid isPermaLink="false">2026-07-09 14:37:00</guid>
       <pubDate>Thu, 09 Jul 2026 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:29 pm</title>
-      <description>5000 BLOCK JUDICIAL WAY Radio: 9C Units: TT23, E231</description>
-      <guid isPermaLink="false">2026-07-09 14:29:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
