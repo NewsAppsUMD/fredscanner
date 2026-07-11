@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 00:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 01:39:27 +0000</lastBuildDate>
+    <item>
+      <title>ATV ACCIDENT: 9:21 pm</title>
+      <description>11800 BLOCK OLD ANNAPOLIS RD Radio: 9D Units: E152, RE171, A179, ALS17, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-07-10 21:21:00</guid>
+      <pubDate>Fri, 10 Jul 2026 21:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:14 pm</title>
+      <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Radio: 9B Units: A18</description>
+      <guid isPermaLink="false">2026-07-10 21:14:00</guid>
+      <pubDate>Fri, 10 Jul 2026 21:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:07 pm</title>
+      <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-07-10 21:07:00</guid>
+      <pubDate>Fri, 10 Jul 2026 21:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:51 pm</title>
       <description>19800 BLOCK WESTERLY AVE Radio: 7A4 Units: TT23</description>
@@ -288,24 +306,6 @@
       <description>5000 BLOCK JUDICIAL WAY Radio: 9C Units: TT23, E231</description>
       <guid isPermaLink="false">2026-07-09 14:29:00</guid>
       <pubDate>Thu, 09 Jul 2026 14:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:17 pm</title>
-      <description>5400 BLOCK LYNDALE WAY Radio: 9C Units: E121, TT23</description>
-      <guid isPermaLink="false">2026-07-09 14:17:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:15 pm</title>
-      <description>100 BLOCK STEINER WAY Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-09 14:15:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SINKING VEHICLE: 2:12 pm</title>
-      <description>NEW DESIGN RD / ENGLISH MUFFIN WAY Units: PE311, E201, R14, TW1, TR29, BT29, BT28, DIVE15, A318, A38, ALS31, ALS4, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-07-09 14:12:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
