@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 00:22:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:58:09 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 8:51 pm</title>
+      <description>19800 BLOCK WESTERLY AVE Radio: 7A4 Units: TT23</description>
+      <guid isPermaLink="false">2026-07-10 20:51:00</guid>
+      <pubDate>Fri, 10 Jul 2026 20:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 8:13 pm</title>
       <description>CUNNINGHAM FALLS PARK RD / RT15, CUNNINGHAM FALLS PARK RD / RT15 Radio: 9C Units: PE102</description>
@@ -300,12 +306,6 @@
       <description>NEW DESIGN RD / ENGLISH MUFFIN WAY Units: PE311, E201, R14, TW1, TR29, BT29, BT28, DIVE15, A318, A38, ALS31, ALS4, BC902, SAF901, EMS902</description>
       <guid isPermaLink="false">2026-07-09 14:12:00</guid>
       <pubDate>Thu, 09 Jul 2026 14:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:00 pm</title>
-      <description>5300 BLOCK PUBLIC SAFETY PL, PUBLIC SAFETY TRAINING CENTER Units: BC903</description>
-      <guid isPermaLink="false">2026-07-09 14:00:00</guid>
-      <pubDate>Thu, 09 Jul 2026 14:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
