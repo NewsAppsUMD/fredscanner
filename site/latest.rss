@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 14:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 15:20:13 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 11:13 am</title>
+      <description>13100 BLOCK MOUNTAIN RD, STONE MANOR VINEYARD &amp; ORCHARD Radio: 6DTAC11 Units: A199</description>
+      <guid isPermaLink="false">2026-07-12 11:13:00</guid>
+      <pubDate>Sun, 12 Jul 2026 11:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 10:36 am</title>
       <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT4100 BLOCK-A RAMP Radio: 9C Units: BR125</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK N MARKET ST, STATION 2 Units: A196</description>
       <guid isPermaLink="false">2026-07-10 10:18:00</guid>
       <pubDate>Fri, 10 Jul 2026 10:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:17 am</title>
-      <description>500 BLOCK N MARKET ST, STATION 2 Units: A196</description>
-      <guid isPermaLink="false">2026-07-10 10:17:00</guid>
-      <pubDate>Fri, 10 Jul 2026 10:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
