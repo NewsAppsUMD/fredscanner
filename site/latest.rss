@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Jul 2026 23:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:22:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:12 pm</title>
+      <description>ROCKY SPRINGS RD / OLD RECEIVER RD Radio: 9D Units: A18</description>
+      <guid isPermaLink="false">2026-07-11 20:12:00</guid>
+      <pubDate>Sat, 11 Jul 2026 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:11 pm</title>
+      <description>ROCKY SPRINGS RD / OLD RECEIVER RD Radio: 9D Units: BC901, EMS901</description>
+      <guid isPermaLink="false">2026-07-11 20:11:00</guid>
+      <pubDate>Sat, 11 Jul 2026 20:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:09 pm</title>
+      <description>ROCKY SPRINGS RD / OLD RECEIVER RD Radio: 9D Units: E11, R3, A19, ALS29, EMS901</description>
+      <guid isPermaLink="false">2026-07-11 20:09:00</guid>
+      <pubDate>Sat, 11 Jul 2026 20:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:02 pm</title>
+      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: E111, E291, R2, A229, A299, EK224</description>
+      <guid isPermaLink="false">2026-07-11 20:02:00</guid>
+      <pubDate>Sat, 11 Jul 2026 20:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:48 pm</title>
+      <description>RT15NB / RODDY RD, RT15NB / RODDY RD Units: A69, E102</description>
+      <guid isPermaLink="false">2026-07-11 19:48:00</guid>
+      <pubDate>Sat, 11 Jul 2026 19:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 6:03 pm</title>
       <description>13700 BLOCK MOTTERS STATION RD Radio: 9C Units: E132, EK134, BR96</description>
@@ -276,36 +306,6 @@
       <description>I70EB / MONUMENT RD, I70EB / MONUMENT RD Radio: 9D Units: E72, R8, A89, ALS8, BC903, EMS901</description>
       <guid isPermaLink="false">2026-07-10 08:56:00</guid>
       <pubDate>Fri, 10 Jul 2026 08:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:15 am</title>
-      <description>1300 BLOCK FOX RUN CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-07-10 08:15:00</guid>
-      <pubDate>Fri, 10 Jul 2026 08:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:24 am</title>
-      <description>I270NB / BAKER VALLEY RD, I270NB / BAKER VALLEY RD Radio: 9B Units: E231, PE311, R3, A238, A37, TT23</description>
-      <guid isPermaLink="false">2026-07-10 01:24:00</guid>
-      <pubDate>Fri, 10 Jul 2026 01:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 12:54 am</title>
-      <description>400 BLOCK S JEFFERSON ST, MCDONALDS - PROSPECT PLAZA Radio: 9C Units: E33, E11, T4</description>
-      <guid isPermaLink="false">2026-07-10 00:54:00</guid>
-      <pubDate>Fri, 10 Jul 2026 00:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:31 pm</title>
-      <description>400 BLOCK W SEVENTH ST Radio: 9C Units: PE23, T4</description>
-      <guid isPermaLink="false">2026-07-09 19:31:00</guid>
-      <pubDate>Thu, 09 Jul 2026 19:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:22 pm</title>
-      <description>WELDON RD / TARR DR Radio: 9C Units: CCBR145</description>
-      <guid isPermaLink="false">2026-07-09 19:22:00</guid>
-      <pubDate>Thu, 09 Jul 2026 19:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
