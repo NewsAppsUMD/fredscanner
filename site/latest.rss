@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 15:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 15:46:18 +0000</lastBuildDate>
+    <item>
+      <title>FHH STANDBY FOR HELICOPTER LANDING: 11:36 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
+      <guid isPermaLink="false">2026-07-12 11:36:00</guid>
+      <pubDate>Sun, 12 Jul 2026 11:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 11:13 am</title>
       <description>13100 BLOCK MOUNTAIN RD, STONE MANOR VINEYARD &amp; ORCHARD Radio: 6DTAC11 Units: A199</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / MOUNTAINDALE RD, RT15SB / MOUNTAINDALE RD Radio: 9B Units: E291, E111, R2, A229, A196, EK224</description>
       <guid isPermaLink="false">2026-07-10 10:43:00</guid>
       <pubDate>Fri, 10 Jul 2026 10:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:18 am</title>
-      <description>500 BLOCK N MARKET ST, STATION 2 Units: A196</description>
-      <guid isPermaLink="false">2026-07-10 10:18:00</guid>
-      <pubDate>Fri, 10 Jul 2026 10:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
