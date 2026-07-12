@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Jul 2026 22:15:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:44:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:33 pm</title>
+      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: A229</description>
+      <guid isPermaLink="false">2026-07-12 18:33:00</guid>
+      <pubDate>Sun, 12 Jul 2026 18:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:30 pm</title>
+      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: A309</description>
+      <guid isPermaLink="false">2026-07-12 18:30:00</guid>
+      <pubDate>Sun, 12 Jul 2026 18:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:19 pm</title>
+      <description>6400 BLOCK FOXVILLE RD Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-07-12 18:19:00</guid>
+      <pubDate>Sun, 12 Jul 2026 18:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 5:59 pm</title>
       <description>5800 BLOCK SHEPHERD DR Radio: 9C Units: E331</description>
@@ -288,24 +306,6 @@
       <description>4300 BLOCK ARABY CHURCH RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-07-10 18:11:00</guid>
       <pubDate>Fri, 10 Jul 2026 18:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:44 pm</title>
-      <description>RT85 / RT355, RT85 / RT355 Radio: 9B Units: R3</description>
-      <guid isPermaLink="false">2026-07-10 17:44:00</guid>
-      <pubDate>Fri, 10 Jul 2026 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:42 pm</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:610 Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-07-10 17:42:00</guid>
-      <pubDate>Fri, 10 Jul 2026 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:19 pm</title>
-      <description>STADIUM DR / S MARKET ST Radio: 9D Units: A38</description>
-      <guid isPermaLink="false">2026-07-10 17:19:00</guid>
-      <pubDate>Fri, 10 Jul 2026 17:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
