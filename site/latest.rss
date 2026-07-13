@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 01:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 02:15:26 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 9:58 pm</title>
+      <description>SANDYHOOK RD / HARPERS FERRY RD Units: R19, A197</description>
+      <guid isPermaLink="false">2026-07-12 21:58:00</guid>
+      <pubDate>Sun, 12 Jul 2026 21:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:42 pm</title>
+      <description>I70EB / 49MM, I70EB / 49MM Radio: 9B Units: A89, E82</description>
+      <guid isPermaLink="false">2026-07-12 21:42:00</guid>
+      <pubDate>Sun, 12 Jul 2026 21:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 9:30 pm</title>
+      <description>8200 BLOCK BALL RD Radio: 9C Units: E231, E33, K23, TT23</description>
+      <guid isPermaLink="false">2026-07-12 21:30:00</guid>
+      <pubDate>Sun, 12 Jul 2026 21:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 7:04 pm</title>
       <description>7200 BLOCK W HUFF BLVD Radio: 9C Units: E501, E11</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2026-07-10 21:07:00</guid>
       <pubDate>Fri, 10 Jul 2026 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:51 pm</title>
-      <description>19800 BLOCK WESTERLY AVE Radio: 7A4 Units: TT23</description>
-      <guid isPermaLink="false">2026-07-10 20:51:00</guid>
-      <pubDate>Fri, 10 Jul 2026 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:13 pm</title>
-      <description>CUNNINGHAM FALLS PARK RD / RT15, CUNNINGHAM FALLS PARK RD / RT15 Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2026-07-10 20:13:00</guid>
-      <pubDate>Fri, 10 Jul 2026 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:47 pm</title>
-      <description>1300 BLOCK HUGHES FORD RD, GARAGE Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-07-10 19:47:00</guid>
-      <pubDate>Fri, 10 Jul 2026 19:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
