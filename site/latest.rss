@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 13 Jul 2026 18:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:57:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
+      <guid isPermaLink="false">2026-07-13 14:42:00</guid>
+      <pubDate>Mon, 13 Jul 2026 14:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:22 am</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, SHEETZ - FSK MALL Radio: 9B Units: A318, PE311</description>
@@ -300,12 +306,6 @@
       <description>W MAIN ST / RAMP RT15SB TO RT77 RAMP Radio: 9D Units: PE102, R10, A229, ALS30, EMS902</description>
       <guid isPermaLink="false">2026-07-11 14:40:00</guid>
       <pubDate>Sat, 11 Jul 2026 14:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:25 pm</title>
-      <description>URBANA PIKE / BUCKEYSTOWN PIKE Radio: 9B Units: A38, R3</description>
-      <guid isPermaLink="false">2026-07-11 13:25:00</guid>
-      <pubDate>Sat, 11 Jul 2026 13:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
