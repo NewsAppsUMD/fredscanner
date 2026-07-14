@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 14 Jul 2026 00:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 00:56:15 +0000</lastBuildDate>
+    <item>
+      <title>FHH STANDBY FOR HELICOPTER LANDING: 8:51 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
+      <guid isPermaLink="false">2026-07-13 20:51:00</guid>
+      <pubDate>Mon, 13 Jul 2026 20:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 8:35 pm</title>
+      <description>500 BLOCK ISAAC RUSSELL ST, TRO Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-07-13 20:35:00</guid>
+      <pubDate>Mon, 13 Jul 2026 20:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE: 8:26 pm</title>
+      <description>17500 BLOCK BLK OLD GETTYSBURG RD, IAO Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-07-13 20:26:00</guid>
+      <pubDate>Mon, 13 Jul 2026 20:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:15 pm</title>
       <description>500 BLOCK HODSON DR, HOOD COLLEGE - MEYRAN HALL Radio: 9C Units: E11</description>
@@ -288,24 +306,6 @@
       <description>ROCKY SPRINGS RD / OLD RECEIVER RD Radio: 9D Units: BC901, EMS901</description>
       <guid isPermaLink="false">2026-07-11 20:11:00</guid>
       <pubDate>Sat, 11 Jul 2026 20:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 8:09 pm</title>
-      <description>ROCKY SPRINGS RD / OLD RECEIVER RD Radio: 9D Units: E11, R3, A19, ALS29, EMS901</description>
-      <guid isPermaLink="false">2026-07-11 20:09:00</guid>
-      <pubDate>Sat, 11 Jul 2026 20:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:02 pm</title>
-      <description>RT15SB / BIGGS FORD RD, RT15SB / BIGGS FORD RD Radio: 9B Units: E111, E291, R2, A229, A299, EK224</description>
-      <guid isPermaLink="false">2026-07-11 20:02:00</guid>
-      <pubDate>Sat, 11 Jul 2026 20:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:48 pm</title>
-      <description>RT15NB / RODDY RD, RT15NB / RODDY RD Units: A69, E102</description>
-      <guid isPermaLink="false">2026-07-11 19:48:00</guid>
-      <pubDate>Sat, 11 Jul 2026 19:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
