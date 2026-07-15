@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 14:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:29:00 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 11:10 am</title>
+      <description>100 BLOCK N CHURCH ST, STATION 30 Units: A38</description>
+      <guid isPermaLink="false">2026-07-15 11:10:00</guid>
+      <pubDate>Wed, 15 Jul 2026 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:08 am</title>
+      <description>GAS HOUSE PIKE / LINGANORE RD Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2026-07-15 11:08:00</guid>
+      <pubDate>Wed, 15 Jul 2026 11:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:03 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-07-15 11:03:00</guid>
+      <pubDate>Wed, 15 Jul 2026 11:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 11:03 am</title>
+      <description>200 BLOCK MILLERSTOWN RD Units: TW6</description>
+      <guid isPermaLink="false">2026-07-15 11:03:00</guid>
+      <pubDate>Wed, 15 Jul 2026 11:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 10:58 am</title>
+      <description>100 BLOCK N CHURCH ST, STATION 30 Units: ALS31</description>
+      <guid isPermaLink="false">2026-07-15 10:58:00</guid>
+      <pubDate>Wed, 15 Jul 2026 10:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 10:49 am</title>
+      <description>N SETON AVE / RT15, N SETON AVE / RT15 Radio: 9B Units: PE102</description>
+      <guid isPermaLink="false">2026-07-15 10:49:00</guid>
+      <pubDate>Wed, 15 Jul 2026 10:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 10:36 am</title>
+      <description>N SETON AVE / RT15, N SETON AVE / RT15 Radio: 9B Units: A307</description>
+      <guid isPermaLink="false">2026-07-15 10:36:00</guid>
+      <pubDate>Wed, 15 Jul 2026 10:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 10:26 am</title>
       <description>N SETON AVE / RT15, N SETON AVE / RT15 Radio: 9B Units: ALS30</description>
@@ -264,48 +306,6 @@
       <description>9300 BLOCK PENROSE ST Radio: 9C Units: TT23</description>
       <guid isPermaLink="false">2026-07-13 17:56:00</guid>
       <pubDate>Mon, 13 Jul 2026 17:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:39 pm</title>
-      <description>W PATRICK ST / HOKE PL Radio: 9D Units: A19, ALS2, E11, EMS902</description>
-      <guid isPermaLink="false">2026-07-13 17:39:00</guid>
-      <pubDate>Mon, 13 Jul 2026 17:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 4:44 pm</title>
-      <description>GOLF CLUB TER / PENN SHOP RD Radio: 9B Units: PE251, R15, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-07-13 16:44:00</guid>
-      <pubDate>Mon, 13 Jul 2026 16:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:42 pm</title>
-      <description>GOLF CLUB TER / PENN SHOP RD Radio: 9B Units: A259</description>
-      <guid isPermaLink="false">2026-07-13 16:42:00</guid>
-      <pubDate>Mon, 13 Jul 2026 16:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, CVS PHARMACY - BALLENGER CENTER DR Radio: 9B Units: A209, PE311</description>
-      <guid isPermaLink="false">2026-07-13 15:59:00</guid>
-      <pubDate>Mon, 13 Jul 2026 15:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 3:41 pm</title>
-      <description>1300 BLOCK W SEVENTH ST, STAPLES - SEVENTH STREET SHOPPING CENTER Radio: 9D Units: A28, ALS2, E501, EMS901</description>
-      <guid isPermaLink="false">2026-07-13 15:41:00</guid>
-      <pubDate>Mon, 13 Jul 2026 15:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:08 pm</title>
-      <description>I70EB / RT340-15, I70EB / RT340-15 Radio: 9D Units: E121, E33, R3, A38, A129, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-07-13 15:08:00</guid>
-      <pubDate>Mon, 13 Jul 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:42 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231</description>
-      <guid isPermaLink="false">2026-07-13 14:42:00</guid>
-      <pubDate>Mon, 13 Jul 2026 14:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
