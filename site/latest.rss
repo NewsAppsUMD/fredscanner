@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 15 Jul 2026 12:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:30:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:01 am</title>
+      <description>4700 BLOCK ARCADIA DR, Bldg:G Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-07-15 09:01:00</guid>
+      <pubDate>Wed, 15 Jul 2026 09:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:44 am</title>
+      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S&amp;V PARTNERSHIP Radio: 9C Units: E331, TT4</description>
+      <guid isPermaLink="false">2026-07-15 08:44:00</guid>
+      <pubDate>Wed, 15 Jul 2026 08:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:37 am</title>
+      <description>200 BLOCK E MAIN ST, VALLEY ONE STOP Radio: 9C Units: BR75</description>
+      <guid isPermaLink="false">2026-07-15 08:37:00</guid>
+      <pubDate>Wed, 15 Jul 2026 08:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>FHH STANDBY FOR HELICOPTER LANDING: 8:19 am</title>
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
@@ -288,24 +306,6 @@
       <description>GREEN VALLEY RD / BALDWIN RD Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2026-07-13 10:01:00</guid>
       <pubDate>Mon, 13 Jul 2026 10:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:10 am</title>
-      <description>400 BLOCK MAIN ST, MYERSVILLE ELEMENTARY SCHOOL Radio: 9C Units: E82, TW7</description>
-      <guid isPermaLink="false">2026-07-13 08:10:00</guid>
-      <pubDate>Mon, 13 Jul 2026 08:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:27 am</title>
-      <description>RT80 / RT75, RT80 / RT75 Radio: 9C Units: PE251</description>
-      <guid isPermaLink="false">2026-07-13 06:27:00</guid>
-      <pubDate>Mon, 13 Jul 2026 06:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:26 pm</title>
-      <description>E PATRICK ST / HAMILTON AVE Radio: 9B Units: A37, E33</description>
-      <guid isPermaLink="false">2026-07-12 23:26:00</guid>
-      <pubDate>Sun, 12 Jul 2026 23:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
