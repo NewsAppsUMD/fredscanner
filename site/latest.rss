@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 01:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:00:08 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 10:11 pm</title>
+      <description>13500 BLOCK OLD FREDERICK RD, LOYS STATION PARK Radio: 9C Units: E132</description>
+      <guid isPermaLink="false">2026-07-15 22:11:00</guid>
+      <pubDate>Wed, 15 Jul 2026 22:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:45 pm</title>
+      <description>10800 BLOCK GLOWING HEARTH WAY Radio: 9C Units: PE251, TT23</description>
+      <guid isPermaLink="false">2026-07-15 21:45:00</guid>
+      <pubDate>Wed, 15 Jul 2026 21:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:22 pm</title>
       <description>I270SB / NEW DESIGN RD, I270SB / NEW DESIGN RD Radio: 9B Units: E11, E231, R3, A18, A238</description>
@@ -294,18 +306,6 @@
       <description>20600 BLOCK BOLAND FARM RD, STATION 734 Units: R14</description>
       <guid isPermaLink="false">2026-07-14 17:59:00</guid>
       <pubDate>Tue, 14 Jul 2026 17:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:21 pm</title>
-      <description>6800 BLOCK ARBOR CT Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-07-14 17:21:00</guid>
-      <pubDate>Tue, 14 Jul 2026 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 5:11 pm</title>
-      <description>20000 BLOCK S270 X22 TO X18 HWY S270B RT109 - RT121, S270B RT109 - RT121 Radio: 7A1 Units: A239</description>
-      <guid isPermaLink="false">2026-07-14 17:11:00</guid>
-      <pubDate>Tue, 14 Jul 2026 17:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
