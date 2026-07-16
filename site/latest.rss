@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 13:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:37:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:30 am</title>
+      <description>I70EB / E SOUTH ST, I70EB / E SOUTH ST Radio: 9B Units: PE311, E331, R20, A37, A339, TT23</description>
+      <guid isPermaLink="false">2026-07-16 10:30:00</guid>
+      <pubDate>Thu, 16 Jul 2026 10:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 10:28 am</title>
+      <description>1600 BLOCK NALLIN FARM POND RD Radio: 9C Units: E501, R3, A18</description>
+      <guid isPermaLink="false">2026-07-16 10:28:00</guid>
+      <pubDate>Thu, 16 Jul 2026 10:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:11 am</title>
+      <description>6700 BLOCK BALMORAL RDG Radio: 9B Units: A158, E153</description>
+      <guid isPermaLink="false">2026-07-16 10:11:00</guid>
+      <pubDate>Thu, 16 Jul 2026 10:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:18 am</title>
       <description>6700 BLOCK BALMORAL RDG Units: E331, E153, RE171, A158, ALS17, BC903, EMS902</description>
@@ -288,24 +306,6 @@
       <description>5500 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-07-15 11:03:00</guid>
       <pubDate>Wed, 15 Jul 2026 11:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 11:03 am</title>
-      <description>200 BLOCK MILLERSTOWN RD Units: TW6</description>
-      <guid isPermaLink="false">2026-07-15 11:03:00</guid>
-      <pubDate>Wed, 15 Jul 2026 11:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:58 am</title>
-      <description>100 BLOCK N CHURCH ST, STATION 30 Units: ALS31</description>
-      <guid isPermaLink="false">2026-07-15 10:58:00</guid>
-      <pubDate>Wed, 15 Jul 2026 10:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:49 am</title>
-      <description>N SETON AVE / RT15, N SETON AVE / RT15 Radio: 9B Units: PE102</description>
-      <guid isPermaLink="false">2026-07-15 10:49:00</guid>
-      <pubDate>Wed, 15 Jul 2026 10:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
