@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 04:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 05:25:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:54 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-16 00:54:00</guid>
+      <pubDate>Thu, 16 Jul 2026 00:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:20 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23, Q11</description>
+      <guid isPermaLink="false">2026-07-16 00:20:00</guid>
+      <pubDate>Thu, 16 Jul 2026 00:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 10:11 pm</title>
       <description>13500 BLOCK OLD FREDERICK RD, LOYS STATION PARK Radio: 9C Units: E132</description>
@@ -294,18 +306,6 @@
       <description>6800 BLOCK ARBOR CT Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-07-14 18:16:00</guid>
       <pubDate>Tue, 14 Jul 2026 18:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:05 pm</title>
-      <description>6300 BLOCK MEANDERING WOODS CT Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-07-14 18:05:00</guid>
-      <pubDate>Tue, 14 Jul 2026 18:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:59 pm</title>
-      <description>20600 BLOCK BOLAND FARM RD, STATION 734 Units: R14</description>
-      <guid isPermaLink="false">2026-07-14 17:59:00</guid>
-      <pubDate>Tue, 14 Jul 2026 17:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
