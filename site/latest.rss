@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Jul 2026 11:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:59:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:49 am</title>
+      <description>RT15SB / RAMP RT40EB TO RT15SB, RT15SB / RAMP RT40EB TO RT15SB Units: PE311</description>
+      <guid isPermaLink="false">2026-07-16 07:49:00</guid>
+      <pubDate>Thu, 16 Jul 2026 07:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:48 am</title>
+      <description>RT15SB / RAMP RT40EB TO RT15SB, RT15SB / RAMP RT40EB TO RT15SB Units: E11, E33, R3, A19, A38</description>
+      <guid isPermaLink="false">2026-07-16 07:48:00</guid>
+      <pubDate>Thu, 16 Jul 2026 07:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:42 am</title>
+      <description>MAIN ST / WALNUT ST Radio: 9D Units: E153, RE171, A179, ALS17, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-07-16 07:42:00</guid>
+      <pubDate>Thu, 16 Jul 2026 07:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:48 am</title>
       <description>1800 BLOCK COPPER DR Radio: 9C Units: CCE101</description>
@@ -288,24 +306,6 @@
       <description>7000 BLOCK KIMMEL RD, KLINE FHH HOSPICE HOUSE Radio: 9C Units: E172</description>
       <guid isPermaLink="false">2026-07-15 09:39:00</guid>
       <pubDate>Wed, 15 Jul 2026 09:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:01 am</title>
-      <description>4700 BLOCK ARCADIA DR, Bldg:G Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-07-15 09:01:00</guid>
-      <pubDate>Wed, 15 Jul 2026 09:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:44 am</title>
-      <description>1300 BLOCK HUGHES FORD RD, Apt/Unit:102, S&amp;V PARTNERSHIP Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2026-07-15 08:44:00</guid>
-      <pubDate>Wed, 15 Jul 2026 08:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:37 am</title>
-      <description>200 BLOCK E MAIN ST, VALLEY ONE STOP Radio: 9C Units: BR75</description>
-      <guid isPermaLink="false">2026-07-15 08:37:00</guid>
-      <pubDate>Wed, 15 Jul 2026 08:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
