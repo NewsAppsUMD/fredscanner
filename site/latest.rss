@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 21:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:45:08 +0000</lastBuildDate>
+    <item>
+      <title>FIRE ALARM SPECIFY: 5:30 pm</title>
+      <description>3200 BLOCK THORNAPPLE DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-07-17 17:30:00</guid>
+      <pubDate>Fri, 17 Jul 2026 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:31 pm</title>
       <description>ENGLISH MUFFIN WAY / NEW DESIGN RD Radio: 9B Units: A318</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / RAMP RT40EB TO RT15SB, RT15SB / RAMP RT40EB TO RT15SB Units: E11, E33, R3, A19, A38</description>
       <guid isPermaLink="false">2026-07-16 07:48:00</guid>
       <pubDate>Thu, 16 Jul 2026 07:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:42 am</title>
-      <description>MAIN ST / WALNUT ST Radio: 9D Units: E153, RE171, A179, ALS17, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-07-16 07:42:00</guid>
-      <pubDate>Thu, 16 Jul 2026 07:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
