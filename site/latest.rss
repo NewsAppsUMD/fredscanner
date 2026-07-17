@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 17 Jul 2026 13:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:08:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:41 am</title>
+      <description>MONOCACY BLVD / E PATRICK ST Radio: 9B Units: PE23</description>
+      <guid isPermaLink="false">2026-07-17 09:41:00</guid>
+      <pubDate>Fri, 17 Jul 2026 09:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:28 am</title>
+      <description>MONOCACY BLVD / E PATRICK ST Radio: 9B Units: A38, E33</description>
+      <guid isPermaLink="false">2026-07-17 09:28:00</guid>
+      <pubDate>Fri, 17 Jul 2026 09:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 3:05 am</title>
       <description>4900 BLOCK JACK LINTON DR N Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>10500 BLOCK LAKERIDGE PL Radio: 9C Units: E153, E331, R15</description>
       <guid isPermaLink="false">2026-07-16 01:31:00</guid>
       <pubDate>Thu, 16 Jul 2026 01:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:27 am</title>
-      <description>9500 BLOCK CATOCTIN MOUNTAIN HWY, RESTHAVEN MEMORIAL GARDENS Units: E291, E111, PE23, E501, E33, E162, R3, Q11, TW1, K1, K10, K9, A299, ALS29, EK224, K22, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-07-16 01:27:00</guid>
-      <pubDate>Thu, 16 Jul 2026 01:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:54 am</title>
-      <description>8700 BLOCK GAS HOUSE PIKE Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-16 00:54:00</guid>
-      <pubDate>Thu, 16 Jul 2026 00:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
