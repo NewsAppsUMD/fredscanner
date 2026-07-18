@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 00:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 01:37:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:28 pm</title>
+      <description>9400 BLOCK MYERSVILLE RD, ALBAN TRACTOR Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-07-17 21:28:00</guid>
+      <pubDate>Fri, 17 Jul 2026 21:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:06 pm</title>
       <description>RT15SB / W SEVENTH ST(W SEVENTH ST), RT15SB / W SEVENTH ST Radio: 9B Units: A28, PE23</description>
@@ -300,12 +306,6 @@
       <description>BENTSTALK DR / WINDSWEPT WAY Radio: 9C Units: E121</description>
       <guid isPermaLink="false">2026-07-16 08:33:00</guid>
       <pubDate>Thu, 16 Jul 2026 08:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FHH STANDBY FOR HELICOPTER LANDING: 8:21 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
-      <guid isPermaLink="false">2026-07-16 08:21:00</guid>
-      <pubDate>Thu, 16 Jul 2026 08:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
