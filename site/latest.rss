@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 17:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:15:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:04 pm</title>
+      <description>WOLFSVILLE RD / E CHURCH HILL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, EMS901</description>
+      <guid isPermaLink="false">2026-07-18 14:04:00</guid>
+      <pubDate>Sat, 18 Jul 2026 14:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:55 pm</title>
+      <description>3600 BLOCK FLATWOODS DR Units: E231</description>
+      <guid isPermaLink="false">2026-07-18 13:55:00</guid>
+      <pubDate>Sat, 18 Jul 2026 13:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:25 pm</title>
       <description>WILLOWDALE DR / W PATRICK ST Radio: 9B Units: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>8400 BLOCK WATER STREET RD Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-07-16 14:48:00</guid>
       <pubDate>Thu, 16 Jul 2026 14:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:48 pm</title>
-      <description>8400 BLOCK WATER STREET RD Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-16 14:48:00</guid>
-      <pubDate>Thu, 16 Jul 2026 14:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:47 pm</title>
-      <description>8400 BLOCK WATER STREET RD Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-16 14:47:00</guid>
-      <pubDate>Thu, 16 Jul 2026 14:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
