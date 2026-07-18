@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Jul 2026 20:14:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:44:28 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:18 pm</title>
+      <description>4600 BLOCK PINEWOOD TRL, MIDDLETOWN WATER TOWER Units: E121</description>
+      <guid isPermaLink="false">2026-07-18 16:18:00</guid>
+      <pubDate>Sat, 18 Jul 2026 16:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:17 pm</title>
+      <description>STONE RD / MOUNT ZION RD Units: E121</description>
+      <guid isPermaLink="false">2026-07-18 16:17:00</guid>
+      <pubDate>Sat, 18 Jul 2026 16:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 4:10 pm</title>
       <description>3600 BLOCK STONE BARN DR Radio: 9I Units: E331, E153, R14, EMS902, CAN1</description>
@@ -294,18 +306,6 @@
       <description>23400 BLOCK FREDERICK DR, Apt/Unit:300, STATION MC735 - CLARKSBURG Radio: 7A2 Units: PE251</description>
       <guid isPermaLink="false">2026-07-18 07:46:00</guid>
       <pubDate>Sat, 18 Jul 2026 07:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 4:46 am</title>
-      <description>5200 BLOCK WESTVIEW DR, FAIRFIELD INN BY MARRIOTT Radio: 9B Units: R3, PE311</description>
-      <guid isPermaLink="false">2026-07-18 04:46:00</guid>
-      <pubDate>Sat, 18 Jul 2026 04:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:32 am</title>
-      <description>21700 BLOCK SLIDELL RD Radio: 7A8 Units: R14, E231</description>
-      <guid isPermaLink="false">2026-07-18 04:32:00</guid>
-      <pubDate>Sat, 18 Jul 2026 04:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
