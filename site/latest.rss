@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 10:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:56:13 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:40 am</title>
+      <description>1200 BLOCK DAHLIA LN Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-07-19 06:40:00</guid>
+      <pubDate>Sun, 19 Jul 2026 06:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 4:59 am</title>
       <description>MANOR WOODS RD / NEW DESIGN RD Radio: 9C Units: BR145</description>
@@ -298,12 +304,6 @@
     <item>
       <title>BUILDING FIRE: 2:40 pm</title>
       <description>3600 BLOCK STONE BARN DR Radio: 9I Units: PE251, E33, PE23, E11, E153, R3, TT4, A239, ALS23, BC902, SAF900</description>
-      <guid isPermaLink="false">2026-07-18 14:40:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 2:40 pm</title>
-      <description>3600 BLOCK STONE BARN DR Radio: 9C Units: TT23</description>
       <guid isPermaLink="false">2026-07-18 14:40:00</guid>
       <pubDate>Sat, 18 Jul 2026 14:40:00 -0400</pubDate>
     </item>
