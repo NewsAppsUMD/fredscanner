@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 16:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:45:55 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:38 pm</title>
+      <description>I70EB / RT75 Radio: 9B Units: A339</description>
+      <guid isPermaLink="false">2026-07-19 12:38:00</guid>
+      <pubDate>Sun, 19 Jul 2026 12:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:36 pm</title>
+      <description>I70EB / RT75 Radio: 9B Units: E153, PE251, R15, A158, A259</description>
+      <guid isPermaLink="false">2026-07-19 12:36:00</guid>
+      <pubDate>Sun, 19 Jul 2026 12:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 12:30 pm</title>
+      <description>1000 BLOCK STORRINGTON DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-07-19 12:30:00</guid>
+      <pubDate>Sun, 19 Jul 2026 12:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:59 am</title>
       <description>EDENTON CT / CRESTWOOD BLVD Units: A37, E311</description>
@@ -288,24 +306,6 @@
       <description>6600 BLOCK MOUNTAIN CHURCH RD Radio: 91D Units: E72, E201, R19, T5, TR29, A197, ALS20, BC901, EMS902</description>
       <guid isPermaLink="false">2026-07-18 15:06:00</guid>
       <pubDate>Sat, 18 Jul 2026 15:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:04 pm</title>
-      <description>DIXON RD / THURSTON RD Radio: 9D Units: PE23, E153</description>
-      <guid isPermaLink="false">2026-07-18 15:04:00</guid>
-      <pubDate>Sat, 18 Jul 2026 15:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 3:03 pm</title>
-      <description>DIXON RD / THURSTON RD Radio: 9D Units: Q11</description>
-      <guid isPermaLink="false">2026-07-18 15:03:00</guid>
-      <pubDate>Sat, 18 Jul 2026 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:55 pm</title>
-      <description>DIXON RD / THURSTON RD Radio: 9D Units: PE311, E331, E501, E111, R15, R20, K23, K1, A148, ALS31, BC903, SOBC900, SAF900</description>
-      <guid isPermaLink="false">2026-07-18 14:55:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
