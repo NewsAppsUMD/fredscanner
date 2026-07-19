@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 16:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:20:05 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 1:15 pm</title>
+      <description>5100 BLOCK DOUBS RD Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2026-07-19 13:15:00</guid>
+      <pubDate>Sun, 19 Jul 2026 13:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:38 pm</title>
       <description>I70EB / RT75 Radio: 9B Units: A339</description>
@@ -300,12 +306,6 @@
       <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD Radio: 9B Units: E121, R8, A78, A129, E212</description>
       <guid isPermaLink="false">2026-07-18 15:12:00</guid>
       <pubDate>Sat, 18 Jul 2026 15:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>STRUCTURAL COLLAPSE: 3:06 pm</title>
-      <description>6600 BLOCK MOUNTAIN CHURCH RD Radio: 91D Units: E72, E201, R19, T5, TR29, A197, ALS20, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-07-18 15:06:00</guid>
-      <pubDate>Sat, 18 Jul 2026 15:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
