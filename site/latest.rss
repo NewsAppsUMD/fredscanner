@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 15:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 16:17:25 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:59 am</title>
+      <description>EDENTON CT / CRESTWOOD BLVD Units: A37, E311</description>
+      <guid isPermaLink="false">2026-07-19 11:59:00</guid>
+      <pubDate>Sun, 19 Jul 2026 11:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 11:35 am</title>
       <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: A319, PE311, EMS902</description>
@@ -300,12 +306,6 @@
       <description>DIXON RD / THURSTON RD Radio: 9D Units: PE311, E331, E501, E111, R15, R20, K23, K1, A148, ALS31, BC903, SOBC900, SAF900</description>
       <guid isPermaLink="false">2026-07-18 14:55:00</guid>
       <pubDate>Sat, 18 Jul 2026 14:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - OUTSIDE: 2:52 pm</title>
-      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Units: E52, BR55</description>
-      <guid isPermaLink="false">2026-07-18 14:52:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
