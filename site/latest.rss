@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Jul 2026 01:40:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 03:00:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:55 pm</title>
+      <description>BUCKEYSTOWN PIKE / PEGASUS CT Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-07-18 22:55:00</guid>
+      <pubDate>Sat, 18 Jul 2026 22:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 10:43 pm</title>
+      <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9D Units: PE102, R10, A307, ALS30, EMS901</description>
+      <guid isPermaLink="false">2026-07-18 22:43:00</guid>
+      <pubDate>Sat, 18 Jul 2026 22:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 10:15 pm</title>
+      <description>200 BLOCKA E SIXTH ST Radio: 9C Units: PE23, E31, R3</description>
+      <guid isPermaLink="false">2026-07-18 22:15:00</guid>
+      <pubDate>Sat, 18 Jul 2026 22:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:57 pm</title>
       <description>RT340EB / LANDER RD, RT340EB / 11MM Units: E281</description>
@@ -288,24 +306,6 @@
       <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E33, TT4</description>
       <guid isPermaLink="false">2026-07-18 14:20:00</guid>
       <pubDate>Sat, 18 Jul 2026 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 2:19 pm</title>
-      <description>100 BLOCK MERCER CT, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-07-18 14:19:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:18 pm</title>
-      <description>2500 BLOCK COLERIDGE DR, RIDGEVIEW CONDOS - 2500 BLOCK COLERIDGE DR Radio: 9C Units: E11, TW1</description>
-      <guid isPermaLink="false">2026-07-18 14:18:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 2:04 pm</title>
-      <description>WOLFSVILLE RD / E CHURCH HILL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, EMS901</description>
-      <guid isPermaLink="false">2026-07-18 14:04:00</guid>
-      <pubDate>Sat, 18 Jul 2026 14:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
