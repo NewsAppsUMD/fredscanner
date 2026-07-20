@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Jul 2026 20:27:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:53:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:37 pm</title>
+      <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9B Units: A249</description>
+      <guid isPermaLink="false">2026-07-20 16:37:00</guid>
+      <pubDate>Mon, 20 Jul 2026 16:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 4:29 pm</title>
+      <description>13100 BLOCK PRICES DISTILLERY RD Radio: 7A4 Units: K23</description>
+      <guid isPermaLink="false">2026-07-20 16:29:00</guid>
+      <pubDate>Mon, 20 Jul 2026 16:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:28 pm</title>
+      <description>10500 BLOCK LIBERTY RD, LIBERTY ROAD SEAFOOD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2026-07-20 16:28:00</guid>
+      <pubDate>Mon, 20 Jul 2026 16:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 4:26 pm</title>
+      <description>13100 BLOCK PRICES DISTILLERY RD Radio: 7A4 Units: A239, PE251, R15, ALS23, E231, TT23</description>
+      <guid isPermaLink="false">2026-07-20 16:26:00</guid>
+      <pubDate>Mon, 20 Jul 2026 16:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 3:14 pm</title>
       <description>1300 BLOCK HOPE FARM CT Radio: 9C Units: PE52, E201, T5</description>
@@ -282,30 +306,6 @@
       <description>STONE RD / MOUNT ZION RD Units: E121</description>
       <guid isPermaLink="false">2026-07-18 16:17:00</guid>
       <pubDate>Sat, 18 Jul 2026 16:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:10 pm</title>
-      <description>3600 BLOCK STONE BARN DR Radio: 9I Units: E331, E153, R14, EMS902, CAN1</description>
-      <guid isPermaLink="false">2026-07-18 16:10:00</guid>
-      <pubDate>Sat, 18 Jul 2026 16:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:07 pm</title>
-      <description>3600 BLOCK URBANA PIKE, STATION 23 Units: A38</description>
-      <guid isPermaLink="false">2026-07-18 16:07:00</guid>
-      <pubDate>Sat, 18 Jul 2026 16:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:05 pm</title>
-      <description>RT340EB / RT17, RT340EB / RT17 Radio: 9B Units: A197, PE52</description>
-      <guid isPermaLink="false">2026-07-18 16:05:00</guid>
-      <pubDate>Sat, 18 Jul 2026 16:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:02 pm</title>
-      <description>3600 BLOCK STONE BARN DR Radio: 9I Units: A38</description>
-      <guid isPermaLink="false">2026-07-18 16:02:00</guid>
-      <pubDate>Sat, 18 Jul 2026 16:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
