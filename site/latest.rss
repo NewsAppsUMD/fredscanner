@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 13:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:12:25 +0000</lastBuildDate>
+    <item>
+      <title>FHH STANDBY FOR HELICOPTER LANDING: 9:31 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
+      <guid isPermaLink="false">2026-07-21 09:31:00</guid>
+      <pubDate>Tue, 21 Jul 2026 09:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:15 am</title>
+      <description>6600 BLOCK LINGANORE RD Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-07-21 09:15:00</guid>
+      <pubDate>Tue, 21 Jul 2026 09:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:05 am</title>
+      <description>LINGANORE RD / PLANT RD Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-07-21 09:05:00</guid>
+      <pubDate>Tue, 21 Jul 2026 09:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 7:56 am</title>
       <description>WELLER RD / RT75 Radio: 9C Units: E251</description>
@@ -288,24 +306,6 @@
       <description>5100 BLOCK PEGASUS CT, CHILIS - CENTER AT MONOCACY Units: A37, A38</description>
       <guid isPermaLink="false">2026-07-18 23:12:00</guid>
       <pubDate>Sat, 18 Jul 2026 23:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:55 pm</title>
-      <description>BUCKEYSTOWN PIKE / PEGASUS CT Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-07-18 22:55:00</guid>
-      <pubDate>Sat, 18 Jul 2026 22:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:43 pm</title>
-      <description>RT550 / RAILROAD, RT550 / RAILROAD Radio: 9D Units: PE102, R10, A307, ALS30, EMS901</description>
-      <guid isPermaLink="false">2026-07-18 22:43:00</guid>
-      <pubDate>Sat, 18 Jul 2026 22:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 10:15 pm</title>
-      <description>200 BLOCKA E SIXTH ST Radio: 9C Units: PE23, E31, R3</description>
-      <guid isPermaLink="false">2026-07-18 22:15:00</guid>
-      <pubDate>Sat, 18 Jul 2026 22:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
