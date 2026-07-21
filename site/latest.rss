@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Jul 2026 18:33:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:28:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:17 pm</title>
+      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: PE311</description>
+      <guid isPermaLink="false">2026-07-21 15:17:00</guid>
+      <pubDate>Tue, 21 Jul 2026 15:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:11 pm</title>
+      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: A319</description>
+      <guid isPermaLink="false">2026-07-21 15:11:00</guid>
+      <pubDate>Tue, 21 Jul 2026 15:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:08 pm</title>
+      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: E31, ALS31, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-07-21 15:08:00</guid>
+      <pubDate>Tue, 21 Jul 2026 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
+      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: A38, R3</description>
+      <guid isPermaLink="false">2026-07-21 15:04:00</guid>
+      <pubDate>Tue, 21 Jul 2026 15:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 2:05 pm</title>
       <description>3200 BLOCK DIGITAL DR Units: E141, E281, E201, PE311, E291, E31, R20, TW1, TT4, EK204, K1, K23, A148, ALS31, BC902, BC901, SAF901</description>
@@ -282,30 +306,6 @@
       <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9D Units: A319, PE311, EMS902</description>
       <guid isPermaLink="false">2026-07-19 11:35:00</guid>
       <pubDate>Sun, 19 Jul 2026 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:25 am</title>
-      <description>100 BLOCK E ALL SAINTS ST, FPD HQ'S Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-07-19 11:25:00</guid>
-      <pubDate>Sun, 19 Jul 2026 11:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:37 am</title>
-      <description>11300 BLOCKC HIGHLAND SCHOOL RD Radio: 9D Units: A78</description>
-      <guid isPermaLink="false">2026-07-19 10:37:00</guid>
-      <pubDate>Sun, 19 Jul 2026 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:31 am</title>
-      <description>11300 BLOCKC HIGHLAND SCHOOL RD Radio: 9D Units: E72, R8, A89, ALS8, E212, EMS901</description>
-      <guid isPermaLink="false">2026-07-19 10:31:00</guid>
-      <pubDate>Sun, 19 Jul 2026 10:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:07 am</title>
-      <description>100 BLOCK E CHURCH ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-07-19 10:07:00</guid>
-      <pubDate>Sun, 19 Jul 2026 10:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
