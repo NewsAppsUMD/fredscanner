@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 01:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:00:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:10 pm</title>
+      <description>4200 BLOCK MOUNTVILLE RD Radio: 9D Units: E201, R20, A209, ALS20, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-21 22:10:00</guid>
+      <pubDate>Tue, 21 Jul 2026 22:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:03 pm</title>
       <description>100 BLOCK WEST RD Units: E152, PE251</description>
@@ -300,12 +306,6 @@
       <description>5700 BLOCK MOUNTVILLE RD Radio: 9B Units: A148, R14</description>
       <guid isPermaLink="false">2026-07-19 18:35:00</guid>
       <pubDate>Sun, 19 Jul 2026 18:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:31 pm</title>
-      <description>4200 BLOCK BILL MOXLEY RD Radio: 9B Units: A259, PE251</description>
-      <guid isPermaLink="false">2026-07-19 18:31:00</guid>
-      <pubDate>Sun, 19 Jul 2026 18:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
