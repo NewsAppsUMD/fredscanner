@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:56:23 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 3:34 pm</title>
+      <description>RT40WB / HOKE PL, RT40WB / HOKE PL Radio: 9D Units: A89, ALS8</description>
+      <guid isPermaLink="false">2026-07-22 15:34:00</guid>
+      <pubDate>Wed, 22 Jul 2026 15:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 3:17 pm</title>
       <description>RT40WB / HILLCREST DR, RT40WB / HILLCREST DR Radio: 9D Units: A19, ALS2, E11, EMS902</description>
@@ -300,12 +306,6 @@
       <description>ROYAL OAK DR / W MAIN ST Radio: 9B Units: A158, E153</description>
       <guid isPermaLink="false">2026-07-21 07:10:00</guid>
       <pubDate>Tue, 21 Jul 2026 07:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 3:13 am</title>
-      <description>11100 BLOCK WINDSOR RD, WINDSOR KNOLLS MIDDLE SCHOOL Radio: 9D Units: E231</description>
-      <guid isPermaLink="false">2026-07-21 03:13:00</guid>
-      <pubDate>Tue, 21 Jul 2026 03:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
