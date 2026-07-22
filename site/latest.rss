@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 21:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:53:27 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:28 pm</title>
+      <description>BALLENGER CREEK PIKE / DOUBS RD Radio: 9C Units: BR145</description>
+      <guid isPermaLink="false">2026-07-22 17:28:00</guid>
+      <pubDate>Wed, 22 Jul 2026 17:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:17 pm</title>
       <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: E31, PE251, R3, A37, A339</description>
@@ -300,12 +306,6 @@
       <description>26300 BLOCK FOREST VISTA DR Radio: 7A1 Units: A239</description>
       <guid isPermaLink="false">2026-07-21 12:48:00</guid>
       <pubDate>Tue, 21 Jul 2026 12:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:32 pm</title>
-      <description>100 BLOCK OVERCREEK CT, Apt/Unit:102 Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-07-21 12:32:00</guid>
-      <pubDate>Tue, 21 Jul 2026 12:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
