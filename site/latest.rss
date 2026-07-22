@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Jul 2026 19:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:24:45 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:19 pm</title>
+      <description>100 BLOCK S SETON AVE Radio: 9C Units: BR65</description>
+      <guid isPermaLink="false">2026-07-22 16:19:00</guid>
+      <pubDate>Wed, 22 Jul 2026 16:19:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 4:07 pm</title>
+      <description>I70EB / 38MM Radio: PS1 Units: E82</description>
+      <guid isPermaLink="false">2026-07-22 16:07:00</guid>
+      <pubDate>Wed, 22 Jul 2026 16:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:04 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-07-22 16:04:00</guid>
+      <pubDate>Wed, 22 Jul 2026 16:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 3:34 pm</title>
       <description>RT40WB / HOKE PL, RT40WB / HOKE PL Radio: 9D Units: A89, ALS8</description>
@@ -288,24 +306,6 @@
       <description>LINGANORE RD / PLANT RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-07-21 09:05:00</guid>
       <pubDate>Tue, 21 Jul 2026 09:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:56 am</title>
-      <description>WELLER RD / RT75 Radio: 9C Units: E251</description>
-      <guid isPermaLink="false">2026-07-21 07:56:00</guid>
-      <pubDate>Tue, 21 Jul 2026 07:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:13 am</title>
-      <description>ROYAL OAK DR / W MAIN ST Radio: 9B Units: PE251, EMS901</description>
-      <guid isPermaLink="false">2026-07-21 07:13:00</guid>
-      <pubDate>Tue, 21 Jul 2026 07:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:10 am</title>
-      <description>ROYAL OAK DR / W MAIN ST Radio: 9B Units: A158, E153</description>
-      <guid isPermaLink="false">2026-07-21 07:10:00</guid>
-      <pubDate>Tue, 21 Jul 2026 07:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
