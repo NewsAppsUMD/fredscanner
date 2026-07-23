@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 10:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:13:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:40 am</title>
+      <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-07-23 06:40:00</guid>
+      <pubDate>Thu, 23 Jul 2026 06:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:37 am</title>
+      <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-07-23 06:37:00</guid>
+      <pubDate>Thu, 23 Jul 2026 06:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:40 am</title>
       <description>5400 BLOCK BARTONSVILLE RD Radio: 9C Units: E331</description>
@@ -294,18 +306,6 @@
       <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: A319</description>
       <guid isPermaLink="false">2026-07-21 15:11:00</guid>
       <pubDate>Tue, 21 Jul 2026 15:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:08 pm</title>
-      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: E31, ALS31, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-07-21 15:08:00</guid>
-      <pubDate>Tue, 21 Jul 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
-      <description>URBANA PIKE / SHIELDS DR Radio: 9B Units: A38, R3</description>
-      <guid isPermaLink="false">2026-07-21 15:04:00</guid>
-      <pubDate>Tue, 21 Jul 2026 15:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
