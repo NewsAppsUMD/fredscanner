@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 20:52:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:48:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:10 pm</title>
+      <description>MONOCACY BLVD / RAILROAD XING Units: E291, R2, A299, ALS29, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-07-23 17:10:00</guid>
+      <pubDate>Thu, 23 Jul 2026 17:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:26 pm</title>
       <description>6100 BLOCK HUCKLEBERRY WAY Units: E152</description>
@@ -300,12 +306,6 @@
       <description>4200 BLOCK MOUNTVILLE RD Radio: 9D Units: E201, R20, A209, ALS20, BC903, EMS901</description>
       <guid isPermaLink="false">2026-07-21 22:10:00</guid>
       <pubDate>Tue, 21 Jul 2026 22:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:03 pm</title>
-      <description>100 BLOCK WEST RD Units: E152, PE251</description>
-      <guid isPermaLink="false">2026-07-21 21:03:00</guid>
-      <pubDate>Tue, 21 Jul 2026 21:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
