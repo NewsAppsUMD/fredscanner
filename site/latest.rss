@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 22:45:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:17:35 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:08 pm</title>
+      <description>6600 BLOCK S CLIFTON RD Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-07-23 19:08:00</guid>
+      <pubDate>Thu, 23 Jul 2026 19:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR OUTSIDE: 6:58 pm</title>
+      <description>4300 BLOCK VIRIDIAN TER Radio: 9C Units: PE251</description>
+      <guid isPermaLink="false">2026-07-23 18:58:00</guid>
+      <pubDate>Thu, 23 Jul 2026 18:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:50 pm</title>
+      <description>RT340WB / CATHOLIC CHURCH RD, RT340WB / CATHOLIC CHURCH RD Radio: 9B Units: E201, R20, A209, A196, PE52</description>
+      <guid isPermaLink="false">2026-07-23 18:50:00</guid>
+      <pubDate>Thu, 23 Jul 2026 18:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:10 pm</title>
       <description>MONOCACY BLVD / RAILROAD XING Units: E291, R2, A299, ALS29, BC902, EMS902</description>
@@ -288,24 +306,6 @@
       <description>800 BLOCK BOND ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-07-22 04:17:00</guid>
       <pubDate>Wed, 22 Jul 2026 04:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:19 am</title>
-      <description>5400 BLOCK UPPER MILL TER S Radio: 9B Units: A37, PE311</description>
-      <guid isPermaLink="false">2026-07-22 00:19:00</guid>
-      <pubDate>Wed, 22 Jul 2026 00:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:59 pm</title>
-      <description>CRESTWOOD BLVD / WESTVIEW DR Radio: 9D Units: E31, R3, A37, ALS31, EMS902</description>
-      <guid isPermaLink="false">2026-07-21 22:59:00</guid>
-      <pubDate>Tue, 21 Jul 2026 22:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:10 pm</title>
-      <description>4200 BLOCK MOUNTVILLE RD Radio: 9D Units: E201, R20, A209, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-07-21 22:10:00</guid>
-      <pubDate>Tue, 21 Jul 2026 22:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
