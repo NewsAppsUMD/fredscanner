@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 20:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:52:26 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:26 pm</title>
+      <description>6100 BLOCK HUCKLEBERRY WAY Units: E152</description>
+      <guid isPermaLink="false">2026-07-23 16:26:00</guid>
+      <pubDate>Thu, 23 Jul 2026 16:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:13 pm</title>
       <description>BIGGS AVE / W SEVENTH ST, IAO Units: A28, PE23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WEST RD Units: E152, PE251</description>
       <guid isPermaLink="false">2026-07-21 21:03:00</guid>
       <pubDate>Tue, 21 Jul 2026 21:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 8:51 pm</title>
-      <description>100 BLOCKX WAVERLEY DR, Apt/Unit:304, ELMWOOD TERRACE APTS - BLDG X Radio: 9C Units: E11, E121, TT4</description>
-      <guid isPermaLink="false">2026-07-21 20:51:00</guid>
-      <pubDate>Tue, 21 Jul 2026 20:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
