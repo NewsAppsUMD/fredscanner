@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Jul 2026 18:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:52:18 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
+      <description>12700 BLOCK JAMES MONROE HWY Radio: 6B Units: E281</description>
+      <guid isPermaLink="false">2026-07-23 14:46:00</guid>
+      <pubDate>Thu, 23 Jul 2026 14:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:28 pm</title>
+      <description>100 BLOCK E GREEN ST Units: E72, TW7</description>
+      <guid isPermaLink="false">2026-07-23 14:28:00</guid>
+      <pubDate>Thu, 23 Jul 2026 14:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
       <description>I70EB / 36MM Units: E82</description>
@@ -294,18 +306,6 @@
       <description>6200 BLOCK ALAN LINTON BLVD W Radio: 9C Units: E311, E201, R14</description>
       <guid isPermaLink="false">2026-07-21 19:24:00</guid>
       <pubDate>Tue, 21 Jul 2026 19:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:43 pm</title>
-      <description>1300 BLOCK ROSEMONT DR Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-21 18:43:00</guid>
-      <pubDate>Tue, 21 Jul 2026 18:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:55 pm</title>
-      <description>100 BLOCK S MAPLE AVE, MARC OPERATION CENTER Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-21 17:55:00</guid>
-      <pubDate>Tue, 21 Jul 2026 17:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
