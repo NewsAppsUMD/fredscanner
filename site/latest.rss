@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 21:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 21:48:05 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 5:32 pm</title>
+      <description>300 BLOCK W MAIN ST, CROWS NEST CAMPGROUND Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-07-24 17:32:00</guid>
+      <pubDate>Fri, 24 Jul 2026 17:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 4:46 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E82</description>
@@ -300,12 +306,6 @@
       <description>RT40WB / HILLCREST DR, RT40WB / HILLCREST DR Radio: 9D Units: A19, ALS2, E11, EMS902</description>
       <guid isPermaLink="false">2026-07-22 15:17:00</guid>
       <pubDate>Wed, 22 Jul 2026 15:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:55 pm</title>
-      <description>GAS HOUSE PIKE / NEW LONDON RD Radio: 9D Units: E152, R15, A158, ALS17, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-07-22 14:55:00</guid>
-      <pubDate>Wed, 22 Jul 2026 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
