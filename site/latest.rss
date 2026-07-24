@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 08:49:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:45:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 4:48 am</title>
+      <description>4700 BLOCK YARD WASTE CT, COUNTY LANDFILL TRANSFER STATION Radio: 9C Units: E331, E31, K33</description>
+      <guid isPermaLink="false">2026-07-24 04:48:00</guid>
+      <pubDate>Fri, 24 Jul 2026 04:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:44 am</title>
       <description>RT75 / LEWISDALE RD, RT75 / LEWISDALE RD Radio: 9B Units: A239, TT23</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK E POTOMAC ST Units: PE52, E201, E141, R19, T5, R20, A197, ALS2, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2026-07-22 12:29:00</guid>
       <pubDate>Wed, 22 Jul 2026 12:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:13 pm</title>
-      <description>500 BLOCK SAGE HEN WAY Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-07-22 12:13:00</guid>
-      <pubDate>Wed, 22 Jul 2026 12:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
