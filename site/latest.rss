@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Jul 2026 20:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:51:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 4:46 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-07-24 16:46:00</guid>
+      <pubDate>Fri, 24 Jul 2026 16:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 4:46 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-07-24 16:46:00</guid>
+      <pubDate>Fri, 24 Jul 2026 16:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 3:34 pm</title>
       <description>900 BLOCK BARLOW-GREENMOUNT RD Radio: ACOPS2 Units: A68, TW6</description>
@@ -294,18 +306,6 @@
       <description>GAS HOUSE PIKE / NEW LONDON RD Radio: 9D Units: E152, R15, A158, ALS17, BC902, EMS901</description>
       <guid isPermaLink="false">2026-07-22 14:55:00</guid>
       <pubDate>Wed, 22 Jul 2026 14:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 2:32 pm</title>
-      <description>40100 BLOCK QUARTER BRANCH RD Radio: 6B Units: PE52</description>
-      <guid isPermaLink="false">2026-07-22 14:32:00</guid>
-      <pubDate>Wed, 22 Jul 2026 14:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 1:18 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, MARSHALLS - CLEMSON CORNER Radio: 9C Units: E111, E23, Q11, K1</description>
-      <guid isPermaLink="false">2026-07-22 13:18:00</guid>
-      <pubDate>Wed, 22 Jul 2026 13:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
