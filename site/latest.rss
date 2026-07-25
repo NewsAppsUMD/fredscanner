@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 12:47:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 13:29:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 9:23 am</title>
+      <description>1300 BLOCK W PATRICK ST, Apt/Unit:HTTPS://A91.IO/38MSJ, TRUIST- GOLDEN MILE MARKET PLACE Radio: 9D Units: E11, R3, A19, ALS4, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-25 09:23:00</guid>
+      <pubDate>Sat, 25 Jul 2026 09:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:53 am</title>
+      <description>100 BLOCK S MCCAIN DR Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-07-25 08:53:00</guid>
+      <pubDate>Sat, 25 Jul 2026 08:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:23 am</title>
       <description>WAVERLEY DR / W PATRICK ST Radio: 9B Units: A18, E11</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK PRESTWICH TER Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2026-07-22 18:54:00</guid>
       <pubDate>Wed, 22 Jul 2026 18:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:28 pm</title>
-      <description>BALLENGER CREEK PIKE / DOUBS RD Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-07-22 17:28:00</guid>
-      <pubDate>Wed, 22 Jul 2026 17:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:17 pm</title>
-      <description>I70EB / 56MM, I70EB / 56MM Radio: 9B Units: E31, PE251, R3, A37, A339</description>
-      <guid isPermaLink="false">2026-07-22 17:17:00</guid>
-      <pubDate>Wed, 22 Jul 2026 17:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
