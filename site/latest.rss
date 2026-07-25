@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 20:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:44:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:22 pm</title>
+      <description>11700 BLOCK OLD NATIONAL PIKE, LINGANORE VET CLINIC - NEW MARKET CENTER Units: E152</description>
+      <guid isPermaLink="false">2026-07-25 16:22:00</guid>
+      <pubDate>Sat, 25 Jul 2026 16:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:21 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-07-25 16:21:00</guid>
+      <pubDate>Sat, 25 Jul 2026 16:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 3:18 pm</title>
       <description>6800 BLOCK BALLENGER RUN BLVD Radio: 9D Units: A319, PE311, EMS901</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-07-23 06:40:00</guid>
       <pubDate>Thu, 23 Jul 2026 06:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:37 am</title>
-      <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-07-23 06:37:00</guid>
-      <pubDate>Thu, 23 Jul 2026 06:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:40 am</title>
-      <description>5400 BLOCK BARTONSVILLE RD Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-07-23 02:40:00</guid>
-      <pubDate>Thu, 23 Jul 2026 02:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
