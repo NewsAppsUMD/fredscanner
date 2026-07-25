@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 21:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:16:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:52 pm</title>
+      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Units: E231, R3, A239, TT23</description>
+      <guid isPermaLink="false">2026-07-25 17:52:00</guid>
+      <pubDate>Sat, 25 Jul 2026 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:43 pm</title>
+      <description>I70WB / 47MM, I70WB / 47MM Units: E121, E72, R8, A129, A89, ALS8, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-07-25 17:43:00</guid>
+      <pubDate>Sat, 25 Jul 2026 17:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
       <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Units: E331, E31, R15, A339, A37</description>
@@ -294,18 +306,6 @@
       <description>900 BLOCK MOTTER AVE, Apt/Unit:B Radio: 9C Units: E501, R3</description>
       <guid isPermaLink="false">2026-07-23 10:14:00</guid>
       <pubDate>Thu, 23 Jul 2026 10:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:02 am</title>
-      <description>100 BLOCK W MAIN ST, NEW MARKET ELEMENTARY SCHOOL Radio: 9C Units: E152, TT4</description>
-      <guid isPermaLink="false">2026-07-23 10:02:00</guid>
-      <pubDate>Thu, 23 Jul 2026 10:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FHH STANDBY FOR HELICOPTER LANDING: 9:15 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
-      <guid isPermaLink="false">2026-07-23 09:15:00</guid>
-      <pubDate>Thu, 23 Jul 2026 09:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
