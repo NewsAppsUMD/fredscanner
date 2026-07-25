@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 25 Jul 2026 20:44:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 21:16:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:55 pm</title>
+      <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Units: E331, E31, R15, A339, A37</description>
+      <guid isPermaLink="false">2026-07-25 16:55:00</guid>
+      <pubDate>Sat, 25 Jul 2026 16:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:52 pm</title>
+      <description>RT144 / SHARP CURVES E OF NEW MARKET, RT144 / SHARP CURVES E OF NEW MARKET Units: A158, R15</description>
+      <guid isPermaLink="false">2026-07-25 16:52:00</guid>
+      <pubDate>Sat, 25 Jul 2026 16:52:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 4:22 pm</title>
       <description>11700 BLOCK OLD NATIONAL PIKE, LINGANORE VET CLINIC - NEW MARKET CENTER Units: E152</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Units: K33</description>
       <guid isPermaLink="false">2026-07-23 09:15:00</guid>
       <pubDate>Thu, 23 Jul 2026 09:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 8:28 am</title>
-      <description>200 BLOCK KERCHNER RD Radio: 9C Units: E111, E291, Q11</description>
-      <guid isPermaLink="false">2026-07-23 08:28:00</guid>
-      <pubDate>Thu, 23 Jul 2026 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:40 am</title>
-      <description>100 BLOCK CARROLL CREEK WAY, PLAZA MEXICO OF FREDERICK - SOUTH MARKET CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-23 06:40:00</guid>
-      <pubDate>Thu, 23 Jul 2026 06:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
