@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 01:02:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 02:15:38 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 10:11 pm</title>
+      <description>6900 BLOCK CRESTWOOD BLVD, BRUSTERS ICE CREAM Radio: 9D Units: PE311, R2, A319, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-07-25 22:11:00</guid>
+      <pubDate>Sat, 25 Jul 2026 22:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:06 pm</title>
+      <description>6300 BLOCK SPRING RIDGE PKWY, Apt/Unit:136, SPRING RIDGE SENIOR APTS Radio: 9C Units: E331, E31, R3</description>
+      <guid isPermaLink="false">2026-07-25 22:06:00</guid>
+      <pubDate>Sat, 25 Jul 2026 22:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 9:29 pm</title>
+      <description>800 BLOCK E E ST Radio: 9C Units: T5</description>
+      <guid isPermaLink="false">2026-07-25 21:29:00</guid>
+      <pubDate>Sat, 25 Jul 2026 21:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 9:23 pm</title>
+      <description>800 BLOCK E E ST Radio: 9C Units: PE52, E281, R19</description>
+      <guid isPermaLink="false">2026-07-25 21:23:00</guid>
+      <pubDate>Sat, 25 Jul 2026 21:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:19 pm</title>
       <description>4900 BLOCK OLD BARTHOLOWS RD Radio: 9B Units: PE251, A259</description>
@@ -282,30 +306,6 @@
       <description>6100 BLOCK HUCKLEBERRY WAY Units: E152</description>
       <guid isPermaLink="false">2026-07-23 16:26:00</guid>
       <pubDate>Thu, 23 Jul 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:13 pm</title>
-      <description>BIGGS AVE / W SEVENTH ST, IAO Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-07-23 16:13:00</guid>
-      <pubDate>Thu, 23 Jul 2026 16:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:10 pm</title>
-      <description>CENTER ST / W SOUTH ST Units: A28</description>
-      <guid isPermaLink="false">2026-07-23 15:10:00</guid>
-      <pubDate>Thu, 23 Jul 2026 15:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:46 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2026-07-23 14:46:00</guid>
-      <pubDate>Thu, 23 Jul 2026 14:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:28 pm</title>
-      <description>100 BLOCK E GREEN ST Units: E72, TW7</description>
-      <guid isPermaLink="false">2026-07-23 14:28:00</guid>
-      <pubDate>Thu, 23 Jul 2026 14:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
