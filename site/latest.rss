@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 21:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:49:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:37 pm</title>
+      <description>SPRIGG ST S / MCPHERSON ST Radio: 9B Units: A319</description>
+      <guid isPermaLink="false">2026-07-27 17:37:00</guid>
+      <pubDate>Mon, 27 Jul 2026 17:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 5:29 pm</title>
+      <description>I270SB / 23MM, I270SB / 23MM Units: E231, A259, ALS23, EMS902</description>
+      <guid isPermaLink="false">2026-07-27 17:29:00</guid>
+      <pubDate>Mon, 27 Jul 2026 17:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 5:15 pm</title>
       <description>I270SB / 23MM, I270SB / 23MM Radio: 9C Units: E231</description>
@@ -294,18 +306,6 @@
       <description>10000 BLOCK LAKE LINGANORE BLVD Radio: 9C Units: E331, E152, R15</description>
       <guid isPermaLink="false">2026-07-26 00:09:00</guid>
       <pubDate>Sun, 26 Jul 2026 00:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:52 pm</title>
-      <description>2000 BLOCK CHAPEL CT Units: E11, A18</description>
-      <guid isPermaLink="false">2026-07-25 23:52:00</guid>
-      <pubDate>Sat, 25 Jul 2026 23:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:06 pm</title>
-      <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: A158, E152</description>
-      <guid isPermaLink="false">2026-07-25 23:06:00</guid>
-      <pubDate>Sat, 25 Jul 2026 23:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
