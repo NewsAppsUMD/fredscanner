@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 26 Jul 2026 23:46:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:24:55 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:18 pm</title>
+      <description>MCKAIG RD / GAS HOUSE PIKE Radio: 9C Units: BR175, E152</description>
+      <guid isPermaLink="false">2026-07-26 20:18:00</guid>
+      <pubDate>Sun, 26 Jul 2026 20:18:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:11 pm</title>
+      <description>LIBERTY RD / WATER STREET RD Radio: 9C Units: BR176</description>
+      <guid isPermaLink="false">2026-07-26 20:11:00</guid>
+      <pubDate>Sun, 26 Jul 2026 20:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:28 pm</title>
       <description>9700 BLOCK BALTIMORE NATIONAL PIKE PIKE Radio: 9B Units: A78, E72, E212</description>
@@ -294,18 +306,6 @@
       <description>1300 BLOCK W PATRICK ST, Apt/Unit:HTTPS://A91.IO/38MSJ, TRUIST- GOLDEN MILE MARKET PLACE Radio: 9D Units: E11, R3, A19, ALS4, BC903, EMS901</description>
       <guid isPermaLink="false">2026-07-25 09:23:00</guid>
       <pubDate>Sat, 25 Jul 2026 09:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:53 am</title>
-      <description>100 BLOCK S MCCAIN DR Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-07-25 08:53:00</guid>
-      <pubDate>Sat, 25 Jul 2026 08:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:23 am</title>
-      <description>WAVERLEY DR / W PATRICK ST Radio: 9B Units: A18, E11</description>
-      <guid isPermaLink="false">2026-07-25 05:23:00</guid>
-      <pubDate>Sat, 25 Jul 2026 05:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
