@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 00:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:02:24 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:43 pm</title>
+      <description>5400 BLOCK CHILLINGHAM PL Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-07-26 20:43:00</guid>
+      <pubDate>Sun, 26 Jul 2026 20:43:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:33 pm</title>
+      <description>200 BLOCK COBBLE WAY Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-07-26 20:33:00</guid>
+      <pubDate>Sun, 26 Jul 2026 20:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:18 pm</title>
       <description>MCKAIG RD / GAS HOUSE PIKE Radio: 9C Units: BR175, E152</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E CHURCH ST, Apt/Unit:FIRST, CHURCH STREET PARKING DECK Radio: 9D Units: E31, R3, A37, ALS2, EMS901</description>
       <guid isPermaLink="false">2026-07-25 11:49:00</guid>
       <pubDate>Sat, 25 Jul 2026 11:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:38 am</title>
-      <description>3500 BLOCK URBANA PIKE Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-07-25 10:38:00</guid>
-      <pubDate>Sat, 25 Jul 2026 10:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 9:23 am</title>
-      <description>1300 BLOCK W PATRICK ST, Apt/Unit:HTTPS://A91.IO/38MSJ, TRUIST- GOLDEN MILE MARKET PLACE Radio: 9D Units: E11, R3, A19, ALS4, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-07-25 09:23:00</guid>
-      <pubDate>Sat, 25 Jul 2026 09:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
