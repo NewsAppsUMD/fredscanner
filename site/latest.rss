@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 18:29:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:00:10 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:53 pm</title>
+      <description>WALTER MARTZ RD / REAGANS RD Radio: 9B Units: ALS4, EMS902</description>
+      <guid isPermaLink="false">2026-07-27 14:53:00</guid>
+      <pubDate>Mon, 27 Jul 2026 14:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:45 pm</title>
+      <description>2000 BLOCK BUTTERFIELD OVERLOOK Radio: 9B Units: A18, E291</description>
+      <guid isPermaLink="false">2026-07-27 14:45:00</guid>
+      <pubDate>Mon, 27 Jul 2026 14:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:25 pm</title>
       <description>600 BLOCK SOLAREX CT, CENTERPARK PROFESSIONAL CENTER - CENTERGATE Units: A318, PE311</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK E E ST Radio: 9C Units: T5</description>
       <guid isPermaLink="false">2026-07-25 21:29:00</guid>
       <pubDate>Sat, 25 Jul 2026 21:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 9:23 pm</title>
-      <description>800 BLOCK E E ST Radio: 9C Units: PE52, E281, R19</description>
-      <guid isPermaLink="false">2026-07-25 21:23:00</guid>
-      <pubDate>Sat, 25 Jul 2026 21:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:19 pm</title>
-      <description>4900 BLOCK OLD BARTHOLOWS RD Radio: 9B Units: PE251, A259</description>
-      <guid isPermaLink="false">2026-07-25 20:19:00</guid>
-      <pubDate>Sat, 25 Jul 2026 20:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
