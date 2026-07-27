@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 23:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 23:48:26 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:25 pm</title>
+      <description>RT194 / DETOUR RD, RT194 / DETOUR RD Radio: 9B Units: A169, E91, SU9</description>
+      <guid isPermaLink="false">2026-07-27 19:25:00</guid>
+      <pubDate>Mon, 27 Jul 2026 19:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 7:16 pm</title>
       <description>8200 BLOCK BLUE HERON DR Radio: 9D Units: E111, R2, A249, ALS29, EMS901</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK MERIDIAN WAY, Bldg:B, WELLINGTON TRACE APTS - 4900 BLOCKA MERIDIAN WAY Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-07-26 11:02:00</guid>
       <pubDate>Sun, 26 Jul 2026 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:03 am</title>
-      <description>RT75 / PRICES DISTILLERY RD (N), RT75 / PRICES DISTILLERY RD Units: PE251</description>
-      <guid isPermaLink="false">2026-07-26 10:03:00</guid>
-      <pubDate>Sun, 26 Jul 2026 10:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
