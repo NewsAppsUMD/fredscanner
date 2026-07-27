@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 20:54:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:22:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE REPORTED OUT: 5:15 pm</title>
+      <description>I270SB / 23MM, I270SB / 23MM Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-07-27 17:15:00</guid>
+      <pubDate>Mon, 27 Jul 2026 17:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:14 pm</title>
+      <description>SPRIGG ST S / MCPHERSON ST Radio: 9B Units: A239, TT23</description>
+      <guid isPermaLink="false">2026-07-27 17:14:00</guid>
+      <pubDate>Mon, 27 Jul 2026 17:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:55 pm</title>
+      <description>100 BLOCK WAVERLEY DR, BARGAIN BIN - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9D Units: A18, ALS4, E11, EMS902</description>
+      <guid isPermaLink="false">2026-07-27 16:55:00</guid>
+      <pubDate>Mon, 27 Jul 2026 16:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL ODOR OUTSIDE: 4:28 pm</title>
       <description>4600 BLOCK MOUNT ZION RD Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>4800 BLOCK MUSSETTER RD Radio: 9B Units: A158, E152</description>
       <guid isPermaLink="false">2026-07-25 23:06:00</guid>
       <pubDate>Sat, 25 Jul 2026 23:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:50 pm</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R2</description>
-      <guid isPermaLink="false">2026-07-25 22:50:00</guid>
-      <pubDate>Sat, 25 Jul 2026 22:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 10:43 pm</title>
-      <description>UNDERWOOD CT / UNDERWOOD LN Radio: 9D Units: E281, R14, A148, ALS31, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-07-25 22:43:00</guid>
-      <pubDate>Sat, 25 Jul 2026 22:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:11 pm</title>
-      <description>6900 BLOCK CRESTWOOD BLVD, BRUSTERS ICE CREAM Radio: 9D Units: PE311, R2, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-07-25 22:11:00</guid>
-      <pubDate>Sat, 25 Jul 2026 22:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
