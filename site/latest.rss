@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 17:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:29:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:25 pm</title>
+      <description>600 BLOCK SOLAREX CT, CENTERPARK PROFESSIONAL CENTER - CENTERGATE Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-07-27 14:25:00</guid>
+      <pubDate>Mon, 27 Jul 2026 14:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:39 pm</title>
+      <description>5300 BLOCK NEW DESIGN RD, CHICK-FIL-A Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-07-27 13:39:00</guid>
+      <pubDate>Mon, 27 Jul 2026 13:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
+      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11</description>
+      <guid isPermaLink="false">2026-07-27 13:35:00</guid>
+      <pubDate>Mon, 27 Jul 2026 13:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 1:30 pm</title>
+      <description>1200 BLOCK SHENANDOAH SQ S Radio: 9C Units: PE52, E201, T5</description>
+      <guid isPermaLink="false">2026-07-27 13:30:00</guid>
+      <pubDate>Mon, 27 Jul 2026 13:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE REPORTED OUT: 12:39 pm</title>
       <description>100 BLOCK ROUTZAHN WAY, ROUTZAHNS WAY FURNITURE OUTLET Radio: 9C Units: PE23</description>
@@ -282,30 +306,6 @@
       <description>4900 BLOCK OLD BARTHOLOWS RD Radio: 9B Units: PE251, A259</description>
       <guid isPermaLink="false">2026-07-25 20:19:00</guid>
       <pubDate>Sat, 25 Jul 2026 20:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:37 pm</title>
-      <description>4000 BLOCK ROCK HALL RD, BUILDERS FIRST SOURCE - POINT OF ROCKS Radio: 9C Units: E281, T5</description>
-      <guid isPermaLink="false">2026-07-25 19:37:00</guid>
-      <pubDate>Sat, 25 Jul 2026 19:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:14 pm</title>
-      <description>8800 BLOCK HAWBOTTOM RD Radio: 9B Units: A129, E82</description>
-      <guid isPermaLink="false">2026-07-25 19:14:00</guid>
-      <pubDate>Sat, 25 Jul 2026 19:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ALARM: 6:48 pm</title>
-      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: PE311, TT4, HM33, BC901</description>
-      <guid isPermaLink="false">2026-07-25 18:48:00</guid>
-      <pubDate>Sat, 25 Jul 2026 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:22 pm</title>
-      <description>3000 BLOCK GREEN VALLEY RD Radio: 9B Units: A259, PE251</description>
-      <guid isPermaLink="false">2026-07-25 18:22:00</guid>
-      <pubDate>Sat, 25 Jul 2026 18:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
