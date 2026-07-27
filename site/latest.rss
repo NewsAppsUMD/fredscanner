@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Jul 2026 21:49:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:21:05 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:08 pm</title>
+      <description>100 BLOCK E E ST Radio: 9D Units: PE52, E201, E281, E72, RE74, R19, T5, R20, A197, ALS20, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-07-27 18:08:00</guid>
+      <pubDate>Mon, 27 Jul 2026 18:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:37 pm</title>
       <description>SPRIGG ST S / MCPHERSON ST Radio: 9B Units: A319</description>
@@ -300,12 +306,6 @@
       <description>STONE RD / MOUNT ZION RD, HALFWAY DOWN STONE Units: E121</description>
       <guid isPermaLink="false">2026-07-26 02:04:00</guid>
       <pubDate>Sun, 26 Jul 2026 02:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 12:09 am</title>
-      <description>10000 BLOCK LAKE LINGANORE BLVD Radio: 9C Units: E331, E152, R15</description>
-      <guid isPermaLink="false">2026-07-26 00:09:00</guid>
-      <pubDate>Sun, 26 Jul 2026 00:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
