@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 21:23:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:48:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9B Units: E231, A239, TT23</description>
+      <guid isPermaLink="false">2026-07-28 17:39:00</guid>
+      <pubDate>Tue, 28 Jul 2026 17:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:36 pm</title>
+      <description>11100 BLOCK BENNIE DUNCAN RD, IA Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-07-28 17:36:00</guid>
+      <pubDate>Tue, 28 Jul 2026 17:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 5:16 pm</title>
       <description>8700 BLOCKB YELLOW SPRINGS RD Units: E11</description>
@@ -294,18 +306,6 @@
       <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2026-07-27 13:35:00</guid>
       <pubDate>Mon, 27 Jul 2026 13:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:30 pm</title>
-      <description>1200 BLOCK SHENANDOAH SQ S Radio: 9C Units: PE52, E201, T5</description>
-      <guid isPermaLink="false">2026-07-27 13:30:00</guid>
-      <pubDate>Mon, 27 Jul 2026 13:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE REPORTED OUT: 12:39 pm</title>
-      <description>100 BLOCK ROUTZAHN WAY, ROUTZAHNS WAY FURNITURE OUTLET Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-07-27 12:39:00</guid>
-      <pubDate>Mon, 27 Jul 2026 12:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
