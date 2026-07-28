@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Jul 2026 21:48:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:19:57 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:08 pm</title>
+      <description>800 BLOCK JEFFERSON PIKE Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-07-28 18:08:00</guid>
+      <pubDate>Tue, 28 Jul 2026 18:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:04 pm</title>
+      <description>100 BLOCK E KING ST, STATION AC020 - ALPHA FC #1 Units: E61</description>
+      <guid isPermaLink="false">2026-07-28 18:04:00</guid>
+      <pubDate>Tue, 28 Jul 2026 18:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
       <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9B Units: E231, A239, TT23</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK SOLAREX CT, CENTERPARK PROFESSIONAL CENTER - CENTERGATE Units: A318, PE311</description>
       <guid isPermaLink="false">2026-07-27 14:25:00</guid>
       <pubDate>Mon, 27 Jul 2026 14:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:39 pm</title>
-      <description>5300 BLOCK NEW DESIGN RD, CHICK-FIL-A Units: A318, PE311</description>
-      <guid isPermaLink="false">2026-07-27 13:39:00</guid>
-      <pubDate>Mon, 27 Jul 2026 13:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:35 pm</title>
-      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, Q11</description>
-      <guid isPermaLink="false">2026-07-27 13:35:00</guid>
-      <pubDate>Mon, 27 Jul 2026 13:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
