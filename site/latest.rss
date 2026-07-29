@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 12:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:32:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:26 am</title>
+      <description>9000 BLOCK RIDGEFIELD DR, SPRING RIDGE COMMUNITY CTR &amp; POOL Radio: 9C Units: E331, TT4</description>
+      <guid isPermaLink="false">2026-07-29 09:26:00</guid>
+      <pubDate>Wed, 29 Jul 2026 09:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:46 am</title>
+      <description>400 BLOCK W B ST Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-07-29 08:46:00</guid>
+      <pubDate>Wed, 29 Jul 2026 08:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:26 am</title>
       <description>1700 BLOCK KINGFISHER DR, Bldg:A, THE SHOPS AT MONOCACY Radio: 9C Units: E111, Q11</description>
@@ -294,18 +306,6 @@
       <description>RT340WB / S MOUNTAIN RD, RT340WB / S MOUNTAIN RD Radio: 9B Units: E201, R19, A197, A196, PE52</description>
       <guid isPermaLink="false">2026-07-28 00:03:00</guid>
       <pubDate>Tue, 28 Jul 2026 00:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:47 pm</title>
-      <description>3500 BLOCK SUGARLOAF PKWY, GIANT FOOD - URBANA TOWN CENTER Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-07-27 22:47:00</guid>
-      <pubDate>Mon, 27 Jul 2026 22:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 9:26 pm</title>
-      <description>5500 BLOCK URBANA PIKE, HOME DEPOT - RIVERVIEW PLAZA Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-07-27 21:26:00</guid>
-      <pubDate>Mon, 27 Jul 2026 21:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
