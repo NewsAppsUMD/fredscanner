@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 09:52:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:50:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:46 am</title>
+      <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE Radio: 9B Units: E82, A89</description>
+      <guid isPermaLink="false">2026-07-29 06:46:00</guid>
+      <pubDate>Wed, 29 Jul 2026 06:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:29 am</title>
       <description>12200 BLOCK BAUGHER RD, Bldg:B, SHUFFS MEAT MARKET Radio: 9C Units: BR106</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK W MAIN ST, WILES BRANCH PARK Radio: 9C Units: BR75</description>
       <guid isPermaLink="false">2026-07-27 19:59:00</guid>
       <pubDate>Mon, 27 Jul 2026 19:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ALARM: 7:57 pm</title>
-      <description>2400 BLOCK LAKESIDE DR Radio: 9C Units: E501, HM33, BC902</description>
-      <guid isPermaLink="false">2026-07-27 19:57:00</guid>
-      <pubDate>Mon, 27 Jul 2026 19:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
