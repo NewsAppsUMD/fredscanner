@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 21:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:21:15 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:09 pm</title>
+      <description>13200 BLOCK CATOCTIN HOLLOW RD Radio: 9B Units: A229, PE102</description>
+      <guid isPermaLink="false">2026-07-30 18:09:00</guid>
+      <pubDate>Thu, 30 Jul 2026 18:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 4:37 pm</title>
       <description>5200 BLOCK MAITLAND TER Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>12200 BLOCK BAUGHER RD, Bldg:B, SHUFFS MEAT MARKET Radio: 9C Units: PE102</description>
       <guid isPermaLink="false">2026-07-29 05:26:00</guid>
       <pubDate>Wed, 29 Jul 2026 05:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:21 am</title>
-      <description>BAUGHER RD / AUBURN RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-07-29 05:21:00</guid>
-      <pubDate>Wed, 29 Jul 2026 05:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
