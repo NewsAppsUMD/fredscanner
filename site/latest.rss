@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 01:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:59:34 +0000</lastBuildDate>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 9:50 pm</title>
+      <description>12300 BLOCK RENNER RD Radio: 9B Units: E162</description>
+      <guid isPermaLink="false">2026-07-29 21:50:00</guid>
+      <pubDate>Wed, 29 Jul 2026 21:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 9:45 pm</title>
+      <description>12300 BLOCK RENNER RD Radio: 9B Units: E91, RE171, A169</description>
+      <guid isPermaLink="false">2026-07-29 21:45:00</guid>
+      <pubDate>Wed, 29 Jul 2026 21:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:29 pm</title>
       <description>4700 BLOCK CAMBRIA RD Radio: 9C Units: PE311, TT4</description>
@@ -294,18 +306,6 @@
       <description>DOWNS MILL RD / LOVETTSVILLE RD Units: PE52</description>
       <guid isPermaLink="false">2026-07-28 17:04:00</guid>
       <pubDate>Tue, 28 Jul 2026 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:03 pm</title>
-      <description>13500 BLOCK CATOCTIN HOLLOW RD Units: BR106</description>
-      <guid isPermaLink="false">2026-07-28 17:03:00</guid>
-      <pubDate>Tue, 28 Jul 2026 17:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 4:52 pm</title>
-      <description>9900 BLOCK RITCHIE DR Radio: 9B Units: PE251</description>
-      <guid isPermaLink="false">2026-07-28 16:52:00</guid>
-      <pubDate>Tue, 28 Jul 2026 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
