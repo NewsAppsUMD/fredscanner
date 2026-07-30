@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Jul 2026 23:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:22:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:56 pm</title>
+      <description>100 BLOCK NORTH PL, FREDERICK HEALTH AND REHABILITATION CENTER Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-07-29 19:56:00</guid>
+      <pubDate>Wed, 29 Jul 2026 19:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 7:27 pm</title>
       <description>10800 BLOCK DEWEY WAY E Radio: 9C Units: E152, E331, R15</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9D Units: A229, A308</description>
       <guid isPermaLink="false">2026-07-28 16:40:00</guid>
       <pubDate>Tue, 28 Jul 2026 16:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:38 pm</title>
-      <description>I70WB / SPRING RIDGE PKWY, I70WB / SPRING RIDGE PKWY Radio: 9I Units: E331, E31, R15, A339, A318, PE251, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-07-28 16:38:00</guid>
-      <pubDate>Tue, 28 Jul 2026 16:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
