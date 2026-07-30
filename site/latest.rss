@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Jul 2026 16:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:59:16 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 12:46 pm</title>
+      <description>RT15NB / 36MM, RT15NB / 36MM Units: BR65</description>
+      <guid isPermaLink="false">2026-07-30 12:46:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:23 pm</title>
+      <description>LIBERTY RD / N MARKET ST Radio: 9B Units: A249, E111</description>
+      <guid isPermaLink="false">2026-07-30 12:23:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:16 pm</title>
+      <description>N MARKET ST / E THIRTEENTH ST Radio: 9D Units: EMS900</description>
+      <guid isPermaLink="false">2026-07-30 12:16:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 12:14 pm</title>
+      <description>N MARKET ST / E THIRTEENTH ST Radio: 9D Units: PE23, R3, A28, ALS2, EMS902</description>
+      <guid isPermaLink="false">2026-07-30 12:14:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:05 pm</title>
+      <description>KNOXVILLE RD / JEFFERSON PIKE Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-07-30 12:05:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:03 pm</title>
+      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: E311, TW1</description>
+      <guid isPermaLink="false">2026-07-30 12:03:00</guid>
+      <pubDate>Thu, 30 Jul 2026 12:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 10:59 am</title>
       <description>100 BLOCK KEY PKWY Radio: 9D Units: E11, E31, E121, PE23, E501, R3, TT4, A19, ALS4, BC903, BC901, SAF901</description>
@@ -270,42 +306,6 @@
       <description>200 BLOCK DEER RUN DR Radio: 9C Units: E111</description>
       <guid isPermaLink="false">2026-07-28 18:55:00</guid>
       <pubDate>Tue, 28 Jul 2026 18:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:27 pm</title>
-      <description>4700 BLOCK MUSSETTER RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-07-28 18:27:00</guid>
-      <pubDate>Tue, 28 Jul 2026 18:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:08 pm</title>
-      <description>800 BLOCK JEFFERSON PIKE Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-28 18:08:00</guid>
-      <pubDate>Tue, 28 Jul 2026 18:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:04 pm</title>
-      <description>100 BLOCK E KING ST, STATION AC020 - ALPHA FC #1 Units: E61</description>
-      <guid isPermaLink="false">2026-07-28 18:04:00</guid>
-      <pubDate>Tue, 28 Jul 2026 18:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:39 pm</title>
-      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9B Units: E231, A239, TT23</description>
-      <guid isPermaLink="false">2026-07-28 17:39:00</guid>
-      <pubDate>Tue, 28 Jul 2026 17:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:36 pm</title>
-      <description>11100 BLOCK BENNIE DUNCAN RD, IA Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-07-28 17:36:00</guid>
-      <pubDate>Tue, 28 Jul 2026 17:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:16 pm</title>
-      <description>8700 BLOCKB YELLOW SPRINGS RD Units: E11</description>
-      <guid isPermaLink="false">2026-07-28 17:16:00</guid>
-      <pubDate>Tue, 28 Jul 2026 17:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
