@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Jul 2026 02:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 03:42:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:32 pm</title>
+      <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Radio: 9B Units: E31, E11, R3, A39, A19</description>
+      <guid isPermaLink="false">2026-07-30 23:32:00</guid>
+      <pubDate>Thu, 30 Jul 2026 23:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:25 pm</title>
+      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: R3, E231, A239</description>
+      <guid isPermaLink="false">2026-07-30 22:25:00</guid>
+      <pubDate>Thu, 30 Jul 2026 22:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:29 pm</title>
       <description>BOTTOMLEY RD / WILHIDE RD Radio: 9C Units: E161</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK RIDGEFIELD DR, SPRING RIDGE COMMUNITY CTR &amp; POOL Radio: 9C Units: E331, TT4</description>
       <guid isPermaLink="false">2026-07-29 09:26:00</guid>
       <pubDate>Wed, 29 Jul 2026 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 8:46 am</title>
-      <description>400 BLOCK W B ST Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-29 08:46:00</guid>
-      <pubDate>Wed, 29 Jul 2026 08:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:26 am</title>
-      <description>1700 BLOCK KINGFISHER DR, Bldg:A, THE SHOPS AT MONOCACY Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-07-29 08:26:00</guid>
-      <pubDate>Wed, 29 Jul 2026 08:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
