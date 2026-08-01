@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 16:18:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:46:10 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 12:17 pm</title>
+      <description>200 BLOCK MAIN ST Radio: 9C Units: E82, E72, TW7, E212</description>
+      <guid isPermaLink="false">2026-08-01 12:17:00</guid>
+      <pubDate>Sat, 01 Aug 2026 12:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:12 pm</title>
       <description>6900 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226</description>
@@ -300,12 +306,6 @@
       <description>N MARKET ST / E THIRTEENTH ST Radio: 9D Units: PE23, R3, A28, ALS2, EMS902</description>
       <guid isPermaLink="false">2026-07-30 12:14:00</guid>
       <pubDate>Thu, 30 Jul 2026 12:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:05 pm</title>
-      <description>KNOXVILLE RD / JEFFERSON PIKE Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-30 12:05:00</guid>
-      <pubDate>Thu, 30 Jul 2026 12:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
