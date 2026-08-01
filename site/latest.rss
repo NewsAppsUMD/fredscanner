@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 23:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:46:11 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:13 pm</title>
+      <description>FINGERBOARD RD / SAINT CLAIR CT Units: A158, E251</description>
+      <guid isPermaLink="false">2026-08-01 19:13:00</guid>
+      <pubDate>Sat, 01 Aug 2026 19:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:03 pm</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: A37</description>
@@ -300,12 +306,6 @@
       <description>RT77 / HUNTING CREEK, Apt/Unit:HTTPS://A91.IO/DZT15, RT77 / HUNTING CREEK Radio: 9B Units: A229, PE102</description>
       <guid isPermaLink="false">2026-07-30 19:41:00</guid>
       <pubDate>Thu, 30 Jul 2026 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:25 pm</title>
-      <description>200 BLOCK KNOXVILLE RD Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-07-30 19:25:00</guid>
-      <pubDate>Thu, 30 Jul 2026 19:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
