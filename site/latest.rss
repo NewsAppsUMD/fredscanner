@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 01:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 02:15:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:54 pm</title>
+      <description>100 BLOCK S MAPLE AVE(P), Apt/Unit:213, THE RESIDENCES AT RAILROAD SQUARE Units: TW7</description>
+      <guid isPermaLink="false">2026-08-01 21:54:00</guid>
+      <pubDate>Sat, 01 Aug 2026 21:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:50 pm</title>
+      <description>100 BLOCK S MAPLE AVE(P), Apt/Unit:213, THE RESIDENCES AT RAILROAD SQUARE Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-08-01 21:50:00</guid>
+      <pubDate>Sat, 01 Aug 2026 21:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 9:33 pm</title>
+      <description>11400 BLOCK CARDINAL LN Units: PE251</description>
+      <guid isPermaLink="false">2026-08-01 21:33:00</guid>
+      <pubDate>Sat, 01 Aug 2026 21:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 9:10 pm</title>
+      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E162</description>
+      <guid isPermaLink="false">2026-08-01 21:10:00</guid>
+      <pubDate>Sat, 01 Aug 2026 21:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:07 pm</title>
+      <description>11400 BLOCK CARDINAL LN Units: PE251</description>
+      <guid isPermaLink="false">2026-08-01 21:07:00</guid>
+      <pubDate>Sat, 01 Aug 2026 21:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 pm</title>
       <description>RT85 / I270, RT85 / I270 Units: PE311, R3, A319, ALS4, BC901, EMS901</description>
@@ -276,36 +306,6 @@
       <description>I70WB / E SOUTH ST, I70WB / E SOUTH ST Radio: 9B Units: E31, E11, R3, A39, A19</description>
       <guid isPermaLink="false">2026-07-30 23:32:00</guid>
       <pubDate>Thu, 30 Jul 2026 23:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:25 pm</title>
-      <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: R3, E231, A239</description>
-      <guid isPermaLink="false">2026-07-30 22:25:00</guid>
-      <pubDate>Thu, 30 Jul 2026 22:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:29 pm</title>
-      <description>BOTTOMLEY RD / WILHIDE RD Radio: 9C Units: E161</description>
-      <guid isPermaLink="false">2026-07-30 20:29:00</guid>
-      <pubDate>Thu, 30 Jul 2026 20:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:24 pm</title>
-      <description>BOTTOMLEY RD / WILHIDE RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-07-30 20:24:00</guid>
-      <pubDate>Thu, 30 Jul 2026 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:23 pm</title>
-      <description>2400 BLOCK PLEASANT VIEW RD, RAILROAD BEHIND THIS ADDRESS Radio: 9B Units: A149, E141</description>
-      <guid isPermaLink="false">2026-07-30 20:23:00</guid>
-      <pubDate>Thu, 30 Jul 2026 20:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 7:53 pm</title>
-      <description>RT75 / OLD NEW MARKET RD, RT75 / OLD NEW MARKET RD Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-07-30 19:53:00</guid>
-      <pubDate>Thu, 30 Jul 2026 19:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
