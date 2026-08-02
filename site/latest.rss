@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 06:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 07:19:56 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:57 am</title>
+      <description>8300 BLOCK HOLLOW RD Radio: 9D Units: E121, RE74, R3, A129, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-08-02 02:57:00</guid>
+      <pubDate>Sun, 02 Aug 2026 02:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:57 am</title>
       <description>I70EB / RT355, I70EB / RT355 Units: E11, E31, R3, A18, A38</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W MAIN ST Radio: 9C Units: E72</description>
       <guid isPermaLink="false">2026-07-31 06:34:00</guid>
       <pubDate>Fri, 31 Jul 2026 06:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:46 am</title>
-      <description>HIGHLAND SCHOOL RD / WOLFSVILLE RD Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-07-31 05:46:00</guid>
-      <pubDate>Fri, 31 Jul 2026 05:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
