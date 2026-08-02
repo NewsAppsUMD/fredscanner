@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Aug 2026 23:46:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:24:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 pm</title>
+      <description>RT85 / I270, RT85 / I270 Units: PE311, R3, A319, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-08-01 19:58:00</guid>
+      <pubDate>Sat, 01 Aug 2026 19:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:13 pm</title>
       <description>FINGERBOARD RD / SAINT CLAIR CT Units: A158, E251</description>
@@ -300,12 +306,6 @@
       <description>RT75 / OLD NEW MARKET RD, RT75 / OLD NEW MARKET RD Radio: 9C Units: E152</description>
       <guid isPermaLink="false">2026-07-30 19:53:00</guid>
       <pubDate>Thu, 30 Jul 2026 19:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:41 pm</title>
-      <description>RT77 / HUNTING CREEK, Apt/Unit:HTTPS://A91.IO/DZT15, RT77 / HUNTING CREEK Radio: 9B Units: A229, PE102</description>
-      <guid isPermaLink="false">2026-07-30 19:41:00</guid>
-      <pubDate>Thu, 30 Jul 2026 19:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
