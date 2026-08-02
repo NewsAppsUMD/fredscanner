@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Aug 2026 18:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 18:46:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
+      <description>RT15SB / 2.2MM Units: ALS30</description>
+      <guid isPermaLink="false">2026-08-02 14:37:00</guid>
+      <pubDate>Sun, 02 Aug 2026 14:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:36 pm</title>
+      <description>RT15SB / ROSEMONT AVE(ROSEMONT AVE), RT15SB / RAMP RT15SB TO ROSEMONT AVE Radio: 9B Units: A19, PE23</description>
+      <guid isPermaLink="false">2026-08-02 14:36:00</guid>
+      <pubDate>Sun, 02 Aug 2026 14:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:23 pm</title>
+      <description>RT15SB / 2.2MM Units: EK64</description>
+      <guid isPermaLink="false">2026-08-02 14:23:00</guid>
+      <pubDate>Sun, 02 Aug 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:23 pm</title>
+      <description>RT15SB / 2.2MM Units: TW6, A68</description>
+      <guid isPermaLink="false">2026-08-02 14:23:00</guid>
+      <pubDate>Sun, 02 Aug 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:15 pm</title>
+      <description>RT15SB / ROSEMONT AVE(ROSEMONT AVE), RT15SB / RAMP RT15SB TO ROSEMONT AVE Radio: 9B Units: A18, PE23</description>
+      <guid isPermaLink="false">2026-08-02 14:15:00</guid>
+      <pubDate>Sun, 02 Aug 2026 14:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 1:48 pm</title>
       <description>600 BLOCK CARROLL PKWY, FREDERICK HIGH SCHOOL Radio: 9C Units: E31, TT4</description>
@@ -276,36 +306,6 @@
       <description>LAT: &lt;39.5179&gt; LONG: &lt;-77.4924&gt; Radio: 9D Units: A129</description>
       <guid isPermaLink="false">2026-08-01 13:28:00</guid>
       <pubDate>Sat, 01 Aug 2026 13:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 1:11 pm</title>
-      <description>10400 BLOCK HAMBURG RD Radio: 9D Units: E82, E121, E72, R3, TR29, A89, ALS8, E212, BC903, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-08-01 13:11:00</guid>
-      <pubDate>Sat, 01 Aug 2026 13:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:42 pm</title>
-      <description>GREEN VALLEY RD / LEWISDALE RD Units: BR235</description>
-      <guid isPermaLink="false">2026-08-01 12:42:00</guid>
-      <pubDate>Sat, 01 Aug 2026 12:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:17 pm</title>
-      <description>200 BLOCK MAIN ST Radio: 9C Units: E82, E72, TW7, E212</description>
-      <guid isPermaLink="false">2026-08-01 12:17:00</guid>
-      <pubDate>Sat, 01 Aug 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:12 pm</title>
-      <description>6900 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR226</description>
-      <guid isPermaLink="false">2026-08-01 12:12:00</guid>
-      <pubDate>Sat, 01 Aug 2026 12:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 12:11 pm</title>
-      <description>6900 BLOCK MOUNTAINDALE RD Radio: 9C Units: BR116</description>
-      <guid isPermaLink="false">2026-08-01 12:11:00</guid>
-      <pubDate>Sat, 01 Aug 2026 12:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
