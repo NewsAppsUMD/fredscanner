@@ -11,7 +11,7 @@ This project is produced by the [Philip Merrill College of Journalism](https://m
 ## How It Works
 
 1. **Scraping** (`fredscanner.py`) — Fetches the latest incident data from frederickscanner.com every 30 minutes via GitHub Actions. New incidents are appended to `incidents.csv`.
-2. **RSS Feed** (`make_rss.py`) — Generates an RSS feed (`site/latest.rss`) with the 50 most recent incidents and copies the CSV into the `site/` directory.
+2. **RSS Feeds** (`make_rss.py`) — Generates a feed of the 50 most recent incidents (`site/latest.rss`) and a filtered feed of large responses, working fires, and rare incident types (`site/priority.rss`), and copies the CSV into the `site/` directory.
 3. **Dashboard** (`site/index.html`) — A static HTML page deployed to GitHub Pages that loads and visualizes the incident data client-side.
 
 ## Dashboard Features
@@ -21,8 +21,9 @@ This project is produced by the [Philip Merrill College of Journalism](https://m
 - Key metrics: total incidents, average per day, most common event type
 - 7-day and 30-day percentage change indicators
 - Interactive line chart of incidents over time
+- Frequent Locations leaderboard — top locations by incident count for the current filters, click-to-filter
 - Paginated incident records table
-- RSS feed for the latest incidents
+- RSS feed for the latest incidents, plus a filtered priority-alerts feed for large responses, working fires, and rare incident types
 
 ## Data
 

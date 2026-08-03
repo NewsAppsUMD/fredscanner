@@ -334,6 +334,31 @@
             </div>
         </div>
 
+        <div class="results" style="margin-bottom: 25px;">
+            <div class="results-header">
+                <h2>Frequent Locations</h2>
+                <div style="color: #999; font-size: 0.85em; margin-top: 4px;">
+                    Top locations by incident count for the current filters. Location text is as reported and not normalized — nearby variations in formatting may split the same address into separate rows. Click a row to filter the table below to that location.
+                </div>
+            </div>
+            <div class="table-container" style="max-height: 400px;">
+                <table id="locationLeaderboard">
+                    <thead>
+                        <tr>
+                            <th>Location</th>
+                            <th>Count</th>
+                            <th>Most Common Event</th>
+                        </tr>
+                    </thead>
+                    <tbody id="locationLeaderboardBody">
+                        <tr>
+                            <td colspan="3" class="loading">Loading incidents...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
         <div class="results">
             <div class="results-header">
                 <h2>Incident Records (<span id="resultCount">0</span>)</h2>
@@ -361,6 +386,7 @@
     <footer>
         <p>Data sourced from Frederick County Fire & Rescue |
         <a href="latest.rss" target="_blank">RSS Feed</a> |
+        <a href="priority.rss" target="_blank">Priority Alerts RSS</a> |
         <a href="https://github.com/NewsAppsUMD/fredscanner" target="_blank">GitHub Repository</a></p>
     </footer>
 
@@ -457,7 +483,52 @@
         function updateDisplay() {
             updateStats();
             updateChart();
+            updateLocationLeaderboard();
             updateTable();
+        }
+
+        function updateLocationLeaderboard() {
+            const tbody = document.getElementById('locationLeaderboardBody');
+
+            if (filteredIncidents.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" class="no-results">No incidents found matching your criteria</td></tr>';
+                return;
+            }
+
+            // Group by location, tracking a count per event type at each location
+            const byLocation = {};
+            filteredIncidents.forEach(incident => {
+                const loc = incident.Location;
+                if (!byLocation[loc]) {
+                    byLocation[loc] = { count: 0, events: {} };
+                }
+                byLocation[loc].count += 1;
+                byLocation[loc].events[incident.Event] = (byLocation[loc].events[incident.Event] || 0) + 1;
+            });
+
+            const topLocations = Object.entries(byLocation)
+                .sort((a, b) => b[1].count - a[1].count)
+                .slice(0, 20);
+
+            tbody.innerHTML = topLocations.map(([location, info]) => {
+                const topEvent = Object.entries(info.events).sort((a, b) => b[1] - a[1])[0][0];
+                const escapedLocation = location.replace(/"/g, "&quot;");
+                return `
+                    <tr class="location-row" data-location="${escapedLocation}" style="cursor: pointer;">
+                        <td>${location}</td>
+                        <td>${info.count.toLocaleString()}</td>
+                        <td><span class="event-badge">${topEvent}</span></td>
+                    </tr>
+                `;
+            }).join('');
+
+            tbody.querySelectorAll('.location-row').forEach(row => {
+                row.addEventListener('click', () => {
+                    document.getElementById('search').value = row.dataset.location;
+                    applyFilters();
+                    document.getElementById('incidentsTable').scrollIntoView({ behavior: 'smooth' });
+                });
+            });
         }
 
         function formatPctChange(current, previous) {
