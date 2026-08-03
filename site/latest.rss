@@ -6,7 +6,121 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 02:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:12:48 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:44 am</title>
+      <description>3600 BLOCK STONE BARN DR, Bldg:B Radio: 9C Units: E231, TT23</description>
+      <guid isPermaLink="false">2026-08-03 10:44:00</guid>
+      <pubDate>Mon, 03 Aug 2026 10:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:16 am</title>
+      <description>5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9D Units: PE311, E31, PE23, E331, E501, R3, TT4, TW1, A318, ALS31, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-08-03 10:16:00</guid>
+      <pubDate>Mon, 03 Aug 2026 10:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:12 am</title>
+      <description>100 BLOCK FREDERICK HEALTH WAY, FREDERICK HEALTH VILLAGE Radio: 9C Units: Q11</description>
+      <guid isPermaLink="false">2026-08-03 10:12:00</guid>
+      <pubDate>Mon, 03 Aug 2026 10:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:40 am</title>
+      <description>11400 BLOCK BETHESDA CHURCH RD Radio: 7A1 Units: PE251</description>
+      <guid isPermaLink="false">2026-08-03 09:40:00</guid>
+      <pubDate>Mon, 03 Aug 2026 09:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:39 am</title>
+      <description>500 BLOCK E MOUNTAIN RD Radio: 9B Units: A196, PE52</description>
+      <guid isPermaLink="false">2026-08-03 09:39:00</guid>
+      <pubDate>Mon, 03 Aug 2026 09:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 9:11 am</title>
+      <description>200 BLOCK E CHURCH ST, FREDERICK VISITATION ACADEMY Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-08-03 09:11:00</guid>
+      <pubDate>Mon, 03 Aug 2026 09:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 8:39 am</title>
+      <description>1000 BLOCK PATCHEL ST Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2026-08-03 08:39:00</guid>
+      <pubDate>Mon, 03 Aug 2026 08:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:22 am</title>
+      <description>HOLLOW RD / REDROSE CT Radio: 9C Units: BR125</description>
+      <guid isPermaLink="false">2026-08-03 08:22:00</guid>
+      <pubDate>Mon, 03 Aug 2026 08:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:40 am</title>
+      <description>8400 BLOCK SPIRES WAY, Bldg:CC, FREDERICK CLASSICAL CHARTER SCHOOL - RIVERSIDE CORPORATE PARK Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-08-03 07:40:00</guid>
+      <pubDate>Mon, 03 Aug 2026 07:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:26 am</title>
+      <description>8400 BLOCK SPIRES WAY, Bldg:CC, FREDERICK CLASSICAL CHARTER SCHOOL - RIVERSIDE CORPORATE PARK Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-08-03 07:26:00</guid>
+      <pubDate>Mon, 03 Aug 2026 07:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:22 am</title>
+      <description>8400 BLOCK SPIRES WAY, Bldg:CC, FREDERICK CLASSICAL CHARTER SCHOOL - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-08-03 07:22:00</guid>
+      <pubDate>Mon, 03 Aug 2026 07:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:00 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 07:00:00</guid>
+      <pubDate>Mon, 03 Aug 2026 07:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:46:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:36 am</title>
+      <description>9700 BLOCK BRAIDWOOD TER Radio: 9C Units: E231, PE251, TT23</description>
+      <guid isPermaLink="false">2026-08-03 06:36:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:21 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:21:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:10 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:10:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:25 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 05:25:00</guid>
+      <pubDate>Mon, 03 Aug 2026 05:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:54 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 04:54:00</guid>
+      <pubDate>Mon, 03 Aug 2026 04:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:54 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-08-03 02:54:00</guid>
+      <pubDate>Mon, 03 Aug 2026 02:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:01 pm</title>
       <description>W PATRICK ST / RT15 NB W PATRICK ST OFF RAMP &amp; RT 40 BRDGE HWY Radio: 9B Units: A38, R3</description>
@@ -192,120 +306,6 @@
       <description>3500 BLOCK BUCKEYSTOWN PIKE, THE BODY IMAGE THERAPY CENTER Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2026-08-02 04:58:00</guid>
       <pubDate>Sun, 02 Aug 2026 04:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:43 am</title>
-      <description>I70WB / 42MM, I70WB / 42MM Radio: 9B Units: A89, E82</description>
-      <guid isPermaLink="false">2026-08-02 04:43:00</guid>
-      <pubDate>Sun, 02 Aug 2026 04:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:40 am</title>
-      <description>3500 BLOCK BESS WAY Radio: 9C Units: PE251</description>
-      <guid isPermaLink="false">2026-08-02 04:40:00</guid>
-      <pubDate>Sun, 02 Aug 2026 04:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:37 am</title>
-      <description>RT28 / PLEASANT VIEW RD, RT28 / PLEASANT VIEW RD Radio: 9B Units: A149, E281</description>
-      <guid isPermaLink="false">2026-08-02 03:37:00</guid>
-      <pubDate>Sun, 02 Aug 2026 03:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:57 am</title>
-      <description>8300 BLOCK HOLLOW RD Radio: 9D Units: E121, RE74, R3, A129, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-08-02 02:57:00</guid>
-      <pubDate>Sun, 02 Aug 2026 02:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:57 am</title>
-      <description>I70EB / RT355, I70EB / RT355 Units: E11, E31, R3, A18, A38</description>
-      <guid isPermaLink="false">2026-08-02 00:57:00</guid>
-      <pubDate>Sun, 02 Aug 2026 00:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:58 pm</title>
-      <description>I270SB / BENNETT CREEK, I270SB / BENNETT CREEK Units: E231, R14, A239, TT23</description>
-      <guid isPermaLink="false">2026-08-01 23:58:00</guid>
-      <pubDate>Sat, 01 Aug 2026 23:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:46 pm</title>
-      <description>100 BLOCK W SOUTH ST, Apt/Unit:1 Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-08-01 23:46:00</guid>
-      <pubDate>Sat, 01 Aug 2026 23:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 11:14 pm</title>
-      <description>I70EB / 41MM, I70EB / 41MM Units: ALS8</description>
-      <guid isPermaLink="false">2026-08-01 23:14:00</guid>
-      <pubDate>Sat, 01 Aug 2026 23:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 11:12 pm</title>
-      <description>I70EB / 41MM, I70EB / 41MM Units: E82, A89, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-08-01 23:12:00</guid>
-      <pubDate>Sat, 01 Aug 2026 23:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:54 pm</title>
-      <description>100 BLOCK S MAPLE AVE(P), Apt/Unit:213, THE RESIDENCES AT RAILROAD SQUARE Units: TW7</description>
-      <guid isPermaLink="false">2026-08-01 21:54:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:50 pm</title>
-      <description>100 BLOCK S MAPLE AVE(P), Apt/Unit:213, THE RESIDENCES AT RAILROAD SQUARE Units: PE52, T5</description>
-      <guid isPermaLink="false">2026-08-01 21:50:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:33 pm</title>
-      <description>11400 BLOCK CARDINAL LN Units: PE251</description>
-      <guid isPermaLink="false">2026-08-01 21:33:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 9:10 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E162</description>
-      <guid isPermaLink="false">2026-08-01 21:10:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:07 pm</title>
-      <description>11400 BLOCK CARDINAL LN Units: PE251</description>
-      <guid isPermaLink="false">2026-08-01 21:07:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 pm</title>
-      <description>RT85 / I270, RT85 / I270 Units: PE311, R3, A319, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-08-01 19:58:00</guid>
-      <pubDate>Sat, 01 Aug 2026 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:13 pm</title>
-      <description>FINGERBOARD RD / SAINT CLAIR CT Units: A158, E251</description>
-      <guid isPermaLink="false">2026-08-01 19:13:00</guid>
-      <pubDate>Sat, 01 Aug 2026 19:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:03 pm</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 Units: A37</description>
-      <guid isPermaLink="false">2026-08-01 19:03:00</guid>
-      <pubDate>Sat, 01 Aug 2026 19:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:48 pm</title>
-      <description>RT15SB / N FRANKLINVILLE RD (S), GATEWAY FARM MARKET Units: A308, A309</description>
-      <guid isPermaLink="false">2026-08-01 18:48:00</guid>
-      <pubDate>Sat, 01 Aug 2026 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:45 pm</title>
-      <description>RT15SB / N FRANKLINVILLE RD (S), GATEWAY FARM MARKET Units: A68, A69, A229, A169, A299, ALS29, EK64, TW6, BC901</description>
-      <guid isPermaLink="false">2026-08-01 18:45:00</guid>
-      <pubDate>Sat, 01 Aug 2026 18:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
