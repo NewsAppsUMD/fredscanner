@@ -1,0 +1,44 @@
+name: Geocode backfill
+
+# One-off, manually-triggered job to geocode the full history of incident
+# locations into geocode_cache.csv. Run this once after the map view ships,
+# or again if geocode_cache.csv is ever deleted/reset. Routine incremental
+# geocoding of newly-seen locations happens in scrape.yaml on every run --
+# this workflow is only for the large initial (or a rebuilt) cache.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Check out this repo"
+        uses: actions/checkout@v4
+
+      - name: Checkout Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run tests
+        run: |
+          python test_threads.py
+          python test_geocode.py
+
+      - name: Geocode all locations
+        run: python geocode.py
+
+      - name: "Commit and push if it changed"
+        run: |-
+            git config user.name "Automated"
+            git config user.email "actions@users.noreply.github.com"
+            git add geocode_cache.csv
+            git commit -m "Geocode backfill: $(date -u)" || exit 0
+            git push

@@ -6,6 +6,11 @@
     <title>Frederick County Fire & Rescue Incidents Dashboard</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
     <style>
         * {
             margin: 0;
@@ -362,6 +367,14 @@
             </div>
         </div>
 
+        <div class="chart-container">
+            <h2 style="color: #333;">Incident Map</h2>
+            <div style="color: #999; font-size: 0.85em; margin: 4px 0 20px;">
+                Geocoded incidents for the current filters (<span id="mapMappableCount">0</span> plotted). Locations are block-level as reported by dispatch, not exact addresses, and highway locations given only as a mile marker aren't shown here — see Highway Hotspots below instead. Markers cluster together when zoomed out; click one for details.
+            </div>
+            <div id="incidentsMap" style="height: 500px; border-radius: 6px;"></div>
+        </div>
+
         <div class="results" style="margin-bottom: 25px;">
             <div class="results-header">
                 <h2>Frequent Locations</h2>
@@ -453,6 +466,8 @@
         let filteredThreads = [];
         let incidentsChart = null;
         let monthlyChart = null;
+        let incidentsMap = null;
+        let markerClusterGroup = null;
 
         // Parse a Units field into unit tokens the same way the scraper
         // does server-side: split on the last "Units:" occurrence, and
@@ -552,6 +567,9 @@
                     }
                 });
 
+                const lat = first.Lat ? parseFloat(first.Lat) : NaN;
+                const lon = first.Lon ? parseFloat(first.Lon) : NaN;
+
                 threads.push({
                     id: threadId,
                     location: first.Location,
@@ -563,6 +581,8 @@
                     postCount: sorted.length,
                     unitUnion,
                     headlineEvent: headline.Event,
+                    lat: Number.isFinite(lat) ? lat : null,
+                    lon: Number.isFinite(lon) ? lon : null,
                 });
             });
             return threads;
@@ -661,9 +681,48 @@
             updateStats();
             updateChart();
             updateMonthlyTrends();
+            updateMap();
             updateLocationLeaderboard();
             updateHighwayHotspots();
             updateTable();
+        }
+
+        // Frederick County, MD -- used as the map's initial view before
+        // any incidents have loaded.
+        const FREDERICK_COUNTY_CENTER = [39.4143, -77.4105];
+
+        function updateMap() {
+            if (!incidentsMap) {
+                incidentsMap = L.map('incidentsMap').setView(FREDERICK_COUNTY_CENTER, 10);
+                L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+                    maxZoom: 18
+                }).addTo(incidentsMap);
+                markerClusterGroup = L.markerClusterGroup();
+                incidentsMap.addLayer(markerClusterGroup);
+            }
+
+            markerClusterGroup.clearLayers();
+
+            const mappable = filteredThreads.filter(t => t.lat !== null && t.lon !== null);
+            document.getElementById('mapMappableCount').textContent =
+                `${mappable.length.toLocaleString()} of ${filteredThreads.length.toLocaleString()}`;
+
+            mappable.forEach(thread => {
+                const marker = L.marker([thread.lat, thread.lon]);
+                const dateLabel = thread.lastUpdated.toLocaleDateString('en-US', {
+                    month: 'short',
+                    day: 'numeric',
+                    year: 'numeric'
+                });
+                marker.bindPopup(`
+                    <strong>${thread.headlineEvent}</strong><br>
+                    ${thread.location}<br>
+                    ${dateLabel}, ${thread.lastTime}<br>
+                    <small>${thread.unitUnion.join(', ')}</small>
+                `);
+                markerClusterGroup.addLayer(marker);
+            });
         }
 
         function updateLocationLeaderboard() {

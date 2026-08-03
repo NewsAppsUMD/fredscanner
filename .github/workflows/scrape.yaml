@@ -28,10 +28,15 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Run tests
-        run: python test_threads.py
+        run: |
+          python test_threads.py
+          python test_geocode.py
 
       - name: Run script
         run: python fredscanner.py
+
+      - name: Geocode new locations
+        run: python geocode.py
 
       - name: Run RSS
         run: python make_rss.py

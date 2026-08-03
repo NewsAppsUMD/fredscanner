@@ -12,6 +12,7 @@ import pytz
 from datetime import datetime
 
 from threads import assign_threads
+from geocode import read_cache
 
 # Set directories we'll use
 THIS_DIR = Path(__file__).parent.absolute()
@@ -115,11 +116,19 @@ def main():
     )
     priority_feed.rss_file(THIS_DIR / "site" / "priority.rss", pretty=True)
 
-    # Copy incidents.csv to the site directory for the dashboard, with an
-    # added ThreadID column so the dashboard can group posts into incidents.
-    # The raw incidents.csv in the repo is left untouched.
+    # Copy incidents.csv to the site directory for the dashboard, with
+    # added ThreadID and Lat/Lon columns so the dashboard can group posts
+    # into incidents and plot them on the map. Locations that haven't been
+    # geocoded yet (or couldn't be) simply get blank Lat/Lon. The raw
+    # incidents.csv and geocode_cache.csv in the repo are left untouched.
+    geocode_cache = read_cache()
+    for row in rows:
+        cached = geocode_cache.get(row["Location"])
+        row["Lat"] = cached["Lat"] if cached else ""
+        row["Lon"] = cached["Lon"] if cached else ""
+
     with open(THIS_DIR / "site" / "incidents.csv", "w", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=list(fieldnames) + ["ThreadID"], extrasaction="ignore")
+        writer = csv.DictWriter(f, fieldnames=list(fieldnames) + ["ThreadID", "Lat", "Lon"], extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
 
