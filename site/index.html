@@ -334,6 +334,34 @@
             </div>
         </div>
 
+        <div class="chart-container">
+            <h2 style="color: #333;">Monthly Trends</h2>
+            <div style="color: #999; font-size: 0.85em; margin: 4px 0 20px;">
+                Incidents per month across the full history (respects the Event Type filter, not the date range or search box). Useful for spotting a month that's running unusually high or low.
+            </div>
+            <div class="chart-wrapper">
+                <canvas id="monthlyChart"></canvas>
+            </div>
+            <div class="table-container" style="max-height: 300px; margin-top: 20px;">
+                <table id="monthlyTable">
+                    <thead>
+                        <tr>
+                            <th>Month</th>
+                            <th>Incidents</th>
+                            <th>Avg. Per Day</th>
+                            <th>Most Common Event</th>
+                            <th>Change vs. Prior Month</th>
+                        </tr>
+                    </thead>
+                    <tbody id="monthlyTableBody">
+                        <tr>
+                            <td colspan="5" class="loading">Loading incidents...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
         <div class="results" style="margin-bottom: 25px;">
             <div class="results-header">
                 <h2>Frequent Locations</h2>
@@ -351,6 +379,31 @@
                         </tr>
                     </thead>
                     <tbody id="locationLeaderboardBody">
+                        <tr>
+                            <td colspan="3" class="loading">Loading incidents...</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="results" style="margin-bottom: 25px;">
+            <div class="results-header">
+                <h2>Highway Hotspots</h2>
+                <div style="color: #999; font-size: 0.85em; margin-top: 4px;">
+                    Vehicle accidents on interstates and state routes, grouped by highway and mile marker (or nearest cross street when no mile marker is given) for the current filters. Click a row to filter the table below to that highway.
+                </div>
+            </div>
+            <div class="table-container" style="max-height: 400px;">
+                <table id="highwayLeaderboard">
+                    <thead>
+                        <tr>
+                            <th>Highway</th>
+                            <th>Segment</th>
+                            <th>Crashes</th>
+                        </tr>
+                    </thead>
+                    <tbody id="highwayLeaderboardBody">
                         <tr>
                             <td colspan="3" class="loading">Loading incidents...</td>
                         </tr>
@@ -399,6 +452,7 @@
         let allThreads = [];
         let filteredThreads = [];
         let incidentsChart = null;
+        let monthlyChart = null;
 
         // Parse a Units field into unit tokens the same way the scraper
         // does server-side: split on the last "Units:" occurrence, and
@@ -419,6 +473,48 @@
             const m = String(date.getMonth() + 1).padStart(2, '0');
             const d = String(date.getDate()).padStart(2, '0');
             return `${y}-${m}-${d}`;
+        }
+
+        function monthKeyLocal(date) {
+            const y = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            return `${y}-${m}`;
+        }
+
+        function isAccidentEvent(event) {
+            return /ACCIDENT|PEDESTRIAN|STRUCK/i.test(event);
+        }
+
+        // Identify a highway route + segment from a Location string, e.g.
+        // "I70EB / 38MM" -> { route: "I70 EB", segment: "mile 35-39" } or
+        // "RT15NB / BIGGS FORD RD" -> { route: "RT15 NB", segment: "BIGGS FORD RD" }.
+        // Returns null for non-highway locations.
+        function parseHighwaySegment(location) {
+            const routeMatch = location.match(/\b(I|RT|US|MD)-?\d+(NB|SB|EB|WB)?\b/i);
+            if (!routeMatch) return null;
+            // Keep the route label as an exact substring of Location (just
+            // uppercased) so clicking a row can filter the table below by
+            // searching for it.
+            const route = routeMatch[0].toUpperCase();
+
+            const mmMatch = location.match(/(\d+)\s?MM\b/i);
+            if (mmMatch) {
+                const marker = parseInt(mmMatch[1], 10);
+                const bucketStart = Math.floor(marker / 5) * 5;
+                return {
+                    route,
+                    segment: `mile ${bucketStart}-${bucketStart + 4}`,
+                    key: `${route}|MM${bucketStart}`,
+                };
+            }
+
+            const afterRoute = location.slice(routeMatch.index + routeMatch[0].length);
+            const crossStreet = afterRoute.split(',')[0].replace(/^[\s/-]+/, '').trim();
+            return {
+                route,
+                segment: crossStreet || '(unspecified)',
+                key: `${route}|${crossStreet}`,
+            };
         }
 
         // Group posts by ThreadID (assigned server-side by threads.py) into
@@ -564,7 +660,9 @@
         function updateDisplay() {
             updateStats();
             updateChart();
+            updateMonthlyTrends();
             updateLocationLeaderboard();
+            updateHighwayHotspots();
             updateTable();
         }
 
@@ -606,6 +704,50 @@
             tbody.querySelectorAll('.location-row').forEach(row => {
                 row.addEventListener('click', () => {
                     document.getElementById('search').value = row.dataset.location;
+                    applyFilters();
+                    document.getElementById('incidentsTable').scrollIntoView({ behavior: 'smooth' });
+                });
+            });
+        }
+
+        function updateHighwayHotspots() {
+            const tbody = document.getElementById('highwayLeaderboardBody');
+
+            const bySegment = {};
+            filteredThreads
+                .filter(t => isAccidentEvent(t.headlineEvent))
+                .forEach(thread => {
+                    const hw = parseHighwaySegment(thread.location);
+                    if (!hw) return;
+                    if (!bySegment[hw.key]) {
+                        bySegment[hw.key] = { route: hw.route, segment: hw.segment, count: 0 };
+                    }
+                    bySegment[hw.key].count += 1;
+                });
+
+            const topSegments = Object.values(bySegment)
+                .sort((a, b) => b.count - a.count)
+                .slice(0, 15);
+
+            if (topSegments.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="3" class="no-results">No highway crashes found matching your criteria</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = topSegments.map(seg => {
+                const escapedRoute = seg.route.replace(/"/g, "&quot;");
+                return `
+                    <tr class="highway-row" data-route="${escapedRoute}" style="cursor: pointer;">
+                        <td><span class="event-badge">${seg.route}</span></td>
+                        <td>${seg.segment}</td>
+                        <td>${seg.count.toLocaleString()}</td>
+                    </tr>
+                `;
+            }).join('');
+
+            tbody.querySelectorAll('.highway-row').forEach(row => {
+                row.addEventListener('click', () => {
+                    document.getElementById('search').value = row.dataset.route;
                     applyFilters();
                     document.getElementById('incidentsTable').scrollIntoView({ behavior: 'smooth' });
                 });
@@ -779,6 +921,117 @@
                     }
                 }
             });
+        }
+
+        function updateMonthlyTrends() {
+            // Respects the Event Type filter but not the date range or
+            // search box -- the point of this panel is the full-history
+            // monthly cadence, not whatever window the table below is
+            // currently showing.
+            const eventFilter = document.getElementById('eventFilter').value;
+            const source = eventFilter
+                ? allThreads.filter(t => t.headlineEvent === eventFilter)
+                : allThreads;
+
+            const byMonth = {};
+            source.forEach(thread => {
+                const key = monthKeyLocal(thread.firstSeen);
+                if (!byMonth[key]) {
+                    byMonth[key] = { count: 0, events: {} };
+                }
+                byMonth[key].count += 1;
+                byMonth[key].events[thread.headlineEvent] = (byMonth[key].events[thread.headlineEvent] || 0) + 1;
+            });
+
+            const monthKeys = Object.keys(byMonth).sort();
+            const now = new Date();
+            const currentMonthKey = monthKeyLocal(now);
+
+            const monthLabel = key => {
+                const [y, m] = key.split('-').map(Number);
+                return new Date(y, m - 1, 1).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+            };
+
+            const ctx = document.getElementById('monthlyChart');
+            if (monthlyChart) {
+                monthlyChart.destroy();
+            }
+            monthlyChart = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: monthKeys.map(monthLabel),
+                    datasets: [{
+                        label: 'Incidents per Month',
+                        data: monthKeys.map(key => byMonth[key].count),
+                        backgroundColor: 'rgba(211, 47, 47, 0.6)',
+                        borderColor: '#d32f2f',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    scales: {
+                        x: {
+                            grid: {
+                                display: false
+                            },
+                            ticks: {
+                                maxRotation: 45,
+                                minRotation: 45,
+                                autoSkip: true,
+                                maxTicksLimit: 24
+                            }
+                        },
+                        y: {
+                            beginAtZero: true,
+                            ticks: {
+                                precision: 0
+                            },
+                            grid: {
+                                color: 'rgba(0, 0, 0, 0.05)'
+                            }
+                        }
+                    }
+                }
+            });
+
+            const tbody = document.getElementById('monthlyTableBody');
+            if (monthKeys.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="5" class="no-results">No incidents found matching your criteria</td></tr>';
+                return;
+            }
+
+            const rows = monthKeys.map((key, index) => {
+                const info = byMonth[key];
+                const [year, month] = key.split('-').map(Number);
+                const daysInMonth = key === currentMonthKey
+                    ? now.getDate()
+                    : new Date(year, month, 0).getDate();
+                const avgPerDay = (info.count / daysInMonth).toFixed(1);
+                const topEvent = Object.entries(info.events).sort((a, b) => b[1] - a[1])[0][0];
+                const prevCount = index > 0 ? byMonth[monthKeys[index - 1]].count : null;
+                const changeHtml = prevCount === null
+                    ? '<span class="pct-na">N/A</span>'
+                    : formatPctChange(info.count, prevCount);
+                return `
+                    <tr>
+                        <td>${monthLabel(key)}</td>
+                        <td>${info.count.toLocaleString()}</td>
+                        <td>${avgPerDay}</td>
+                        <td><span class="event-badge">${topEvent}</span></td>
+                        <td>${changeHtml}</td>
+                    </tr>
+                `;
+            });
+
+            // Most recent month first
+            tbody.innerHTML = rows.slice().reverse().join('');
         }
 
         function threadRowHtml(thread, index) {
