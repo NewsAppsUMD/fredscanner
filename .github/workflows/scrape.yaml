@@ -1,6 +1,8 @@
 name: Update alerts
 on:
   push:
+    branches:
+      - main
   schedule:
     - cron: "*/30 * * * *"
 
