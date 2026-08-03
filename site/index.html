@@ -362,6 +362,9 @@
         <div class="results">
             <div class="results-header">
                 <h2>Incident Records (<span id="resultCount">0</span>)</h2>
+                <div style="color: #999; font-size: 0.85em; margin-top: 4px;">
+                    Repeat dispatches for the same incident (e.g. a fire alarm that escalates) are grouped into one row. Click a row with an updates badge to see each individual dispatch.
+                </div>
             </div>
             <div class="table-container">
                 <table id="incidentsTable">
@@ -393,7 +396,81 @@
     <script>
         let allIncidents = [];
         let filteredIncidents = [];
+        let allThreads = [];
+        let filteredThreads = [];
         let incidentsChart = null;
+
+        // Parse a Units field into unit tokens the same way the scraper
+        // does server-side: split on the last "Units:" occurrence, and
+        // strip radio-channel tokens (e.g. "9C") that leak into the list.
+        function parseUnitsClient(unitsStr) {
+            if (!unitsStr) return [];
+            const marker = 'Units:';
+            const idx = unitsStr.lastIndexOf(marker);
+            if (idx === -1) return [];
+            const unitList = unitsStr.slice(idx + marker.length);
+            return unitList.split(',')
+                .map(u => u.trim())
+                .filter(u => u && !/^9\d*[A-Z]?$/.test(u));
+        }
+
+        function dateKeyLocal(date) {
+            const y = date.getFullYear();
+            const m = String(date.getMonth() + 1).padStart(2, '0');
+            const d = String(date.getDate()).padStart(2, '0');
+            return `${y}-${m}-${d}`;
+        }
+
+        // Group posts by ThreadID (assigned server-side by threads.py) into
+        // incident threads: one entry per real-world incident, with a union
+        // of all responding units and the most severe event as the
+        // headline. Falls back to one thread per post if ThreadID is
+        // missing (e.g. a stale cached incidents.csv).
+        function buildThreadsFromPosts(posts) {
+            const byThread = new Map();
+            posts.forEach(post => {
+                const threadId = post.ThreadID || `${post.Datetime}|${post.Location}`;
+                if (!byThread.has(threadId)) {
+                    byThread.set(threadId, []);
+                }
+                byThread.get(threadId).push(post);
+            });
+
+            const threads = [];
+            byThread.forEach((members, threadId) => {
+                const sorted = [...members].sort((a, b) => a.datetime - b.datetime);
+                const first = sorted[0];
+                const last = sorted[sorted.length - 1];
+
+                let headline = first;
+                let headlineUnitCount = -1;
+                const unitUnion = [];
+                sorted.forEach(member => {
+                    const units = parseUnitsClient(member.Units);
+                    units.forEach(u => {
+                        if (!unitUnion.includes(u)) unitUnion.push(u);
+                    });
+                    if (units.length >= headlineUnitCount) {
+                        headlineUnitCount = units.length;
+                        headline = member;
+                    }
+                });
+
+                threads.push({
+                    id: threadId,
+                    location: first.Location,
+                    members: sorted,
+                    firstSeen: first.datetime,
+                    lastUpdated: last.datetime,
+                    firstTime: first.Time,
+                    lastTime: last.Time,
+                    postCount: sorted.length,
+                    unitUnion,
+                    headlineEvent: headline.Event,
+                });
+            });
+            return threads;
+        }
 
         // Load and parse CSV data
         async function loadData() {
@@ -424,6 +501,8 @@
         }
 
         function initializePage() {
+            allThreads = buildThreadsFromPosts(allIncidents);
+
             // Populate event filter
             const events = [...new Set(allIncidents.map(i => i.Event))].sort();
             const eventFilter = document.getElementById('eventFilter');
@@ -477,6 +556,8 @@
                 return true;
             });
 
+            filteredThreads = buildThreadsFromPosts(filteredIncidents);
+
             updateDisplay();
         }
 
@@ -490,20 +571,20 @@
         function updateLocationLeaderboard() {
             const tbody = document.getElementById('locationLeaderboardBody');
 
-            if (filteredIncidents.length === 0) {
+            if (filteredThreads.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="3" class="no-results">No incidents found matching your criteria</td></tr>';
                 return;
             }
 
-            // Group by location, tracking a count per event type at each location
+            // Group by location, tracking a count per headline event at each location
             const byLocation = {};
-            filteredIncidents.forEach(incident => {
-                const loc = incident.Location;
+            filteredThreads.forEach(thread => {
+                const loc = thread.location;
                 if (!byLocation[loc]) {
                     byLocation[loc] = { count: 0, events: {} };
                 }
                 byLocation[loc].count += 1;
-                byLocation[loc].events[incident.Event] = (byLocation[loc].events[incident.Event] || 0) + 1;
+                byLocation[loc].events[thread.headlineEvent] = (byLocation[loc].events[thread.headlineEvent] || 0) + 1;
             });
 
             const topLocations = Object.entries(byLocation)
@@ -551,8 +632,8 @@
         function updatePercentageChanges() {
             const eventFilter = document.getElementById('eventFilter').value;
             const source = eventFilter
-                ? allIncidents.filter(i => i.Event === eventFilter)
-                : allIncidents;
+                ? allThreads.filter(t => t.headlineEvent === eventFilter)
+                : allThreads;
 
             const now = new Date();
             const startOfToday = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 23, 59, 59);
@@ -562,7 +643,7 @@
                 start.setDate(start.getDate() - daysAgoStart);
                 const end = new Date(startOfToday);
                 end.setDate(end.getDate() - daysAgoEnd);
-                return source.filter(i => i.datetime > start && i.datetime <= end).length;
+                return source.filter(t => t.firstSeen > start && t.firstSeen <= end).length;
             }
 
             const last7 = countInRange(7, 0);
@@ -575,13 +656,13 @@
         }
 
         function updateStats() {
-            const total = filteredIncidents.length;
+            const total = filteredThreads.length;
             document.getElementById('totalIncidents').textContent = total.toLocaleString();
             document.getElementById('resultCount').textContent = total.toLocaleString();
 
             if (total > 0) {
                 // Date range
-                const dates = filteredIncidents.map(i => i.datetime);
+                const dates = filteredThreads.map(t => t.firstSeen);
                 const minDate = new Date(Math.min(...dates));
                 const maxDate = new Date(Math.max(...dates));
                 const daysDiff = Math.ceil((maxDate - minDate) / (1000 * 60 * 60 * 24)) || 1;
@@ -595,8 +676,8 @@
 
                 // Most common event
                 const eventCounts = {};
-                filteredIncidents.forEach(i => {
-                    eventCounts[i.Event] = (eventCounts[i.Event] || 0) + 1;
+                filteredThreads.forEach(t => {
+                    eventCounts[t.headlineEvent] = (eventCounts[t.headlineEvent] || 0) + 1;
                 });
                 const topEvent = Object.entries(eventCounts)
                     .sort((a, b) => b[1] - a[1])[0];
@@ -612,10 +693,10 @@
         }
 
         function updateChart() {
-            // Group incidents by date
+            // Group incidents by the date they were first reported
             const incidentsByDate = {};
-            filteredIncidents.forEach(incident => {
-                const dateKey = incident.Date;
+            filteredThreads.forEach(thread => {
+                const dateKey = dateKeyLocal(thread.firstSeen);
                 incidentsByDate[dateKey] = (incidentsByDate[dateKey] || 0) + 1;
             });
 
@@ -625,7 +706,7 @@
 
             // Format dates for display
             const labels = sortedDates.map(date => {
-                const d = new Date(date);
+                const d = new Date(date + 'T00:00:00');
                 return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
             });
 
@@ -700,43 +781,80 @@
             });
         }
 
+        function threadRowHtml(thread, index) {
+            const dateLabel = thread.lastUpdated.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric'
+            });
+            const isMulti = thread.postCount > 1;
+            const updatesBadge = isMulti
+                ? `<span class="event-badge" style="background:#fff3e0;color:#e65100;margin-left:6px;">&times;${thread.postCount} updates</span>`
+                : '';
+            const firstReportedNote = isMulti
+                ? `<br><small style="color: #999;">first reported ${thread.firstTime}</small>`
+                : '';
+
+            const mainRow = `
+                <tr class="thread-row${isMulti ? ' expandable' : ''}" data-thread-index="${index}" style="${isMulti ? 'cursor: pointer;' : ''}">
+                    <td style="white-space: nowrap;">
+                        ${dateLabel}<br>
+                        <small style="color: #666;">${thread.lastTime}</small>${firstReportedNote}
+                    </td>
+                    <td><span class="event-badge">${thread.headlineEvent}</span>${updatesBadge}</td>
+                    <td>${thread.location}</td>
+                    <td><small>${thread.unitUnion.join(', ')}</small></td>
+                </tr>
+            `;
+
+            if (!isMulti) return mainRow;
+
+            const detailRows = thread.members.map(member => `
+                <tr class="thread-detail" data-thread-index="${index}" style="display: none; background: #fafafa;">
+                    <td style="white-space: nowrap; padding-left: 30px;"><small style="color: #666;">${member.Time}</small></td>
+                    <td><small>${member.Event}</small></td>
+                    <td colspan="2"><small>${member.Units}</small></td>
+                </tr>
+            `).join('');
+
+            return mainRow + detailRows;
+        }
+
         function updateTable() {
             const tbody = document.getElementById('tableBody');
 
-            if (filteredIncidents.length === 0) {
+            if (filteredThreads.length === 0) {
                 tbody.innerHTML = '<tr><td colspan="4" class="no-results">No incidents found matching your criteria</td></tr>';
                 return;
             }
 
-            // Limit to first 500 for performance
-            const displayIncidents = filteredIncidents.slice(0, 500);
+            // Limit to first 500 incidents for performance
+            const sortedThreads = [...filteredThreads].sort((a, b) => b.lastUpdated - a.lastUpdated);
+            const displayThreads = sortedThreads.slice(0, 500);
 
-            tbody.innerHTML = displayIncidents.map(incident => `
-                <tr>
-                    <td style="white-space: nowrap;">
-                        ${incident.datetime.toLocaleDateString('en-US', {
-                            month: 'short',
-                            day: 'numeric',
-                            year: 'numeric'
-                        })}<br>
-                        <small style="color: #666;">${incident.Time}</small>
-                    </td>
-                    <td><span class="event-badge">${incident.Event}</span></td>
-                    <td>${incident.Location}</td>
-                    <td><small>${incident.Units}</small></td>
-                </tr>
-            `).join('');
+            let html = displayThreads.map((thread, index) => threadRowHtml(thread, index)).join('');
 
-            if (filteredIncidents.length > 500) {
-                tbody.innerHTML += `
+            if (filteredThreads.length > 500) {
+                html += `
                     <tr>
                         <td colspan="4" style="text-align: center; padding: 20px; color: #666; font-style: italic;">
-                            Showing first 500 of ${filteredIncidents.length.toLocaleString()} results.
+                            Showing first 500 of ${filteredThreads.length.toLocaleString()} incidents.
                             Please refine your search to see more specific results.
                         </td>
                     </tr>
                 `;
             }
+
+            tbody.innerHTML = html;
+
+            tbody.querySelectorAll('.expandable').forEach(row => {
+                row.addEventListener('click', () => {
+                    const index = row.dataset.threadIndex;
+                    tbody.querySelectorAll(`.thread-detail[data-thread-index="${index}"]`).forEach(detail => {
+                        detail.style.display = detail.style.display === 'none' ? '' : 'none';
+                    });
+                });
+            });
         }
 
         function resetFilters() {
