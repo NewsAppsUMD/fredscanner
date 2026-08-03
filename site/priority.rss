@@ -6,144 +6,156 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 15:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:39:03 +0000</lastBuildDate>
     <item>
       <title>BUILDING FIRE: 10:16 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9D Units: PE311, E31, PE23, E331, E501, R3, TT4, TW1, A318, ALS31, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-03 10:16:00</guid>
+      <description>5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA — units: PE311, E31, PE23, E331, E501, R3, TT4, TW1, A318, ALS31, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-08-03 10:16:00|5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA</guid>
       <pubDate>Mon, 03 Aug 2026 10:16:00 -0400</pubDate>
     </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 2:57 am</title>
-      <description>8300 BLOCK HOLLOW RD Radio: 9D Units: E121, RE74, R3, A129, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-08-02 02:57:00</guid>
+      <description>8300 BLOCK HOLLOW RD — units: E121, RE74, R3, A129, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-08-02 02:57:00|8300 BLOCK HOLLOW RD</guid>
       <pubDate>Sun, 02 Aug 2026 02:57:00 -0400</pubDate>
     </item>
     <item>
-      <title>MOUNTAIN RESCUE: 1:57 pm</title>
-      <description>LAT: &lt;39.5179&gt; LONG: &lt;-77.4924&gt; Radio: 9D Units: EMS901</description>
-      <guid isPermaLink="false">2026-08-01 13:57:00</guid>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 6:41 pm (17 units, 3 updates)</title>
+      <description>RT15SB / N FRANKLINVILLE RD (S), GATEWAY FARM MARKET — units: PE102, R10, A307, ALS30, BC902, EMS900, A68, A69, A229, A169, A299, ALS29, EK64, TW6, BC901, A308, A309 (first reported 6:41 pm)</description>
+      <guid isPermaLink="false">2026-08-01 18:41:00|RT15SB / N FRANKLINVILLE RD (S), GATEWAY FARM MARKET</guid>
+      <pubDate>Sat, 01 Aug 2026 18:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 1:28 pm (2 units, 2 updates)</title>
+      <description>LAT: &lt;39.5179&gt; LONG: &lt;-77.4924&gt; — units: A129, EMS901 (first reported 1:28 pm)</description>
+      <guid isPermaLink="false">2026-08-01 13:28:00|LAT: &lt;39.5179&gt; LONG: &lt;-77.4924&gt;</guid>
       <pubDate>Sat, 01 Aug 2026 13:57:00 -0400</pubDate>
     </item>
     <item>
-      <title>MOUNTAIN RESCUE: 1:28 pm</title>
-      <description>LAT: &lt;39.5179&gt; LONG: &lt;-77.4924&gt; Radio: 9D Units: A129</description>
-      <guid isPermaLink="false">2026-08-01 13:28:00</guid>
-      <pubDate>Sat, 01 Aug 2026 13:28:00 -0400</pubDate>
-    </item>
-    <item>
       <title>MOUNTAIN RESCUE: 1:11 pm</title>
-      <description>10400 BLOCK HAMBURG RD Radio: 9D Units: E82, E121, E72, R3, TR29, A89, ALS8, E212, BC903, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-08-01 13:11:00</guid>
+      <description>10400 BLOCK HAMBURG RD — units: E82, E121, E72, R3, TR29, A89, ALS8, E212, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-08-01 13:11:00|10400 BLOCK HAMBURG RD</guid>
       <pubDate>Sat, 01 Aug 2026 13:11:00 -0400</pubDate>
     </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 11:57 am</title>
-      <description>6000 BLOCK ELMER DERR RD Radio: 9D Units: PE311, R20, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-08-01 11:57:00</guid>
+      <description>6000 BLOCK ELMER DERR RD — units: PE311, R20, A319, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-08-01 11:57:00|6000 BLOCK ELMER DERR RD</guid>
       <pubDate>Sat, 01 Aug 2026 11:57:00 -0400</pubDate>
     </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 10:36 pm</title>
-      <description>4500 BLOCK COXEY BROWN RD Radio: 9D Units: E72, E11</description>
-      <guid isPermaLink="false">2026-07-31 22:36:00</guid>
+      <description>4500 BLOCK COXEY BROWN RD — units: E72, E11</description>
+      <guid isPermaLink="false">2026-07-31 22:36:00|4500 BLOCK COXEY BROWN RD</guid>
       <pubDate>Fri, 31 Jul 2026 22:36:00 -0400</pubDate>
     </item>
     <item>
       <title>MOUNTAIN RESCUE: 10:03 pm</title>
-      <description>9300 BLOCK GAMBRILL PARK RD Radio: 9D Units: E121, E82, E72, R3, TR29, A129, ALS8, E212, BC903, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-07-31 22:03:00</guid>
+      <description>9300 BLOCK GAMBRILL PARK RD — units: E121, E82, E72, R3, TR29, A129, ALS8, E212, BC903, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-07-31 22:03:00|9300 BLOCK GAMBRILL PARK RD</guid>
       <pubDate>Fri, 31 Jul 2026 22:03:00 -0400</pubDate>
     </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 3:35 pm</title>
-      <description>200 BLOCK SCHOOLHOUSE DR, MIDDLETOWN HIGH SCHOOL Radio: 9D Units: TW7, E121</description>
-      <guid isPermaLink="false">2026-07-30 15:35:00</guid>
+      <description>200 BLOCK SCHOOLHOUSE DR, MIDDLETOWN HIGH SCHOOL — units: TW7, E121</description>
+      <guid isPermaLink="false">2026-07-30 15:35:00|200 BLOCK SCHOOLHOUSE DR, MIDDLETOWN HIGH SCHOOL</guid>
       <pubDate>Thu, 30 Jul 2026 15:35:00 -0400</pubDate>
     </item>
     <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:30 pm</title>
-      <description>RT17 / VALLEY VIEW RD Radio: 9D Units: RE171</description>
-      <guid isPermaLink="false">2026-07-30 15:30:00</guid>
-      <pubDate>Thu, 30 Jul 2026 15:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:30 pm</title>
-      <description>RT17 / VALLEY VIEW RD Radio: 9D Units: A129</description>
-      <guid isPermaLink="false">2026-07-30 15:30:00</guid>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:30 pm (2 units, 2 updates)</title>
+      <description>RT17 / VALLEY VIEW RD — units: RE171, A129 (first reported 3:30 pm)</description>
+      <guid isPermaLink="false">2026-07-30 15:30:00|RT17 / VALLEY VIEW RD</guid>
       <pubDate>Thu, 30 Jul 2026 15:30:00 -0400</pubDate>
     </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:19 pm</title>
-      <description>RT17 / VALLEY VIEW RD, MIDDLETOWN WATER TOWER Radio: 9D Units: E72, RE74, A78, ALS8, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-07-30 15:19:00</guid>
+      <description>RT17 / VALLEY VIEW RD, MIDDLETOWN WATER TOWER — units: E72, RE74, A78, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-30 15:19:00|RT17 / VALLEY VIEW RD, MIDDLETOWN WATER TOWER</guid>
       <pubDate>Thu, 30 Jul 2026 15:19:00 -0400</pubDate>
     </item>
     <item>
-      <title>MOTORCYCLE ACCIDENT: 12:16 pm</title>
-      <description>N MARKET ST / E THIRTEENTH ST Radio: 9D Units: EMS900</description>
-      <guid isPermaLink="false">2026-07-30 12:16:00</guid>
+      <title>MOTORCYCLE ACCIDENT: 12:14 pm (6 units, 2 updates)</title>
+      <description>N MARKET ST / E THIRTEENTH ST — units: PE23, R3, A28, ALS2, EMS902, EMS900 (first reported 12:14 pm)</description>
+      <guid isPermaLink="false">2026-07-30 12:14:00|N MARKET ST / E THIRTEENTH ST</guid>
       <pubDate>Thu, 30 Jul 2026 12:16:00 -0400</pubDate>
     </item>
     <item>
-      <title>MOTORCYCLE ACCIDENT: 12:14 pm</title>
-      <description>N MARKET ST / E THIRTEENTH ST Radio: 9D Units: PE23, R3, A28, ALS2, EMS902</description>
-      <guid isPermaLink="false">2026-07-30 12:14:00</guid>
-      <pubDate>Thu, 30 Jul 2026 12:14:00 -0400</pubDate>
-    </item>
-    <item>
       <title>BUILDING FIRE: 10:59 am</title>
-      <description>100 BLOCK KEY PKWY Radio: 9D Units: E11, E31, E121, PE23, E501, R3, TT4, A19, ALS4, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-07-30 10:59:00</guid>
+      <description>100 BLOCK KEY PKWY — units: E11, E31, E121, PE23, E501, R3, TT4, A19, ALS4, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-07-30 10:59:00|100 BLOCK KEY PKWY</guid>
       <pubDate>Thu, 30 Jul 2026 10:59:00 -0400</pubDate>
     </item>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 1:09 pm</title>
-      <description>100 BLOCK MIDDLETOWN PKWY, BLACK HOG BBQ - CROSS STONE COMMONS Radio: 9D Units: E72, RE74, A78, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-07-29 13:09:00</guid>
+      <description>100 BLOCK MIDDLETOWN PKWY, BLACK HOG BBQ - CROSS STONE COMMONS — units: E72, RE74, A78, ALS20, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-07-29 13:09:00|100 BLOCK MIDDLETOWN PKWY, BLACK HOG BBQ - CROSS STONE COMMONS</guid>
       <pubDate>Wed, 29 Jul 2026 13:09:00 -0400</pubDate>
     </item>
     <item>
       <title>VEHICLE ACCIDENT - FIRE: 12:18 am</title>
-      <description>SABILLASVILLE RD / BROWNS QUARRY RD Radio: 9B Units: A307</description>
-      <guid isPermaLink="false">2026-07-29 00:18:00</guid>
+      <description>SABILLASVILLE RD / BROWNS QUARRY RD — units: A307</description>
+      <guid isPermaLink="false">2026-07-29 00:18:00|SABILLASVILLE RD / BROWNS QUARRY RD</guid>
       <pubDate>Wed, 29 Jul 2026 00:18:00 -0400</pubDate>
     </item>
     <item>
       <title>CO DET SOUNDING: 8:10 pm</title>
-      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:1101, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL Units: E331</description>
-      <guid isPermaLink="false">2026-07-28 20:10:00</guid>
+      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:1101, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL — units: E331</description>
+      <guid isPermaLink="false">2026-07-28 20:10:00|6100 BLOCK SPRINGWATER PL, Apt/Unit:1101, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL</guid>
       <pubDate>Tue, 28 Jul 2026 20:10:00 -0400</pubDate>
     </item>
     <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:06 pm</title>
-      <description>RT77 / FRANK BENTZ POND, FRANK BENTZ POND Radio: 9D Units: E132</description>
-      <guid isPermaLink="false">2026-07-28 19:06:00</guid>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 7:03 pm (7 units, 2 updates)</title>
+      <description>RT77 / FRANK BENTZ POND, FRANK BENTZ POND — units: PE102, R10, A307, ALS30, BC902, EMS902, E132 (first reported 7:03 pm)</description>
+      <guid isPermaLink="false">2026-07-28 19:03:00|RT77 / FRANK BENTZ POND, FRANK BENTZ POND</guid>
       <pubDate>Tue, 28 Jul 2026 19:06:00 -0400</pubDate>
     </item>
     <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 7:03 pm</title>
-      <description>RT77 / FRANK BENTZ POND, FRANK BENTZ POND Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-07-28 19:03:00</guid>
-      <pubDate>Tue, 28 Jul 2026 19:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:40 pm</title>
-      <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9D Units: A229, A308</description>
-      <guid isPermaLink="false">2026-07-28 16:40:00</guid>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:31 pm (8 units, 2 updates)</title>
+      <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR — units: PE102, R10, A307, ALS30, BC902, EMS902, A229, A308 (first reported 4:31 pm)</description>
+      <guid isPermaLink="false">2026-07-28 16:31:00|RT15NB / TIPPIN DR, RT15NB / TIPPIN DR</guid>
       <pubDate>Tue, 28 Jul 2026 16:40:00 -0400</pubDate>
     </item>
     <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:31 pm</title>
-      <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-07-28 16:31:00</guid>
-      <pubDate>Tue, 28 Jul 2026 16:31:00 -0400</pubDate>
+      <title>FIRE UNIT ASSISTING OTHER AGENCY: 8:54 pm</title>
+      <description>6200 BLOCK WOODVILLE RD — units: E121</description>
+      <guid isPermaLink="false">2026-07-27 20:54:00|6200 BLOCK WOODVILLE RD</guid>
+      <pubDate>Mon, 27 Jul 2026 20:54:00 -0400</pubDate>
     </item>
     <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:31 pm</title>
-      <description>RT15NB / TIPPIN DR, RT15NB / TIPPIN DR Radio: 9D Units: PE102, R10, A307, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-07-28 16:31:00</guid>
-      <pubDate>Tue, 28 Jul 2026 16:31:00 -0400</pubDate>
+      <title>GAS ALARM: 7:57 pm</title>
+      <description>2400 BLOCK LAKESIDE DR — units: E501, HM33, BC902</description>
+      <guid isPermaLink="false">2026-07-27 19:57:00|2400 BLOCK LAKESIDE DR</guid>
+      <pubDate>Mon, 27 Jul 2026 19:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:16 pm</title>
+      <description>8200 BLOCK BLUE HERON DR — units: E111, R2, A249, ALS29, EMS901</description>
+      <guid isPermaLink="false">2026-07-27 19:16:00|8200 BLOCK BLUE HERON DR</guid>
+      <pubDate>Mon, 27 Jul 2026 19:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:08 pm</title>
+      <description>100 BLOCK E E ST — units: PE52, E201, E281, E72, RE74, R19, T5, R20, A197, ALS20, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-07-27 18:08:00|100 BLOCK E E ST</guid>
+      <pubDate>Mon, 27 Jul 2026 18:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 4:55 pm</title>
+      <description>100 BLOCK WAVERLEY DR, BARGAIN BIN - FREDERICK TOWNE MALL / DISTRICT 40 — units: A18, ALS4, E11, EMS902</description>
+      <guid isPermaLink="false">2026-07-27 16:55:00|100 BLOCK WAVERLEY DR, BARGAIN BIN - FREDERICK TOWNE MALL / DISTRICT 40</guid>
+      <pubDate>Mon, 27 Jul 2026 16:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR OUTSIDE: 4:28 pm</title>
+      <description>4600 BLOCK MOUNT ZION RD — units: E121</description>
+      <guid isPermaLink="false">2026-07-27 16:28:00|4600 BLOCK MOUNT ZION RD</guid>
+      <pubDate>Mon, 27 Jul 2026 16:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:14 am</title>
+      <description>10500 BLOCK DAYSVILLE RD — units: E111, RE171, A249, ALS17, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-07-27 11:14:00|10500 BLOCK DAYSVILLE RD</guid>
+      <pubDate>Mon, 27 Jul 2026 11:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
