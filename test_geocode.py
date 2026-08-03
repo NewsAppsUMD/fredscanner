@@ -5,7 +5,7 @@ from pathlib import Path
 import requests
 
 import geocode
-from geocode import clean_for_geocoding, read_cache, append_to_cache
+from geocode import clean_for_geocoding, read_cache, append_to_cache, classify_match, is_within_region
 
 
 def test_block_address():
@@ -133,8 +133,11 @@ def test_geocode_locations_batch_path_above_threshold():
         geocode.BATCH_THRESHOLD = 2  # force the batch path with a small test list
 
         def fake_geocode_batch(id_to_street):
+            # Small offsets that stay well within REGION_BOUNDS regardless
+            # of record_id, unlike real Frederick County coordinates which
+            # only span a couple of degrees.
             return {
-                record_id: (39.0 + int(record_id), -77.0)
+                record_id: (39.4 + int(record_id) * 0.01, -77.4)
                 for record_id in id_to_street
                 if int(record_id) % 2 == 0
             }
@@ -178,6 +181,74 @@ def test_geocode_locations_batch_failure_is_not_cached():
             geocode.CACHE_FILE = original_cache_file
             geocode.geocode_batch = original_geocode_batch
             geocode.BATCH_THRESHOLD = original_threshold
+
+
+def test_is_within_region_accepts_frederick_county():
+    assert is_within_region(39.4143, -77.4105)  # Frederick, MD
+
+
+def test_is_within_region_accepts_mutual_aid_neighbor():
+    assert is_within_region(39.575, -76.996)  # Westminster, MD (Carroll County)
+
+
+def test_is_within_region_rejects_distant_mismatches():
+    # These are the real mismatches observed in practice: a street-name
+    # match with no city to disambiguate it lands 30-50 miles away.
+    assert not is_within_region(39.2904, -76.6122)  # Baltimore, MD
+    assert not is_within_region(39.4015, -76.6019)  # Towson, MD
+    assert not is_within_region(38.9784, -76.4922)  # Annapolis, MD
+
+
+def test_classify_match_no_coords():
+    assert classify_match(None) == {"Lat": "", "Lon": "", "Status": "No Match"}
+
+
+def test_classify_match_in_region():
+    assert classify_match((39.4143, -77.4105)) == {"Lat": 39.4143, "Lon": -77.4105, "Status": "Match"}
+
+
+def test_classify_match_out_of_region():
+    assert classify_match((39.2904, -76.6122)) == {"Lat": "", "Lon": "", "Status": "Out of Region"}
+
+
+def test_geocode_locations_rejects_out_of_region_match():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        cache_path = Path(tmpdir) / "geocode_cache.csv"
+        original_cache_file = geocode.CACHE_FILE
+        original_geocode_one = geocode.geocode_one
+        geocode.CACHE_FILE = cache_path
+
+        geocode.geocode_one = lambda street: (39.2904, -76.6122)  # Baltimore
+        try:
+            geocode.geocode_locations(["100 BLOCK MAIN ST"])
+            cache = read_cache()
+            assert cache["100 BLOCK MAIN ST"]["Status"] == "Out of Region"
+            assert cache["100 BLOCK MAIN ST"]["Lat"] == ""
+        finally:
+            geocode.CACHE_FILE = original_cache_file
+            geocode.geocode_one = original_geocode_one
+
+
+def test_revalidate_cache_downgrades_bad_matches_without_api_calls():
+    with tempfile.TemporaryDirectory() as tmpdir:
+        cache_path = Path(tmpdir) / "geocode_cache.csv"
+        original_cache_file = geocode.CACHE_FILE
+        geocode.CACHE_FILE = cache_path
+        try:
+            append_to_cache([
+                {"Location": "100 BLOCK MAIN ST", "Lat": "39.4143", "Lon": "-77.4105", "Status": "Match"},
+                {"Location": "200 BLOCK BAD ST", "Lat": "39.2904", "Lon": "-76.6122", "Status": "Match"},
+                {"Location": "I70EB / 38MM", "Lat": "", "Lon": "", "Status": "Skipped"},
+            ])
+            changed = geocode.revalidate_cache()
+            assert changed == 1
+            cache = read_cache()
+            assert cache["100 BLOCK MAIN ST"]["Status"] == "Match"
+            assert cache["200 BLOCK BAD ST"]["Status"] == "Out of Region"
+            assert cache["200 BLOCK BAD ST"]["Lat"] == ""
+            assert cache["I70EB / 38MM"]["Status"] == "Skipped"
+        finally:
+            geocode.CACHE_FILE = original_cache_file
 
 
 def run_all():

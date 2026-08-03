@@ -40,6 +40,26 @@ REQUEST_TIMEOUT = 30
 BATCH_SIZE = 9000  # Census batch endpoint caps at 10,000 records/request
 BATCH_THRESHOLD = 20  # below this, geocoding one at a time is simpler and fine
 
+# We don't have a city per location (dispatch strings span many towns
+# within the county), so geocoding queries go out with little more than a
+# street name and "MD" for state -- not enough to stop the geocoder from
+# matching a same-named street in a different county entirely (seen in
+# practice: "W Patrick St"-style names matching near Baltimore/Annapolis,
+# 40+ miles away). Any match outside this box -- Frederick County plus a
+# buffer covering its mutual-aid neighbors (Carroll and Washington
+# Counties MD, Adams County PA, Montgomery County MD, Loudoun County VA,
+# Jefferson County WV) -- is treated as unreliable and dropped rather than
+# plotted, since it's almost certainly a mismatch, not a genuine incident
+# 40 miles from Frederick.
+REGION_BOUNDS = {"lat_min": 39.05, "lat_max": 39.85, "lon_min": -77.90, "lon_max": -76.90}
+
+
+def is_within_region(lat: float, lon: float) -> bool:
+    return (
+        REGION_BOUNDS["lat_min"] <= lat <= REGION_BOUNDS["lat_max"]
+        and REGION_BOUNDS["lon_min"] <= lon <= REGION_BOUNDS["lon_max"]
+    )
+
 MILE_MARKER_RE = re.compile(r'\d+\s?MM\b', re.IGNORECASE)
 BLOCK_RE = re.compile(r'\bBLOCK\b', re.IGNORECASE)
 SLASH_RE = re.compile(r'\s*/\s*')
@@ -153,6 +173,18 @@ def geocode_batch(id_to_street: dict[str, str]) -> dict[str, tuple[float, float]
     return results
 
 
+def classify_match(coords: tuple[float, float] | None) -> dict[str, str]:
+    """Turn raw geocoder coordinates into cache fields, applying the
+    region sanity check. Lat/Lon are blank unless Status is "Match".
+    """
+    if coords is None:
+        return {"Lat": "", "Lon": "", "Status": "No Match"}
+    lat, lon = coords
+    if not is_within_region(lat, lon):
+        return {"Lat": "", "Lon": "", "Status": "Out of Region"}
+    return {"Lat": lat, "Lon": lon, "Status": "Match"}
+
+
 def find_new_locations(incidents_file: Path = INCIDENTS_FILE) -> list[str]:
     """Distinct Location values from incidents.csv not yet in the cache."""
     with open(incidents_file) as f:
@@ -190,11 +222,7 @@ def geocode_locations(locations: list[str]) -> None:
                 print(f"Batch geocoding failed for {len(chunk)} locations, will retry next run: {exc}", file=sys.stderr)
                 continue
             for i, (location, _street) in enumerate(chunk):
-                coords = results.get(str(i))
-                if coords:
-                    to_cache.append({"Location": location, "Lat": coords[0], "Lon": coords[1], "Status": "Match"})
-                else:
-                    to_cache.append({"Location": location, "Lat": "", "Lon": "", "Status": "No Match"})
+                to_cache.append({"Location": location, **classify_match(results.get(str(i)))})
     else:
         for location, street in candidates:
             try:
@@ -202,15 +230,43 @@ def geocode_locations(locations: list[str]) -> None:
             except requests.RequestException as exc:
                 print(f"Skipping {location!r} this run (transient error: {exc})", file=sys.stderr)
                 continue
-            if coords:
-                to_cache.append({"Location": location, "Lat": coords[0], "Lon": coords[1], "Status": "Match"})
-            else:
-                to_cache.append({"Location": location, "Lat": "", "Lon": "", "Status": "No Match"})
+            to_cache.append({"Location": location, **classify_match(coords)})
 
     append_to_cache(to_cache)
 
 
+def revalidate_cache() -> int:
+    """Re-check every cached "Match" against the region bounds without
+    any new API calls, downgrading out-of-region rows to "Out of Region"
+    with blanked coordinates. Returns the number of rows changed. Use
+    this to clean up a cache populated before REGION_BOUNDS existed (or
+    was tightened), instead of re-geocoding everything from scratch.
+    """
+    cache = read_cache()
+    changed = 0
+    for row in cache.values():
+        if row["Status"] != "Match":
+            continue
+        if not is_within_region(float(row["Lat"]), float(row["Lon"])):
+            row["Lat"] = ""
+            row["Lon"] = ""
+            row["Status"] = "Out of Region"
+            changed += 1
+
+    if changed:
+        with open(CACHE_FILE, "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=CACHE_FIELDNAMES)
+            writer.writeheader()
+            writer.writerows(cache.values())
+    return changed
+
+
 def main():
+    if "--revalidate" in sys.argv:
+        changed = revalidate_cache()
+        print(f"Revalidated cache: {changed} row(s) downgraded to Out of Region.")
+        return
+
     new_locations = find_new_locations()
     if not new_locations:
         print("No new locations to geocode.")
