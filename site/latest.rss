@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 09:44:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:02:04 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:46 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:46:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 6:36 am</title>
+      <description>9700 BLOCK BRAIDWOOD TER Radio: 9C Units: E231, PE251, TT23</description>
+      <guid isPermaLink="false">2026-08-03 06:36:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:21 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:21:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:10 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-03 06:10:00</guid>
+      <pubDate>Mon, 03 Aug 2026 06:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:25 am</title>
       <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Radio: 9C Units: E11</description>
@@ -282,30 +306,6 @@
       <description>11400 BLOCK CARDINAL LN Units: PE251</description>
       <guid isPermaLink="false">2026-08-01 21:33:00</guid>
       <pubDate>Sat, 01 Aug 2026 21:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 9:10 pm</title>
-      <description>12000 BLOCK SOUTH ST, STATION 17 Units: E162</description>
-      <guid isPermaLink="false">2026-08-01 21:10:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:07 pm</title>
-      <description>11400 BLOCK CARDINAL LN Units: PE251</description>
-      <guid isPermaLink="false">2026-08-01 21:07:00</guid>
-      <pubDate>Sat, 01 Aug 2026 21:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:58 pm</title>
-      <description>RT85 / I270, RT85 / I270 Units: PE311, R3, A319, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-08-01 19:58:00</guid>
-      <pubDate>Sat, 01 Aug 2026 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:13 pm</title>
-      <description>FINGERBOARD RD / SAINT CLAIR CT Units: A158, E251</description>
-      <guid isPermaLink="false">2026-08-01 19:13:00</guid>
-      <pubDate>Sat, 01 Aug 2026 19:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
