@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 03 Aug 2026 21:50:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 22:20:46 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 6:13 pm</title>
+      <description>27100 BLOCK RIDGE RD Radio: 7A4 Units: R15</description>
+      <guid isPermaLink="false">2026-08-03 18:13:00</guid>
+      <pubDate>Mon, 03 Aug 2026 18:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 6:07 pm</title>
+      <description>27100 BLOCK RIDGE RD Radio: 7A4 Units: R15, PE251</description>
+      <guid isPermaLink="false">2026-08-03 18:07:00</guid>
+      <pubDate>Mon, 03 Aug 2026 18:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:04 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-08-03 18:04:00</guid>
+      <pubDate>Mon, 03 Aug 2026 18:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:49 pm</title>
+      <description>N BENTZ ST / W SECOND ST Radio: 9D Units: A28, PE23, EMS901</description>
+      <guid isPermaLink="false">2026-08-03 17:49:00</guid>
+      <pubDate>Mon, 03 Aug 2026 17:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:44 pm</title>
       <description>MONOCACY BLVD / NEW DESIGN RD Units: A38, R3</description>
@@ -282,30 +306,6 @@
       <description>5700 BLOCK CHARSTONE CT Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-08-02 12:51:00</guid>
       <pubDate>Sun, 02 Aug 2026 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:20 pm</title>
-      <description>100 BLOCK E SOUTH ST Radio: 9B Units: A38, E31</description>
-      <guid isPermaLink="false">2026-08-02 12:20:00</guid>
-      <pubDate>Sun, 02 Aug 2026 12:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:14 am</title>
-      <description>4700 BLOCK MONROVIA BLVD Radio: 9C Units: PE251, TT23</description>
-      <guid isPermaLink="false">2026-08-02 11:14:00</guid>
-      <pubDate>Sun, 02 Aug 2026 11:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:09 am</title>
-      <description>5100 BLOCK PEGASUS CT, Bldg:D, COLLECTIVE CHURCH Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-08-02 11:09:00</guid>
-      <pubDate>Sun, 02 Aug 2026 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:33 am</title>
-      <description>5300 BLOCK BUCKEYSTOWN PIKE, HAMPTON INN - BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-08-02 08:33:00</guid>
-      <pubDate>Sun, 02 Aug 2026 08:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
