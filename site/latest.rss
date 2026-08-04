@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 04 Aug 2026 08:16:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:24:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:10 am</title>
+      <description>2500 BLOCK EMERSON DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-04 05:10:00</guid>
+      <pubDate>Tue, 04 Aug 2026 05:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELECTRICAL HAZARD INSIDE: 3:19 am</title>
       <description>3600 BLOCK CARRIAGE HILL DR Radio: 9C Units: E231, PE251, TT23</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / ROSEMONT AVE(ROSEMONT AVE), RT15SB / RAMP RT15SB TO ROSEMONT AVE Radio: 9B Units: A19, PE23</description>
       <guid isPermaLink="false">2026-08-02 14:36:00</guid>
       <pubDate>Sun, 02 Aug 2026 14:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:23 pm</title>
-      <description>RT15SB / 2.2MM Units: EK64</description>
-      <guid isPermaLink="false">2026-08-02 14:23:00</guid>
-      <pubDate>Sun, 02 Aug 2026 14:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
