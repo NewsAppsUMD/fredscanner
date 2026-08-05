@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Aug 2026 13:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:13:46 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:58 am</title>
+      <description>7300 BLOCK SIXES BRIDGE RD Units: E132</description>
+      <guid isPermaLink="false">2026-08-05 09:58:00</guid>
+      <pubDate>Wed, 05 Aug 2026 09:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:15 am</title>
+      <description>100 BLOCK BLK RAMP RT17 TO RT34100 BLOCKEB RAMP Units: A197, T5, R19</description>
+      <guid isPermaLink="false">2026-08-05 09:15:00</guid>
+      <pubDate>Wed, 05 Aug 2026 09:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:02 am</title>
+      <description>600 BLOCK JEFFERSON PIKE Units: A196, PE52</description>
+      <guid isPermaLink="false">2026-08-05 09:02:00</guid>
+      <pubDate>Wed, 05 Aug 2026 09:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 9:00 am</title>
+      <description>1000 BLOCK W PATRICK ST, ADVANCE AUTO PARTS - FREDERICK COUNTY SQUARE Units: E11, E33, TT4</description>
+      <guid isPermaLink="false">2026-08-05 09:00:00</guid>
+      <pubDate>Wed, 05 Aug 2026 09:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:26 am</title>
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E33, E11, R3, A38, A18</description>
@@ -282,30 +306,6 @@
       <description>400 BLOCK FERNDALE AVE, HOOD COLLEGE - ROSENSTOCK HALL Radio: 9C Units: PE23, TT4</description>
       <guid isPermaLink="false">2026-08-03 14:13:00</guid>
       <pubDate>Mon, 03 Aug 2026 14:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:21 am</title>
-      <description>400 BLOCK FERNDALE AVE, HOOD COLLEGE - ROSENSTOCK HALL Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-08-03 11:21:00</guid>
-      <pubDate>Mon, 03 Aug 2026 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:44 am</title>
-      <description>3600 BLOCK STONE BARN DR, Bldg:B Radio: 9C Units: E231, TT23</description>
-      <guid isPermaLink="false">2026-08-03 10:44:00</guid>
-      <pubDate>Mon, 03 Aug 2026 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:16 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA Radio: 9D Units: PE311, E31, PE23, E331, E501, R3, TT4, TW1, A318, ALS31, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-03 10:16:00</guid>
-      <pubDate>Mon, 03 Aug 2026 10:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:12 am</title>
-      <description>100 BLOCK FREDERICK HEALTH WAY, FREDERICK HEALTH VILLAGE Radio: 9C Units: Q11</description>
-      <guid isPermaLink="false">2026-08-03 10:12:00</guid>
-      <pubDate>Mon, 03 Aug 2026 10:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
