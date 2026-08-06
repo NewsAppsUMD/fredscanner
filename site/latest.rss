@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 14:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:13:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:31 am</title>
+      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Radio: 9B Units: A19, E501</description>
+      <guid isPermaLink="false">2026-08-06 10:31:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:28 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, STADLER GARDEN CENTERS NURSERY Radio: 9D Units: R3, K5</description>
+      <guid isPermaLink="false">2026-08-06 10:28:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:27 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, STADLER GARDEN CENTERS NURSERY Radio: 9D Units: A18</description>
+      <guid isPermaLink="false">2026-08-06 10:27:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 10:23 am</title>
+      <description>5500 BLOCK MOUNT ZION RD, STADLER GARDEN CENTERS NURSERY Units: E201, E11, E121, E33, PE23, PE311, R20, TT4, EK204, K1, K33, A18, ALS20, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-08-06 10:23:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:20 am</title>
+      <description>500 BLOCK E MOUNTAIN RD Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-08-06 10:20:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:13 am</title>
+      <description>7500 BLOCK BALTIMORE NATIONAL PIKE Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-08-06 10:13:00</guid>
+      <pubDate>Thu, 06 Aug 2026 10:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:04 am</title>
       <description>MONOCACY BLVD / TREATMENT PLANT RD Radio: 9D Units: PE23, R3, A28, ALS2, BC901, EMS902</description>
@@ -270,42 +306,6 @@
       <description>100 BLOCK PROSPECT RD, LAUNDRY ROOM Units: E152, PE251, TT23</description>
       <guid isPermaLink="false">2026-08-05 00:08:00</guid>
       <pubDate>Wed, 05 Aug 2026 00:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:12 pm</title>
-      <description>3800 BLOCK BRAVEHEART DR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-08-04 22:12:00</guid>
-      <pubDate>Tue, 04 Aug 2026 22:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:57 pm</title>
-      <description>10200 BLOCK COPPERMINE RD, WOODSBORO MEDICAL CENTER Radio: 9C Units: E162, Q11</description>
-      <guid isPermaLink="false">2026-08-04 21:57:00</guid>
-      <pubDate>Tue, 04 Aug 2026 21:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:03 pm</title>
-      <description>CATOCTIN VIEW LN / WENNER RD Radio: 6LTAC31 Units: R20, ALS20, A196</description>
-      <guid isPermaLink="false">2026-08-04 18:03:00</guid>
-      <pubDate>Tue, 04 Aug 2026 18:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:57 pm</title>
-      <description>10200 BLOCK COPPERMINE RD, WOODSBORO MEDICAL CENTER Radio: 9C Units: E162, Q11</description>
-      <guid isPermaLink="false">2026-08-04 17:57:00</guid>
-      <pubDate>Tue, 04 Aug 2026 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:21 pm</title>
-      <description>9000 BLOCK REICHS FORD RD, Apt/Unit:FIRST, COUNTY LANDFILL Units: EK114</description>
-      <guid isPermaLink="false">2026-08-04 17:21:00</guid>
-      <pubDate>Tue, 04 Aug 2026 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:16 pm</title>
-      <description>9000 BLOCK REICHS FORD RD, Apt/Unit:FIRST, COUNTY LANDFILL Units: E331, E152, E33, E231, PE23, R15, TT4, K33, K23, K1, A339, ALS4, BC901, SAFBC900, SAF900, E251, TT23</description>
-      <guid isPermaLink="false">2026-08-04 17:16:00</guid>
-      <pubDate>Tue, 04 Aug 2026 17:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
