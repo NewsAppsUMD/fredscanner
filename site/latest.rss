@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 06:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:23:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:41 am</title>
+      <description>13600 BLOCK OLD ANNAPOLIS RD Radio: 9B Units: R15</description>
+      <guid isPermaLink="false">2026-08-06 02:41:00</guid>
+      <pubDate>Thu, 06 Aug 2026 02:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 1:50 am</title>
       <description>26400 BLOCK AIKEN DR Radio: 7A1 Units: A239</description>
@@ -300,12 +306,6 @@
       <description>I70EB / 49MM, I70EB / 49MM Radio: 9C Units: E82, E121</description>
       <guid isPermaLink="false">2026-08-04 12:57:00</guid>
       <pubDate>Tue, 04 Aug 2026 12:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - TORSO OR HEAD: 11:30 am</title>
-      <description>7800 BLOCK OLD RECEIVER RD Radio: 9I Units: E121, R24, A19, ALS29, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-08-04 11:30:00</guid>
-      <pubDate>Tue, 04 Aug 2026 11:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
