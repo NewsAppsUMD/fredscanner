@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 21:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 23:59:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:25 pm</title>
+      <description>10300 BLOCK SILVERSIDE ST, THE GODDARD SCHOOL OF NEW MARKET Radio: 9C Units: E152, TT4</description>
+      <guid isPermaLink="false">2026-08-06 19:25:00</guid>
+      <pubDate>Thu, 06 Aug 2026 19:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 6:44 pm</title>
+      <description>13200 BLOCK BARLEY FARM LN Radio: 6DTAC11 Units: A197</description>
+      <guid isPermaLink="false">2026-08-06 18:44:00</guid>
+      <pubDate>Thu, 06 Aug 2026 18:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:17 pm</title>
+      <description>100 BLOCK E MAIN ST Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2026-08-06 18:17:00</guid>
+      <pubDate>Thu, 06 Aug 2026 18:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:19 pm</title>
       <description>300 BLOCK BALLENGER CENTER DR Radio: 9C Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>22500 BLOCK S270 FRCO TO X22 HWY S270A FRED CO LINE - RT109, S270A FRED CO LINE - RT109 Radio: 7A1 Units: A38, R3, E231</description>
       <guid isPermaLink="false">2026-08-05 16:48:00</guid>
       <pubDate>Wed, 05 Aug 2026 16:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:41 pm</title>
-      <description>15000 BLOCK RODDY RD Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-08-05 16:41:00</guid>
-      <pubDate>Wed, 05 Aug 2026 16:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:17 pm</title>
-      <description>HUGHES FORD RD / MONOCACY BLVD Units: A37, R3</description>
-      <guid isPermaLink="false">2026-08-05 16:17:00</guid>
-      <pubDate>Wed, 05 Aug 2026 16:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:09 pm</title>
-      <description>RT17 / LEES LN, RT17 / LEES LN Radio: 9B Units: A196, PE52</description>
-      <guid isPermaLink="false">2026-08-05 15:09:00</guid>
-      <pubDate>Wed, 05 Aug 2026 15:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
