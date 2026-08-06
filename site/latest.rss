@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Aug 2026 05:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 06:23:13 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 1:50 am</title>
+      <description>26400 BLOCK AIKEN DR Radio: 7A1 Units: A239</description>
+      <guid isPermaLink="false">2026-08-06 01:50:00</guid>
+      <pubDate>Thu, 06 Aug 2026 01:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:42 pm</title>
       <description>OLD EMMITSBURG RD / S SETON AVE, IN AREA OF ACROSS FROM 16638 Radio: 9C Units: BR65</description>
@@ -300,12 +306,6 @@
       <description>7800 BLOCK OLD RECEIVER RD Radio: 9I Units: E121, R24, A19, ALS29, BC902, SAF901, EMS902</description>
       <guid isPermaLink="false">2026-08-04 11:30:00</guid>
       <pubDate>Tue, 04 Aug 2026 11:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 11:21 am</title>
-      <description>300 BLOCK W SOUTH ST Radio: 9D Units: A38</description>
-      <guid isPermaLink="false">2026-08-04 11:21:00</guid>
-      <pubDate>Tue, 04 Aug 2026 11:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
