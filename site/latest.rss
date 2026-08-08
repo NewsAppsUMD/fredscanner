@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 03:01:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:54:49 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:03 pm</title>
+      <description>4300 BLOCK MIDDLE POINT RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-08-07 23:03:00</guid>
+      <pubDate>Fri, 07 Aug 2026 23:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK INSIDE: 10:01 pm</title>
       <description>2700 BLOCK MAE WADE AVE Radio: 9C Units: E141, E281, R20</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK FAIRFIELD RD Units: E61, EK64, TW6, R10</description>
       <guid isPermaLink="false">2026-08-06 12:17:00</guid>
       <pubDate>Thu, 06 Aug 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:59 am</title>
-      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: PE102</description>
-      <guid isPermaLink="false">2026-08-06 11:59:00</guid>
-      <pubDate>Thu, 06 Aug 2026 11:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
