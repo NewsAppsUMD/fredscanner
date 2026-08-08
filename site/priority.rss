@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 13:17:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:44:19 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:04 am</title>
       <description>I70WB / RIDGE RD (BRADDOCK), IAO — units: E121, E82, R3, A129, A89, ALS8, BC903, EMS901</description>
@@ -156,12 +156,6 @@
       <description>6000 BLOCK ELMER DERR RD — units: PE311, R20, A319, ALS31, EMS901</description>
       <guid isPermaLink="false">2026-08-01 11:57:00|6000 BLOCK ELMER DERR RD</guid>
       <pubDate>Sat, 01 Aug 2026 11:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 10:36 pm</title>
-      <description>4500 BLOCK COXEY BROWN RD — units: E72, E11</description>
-      <guid isPermaLink="false">2026-07-31 22:36:00|4500 BLOCK COXEY BROWN RD</guid>
-      <pubDate>Fri, 31 Jul 2026 22:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
