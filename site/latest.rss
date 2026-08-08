@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 19:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 19:39:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:28 pm</title>
+      <description>CHRISTOPHERS XING / POOLE JONES RD Radio: 9B Units: A18, E291</description>
+      <guid isPermaLink="false">2026-08-08 15:28:00</guid>
+      <pubDate>Sat, 08 Aug 2026 15:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 2:52 pm</title>
       <description>2600 BLOCK CAULFIELD CT Radio: 9D Units: E311</description>
@@ -300,12 +306,6 @@
       <description>5200 BLOCK BUCKEYSTOWN PIKE, PANDA EXPRESS - WESTVIEW PROMENADE Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-08-06 20:48:00</guid>
       <pubDate>Thu, 06 Aug 2026 20:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:39 pm</title>
-      <description>I70EB / RT144 (FRED), I70EB / RT144 Radio: 9B Units: E33, E331, R3, A38, A339</description>
-      <guid isPermaLink="false">2026-08-06 20:39:00</guid>
-      <pubDate>Thu, 06 Aug 2026 20:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
