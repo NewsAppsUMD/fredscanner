@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Aug 2026 00:10:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 00:46:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:36 pm</title>
+      <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9D Units: PE251</description>
+      <guid isPermaLink="false">2026-08-07 20:36:00</guid>
+      <pubDate>Fri, 07 Aug 2026 20:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:21 pm</title>
+      <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9D Units: A259</description>
+      <guid isPermaLink="false">2026-08-07 20:21:00</guid>
+      <pubDate>Fri, 07 Aug 2026 20:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:14 pm</title>
+      <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS902, TT23</description>
+      <guid isPermaLink="false">2026-08-07 20:14:00</guid>
+      <pubDate>Fri, 07 Aug 2026 20:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:37 pm</title>
       <description>4600 BLOCK WEDGEWOOD BLVD Radio: 9C Units: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E61</description>
       <guid isPermaLink="false">2026-08-06 11:53:00</guid>
       <pubDate>Thu, 06 Aug 2026 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 11:29 am</title>
-      <description>100 BLOCK BRANDY DR, STATION WC00100 BLOCK - WILLIAMSPORT VOL. FIRE &amp; EMS, INC. Units: RE74</description>
-      <guid isPermaLink="false">2026-08-06 11:29:00</guid>
-      <pubDate>Thu, 06 Aug 2026 11:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:21 am</title>
-      <description>NEW DESIGN RD / LAWRENCE CT Radio: 9B Units: A149, R14</description>
-      <guid isPermaLink="false">2026-08-06 11:21:00</guid>
-      <pubDate>Thu, 06 Aug 2026 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:31 am</title>
-      <description>2000 BLOCK ROSEMONT AVE, CVS PHARMACY - ROSEMONT AVE - FREDERICK Radio: 9B Units: A19, E501</description>
-      <guid isPermaLink="false">2026-08-06 10:31:00</guid>
-      <pubDate>Thu, 06 Aug 2026 10:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
