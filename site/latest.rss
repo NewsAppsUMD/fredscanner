@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 20:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 20:42:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
+      <description>4600 BLOCK OLD NATIONAL PIKE, IFO Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-08-09 16:26:00</guid>
+      <pubDate>Sun, 09 Aug 2026 16:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:16 pm</title>
+      <description>1200 BLOCK LITTLE BROOK DR, Bldg:N, LITTLE BROOK APARTMENTS - 1209 LITTLE BROOK DR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-09 16:16:00</guid>
+      <pubDate>Sun, 09 Aug 2026 16:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATER RESCUE: 4:11 pm</title>
+      <description>POTOMAC RIVER BASS ROCK Units: PE52</description>
+      <guid isPermaLink="false">2026-08-09 16:11:00</guid>
+      <pubDate>Sun, 09 Aug 2026 16:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:08 pm</title>
+      <description>BUCKEYSTOWN PIKE / EXECUTIVE WAY Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-08-09 16:08:00</guid>
+      <pubDate>Sun, 09 Aug 2026 16:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WATER RESCUE: 4:06 pm</title>
+      <description>POTOMAC RIVER BASS ROCK Units: BT19, BT28</description>
+      <guid isPermaLink="false">2026-08-09 16:06:00</guid>
+      <pubDate>Sun, 09 Aug 2026 16:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:29 pm</title>
       <description>300 BLOCKA PROSPECT BLVD Radio: 9C Units: E31, TT4</description>
@@ -276,36 +306,6 @@
       <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS902, TT23</description>
       <guid isPermaLink="false">2026-08-07 20:14:00</guid>
       <pubDate>Fri, 07 Aug 2026 20:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:37 pm</title>
-      <description>4600 BLOCK WEDGEWOOD BLVD Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-08-07 18:37:00</guid>
-      <pubDate>Fri, 07 Aug 2026 18:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:53 pm</title>
-      <description>LANDER RD / MOUNTVILLE RD Units: A196</description>
-      <guid isPermaLink="false">2026-08-07 17:53:00</guid>
-      <pubDate>Fri, 07 Aug 2026 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:44 pm</title>
-      <description>LIBERTY RD / WOODSBORO PIKE Radio: 9D Units: E111, R24, A249, ALS29, EMS902</description>
-      <guid isPermaLink="false">2026-08-07 17:44:00</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:46 pm</title>
-      <description>YELLOW SPRINGS RD / OLD FARM DR Radio: 9B Units: A18, E501</description>
-      <guid isPermaLink="false">2026-08-07 16:46:00</guid>
-      <pubDate>Fri, 07 Aug 2026 16:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:38 pm</title>
-      <description>300 BLOCK BALLENGER CENTER DR, WOODSPRING SUITES - BALLENGER CREEK CENTER Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-08-07 16:38:00</guid>
-      <pubDate>Fri, 07 Aug 2026 16:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
