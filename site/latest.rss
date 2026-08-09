@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 21:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 22:05:49 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:57 pm</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Units: E331</description>
+      <guid isPermaLink="false">2026-08-09 17:57:00</guid>
+      <pubDate>Sun, 09 Aug 2026 17:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:55 pm</title>
+      <description>700 BLOCK N MAIN ST, STATION CC001 - MOUNT AIRY VFD Units: K33</description>
+      <guid isPermaLink="false">2026-08-09 17:55:00</guid>
+      <pubDate>Sun, 09 Aug 2026 17:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:48 pm</title>
+      <description>100 BLOCK W FREDERICK ST, STATION 11 Units: RE74</description>
+      <guid isPermaLink="false">2026-08-09 17:48:00</guid>
+      <pubDate>Sun, 09 Aug 2026 17:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 5:36 pm</title>
       <description>2500 BLOCK VANCE DR Units: RE171, K9, Q11</description>
@@ -288,24 +306,6 @@
       <description>900 BLOCK E C ST Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-08-08 10:24:00</guid>
       <pubDate>Sat, 08 Aug 2026 10:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:19 am</title>
-      <description>400 BLOCK SAGNER AVE, Apt/Unit:100 &amp; 200, RAK BREWING CO Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-08-08 10:19:00</guid>
-      <pubDate>Sat, 08 Aug 2026 10:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:26 am</title>
-      <description>1100 BLOCK W PATRICK ST, Apt/Unit:D Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-08-08 09:26:00</guid>
-      <pubDate>Sat, 08 Aug 2026 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 6:25 am</title>
-      <description>400 BLOCK OLD OAK PL Radio: 9C Units: PE102, E132, R10, EK224</description>
-      <guid isPermaLink="false">2026-08-08 06:25:00</guid>
-      <pubDate>Sat, 08 Aug 2026 06:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
