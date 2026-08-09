@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Aug 2026 18:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:12:50 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 3:04 pm</title>
+      <description>100 BLOCK WOLFSVILLE RD, DOUBS MEADOW PARK Radio: 9D Units: E72, E51</description>
+      <guid isPermaLink="false">2026-08-09 15:04:00</guid>
+      <pubDate>Sun, 09 Aug 2026 15:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:01 pm</title>
+      <description>3700 BLOCK BITTLE RD Radio: 9D Units: EMS901</description>
+      <guid isPermaLink="false">2026-08-09 15:01:00</guid>
+      <pubDate>Sun, 09 Aug 2026 15:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:49 pm</title>
+      <description>3700 BLOCK BITTLE RD Radio: 9D Units: E82, RE74, R3, A89, ALS8, EMS901</description>
+      <guid isPermaLink="false">2026-08-09 14:49:00</guid>
+      <pubDate>Sun, 09 Aug 2026 14:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 1:35 pm</title>
       <description>5900 BLOCK POOLE RD Radio: 9C Units: E121</description>
@@ -288,24 +306,6 @@
       <description>13600 BLOCK WOLFSVILLE RD Units: E82</description>
       <guid isPermaLink="false">2026-08-07 16:38:00</guid>
       <pubDate>Fri, 07 Aug 2026 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 4:35 pm</title>
-      <description>13600 BLOCK WOLFSVILLE RD Units: K21</description>
-      <guid isPermaLink="false">2026-08-07 16:35:00</guid>
-      <pubDate>Fri, 07 Aug 2026 16:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:31 pm</title>
-      <description>100 BLOCK(13615)WOLFSVILLE BLK RD Units: E51, PE102, R10, E511, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-07 16:31:00</guid>
-      <pubDate>Fri, 07 Aug 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:24 pm</title>
-      <description>RT340 / 1MM Radio: PS2 Units: E52, R19</description>
-      <guid isPermaLink="false">2026-08-07 16:24:00</guid>
-      <pubDate>Fri, 07 Aug 2026 16:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
