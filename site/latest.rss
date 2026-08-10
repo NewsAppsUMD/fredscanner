@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 18:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 19:19:54 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 3:16 pm</title>
+      <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E51</description>
+      <guid isPermaLink="false">2026-08-10 15:16:00</guid>
+      <pubDate>Mon, 10 Aug 2026 15:16:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - OUTSIDE: 2:55 pm</title>
+      <description>8100 BLOCK ROCKY RIDGE RD Radio: 9C Units: BC902</description>
+      <guid isPermaLink="false">2026-08-10 14:55:00</guid>
+      <pubDate>Mon, 10 Aug 2026 14:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:54 pm</title>
+      <description>100 BLOCK BLK RAMP RT85 TO I7100 BLOCKEB RAMP Radio: 9B Units: A38, R3</description>
+      <guid isPermaLink="false">2026-08-10 14:54:00</guid>
+      <pubDate>Mon, 10 Aug 2026 14:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - OUTSIDE: 2:53 pm</title>
+      <description>8100 BLOCK ROCKY RIDGE RD Radio: 9C Units: PE102</description>
+      <guid isPermaLink="false">2026-08-10 14:53:00</guid>
+      <pubDate>Mon, 10 Aug 2026 14:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 12:32 pm</title>
       <description>MONOCACY BLVD / RAMP I70WB TO MONOCACY BLVD RAMP Radio: 9C Units: E31</description>
@@ -282,30 +306,6 @@
       <description>500 BLOCK W POTOMAC ST Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-08-08 20:09:00</guid>
       <pubDate>Sat, 08 Aug 2026 20:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 7:47 pm</title>
-      <description>STODDERT ALY / ATLAS DR Radio: 9D Units: E121</description>
-      <guid isPermaLink="false">2026-08-08 19:47:00</guid>
-      <pubDate>Sat, 08 Aug 2026 19:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 7:42 pm</title>
-      <description>STODDERT ALY / ATLAS DR Radio: 9D Units: E11, E501, E31, E33, E291, R3, TT4, A18, ALS31, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-08 19:42:00</guid>
-      <pubDate>Sat, 08 Aug 2026 19:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 7:27 pm</title>
-      <description>4300 BLOCK DELAUTER RD Units: BR216</description>
-      <guid isPermaLink="false">2026-08-08 19:27:00</guid>
-      <pubDate>Sat, 08 Aug 2026 19:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:26 pm</title>
-      <description>6700 BLOCK ACCIPITER DR Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-08-08 19:26:00</guid>
-      <pubDate>Sat, 08 Aug 2026 19:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
