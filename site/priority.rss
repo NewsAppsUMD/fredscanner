@@ -6,7 +6,25 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 20:43:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 21:14:34 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:10 pm</title>
+      <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD — units: E61, R10, A69, ALS29, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-08-10 17:10:00|SABILLASVILLE RD / EYLERS VALLEY FLINT RD</guid>
+      <pubDate>Mon, 10 Aug 2026 17:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 4:51 pm</title>
+      <description>2000 BLOCK DENNINGS RD — units: E152</description>
+      <guid isPermaLink="false">2026-08-10 16:51:00|2000 BLOCK DENNINGS RD</guid>
+      <pubDate>Mon, 10 Aug 2026 16:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHTNING STRIKE - STRUCTURE: 4:29 pm</title>
+      <description>13100 BLOCK GOOD INTENT RD — units: E172, E111, Q11, K17</description>
+      <guid isPermaLink="false">2026-08-10 16:29:00|13100 BLOCK GOOD INTENT RD</guid>
+      <pubDate>Mon, 10 Aug 2026 16:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>LIGHTNING STRIKE - OUTSIDE: 2:53 pm (2 units, 2 updates)</title>
       <description>8100 BLOCK ROCKY RIDGE RD — units: PE102, BC902 (first reported 2:53 pm)</description>
@@ -162,18 +180,6 @@
       <description>300 BLOCK W SOUTH ST — units: E33, R3, A37, ALS4, BC901, EMS901, A38 (first reported 11:16 am)</description>
       <guid isPermaLink="false">2026-08-04 11:16:00|300 BLOCK W SOUTH ST</guid>
       <pubDate>Tue, 04 Aug 2026 11:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:49 pm</title>
-      <description>N BENTZ ST / W SECOND ST — units: A28, PE23, EMS901</description>
-      <guid isPermaLink="false">2026-08-03 17:49:00|N BENTZ ST / W SECOND ST</guid>
-      <pubDate>Mon, 03 Aug 2026 17:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 10:16 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA — units: PE311, E31, PE23, E331, E501, R3, TT4, TW1, A318, ALS31, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-03 10:16:00|5300 BLOCK NEW DESIGN RD, ANIMAL HOSPITAL - KINGSBROOK PLAZA</guid>
-      <pubDate>Mon, 03 Aug 2026 10:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
