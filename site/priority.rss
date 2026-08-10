@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 23:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:42:23 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:10 pm (8 units, 3 updates)</title>
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD — units: E61, R10, A69, ALS29, BC901, EMS902, A229, A169 (first reported 5:10 pm)</description>
@@ -162,12 +162,6 @@
       <description>I70EB / 48MM, I70EB / 48MM — units: E82, E121, R3, A129, A89, ALS4, EMS901</description>
       <guid isPermaLink="false">2026-08-05 06:30:00|I70EB / 48MM, I70EB / 48MM</guid>
       <pubDate>Wed, 05 Aug 2026 06:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:16 pm (18 units, 2 updates)</title>
-      <description>9000 BLOCK REICHS FORD RD, Apt/Unit:FIRST, COUNTY LANDFILL — units: E331, E152, E33, E231, PE23, R15, TT4, K33, K23, K1, A339, ALS4, BC901, SAFBC900, SAF900, E251, TT23, EK114 (first reported 5:16 pm)</description>
-      <guid isPermaLink="false">2026-08-04 17:16:00|9000 BLOCK REICHS FORD RD, Apt/Unit:FIRST, COUNTY LANDFILL</guid>
-      <pubDate>Tue, 04 Aug 2026 17:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

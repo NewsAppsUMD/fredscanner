@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 23:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:42:23 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:31 pm</title>
+      <description>10600 BLOCK OLD ANNAPOLIS RD, PALMER INDUSTRIES Radio: 9C Units: BR175</description>
+      <guid isPermaLink="false">2026-08-10 19:31:00</guid>
+      <pubDate>Mon, 10 Aug 2026 19:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>DUMPSTER FIRE: 7:30 pm</title>
+      <description>700 BLOCK WEMBLY DR, DERBYSHIRE APTS - 700 BLOCK WEMBLY DR Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-08-10 19:30:00</guid>
+      <pubDate>Mon, 10 Aug 2026 19:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:14 pm</title>
+      <description>9200 BLOCK LIBERTY RD Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-08-10 19:14:00</guid>
+      <pubDate>Mon, 10 Aug 2026 19:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 7:01 pm</title>
       <description>11900 BLOCK WOODLAND WAY RD Radio: 9C Units: E82</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK N MAIN ST, STATION WC007 - SMITHSBURG COMMUNITY VOL. FC. Units: E51</description>
       <guid isPermaLink="false">2026-08-10 15:16:00</guid>
       <pubDate>Mon, 10 Aug 2026 15:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - OUTSIDE: 2:55 pm</title>
-      <description>8100 BLOCK ROCKY RIDGE RD Radio: 9C Units: BC902</description>
-      <guid isPermaLink="false">2026-08-10 14:55:00</guid>
-      <pubDate>Mon, 10 Aug 2026 14:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:54 pm</title>
-      <description>100 BLOCK BLK RAMP RT85 TO I7100 BLOCKEB RAMP Radio: 9B Units: A38, R3</description>
-      <guid isPermaLink="false">2026-08-10 14:54:00</guid>
-      <pubDate>Mon, 10 Aug 2026 14:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - OUTSIDE: 2:53 pm</title>
-      <description>8100 BLOCK ROCKY RIDGE RD Radio: 9C Units: PE102</description>
-      <guid isPermaLink="false">2026-08-10 14:53:00</guid>
-      <pubDate>Mon, 10 Aug 2026 14:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
