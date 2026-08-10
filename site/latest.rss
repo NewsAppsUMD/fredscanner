@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Aug 2026 10:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:21:34 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 7:13 am</title>
+      <description>100 BLOCK W COLLEGE TER Units: TT4</description>
+      <guid isPermaLink="false">2026-08-10 07:13:00</guid>
+      <pubDate>Mon, 10 Aug 2026 07:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:06 am</title>
+      <description>4900 BLOCK WINCHESTER BLVD, GRAND TOURING Radio: 9C Units: E141, T1</description>
+      <guid isPermaLink="false">2026-08-10 07:06:00</guid>
+      <pubDate>Mon, 10 Aug 2026 07:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>REKINDLE: 5:36 am</title>
       <description>2500 BLOCK VANSE DR Units: K17</description>
@@ -294,18 +306,6 @@
       <description>2600 BLOCK CAULFIELD CT Radio: 9D Units: E311</description>
       <guid isPermaLink="false">2026-08-08 14:52:00</guid>
       <pubDate>Sat, 08 Aug 2026 14:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:50 pm</title>
-      <description>16400 BLOCK OLD EMMITSBURG RD Radio: 9B Units: A68, E61</description>
-      <guid isPermaLink="false">2026-08-08 14:50:00</guid>
-      <pubDate>Sat, 08 Aug 2026 14:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:47 pm</title>
-      <description>2600 BLOCK CAULFIELD CT Radio: 9D Units: E291, E111, PE23, E501, E33, R24, Q11, T1, A299, ALS29, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-08-08 14:47:00</guid>
-      <pubDate>Sat, 08 Aug 2026 14:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
