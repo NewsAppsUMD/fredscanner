@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 10:45:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:14:38 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 6:59 am</title>
+      <description>I70WB / RT17, I70WB / RT17 — units: E82, E72, R3, A89, A78, ALS8, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-08-11 06:59:00|I70WB / RT17, I70WB / RT17</guid>
+      <pubDate>Tue, 11 Aug 2026 06:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:10 pm (8 units, 3 updates)</title>
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD — units: E61, R10, A69, ALS29, BC901, EMS902, A229, A169 (first reported 5:10 pm)</description>
