@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 21:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:13:19 +0000</lastBuildDate>
+    <item>
+      <title>CO DET SOUNDING: 5:52 pm</title>
+      <description>4500 BLOCK TINDER BOX CIR Radio: 9C Units: E251</description>
+      <guid isPermaLink="false">2026-08-11 17:52:00</guid>
+      <pubDate>Tue, 11 Aug 2026 17:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 5:41 pm</title>
+      <description>200 BLOCK BISHOPS GLEN DR Units: E11</description>
+      <guid isPermaLink="false">2026-08-11 17:41:00</guid>
+      <pubDate>Tue, 11 Aug 2026 17:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 5:28 pm</title>
       <description>12700 BLOCK FINGERBOARD RD Radio: 9D Units: R15</description>
@@ -294,18 +306,6 @@
       <description>300 BLOCK N MARKET ST, OLD TOWNE CRAFTS Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-08-10 16:56:00</guid>
       <pubDate>Mon, 10 Aug 2026 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:52 pm</title>
-      <description>BIDLE RD / FREESTATE DR Radio: 9C Units: E72</description>
-      <guid isPermaLink="false">2026-08-10 16:52:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - STRUCTURE: 4:51 pm</title>
-      <description>2000 BLOCK DENNINGS RD Radio: CCA11 Units: E152</description>
-      <guid isPermaLink="false">2026-08-10 16:51:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
