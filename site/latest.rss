@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 16:45:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:17:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 1:07 pm</title>
+      <description>RT15SB / RT140(EMMB), RT15SB / RT140 Radio: 9D Units: E61, TW6, A69, ALS30, OPSAC900, EMS901</description>
+      <guid isPermaLink="false">2026-08-11 13:07:00</guid>
+      <pubDate>Tue, 11 Aug 2026 13:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:57 pm</title>
+      <description>400 BLOCK N MARKET ST, CUSTOM IMPRINTS Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-08-11 12:57:00</guid>
+      <pubDate>Tue, 11 Aug 2026 12:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:55 pm</title>
+      <description>900 BLOCK SULTAN DR Radio: 9C Units: E501, T1</description>
+      <guid isPermaLink="false">2026-08-11 12:55:00</guid>
+      <pubDate>Tue, 11 Aug 2026 12:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:36 pm</title>
       <description>100 BLOCK E BROAD WAY Radio: 6B Units: T5</description>
@@ -288,24 +306,6 @@
       <description>3000 BLOCK PRICES DISTILLERY RD Radio: 9C Units: PE251</description>
       <guid isPermaLink="false">2026-08-10 16:38:00</guid>
       <pubDate>Mon, 10 Aug 2026 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - STRUCTURE: 4:29 pm</title>
-      <description>13100 BLOCK GOOD INTENT RD Radio: 91C Units: E172, E111, Q11, K17</description>
-      <guid isPermaLink="false">2026-08-10 16:29:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:28 pm</title>
-      <description>2300 BLOCK MONUMENT RD Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-08-10 16:28:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:26 pm</title>
-      <description>PARK MILLS RD / PAGE RD Radio: 91C Units: E141</description>
-      <guid isPermaLink="false">2026-08-10 16:26:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
