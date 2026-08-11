@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 22:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:43:46 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:22 pm</title>
+      <description>RT15 / BASFORD RD, RT15 / BASFORD RD Radio: 9B Units: A149, E281</description>
+      <guid isPermaLink="false">2026-08-11 18:22:00</guid>
+      <pubDate>Tue, 11 Aug 2026 18:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:13 pm</title>
+      <description>2700 BLOCK MONUMENT RD Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-08-11 18:13:00</guid>
+      <pubDate>Tue, 11 Aug 2026 18:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>CO DET SOUNDING: 5:52 pm</title>
       <description>4500 BLOCK TINDER BOX CIR Radio: 9C Units: E251</description>
@@ -294,18 +306,6 @@
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD Radio: 9D Units: E61, R10, A69, ALS29, BC901, EMS902</description>
       <guid isPermaLink="false">2026-08-10 17:10:00</guid>
       <pubDate>Mon, 10 Aug 2026 17:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 5:09 pm</title>
-      <description>400 BLOCK E PATRICK ST, SAPUTO DAIRY Radio: 91C Units: BR35, PE23</description>
-      <guid isPermaLink="false">2026-08-10 17:09:00</guid>
-      <pubDate>Mon, 10 Aug 2026 17:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:56 pm</title>
-      <description>300 BLOCK N MARKET ST, OLD TOWNE CRAFTS Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-08-10 16:56:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
