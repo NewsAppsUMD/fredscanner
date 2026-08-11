@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 23:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:43:33 +0000</lastBuildDate>
     <item>
       <title>CO DET SOUNDING: 5:52 pm</title>
       <description>4500 BLOCK TINDER BOX CIR — units: E251</description>
@@ -168,12 +168,6 @@
       <description>YELLOW SPRINGS RD / ROSEMONT AVE — units: A18, ALS29, E11, EMS901</description>
       <guid isPermaLink="false">2026-08-05 19:56:00|YELLOW SPRINGS RD / ROSEMONT AVE</guid>
       <pubDate>Wed, 05 Aug 2026 19:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:00 pm</title>
-      <description>7200 BLOCK GUILFORD DR, CHUCK E CHEESES - FREDERICK CROSSING — units: PE311, R3, A318, ALS2, EMS901</description>
-      <guid isPermaLink="false">2026-08-05 18:00:00|7200 BLOCK GUILFORD DR, CHUCK E CHEESES - FREDERICK CROSSING</guid>
-      <pubDate>Wed, 05 Aug 2026 18:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
