@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 16:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:45:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:36 pm</title>
+      <description>100 BLOCK E BROAD WAY Radio: 6B Units: T5</description>
+      <guid isPermaLink="false">2026-08-11 12:36:00</guid>
+      <pubDate>Tue, 11 Aug 2026 12:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 12:06 pm</title>
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
@@ -300,12 +306,6 @@
       <description>PARK MILLS RD / PAGE RD Radio: 91C Units: E141</description>
       <guid isPermaLink="false">2026-08-10 16:26:00</guid>
       <pubDate>Mon, 10 Aug 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 4:24 pm</title>
-      <description>400 BLOCK E CHURCH ST, Apt/Unit:228, OX FIBRE APARTMENTS Radio: 9C Units: TT4</description>
-      <guid isPermaLink="false">2026-08-10 16:24:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
