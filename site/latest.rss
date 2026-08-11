@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 10:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:45:18 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:23 am</title>
+      <description>S CLIFTON RD / JEFFERSON BLVD Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-08-11 06:23:00</guid>
+      <pubDate>Tue, 11 Aug 2026 06:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 6:11 am</title>
       <description>9100 BLOCK SCIENCE CT, MSMU - COAD SCIENCE CENTER Radio: 9C Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>38300 BLOCK WINSOME TRAIL LN Radio: 6B Units: PE52</description>
       <guid isPermaLink="false">2026-08-10 15:57:00</guid>
       <pubDate>Mon, 10 Aug 2026 15:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 3:55 pm</title>
-      <description>3200 BLOCK FLINT HILL RD Radio: 9C Units: E232</description>
-      <guid isPermaLink="false">2026-08-10 15:55:00</guid>
-      <pubDate>Mon, 10 Aug 2026 15:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
