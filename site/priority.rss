@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 07:52:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 08:19:00 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:10 pm (8 units, 3 updates)</title>
       <description>SABILLASVILLE RD / EYLERS VALLEY FLINT RD — units: E61, R10, A69, ALS29, BC901, EMS902, A229, A169 (first reported 5:10 pm)</description>
@@ -156,12 +156,6 @@
       <description>100 BLOCK ROUTZAHN WAY, PNC BANK - FREDERICK RESEARCH PARK — units: A249, PE23, EMS902</description>
       <guid isPermaLink="false">2026-08-05 13:26:00|100 BLOCK ROUTZAHN WAY, PNC BANK - FREDERICK RESEARCH PARK</guid>
       <pubDate>Wed, 05 Aug 2026 13:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:30 am</title>
-      <description>I70EB / 48MM, I70EB / 48MM — units: E82, E121, R3, A129, A89, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-08-05 06:30:00|I70EB / 48MM, I70EB / 48MM</guid>
-      <pubDate>Wed, 05 Aug 2026 06:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
