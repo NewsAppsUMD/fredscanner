@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Aug 2026 21:15:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:44:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:28 pm</title>
+      <description>12700 BLOCK FINGERBOARD RD Radio: 9D Units: R15</description>
+      <guid isPermaLink="false">2026-08-11 17:28:00</guid>
+      <pubDate>Tue, 11 Aug 2026 17:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:23 pm</title>
+      <description>12700 BLOCK FINGERBOARD RD Radio: 9D Units: EMS901</description>
+      <guid isPermaLink="false">2026-08-11 17:23:00</guid>
+      <pubDate>Tue, 11 Aug 2026 17:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:04 pm</title>
       <description>7400 BLOCK WILLOW RD, HOMEWOOD AT CRUMLAND - 7400 BLOCK WILLOW RD Radio: 9C Units: E291, Q11</description>
@@ -294,18 +306,6 @@
       <description>2000 BLOCK DENNINGS RD Radio: CCA11 Units: E152</description>
       <guid isPermaLink="false">2026-08-10 16:51:00</guid>
       <pubDate>Mon, 10 Aug 2026 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:47 pm</title>
-      <description>QUARTER BRANCH RD / N BERLIN PIKE Radio: 6B Units: PE52</description>
-      <guid isPermaLink="false">2026-08-10 16:47:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 4:40 pm</title>
-      <description>CHURCH HILL RD / WARD KLINE RD Radio: 9C Units: E51</description>
-      <guid isPermaLink="false">2026-08-10 16:40:00</guid>
-      <pubDate>Mon, 10 Aug 2026 16:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
