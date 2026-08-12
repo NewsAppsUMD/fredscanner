@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 12 Aug 2026 00:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 01:30:09 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:03 pm</title>
+      <description>700 BLOCK ACROPOLIS WAY, Apt/Unit:402, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY — units: PE311, E31, PE23, E291, E121, R3, T1, TT4, A319, ALS4, BC903, BC902, SAF900</description>
+      <guid isPermaLink="false">2026-08-11 21:03:00|700 BLOCK ACROPOLIS WAY, Apt/Unit:402, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY</guid>
+      <pubDate>Tue, 11 Aug 2026 21:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>CO DET SOUNDING: 5:52 pm</title>
       <description>4500 BLOCK TINDER BOX CIR — units: E251</description>
@@ -162,12 +168,6 @@
       <description>JOHN WALSH WAY / ANNANDALE RD — units: ALS30, E61, TW6, A68, PE102, BC902, EMS902, A309, R10 (first reported 8:01 am)</description>
       <guid isPermaLink="false">2026-08-06 08:01:00|JOHN WALSH WAY / ANNANDALE RD</guid>
       <pubDate>Thu, 06 Aug 2026 08:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:56 pm</title>
-      <description>YELLOW SPRINGS RD / ROSEMONT AVE — units: A18, ALS29, E11, EMS901</description>
-      <guid isPermaLink="false">2026-08-05 19:56:00|YELLOW SPRINGS RD / ROSEMONT AVE</guid>
-      <pubDate>Wed, 05 Aug 2026 19:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
