@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 12:14:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:45:54 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 8:28 am</title>
+      <description>5600 BLOCK WADE CT, Apt/Unit:C Radio: 9C Units: PE311, E11, TW1</description>
+      <guid isPermaLink="false">2026-08-13 08:28:00</guid>
+      <pubDate>Thu, 13 Aug 2026 08:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:51 am</title>
       <description>7400 BLOCK MARCIES CHOICE LN, COUNTY WASTEWATER PLANT - MARCIES CHOICE LN - FREDERICK Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK BIGGS AVE Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-08-11 05:37:00</guid>
       <pubDate>Tue, 11 Aug 2026 05:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:05 am</title>
-      <description>14900 BLOCK OLD CAMP AIRY RD Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-08-11 04:05:00</guid>
-      <pubDate>Tue, 11 Aug 2026 04:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
