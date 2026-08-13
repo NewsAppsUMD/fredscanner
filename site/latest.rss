@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Aug 2026 01:30:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:51:18 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:29 pm</title>
+      <description>1000 BLOCK POPLAR ST, Bldg:A Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-12 22:29:00</guid>
+      <pubDate>Wed, 12 Aug 2026 22:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:04 pm</title>
+      <description>8500 BLOCK ORNDORFF RD Radio: 9B Units: A69, E61</description>
+      <guid isPermaLink="false">2026-08-12 22:04:00</guid>
+      <pubDate>Wed, 12 Aug 2026 22:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:41 pm</title>
+      <description>200 BLOCK E SECOND ST Radio: 9B Units: A38, E31</description>
+      <guid isPermaLink="false">2026-08-12 21:41:00</guid>
+      <pubDate>Wed, 12 Aug 2026 21:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:59 pm</title>
       <description>500 BLOCK SILO HILL PKWY, SLEEP INN &amp; SUITES - EMMITSBURG Radio: 9C Units: PE102, TW6, ACE23</description>
@@ -288,24 +306,6 @@
       <description>RT85 / CRESTWOOD BLVD, RT85 / CRESTWOOD BLVD Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-08-10 19:44:00</guid>
       <pubDate>Mon, 10 Aug 2026 19:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 7:31 pm</title>
-      <description>10600 BLOCK OLD ANNAPOLIS RD, PALMER INDUSTRIES Radio: 9C Units: BR175</description>
-      <guid isPermaLink="false">2026-08-10 19:31:00</guid>
-      <pubDate>Mon, 10 Aug 2026 19:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>DUMPSTER FIRE: 7:30 pm</title>
-      <description>700 BLOCK WEMBLY DR, DERBYSHIRE APTS - 700 BLOCK WEMBLY DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-08-10 19:30:00</guid>
-      <pubDate>Mon, 10 Aug 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:14 pm</title>
-      <description>9200 BLOCK LIBERTY RD Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-08-10 19:14:00</guid>
-      <pubDate>Mon, 10 Aug 2026 19:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
