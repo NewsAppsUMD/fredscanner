@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 01:30:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:50:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:40 pm</title>
+      <description>100 BLOCK WOODMERE CIR Radio: 9B Units: A78, RE74</description>
+      <guid isPermaLink="false">2026-08-13 22:40:00</guid>
+      <pubDate>Thu, 13 Aug 2026 22:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:32 pm</title>
+      <description>EAGLEHEAD DR / HOPEWELL ST Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2026-08-13 21:32:00</guid>
+      <pubDate>Thu, 13 Aug 2026 21:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 9:03 pm</title>
       <description>10500 BLOCK COOK BROTHERS RD Units: E251</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / RT140(EMMB), RT15SB / RT140 Radio: 9D Units: E61, TW6, A69, ALS30, OPSAC900, EMS901</description>
       <guid isPermaLink="false">2026-08-11 13:07:00</guid>
       <pubDate>Tue, 11 Aug 2026 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:57 pm</title>
-      <description>400 BLOCK N MARKET ST, CUSTOM IMPRINTS Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-08-11 12:57:00</guid>
-      <pubDate>Tue, 11 Aug 2026 12:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:55 pm</title>
-      <description>900 BLOCK SULTAN DR Radio: 9C Units: E501, T1</description>
-      <guid isPermaLink="false">2026-08-11 12:55:00</guid>
-      <pubDate>Tue, 11 Aug 2026 12:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
