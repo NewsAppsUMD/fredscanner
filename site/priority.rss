@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 10:46:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:14:16 +0000</lastBuildDate>
     <item>
       <title>FIRE UNIT ASSISTING OTHER AGENCY: 6:45 pm</title>
       <description>4800 BLOCK SCHLEY AVE, BRADDOCK HEIGHTS SWIMMING POOL — units: CAN1</description>
@@ -144,12 +144,6 @@
       <description>MONOCACY BLVD / S EAST ST — units: E33, R3, A38, ALS4, BC902, EMS902</description>
       <guid isPermaLink="false">2026-08-07 10:16:00|MONOCACY BLVD / S EAST ST</guid>
       <pubDate>Fri, 07 Aug 2026 10:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:38 am</title>
-      <description>3300 BLOCK SUNSET RIDGE DR — units: A239, ALS23, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-08-07 07:38:00|3300 BLOCK SUNSET RIDGE DR</guid>
-      <pubDate>Fri, 07 Aug 2026 07:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
