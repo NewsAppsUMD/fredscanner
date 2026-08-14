@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 23:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:36:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:16 pm</title>
+      <description>100 BLOCK BLK RAMP RT15-34100 BLOCK TO I7100 BLOCKWB RAMP Radio: 9B Units: E31, E121, R3, A38, A78</description>
+      <guid isPermaLink="false">2026-08-14 19:16:00</guid>
+      <pubDate>Fri, 14 Aug 2026 19:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 5:59 pm</title>
       <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Radio: 9C Units: E331, E31</description>
@@ -300,12 +306,6 @@
       <description>4300 BLOCK ARABY CHURCH RD Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-08-12 19:54:00</guid>
       <pubDate>Wed, 12 Aug 2026 19:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:27 pm</title>
-      <description>EAGLEHEAD DR / WOODRIDGE RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-08-12 18:27:00</guid>
-      <pubDate>Wed, 12 Aug 2026 18:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
