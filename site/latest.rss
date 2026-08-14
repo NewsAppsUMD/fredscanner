@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 00:46:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:30:37 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 9:03 pm</title>
+      <description>10500 BLOCK COOK BROTHERS RD Units: E251</description>
+      <guid isPermaLink="false">2026-08-13 21:03:00</guid>
+      <pubDate>Thu, 13 Aug 2026 21:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE UNIT ASSISTING OTHER AGENCY: 6:45 pm</title>
       <description>4800 BLOCK SCHLEY AVE, BRADDOCK HEIGHTS SWIMMING POOL Radio: 9B Units: CAN1</description>
@@ -300,12 +306,6 @@
       <description>900 BLOCK SULTAN DR Radio: 9C Units: E501, T1</description>
       <guid isPermaLink="false">2026-08-11 12:55:00</guid>
       <pubDate>Tue, 11 Aug 2026 12:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:36 pm</title>
-      <description>100 BLOCK E BROAD WAY Radio: 6B Units: T5</description>
-      <guid isPermaLink="false">2026-08-11 12:36:00</guid>
-      <pubDate>Tue, 11 Aug 2026 12:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
