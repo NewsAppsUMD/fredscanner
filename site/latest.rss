@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 14 Aug 2026 12:45:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:26:32 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:06 am</title>
+      <description>700 BLOCK UNION ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-08-14 09:06:00</guid>
+      <pubDate>Fri, 14 Aug 2026 09:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:45 am</title>
       <description>5800 BLOCK BILLET ST Radio: 9C Units: E152</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9C Units: R3, PE23</description>
       <guid isPermaLink="false">2026-08-11 19:48:00</guid>
       <pubDate>Tue, 11 Aug 2026 19:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:24 pm</title>
-      <description>300 BLOCK PROSPECT BLVD, Bldg:A, Apt/Unit:COMMON AREA, CASCADES OF FREDERICK Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-08-11 19:24:00</guid>
-      <pubDate>Tue, 11 Aug 2026 19:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
