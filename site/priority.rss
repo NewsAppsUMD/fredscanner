@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Aug 2026 00:45:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 01:28:25 +0000</lastBuildDate>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:43 pm</title>
       <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER — units: E61</description>
@@ -126,18 +126,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), IAO — units: E121, E82, R3, A129, A89, ALS8, BC903, EMS901</description>
       <guid isPermaLink="false">2026-08-08 01:04:00|I70WB / RIDGE RD (BRADDOCK), IAO</guid>
       <pubDate>Sat, 08 Aug 2026 01:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 8:14 pm (9 units, 3 updates)</title>
-      <description>2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS — units: E231, R15, A239, ALS23, BC901, EMS902, TT23, A259, PE251 (first reported 8:14 pm)</description>
-      <guid isPermaLink="false">2026-08-07 20:14:00|2900 BLOCK URBANA PIKE, FRANKLIN LIQUORS</guid>
-      <pubDate>Fri, 07 Aug 2026 20:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:44 pm</title>
-      <description>LIBERTY RD / WOODSBORO PIKE — units: E111, R24, A249, ALS29, EMS902</description>
-      <guid isPermaLink="false">2026-08-07 17:44:00|LIBERTY RD / WOODSBORO PIKE</guid>
-      <pubDate>Fri, 07 Aug 2026 17:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
