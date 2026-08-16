@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 22:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:02:30 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:48 pm</title>
+      <description>5300 BLOCK E HYATT RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-08-16 18:48:00</guid>
+      <pubDate>Sun, 16 Aug 2026 18:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 5:40 pm</title>
       <description>20600 BLOCK BOLAND FARM RD STATION 734, STATION 734 Radio: 7A1 Units: E231</description>
@@ -300,12 +306,6 @@
       <description>JCPENNY Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-08-14 20:44:00</guid>
       <pubDate>Fri, 14 Aug 2026 20:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:49 pm</title>
-      <description>RT340EB / JEFFERSON TECHNOLOGY BLVD, RT340EB / JEFFERSON TECHNOLOGY BLVD Radio: 9B Units: E201, E31, R3, A209, A37</description>
-      <guid isPermaLink="false">2026-08-14 19:49:00</guid>
-      <pubDate>Fri, 14 Aug 2026 19:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
