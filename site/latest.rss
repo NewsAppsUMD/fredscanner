@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 17:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:35:30 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:28 pm</title>
+      <description>1000 BLOCK W PATRICK ST, RED LOBSTER Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-08-16 13:28:00</guid>
+      <pubDate>Sun, 16 Aug 2026 13:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 12:06 pm</title>
       <description>400 BLOCK HARLAN WAY, Apt/Unit:103, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9B Units: E11</description>
@@ -300,12 +306,6 @@
       <description>I270SB / MONTGOMERY COUNTY LINE, I270SB / MONTGOMERY COUNTY LINE Units: E231, R3, A238, ALS23, EMS901, TT23</description>
       <guid isPermaLink="false">2026-08-14 14:24:00</guid>
       <pubDate>Fri, 14 Aug 2026 14:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:22 pm</title>
-      <description>1500 BLOCK S RAMBLING WAY Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-08-14 14:22:00</guid>
-      <pubDate>Fri, 14 Aug 2026 14:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
