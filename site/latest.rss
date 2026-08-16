@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 13:11:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:39:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:23 am</title>
+      <description>100 BLOCK S MAPLE AVE Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-08-16 09:23:00</guid>
+      <pubDate>Sun, 16 Aug 2026 09:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:18 am</title>
+      <description>100 BLOCK S MAPLE AVE Radio: 9C Units: PE52, T5</description>
+      <guid isPermaLink="false">2026-08-16 09:18:00</guid>
+      <pubDate>Sun, 16 Aug 2026 09:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:52 am</title>
       <description>300 BLOCK FIELDPOINTE BLVD, Bldg:B Radio: 9C Units: PE311, Q11</description>
@@ -294,18 +306,6 @@
       <description>NEW LONDON RD / GREEN VALLEY RD Radio: 9C Units: BR175</description>
       <guid isPermaLink="false">2026-08-14 06:57:00</guid>
       <pubDate>Fri, 14 Aug 2026 06:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:52 am</title>
-      <description>NEW LONDON RD / GREEN VALLEY RD Radio: 9C Units: BR156</description>
-      <guid isPermaLink="false">2026-08-14 06:52:00</guid>
-      <pubDate>Fri, 14 Aug 2026 06:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:51 am</title>
-      <description>5800 BLOCK BILLET ST Radio: 9C Units: E152, TT4</description>
-      <guid isPermaLink="false">2026-08-14 06:51:00</guid>
-      <pubDate>Fri, 14 Aug 2026 06:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
