@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Aug 2026 20:37:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:02:37 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:46 pm</title>
+      <description>600 BLOCK W ADAMS CIR Radio: 9C Units: E162, Q11</description>
+      <guid isPermaLink="false">2026-08-16 16:46:00</guid>
+      <pubDate>Sun, 16 Aug 2026 16:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:34 pm</title>
       <description>11900 BLOCK AUBURN RD Radio: 9B Units: ALS30</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCK TO I7100 BLOCKWB RAMP Radio: 9B Units: E31, E121, R3, A38, A78</description>
       <guid isPermaLink="false">2026-08-14 19:16:00</guid>
       <pubDate>Fri, 14 Aug 2026 19:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:59 pm</title>
-      <description>I70WB / RT144 (NEW MARKET), I70WB / RT144 Radio: 9C Units: E331, E31</description>
-      <guid isPermaLink="false">2026-08-14 17:59:00</guid>
-      <pubDate>Fri, 14 Aug 2026 17:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
