@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 02:47:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:17:49 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 11:13 pm</title>
+      <description>1200 BLOCK MARKER RD Radio: 9D Units: E281</description>
+      <guid isPermaLink="false">2026-08-16 23:13:00</guid>
+      <pubDate>Sun, 16 Aug 2026 23:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 11:09 pm</title>
+      <description>1200 BLOCK MARKER RD Radio: 9D Units: K21</description>
+      <guid isPermaLink="false">2026-08-16 23:09:00</guid>
+      <pubDate>Sun, 16 Aug 2026 23:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 11:06 pm</title>
+      <description>1200 BLOCK MARKER RD Radio: 9D Units: RID, E141, A196, EMS901</description>
+      <guid isPermaLink="false">2026-08-16 23:06:00</guid>
+      <pubDate>Sun, 16 Aug 2026 23:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 11:05 pm</title>
+      <description>1200 BLOCK MARKER RD Radio: 9D Units: TTF, K1, W7</description>
+      <guid isPermaLink="false">2026-08-16 23:05:00</guid>
+      <pubDate>Sun, 16 Aug 2026 23:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 11:02 pm</title>
+      <description>1200 BLOCK MARKER RD Radio: 9D Units: E11, R20</description>
+      <guid isPermaLink="false">2026-08-16 23:02:00</guid>
+      <pubDate>Sun, 16 Aug 2026 23:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 10:54 pm</title>
+      <description>1200 BLOCK MARKER RD, RIGHT ACCROSS FROM Radio: 9D Units: E72, E201, E121, E82, RE74, T5, R19, K7, K5, EK204, A78, ALS20, BC903, BC901, SAF901, PE52</description>
+      <guid isPermaLink="false">2026-08-16 22:54:00</guid>
+      <pubDate>Sun, 16 Aug 2026 22:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:20 pm</title>
       <description>RT77 / TIPPIN DR, RT77 / TIPPIN DR Radio: 9C Units: BR106</description>
@@ -270,42 +306,6 @@
       <description>600 BLOCK E PATRICK ST, RECOVERY VILLAGE Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-08-15 15:22:00</guid>
       <pubDate>Sat, 15 Aug 2026 15:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:43 pm</title>
-      <description>1100 BLOCK TANEY AVE, NORTHSIDE TOWNHOUSE APARTMENTS - 1100 BLOCK TANEY AVE Radio: 9C Units: E501, PE23</description>
-      <guid isPermaLink="false">2026-08-15 13:43:00</guid>
-      <pubDate>Sat, 15 Aug 2026 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:26 am</title>
-      <description>600 BLOCK E PATRICK ST, RECOVERY VILLAGE Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-08-15 11:26:00</guid>
-      <pubDate>Sat, 15 Aug 2026 11:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:50 am</title>
-      <description>14700 BLOCK MANAHAN RD, Apt/Unit:A Radio: 9C Units: PE102, TW6, E511</description>
-      <guid isPermaLink="false">2026-08-15 10:50:00</guid>
-      <pubDate>Sat, 15 Aug 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:49 am</title>
-      <description>100 BLOCK NINTH AVE Radio: 9C Units: PE52, R19</description>
-      <guid isPermaLink="false">2026-08-15 03:49:00</guid>
-      <pubDate>Sat, 15 Aug 2026 03:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:57 pm</title>
-      <description>300 BLOCK E CHURCH ST Radio: 9B Units: A38, E31</description>
-      <guid isPermaLink="false">2026-08-14 22:57:00</guid>
-      <pubDate>Fri, 14 Aug 2026 22:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:04 pm</title>
-      <description>6300 BLOCK SPRING RIDGE PKWY Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-08-14 21:04:00</guid>
-      <pubDate>Fri, 14 Aug 2026 21:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
