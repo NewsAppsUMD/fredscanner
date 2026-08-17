@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 14:06:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:39:32 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 10:18 am</title>
+      <description>8000 BLOCK HOLLOW REED CT Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-08-17 10:18:00</guid>
+      <pubDate>Mon, 17 Aug 2026 10:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
       <description>1000 BLOCK THOMPSON DR, NCI - BLDG 1000 BLOCK Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>OLD NATIONAL PIKE / WOODVILLE RD Units: ALS33</description>
       <guid isPermaLink="false">2026-08-15 21:29:00</guid>
       <pubDate>Sat, 15 Aug 2026 21:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:27 pm</title>
-      <description>OLD NATIONAL PIKE / WOODVILLE RD Units: E152, R15, A158, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-08-15 21:27:00</guid>
-      <pubDate>Sat, 15 Aug 2026 21:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
