@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 22:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:03:23 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 6:56 pm</title>
+      <description>3300 BLOCK GALENA DR, Apt/Unit:106, URBAN GREEN APARTMENTS - 3300 BLOCK GALENA DR Radio: 9C Units: E231, PE251, TT23</description>
+      <guid isPermaLink="false">2026-08-17 18:56:00</guid>
+      <pubDate>Mon, 17 Aug 2026 18:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:12 pm</title>
       <description>5200 BLOCK PRESIDENTS CT, FEDEX KINKOS - PRESIDENTS CT - FREDERICK Radio: 9C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK WEDGEWOOD BLVD, FREDERICK CML Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-08-16 09:50:00</guid>
       <pubDate>Sun, 16 Aug 2026 09:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:23 am</title>
-      <description>100 BLOCK S MAPLE AVE Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-08-16 09:23:00</guid>
-      <pubDate>Sun, 16 Aug 2026 09:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
