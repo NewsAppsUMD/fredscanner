@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 14:39:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:06:11 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:55 am</title>
+      <description>100 BLOCK E SECOND ST, SOCIETY OF ST VINCENT DE PAUL Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-08-17 10:55:00</guid>
+      <pubDate>Mon, 17 Aug 2026 10:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK INSIDE: 10:49 am</title>
+      <description>19600 BLOCK BRUNER WAY Radio: 7A1 Units: R14</description>
+      <guid isPermaLink="false">2026-08-17 10:49:00</guid>
+      <pubDate>Mon, 17 Aug 2026 10:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 10:18 am</title>
       <description>8000 BLOCK HOLLOW REED CT Radio: 9C Units: E111</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK BLK RAMP RT15-34100 BLOCKWB TO RT18100 BLOCK RAMP Units: E11, R3, A19, ALS4, EMS901</description>
       <guid isPermaLink="false">2026-08-15 23:23:00</guid>
       <pubDate>Sat, 15 Aug 2026 23:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:40 pm</title>
-      <description>BALLENGER CREEK PIKE / S RENN RD Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-08-15 21:40:00</guid>
-      <pubDate>Sat, 15 Aug 2026 21:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:29 pm</title>
-      <description>OLD NATIONAL PIKE / WOODVILLE RD Units: ALS33</description>
-      <guid isPermaLink="false">2026-08-15 21:29:00</guid>
-      <pubDate>Sat, 15 Aug 2026 21:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
