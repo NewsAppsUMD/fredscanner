@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 21:05:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:37:52 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:07 pm</title>
+      <description>BOYERS MILL RD / YEAGERTOWN RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-08-17 17:07:00</guid>
+      <pubDate>Mon, 17 Aug 2026 17:07:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:06 pm</title>
+      <description>5200 BLOCK PRESIDENTS CT, WINE DISTRICTS Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-08-17 17:06:00</guid>
+      <pubDate>Mon, 17 Aug 2026 17:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
       <description>8000 BLOCK REICHS FORD RD Radio: 9B Units: A38, E31</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK S MAPLE AVE Radio: 9C Units: PE52, T5</description>
       <guid isPermaLink="false">2026-08-16 09:18:00</guid>
       <pubDate>Sun, 16 Aug 2026 09:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:52 am</title>
-      <description>300 BLOCK FIELDPOINTE BLVD, Bldg:B Radio: 9C Units: PE311, Q11</description>
-      <guid isPermaLink="false">2026-08-16 08:52:00</guid>
-      <pubDate>Sun, 16 Aug 2026 08:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 8:51 am</title>
-      <description>1500 BLOCK ROSEMONT AVE Radio: 9D Units: E11, E501, PE23, E31, E291, R3, TT4, A19, ALS2, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-08-16 08:51:00</guid>
-      <pubDate>Sun, 16 Aug 2026 08:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
