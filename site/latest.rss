@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 00:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 00:45:40 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:22 pm</title>
+      <description>I70EB / I270, I70EB / I270 Radio: 9B Units: A19, E11</description>
+      <guid isPermaLink="false">2026-08-16 20:22:00</guid>
+      <pubDate>Sun, 16 Aug 2026 20:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:40 pm</title>
       <description>300 BLOCK E PATRICK ST, LINCOLN PROP COM Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>2000 BLOCK YELLOW SPRINGS RD, MCDONALDS - ROSEMONT Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-08-14 20:57:00</guid>
       <pubDate>Fri, 14 Aug 2026 20:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:47 pm</title>
-      <description>LIBERTY RD / MONOCACY BLVD, IN AREA OF Radio: 9B Units: A249, E111</description>
-      <guid isPermaLink="false">2026-08-14 20:47:00</guid>
-      <pubDate>Fri, 14 Aug 2026 20:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
