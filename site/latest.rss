@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Aug 2026 20:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:05:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
+      <description>8000 BLOCK REICHS FORD RD Radio: 9B Units: A38, E31</description>
+      <guid isPermaLink="false">2026-08-17 16:38:00</guid>
+      <pubDate>Mon, 17 Aug 2026 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>FUEL SPILL: 3:24 pm</title>
       <description>I70WB / RT75(RT75), I70WB / RT75 Radio: 9C Units: E152, E331</description>
@@ -300,12 +306,6 @@
       <description>1500 BLOCK ROSEMONT AVE Radio: 9D Units: E11, E501, PE23, E31, E291, R3, TT4, A19, ALS2, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-08-16 08:51:00</guid>
       <pubDate>Sun, 16 Aug 2026 08:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:08 am</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:220, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-08-16 08:08:00</guid>
-      <pubDate>Sun, 16 Aug 2026 08:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
