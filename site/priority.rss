@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 21:36:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 22:02:35 +0000</lastBuildDate>
     <item>
       <title>MOUNTAIN RESCUE: 3:39 pm (12 units, 2 updates)</title>
       <description>HOG ROCK - CATOCTIN MOUNTAIN PARK, HOG ROCK - CATOCTIN MOUNTAIN PARK — units: E212, E132, R10, TR29, EMSUTV30, A229, ALS30, EK224, E511, BC902, SAF901, EMS902 (first reported 3:39 pm)</description>
@@ -138,12 +138,6 @@
       <description>2000 BLOCK DENNINGS RD — units: E152</description>
       <guid isPermaLink="false">2026-08-10 16:51:00|2000 BLOCK DENNINGS RD</guid>
       <pubDate>Mon, 10 Aug 2026 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - STRUCTURE: 4:29 pm</title>
-      <description>13100 BLOCK GOOD INTENT RD — units: E172, E111, Q11, K17</description>
-      <guid isPermaLink="false">2026-08-10 16:29:00|13100 BLOCK GOOD INTENT RD</guid>
-      <pubDate>Mon, 10 Aug 2026 16:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
