@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 19:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:02:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:53 pm</title>
+      <description>OLD NATIONAL PIKE / HOLLOW RD Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-08-18 15:53:00</guid>
+      <pubDate>Tue, 18 Aug 2026 15:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 3:45 pm</title>
+      <description>HOG ROCK - CATOCTIN MOUNTAIN PARK, HOG ROCK - CATOCTIN MOUNTAIN PARK Radio: 9D Units: E132, R10</description>
+      <guid isPermaLink="false">2026-08-18 15:45:00</guid>
+      <pubDate>Tue, 18 Aug 2026 15:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 3:44 pm</title>
+      <description>10900 BLOCK BALTIMORE NATIONAL PIKE, GUMPTION ENTERPRISES Radio: 9C Units: E82</description>
+      <guid isPermaLink="false">2026-08-18 15:44:00</guid>
+      <pubDate>Tue, 18 Aug 2026 15:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 3:39 pm</title>
+      <description>HOG ROCK - CATOCTIN MOUNTAIN PARK, HOG ROCK - CATOCTIN MOUNTAIN PARK Radio: 9D Units: E212, E132, R10, TR29, EMSUTV30, A229, ALS30, EK224, E511, BC902, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-08-18 15:39:00</guid>
+      <pubDate>Tue, 18 Aug 2026 15:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:35 pm</title>
       <description>6400 BLOCK JEFFERSON PIKE, SEVENTH DAY ADVENTIST CHURCH Radio: 9C Units: E11, TT4</description>
@@ -282,30 +306,6 @@
       <description>1200 BLOCK MARKER RD Radio: 9D Units: RID, E141, A196, EMS901</description>
       <guid isPermaLink="false">2026-08-16 23:06:00</guid>
       <pubDate>Sun, 16 Aug 2026 23:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:05 pm</title>
-      <description>1200 BLOCK MARKER RD Radio: 9D Units: TTF, K1, W7</description>
-      <guid isPermaLink="false">2026-08-16 23:05:00</guid>
-      <pubDate>Sun, 16 Aug 2026 23:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:02 pm</title>
-      <description>1200 BLOCK MARKER RD Radio: 9D Units: E11, R20</description>
-      <guid isPermaLink="false">2026-08-16 23:02:00</guid>
-      <pubDate>Sun, 16 Aug 2026 23:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:54 pm</title>
-      <description>1200 BLOCK MARKER RD, RIGHT ACCROSS FROM Radio: 9D Units: E72, E201, E121, E82, RE74, T5, R19, K7, K5, EK204, A78, ALS20, BC903, BC901, SAF901, PE52</description>
-      <guid isPermaLink="false">2026-08-16 22:54:00</guid>
-      <pubDate>Sun, 16 Aug 2026 22:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:20 pm</title>
-      <description>RT77 / TIPPIN DR, RT77 / TIPPIN DR Radio: 9C Units: BR106</description>
-      <guid isPermaLink="false">2026-08-16 22:20:00</guid>
-      <pubDate>Sun, 16 Aug 2026 22:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
