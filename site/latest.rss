@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 18 Aug 2026 17:38:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:05:22 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:01 pm</title>
+      <description>OLD NATIONAL PIKE / MOUNT TABOR RD Radio: 9I Units: E72, RE74, R3, A37, EMS902</description>
+      <guid isPermaLink="false">2026-08-18 14:01:00</guid>
+      <pubDate>Tue, 18 Aug 2026 14:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E11, R3, A319</description>
+      <guid isPermaLink="false">2026-08-18 13:40:00</guid>
+      <pubDate>Tue, 18 Aug 2026 13:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 1:06 pm</title>
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9D Units: E82, E72, HM33, HM50, HMSU33, E121, A89, BC903, SAF901, EMS901</description>
@@ -294,18 +306,6 @@
       <description>600 BLOCK W ADAMS CIR Radio: 9C Units: E162, Q11</description>
       <guid isPermaLink="false">2026-08-16 16:46:00</guid>
       <pubDate>Sun, 16 Aug 2026 16:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:34 pm</title>
-      <description>11900 BLOCK AUBURN RD Radio: 9B Units: ALS30</description>
-      <guid isPermaLink="false">2026-08-16 15:34:00</guid>
-      <pubDate>Sun, 16 Aug 2026 15:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:26 pm</title>
-      <description>11900 BLOCK AUBURN RD Radio: 9B Units: A229, PE102, EK224</description>
-      <guid isPermaLink="false">2026-08-16 15:26:00</guid>
-      <pubDate>Sun, 16 Aug 2026 15:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
