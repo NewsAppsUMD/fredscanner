@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 00:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:28:38 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:59 pm</title>
+      <description>700 BLOCK APPALACHIAN WAY Radio: 9C Units: PE52</description>
+      <guid isPermaLink="false">2026-08-18 20:59:00</guid>
+      <pubDate>Tue, 18 Aug 2026 20:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:48 pm</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, TOBACCO KING Radio: 9C Units: E31, TT4</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK MARKER RD Radio: 9D Units: CAN1</description>
       <guid isPermaLink="false">2026-08-17 01:06:00</guid>
       <pubDate>Mon, 17 Aug 2026 01:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:21 am</title>
-      <description>400 BLOCK FRANKLIN ST, STATION 7 Units: A129</description>
-      <guid isPermaLink="false">2026-08-17 00:21:00</guid>
-      <pubDate>Mon, 17 Aug 2026 00:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
