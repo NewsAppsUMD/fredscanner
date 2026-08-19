@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 03:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:12:11 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:55 pm</title>
+      <description>RT77 / PRYOR RD, RT77 / PRYOR RD Radio: 9C Units: BR106</description>
+      <guid isPermaLink="false">2026-08-18 23:55:00</guid>
+      <pubDate>Tue, 18 Aug 2026 23:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 8:59 pm</title>
       <description>700 BLOCK APPALACHIAN WAY Radio: 9C Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK B &amp; O AVE Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-08-17 02:05:00</guid>
       <pubDate>Mon, 17 Aug 2026 02:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 1:06 am</title>
-      <description>1200 BLOCK MARKER RD Radio: 9D Units: CAN1</description>
-      <guid isPermaLink="false">2026-08-17 01:06:00</guid>
-      <pubDate>Mon, 17 Aug 2026 01:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
