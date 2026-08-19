@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Aug 2026 18:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:42:58 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:23 pm</title>
+      <description>1800 BLOCKB PLEASANT VIEW RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-08-19 14:23:00</guid>
+      <pubDate>Wed, 19 Aug 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:17 pm</title>
+      <description>500 BLOCK UNION ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-08-19 14:17:00</guid>
+      <pubDate>Wed, 19 Aug 2026 14:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 1:39 pm</title>
       <description>38100 BLOCK STEVENS RD Radio: 6B Units: BR285</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK E SECOND ST, SOCIETY OF ST VINCENT DE PAUL Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-08-17 10:55:00</guid>
       <pubDate>Mon, 17 Aug 2026 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 10:49 am</title>
-      <description>19600 BLOCK BRUNER WAY Radio: 7A1 Units: R14</description>
-      <guid isPermaLink="false">2026-08-17 10:49:00</guid>
-      <pubDate>Mon, 17 Aug 2026 10:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 10:18 am</title>
-      <description>8000 BLOCK HOLLOW REED CT Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-08-17 10:18:00</guid>
-      <pubDate>Mon, 17 Aug 2026 10:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
