@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 15:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:06:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:01 pm</title>
+      <description>5700 BLOCK MEADOWOOD ST, LINGANORE CONDOS FIRE SYSTEM Radio: 9C Units: E152, TT4</description>
+      <guid isPermaLink="false">2026-08-20 12:01:00</guid>
+      <pubDate>Thu, 20 Aug 2026 12:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:34 am</title>
       <description>3600 BLOCK DONNA CT Radio: 9C Units: PE251</description>
@@ -300,12 +306,6 @@
       <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA Radio: 9B Units: E82, A89</description>
       <guid isPermaLink="false">2026-08-18 11:57:00</guid>
       <pubDate>Tue, 18 Aug 2026 11:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:24 am</title>
-      <description>BARTONSVILLE RD / BOONE AVE Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-08-18 11:24:00</guid>
-      <pubDate>Tue, 18 Aug 2026 11:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
