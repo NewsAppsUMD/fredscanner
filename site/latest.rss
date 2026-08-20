@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 15:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:41:45 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:34 am</title>
+      <description>3600 BLOCK DONNA CT Radio: 9C Units: PE251</description>
+      <guid isPermaLink="false">2026-08-20 11:34:00</guid>
+      <pubDate>Thu, 20 Aug 2026 11:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 11:13 am</title>
+      <description>1400 BLOCK(1520) BLK PORTER ST Radio: 9C Units: E501, E11</description>
+      <guid isPermaLink="false">2026-08-20 11:13:00</guid>
+      <pubDate>Thu, 20 Aug 2026 11:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 9:48 am</title>
       <description>200 BLOCK MARLEY ST Radio: 9C Units: E152, PE251, R15</description>
@@ -294,18 +306,6 @@
       <description>BARTONSVILLE RD / BOONE AVE Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-08-18 11:24:00</guid>
       <pubDate>Tue, 18 Aug 2026 11:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:50 am</title>
-      <description>E FIFTH ST / CHAPEL ALY Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-08-18 10:50:00</guid>
-      <pubDate>Tue, 18 Aug 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:25 am</title>
-      <description>100 BLOCK STADIUM DR, NYMEO FIELD AT HARRY GROVE STADIUM Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-08-18 10:25:00</guid>
-      <pubDate>Tue, 18 Aug 2026 10:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
