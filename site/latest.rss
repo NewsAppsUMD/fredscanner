@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Aug 2026 18:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:12:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:05 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9B Units: ALS23</description>
+      <guid isPermaLink="false">2026-08-20 15:05:00</guid>
+      <pubDate>Thu, 20 Aug 2026 15:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:04 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9B Units: TT23</description>
+      <guid isPermaLink="false">2026-08-20 15:04:00</guid>
+      <pubDate>Thu, 20 Aug 2026 15:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:00 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2026-08-20 15:00:00</guid>
+      <pubDate>Thu, 20 Aug 2026 15:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:57 pm</title>
+      <description>URBANA PIKE / PARK MILLS RD Radio: 9B Units: A239, E231</description>
+      <guid isPermaLink="false">2026-08-20 14:57:00</guid>
+      <pubDate>Thu, 20 Aug 2026 14:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 2:42 pm</title>
+      <description>I70EB / E SOUTH ST(E SOUTH ST), I70EB / E SOUTH ST Units: E31, E152</description>
+      <guid isPermaLink="false">2026-08-20 14:42:00</guid>
+      <pubDate>Thu, 20 Aug 2026 14:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:27 pm</title>
       <description>I70WB / RIDGE RD (BRADDOCK) Units: E121, E82, R3, A129, A78</description>
@@ -276,36 +306,6 @@
       <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Radio: 9I Units: R14</description>
       <guid isPermaLink="false">2026-08-18 14:31:00</guid>
       <pubDate>Tue, 18 Aug 2026 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 2:31 pm</title>
-      <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Radio: 9I Units: R19</description>
-      <guid isPermaLink="false">2026-08-18 14:31:00</guid>
-      <pubDate>Tue, 18 Aug 2026 14:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 2:26 pm</title>
-      <description>300 BLOCK S MAPLE AVE, BRUNSWICK BOAT RAMP Radio: 9I Units: E201, R19, T5, TR29, BT19, BT28, A197, BC901, SAF901, EMS901</description>
-      <guid isPermaLink="false">2026-08-18 14:26:00</guid>
-      <pubDate>Tue, 18 Aug 2026 14:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:06 pm</title>
-      <description>OLD NATIONAL PIKE / MOUNT TABOR RD Radio: 9I Units: E72</description>
-      <guid isPermaLink="false">2026-08-18 14:06:00</guid>
-      <pubDate>Tue, 18 Aug 2026 14:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:01 pm</title>
-      <description>OLD NATIONAL PIKE / MOUNT TABOR RD Radio: 9I Units: E72, RE74, R3, A37, EMS902</description>
-      <guid isPermaLink="false">2026-08-18 14:01:00</guid>
-      <pubDate>Tue, 18 Aug 2026 14:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:40 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Units: E11, R3, A319</description>
-      <guid isPermaLink="false">2026-08-18 13:40:00</guid>
-      <pubDate>Tue, 18 Aug 2026 13:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
