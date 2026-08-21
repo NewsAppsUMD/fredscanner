@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 13:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:44:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 9:31 am</title>
+      <description>400 BLOCK SAGNER AVE, FREDERICK COUNTY CITIZEN SERVICES Radio: 9C Units: HM33</description>
+      <guid isPermaLink="false">2026-08-21 09:31:00</guid>
+      <pubDate>Fri, 21 Aug 2026 09:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 9:25 am</title>
+      <description>400 BLOCK SAGNER AVE, FREDERICK COUNTY CITIZEN SERVICES Radio: 9C Units: A37</description>
+      <guid isPermaLink="false">2026-08-21 09:25:00</guid>
+      <pubDate>Fri, 21 Aug 2026 09:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:23 am</title>
+      <description>BALLENGER CREEK PIKE / CORPORATE DR Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-08-21 09:23:00</guid>
+      <pubDate>Fri, 21 Aug 2026 09:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 9:22 am</title>
+      <description>400 BLOCK SAGNER AVE, FREDERICK COUNTY CITIZEN SERVICES Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-08-21 09:22:00</guid>
+      <pubDate>Fri, 21 Aug 2026 09:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 8:26 am</title>
       <description>6600 BLOCK MCGRATH PL Radio: 9C Units: PE311</description>
@@ -282,30 +306,6 @@
       <description>RT15 @ CLAY ST HWY / CLAY ST Radio: 9B Units: E281</description>
       <guid isPermaLink="false">2026-08-20 05:32:00</guid>
       <pubDate>Thu, 20 Aug 2026 05:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:31 am</title>
-      <description>I70WB / BILL MOXLEY RD, I70WB / BILL MOXLEY RD Radio: 9D Units: E152, R15, A158, A259, BC901, EMS901, ALS33</description>
-      <guid isPermaLink="false">2026-08-20 05:31:00</guid>
-      <pubDate>Thu, 20 Aug 2026 05:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:11 pm</title>
-      <description>5200 BLOCK EARLES CT Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-08-19 23:11:00</guid>
-      <pubDate>Wed, 19 Aug 2026 23:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:21 pm</title>
-      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-08-19 22:21:00</guid>
-      <pubDate>Wed, 19 Aug 2026 22:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK OUTSIDE: 7:47 pm</title>
-      <description>PROSPECT RD / HILL ST Units: E152</description>
-      <guid isPermaLink="false">2026-08-19 19:47:00</guid>
-      <pubDate>Wed, 19 Aug 2026 19:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
