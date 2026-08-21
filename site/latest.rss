@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Aug 2026 12:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:44:13 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 8:26 am</title>
+      <description>6600 BLOCK MCGRATH PL Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-08-21 08:26:00</guid>
+      <pubDate>Fri, 21 Aug 2026 08:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 7:47 am</title>
       <description>8800 BLOCK INDIAN SPRINGS RD Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>PROSPECT RD / HILL ST Units: E152</description>
       <guid isPermaLink="false">2026-08-19 19:47:00</guid>
       <pubDate>Wed, 19 Aug 2026 19:47:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR OUTSIDE: 6:54 pm</title>
-      <description>900 BLOCK W PATRICK ST, CHIPOTLE - GOLDEN MILE Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-08-19 18:54:00</guid>
-      <pubDate>Wed, 19 Aug 2026 18:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
