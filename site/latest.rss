@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Aug 2026 14:02:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:36:57 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 10:26 am</title>
+      <description>100 BLOCK E PATRICK ST, C BURR ARTZ LIBRARY Radio: 9C Units: R2</description>
+      <guid isPermaLink="false">2026-08-22 10:26:00</guid>
+      <pubDate>Sat, 22 Aug 2026 10:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 10:24 am</title>
+      <description>6800 BLOCK ACACIA CT Radio: 9D Units: A319, ALS31, PE311, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-08-22 10:24:00</guid>
+      <pubDate>Sat, 22 Aug 2026 10:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 10:23 am</title>
+      <description>100 BLOCK E SOUTH ST, Apt/Unit:C Radio: 9C Units: TT4</description>
+      <guid isPermaLink="false">2026-08-22 10:23:00</guid>
+      <pubDate>Sat, 22 Aug 2026 10:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:18 am</title>
+      <description>4700 BLOCK PLUM RD Radio: 9B Units: A259, E152</description>
+      <guid isPermaLink="false">2026-08-22 10:18:00</guid>
+      <pubDate>Sat, 22 Aug 2026 10:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 7:53 am</title>
       <description>7600 BLOCK WILLOW RD, Apt/Unit:31, BECKLEYS MOTEL Radio: 9C Units: Q11</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK BLK RAMP RT85 TO I27100 BLOCKSB RAMP Radio: 9B Units: A319, PE311</description>
       <guid isPermaLink="false">2026-08-20 17:57:00</guid>
       <pubDate>Thu, 20 Aug 2026 17:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:33 pm</title>
-      <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, PE251, R3, CCM19, A259, TT23</description>
-      <guid isPermaLink="false">2026-08-20 17:33:00</guid>
-      <pubDate>Thu, 20 Aug 2026 17:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 5:24 pm</title>
-      <description>RT31 / SAMS CREEK, RT31 / SAMS CREEK Units: CCBR105</description>
-      <guid isPermaLink="false">2026-08-20 17:24:00</guid>
-      <pubDate>Thu, 20 Aug 2026 17:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:27 pm</title>
-      <description>RT26 / OLD ANNAPOLIS RD, RT26 / OLD ANNAPOLIS RD Radio: 9B Units: A169, ALS17</description>
-      <guid isPermaLink="false">2026-08-20 16:27:00</guid>
-      <pubDate>Thu, 20 Aug 2026 16:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:19 pm</title>
-      <description>RT26 / OLD ANNAPOLIS RD, RT26 / OLD ANNAPOLIS RD Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-08-20 16:19:00</guid>
-      <pubDate>Thu, 20 Aug 2026 16:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
