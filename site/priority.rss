@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Aug 2026 09:38:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:03:26 +0000</lastBuildDate>
     <item>
       <title>LIGHTNING STRIKE - STRUCTURE: 1:10 am</title>
       <description>1000 BLOCK THUNDERBIRD DR — units: R15</description>
@@ -144,12 +144,6 @@
       <description>10500 BLOCK OLD ANNAPOLIS RD — units: E111, RE171, A179, ALS17, BC902, EMS901</description>
       <guid isPermaLink="false">2026-08-15 15:27:00|10500 BLOCK OLD ANNAPOLIS RD</guid>
       <pubDate>Sat, 15 Aug 2026 15:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 5:43 pm</title>
-      <description>16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER — units: E61</description>
-      <guid isPermaLink="false">2026-08-14 17:43:00|16800 BLOCK S SETON AVE, NATIONAL EMERGENCY TRAINING CENTER</guid>
-      <pubDate>Fri, 14 Aug 2026 17:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
