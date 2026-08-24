@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 16:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:09:29 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:49 pm</title>
+      <description>7500 BLOCK RIDGE RD Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-08-24 12:49:00</guid>
+      <pubDate>Mon, 24 Aug 2026 12:49:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:25 pm</title>
       <description>EMMITSBURG RD / BOYLE RD Units: A68, E61, TW6</description>
@@ -300,12 +306,6 @@
       <description>11000 BLOCK BALTIMORE NATIONAL PIKE Radio: 9B Units: E82</description>
       <guid isPermaLink="false">2026-08-22 00:10:00</guid>
       <pubDate>Sat, 22 Aug 2026 00:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 9:43 pm</title>
-      <description>100 BLOCK BURGESS HILL WAY, Apt/Unit:APT 303, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-08-21 21:43:00</guid>
-      <pubDate>Fri, 21 Aug 2026 21:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
