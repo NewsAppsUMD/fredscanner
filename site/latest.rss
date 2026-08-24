@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Aug 2026 11:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:39:28 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 7:05 am</title>
+      <description>RT15NB / MOTTER AVE, RT15NB / MOTTER AVE Units: PE23, E11</description>
+      <guid isPermaLink="false">2026-08-24 07:05:00</guid>
+      <pubDate>Mon, 24 Aug 2026 07:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 5:53 am</title>
       <description>REICHS FORD RD / TILCO DR, HMS Radio: 9C Units: E31</description>
@@ -300,12 +306,6 @@
       <description>4800 BLOCK MCLAUREN CT Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-08-21 20:01:00</guid>
       <pubDate>Fri, 21 Aug 2026 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 7:36 pm</title>
-      <description>1100 BLOCK PEACH ORCHARD LN, Apt/Unit:210, BRUNSWICK HOUSE APTS Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-08-21 19:36:00</guid>
-      <pubDate>Fri, 21 Aug 2026 19:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
