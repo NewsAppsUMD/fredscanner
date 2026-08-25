@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 08:43:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:11:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:06 am</title>
+      <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9I Units: PE311, R3, A38, ALS4, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-08-25 05:06:00</guid>
+      <pubDate>Tue, 25 Aug 2026 05:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 5:00 am</title>
+      <description>RT340EB / HORINE RD, RT340EB / HORINE RD Radio: 9D Units: E281, R19</description>
+      <guid isPermaLink="false">2026-08-25 05:00:00</guid>
+      <pubDate>Tue, 25 Aug 2026 05:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:57 am</title>
+      <description>RT340EB / HORINE RD, RT340EB / HORINE RD Radio: 9D Units: BC903</description>
+      <guid isPermaLink="false">2026-08-25 04:57:00</guid>
+      <pubDate>Tue, 25 Aug 2026 04:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:54 am</title>
+      <description>RT340WB / HORINE RD, RT340WB / HORINE RD Radio: 9D Units: E201, R20, A197, A209, ALS20, EMS901, PE52</description>
+      <guid isPermaLink="false">2026-08-25 04:54:00</guid>
+      <pubDate>Tue, 25 Aug 2026 04:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:58 am</title>
       <description>1600 BLOCK PINDER ST, Apt/Unit:233 Radio: 9C Units: PE23, TT4</description>
@@ -282,30 +306,6 @@
       <description>I70WB / RT85, I70WB / RT85 Radio: 9B Units: E31, E11, R3, A38, A18</description>
       <guid isPermaLink="false">2026-08-22 23:11:00</guid>
       <pubDate>Sat, 22 Aug 2026 23:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:02 pm</title>
-      <description>100 BLOCK DEPAUL ST, DEPAUL VILLAGE APARTMENTS Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2026-08-22 23:02:00</guid>
-      <pubDate>Sat, 22 Aug 2026 23:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:39 pm</title>
-      <description>RT15NB / RT26, RT15NB / RT26 Radio: 9B Units: E11, E291, R2, A28, A299</description>
-      <guid isPermaLink="false">2026-08-22 20:39:00</guid>
-      <pubDate>Sat, 22 Aug 2026 20:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 7:05 pm</title>
-      <description>7200 BLOCK KEHNE RD, Bldg:B, FREDERICK PAINTING COMPANY - 7200 BLOCKB KEHNE RD Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-08-22 19:05:00</guid>
-      <pubDate>Sat, 22 Aug 2026 19:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 6:04 pm</title>
-      <description>CHIU ALY / CHAPEL ALY Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-08-22 18:04:00</guid>
-      <pubDate>Sat, 22 Aug 2026 18:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
