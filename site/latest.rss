@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 22:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:39:49 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 6:32 pm</title>
+      <description>3900 BLOCK HIGHLAND CT Radio: 9C Units: BR85</description>
+      <guid isPermaLink="false">2026-08-25 18:32:00</guid>
+      <pubDate>Tue, 25 Aug 2026 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>CO DET SOUNDING: 3:39 pm</title>
       <description>13300 BLOCK PENN SHOP CT Radio: 9C Units: PE251</description>
@@ -300,12 +306,6 @@
       <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: E281</description>
       <guid isPermaLink="false">2026-08-24 02:50:00</guid>
       <pubDate>Mon, 24 Aug 2026 02:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:47 pm</title>
-      <description>10400 BLOCK QUILLBACK ST Radio: 9C Units: R15</description>
-      <guid isPermaLink="false">2026-08-23 23:47:00</guid>
-      <pubDate>Sun, 23 Aug 2026 23:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
