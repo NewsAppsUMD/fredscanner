@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 12:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:44:12 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:22 am (6 units, 2 updates)</title>
       <description>WAVERLEY DR / KEY PKWY — units: E11, R3, A19, ALS4, EMS901, A38 (first reported 7:22 am)</description>
@@ -156,12 +156,6 @@
       <description>1200 BLOCK MARKER RD, RIGHT ACCROSS FROM — units: E72, E201, E121, E82, RE74, T5, R19, K7, K5, EK204, A78, ALS20, BC903, BC901, SAF901, PE52</description>
       <guid isPermaLink="false">2026-08-16 22:54:00|1200 BLOCK MARKER RD, RIGHT ACCROSS FROM</guid>
       <pubDate>Sun, 16 Aug 2026 22:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:40 pm</title>
-      <description>9200 BLOCK GAS HOUSE PIKE — units: E331, R24, A339, ALS17, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-08-16 14:40:00|9200 BLOCK GAS HOUSE PIKE</guid>
-      <pubDate>Sun, 16 Aug 2026 14:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
