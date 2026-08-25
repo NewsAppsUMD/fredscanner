@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 17:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:40:23 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:22 am (6 units, 2 updates)</title>
       <description>WAVERLEY DR / KEY PKWY — units: E11, R3, A19, ALS4, EMS901, A38 (first reported 7:22 am)</description>
@@ -144,18 +144,6 @@
       <description>1200 BLOCK MARKER RD — units: CAN1</description>
       <guid isPermaLink="false">2026-08-17 01:06:00|1200 BLOCK MARKER RD</guid>
       <pubDate>Mon, 17 Aug 2026 01:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 11:02 pm (11 units, 5 updates)</title>
-      <description>1200 BLOCK MARKER RD — units: E11, R20, TTF, K1, W7, RID, E141, A196, EMS901, K21, E281 (first reported 11:02 pm)</description>
-      <guid isPermaLink="false">2026-08-16 23:02:00|1200 BLOCK MARKER RD</guid>
-      <pubDate>Sun, 16 Aug 2026 23:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:54 pm</title>
-      <description>1200 BLOCK MARKER RD, RIGHT ACCROSS FROM — units: E72, E201, E121, E82, RE74, T5, R19, K7, K5, EK204, A78, ALS20, BC903, BC901, SAF901, PE52</description>
-      <guid isPermaLink="false">2026-08-16 22:54:00|1200 BLOCK MARKER RD, RIGHT ACCROSS FROM</guid>
-      <pubDate>Sun, 16 Aug 2026 22:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
