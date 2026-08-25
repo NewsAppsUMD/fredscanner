@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 23:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:37:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:13 pm</title>
+      <description>13000 BLOCK GLISSANS MILL RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2026-08-25 19:13:00</guid>
+      <pubDate>Tue, 25 Aug 2026 19:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 7:06 pm</title>
+      <description>9700 BLOCK BALTIMORE NATIONAL PIKE Units: BR85</description>
+      <guid isPermaLink="false">2026-08-25 19:06:00</guid>
+      <pubDate>Tue, 25 Aug 2026 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:32 pm</title>
       <description>3900 BLOCK HIGHLAND CT Radio: 9C Units: BR85</description>
@@ -294,18 +306,6 @@
       <description>RT15NB / MOTTER AVE, RT15NB / MOTTER AVE Units: PE23, E11</description>
       <guid isPermaLink="false">2026-08-24 07:05:00</guid>
       <pubDate>Mon, 24 Aug 2026 07:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:53 am</title>
-      <description>REICHS FORD RD / TILCO DR, HMS Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-08-24 05:53:00</guid>
-      <pubDate>Mon, 24 Aug 2026 05:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:50 am</title>
-      <description>JAMES MONROE HWY / LOVETTSVILLE RD Radio: 6B Units: E281</description>
-      <guid isPermaLink="false">2026-08-24 02:50:00</guid>
-      <pubDate>Mon, 24 Aug 2026 02:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
