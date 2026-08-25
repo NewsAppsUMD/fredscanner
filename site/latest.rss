@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 10:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:41:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:06 am</title>
+      <description>RT340EB / RT180 (JEFFERSON), RT340EB / RT180 Units: E281</description>
+      <guid isPermaLink="false">2026-08-25 06:06:00</guid>
+      <pubDate>Tue, 25 Aug 2026 06:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:01 am</title>
       <description>RT340EB / RT180 (JEFFERSON), RT340EB / RT180 Units: PE52, E201, R20, A197, A209</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK TILLER ST Units: E31, TT4</description>
       <guid isPermaLink="false">2026-08-23 04:00:00</guid>
       <pubDate>Sun, 23 Aug 2026 04:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:17 am</title>
-      <description>8100 BLOCK EDGEWOOD CHURCH RD Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-08-23 02:17:00</guid>
-      <pubDate>Sun, 23 Aug 2026 02:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
