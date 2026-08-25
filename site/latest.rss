@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Aug 2026 09:42:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:06:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:01 am</title>
+      <description>RT340EB / RT180 (JEFFERSON), RT340EB / RT180 Units: PE52, E201, R20, A197, A209</description>
+      <guid isPermaLink="false">2026-08-25 06:01:00</guid>
+      <pubDate>Tue, 25 Aug 2026 06:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:24 am</title>
       <description>NEW DESIGN RD / EXECUTIVE WAY Radio: 9I Units: ALS31</description>
@@ -300,12 +306,6 @@
       <description>8100 BLOCK EDGEWOOD CHURCH RD Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-08-23 02:17:00</guid>
       <pubDate>Sun, 23 Aug 2026 02:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHTNING STRIKE - STRUCTURE: 1:10 am</title>
-      <description>1000 BLOCK THUNDERBIRD DR Units: R15</description>
-      <guid isPermaLink="false">2026-08-23 01:10:00</guid>
-      <pubDate>Sun, 23 Aug 2026 01:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
