@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Aug 2026 18:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:31:46 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 3:17 pm</title>
+      <description>7300 BLOCK GUILFORD DR, PARTNERS VETERINARY EMERGENCY &amp; SPECIALTY CENTER - FREDERICK* Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-08-26 15:17:00</guid>
+      <pubDate>Wed, 26 Aug 2026 15:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:57 pm</title>
+      <description>5200 BLOCK WESTVIEW DR, GOLDS GYM Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-08-26 14:57:00</guid>
+      <pubDate>Wed, 26 Aug 2026 14:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:51 pm</title>
+      <description>3000 BLOCK GREEN VALLEY RD Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-08-26 14:51:00</guid>
+      <pubDate>Wed, 26 Aug 2026 14:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 2:44 pm</title>
+      <description>3400 BLOCK FIRESTONE DR Units: PE251, E231, E331, R15, TT4, K23, K33, A259, BC902, BC901, SAF900</description>
+      <guid isPermaLink="false">2026-08-26 14:44:00</guid>
+      <pubDate>Wed, 26 Aug 2026 14:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:37 pm</title>
+      <description>700 BLOCK ELEVATION RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-08-26 14:37:00</guid>
+      <pubDate>Wed, 26 Aug 2026 14:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:17 pm</title>
       <description>8700 BLOCK GREEN VALLEY RD Radio: 9B Units: E152, RE171</description>
@@ -276,36 +306,6 @@
       <description>200 BLOCK N CHURCH ST Radio: 9C Units: BR106</description>
       <guid isPermaLink="false">2026-08-24 22:15:00</guid>
       <pubDate>Mon, 24 Aug 2026 22:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:46 pm</title>
-      <description>E FOURTH ST / N MARKET ST Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-08-24 19:46:00</guid>
-      <pubDate>Mon, 24 Aug 2026 19:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:12 pm</title>
-      <description>LIBERTY RD / S SECOND ST Radio: 9B Units: A169, E162</description>
-      <guid isPermaLink="false">2026-08-24 19:12:00</guid>
-      <pubDate>Mon, 24 Aug 2026 19:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:56 pm</title>
-      <description>FAIRVIEW AVE / MOTTER AVE Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-08-24 18:56:00</guid>
-      <pubDate>Mon, 24 Aug 2026 18:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 6:02 pm</title>
-      <description>6600 BLOCK LINGANORE RD, RIGHT NEXT TO Radio: 9D Units: E331, R3, A28, ALS2, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-08-24 18:02:00</guid>
-      <pubDate>Mon, 24 Aug 2026 18:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 5:42 pm</title>
-      <description>1400 BLOCK ORANGETIP CT Radio: 9C Units: E121, E31, TW1</description>
-      <guid isPermaLink="false">2026-08-24 17:42:00</guid>
-      <pubDate>Mon, 24 Aug 2026 17:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
