@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 18:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:44:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:01 pm</title>
+      <description>5700 BLOCK FOXVILLE RD Radio: 9D Units: E212, R10, A307, ALS30, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-08-27 17:01:00</guid>
+      <pubDate>Thu, 27 Aug 2026 17:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 3:25 pm</title>
+      <description>9100 BLOCK OLD KILN RD Radio: 9D Units: PE102</description>
+      <guid isPermaLink="false">2026-08-27 15:25:00</guid>
+      <pubDate>Thu, 27 Aug 2026 15:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:42 pm</title>
+      <description>4800 BLOCK FAIRFIELD RD, FAIRFIELD AREA SCHOOL DISTRICT Units: TW6</description>
+      <guid isPermaLink="false">2026-08-27 14:42:00</guid>
+      <pubDate>Thu, 27 Aug 2026 14:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 2:40 pm</title>
+      <description>I70EB / RT17(RT17) Radio: 9C Units: E82, E72</description>
+      <guid isPermaLink="false">2026-08-27 14:40:00</guid>
+      <pubDate>Thu, 27 Aug 2026 14:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:39 pm</title>
+      <description>100 BLOCK W MAIN ST, STATION 6 Units: A37</description>
+      <guid isPermaLink="false">2026-08-27 14:39:00</guid>
+      <pubDate>Thu, 27 Aug 2026 14:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 2:14 pm</title>
+      <description>9100 BLOCK OLD KILN RD Units: EMSUTV24</description>
+      <guid isPermaLink="false">2026-08-27 14:14:00</guid>
+      <pubDate>Thu, 27 Aug 2026 14:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 2:12 pm</title>
+      <description>9100 BLOCK OLD KILN RD Units: CAN1</description>
+      <guid isPermaLink="false">2026-08-27 14:12:00</guid>
+      <pubDate>Thu, 27 Aug 2026 14:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>SERVICE CALL: 1:56 pm</title>
       <description>9100 BLOCK OLD KILN RD Units: E61, EMSUTV30</description>
@@ -264,48 +306,6 @@
       <description>3900 BLOCK HIGHLAND CT Radio: 9C Units: BR85</description>
       <guid isPermaLink="false">2026-08-25 18:32:00</guid>
       <pubDate>Tue, 25 Aug 2026 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 3:39 pm</title>
-      <description>13300 BLOCK PENN SHOP CT Radio: 9C Units: PE251</description>
-      <guid isPermaLink="false">2026-08-25 15:39:00</guid>
-      <pubDate>Tue, 25 Aug 2026 15:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:08 pm</title>
-      <description>MOTTER AVE / FREDERICK AVE Radio: 9B Units: E31</description>
-      <guid isPermaLink="false">2026-08-25 15:08:00</guid>
-      <pubDate>Tue, 25 Aug 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:06 pm</title>
-      <description>MOTTER AVE / PINEWOOD DR Radio: 9B Units: A28, E11</description>
-      <guid isPermaLink="false">2026-08-25 15:06:00</guid>
-      <pubDate>Tue, 25 Aug 2026 15:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:31 pm</title>
-      <description>S CHURCH ST / FRANKLIN ST Radio: 9B Units: A78, E72</description>
-      <guid isPermaLink="false">2026-08-25 13:31:00</guid>
-      <pubDate>Tue, 25 Aug 2026 13:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:30 pm</title>
-      <description>6200 BLOCK NIGHTFIRE TER Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-08-25 13:30:00</guid>
-      <pubDate>Tue, 25 Aug 2026 13:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS LEAK INSIDE: 1:25 pm</title>
-      <description>6200 BLOCK NIGHTFIRE TER Radio: 9C Units: E331, E152, R15</description>
-      <guid isPermaLink="false">2026-08-25 13:25:00</guid>
-      <pubDate>Tue, 25 Aug 2026 13:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 1:11 pm</title>
-      <description>6000 BLOCK DUVALLS FOREST DR Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-08-25 13:11:00</guid>
-      <pubDate>Tue, 25 Aug 2026 13:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
