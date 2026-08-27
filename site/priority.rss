@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Aug 2026 06:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:13:53 +0000</lastBuildDate>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 7:05 pm</title>
       <description>100 BLOCK BLK RAMP RT4100 BLOCKEB TO RT15SB RAMP — units: A18, ALS4, E11, EMS902</description>
@@ -144,12 +144,6 @@
       <description>N MARKET ST / E SECOND ST — units: E31, R3, A38, ALS4, BC903, EMS901</description>
       <guid isPermaLink="false">2026-08-19 06:59:00|N MARKET ST / E SECOND ST</guid>
       <pubDate>Wed, 19 Aug 2026 06:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 3:39 pm (12 units, 2 updates)</title>
-      <description>HOG ROCK - CATOCTIN MOUNTAIN PARK, HOG ROCK - CATOCTIN MOUNTAIN PARK — units: E212, E132, R10, TR29, EMSUTV30, A229, ALS30, EK224, E511, BC902, SAF901, EMS902 (first reported 3:39 pm)</description>
-      <guid isPermaLink="false">2026-08-18 15:39:00|HOG ROCK - CATOCTIN MOUNTAIN PARK, HOG ROCK - CATOCTIN MOUNTAIN PARK</guid>
-      <pubDate>Tue, 18 Aug 2026 15:45:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
