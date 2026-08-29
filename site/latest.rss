@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 19:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:03:39 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:36 pm</title>
+      <description>REICHS FORD RD / ENTRANCE RD Radio: 9B Units: A339, E31</description>
+      <guid isPermaLink="false">2026-08-29 15:36:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:29 pm</title>
+      <description>1000 BLOCK W PATRICK ST, OLLIES BARGAIN OUTLET - FREDERICK COUNTY SQUARE Units: A18, E11</description>
+      <guid isPermaLink="false">2026-08-29 15:29:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
       <description>I270NB / PARK MILLS RD, THE RANCH Radio: 9B Units: A259</description>
@@ -294,18 +306,6 @@
       <description>FLINT HILL RD / MONOCACY BOTTOM RD Radio: 9C Units: BR235</description>
       <guid isPermaLink="false">2026-08-27 19:23:00</guid>
       <pubDate>Thu, 27 Aug 2026 19:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:21 pm</title>
-      <description>8700 BLOCK ROSEHAVEN LN Radio: 9C Units: E331, E31, R3</description>
-      <guid isPermaLink="false">2026-08-27 19:21:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:18 pm</title>
-      <description>200 BLOCK CHAPEL CT, GLADETOWN CONDOS - 200 BLOCK CHAPEL CT Radio: 9C Units: E111, TW1</description>
-      <guid isPermaLink="false">2026-08-27 19:18:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:18:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
