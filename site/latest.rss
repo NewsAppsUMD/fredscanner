@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 23:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:31:47 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:26 pm</title>
+      <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
+      <guid isPermaLink="false">2026-08-29 19:26:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:25 pm</title>
+      <description>5600 BLOCK ETZLER RD Radio: 9C Units: E111, EK224</description>
+      <guid isPermaLink="false">2026-08-29 19:25:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:17 pm</title>
+      <description>700 BLOCK ANGELWING LN Radio: 9D Units: RID, E291, A18</description>
+      <guid isPermaLink="false">2026-08-29 19:17:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:11 pm</title>
+      <description>700 BLOCK ANGELWING LN Radio: 9D Units: E72</description>
+      <guid isPermaLink="false">2026-08-29 19:11:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 7:09 pm</title>
+      <description>700 BLOCK ANGELWING LN Radio: 9D Units: E121, E31, E311, PE23, E501, R3, TW1, TT4, A129, ALS4, BC903, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-08-29 19:09:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:06 pm</title>
+      <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2026-08-29 19:06:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:06 pm</title>
+      <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-08-29 19:06:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 6:53 pm</title>
       <description>16900 BLOCK SABILLASVILLE RD, SAINT JOHNS UNITED CHURCH OF CHRIST - SABILLASVILLE Radio: 9D Units: PE102, EMS902</description>
@@ -264,48 +306,6 @@
       <description>CAP STINE RD / HOWARD STUP RD, BWTEEN HOWARD STUP AND MANOR WOODS Radio: 9C Units: BR145</description>
       <guid isPermaLink="false">2026-08-28 10:09:00</guid>
       <pubDate>Fri, 28 Aug 2026 10:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:07 am</title>
-      <description>3400 BLOCK ROHRERSVILLE RD, STATION WC008 - SUBSTATION 8 - BOONSBORO Units: A197, RE74</description>
-      <guid isPermaLink="false">2026-08-28 10:07:00</guid>
-      <pubDate>Fri, 28 Aug 2026 10:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:36 am</title>
-      <description>10200 BLOCK CHURCH HILL RD Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-08-28 09:36:00</guid>
-      <pubDate>Fri, 28 Aug 2026 09:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 6:10 am</title>
-      <description>3100 BLOCK CEDAR GROVE TER Radio: 9C Units: E231, PE251, TT23</description>
-      <guid isPermaLink="false">2026-08-28 06:10:00</guid>
-      <pubDate>Fri, 28 Aug 2026 06:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:40 am</title>
-      <description>4000 BLOCK ROCK HALL RD, BUILDERS FIRST SOURCE - POINT OF ROCKS Radio: 9C Units: E281, T5</description>
-      <guid isPermaLink="false">2026-08-28 00:40:00</guid>
-      <pubDate>Fri, 28 Aug 2026 00:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:41 pm</title>
-      <description>100 BLOCK DEPAUL ST, SAINT JOSEPHS ROMAN CATHOLIC CHURCH Radio: 9C Units: E61, TW6</description>
-      <guid isPermaLink="false">2026-08-27 22:41:00</guid>
-      <pubDate>Thu, 27 Aug 2026 22:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:19 pm</title>
-      <description>2600 BLOCK BALLENGER CREEK PIKE Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-08-27 22:19:00</guid>
-      <pubDate>Thu, 27 Aug 2026 22:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:47 pm</title>
-      <description>700 BLOCK ACROPOLIS WAY, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-08-27 21:47:00</guid>
-      <pubDate>Thu, 27 Aug 2026 21:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
