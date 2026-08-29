@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 20:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:03:14 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK INSIDE: 4:58 pm</title>
+      <description>2400 BLOCK STONEY CREEK RD, WORMANS MILL CLUBHOUSE Units: E291, A247</description>
+      <guid isPermaLink="false">2026-08-29 16:58:00</guid>
+      <pubDate>Sat, 29 Aug 2026 16:58:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 4:51 pm</title>
+      <description>7100 BLOCK ENGLISH MUFFIN WAY, BIMBO BAKERIES - 7100 BLOCK ENGLISH MUFFIN WAY Units: R2, ALS2, EMS902</description>
+      <guid isPermaLink="false">2026-08-29 16:51:00</guid>
+      <pubDate>Sat, 29 Aug 2026 16:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 4:44 pm</title>
+      <description>5400 BLOCK URBANA PIKE, TARGET - RIVERVIEW PLAZA Radio: 9B Units: E31, R3, A38</description>
+      <guid isPermaLink="false">2026-08-29 16:44:00</guid>
+      <pubDate>Sat, 29 Aug 2026 16:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
       <description>200 BLOCKA N EAST ST Radio: 9B Units: A28, PE23</description>
@@ -288,24 +306,6 @@
       <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - NEW RESIDENCE HALL Radio: 9C Units: R2</description>
       <guid isPermaLink="false">2026-08-27 20:13:00</guid>
       <pubDate>Thu, 27 Aug 2026 20:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:01 pm</title>
-      <description>500 BLOCK E MOUNTAIN RD Radio: 9C Units: PE52</description>
-      <guid isPermaLink="false">2026-08-27 20:01:00</guid>
-      <pubDate>Thu, 27 Aug 2026 20:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:49 pm</title>
-      <description>300 BLOCK MONTEVUE LN, HIGHWAY FLEET SERVICES Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-08-27 19:49:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 7:44 pm</title>
-      <description>13700 BLOCK GRAHAM CT Radio: 9C Units: E152, R15, CCK1</description>
-      <guid isPermaLink="false">2026-08-27 19:44:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
