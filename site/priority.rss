@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 19:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:31:41 +0000</lastBuildDate>
     <item>
       <title>HOUSE FIRE: 1:04 pm (14 units, 2 updates)</title>
       <description>3800 BLOCK GREENRIDGE DR — units: PE251, E152, E231, E331, R15, T23, K23, K33, A259, ALS23, BC901, BC903, SAF900, E172 (first reported 1:04 pm)</description>
@@ -156,12 +156,6 @@
       <description>PROSPECT BLVD / S JEFFERSON ST — units: E11, R3, A38, ALS2, BC901, EMS900</description>
       <guid isPermaLink="false">2026-08-21 15:10:00|PROSPECT BLVD / S JEFFERSON ST</guid>
       <pubDate>Fri, 21 Aug 2026 15:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:28 am (8 units, 3 updates)</title>
-      <description>RT340WB / 3MM, RT340WB / 3MM — units: E201, R19, A196, A197, BC903, EMS901, PE52, R14 (first reported 5:28 am)</description>
-      <guid isPermaLink="false">2026-08-21 05:28:00|RT340WB / 3MM, RT340WB / 3MM</guid>
-      <pubDate>Fri, 21 Aug 2026 05:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

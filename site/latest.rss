@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 19:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 19:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
+      <description>I270NB / PARK MILLS RD, THE RANCH Radio: 9B Units: A259</description>
+      <guid isPermaLink="false">2026-08-29 15:22:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:10 pm</title>
+      <description>6200 BLOCK WHITE OAK DR Units: E331</description>
+      <guid isPermaLink="false">2026-08-29 15:10:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:09 pm</title>
+      <description>I270NB / PARK MILLS RD, THE RANCH Radio: 9B Units: E231, PE311, R3, A239, A319</description>
+      <guid isPermaLink="false">2026-08-29 15:09:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:03 pm</title>
+      <description>5800 BLOCK MANOR WOODS RD Radio: 9B Units: A148, R14</description>
+      <guid isPermaLink="false">2026-08-29 15:03:00</guid>
+      <pubDate>Sat, 29 Aug 2026 15:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 1:07 pm</title>
       <description>3800 BLOCK GREENRIDGE DR Units: E172</description>
@@ -282,30 +306,6 @@
       <description>200 BLOCK CHAPEL CT, GLADETOWN CONDOS - 200 BLOCK CHAPEL CT Radio: 9C Units: E111, TW1</description>
       <guid isPermaLink="false">2026-08-27 19:18:00</guid>
       <pubDate>Thu, 27 Aug 2026 19:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:11 pm</title>
-      <description>DOUBS RD / PLEASANT VIEW RD Radio: 9C Units: EK204, PE311</description>
-      <guid isPermaLink="false">2026-08-27 19:11:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 7:04 pm</title>
-      <description>2100 BLOCK BALLENGER CREEK PIKE, BETWEEN THAT AND RAILROAD TRACKS Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-08-27 19:04:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 7:01 pm</title>
-      <description>6600 BLOCK Y RD Units: E91</description>
-      <guid isPermaLink="false">2026-08-27 19:01:00</guid>
-      <pubDate>Thu, 27 Aug 2026 19:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:52 pm</title>
-      <description>POINT OF ROCKS RD / OLIVE SCHOOL RD Radio: 9C Units: BR285</description>
-      <guid isPermaLink="false">2026-08-27 18:52:00</guid>
-      <pubDate>Thu, 27 Aug 2026 18:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
