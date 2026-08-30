@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Aug 2026 23:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:12:58 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:32 pm</title>
+      <description>100 BLOCK S COURT ST, STATION 4 Units: T23</description>
+      <guid isPermaLink="false">2026-08-29 19:32:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
+      <description>5600 BLOCK ETZLER RD Radio: 9C Units: E111, EK224</description>
+      <guid isPermaLink="false">2026-08-29 19:30:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:30 pm</title>
+      <description>5600 BLOCK ETZLER RD Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-08-29 19:30:00</guid>
+      <pubDate>Sat, 29 Aug 2026 19:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:26 pm</title>
       <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
@@ -288,24 +306,6 @@
       <description>S EAST ST / E ALL SAINTS ST Radio: 9C Units: PE23, HM33, HMSU33</description>
       <guid isPermaLink="false">2026-08-28 12:46:00</guid>
       <pubDate>Fri, 28 Aug 2026 12:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:59 am</title>
-      <description>14100 BLOCK NATALMA CT Radio: 6DTAC11 Units: E201, E281</description>
-      <guid isPermaLink="false">2026-08-28 10:59:00</guid>
-      <pubDate>Fri, 28 Aug 2026 10:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:38 am</title>
-      <description>RT85 / I70, RT85 / I70 Radio: 9B Units: A38, E31</description>
-      <guid isPermaLink="false">2026-08-28 10:38:00</guid>
-      <pubDate>Fri, 28 Aug 2026 10:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 10:09 am</title>
-      <description>CAP STINE RD / HOWARD STUP RD, BWTEEN HOWARD STUP AND MANOR WOODS Radio: 9C Units: BR145</description>
-      <guid isPermaLink="false">2026-08-28 10:09:00</guid>
-      <pubDate>Fri, 28 Aug 2026 10:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
