@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Aug 2026 01:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 02:05:45 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 9:51 pm</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 — units: TT4</description>
+      <guid isPermaLink="false">2026-08-29 21:51:00|1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40</guid>
+      <pubDate>Sat, 29 Aug 2026 21:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 8:26 pm</title>
       <description>100 BLOCK WAVERLEY DR, DJ HAIR FANTASIES - WAVERLEY CENTER — units: A19, PE23, TT4, EMS902</description>
