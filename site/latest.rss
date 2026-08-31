@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 00:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:09:33 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:59 pm</title>
+      <description>BALL RD / REELS MILL RD Radio: 9B Units: A38, T23</description>
+      <guid isPermaLink="false">2026-08-30 20:59:00</guid>
+      <pubDate>Sun, 30 Aug 2026 20:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:07 pm</title>
       <description>8500 BLOCK GAMBRILL PARK RD Radio: 9B Units: A129, E121</description>
@@ -300,12 +306,6 @@
       <description>1300 BLOCK HOLLING PL, Apt/Unit:202, EAST OF MARKET APARTMENTS - 1300 BLOCK HOLLING PL Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-08-28 18:55:00</guid>
       <pubDate>Fri, 28 Aug 2026 18:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:43 pm</title>
-      <description>100 BLOCK W MAIN ST Radio: 9C Units: E152</description>
-      <guid isPermaLink="false">2026-08-28 18:43:00</guid>
-      <pubDate>Fri, 28 Aug 2026 18:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
