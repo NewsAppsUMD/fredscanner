@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 19:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:04:17 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 3:33 pm</title>
+      <description>WOODSBORO PIKE / GOOD INTENT RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2026-08-31 15:33:00</guid>
+      <pubDate>Mon, 31 Aug 2026 15:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 2:33 pm</title>
       <description>2200 BLOCK MICHAEL RD Radio: 9C Units: E82</description>
@@ -300,12 +306,6 @@
       <description>I270NB / PARK MILLS RD, THE RANCH Radio: 9B Units: A259</description>
       <guid isPermaLink="false">2026-08-29 15:22:00</guid>
       <pubDate>Sat, 29 Aug 2026 15:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 3:10 pm</title>
-      <description>6200 BLOCK WHITE OAK DR Units: E331</description>
-      <guid isPermaLink="false">2026-08-29 15:10:00</guid>
-      <pubDate>Sat, 29 Aug 2026 15:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
