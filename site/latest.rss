@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 02:06:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 02:39:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:27 pm</title>
+      <description>OLD ANNAPOLIS RD / LIBERTY RD Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2026-08-30 22:27:00</guid>
+      <pubDate>Sun, 30 Aug 2026 22:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:31 pm</title>
       <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>9500 BLOCK LIBERTY RD Radio: 9B Units: E111</description>
       <guid isPermaLink="false">2026-08-28 20:30:00</guid>
       <pubDate>Fri, 28 Aug 2026 20:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:25 pm</title>
-      <description>9500 BLOCK LIBERTY RD Radio: 9B Units: A247, E111</description>
-      <guid isPermaLink="false">2026-08-28 20:25:00</guid>
-      <pubDate>Fri, 28 Aug 2026 20:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
