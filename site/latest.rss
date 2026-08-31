@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 31 Aug 2026 17:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:31:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:18 pm</title>
+      <description>5100 BLOCK OLD NATIONAL PIKE, GRACE BRETHREN Radio: 9C Units: E121</description>
+      <guid isPermaLink="false">2026-08-31 13:18:00</guid>
+      <pubDate>Mon, 31 Aug 2026 13:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:24 am</title>
       <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: PE251</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK MANOR WOODS RD Radio: 9B Units: A148, R14</description>
       <guid isPermaLink="false">2026-08-29 15:03:00</guid>
       <pubDate>Sat, 29 Aug 2026 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:07 pm</title>
-      <description>3800 BLOCK GREENRIDGE DR Units: E172</description>
-      <guid isPermaLink="false">2026-08-29 13:07:00</guid>
-      <pubDate>Sat, 29 Aug 2026 13:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
