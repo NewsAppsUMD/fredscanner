@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 15:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:47:31 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 11:10 am</title>
+      <description>5300 BLOCK RENN RD Radio: 9D Units: A129, K7, K5</description>
+      <guid isPermaLink="false">2026-09-01 11:10:00</guid>
+      <pubDate>Tue, 01 Sep 2026 11:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 11:04 am</title>
+      <description>5300 BLOCK RENN RD Radio: 9D Units: E201, E121, E31, PE311, PE23, E501, R20, TW1, TT4, EK204, K1, K33, A209, ALS20, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-09-01 11:04:00</guid>
+      <pubDate>Tue, 01 Sep 2026 11:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 9:40 am</title>
       <description>MOTTER AVE / PINEWOOD DR Radio: 9D Units: E291, R2, A28, ALS2, EMS902</description>
@@ -294,18 +306,6 @@
       <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A38</description>
       <guid isPermaLink="false">2026-08-29 19:06:00</guid>
       <pubDate>Sat, 29 Aug 2026 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:06 pm</title>
-      <description>EXECUTIVE WAY / NEW DESIGN RD Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-08-29 19:06:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:53 pm</title>
-      <description>16900 BLOCK SABILLASVILLE RD, SAINT JOHNS UNITED CHURCH OF CHRIST - SABILLASVILLE Radio: 9D Units: PE102, EMS902</description>
-      <guid isPermaLink="false">2026-08-29 18:53:00</guid>
-      <pubDate>Sat, 29 Aug 2026 18:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
