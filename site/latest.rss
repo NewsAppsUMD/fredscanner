@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 20:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:33:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E31, E11, R3, A318, A18</description>
+      <guid isPermaLink="false">2026-09-01 16:26:00</guid>
+      <pubDate>Tue, 01 Sep 2026 16:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 3:12 pm</title>
       <description>23500 BLOCK GARDENSIDE PL Radio: 7A1 Units: A239</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WAVERLEY DR, DJ HAIR FANTASIES - WAVERLEY CENTER Radio: 9D Units: A19, PE23, TT4, EMS902</description>
       <guid isPermaLink="false">2026-08-29 20:26:00</guid>
       <pubDate>Sat, 29 Aug 2026 20:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:10 pm</title>
-      <description>6600 BLOCK DICKERSON RD, PH2 Radio: 9B Units: A148, R14</description>
-      <guid isPermaLink="false">2026-08-29 20:10:00</guid>
-      <pubDate>Sat, 29 Aug 2026 20:10:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
