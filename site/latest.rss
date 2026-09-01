@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 00:13:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:15:16 +0000</lastBuildDate>
+    <item>
+      <title>FUEL SPILL: 9:05 pm</title>
+      <description>1700 BLOCK MONOCACY BLVD, RUTTERS - RIVERSIDE CORPORATE PARK Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-08-31 21:05:00</guid>
+      <pubDate>Mon, 31 Aug 2026 21:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 8:54 pm</title>
+      <description>800 BLOCK MOTTER AVE, SHARPES SQUARE Radio: 9C Units: R2</description>
+      <guid isPermaLink="false">2026-08-31 20:54:00</guid>
+      <pubDate>Mon, 31 Aug 2026 20:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:53 pm</title>
+      <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2026-08-31 20:53:00</guid>
+      <pubDate>Mon, 31 Aug 2026 20:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:16 pm</title>
+      <description>I70WB / EXIT 59 (RT144 NEWM), I70WB / EXIT 59 Radio: 9B Units: E331, E31, R15, A339, A38</description>
+      <guid isPermaLink="false">2026-08-31 20:16:00</guid>
+      <pubDate>Mon, 31 Aug 2026 20:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 3:33 pm</title>
       <description>WOODSBORO PIKE / GOOD INTENT RD Radio: 9C Units: BR96</description>
@@ -282,30 +306,6 @@
       <description>5400 BLOCK URBANA PIKE, TARGET - RIVERVIEW PLAZA Radio: 9B Units: E31, R3, A38</description>
       <guid isPermaLink="false">2026-08-29 16:44:00</guid>
       <pubDate>Sat, 29 Aug 2026 16:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:26 pm</title>
-      <description>200 BLOCKA N EAST ST Radio: 9B Units: A28, PE23</description>
-      <guid isPermaLink="false">2026-08-29 16:26:00</guid>
-      <pubDate>Sat, 29 Aug 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:36 pm</title>
-      <description>REICHS FORD RD / ENTRANCE RD Radio: 9B Units: A339, E31</description>
-      <guid isPermaLink="false">2026-08-29 15:36:00</guid>
-      <pubDate>Sat, 29 Aug 2026 15:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:29 pm</title>
-      <description>1000 BLOCK W PATRICK ST, OLLIES BARGAIN OUTLET - FREDERICK COUNTY SQUARE Units: A18, E11</description>
-      <guid isPermaLink="false">2026-08-29 15:29:00</guid>
-      <pubDate>Sat, 29 Aug 2026 15:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:22 pm</title>
-      <description>I270NB / PARK MILLS RD, THE RANCH Radio: 9B Units: A259</description>
-      <guid isPermaLink="false">2026-08-29 15:22:00</guid>
-      <pubDate>Sat, 29 Aug 2026 15:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
