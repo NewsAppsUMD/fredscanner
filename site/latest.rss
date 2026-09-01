@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 18:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:37:13 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:29 pm</title>
+      <description>E CHURCH ST / N MAXWELL AVE Units: A28, ALS2</description>
+      <guid isPermaLink="false">2026-09-01 14:29:00</guid>
+      <pubDate>Tue, 01 Sep 2026 14:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:20 pm</title>
+      <description>E CHURCH ST / N MAXWELL AVE Radio: 9D Units: E31, R3, A37, ALS4, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-09-01 14:20:00</guid>
+      <pubDate>Tue, 01 Sep 2026 14:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:08 pm</title>
+      <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Units: A148</description>
+      <guid isPermaLink="false">2026-09-01 14:08:00</guid>
+      <pubDate>Tue, 01 Sep 2026 14:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:06 pm</title>
+      <description>3500 BLOCK URBANA PIKE, URBANA ELEMENTARY SCHOOL Radio: 9C Units: E231, T23</description>
+      <guid isPermaLink="false">2026-09-01 14:06:00</guid>
+      <pubDate>Tue, 01 Sep 2026 14:06:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 2:03 pm</title>
+      <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Units: EMS901</description>
+      <guid isPermaLink="false">2026-09-01 14:03:00</guid>
+      <pubDate>Tue, 01 Sep 2026 14:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:58 pm</title>
       <description>RT15 @ MOUNTVILLE RD HWY / MOUNTVILLE RD Units: ALS20</description>
@@ -276,36 +306,6 @@
       <description>5600 BLOCK ETZLER RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-08-29 19:30:00</guid>
       <pubDate>Sat, 29 Aug 2026 19:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 7:26 pm</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: E152</description>
-      <guid isPermaLink="false">2026-08-29 19:26:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:25 pm</title>
-      <description>5600 BLOCK ETZLER RD Radio: 9C Units: E111, EK224</description>
-      <guid isPermaLink="false">2026-08-29 19:25:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:17 pm</title>
-      <description>700 BLOCK ANGELWING LN Radio: 9D Units: RID, E291, A18</description>
-      <guid isPermaLink="false">2026-08-29 19:17:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:11 pm</title>
-      <description>700 BLOCK ANGELWING LN Radio: 9D Units: E72</description>
-      <guid isPermaLink="false">2026-08-29 19:11:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:09 pm</title>
-      <description>700 BLOCK ANGELWING LN Radio: 9D Units: E121, E31, E311, PE23, E501, R3, TW1, TT4, A129, ALS4, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-08-29 19:09:00</guid>
-      <pubDate>Sat, 29 Aug 2026 19:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
