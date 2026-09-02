@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 11:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:32:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:22 am</title>
+      <description>8200 BLOCK BALTIMORE NATIONAL PIKE, IAO PH2 Radio: 9B Units: A129, E121</description>
+      <guid isPermaLink="false">2026-09-02 07:22:00</guid>
+      <pubDate>Wed, 02 Sep 2026 07:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 7:06 am</title>
+      <description>RT464 / RT15, RT464 / RT15 Radio: 9D Units: E201, R14, A148, ALS20, EMS901</description>
+      <guid isPermaLink="false">2026-09-02 07:06:00</guid>
+      <pubDate>Wed, 02 Sep 2026 07:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:11 am</title>
       <description>5000 BLOCK MERGANSER CT Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>I70EB / BILL MOXLEY RD, I70EB / BILL MOXLEY RD Units: E152, R15, A158, ALS17, BC901, EMS902</description>
       <guid isPermaLink="false">2026-08-31 10:19:00</guid>
       <pubDate>Mon, 31 Aug 2026 10:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:06 am</title>
-      <description>11100 BLOCK OLD FREDERICK RD Radio: 9C Units: E91, EK224</description>
-      <guid isPermaLink="false">2026-08-31 10:06:00</guid>
-      <pubDate>Mon, 31 Aug 2026 10:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:25 am</title>
-      <description>100 BLOCK BLK RAMP ROSEMONT AVE TO RT15SB RAMP Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-08-31 09:25:00</guid>
-      <pubDate>Mon, 31 Aug 2026 09:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
