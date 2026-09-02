@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 02 Sep 2026 09:04:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:35:06 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:11 am</title>
+      <description>5000 BLOCK MERGANSER CT Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-09-02 05:11:00</guid>
+      <pubDate>Wed, 02 Sep 2026 05:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 2:41 am</title>
       <description>3900 BLOCK WISTMAN LN Radio: 9D Units: A79</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BLK RAMP ROSEMONT AVE TO RT15SB RAMP Radio: 9B Units: A19, E11</description>
       <guid isPermaLink="false">2026-08-31 09:25:00</guid>
       <pubDate>Mon, 31 Aug 2026 09:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:25 am</title>
-      <description>PALLADIAN WAY / BISHOPS GLEN DR Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-08-31 08:25:00</guid>
-      <pubDate>Mon, 31 Aug 2026 08:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
