@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 06:07:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:46:47 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:16 am</title>
+      <description>6900 BLOCK MEADOWPOINT TER Radio: 9C Units: E152</description>
+      <guid isPermaLink="false">2026-09-03 02:16:00</guid>
+      <pubDate>Thu, 03 Sep 2026 02:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:02 am</title>
       <description>3800 BLOCK JEFFERSON PIKE Radio: 9C Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>4400 BLOCK MIDDLE POINT RD Radio: 9C Units: BR216</description>
       <guid isPermaLink="false">2026-09-01 16:56:00</guid>
       <pubDate>Tue, 01 Sep 2026 16:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 4:44 pm</title>
-      <description>6500 BLOCK WILTSHIRE DR, Apt/Unit:UNIT E Radio: 9D Units: E311, PE23, E501, E141, E201, R3, TW1, TT4, A318, ALS31, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-09-01 16:44:00</guid>
-      <pubDate>Tue, 01 Sep 2026 16:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
