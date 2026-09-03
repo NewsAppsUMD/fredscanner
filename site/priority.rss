@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 03 Sep 2026 22:31:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 23:03:21 +0000</lastBuildDate>
     <item>
       <title>MOTORCYCLE ACCIDENT: 5:43 pm</title>
       <description>SEBASTIAN BLVD / LIBERTY RD — units: E111, R2, A247, ALS29, EMS902</description>
@@ -180,12 +180,6 @@
       <description>CARROLL CREEK PARK STONE BRIDGE, CARROLL CREEK PARK STONE BRIDGE — units: E31, PE23, R3, TT4, TR29, BT29, BT28, A38, A37, ALS2, BC902, SAF901, EMS901</description>
       <guid isPermaLink="false">2026-08-26 15:49:00|CARROLL CREEK PARK STONE BRIDGE, CARROLL CREEK PARK STONE BRIDGE</guid>
       <pubDate>Wed, 26 Aug 2026 15:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:44 pm</title>
-      <description>3400 BLOCK FIRESTONE DR — units: PE251, E231, E331, R15, TT4, K23, K33, A259, BC902, BC901, SAF900</description>
-      <guid isPermaLink="false">2026-08-26 14:44:00|3400 BLOCK FIRESTONE DR</guid>
-      <pubDate>Wed, 26 Aug 2026 14:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
