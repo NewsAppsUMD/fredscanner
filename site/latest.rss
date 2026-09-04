@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 22:31:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:03:26 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 6:42 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, Bldg:G, WILLOWDALE CROSSING APARTMENTS - 100 BLOCKG WILLOWDALE DR Radio: 9C Units: E11, E501, TT4</description>
+      <guid isPermaLink="false">2026-09-04 18:42:00</guid>
+      <pubDate>Fri, 04 Sep 2026 18:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:59 pm</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, PE251, R3, A239, A259</description>
@@ -300,12 +306,6 @@
       <description>7400 BLOCK GUILFORD DR, WALMART - FREDERICK CROSSING Units: A318</description>
       <guid isPermaLink="false">2026-09-03 12:23:00</guid>
       <pubDate>Thu, 03 Sep 2026 12:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 11:11 am</title>
-      <description>9200 BLOCK OPOSSUMTOWN PIKE Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-09-03 11:11:00</guid>
-      <pubDate>Thu, 03 Sep 2026 11:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
