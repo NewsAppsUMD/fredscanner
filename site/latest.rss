@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 02:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:38:12 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 10:31 pm</title>
+      <description>6600 BLOCK SEA GULL CT Radio: 9C Units: PE311, PE23, R3</description>
+      <guid isPermaLink="false">2026-09-03 22:31:00</guid>
+      <pubDate>Thu, 03 Sep 2026 22:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 10:26 pm</title>
+      <description>PARK MILLS RD / I270, PARK MILLS RD / I270 Radio: 9C Units: BR235</description>
+      <guid isPermaLink="false">2026-09-03 22:26:00</guid>
+      <pubDate>Thu, 03 Sep 2026 22:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:23 pm</title>
+      <description>S CARROLL ST / E ALL SAINTS ST Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-09-03 22:23:00</guid>
+      <pubDate>Thu, 03 Sep 2026 22:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 9:33 pm</title>
       <description>5900 BLOCK RAMSEUR CIR, Apt/Unit:109, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR Units: PE311, E31, E501, E291, E201, R3, TT4, A319, ALS4, BC902, BC903, SAF901</description>
@@ -288,24 +306,6 @@
       <description>24900 BLOCK DUNNAVANT DR Radio: 7A1 Units: A259</description>
       <guid isPermaLink="false">2026-09-02 11:52:00</guid>
       <pubDate>Wed, 02 Sep 2026 11:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:35 am</title>
-      <description>25700 BLOCK OLD HUNDRED RD OLD HUNDRED RD EB AT I270, OLD HUNDRED RD EB AT I270 Radio: 7A4 Units: E231</description>
-      <guid isPermaLink="false">2026-09-02 11:35:00</guid>
-      <pubDate>Wed, 02 Sep 2026 11:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:22 am</title>
-      <description>11100 BLOCK HESSONG BRIDGE RD, LEWISTOWN ELEMENTARY SCHOOL Radio: 9C Units: PE102, TW1, EK224</description>
-      <guid isPermaLink="false">2026-09-02 10:22:00</guid>
-      <pubDate>Wed, 02 Sep 2026 10:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:22 am</title>
-      <description>8200 BLOCK BALTIMORE NATIONAL PIKE, IAO PH2 Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-09-02 07:22:00</guid>
-      <pubDate>Wed, 02 Sep 2026 07:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
