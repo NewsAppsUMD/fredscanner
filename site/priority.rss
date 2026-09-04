@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 17:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:04:47 +0000</lastBuildDate>
     <item>
       <title>CO DET SOUNDING: 10:26 am</title>
       <description>6400 BLOCK BELLEVUE PL — units: E331</description>
@@ -168,12 +168,6 @@
       <description>200 BLOCK SEVENTH AVE, BRUNSWICK RADIO TOWER — units: PE52, E281, E201, E121, R20, T5, R14, A197, ALS20, BC903, BC901, SAF901, R19 (first reported 6:46 pm)</description>
       <guid isPermaLink="false">2026-08-27 18:46:00|200 BLOCK SEVENTH AVE, BRUNSWICK RADIO TOWER</guid>
       <pubDate>Thu, 27 Aug 2026 18:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:51 pm</title>
-      <description>7000 BLOCK HAMES CT — units: E31, R3, A319, ALS31, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-08-27 17:51:00|7000 BLOCK HAMES CT</guid>
-      <pubDate>Thu, 27 Aug 2026 17:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

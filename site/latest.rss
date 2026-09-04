@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 17:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:04:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:48 pm</title>
+      <description>MA WASHCO: I70WB / 38MM, MA WASHCO: I70WB / 38MM Radio: PS1 Units: A89, E82</description>
+      <guid isPermaLink="false">2026-09-04 13:48:00</guid>
+      <pubDate>Fri, 04 Sep 2026 13:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:19 pm</title>
       <description>2100 BLOCK BRECKEN DELL CT Radio: 9C Units: E11</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E31, PE23, R3, A37, A19</description>
       <guid isPermaLink="false">2026-09-03 00:54:00</guid>
       <pubDate>Thu, 03 Sep 2026 00:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:51 am</title>
-      <description>1300 BLOCK W PATRICK ST, WEST FREDERICK CENTER - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-09-03 00:51:00</guid>
-      <pubDate>Thu, 03 Sep 2026 00:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
