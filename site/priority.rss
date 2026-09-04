@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 04 Sep 2026 19:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:04:00 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:11 pm (8 units, 2 updates)</title>
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD — units: E291, R10, A309, A247, PE102, EK224, EMS902, R24 (first reported 3:11 pm)</description>
@@ -168,12 +168,6 @@
       <description>5500 BLOCK SPECTRUM DR, Apt/Unit:112, COUNTRY INN AND SUITES — units: PE311, E231, R3, HM50, A239, A18, ALS31, BC903, SAF900, EMS901</description>
       <guid isPermaLink="false">2026-08-28 12:52:00|5500 BLOCK SPECTRUM DR, Apt/Unit:112, COUNTRY INN AND SUITES</guid>
       <pubDate>Fri, 28 Aug 2026 12:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 6:46 pm (13 units, 2 updates)</title>
-      <description>200 BLOCK SEVENTH AVE, BRUNSWICK RADIO TOWER — units: PE52, E281, E201, E121, R20, T5, R14, A197, ALS20, BC903, BC901, SAF901, R19 (first reported 6:46 pm)</description>
-      <guid isPermaLink="false">2026-08-27 18:46:00|200 BLOCK SEVENTH AVE, BRUNSWICK RADIO TOWER</guid>
-      <pubDate>Thu, 27 Aug 2026 18:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
