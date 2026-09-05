@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 05 Sep 2026 22:03:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:31:37 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:13 pm</title>
+      <description>6800 BLOCK PLANTATION RD, BUTLER TIRE SERVICES Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-09-05 18:13:00</guid>
+      <pubDate>Sat, 05 Sep 2026 18:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:43 pm</title>
       <description>11000 BLOCK WOLFSVILLE RD Radio: 9C Units: BR85, BR216</description>
@@ -300,12 +306,6 @@
       <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET HOSPITAL Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-09-04 00:39:00</guid>
       <pubDate>Fri, 04 Sep 2026 00:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:37 pm</title>
-      <description>8100 BLOCK STEVENS RD Radio: 9B Units: A229</description>
-      <guid isPermaLink="false">2026-09-03 23:37:00</guid>
-      <pubDate>Thu, 03 Sep 2026 23:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
