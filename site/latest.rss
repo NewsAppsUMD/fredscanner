@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 06 Sep 2026 19:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 19:31:45 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:14 pm</title>
+      <description>JEFFERSON PIKE / LANDER CREEK DR Radio: 9D Units: PE52, R20, A198, R19, EMS902</description>
+      <guid isPermaLink="false">2026-09-06 15:14:00</guid>
+      <pubDate>Sun, 06 Sep 2026 15:14:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 2:39 pm</title>
       <description>I270SB / PARK MILLS RD, I270SB / PARK MILLS RD Radio: 9C Units: E311, E231</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST, STATION 3 Units: A196</description>
       <guid isPermaLink="false">2026-09-04 09:03:00</guid>
       <pubDate>Fri, 04 Sep 2026 09:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:56 am</title>
-      <description>100 BLOCK S MARKET ST, Bldg:A, CARRIAGE HOUSE APTS Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-09-04 08:56:00</guid>
-      <pubDate>Fri, 04 Sep 2026 08:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
