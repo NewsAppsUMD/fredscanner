@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 01:45:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:07:05 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:59 pm</title>
+      <description>5100 BLOCK MUSSETTER RD Radio: 9B Units: A259, E152</description>
+      <guid isPermaLink="false">2026-09-06 21:59:00</guid>
+      <pubDate>Sun, 06 Sep 2026 21:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 9:56 pm</title>
+      <description>9800 BLOCK BARTGIS RD Radio: 9C Units: EK224</description>
+      <guid isPermaLink="false">2026-09-06 21:56:00</guid>
+      <pubDate>Sun, 06 Sep 2026 21:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 9:51 pm</title>
+      <description>9800 BLOCK BARTGIS RD Radio: 9C Units: EK224, E291</description>
+      <guid isPermaLink="false">2026-09-06 21:51:00</guid>
+      <pubDate>Sun, 06 Sep 2026 21:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:26 pm</title>
       <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9C Units: A229</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / CATOCTIN FURNACE RD (CATOC FURN), RT15NB / CATOCTIN FURNACE RD Radio: 9D Units: E291, R10, A309, A247, PE102, EK224, EMS902</description>
       <guid isPermaLink="false">2026-09-04 15:11:00</guid>
       <pubDate>Fri, 04 Sep 2026 15:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:48 pm</title>
-      <description>MA WASHCO: I70WB / 38MM, MA WASHCO: I70WB / 38MM Radio: PS1 Units: A89, E82</description>
-      <guid isPermaLink="false">2026-09-04 13:48:00</guid>
-      <pubDate>Fri, 04 Sep 2026 13:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:19 pm</title>
-      <description>2100 BLOCK BRECKEN DELL CT Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-09-04 13:19:00</guid>
-      <pubDate>Fri, 04 Sep 2026 13:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 1:04 pm</title>
-      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE Radio: 9B Units: A319, ALS4, E31, EMS902</description>
-      <guid isPermaLink="false">2026-09-04 13:04:00</guid>
-      <pubDate>Fri, 04 Sep 2026 13:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
