@@ -6,7 +6,25 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 02:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:40:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:34 pm</title>
+      <description>5300 BLOCK KINGSBROOK DR — units: PE311, R3, A319, ALS31, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-09-06 22:34:00|5300 BLOCK KINGSBROOK DR</guid>
+      <pubDate>Sun, 06 Sep 2026 22:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:15 pm</title>
+      <description>100 BLOCK BLK RAMP RT15NB TO MOTTER AVE RAMP, RT15NB / MOTTER AVE — units: A19</description>
+      <guid isPermaLink="false">2026-09-06 22:15:00|100 BLOCK BLK RAMP RT15NB TO MOTTER AVE RAMP, RT15NB / MOTTER AVE</guid>
+      <pubDate>Sun, 06 Sep 2026 22:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:08 pm</title>
+      <description>RT15NB / MOTTER AVE(MOTTER AVE), RT15NB / MOTTER AVE — units: E11, E111, R2, A28, A247, ALS2, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-09-06 22:08:00|RT15NB / MOTTER AVE(MOTTER AVE), RT15NB / MOTTER AVE</guid>
+      <pubDate>Sun, 06 Sep 2026 22:08:00 -0400</pubDate>
+    </item>
     <item>
       <title>HIGH ANGLE RESCUE: 4:11 pm</title>
       <description>C&amp;O CANAL TOWPATH / CATOCTIN MOUNTAIN HWY — units: E281, R14, T5, TR29, A148, ALS20, BC903, SAF901, EMS901</description>
@@ -162,12 +180,6 @@
       <description>16900 BLOCK SABILLASVILLE RD, SAINT JOHNS UNITED CHURCH OF CHRIST - SABILLASVILLE — units: PE102, EMS902</description>
       <guid isPermaLink="false">2026-08-29 18:53:00|16900 BLOCK SABILLASVILLE RD, SAINT JOHNS UNITED CHURCH OF CHRIST - SABILLASVILLE</guid>
       <pubDate>Sat, 29 Aug 2026 18:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:04 pm (14 units, 2 updates)</title>
-      <description>3800 BLOCK GREENRIDGE DR — units: PE251, E152, E231, E331, R15, T23, K23, K33, A259, ALS23, BC901, BC903, SAF900, E172 (first reported 1:04 pm)</description>
-      <guid isPermaLink="false">2026-08-29 13:04:00|3800 BLOCK GREENRIDGE DR</guid>
-      <pubDate>Sat, 29 Aug 2026 13:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
