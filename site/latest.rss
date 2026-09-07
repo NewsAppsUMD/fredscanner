@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 10:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 10:33:55 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:21 am</title>
+      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: E152</description>
+      <guid isPermaLink="false">2026-09-07 06:21:00</guid>
+      <pubDate>Mon, 07 Sep 2026 06:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:44 am</title>
       <description>MA WASHCO: RT340EB / 2MM, MA WASHCO: RT340EB / 2MM Units: R19</description>
@@ -300,12 +306,6 @@
       <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT Radio: 9C Units: PE311</description>
       <guid isPermaLink="false">2026-09-05 01:01:00</guid>
       <pubDate>Sat, 05 Sep 2026 01:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:30 pm</title>
-      <description>16200 BLOCK FOUR POINTS BRIDGE RD, Bldg:B Radio: 9C Units: E61</description>
-      <guid isPermaLink="false">2026-09-04 22:30:00</guid>
-      <pubDate>Fri, 04 Sep 2026 22:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
