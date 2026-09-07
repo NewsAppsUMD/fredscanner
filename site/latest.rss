@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 22:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 22:31:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
+      <description>13600 BLOCK UNIONVILLE RD, BTWEN LIBERT6Y AND CLEMSONVILLE Radio: 9B Units: A179, E172</description>
+      <guid isPermaLink="false">2026-09-07 18:14:00</guid>
+      <pubDate>Mon, 07 Sep 2026 18:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:12 pm</title>
+      <description>LYNN BURKE RD / RT80, LYNN BURKE RD / RT80 Radio: 9B Units: A259, PE251</description>
+      <guid isPermaLink="false">2026-09-07 18:12:00</guid>
+      <pubDate>Mon, 07 Sep 2026 18:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 5:15 pm</title>
       <description>RT15SB / W PATRICK ST(RT40), RT15SB / W PATRICK ST Radio: 9B Units: ALS4, EMS902</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK MONOCACY BLVD, Bldg:A14 Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-09-05 18:52:00</guid>
       <pubDate>Sat, 05 Sep 2026 18:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:13 pm</title>
-      <description>6800 BLOCK PLANTATION RD, BUTLER TIRE SERVICES Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-09-05 18:13:00</guid>
-      <pubDate>Sat, 05 Sep 2026 18:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 4:43 pm</title>
-      <description>11000 BLOCK WOLFSVILLE RD Radio: 9C Units: BR85, BR216</description>
-      <guid isPermaLink="false">2026-09-05 16:43:00</guid>
-      <pubDate>Sat, 05 Sep 2026 16:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
