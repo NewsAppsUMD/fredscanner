@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 11:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:06:31 +0000</lastBuildDate>
+    <item>
+      <title>GAS ALARM: 7:38 am</title>
+      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: PE311, TT4, HM33, BC901</description>
+      <guid isPermaLink="false">2026-09-07 07:38:00</guid>
+      <pubDate>Mon, 07 Sep 2026 07:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 7:13 am</title>
       <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: K33</description>
@@ -300,12 +306,6 @@
       <description>9100 BLOCK FINGERBOARD RD, ROYAL FARMS - URBANA Radio: 9C Units: E231, PE251, PE311</description>
       <guid isPermaLink="false">2026-09-05 06:18:00</guid>
       <pubDate>Sat, 05 Sep 2026 06:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:32 am</title>
-      <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 Radio: 9B Units: E72, R8, A89, A78, E212</description>
-      <guid isPermaLink="false">2026-09-05 01:32:00</guid>
-      <pubDate>Sat, 05 Sep 2026 01:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
