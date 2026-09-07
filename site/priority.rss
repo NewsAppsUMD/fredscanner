@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 07 Sep 2026 01:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:45:08 +0000</lastBuildDate>
     <item>
       <title>HIGH ANGLE RESCUE: 4:11 pm</title>
       <description>C&amp;O CANAL TOWPATH / CATOCTIN MOUNTAIN HWY — units: E281, R14, T5, TR29, A148, ALS20, BC903, SAF901, EMS901</description>
@@ -168,12 +168,6 @@
       <description>3800 BLOCK GREENRIDGE DR — units: PE251, E152, E231, E331, R15, T23, K23, K33, A259, ALS23, BC901, BC903, SAF900, E172 (first reported 1:04 pm)</description>
       <guid isPermaLink="false">2026-08-29 13:04:00|3800 BLOCK GREENRIDGE DR</guid>
       <pubDate>Sat, 29 Aug 2026 13:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - TORSO OR HEAD: 9:12 am</title>
-      <description>100 BLOCK N CARROLL ST — units: E132, TW6, A307, PE102, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-08-29 09:12:00|100 BLOCK N CARROLL ST</guid>
-      <pubDate>Sat, 29 Aug 2026 09:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
