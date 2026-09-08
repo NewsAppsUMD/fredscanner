@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 11:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:31:53 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 4:13 pm</title>
       <description>MONOCACY BLVD / FREDERICK HEALTH WAY — units: E291, R24, A299, ALS29, EMS902</description>
@@ -156,12 +156,6 @@
       <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK — units: E231, R3, A259, ALS31, BC902, EMS901</description>
       <guid isPermaLink="false">2026-08-30 21:17:00|I270NB / BENNETT CREEK, I270NB / BENNETT CREEK</guid>
       <pubDate>Sun, 30 Aug 2026 21:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 11:03 am</title>
-      <description>100 BLOCK E MAIN ST, CORNERSTONE CHURCH OF GOD — units: A78, ALS8, E72, EMS901</description>
-      <guid isPermaLink="false">2026-08-30 11:03:00|100 BLOCK E MAIN ST, CORNERSTONE CHURCH OF GOD</guid>
-      <pubDate>Sun, 30 Aug 2026 11:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
