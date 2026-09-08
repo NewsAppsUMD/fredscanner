@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 18:37:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:03:34 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:46 pm</title>
       <description>E PATRICK ST / MONOCACY BLVD — units: E331, R3, A339, ALS4, BC901, EMS901</description>
@@ -156,12 +156,6 @@
       <description>MOTTER AVE / PINEWOOD DR — units: E291, R2, A28, ALS2, EMS902</description>
       <guid isPermaLink="false">2026-09-01 09:40:00|MOTTER AVE / PINEWOOD DR</guid>
       <pubDate>Tue, 01 Sep 2026 09:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 9:17 pm</title>
-      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK — units: E231, R3, A259, ALS31, BC902, EMS901</description>
-      <guid isPermaLink="false">2026-08-30 21:17:00|I270NB / BENNETT CREEK, I270NB / BENNETT CREEK</guid>
-      <pubDate>Sun, 30 Aug 2026 21:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
