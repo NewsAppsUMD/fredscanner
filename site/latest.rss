@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 08 Sep 2026 21:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 22:03:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:51 pm</title>
+      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E31, E11, R3, A37, A19</description>
+      <guid isPermaLink="false">2026-09-08 17:51:00</guid>
+      <pubDate>Tue, 08 Sep 2026 17:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
+      <description>FINGERBOARD RD / ED MCCLAIN RD Radio: 9B Units: A259, PE251</description>
+      <guid isPermaLink="false">2026-09-08 17:34:00</guid>
+      <pubDate>Tue, 08 Sep 2026 17:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:23 pm</title>
       <description>100 BLOCK S MARKET ST, Apt/Unit:B, THE ORIGINAL POPCORN HOUSE Radio: 9C Units: E31, TW4</description>
@@ -294,18 +306,6 @@
       <description>2200 BLOCK CAMPBELL HILL WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-09-06 19:09:00</guid>
       <pubDate>Sun, 06 Sep 2026 19:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE FIRE CONTAINED: 6:24 pm</title>
-      <description>2000 BLOCK GOOSE CREEK WAY Radio: 9C Units: E11, PE23</description>
-      <guid isPermaLink="false">2026-09-06 18:24:00</guid>
-      <pubDate>Sun, 06 Sep 2026 18:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:34 pm</title>
-      <description>CHRISTOPHERS XING / E GREENLEAF DR Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-09-06 17:34:00</guid>
-      <pubDate>Sun, 06 Sep 2026 17:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
