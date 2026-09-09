@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 19:03:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 19:31:40 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:27 pm</title>
+      <description>9500 BLOCK CABBAGE RUN RD Radio: 9C Units: E172</description>
+      <guid isPermaLink="false">2026-09-09 15:27:00</guid>
+      <pubDate>Wed, 09 Sep 2026 15:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 2:34 pm</title>
+      <description>1300 BLOCK W OLD LIBERTY RD, STATION CC014 - WINFIELD COMMUNITY VFD Units: E172</description>
+      <guid isPermaLink="false">2026-09-09 14:34:00</guid>
+      <pubDate>Wed, 09 Sep 2026 14:34:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:28 pm</title>
+      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE Radio: 9C Units: E111, Q11</description>
+      <guid isPermaLink="false">2026-09-09 14:28:00</guid>
+      <pubDate>Wed, 09 Sep 2026 14:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:00 pm</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-09-09 14:00:00</guid>
+      <pubDate>Wed, 09 Sep 2026 14:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:59 pm</title>
+      <description>100 BLOCK CLARKE PL, MARYLAND SCHOOL FOR THE DEAF Radio: 9C Units: PE23, TW4</description>
+      <guid isPermaLink="false">2026-09-09 13:59:00</guid>
+      <pubDate>Wed, 09 Sep 2026 13:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:46 pm</title>
+      <description>W SECOND ST / MAGNOLIA AVE Radio: 9B Units: A28, TW1</description>
+      <guid isPermaLink="false">2026-09-09 13:46:00</guid>
+      <pubDate>Wed, 09 Sep 2026 13:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:34 am</title>
+      <description>2500 BLOCK CATOCTIN CT Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-09-09 11:34:00</guid>
+      <pubDate>Wed, 09 Sep 2026 11:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>SMOKE OR CO DETECTOR MALFUNCTION: 10:32 pm</title>
       <description>2200 BLOCK WETHERBURNE WAY Radio: 9C Units: E11</description>
@@ -264,48 +306,6 @@
       <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: K33</description>
       <guid isPermaLink="false">2026-09-07 07:13:00</guid>
       <pubDate>Mon, 07 Sep 2026 07:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 6:21 am</title>
-      <description>16100 BLOCK FREDERICK RD, STATION HC004 - LISBON Radio: HCA1 Units: E152</description>
-      <guid isPermaLink="false">2026-09-07 06:21:00</guid>
-      <pubDate>Mon, 07 Sep 2026 06:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:44 am</title>
-      <description>MA WASHCO: RT340EB / 2MM, MA WASHCO: RT340EB / 2MM Units: R19</description>
-      <guid isPermaLink="false">2026-09-07 05:44:00</guid>
-      <pubDate>Mon, 07 Sep 2026 05:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:39 am</title>
-      <description>MA WASHCO: RT340EB / 2MM, MA WASHCO: RT340EB / 2MM Units: PE52, R19</description>
-      <guid isPermaLink="false">2026-09-07 05:39:00</guid>
-      <pubDate>Mon, 07 Sep 2026 05:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 4:50 am</title>
-      <description>42100 BLOCK GLYNN TARRA PL Radio: 6DTAC11 Units: E281, E201, EK204</description>
-      <guid isPermaLink="false">2026-09-07 04:50:00</guid>
-      <pubDate>Mon, 07 Sep 2026 04:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:03 pm</title>
-      <description>I70EB / 39MM, I70EB / 39MM Radio: 9B Units: E72, R8, A89</description>
-      <guid isPermaLink="false">2026-09-06 23:03:00</guid>
-      <pubDate>Sun, 06 Sep 2026 23:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:34 pm</title>
-      <description>5300 BLOCK KINGSBROOK DR Radio: 9D Units: PE311, R3, A319, ALS31, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-09-06 22:34:00</guid>
-      <pubDate>Sun, 06 Sep 2026 22:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:28 pm</title>
-      <description>100 BLOCK W SOUTH ST, Apt/Unit:312 Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-09-06 22:28:00</guid>
-      <pubDate>Sun, 06 Sep 2026 22:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
