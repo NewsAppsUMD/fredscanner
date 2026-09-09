@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 20:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:03:40 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:59 pm</title>
       <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD — units: E61, TW6, A69, ALS30, BC902, EMS902</description>
@@ -162,18 +162,6 @@
       <description>E CHURCH ST / N MAXWELL AVE — units: E31, R3, A37, ALS4, BC903, EMS902, A28, ALS2 (first reported 2:20 pm)</description>
       <guid isPermaLink="false">2026-09-01 14:20:00|E CHURCH ST / N MAXWELL AVE</guid>
       <pubDate>Tue, 01 Sep 2026 14:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 11:04 am (20 units, 2 updates)</title>
-      <description>5300 BLOCK RENN RD — units: E201, E121, E31, PE311, PE23, E501, R20, TW1, TT4, EK204, K1, K33, A209, ALS20, BC901, BC903, SAF901, A129, K7, K5 (first reported 11:04 am)</description>
-      <guid isPermaLink="false">2026-09-01 11:04:00|5300 BLOCK RENN RD</guid>
-      <pubDate>Tue, 01 Sep 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:40 am</title>
-      <description>MOTTER AVE / PINEWOOD DR — units: E291, R2, A28, ALS2, EMS902</description>
-      <guid isPermaLink="false">2026-09-01 09:40:00|MOTTER AVE / PINEWOOD DR</guid>
-      <pubDate>Tue, 01 Sep 2026 09:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
