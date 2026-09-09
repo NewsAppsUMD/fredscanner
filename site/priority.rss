@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 09 Sep 2026 19:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:03:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:59 pm</title>
+      <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD — units: E61, TW6, A69, ALS30, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-09-09 15:59:00|RT15SB / CREAMERY RD, RT15SB / CREAMERY RD</guid>
+      <pubDate>Wed, 09 Sep 2026 15:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ALARM: 9:16 pm</title>
       <description>100 BLOCK E PATRICK ST, Apt/Unit:1 — units: E31, TW4, HM33, BC901</description>
