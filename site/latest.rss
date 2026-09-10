@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 15:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:04:07 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:57 am</title>
+      <description>RT15NB / RT26, RT15NB / RT26 Radio: 9B Units: A19, PE23</description>
+      <guid isPermaLink="false">2026-09-10 11:57:00</guid>
+      <pubDate>Thu, 10 Sep 2026 11:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:40 am</title>
+      <description>11800 BLOCK ANGLEBERGER RD Radio: 9C Units: E162, EK224</description>
+      <guid isPermaLink="false">2026-09-10 11:40:00</guid>
+      <pubDate>Thu, 10 Sep 2026 11:40:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:05 am</title>
       <description>200 BLOCK THIRTEENTH AVE Radio: 9C Units: PE52, TW1</description>
@@ -294,18 +306,6 @@
       <description>5600 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-09-08 01:06:00</guid>
       <pubDate>Tue, 08 Sep 2026 01:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 7:33 pm</title>
-      <description>HOLLOW RD / OLD NATIONAL PIKE Radio: 9C Units: E121</description>
-      <guid isPermaLink="false">2026-09-07 19:33:00</guid>
-      <pubDate>Mon, 07 Sep 2026 19:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:30 pm</title>
-      <description>8000 BLOCK CAPTAINS CT Radio: 9C Units: E111, Q11</description>
-      <guid isPermaLink="false">2026-09-07 19:30:00</guid>
-      <pubDate>Mon, 07 Sep 2026 19:30:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
