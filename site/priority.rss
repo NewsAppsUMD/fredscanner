@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 17:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:06:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 1:41 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD — units: E31, R3, A319, ALS31, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-09-10 13:41:00|5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD</guid>
+      <pubDate>Thu, 10 Sep 2026 13:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 7:44 am</title>
       <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD — units: E111, R2, A299, A28, ALS4, EK224, EMS901</description>
@@ -144,18 +150,6 @@
       <description>3900 BLOCK WISTMAN LN — units: E82, E72, E121, E31, PE23, E501, R3, TW7, TW1, K21, K7, K1, A89, ALS8, E212, BC903, BC902, SAF901, RID, E291, TT4, A79, EMS901, W8, TTF, PE311, EK114, W7, A129, CAN1 (first reported 12:37 am)</description>
       <guid isPermaLink="false">2026-09-02 00:37:00|3900 BLOCK WISTMAN LN</guid>
       <pubDate>Wed, 02 Sep 2026 00:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RIVER RESCUE: 9:05 pm</title>
-      <description>POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP — units: E201, R14, R20, TR29, BT29, A148, ALS20, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-09-01 21:05:00|POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP</guid>
-      <pubDate>Tue, 01 Sep 2026 21:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WATERCRAFT IN DISTRESS: 8:59 pm</title>
-      <description>POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP — units: BT28, ABT28</description>
-      <guid isPermaLink="false">2026-09-01 20:59:00|POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP</guid>
-      <pubDate>Tue, 01 Sep 2026 20:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

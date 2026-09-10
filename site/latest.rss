@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 17:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:06:24 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 2:02 pm</title>
+      <description>3400 BLOCK SUGARLOAF PKWY Radio: 9C Units: E231, PE251, TW23</description>
+      <guid isPermaLink="false">2026-09-10 14:02:00</guid>
+      <pubDate>Thu, 10 Sep 2026 14:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 1:48 pm</title>
+      <description>4900 BLOCK EXECUTIVE CT S, GOODWILL WAREHOUSE Radio: 9C Units: PE311, BR35</description>
+      <guid isPermaLink="false">2026-09-10 13:48:00</guid>
+      <pubDate>Thu, 10 Sep 2026 13:48:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 1:41 pm</title>
+      <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD Radio: 9D Units: E31, R3, A319, ALS31, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-09-10 13:41:00</guid>
+      <pubDate>Thu, 10 Sep 2026 13:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:05 pm</title>
       <description>11200 BLOCK JEFFRO CT Radio: 9C Units: PE251</description>
@@ -288,24 +306,6 @@
       <description>I70EB / 62MM, I70EB / 62MM Units: E331, E152</description>
       <guid isPermaLink="false">2026-09-08 08:42:00</guid>
       <pubDate>Tue, 08 Sep 2026 08:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:06 am</title>
-      <description>RAMP RT75 TO I70EB RAMP / GREEN VALLEY RD Radio: 9B Units: A339, E152</description>
-      <guid isPermaLink="false">2026-09-08 07:06:00</guid>
-      <pubDate>Tue, 08 Sep 2026 07:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:34 am</title>
-      <description>400 BLOCK CARROLLTON DR Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-09-08 05:34:00</guid>
-      <pubDate>Tue, 08 Sep 2026 05:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:32 am</title>
-      <description>5400 BLOCK HOLIDAY DR Radio: 9B Units: A319, PE311</description>
-      <guid isPermaLink="false">2026-09-08 05:32:00</guid>
-      <pubDate>Tue, 08 Sep 2026 05:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
