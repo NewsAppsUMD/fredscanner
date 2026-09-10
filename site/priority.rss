@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 02:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:04:53 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 10:48 pm</title>
+      <description>7400 BLOCK MASON DR — units: A78, ALS8, E72, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-09-09 22:48:00|7400 BLOCK MASON DR</guid>
+      <pubDate>Wed, 09 Sep 2026 22:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 3:59 pm</title>
       <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD — units: E61, TW6, A69, ALS30, BC902, EMS902</description>
@@ -156,12 +162,6 @@
       <description>OLD FREDERICK RD / EATON RD — units: E132, R10, A169, ALS29, BC902, EMS902</description>
       <guid isPermaLink="false">2026-09-01 16:31:00|OLD FREDERICK RD / EATON RD</guid>
       <pubDate>Tue, 01 Sep 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 2:20 pm (8 units, 2 updates)</title>
-      <description>E CHURCH ST / N MAXWELL AVE — units: E31, R3, A37, ALS4, BC903, EMS902, A28, ALS2 (first reported 2:20 pm)</description>
-      <guid isPermaLink="false">2026-09-01 14:20:00|E CHURCH ST / N MAXWELL AVE</guid>
-      <pubDate>Tue, 01 Sep 2026 14:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

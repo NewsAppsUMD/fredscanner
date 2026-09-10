@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Sep 2026 02:38:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 03:04:53 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 10:48 pm</title>
+      <description>7400 BLOCK MASON DR Radio: 9D Units: A78, ALS8, E72, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-09-09 22:48:00</guid>
+      <pubDate>Wed, 09 Sep 2026 22:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:17 pm</title>
       <description>3600 BLOCK DENISON ST Radio: 9C Units: TW23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BAUGHMANS LN Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-09-07 13:12:00</guid>
       <pubDate>Mon, 07 Sep 2026 13:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 11:43 am</title>
-      <description>1200 BLOCK OAKWOOD DR Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-09-07 11:43:00</guid>
-      <pubDate>Mon, 07 Sep 2026 11:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
