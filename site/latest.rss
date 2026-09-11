@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 08:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:04:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 4:35 am</title>
+      <description>ROHRERSVILLE RD / MAIN ST Units: R19</description>
+      <guid isPermaLink="false">2026-09-11 04:35:00</guid>
+      <pubDate>Fri, 11 Sep 2026 04:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 10:26 pm</title>
       <description>26600 BLOCK HANEY AVE Radio: 7A1 Units: A259</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK S MARKET ST, Apt/Unit:B, THE ORIGINAL POPCORN HOUSE Radio: 9C Units: E31, TW4</description>
       <guid isPermaLink="false">2026-09-08 16:23:00</guid>
       <pubDate>Tue, 08 Sep 2026 16:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:49 pm</title>
-      <description>BUCKEYSTOWN PIKE / URBANA PIKE, IAO Radio: 9B Units: A38, E31</description>
-      <guid isPermaLink="false">2026-09-08 15:49:00</guid>
-      <pubDate>Tue, 08 Sep 2026 15:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

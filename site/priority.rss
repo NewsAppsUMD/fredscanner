@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 08:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:04:31 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 1:41 pm</title>
       <description>5600 BLOCK NEW DESIGN RD, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD — units: E31, R3, A319, ALS31, BC902, EMS901</description>
@@ -138,12 +138,6 @@
       <description>RT464 / RT15, RT464 / RT15 — units: E201, R14, A148, ALS20, EMS901</description>
       <guid isPermaLink="false">2026-09-02 07:06:00|RT464 / RT15, RT464 / RT15</guid>
       <pubDate>Wed, 02 Sep 2026 07:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 2:41 am</title>
-      <description>3900 BLOCK WISTMAN LN — units: A79</description>
-      <guid isPermaLink="false">2026-09-02 02:41:00|3900 BLOCK WISTMAN LN</guid>
-      <pubDate>Wed, 02 Sep 2026 02:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
