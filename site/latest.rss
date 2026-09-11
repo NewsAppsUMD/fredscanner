@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 11 Sep 2026 21:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:31:48 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:27 pm</title>
+      <description>500 BLOCK STANTON ST, Apt/Unit:114 Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-09-11 17:27:00</guid>
+      <pubDate>Fri, 11 Sep 2026 17:27:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 5:22 pm</title>
+      <description>500 BLOCK STANTON ST, Apt/Unit:114 Radio: 9C Units: E291, E111, Q11</description>
+      <guid isPermaLink="false">2026-09-11 17:22:00</guid>
+      <pubDate>Fri, 11 Sep 2026 17:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:16 pm</title>
+      <description>OLD NATIONAL PIKE / RIDGEFIELD DR Radio: 9D Units: E331, R3, A339, ALS4, EMS901</description>
+      <guid isPermaLink="false">2026-09-11 17:16:00</guid>
+      <pubDate>Fri, 11 Sep 2026 17:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - FIRE: 4:31 pm</title>
       <description>RT144 / RIDGEFIELD DR, RT144 / RIDGEFIELD DR Radio: 9B Units: E331, A339</description>
@@ -288,24 +306,6 @@
       <description>APPROX LOC:CATOCTIN MOUNTAIN HWY Radio: 9B Units: E11, E111, R2, A28, A247</description>
       <guid isPermaLink="false">2026-09-09 16:57:00</guid>
       <pubDate>Wed, 09 Sep 2026 16:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:46 pm</title>
-      <description>RT340WB / RT180 (KNOXVILLE), RT340WB / RT180 Units: E201, R20, A198, A196, PE52</description>
-      <guid isPermaLink="false">2026-09-09 16:46:00</guid>
-      <pubDate>Wed, 09 Sep 2026 16:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:59 pm</title>
-      <description>RT15SB / CREAMERY RD, RT15SB / CREAMERY RD Radio: 9D Units: E61, TW6, A69, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-09-09 15:59:00</guid>
-      <pubDate>Wed, 09 Sep 2026 15:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:27 pm</title>
-      <description>9500 BLOCK CABBAGE RUN RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2026-09-09 15:27:00</guid>
-      <pubDate>Wed, 09 Sep 2026 15:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
