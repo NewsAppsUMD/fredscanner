@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 12 Sep 2026 12:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:03:30 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:41 am</title>
+      <description>400 BLOCK MAGNOLIA AVE Radio: 9C Units: TW1</description>
+      <guid isPermaLink="false">2026-09-12 08:41:00</guid>
+      <pubDate>Sat, 12 Sep 2026 08:41:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 8:35 am</title>
       <description>1800 BLOCK BLACK GAP RD Units: EK64</description>
@@ -300,12 +306,6 @@
       <description>2700 BLOCK CANADA HILL RD Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2026-09-10 07:55:00</guid>
       <pubDate>Thu, 10 Sep 2026 07:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:44 am</title>
-      <description>RT15NB / MONOCACY BLVD, RT15NB / MONOCACY BLVD Radio: 9D Units: E111, R2, A299, A28, ALS4, EK224, EMS901</description>
-      <guid isPermaLink="false">2026-09-10 07:44:00</guid>
-      <pubDate>Thu, 10 Sep 2026 07:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
