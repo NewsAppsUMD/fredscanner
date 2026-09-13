@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 08:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:00:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:53 am</title>
+      <description>I70WB / HOLLOW RD, I70WB / HOLLOW RD Radio: 9B Units: E121, E72, R8, A129, A89</description>
+      <guid isPermaLink="false">2026-09-13 04:53:00</guid>
+      <pubDate>Sun, 13 Sep 2026 04:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:04 am</title>
       <description>400 BLOCK E SEVENTH ST Radio: 9C Units: PE23, TT4</description>
@@ -300,12 +306,6 @@
       <description>2600 BLOCK N EVERLY DR Radio: 9C Units: E291, Q11</description>
       <guid isPermaLink="false">2026-09-11 06:33:00</guid>
       <pubDate>Fri, 11 Sep 2026 06:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 5:48 am</title>
-      <description>PARK RIDGE DR / HEATHFIELD DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-09-11 05:48:00</guid>
-      <pubDate>Fri, 11 Sep 2026 05:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
