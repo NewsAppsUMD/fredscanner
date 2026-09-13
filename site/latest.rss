@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 17:03:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 17:31:41 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:20 pm</title>
+      <description>BUCKEYSTOWN PIKE / GUILFORD DR Radio: 9B Units: A37, E31</description>
+      <guid isPermaLink="false">2026-09-13 13:20:00</guid>
+      <pubDate>Sun, 13 Sep 2026 13:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 1:05 pm</title>
+      <description>100 BLOCK PENWICK CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-09-13 13:05:00</guid>
+      <pubDate>Sun, 13 Sep 2026 13:05:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL VEHICLE FIRE: 12:19 pm</title>
       <description>I70WB / 49MM, I70WB / 49MM Radio: 9B Units: E121, E82</description>
@@ -294,18 +306,6 @@
       <description>N MARKET ST / W SEVENTH ST Radio: 9D Units: A38, PE23, EMS902</description>
       <guid isPermaLink="false">2026-09-11 12:23:00</guid>
       <pubDate>Fri, 11 Sep 2026 12:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 11:10 am</title>
-      <description>5600 BLOCK JOSEPH CT Radio: 9C Units: E152, E331, R15</description>
-      <guid isPermaLink="false">2026-09-11 11:10:00</guid>
-      <pubDate>Fri, 11 Sep 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:52 am</title>
-      <description>5000 BLOCK BUCKEYSTOWN PIKE, Apt/Unit:146 Radio: 9C Units: E311, TT4</description>
-      <guid isPermaLink="false">2026-09-11 10:52:00</guid>
-      <pubDate>Fri, 11 Sep 2026 10:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
