@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 22:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:03:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:48 pm (9 units, 2 updates)</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD — units: E291, E111, R24, A229, A247, ALS29, E221, EMS902, A307 (first reported 6:48 pm)</description>
+      <guid isPermaLink="false">2026-09-13 18:48:00|RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD</guid>
+      <pubDate>Sun, 13 Sep 2026 18:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 6:18 pm</title>
       <description>ATLAS DR / BAUGHMANS LN — units: A18, ALS2, E11, EMS902</description>

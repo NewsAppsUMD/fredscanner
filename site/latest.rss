@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 22:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 23:03:24 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:53 pm</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: E221</description>
+      <guid isPermaLink="false">2026-09-13 18:53:00</guid>
+      <pubDate>Sun, 13 Sep 2026 18:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 6:48 pm</title>
+      <description>RT15SB / HANSONVILLE RD (LEWISTOWN), RT15SB / HANSONVILLE RD Radio: 9D Units: E291, E111, R24, A229, A247, ALS29, E221, EMS902, A307</description>
+      <guid isPermaLink="false">2026-09-13 18:48:00</guid>
+      <pubDate>Sun, 13 Sep 2026 18:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 6:18 pm</title>
       <description>ATLAS DR / BAUGHMANS LN Radio: 9D Units: A18, ALS2, E11, EMS902</description>
@@ -294,18 +306,6 @@
       <description>5000 BLOCK CORPORATE DR, PATRIOT FEDERAL CREDIT UNION Radio: 9B Units: A318, PE311</description>
       <guid isPermaLink="false">2026-09-11 17:46:00</guid>
       <pubDate>Fri, 11 Sep 2026 17:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 5:27 pm</title>
-      <description>500 BLOCK STANTON ST, Apt/Unit:114 Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-09-11 17:27:00</guid>
-      <pubDate>Fri, 11 Sep 2026 17:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 5:22 pm</title>
-      <description>500 BLOCK STANTON ST, Apt/Unit:114 Radio: 9C Units: E291, E111, Q11</description>
-      <guid isPermaLink="false">2026-09-11 17:22:00</guid>
-      <pubDate>Fri, 11 Sep 2026 17:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
