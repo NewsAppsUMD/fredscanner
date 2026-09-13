@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 03:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 03:36:47 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:05 pm</title>
+      <description>POTOMAC VIEW PKWY / DUTCHMANS CREEK DR Units: E52</description>
+      <guid isPermaLink="false">2026-09-12 23:05:00</guid>
+      <pubDate>Sat, 12 Sep 2026 23:05:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:04 pm</title>
+      <description>POTOMAC VIEW PKWY / DUTCHMANS CREEK DR Units: A198, E201</description>
+      <guid isPermaLink="false">2026-09-12 23:04:00</guid>
+      <pubDate>Sat, 12 Sep 2026 23:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:01 pm</title>
       <description>5800 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK PLAZA Radio: 9C Units: E311, TW1</description>
@@ -294,18 +306,6 @@
       <description>26600 BLOCK HANEY AVE Radio: 7A1 Units: A259</description>
       <guid isPermaLink="false">2026-09-10 22:26:00</guid>
       <pubDate>Thu, 10 Sep 2026 22:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 7:01 pm</title>
-      <description>ED GARVEY SHELTER APPALACHIAN TRAIL, ED GARVEY SHELTER APPALACHIAN TRAIL Units: R20, A198, ALS20</description>
-      <guid isPermaLink="false">2026-09-10 19:01:00</guid>
-      <pubDate>Thu, 10 Sep 2026 19:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 6:53 pm</title>
-      <description>ED GARVEY SHELTER APPALACHIAN TRAIL, ED GARVEY SHELTER APPALACHIAN TRAIL Units: PE52, R19</description>
-      <guid isPermaLink="false">2026-09-10 18:53:00</guid>
-      <pubDate>Thu, 10 Sep 2026 18:53:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
