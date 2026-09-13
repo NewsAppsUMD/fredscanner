@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 20:32:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:03:31 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:53 pm</title>
+      <description>I70EB / 52MM, I70EB / 52MM Radio: 9B Units: A129, A78, E121</description>
+      <guid isPermaLink="false">2026-09-13 16:53:00</guid>
+      <pubDate>Sun, 13 Sep 2026 16:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LARGE OUTSIDE FIRE: 4:38 pm</title>
+      <description>6800 BLOCK PUTMAN RD Radio: 9C Units: EK114</description>
+      <guid isPermaLink="false">2026-09-13 16:38:00</guid>
+      <pubDate>Sun, 13 Sep 2026 16:38:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:34 pm</title>
+      <description>700 BLOCK CARROLL PKWY, Bldg:9, PARKVIEW APTS Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-09-13 16:34:00</guid>
+      <pubDate>Sun, 13 Sep 2026 16:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>LARGE OUTSIDE FIRE: 4:28 pm</title>
       <description>6800 BLOCK PUTMAN RD Radio: 9C Units: K10, BR106</description>
@@ -288,24 +306,6 @@
       <description>300 BLOCK TIPPIN DR, SUPER 8 MOTEL - THURMONT Radio: 9C Units: PE102, TW6</description>
       <guid isPermaLink="false">2026-09-11 16:28:00</guid>
       <pubDate>Fri, 11 Sep 2026 16:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:03 pm</title>
-      <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-09-11 16:03:00</guid>
-      <pubDate>Fri, 11 Sep 2026 16:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:02 pm</title>
-      <description>2500 BLOCK CARRINGTON WAY Radio: 9C Units: PE23, TW1</description>
-      <guid isPermaLink="false">2026-09-11 16:02:00</guid>
-      <pubDate>Fri, 11 Sep 2026 16:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 4:00 pm</title>
-      <description>1300 BLOCK TANEY AVE, POTOMAC COMMONS APTS - 1332 TANEY AVE Radio: 9B Units: ALS2, EMS902</description>
-      <guid isPermaLink="false">2026-09-11 16:00:00</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
