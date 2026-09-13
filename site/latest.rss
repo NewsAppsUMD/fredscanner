@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 21:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:31:56 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 5:26 pm</title>
+      <description>7000 BLOCK EAGLE CT Units: R2, R3, A259</description>
+      <guid isPermaLink="false">2026-09-13 17:26:00</guid>
+      <pubDate>Sun, 13 Sep 2026 17:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 5:21 pm</title>
+      <description>7000 BLOCK EAGLE CT Units: E251, E152, E172, E331, E111, R15, Q11, R24, A159, ALS2, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-09-13 17:21:00</guid>
+      <pubDate>Sun, 13 Sep 2026 17:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:53 pm</title>
       <description>I70EB / 52MM, I70EB / 52MM Radio: 9B Units: A129, A78, E121</description>
@@ -294,18 +306,6 @@
       <description>OLD NATIONAL PIKE / RIDGEFIELD DR Radio: 9D Units: E331, R3, A339, ALS4, EMS901</description>
       <guid isPermaLink="false">2026-09-11 17:16:00</guid>
       <pubDate>Fri, 11 Sep 2026 17:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - FIRE: 4:31 pm</title>
-      <description>RT144 / RIDGEFIELD DR, RT144 / RIDGEFIELD DR Radio: 9B Units: E331, A339</description>
-      <guid isPermaLink="false">2026-09-11 16:31:00</guid>
-      <pubDate>Fri, 11 Sep 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:28 pm</title>
-      <description>300 BLOCK TIPPIN DR, SUPER 8 MOTEL - THURMONT Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-09-11 16:28:00</guid>
-      <pubDate>Fri, 11 Sep 2026 16:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
