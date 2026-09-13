@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 13 Sep 2026 15:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:04:04 +0000</lastBuildDate>
     <item>
       <title>HOUSE FIRE: 2:41 am</title>
       <description>N EAST ST / E SEVENTH ST — units: PE23, E31, E501, E11, E291, R3, TT4, A28, ALS2, BC902, BC901, SAF901</description>
@@ -162,12 +162,6 @@
       <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET HOSPITAL — units: PE311, TT4, HM33, BC901 (first reported 12:39 am)</description>
       <guid isPermaLink="false">2026-09-04 00:39:00|3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET HOSPITAL</guid>
       <pubDate>Fri, 04 Sep 2026 00:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:33 pm</title>
-      <description>5900 BLOCK RAMSEUR CIR, Apt/Unit:109, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR — units: PE311, E31, E501, E291, E201, R3, TT4, A319, ALS4, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-09-03 21:33:00|5900 BLOCK RAMSEUR CIR, Apt/Unit:109, CAMDEN CLEARBROOK APTS - 5900 BLOCK RAMSEUR CIR</guid>
-      <pubDate>Thu, 03 Sep 2026 21:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
