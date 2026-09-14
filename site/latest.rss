@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 18:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 19:03:40 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:47 pm</title>
+      <description>3700 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A148</description>
+      <guid isPermaLink="false">2026-09-14 14:47:00</guid>
+      <pubDate>Mon, 14 Sep 2026 14:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:37 pm</title>
+      <description>3700 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A319, E31</description>
+      <guid isPermaLink="false">2026-09-14 14:37:00</guid>
+      <pubDate>Mon, 14 Sep 2026 14:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:36 pm</title>
+      <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL Radio: 9C Units: E141, TW23</description>
+      <guid isPermaLink="false">2026-09-14 14:36:00</guid>
+      <pubDate>Mon, 14 Sep 2026 14:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 11:47 am</title>
       <description>100 BLOCK W FREDERICK ST, STATION 24 Units: ALS17</description>
@@ -288,24 +306,6 @@
       <description>1000 BLOCK W PATRICK ST Radio: 9B Units: A38, E11</description>
       <guid isPermaLink="false">2026-09-12 13:58:00</guid>
       <pubDate>Sat, 12 Sep 2026 13:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:48 pm</title>
-      <description>1600 BLOCK PORTER CREEK CT Units: R15</description>
-      <guid isPermaLink="false">2026-09-12 13:48:00</guid>
-      <pubDate>Sat, 12 Sep 2026 13:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:40 pm</title>
-      <description>1600 BLOCK PORTER CREEK CT Units: A158, R15</description>
-      <guid isPermaLink="false">2026-09-12 13:40:00</guid>
-      <pubDate>Sat, 12 Sep 2026 13:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 1:36 pm</title>
-      <description>1600 BLOCK PORTER CREEK CT Units: PE251</description>
-      <guid isPermaLink="false">2026-09-12 13:36:00</guid>
-      <pubDate>Sat, 12 Sep 2026 13:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
