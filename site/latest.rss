@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 12:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:44:00 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:04 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-09-14 08:04:00</guid>
+      <pubDate>Mon, 14 Sep 2026 08:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:51 am</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N MARKET ST, FREDERICK INNOVATIVE TECHNOLOGY CENTER Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-09-12 11:02:00</guid>
       <pubDate>Sat, 12 Sep 2026 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:41 am</title>
-      <description>400 BLOCK MAGNOLIA AVE Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-09-12 08:41:00</guid>
-      <pubDate>Sat, 12 Sep 2026 08:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
