@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 14 Sep 2026 23:31:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:11:42 +0000</lastBuildDate>
     <item>
       <title>MOTORCYCLE ACCIDENT: 10:33 am</title>
       <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK — units: E231, PE311, R3, A319, A239, ALS23, EMS902</description>
@@ -168,12 +168,6 @@
       <description>JEFFERSON PIKE / LANDER CREEK DR — units: PE52, R20, A198, R19, EMS902</description>
       <guid isPermaLink="false">2026-09-06 15:14:00|JEFFERSON PIKE / LANDER CREEK DR</guid>
       <pubDate>Sun, 06 Sep 2026 15:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:56 pm</title>
-      <description>LEES LN / BURKITTSVILLE RD — units: PE52, R20, A196, R19, EMS902</description>
-      <guid isPermaLink="false">2026-09-04 17:56:00|LEES LN / BURKITTSVILLE RD</guid>
-      <pubDate>Fri, 04 Sep 2026 17:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
