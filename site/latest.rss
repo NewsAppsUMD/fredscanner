@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 15 Sep 2026 18:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:36:04 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:23 pm</title>
+      <description>WORMANS MILL RD / LIBERTY RD Radio: 9B Units: A29, A19</description>
+      <guid isPermaLink="false">2026-09-15 14:23:00</guid>
+      <pubDate>Tue, 15 Sep 2026 14:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:19 pm</title>
+      <description>WORMANS MILL RD / LIBERTY RD Radio: 9B Units: A247, E111</description>
+      <guid isPermaLink="false">2026-09-15 14:19:00</guid>
+      <pubDate>Tue, 15 Sep 2026 14:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE FIRE: 1:01 pm</title>
       <description>100 BLOCK N MARKET ST, BRICK AND MORTAR MERCANTILE Radio: 9C Units: E31</description>
@@ -294,18 +306,6 @@
       <description>7000 BLOCK EAGLE CT Units: E251, E152, E172, E331, E111, R15, Q11, R24, A159, ALS2, BC901, BC903, SAF901</description>
       <guid isPermaLink="false">2026-09-13 17:21:00</guid>
       <pubDate>Sun, 13 Sep 2026 17:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:53 pm</title>
-      <description>I70EB / 52MM, I70EB / 52MM Radio: 9B Units: A129, A78, E121</description>
-      <guid isPermaLink="false">2026-09-13 16:53:00</guid>
-      <pubDate>Sun, 13 Sep 2026 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 4:38 pm</title>
-      <description>6800 BLOCK PUTMAN RD Radio: 9C Units: EK114</description>
-      <guid isPermaLink="false">2026-09-13 16:38:00</guid>
-      <pubDate>Sun, 13 Sep 2026 16:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
