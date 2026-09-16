@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 20:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:34:10 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL VEHICLE FIRE: 4:26 pm</title>
+      <description>4700 BLOCK YARD WASTE CT, COUNTY LANDFILL TRANSFER STATION Radio: 9C Units: E331, E31, K33</description>
+      <guid isPermaLink="false">2026-09-16 16:26:00</guid>
+      <pubDate>Wed, 16 Sep 2026 16:26:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:25 pm</title>
       <description>NEW DESIGN RD / CORPORATE DR Radio: 9B Units: A319, E31</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK N PENDLETON CT Radio: 9D Units: Q11</description>
       <guid isPermaLink="false">2026-09-14 20:55:00</guid>
       <pubDate>Mon, 14 Sep 2026 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:52 pm</title>
-      <description>100 BLOCK N PENDLETON CT Radio: 9D Units: E11, PE23, E501, PE311, E121, R3, TW1, A18, ALS4, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-09-14 20:52:00</guid>
-      <pubDate>Mon, 14 Sep 2026 20:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
