@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 11:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:06:22 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:54 am</title>
+      <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE - 1000 BLOCK W PATRICK ST Radio: 9C Units: E31</description>
+      <guid isPermaLink="false">2026-09-16 07:54:00</guid>
+      <pubDate>Wed, 16 Sep 2026 07:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:34 am</title>
+      <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-09-16 07:34:00</guid>
+      <pubDate>Wed, 16 Sep 2026 07:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:58 am</title>
       <description>RT355 / BIG WOODS RD, RT355 / BIG WOODS RD Radio: 9B Units: A239, TW23</description>
@@ -294,18 +306,6 @@
       <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, TW23</description>
       <guid isPermaLink="false">2026-09-14 11:01:00</guid>
       <pubDate>Mon, 14 Sep 2026 11:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:33 am</title>
-      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK Radio: 9D Units: E231, PE311, R3, A319, A239, ALS23, EMS902</description>
-      <guid isPermaLink="false">2026-09-14 10:33:00</guid>
-      <pubDate>Mon, 14 Sep 2026 10:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:04 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-09-14 08:04:00</guid>
-      <pubDate>Mon, 14 Sep 2026 08:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
