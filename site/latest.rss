@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 12:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:43:18 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:10 am</title>
+      <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE - 1000 BLOCK W PATRICK ST Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-09-16 08:10:00</guid>
+      <pubDate>Wed, 16 Sep 2026 08:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:54 am</title>
       <description>1000 BLOCK W PATRICK ST, FREDERICK COUNTY SQUARE - 1000 BLOCK W PATRICK ST Radio: 9C Units: E31</description>
@@ -300,12 +306,6 @@
       <description>1400 BLOCK POTOMAC VIEW PKWY Radio: 9C Units: PE52</description>
       <guid isPermaLink="false">2026-09-14 11:25:00</guid>
       <pubDate>Mon, 14 Sep 2026 11:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:01 am</title>
-      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, TW23</description>
-      <guid isPermaLink="false">2026-09-14 11:01:00</guid>
-      <pubDate>Mon, 14 Sep 2026 11:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
