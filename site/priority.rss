@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 16 Sep 2026 05:04:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:35:11 +0000</lastBuildDate>
+    <item>
+      <title>STABBING - ALS: 1:19 am</title>
+      <description>WAVERLEY DR / SHOOKSTOWN RD — units: A19, ALS4, E11, BC903, EMS902</description>
+      <guid isPermaLink="false">2026-09-16 01:19:00|WAVERLEY DR / SHOOKSTOWN RD</guid>
+      <pubDate>Wed, 16 Sep 2026 01:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:38 pm</title>
       <description>100 BLOCK MONROE AVE — units: E31, PE23, E331, PE311, E501, R3, TT4, TW1, A37, ALS4, BC901, BC902, SAF901</description>
@@ -168,12 +174,6 @@
       <description>RT15NB / MOTTER AVE(MOTTER AVE), RT15NB / MOTTER AVE — units: E11, E111, R2, A28, A247, ALS2, BC902, EMS902</description>
       <guid isPermaLink="false">2026-09-06 22:08:00|RT15NB / MOTTER AVE(MOTTER AVE), RT15NB / MOTTER AVE</guid>
       <pubDate>Sun, 06 Sep 2026 22:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HIGH ANGLE RESCUE: 4:11 pm</title>
-      <description>C&amp;O CANAL TOWPATH / CATOCTIN MOUNTAIN HWY — units: E281, R14, T5, TR29, A148, ALS20, BC903, SAF901, EMS901</description>
-      <guid isPermaLink="false">2026-09-06 16:11:00|C&amp;O CANAL TOWPATH / CATOCTIN MOUNTAIN HWY</guid>
-      <pubDate>Sun, 06 Sep 2026 16:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
