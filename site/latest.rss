@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 04:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 05:04:28 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:51 am</title>
+      <description>5600 BLOCK PINE BLUFF CT Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-09-17 00:51:00</guid>
+      <pubDate>Thu, 17 Sep 2026 00:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 11:00 pm</title>
       <description>1200 BLOCK GREYLOCK LN Radio: 9C Units: EK114</description>
@@ -300,12 +306,6 @@
       <description>I270NB / 28MM, I270NB / 28MM Radio: 9B Units: E231, PE311, R3, A239, A319</description>
       <guid isPermaLink="false">2026-09-15 10:05:00</guid>
       <pubDate>Tue, 15 Sep 2026 10:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:03 am</title>
-      <description>100 BLOCK(66100 BLOCK2) BLK AYJAY DR Units: E152</description>
-      <guid isPermaLink="false">2026-09-15 10:03:00</guid>
-      <pubDate>Tue, 15 Sep 2026 10:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
