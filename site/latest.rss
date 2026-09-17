@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 00:10:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:05:36 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 8:53 pm</title>
+      <description>2000 BLOCK YELLOW SPRINGS RD, ROYAL FARMS - YELLOW SPRINGS Radio: 9C Units: E11, E501</description>
+      <guid isPermaLink="false">2026-09-16 20:53:00</guid>
+      <pubDate>Wed, 16 Sep 2026 20:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BUILDING FIRE: 8:35 pm</title>
+      <description>22400 BLOCK CABIN BRANCH AVE AXIOM BLDG 2 APTS, AXIOM BLDG 2 APTS Radio: 7A8 Units: E231</description>
+      <guid isPermaLink="false">2026-09-16 20:35:00</guid>
+      <pubDate>Wed, 16 Sep 2026 20:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:26 pm</title>
       <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS Radio: 9D Units: E102</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W ALL SAINTS ST Radio: 9C Units: E31, TT4</description>
       <guid isPermaLink="false">2026-09-15 06:25:00</guid>
       <pubDate>Tue, 15 Sep 2026 06:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:42 am</title>
-      <description>13600 BLOCK BALTIMORE NATIONAL PIKE, MOUNT AIRY TRUCK REST AREA I70EB Radio: 9B Units: E152, R15, A259</description>
-      <guid isPermaLink="false">2026-09-15 03:42:00</guid>
-      <pubDate>Tue, 15 Sep 2026 03:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 2:09 am</title>
-      <description>5800 BLOCK BUCKEYSTOWN PIKE, ROYAL FARMS - BUCKEYSTOWN PIKE Radio: 9C Units: E31, PE311, R3</description>
-      <guid isPermaLink="false">2026-09-15 02:09:00</guid>
-      <pubDate>Tue, 15 Sep 2026 02:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
