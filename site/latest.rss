@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 11:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:06:16 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:41 am</title>
+      <description>1700 BLOCK SHOOKSTOWN RD Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-09-17 07:41:00</guid>
+      <pubDate>Thu, 17 Sep 2026 07:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:39 am</title>
+      <description>200 BLOCK BROADWAY ST, WEINBERG HOUSE Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-09-17 07:39:00</guid>
+      <pubDate>Thu, 17 Sep 2026 07:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:55 am</title>
       <description>DEER SPRING RD / DEER SPRING LN Radio: 9C Units: E121</description>
@@ -294,18 +306,6 @@
       <description>4900 BLOCK NEW DESIGN RD, MATTRESS WAREHOUSE - NEW DESIGN RD Radio: 9C Units: PE311, TT4</description>
       <guid isPermaLink="false">2026-09-15 12:37:00</guid>
       <pubDate>Tue, 15 Sep 2026 12:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:55 am</title>
-      <description>500 BLOCK HIMES AVE Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-09-15 10:55:00</guid>
-      <pubDate>Tue, 15 Sep 2026 10:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:33 am</title>
-      <description>APPROX LOC:12247 OLD FREDERICK RD Radio: 9B Units: A169, E162</description>
-      <guid isPermaLink="false">2026-09-15 10:33:00</guid>
-      <pubDate>Tue, 15 Sep 2026 10:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
