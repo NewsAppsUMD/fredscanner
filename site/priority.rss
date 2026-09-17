@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 18:38:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 19:03:30 +0000</lastBuildDate>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:26 pm</title>
       <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS — units: E102</description>
@@ -156,12 +156,6 @@
       <description>1800 BLOCK DULANEY CT — units: E11</description>
       <guid isPermaLink="false">2026-09-08 19:40:00|1800 BLOCK DULANEY CT</guid>
       <pubDate>Tue, 08 Sep 2026 19:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:46 pm</title>
-      <description>E PATRICK ST / MONOCACY BLVD — units: E331, R3, A339, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-09-08 12:46:00|E PATRICK ST / MONOCACY BLVD</guid>
-      <pubDate>Tue, 08 Sep 2026 12:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
