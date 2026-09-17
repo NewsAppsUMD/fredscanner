@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 17 Sep 2026 19:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:04:10 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:54 pm</title>
+      <description>4700 BLOCK MUSSETTER RD Radio: 9C Units: BR156</description>
+      <guid isPermaLink="false">2026-09-17 15:54:00</guid>
+      <pubDate>Thu, 17 Sep 2026 15:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:55 pm</title>
       <description>1300 BLOCK ORCHARD WAY, Apt/Unit:3131 Radio: 9C Units: E11, TW1</description>
@@ -300,12 +306,6 @@
       <description>1200 BLOCK MAPLE TERRACE LN, MAPLE TERRACE APTS Radio: 9B Units: A198, PE52</description>
       <guid isPermaLink="false">2026-09-15 20:40:00</guid>
       <pubDate>Tue, 15 Sep 2026 20:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:23 pm</title>
-      <description>8500 BLOCK RED SAGE WAY S Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-09-15 20:23:00</guid>
-      <pubDate>Tue, 15 Sep 2026 20:23:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
