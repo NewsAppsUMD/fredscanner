@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 08:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:04:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 4:54 am</title>
+      <description>7900 BLOCK REICHS FORD RD, MARC TRAIN STORAGE YARD — units: E31, R3, A37, ALS4, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-09-18 04:54:00|7900 BLOCK REICHS FORD RD, MARC TRAIN STORAGE YARD</guid>
+      <pubDate>Fri, 18 Sep 2026 04:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 5:26 pm</title>
       <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS — units: E102</description>
@@ -150,12 +156,6 @@
       <description>100 BLOCK E PATRICK ST, Apt/Unit:1 — units: E31, TW4, HM33, BC901</description>
       <guid isPermaLink="false">2026-09-08 21:16:00|100 BLOCK E PATRICK ST, Apt/Unit:1</guid>
       <pubDate>Tue, 08 Sep 2026 21:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD OUTSIDE: 7:40 pm</title>
-      <description>1800 BLOCK DULANEY CT — units: E11</description>
-      <guid isPermaLink="false">2026-09-08 19:40:00|1800 BLOCK DULANEY CT</guid>
-      <pubDate>Tue, 08 Sep 2026 19:40:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
