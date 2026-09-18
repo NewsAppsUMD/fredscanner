@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 18 Sep 2026 16:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:34:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:03 pm</title>
+      <description>5700 BLOCK BUCKEYSTOWN PIKE Radio: 9B Units: A37, E31</description>
+      <guid isPermaLink="false">2026-09-18 12:03:00</guid>
+      <pubDate>Fri, 18 Sep 2026 12:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:22 am</title>
       <description>E ALL SAINTS ST / S EAST ST Radio: 9B Units: A37, E31</description>
@@ -300,12 +306,6 @@
       <description>LIBERTY RD / CLEMSONVILLE RD Radio: 9D Units: E172, A179, ALS17, BC901, EMS902</description>
       <guid isPermaLink="false">2026-09-16 12:38:00</guid>
       <pubDate>Wed, 16 Sep 2026 12:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:20 pm</title>
-      <description>6800 BLOCK AMELANO DR Radio: 9C Units: HM33</description>
-      <guid isPermaLink="false">2026-09-16 12:20:00</guid>
-      <pubDate>Wed, 16 Sep 2026 12:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
