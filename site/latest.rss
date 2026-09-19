@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 06:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:43:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:04 am</title>
+      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-09-19 02:04:00</guid>
+      <pubDate>Sat, 19 Sep 2026 02:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:58 am</title>
       <description>1000 BLOCK N MARKET ST, BETH SHOLOM CENTER Radio: 9C Units: PE23</description>
@@ -300,12 +306,6 @@
       <description>16800 BLOCK S SETON AVE, Bldg:C, Apt/Unit:ROOM 157, NATIONAL FIRE ACADEMY - BLDG V Radio: 9C Units: E61, TW6</description>
       <guid isPermaLink="false">2026-09-17 05:53:00</guid>
       <pubDate>Thu, 17 Sep 2026 05:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:51 am</title>
-      <description>5600 BLOCK PINE BLUFF CT Radio: 9C Units: E331</description>
-      <guid isPermaLink="false">2026-09-17 00:51:00</guid>
-      <pubDate>Thu, 17 Sep 2026 00:51:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
