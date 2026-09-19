@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 23:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 23:31:45 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 7:13 pm</title>
+      <description>POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP Radio: 9D Units: R3</description>
+      <guid isPermaLink="false">2026-09-19 19:13:00</guid>
+      <pubDate>Sat, 19 Sep 2026 19:13:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RIVER RESCUE: 7:10 pm</title>
+      <description>POINT OF ROCKS BOAT RAMP, POINT OF ROCKS BOAT RAMP Radio: 9D Units: E141, R3, TW1, TR29, BT29, A196, R19, BT19, BC903, SAF901, EMS902, PE52</description>
+      <guid isPermaLink="false">2026-09-19 19:10:00</guid>
+      <pubDate>Sat, 19 Sep 2026 19:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 6:25 pm</title>
       <description>22100 BLOCK DICKERSON SCHOOL RD DICKERSON LP PP, DICKERSON LP PP Radio: 7A1 Units: E141</description>
@@ -294,18 +306,6 @@
       <description>SOUDER RD / NINTH AVE Radio: 9B Units: A196, PE52</description>
       <guid isPermaLink="false">2026-09-18 07:34:00</guid>
       <pubDate>Fri, 18 Sep 2026 07:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:14 am</title>
-      <description>I70EB / 43MM, I70EB / 43MM Radio: 9B Units: ALS8</description>
-      <guid isPermaLink="false">2026-09-18 06:14:00</guid>
-      <pubDate>Fri, 18 Sep 2026 06:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:03 am</title>
-      <description>I70EB / 43MM, I70EB / 43MM Radio: 9B Units: E72, E121, R8, A89, A129</description>
-      <guid isPermaLink="false">2026-09-18 06:03:00</guid>
-      <pubDate>Fri, 18 Sep 2026 06:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
