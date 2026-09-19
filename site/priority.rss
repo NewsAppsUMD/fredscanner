@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 19:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:03:39 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 3:56 pm (6 units, 2 updates)</title>
+      <description>9400 BLOCK LONGS MILL RD — units: E132, R10, A169, ALS30, EMS902, E91 (first reported 3:56 pm)</description>
+      <guid isPermaLink="false">2026-09-19 15:56:00|9400 BLOCK LONGS MILL RD</guid>
+      <pubDate>Sat, 19 Sep 2026 16:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 3:00 pm</title>
       <description>1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT — units: E11, E31, PE23, E501, E121, R3, TT4, A19, PE311, BC903, BC902, SAF901</description>
