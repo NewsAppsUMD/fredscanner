@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 19:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:31:51 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 3:00 pm</title>
+      <description>1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT — units: E11, E31, PE23, E501, E121, R3, TT4, A19, PE311, BC903, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-09-19 15:00:00|1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT</guid>
+      <pubDate>Sat, 19 Sep 2026 15:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 2:27 pm (2 units, 2 updates)</title>
       <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY — units: E11, E121 (first reported 2:27 pm)</description>
