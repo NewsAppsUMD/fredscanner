@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 19 Sep 2026 18:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 19:02:53 +0000</lastBuildDate>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 2:38 pm</title>
+      <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Units: E121</description>
+      <guid isPermaLink="false">2026-09-19 14:38:00</guid>
+      <pubDate>Sat, 19 Sep 2026 14:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>HELICOPTER LANDING ZONE: 2:27 pm</title>
       <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Radio: 9D Units: E11</description>
@@ -300,12 +306,6 @@
       <description>4700 BLOCK MUSSETTER RD Radio: 9C Units: BR156</description>
       <guid isPermaLink="false">2026-09-17 15:54:00</guid>
       <pubDate>Thu, 17 Sep 2026 15:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:55 pm</title>
-      <description>1300 BLOCK ORCHARD WAY, Apt/Unit:3131 Radio: 9C Units: E11, TW1</description>
-      <guid isPermaLink="false">2026-09-17 14:55:00</guid>
-      <pubDate>Thu, 17 Sep 2026 14:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
