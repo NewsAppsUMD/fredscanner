@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 01:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 01:43:27 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 9:30 pm</title>
+      <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Radio: 9C Units: E61</description>
+      <guid isPermaLink="false">2026-09-19 21:30:00</guid>
+      <pubDate>Sat, 19 Sep 2026 21:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 9:04 pm</title>
       <description>1900 BLOCK S KEYSVILLE RD Units: E132</description>
@@ -300,12 +306,6 @@
       <description>YEAGERTOWN RD / OLD NATIONAL PIKE Radio: 9B Units: A339, E153</description>
       <guid isPermaLink="false">2026-09-18 14:22:00</guid>
       <pubDate>Fri, 18 Sep 2026 14:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:27 pm</title>
-      <description>3200 BLOCK BAKER CIR, BUCKINGHAMS CHOICE Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-09-18 13:27:00</guid>
-      <pubDate>Fri, 18 Sep 2026 13:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
