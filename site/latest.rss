@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 22:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 22:31:32 +0000</lastBuildDate>
+    <item>
+      <title>ALERT 1 - MINOR DIFFICULTY: 6:03 pm</title>
+      <description>300 BLOCK AVIATION WAY, FREDERICK AIRPORT TERMINAL - FREDERICK REGIONAL AIRPORT Radio: 9D Units: E31, PE23, R3, A38, A339, ALS2, BC902, SAF900, EMS902</description>
+      <guid isPermaLink="false">2026-09-20 18:03:00</guid>
+      <pubDate>Sun, 20 Sep 2026 18:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
       <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Radio: 9B Units: E221</description>
@@ -300,12 +306,6 @@
       <description>75100 BLOCK MOUNTAIN LAUREL RD Radio: TAC1OPS Units: E82</description>
       <guid isPermaLink="false">2026-09-19 07:57:00</guid>
       <pubDate>Sat, 19 Sep 2026 07:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 6:17 am</title>
-      <description>13700 BLOCK STOTTLEMYER RD Radio: 9B Units: PE102, E212</description>
-      <guid isPermaLink="false">2026-09-19 06:17:00</guid>
-      <pubDate>Sat, 19 Sep 2026 06:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
