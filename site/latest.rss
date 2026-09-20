@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 20 Sep 2026 19:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 20:03:45 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:59 pm</title>
+      <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Radio: 9B Units: E221</description>
+      <guid isPermaLink="false">2026-09-20 15:59:00</guid>
+      <pubDate>Sun, 20 Sep 2026 15:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:54 pm</title>
+      <description>RT15SB / AUBURN RD (CATOCTIN FURNACE), RT15SB / AUBURN RD Radio: 9B Units: E61, E291, R10, A307, A229, E221</description>
+      <guid isPermaLink="false">2026-09-20 15:54:00</guid>
+      <pubDate>Sun, 20 Sep 2026 15:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:21 pm</title>
       <description>100 BLOCK N CHURCH ST, LOVETTSVILLE POST OFFICE Radio: 6B Units: T5</description>
@@ -294,18 +306,6 @@
       <description>13700 BLOCK STOTTLEMYER RD Radio: 9B Units: PE102, E212</description>
       <guid isPermaLink="false">2026-09-19 06:17:00</guid>
       <pubDate>Sat, 19 Sep 2026 06:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:04 am</title>
-      <description>400 BLOCK E SEVENTH ST Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-09-19 02:04:00</guid>
-      <pubDate>Sat, 19 Sep 2026 02:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:58 am</title>
-      <description>1000 BLOCK N MARKET ST, BETH SHOLOM CENTER Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-09-19 01:58:00</guid>
-      <pubDate>Sat, 19 Sep 2026 01:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
