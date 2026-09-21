@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 06:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:00:50 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 2:39 am</title>
+      <description>6300 BLOCK RUTHERFORD CT, Apt/Unit:C Units: PE311</description>
+      <guid isPermaLink="false">2026-09-21 02:39:00</guid>
+      <pubDate>Mon, 21 Sep 2026 02:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 2:11 am</title>
+      <description>RT17 / BRENTLAND RD, RT17 / BRENTLAND RD Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-09-21 02:11:00</guid>
+      <pubDate>Mon, 21 Sep 2026 02:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:31 am</title>
       <description>I70WB / 46MM, I70WB / 46MM Radio: 9B Units: HM33, HMSU33</description>
@@ -294,18 +306,6 @@
       <description>1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Radio: 9D Units: E11, E31, PE23, E501, E121, R3, TT4, A19, PE311, BC903, BC902, SAF901</description>
       <guid isPermaLink="false">2026-09-19 15:00:00</guid>
       <pubDate>Sat, 19 Sep 2026 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 2:38 pm</title>
-      <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Units: E121</description>
-      <guid isPermaLink="false">2026-09-19 14:38:00</guid>
-      <pubDate>Sat, 19 Sep 2026 14:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 2:27 pm</title>
-      <description>6600 BLOCK CARPENTER RD, FREDERICK CHRISTIAN ACADEMY Radio: 9D Units: E11</description>
-      <guid isPermaLink="false">2026-09-19 14:27:00</guid>
-      <pubDate>Sat, 19 Sep 2026 14:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
