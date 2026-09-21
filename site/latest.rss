@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 08:42:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:05:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:00 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: A239, E231</description>
+      <guid isPermaLink="false">2026-09-21 05:00:00</guid>
+      <pubDate>Mon, 21 Sep 2026 05:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>FLOODING CONDITION: 2:39 am</title>
       <description>6300 BLOCK RUTHERFORD CT, Apt/Unit:C Units: PE311</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 40MM, I70WB / 40MM Radio: 9C Units: E82</description>
       <guid isPermaLink="false">2026-09-19 15:15:00</guid>
       <pubDate>Sat, 19 Sep 2026 15:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 3:00 pm</title>
-      <description>1200 BLOCK AYNSLEY CT, THE GROVE AT ALBAN - 1200 BLOCK AYNSLEY CT Radio: 9D Units: E11, E31, PE23, E501, E121, R3, TT4, A19, PE311, BC903, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-09-19 15:00:00</guid>
-      <pubDate>Sat, 19 Sep 2026 15:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
