@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 21 Sep 2026 03:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 03:40:43 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:15 pm</title>
+      <description>3800 BLOCK BRAVEHEART DR Radio: 9C Units: E231</description>
+      <guid isPermaLink="false">2026-09-20 23:15:00</guid>
+      <pubDate>Sun, 20 Sep 2026 23:15:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:33 pm</title>
       <description>BURKITTSVILLE RD / 340E @ RT17 PIKE, RT17 / RT180 Radio: 9B Units: A198, PE52</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK HERRINGBONE WAY Radio: 9C Units: PE23</description>
       <guid isPermaLink="false">2026-09-19 14:09:00</guid>
       <pubDate>Sat, 19 Sep 2026 14:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:05 pm</title>
-      <description>400 BLOCK HERRINGBONE WAY Radio: 9C Units: E31</description>
-      <guid isPermaLink="false">2026-09-19 14:05:00</guid>
-      <pubDate>Sat, 19 Sep 2026 14:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
