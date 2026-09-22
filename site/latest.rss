@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 13:04:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:35:18 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:14 am</title>
+      <description>13000 BLOCK MINK FARM RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-09-22 09:14:00</guid>
+      <pubDate>Tue, 22 Sep 2026 09:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 9:09 am</title>
+      <description>1400 BLOCK PINEWOOD DR Units: PE23, E501, E31, E111, PE311, R3, TT4, A129, ALS2, BC901, BC902, SAF901</description>
+      <guid isPermaLink="false">2026-09-22 09:09:00</guid>
+      <pubDate>Tue, 22 Sep 2026 09:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:17 am</title>
       <description>I70EB / MOUNT PHILLIP RD, I70WB / MOUNT PHILLIP RD Radio: 9B Units: E121, E31, R3, A78, A38</description>
@@ -294,18 +306,6 @@
       <description>MONARCH RIDGE RD / BLUEWING CT Radio: 9D Units: E121, R3, A129, ALS4, EMS901</description>
       <guid isPermaLink="false">2026-09-19 22:55:00</guid>
       <pubDate>Sat, 19 Sep 2026 22:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:30 pm</title>
-      <description>16300 BLOCK GROTTO RD, NATIONAL SHRINE GROTTO OF OUR LADY OF LOURDES Radio: 9C Units: E61</description>
-      <guid isPermaLink="false">2026-09-19 21:30:00</guid>
-      <pubDate>Sat, 19 Sep 2026 21:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 9:04 pm</title>
-      <description>1900 BLOCK S KEYSVILLE RD Units: E132</description>
-      <guid isPermaLink="false">2026-09-19 21:04:00</guid>
-      <pubDate>Sat, 19 Sep 2026 21:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
