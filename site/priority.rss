@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 22 Sep 2026 15:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:33:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 11:23 am</title>
+      <description>RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST — units: E31, E501, R3, A38, A129, PE23, BC902, EMS901</description>
+      <guid isPermaLink="false">2026-09-22 11:23:00|RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST</guid>
+      <pubDate>Tue, 22 Sep 2026 11:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 9:09 am</title>
       <description>1400 BLOCK PINEWOOD DR — units: PE23, E501, E31, E111, PE311, R3, TT4, A129, ALS2, BC901, BC902, SAF901</description>
@@ -156,12 +162,6 @@
       <description>ATLAS DR / BAUGHMANS LN — units: A18, ALS2, E11, EMS902</description>
       <guid isPermaLink="false">2026-09-13 18:18:00|ATLAS DR / BAUGHMANS LN</guid>
       <pubDate>Sun, 13 Sep 2026 18:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 5:21 pm (16 units, 2 updates)</title>
-      <description>7000 BLOCK EAGLE CT — units: E251, E152, E172, E331, E111, R15, Q11, R24, A159, ALS2, BC901, BC903, SAF901, R2, R3, A259 (first reported 5:21 pm)</description>
-      <guid isPermaLink="false">2026-09-13 17:21:00|7000 BLOCK EAGLE CT</guid>
-      <pubDate>Sun, 13 Sep 2026 17:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
