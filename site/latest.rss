@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 14:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:04:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:54 am</title>
+      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: A37</description>
+      <guid isPermaLink="false">2026-09-23 10:54:00</guid>
+      <pubDate>Wed, 23 Sep 2026 10:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:50 am</title>
+      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: R2</description>
+      <guid isPermaLink="false">2026-09-23 10:50:00</guid>
+      <pubDate>Wed, 23 Sep 2026 10:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:45 am</title>
+      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: A18, E291</description>
+      <guid isPermaLink="false">2026-09-23 10:45:00</guid>
+      <pubDate>Wed, 23 Sep 2026 10:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 10:39 am</title>
+      <description>1700 BLOCK KINGFISHER DR, Bldg:B, Apt/Unit:12, VERIZON - THE SHOPS AT MONOCACY Radio: 9C Units: E111, E162, TT4</description>
+      <guid isPermaLink="false">2026-09-23 10:39:00</guid>
+      <pubDate>Wed, 23 Sep 2026 10:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 10:26 am</title>
       <description>1500 BLOCK TILCO DR, Apt/Unit:119 Radio: 9C Units: E23, E311, R3</description>
@@ -282,30 +306,6 @@
       <description>I70WB / 46MM, I70WB / 46MM Radio: 9B Units: E121, E72, R8, A19, A89</description>
       <guid isPermaLink="false">2026-09-21 00:20:00</guid>
       <pubDate>Mon, 21 Sep 2026 00:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:15 pm</title>
-      <description>3800 BLOCK BRAVEHEART DR Radio: 9C Units: E231</description>
-      <guid isPermaLink="false">2026-09-20 23:15:00</guid>
-      <pubDate>Sun, 20 Sep 2026 23:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:33 pm</title>
-      <description>BURKITTSVILLE RD / 340E @ RT17 PIKE, RT17 / RT180 Radio: 9B Units: A198, PE52</description>
-      <guid isPermaLink="false">2026-09-20 22:33:00</guid>
-      <pubDate>Sun, 20 Sep 2026 22:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:24 pm</title>
-      <description>200 BLOCK E THIRD ST Radio: 9C Units: E31, PE23, R3</description>
-      <guid isPermaLink="false">2026-09-20 22:24:00</guid>
-      <pubDate>Sun, 20 Sep 2026 22:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:27 pm</title>
-      <description>RT40 / OLD CAMP RD, RT40 / OLD CAMP RD Radio: 9D Units: A129, ALS4, E121, EMS902</description>
-      <guid isPermaLink="false">2026-09-20 20:27:00</guid>
-      <pubDate>Sun, 20 Sep 2026 20:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
