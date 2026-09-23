@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 02:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:40:34 +0000</lastBuildDate>
     <item>
       <title>LARGE FUEL SPILL: 12:12 pm</title>
       <description>100 BLOCK LINDEN AVE — units: E501, E31, HM33, HMSU33, BC903, SAF901</description>
@@ -144,12 +144,6 @@
       <description>100 BLOCK N PENDLETON CT — units: E11, PE23, E501, PE311, E121, R3, TW1, A18, ALS4, BC903, BC902, SAF901, Q11 (first reported 8:52 pm)</description>
       <guid isPermaLink="false">2026-09-14 20:52:00|100 BLOCK N PENDLETON CT</guid>
       <pubDate>Mon, 14 Sep 2026 20:55:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:33 am</title>
-      <description>I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK — units: E231, PE311, R3, A319, A239, ALS23, EMS902</description>
-      <guid isPermaLink="false">2026-09-14 10:33:00|I270NB / SCENIC OVERLOOK, I270NB / SCENIC OVERLOOK</guid>
-      <pubDate>Mon, 14 Sep 2026 10:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
