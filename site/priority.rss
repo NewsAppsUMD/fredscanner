@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 19:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:32:24 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:05 am</title>
       <description>BALLENGER CREEK PIKE / BALLENGER CENTER DR — units: E311, R3, A319, ALS31, BC903, EMS902</description>
@@ -144,12 +144,6 @@
       <description>100 BLOCK MONROE AVE — units: E31, PE23, E331, PE311, E501, R3, TT4, TW1, A37, ALS4, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-09-15 19:38:00|100 BLOCK MONROE AVE</guid>
       <pubDate>Tue, 15 Sep 2026 19:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:52 pm (13 units, 2 updates)</title>
-      <description>100 BLOCK N PENDLETON CT — units: E11, PE23, E501, PE311, E121, R3, TW1, A18, ALS4, BC903, BC902, SAF901, Q11 (first reported 8:52 pm)</description>
-      <guid isPermaLink="false">2026-09-14 20:52:00|100 BLOCK N PENDLETON CT</guid>
-      <pubDate>Mon, 14 Sep 2026 20:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
