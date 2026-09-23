@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 23 Sep 2026 16:04:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:36:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:09 pm</title>
+      <description>500 BLOCK HIMES AVE Radio: 9C Units: E311, TW1</description>
+      <guid isPermaLink="false">2026-09-23 12:09:00</guid>
+      <pubDate>Wed, 23 Sep 2026 12:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:46 am</title>
       <description>100 BLOCK STEINER WAY, Bldg:4, SINCLAIRE WAY Radio: 9C Units: E23</description>
@@ -300,12 +306,6 @@
       <description>6300 BLOCK RUTHERFORD CT, Apt/Unit:C Units: PE311</description>
       <guid isPermaLink="false">2026-09-21 02:39:00</guid>
       <pubDate>Mon, 21 Sep 2026 02:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:11 am</title>
-      <description>RT17 / BRENTLAND RD, RT17 / BRENTLAND RD Radio: 9C Units: BR55</description>
-      <guid isPermaLink="false">2026-09-21 02:11:00</guid>
-      <pubDate>Mon, 21 Sep 2026 02:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
