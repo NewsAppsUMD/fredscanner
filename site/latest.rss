@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 01:43:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 02:06:46 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 9:57 pm</title>
+      <description>OLD BUCKLODGE LN / BUCKLODGE RD Radio: 7A4 Units: A259</description>
+      <guid isPermaLink="false">2026-09-23 21:57:00</guid>
+      <pubDate>Wed, 23 Sep 2026 21:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:55 pm</title>
+      <description>OLD BUCKLODGE LN / BUCKLODGE RD Radio: 7A4 Units: A239, ALS23, TT23</description>
+      <guid isPermaLink="false">2026-09-23 21:55:00</guid>
+      <pubDate>Wed, 23 Sep 2026 21:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 9:54 pm</title>
+      <description>OLD BUCKLODGE LN / BUCKLODGE RD Radio: 7A4 Units: K23</description>
+      <guid isPermaLink="false">2026-09-23 21:54:00</guid>
+      <pubDate>Wed, 23 Sep 2026 21:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:49 pm</title>
       <description>2500 BLOCK SHELLEY CIR, Apt/Unit:3S, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11</description>
@@ -288,24 +306,6 @@
       <description>100 BLOCK WYNN HILL CT Radio: 9C Units: E153</description>
       <guid isPermaLink="false">2026-09-21 22:52:00</guid>
       <pubDate>Mon, 21 Sep 2026 22:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:21 pm</title>
-      <description>5000 BLOCK WESTVIEW DR, TOWNEPLACE SUITES BY MARRIOTT Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-09-21 20:21:00</guid>
-      <pubDate>Mon, 21 Sep 2026 20:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:37 pm</title>
-      <description>1500 BLOCK W PATRICK ST, IAO Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-09-21 17:37:00</guid>
-      <pubDate>Mon, 21 Sep 2026 17:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:32 pm</title>
-      <description>5100 BLOCK IRONSIDES DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-09-21 17:32:00</guid>
-      <pubDate>Mon, 21 Sep 2026 17:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
