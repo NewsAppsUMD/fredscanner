@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 16:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:36:14 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:24 pm</title>
+      <description>100 BLOCK S MARKET ST, Apt/Unit:B Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-09-24 12:24:00</guid>
+      <pubDate>Thu, 24 Sep 2026 12:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:43 am</title>
       <description>100 BLOCK W MIDDLE RD Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>9400 BLOCK CORNWELL MEADOW ST, PH2 Radio: 9C Units: E231</description>
       <guid isPermaLink="false">2026-09-22 11:48:00</guid>
       <pubDate>Tue, 22 Sep 2026 11:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 11:43 am</title>
-      <description>7100 BLOCK OBERLIN CIR Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-09-22 11:43:00</guid>
-      <pubDate>Tue, 22 Sep 2026 11:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
