@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 24 Sep 2026 12:06:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:44:51 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:24 am</title>
+      <description>11900 BLOCK CLYDE YOUNG RD Radio: 9C Units: BR96</description>
+      <guid isPermaLink="false">2026-09-24 08:24:00</guid>
+      <pubDate>Thu, 24 Sep 2026 08:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 8:02 am</title>
       <description>2000 BLOCK BUTTERFIELD OVERLOOK Radio: 9C Units: E291, E501, R3</description>
@@ -300,12 +306,6 @@
       <description>I70EB / I270, I70EB / I270 Radio: 9B Units: A129, E501</description>
       <guid isPermaLink="false">2026-09-22 10:00:00</guid>
       <pubDate>Tue, 22 Sep 2026 10:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:14 am</title>
-      <description>13000 BLOCK MINK FARM RD Radio: 9C Units: BR216</description>
-      <guid isPermaLink="false">2026-09-22 09:14:00</guid>
-      <pubDate>Tue, 22 Sep 2026 09:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
