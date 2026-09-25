@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 16:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:03:18 +0000</lastBuildDate>
     <item>
       <title>BUILDING FIRE: 7:02 am</title>
       <description>100 BLOCK S MARKET ST, Bldg:A, CARRIAGE HOUSE APTS — units: E31, PE23, PE311, E11, E501, R3, TT4, A37, ALS4, BC901, BC902, SAF901</description>
@@ -144,12 +144,6 @@
       <description>15300 BLOCK SABILLASVILLE RD — units: PE102, TW6, A69, ALS30, EMS902</description>
       <guid isPermaLink="false">2026-09-16 17:08:00|15300 BLOCK SABILLASVILLE RD</guid>
       <pubDate>Wed, 16 Sep 2026 17:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:38 pm</title>
-      <description>LIBERTY RD / CLEMSONVILLE RD — units: E172, A179, ALS17, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-09-16 12:38:00|LIBERTY RD / CLEMSONVILLE RD</guid>
-      <pubDate>Wed, 16 Sep 2026 12:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
