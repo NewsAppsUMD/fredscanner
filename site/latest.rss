@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 25 Sep 2026 16:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:36:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:30 pm</title>
+      <description>EAGLEHEAD DR / OLD NATIONAL PIKE Radio: 9B Units: A339, E331</description>
+      <guid isPermaLink="false">2026-09-25 12:30:00</guid>
+      <pubDate>Fri, 25 Sep 2026 12:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 12:26 pm</title>
+      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-09-25 12:26:00</guid>
+      <pubDate>Fri, 25 Sep 2026 12:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:03 pm</title>
+      <description>MADISON ST / CARROLLTON DR Radio: 9B Units: A29</description>
+      <guid isPermaLink="false">2026-09-25 12:03:00</guid>
+      <pubDate>Fri, 25 Sep 2026 12:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:57 am</title>
       <description>MADISON ST / CARROLLTON DR Radio: 9B Units: A37, TT4</description>
@@ -288,24 +306,6 @@
       <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: A37</description>
       <guid isPermaLink="false">2026-09-23 10:54:00</guid>
       <pubDate>Wed, 23 Sep 2026 10:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:50 am</title>
-      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: R2</description>
-      <guid isPermaLink="false">2026-09-23 10:50:00</guid>
-      <pubDate>Wed, 23 Sep 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:45 am</title>
-      <description>THOMAS JOHNSON DR / OPOSSUMTOWN PIKE Radio: 9B Units: A18, E291</description>
-      <guid isPermaLink="false">2026-09-23 10:45:00</guid>
-      <pubDate>Wed, 23 Sep 2026 10:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 10:39 am</title>
-      <description>1700 BLOCK KINGFISHER DR, Bldg:B, Apt/Unit:12, VERIZON - THE SHOPS AT MONOCACY Radio: 9C Units: E111, E162, TT4</description>
-      <guid isPermaLink="false">2026-09-23 10:39:00</guid>
-      <pubDate>Wed, 23 Sep 2026 10:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
