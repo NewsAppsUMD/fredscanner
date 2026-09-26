@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 21:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:31:53 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 5:17 pm</title>
+      <description>3600 BLOCK PETERSVILLE RD Radio: 9C Units: BR55</description>
+      <guid isPermaLink="false">2026-09-26 17:17:00</guid>
+      <pubDate>Sat, 26 Sep 2026 17:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:10 pm</title>
+      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL Radio: 9C Units: E291, TW11</description>
+      <guid isPermaLink="false">2026-09-26 17:10:00</guid>
+      <pubDate>Sat, 26 Sep 2026 17:10:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:03 pm</title>
+      <description>4500 BLOCK MOUNT BRIAR RD Units: R19</description>
+      <guid isPermaLink="false">2026-09-26 17:03:00</guid>
+      <pubDate>Sat, 26 Sep 2026 17:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 4:29 pm</title>
       <description>600 BLOCK GILLESPIE DR Radio: 9C Units: E11, E501</description>
@@ -288,24 +306,6 @@
       <description>8600 BLOCK RANDELL RIDGE RD Radio: 9C Units: E331</description>
       <guid isPermaLink="false">2026-09-24 14:33:00</guid>
       <pubDate>Thu, 24 Sep 2026 14:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:51 pm</title>
-      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9D Units: E141</description>
-      <guid isPermaLink="false">2026-09-24 13:51:00</guid>
-      <pubDate>Thu, 24 Sep 2026 13:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 1:46 pm</title>
-      <description>RT15 / MOUNTVILLE RD, RT15 / MOUNTVILLE RD Radio: 9D Units: E201, R20, A209, ALS20, EMS901</description>
-      <guid isPermaLink="false">2026-09-24 13:46:00</guid>
-      <pubDate>Thu, 24 Sep 2026 13:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:24 pm</title>
-      <description>100 BLOCK S MARKET ST, Apt/Unit:B Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-09-24 12:24:00</guid>
-      <pubDate>Thu, 24 Sep 2026 12:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
