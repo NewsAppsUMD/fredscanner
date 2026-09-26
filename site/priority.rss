@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 26 Sep 2026 01:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:41:04 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 9:26 pm (6 units, 2 updates)</title>
+      <description>100 BLOCK HOPE CIR, IFO — units: A38, ALS2, E31, BC901, EMS901, PE23 (first reported 9:26 pm)</description>
+      <guid isPermaLink="false">2026-09-25 21:26:00|100 BLOCK HOPE CIR, IFO</guid>
+      <pubDate>Fri, 25 Sep 2026 21:31:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 8:40 pm</title>
       <description>WILLOWDALE DR / KEY PKWY — units: A19, ALS4, E11, EMS902</description>
@@ -150,12 +156,6 @@
       <description>100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS — units: E102</description>
       <guid isPermaLink="false">2026-09-16 17:26:00|100 BLOCK E MAIN ST, THURMONT CARNIVAL GROUNDS</guid>
       <pubDate>Wed, 16 Sep 2026 17:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 5:08 pm</title>
-      <description>15300 BLOCK SABILLASVILLE RD — units: PE102, TW6, A69, ALS30, EMS902</description>
-      <guid isPermaLink="false">2026-09-16 17:08:00|15300 BLOCK SABILLASVILLE RD</guid>
-      <pubDate>Wed, 16 Sep 2026 17:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
