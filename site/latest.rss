@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 28 Sep 2026 19:33:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:04:19 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 3:45 pm</title>
+      <description>W PATRICK ST / N MCCAIN DR Radio: 9D Units: A18, ALS4, TT4, EMS902</description>
+      <guid isPermaLink="false">2026-09-28 15:45:00</guid>
+      <pubDate>Mon, 28 Sep 2026 15:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:42 pm</title>
+      <description>2500 BLOCK SHELLEY CIR, RIDGEVIEW CONDOS - 2500 BLOCK SHELLEY CIR Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-09-28 15:42:00</guid>
+      <pubDate>Mon, 28 Sep 2026 15:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:35 pm</title>
       <description>6000 BLOCK CALLA PL Radio: 9C Units: E11</description>
@@ -294,18 +306,6 @@
       <description>WILLOWDALE DR / KEY PKWY Radio: 9D Units: A19, ALS4, E11, EMS902</description>
       <guid isPermaLink="false">2026-09-25 20:40:00</guid>
       <pubDate>Fri, 25 Sep 2026 20:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:38 pm</title>
-      <description>3900 BLOCK URBANA PIKE Radio: 9B Units: A239, TT23</description>
-      <guid isPermaLink="false">2026-09-25 18:38:00</guid>
-      <pubDate>Fri, 25 Sep 2026 18:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:57 pm</title>
-      <description>3300 BLOCK ECLIPSE CT Radio: 9C Units: E281</description>
-      <guid isPermaLink="false">2026-09-25 17:57:00</guid>
-      <pubDate>Fri, 25 Sep 2026 17:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
