@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 13:07:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:39:20 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:29 am</title>
+      <description>100 BLOCK BURGESS HILL WAY, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11</description>
+      <guid isPermaLink="false">2026-09-29 09:29:00</guid>
+      <pubDate>Tue, 29 Sep 2026 09:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:58 am</title>
       <description>1700 BLOCK DITTO AVE, FORT DETRICK - CHAPEL Radio: 9C Units: E501, TW1</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK E FOURTH ST Radio: 9C Units: E31</description>
       <guid isPermaLink="false">2026-09-26 15:00:00</guid>
       <pubDate>Sat, 26 Sep 2026 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 2:59 pm</title>
-      <description>200 BLOCK E FOURTH ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-09-26 14:59:00</guid>
-      <pubDate>Sat, 26 Sep 2026 14:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
