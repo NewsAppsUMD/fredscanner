@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 29 Sep 2026 15:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:05:01 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 12:01 pm</title>
+      <description>900 BLOCK FOUNDRY ST Radio: 9C Units: E31, E331, R3</description>
+      <guid isPermaLink="false">2026-09-29 12:01:00</guid>
+      <pubDate>Tue, 29 Sep 2026 12:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 11:09 am</title>
       <description>5700 BLOCK BUCKEYSTOWN PIKE, THE LUBE CENTER - EVERGREEN POINT Radio: 9C Units: PE311, TT4</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK GILLESPIE DR Radio: 9C Units: E11, E501</description>
       <guid isPermaLink="false">2026-09-26 16:29:00</guid>
       <pubDate>Sat, 26 Sep 2026 16:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 3:49 pm</title>
-      <description>700 BLOCK COMPASS WAY Radio: 9C Units: E31, TT4</description>
-      <guid isPermaLink="false">2026-09-26 15:49:00</guid>
-      <pubDate>Sat, 26 Sep 2026 15:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
