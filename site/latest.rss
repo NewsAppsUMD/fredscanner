@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 18:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:04:22 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 2:47 pm</title>
+      <description>CRESTWOOD BLVD / EDENTON CT Radio: 9I Units: A319, PE311, EMS901</description>
+      <guid isPermaLink="false">2026-09-30 14:47:00</guid>
+      <pubDate>Wed, 30 Sep 2026 14:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 2:15 pm</title>
       <description>7800 BLOCK WORMANS MILL RD, Bldg:A, TRO BLDG IAO REAR OF MASAGE ENVY Radio: 9C Units: E111</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK BURGESS HILL WAY, CREEKSIDE AT TASKERS CHANCE - 100 BLOCK BURGESS HILL WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-09-29 08:33:00</guid>
       <pubDate>Tue, 29 Sep 2026 08:33:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ALARM: 7:43 am</title>
-      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: PE311, TT4, HM33, BC901</description>
-      <guid isPermaLink="false">2026-09-29 07:43:00</guid>
-      <pubDate>Tue, 29 Sep 2026 07:43:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
