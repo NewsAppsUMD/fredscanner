@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 18:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:40:50 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 2:15 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, Bldg:A, TRO BLDG IAO REAR OF MASAGE ENVY Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-09-30 14:15:00</guid>
+      <pubDate>Wed, 30 Sep 2026 14:15:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:12 pm</title>
+      <description>ENGLISH MUFFIN WAY / BUCKEYSTOWN PIKE Radio: 9B Units: A318, PE311</description>
+      <guid isPermaLink="false">2026-09-30 14:12:00</guid>
+      <pubDate>Wed, 30 Sep 2026 14:12:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:54 pm</title>
       <description>1000 BLOCK W SEVENTH ST Radio: 9B Units: A38, PE23</description>
@@ -294,18 +306,6 @@
       <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC Radio: 9C Units: PE311, TT4, HM33, BC901</description>
       <guid isPermaLink="false">2026-09-29 07:43:00</guid>
       <pubDate>Tue, 29 Sep 2026 07:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:49 pm</title>
-      <description>2500 BLOCK EMERSON DR Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-09-28 23:49:00</guid>
-      <pubDate>Mon, 28 Sep 2026 23:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:38 pm</title>
-      <description>RT40A / N CLIFTON RD, RT40A / N CLIFTON RD Radio: 9B Units: A129, E121</description>
-      <guid isPermaLink="false">2026-09-28 19:38:00</guid>
-      <pubDate>Mon, 28 Sep 2026 19:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
