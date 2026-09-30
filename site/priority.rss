@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 30 Sep 2026 13:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:05:02 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 9:07 am (14 units, 2 updates)</title>
+      <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:2201, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL — units: E331, E31, E153, E11, PE251, R3, T4, A339, ALS4, BC901, BC902, SAF900, A38, ALS31 (first reported 9:07 am)</description>
+      <guid isPermaLink="false">2026-09-30 09:07:00|6100 BLOCK SPRINGWATER PL, Apt/Unit:2201, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL</guid>
+      <pubDate>Wed, 30 Sep 2026 09:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 8:38 am</title>
       <description>RT15 / 7MM, RT15 / 7MM — units: E201, R20, A209, ALS20, EMS902</description>
@@ -204,12 +210,6 @@
       <description>I270NB / 29MM, I270NB / 29MM — units: E231, PE311, R3, A239, A37, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-09-20 07:17:00|I270NB / 29MM, I270NB / 29MM</guid>
       <pubDate>Sun, 20 Sep 2026 07:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 10:55 pm</title>
-      <description>MONARCH RIDGE RD / BLUEWING CT — units: E121, R3, A129, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-09-19 22:55:00|MONARCH RIDGE RD / BLUEWING CT</guid>
-      <pubDate>Sat, 19 Sep 2026 22:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
