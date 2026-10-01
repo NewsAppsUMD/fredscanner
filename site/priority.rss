@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 19:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:04:55 +0000</lastBuildDate>
     <item>
       <title>MOTORCYCLE ACCIDENT: 1:14 pm</title>
       <description>BOYERS MILL RD / FINN DR — units: E251, R15, A37, ALS23, EMS902</description>
@@ -216,12 +216,6 @@
       <description>RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST — units: E31, E501, R3, A38, A129, PE23, BC902, EMS901</description>
       <guid isPermaLink="false">2026-09-22 11:23:00|RT15NB / W PATRICK ST(RT40), RT15NB / W PATRICK ST</guid>
       <pubDate>Tue, 22 Sep 2026 11:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 9:09 am</title>
-      <description>1400 BLOCK PINEWOOD DR — units: PE23, E501, E31, E111, PE311, R3, TT4, A129, ALS2, BC901, BC902, SAF901</description>
-      <guid isPermaLink="false">2026-09-22 09:09:00|1400 BLOCK PINEWOOD DR</guid>
-      <pubDate>Tue, 22 Sep 2026 09:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
