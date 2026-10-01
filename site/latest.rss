@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 11:35:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:07:08 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:01 am</title>
+      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, TT23</description>
+      <guid isPermaLink="false">2026-10-01 08:01:00</guid>
+      <pubDate>Thu, 01 Oct 2026 08:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:25 am</title>
       <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9D Units: E121, R3, A129, ALS4, BC903, EMS901, ADMINDC900</description>
@@ -300,12 +306,6 @@
       <description>7300 BLOCK HOLTER RD, REMSBURG PARK Radio: 9I Units: E72, E121, R20, EMSUTV31, A78, A129, ALS20, BR75, BC903, SAF901, EMS900</description>
       <guid isPermaLink="false">2026-09-29 18:51:00</guid>
       <pubDate>Tue, 29 Sep 2026 18:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 6:49 pm</title>
-      <description>9000 BLOCK OLD HAGERSTOWN RD Radio: 9D Units: E82, RE74, A89, ALS8, EMS901</description>
-      <guid isPermaLink="false">2026-09-29 18:49:00</guid>
-      <pubDate>Tue, 29 Sep 2026 18:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
