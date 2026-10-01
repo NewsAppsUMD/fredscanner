@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 01 Oct 2026 16:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:36:25 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 12:32 pm</title>
+      <description>5100 BLOCK DARTMOOR PL Radio: 9C Units: PE311, E31, R3</description>
+      <guid isPermaLink="false">2026-10-01 12:32:00</guid>
+      <pubDate>Thu, 01 Oct 2026 12:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 11:53 am</title>
       <description>100 BLOCK KINGS DR Units: TW6</description>
@@ -300,12 +306,6 @@
       <description>I70WB / MOUNT TABOR RD Radio: 9D Units: E82, RE74, A89, ALS31, EMS901</description>
       <guid isPermaLink="false">2026-09-30 06:56:00</guid>
       <pubDate>Wed, 30 Sep 2026 06:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:54 am</title>
-      <description>MEADOW RD / HALL RD, IAO Radio: 9B Units: A339, E331</description>
-      <guid isPermaLink="false">2026-09-30 05:54:00</guid>
-      <pubDate>Wed, 30 Sep 2026 05:54:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
