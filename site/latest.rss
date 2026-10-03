@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 16:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:42:32 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:26 pm</title>
+      <description>1000 BLOCK CAPISTRANO CT, Apt/Unit:308, PROSPECT HALL APARTMENTS - 1000 BLOCK CAPISTRANO CT Radio: 9C Units: PE311, TW1</description>
+      <guid isPermaLink="false">2026-10-03 13:26:00</guid>
+      <pubDate>Sat, 03 Oct 2026 13:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 12:42 pm</title>
+      <description>4900 BLOCK CLARENDON TER Radio: 9D Units: E31, E141, E201, E501, E121, R20, TW1, R2, A38, ALS31, BC901, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-10-03 12:42:00</guid>
+      <pubDate>Sat, 03 Oct 2026 12:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 12:38 pm</title>
+      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK Radio: 9C Units: TT4, PE311</description>
+      <guid isPermaLink="false">2026-10-03 12:38:00</guid>
+      <pubDate>Sat, 03 Oct 2026 12:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:50 am</title>
       <description>W SOUTH ST / S JEFFERSON ST Radio: 9B Units: A38, TT4</description>
@@ -288,24 +306,6 @@
       <description>10500 BLOCK COOK BROTHERS RD Radio: 9C Units: E251</description>
       <guid isPermaLink="false">2026-10-01 12:44:00</guid>
       <pubDate>Thu, 01 Oct 2026 12:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 12:32 pm</title>
-      <description>5100 BLOCK DARTMOOR PL Radio: 9C Units: PE311, E31, R3</description>
-      <guid isPermaLink="false">2026-10-01 12:32:00</guid>
-      <pubDate>Thu, 01 Oct 2026 12:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 11:53 am</title>
-      <description>100 BLOCK KINGS DR Units: TW6</description>
-      <guid isPermaLink="false">2026-10-01 11:53:00</guid>
-      <pubDate>Thu, 01 Oct 2026 11:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 11:50 am</title>
-      <description>CALICO ROCKS CAMPGROUND, CALICO ROCKS CAMPGROUND Radio: 9D Units: EMSUTV31</description>
-      <guid isPermaLink="false">2026-10-01 11:50:00</guid>
-      <pubDate>Thu, 01 Oct 2026 11:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
