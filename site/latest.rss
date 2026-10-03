@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Oct 2026 01:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:45:42 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:25 pm</title>
+      <description>N CHURCH ST / W GREEN ST, ASIAN CAFE Radio: 9B Units: A129, ALS8</description>
+      <guid isPermaLink="false">2026-10-02 21:25:00</guid>
+      <pubDate>Fri, 02 Oct 2026 21:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:20 pm</title>
+      <description>N CHURCH ST / W GREEN ST, ASIAN CAFE Radio: 9B Units: A129, RE74</description>
+      <guid isPermaLink="false">2026-10-02 21:20:00</guid>
+      <pubDate>Fri, 02 Oct 2026 21:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:16 pm</title>
+      <description>500 BLOCK W SOUTH ST, Apt/Unit:412, THE JUNCTION APARTMENTS Radio: 9C Units: E31, TT4</description>
+      <guid isPermaLink="false">2026-10-02 21:16:00</guid>
+      <pubDate>Fri, 02 Oct 2026 21:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 5:56 pm</title>
       <description>RT77 / CATOCTIN HOLLOW RD, RT77 / CATOCTIN HOLLOW RD Radio: 9D Units: PE102, R10, A309, ALS30, BC902, EMS902</description>
@@ -288,24 +306,6 @@
       <description>3600 BLOCK QUANTUM PL S Radio: 9D Units: PE311, R14, A149, ALS20, BC903, EMS901</description>
       <guid isPermaLink="false">2026-10-01 08:38:00</guid>
       <pubDate>Thu, 01 Oct 2026 08:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:01 am</title>
-      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET Radio: 9C Units: E141, TT23</description>
-      <guid isPermaLink="false">2026-10-01 08:01:00</guid>
-      <pubDate>Thu, 01 Oct 2026 08:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 7:25 am</title>
-      <description>OLD NATIONAL PIKE / OLD CAMP RD Radio: 9D Units: E121, R3, A129, ALS4, BC903, EMS901, ADMINDC900</description>
-      <guid isPermaLink="false">2026-10-01 07:25:00</guid>
-      <pubDate>Thu, 01 Oct 2026 07:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:14 am</title>
-      <description>6600 BLOCK HAYDOWN CT Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-10-01 07:14:00</guid>
-      <pubDate>Thu, 01 Oct 2026 07:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
