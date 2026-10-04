@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 21:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 22:03:57 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:50 pm</title>
+      <description>WESTVIEW DR / CRESTWOOD BLVD Radio: 9B Units: A319, PE311</description>
+      <guid isPermaLink="false">2026-10-04 17:50:00</guid>
+      <pubDate>Sun, 04 Oct 2026 17:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:18 pm</title>
       <description>500 BLOCK WASHINGTON AVE, STATION WCE004 - WESTERN ENTERPRISE FC Units: RE74</description>
@@ -300,12 +306,6 @@
       <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: A19, TT4</description>
       <guid isPermaLink="false">2026-10-02 17:48:00</guid>
       <pubDate>Fri, 02 Oct 2026 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 5:01 pm</title>
-      <description>300 BLOCK N MARKET ST, OLDE TOWN TAVERN Radio: 9C Units: BR35</description>
-      <guid isPermaLink="false">2026-10-02 17:01:00</guid>
-      <pubDate>Fri, 02 Oct 2026 17:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
