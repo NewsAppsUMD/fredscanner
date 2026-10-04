@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 04 Oct 2026 18:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 19:58:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 3:20 pm</title>
+      <description>RT15NB / 27MM Radio: 9C Units: PE102, E61, E221</description>
+      <guid isPermaLink="false">2026-10-04 15:20:00</guid>
+      <pubDate>Sun, 04 Oct 2026 15:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
+      <description>URBANA PIKE / MOTT RD Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-10-04 15:08:00</guid>
+      <pubDate>Sun, 04 Oct 2026 15:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:03 pm</title>
+      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: A38</description>
+      <guid isPermaLink="false">2026-10-04 15:03:00</guid>
+      <pubDate>Sun, 04 Oct 2026 15:03:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
+      <description>I70EB / RT85(RT85), I70EB / RT85 Radio: 9B Units: E11, E31, R3, A19, A38</description>
+      <guid isPermaLink="false">2026-10-04 14:35:00</guid>
+      <pubDate>Sun, 04 Oct 2026 14:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:30 pm</title>
       <description>TALBOT RUN RD / WOODVILLE RD Radio: 9B Units: A179, E172</description>
@@ -282,30 +306,6 @@
       <description>1300 BLOCK(1401) BLK N EAST ST Radio: 9C Units: E31, T4</description>
       <guid isPermaLink="false">2026-10-02 11:04:00</guid>
       <pubDate>Fri, 02 Oct 2026 11:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:03 am</title>
-      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9B Units: A229, A68</description>
-      <guid isPermaLink="false">2026-10-02 11:03:00</guid>
-      <pubDate>Fri, 02 Oct 2026 11:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:51 am</title>
-      <description>RT15SB / S SETON AVE, RT15SB / S SETON AVE Radio: 9B Units: PE102</description>
-      <guid isPermaLink="false">2026-10-02 10:51:00</guid>
-      <pubDate>Fri, 02 Oct 2026 10:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:43 am</title>
-      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE Radio: 9B Units: A69, E61</description>
-      <guid isPermaLink="false">2026-10-02 10:43:00</guid>
-      <pubDate>Fri, 02 Oct 2026 10:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:34 am</title>
-      <description>6500 BLOCK MERCANTILE DR E, FREDERICK PEDIATRIC ASSOCIATES - MERCANTILE DR - FREDERICK Radio: 9C Units: PE311, WCQ27</description>
-      <guid isPermaLink="false">2026-10-02 10:34:00</guid>
-      <pubDate>Fri, 02 Oct 2026 10:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
