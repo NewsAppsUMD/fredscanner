@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 15:36:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:05:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:55 am</title>
+      <description>WORTHINGTON BLVD / URBANA PIKE Radio: 9B Units: A259, TT23</description>
+      <guid isPermaLink="false">2026-10-06 11:55:00</guid>
+      <pubDate>Tue, 06 Oct 2026 11:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:41 am</title>
+      <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: PE311</description>
+      <guid isPermaLink="false">2026-10-06 11:41:00</guid>
+      <pubDate>Tue, 06 Oct 2026 11:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:39 am</title>
+      <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR Radio: 9C Units: E11, TT4</description>
+      <guid isPermaLink="false">2026-10-06 11:39:00</guid>
+      <pubDate>Tue, 06 Oct 2026 11:39:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - EJECTION: 11:20 am</title>
       <description>13700 BLOCK JACOBS RD Radio: 9D Units: E152, BC901, EMS902</description>
@@ -288,24 +306,6 @@
       <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: A38</description>
       <guid isPermaLink="false">2026-10-04 15:03:00</guid>
       <pubDate>Sun, 04 Oct 2026 15:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:35 pm</title>
-      <description>I70EB / RT85(RT85), I70EB / RT85 Radio: 9B Units: E11, E31, R3, A19, A38</description>
-      <guid isPermaLink="false">2026-10-04 14:35:00</guid>
-      <pubDate>Sun, 04 Oct 2026 14:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:30 pm</title>
-      <description>TALBOT RUN RD / WOODVILLE RD Radio: 9B Units: A179, E172</description>
-      <guid isPermaLink="false">2026-10-04 13:30:00</guid>
-      <pubDate>Sun, 04 Oct 2026 13:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:27 pm</title>
-      <description>RT144 / JESSE SMITH RD, Apt/Unit:HTTPS://A91.IO/71TYE, RT144 / JESSE SMITH RD Radio: 9B Units: A158, E152</description>
-      <guid isPermaLink="false">2026-10-04 13:27:00</guid>
-      <pubDate>Sun, 04 Oct 2026 13:27:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
