@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 13:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:04:40 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:46 am</title>
+      <description>11800 BLOCK CASH SMITH RD Radio: 9C Units: E91, TW11</description>
+      <guid isPermaLink="false">2026-10-06 09:46:00</guid>
+      <pubDate>Tue, 06 Oct 2026 09:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 9:46 am</title>
+      <description>6100 BLOCK HEATHMEADOW DR Radio: 9C Units: E331</description>
+      <guid isPermaLink="false">2026-10-06 09:46:00</guid>
+      <pubDate>Tue, 06 Oct 2026 09:46:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:02 am</title>
       <description>I70EB / EXIT 59 (RT144 NEWM), I70EB / EXIT 59 Radio: 9B Units: A38, E33</description>
@@ -294,18 +306,6 @@
       <description>I70WB / BILL MOXLEY RD, I70EB / PLANE #4 Radio: 9B Units: E152, A259</description>
       <guid isPermaLink="false">2026-10-04 12:11:00</guid>
       <pubDate>Sun, 04 Oct 2026 12:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:34 am</title>
-      <description>FRY RD / LANDER RD Radio: 9D Units: E201, R20, A209, ALS20, EMS901</description>
-      <guid isPermaLink="false">2026-10-04 11:34:00</guid>
-      <pubDate>Sun, 04 Oct 2026 11:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:14 am</title>
-      <description>100 BLOCK N CHURCH ST, LOVETTSVILLE POST OFFICE Radio: 6B Units: T5</description>
-      <guid isPermaLink="false">2026-10-04 11:14:00</guid>
-      <pubDate>Sun, 04 Oct 2026 11:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
