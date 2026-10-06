@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 12:06:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:46:31 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:41 am</title>
+      <description>I70EB / EXIT 59 (RT144 NEWM), I70EB / EXIT 59 Radio: 9D Units: E331, E152, R15, A158, A38, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-10-06 08:41:00</guid>
+      <pubDate>Tue, 06 Oct 2026 08:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:35 am</title>
+      <description>3600 BLOCK KEMPTOWN CHURCH RD Radio: 9C Units: PE251</description>
+      <guid isPermaLink="false">2026-10-06 08:35:00</guid>
+      <pubDate>Tue, 06 Oct 2026 08:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:30 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-10-06 08:30:00</guid>
+      <pubDate>Tue, 06 Oct 2026 08:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:18 am</title>
       <description>I270SB / RT80, I270SB / RT80 Radio: 9B Units: E231, PE251, R3, A318, A259, TT23</description>
@@ -288,24 +306,6 @@
       <description>4600 BLOCK PLUM RD Radio: 9C Units: PE251</description>
       <guid isPermaLink="false">2026-10-04 09:09:00</guid>
       <pubDate>Sun, 04 Oct 2026 09:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 4:40 am</title>
-      <description>9000 BLOCK DAWN CT Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-10-04 04:40:00</guid>
-      <pubDate>Sun, 04 Oct 2026 04:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:48 am</title>
-      <description>100 BLOCK BLK RAMP I7100 BLOCKWB TO RT15NB RAMP, IAO Radio: 9B Units: E31, PE311, R3, A38, A319</description>
-      <guid isPermaLink="false">2026-10-04 02:48:00</guid>
-      <pubDate>Sun, 04 Oct 2026 02:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:04 am</title>
-      <description>RT15NB / ORNDORFF RD, RT15NB / ORNDORFF RD Units: PE102</description>
-      <guid isPermaLink="false">2026-10-04 01:04:00</guid>
-      <pubDate>Sun, 04 Oct 2026 01:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
