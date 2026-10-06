@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 18:41:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:03:10 +0000</lastBuildDate>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 2:49 pm</title>
+      <description>900 BLOCK BLUELEAF CT, Apt/Unit:M Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-10-06 14:49:00</guid>
+      <pubDate>Tue, 06 Oct 2026 14:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:47 pm</title>
+      <description>RT144 / DETRICK RD, RT144 / DETRICK RD Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2026-10-06 14:47:00</guid>
+      <pubDate>Tue, 06 Oct 2026 14:47:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 2:44 pm</title>
+      <description>RT15SB / RT340 (FREDERICK), RT15SB / RT340 Radio: 9C Units: E11, E33</description>
+      <guid isPermaLink="false">2026-10-06 14:44:00</guid>
+      <pubDate>Tue, 06 Oct 2026 14:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 2:26 pm</title>
       <description>RT550 / RAILROAD (THURMONT), RT550 / RAILROAD Radio: 9D Units: EMS902</description>
@@ -288,24 +306,6 @@
       <description>9200 BLOCK LIBERTY RD, Bldg:C Radio: 9B Units: A247, E111</description>
       <guid isPermaLink="false">2026-10-04 17:07:00</guid>
       <pubDate>Sun, 04 Oct 2026 17:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 5:03 pm</title>
-      <description>500 BLOCK WASHINGTON AVE, STATION WCE004 - WESTERN ENTERPRISE FC Units: E61</description>
-      <guid isPermaLink="false">2026-10-04 17:03:00</guid>
-      <pubDate>Sun, 04 Oct 2026 17:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:51 pm</title>
-      <description>100 BLOCK EASTERN BLVD N, STATION WCE003 - INDEPENDENT JUNIOR FIRE ENGINE CO Units: E82</description>
-      <guid isPermaLink="false">2026-10-04 16:51:00</guid>
-      <pubDate>Sun, 04 Oct 2026 16:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:38 pm</title>
-      <description>5900 BLOCK LEBEN DR Radio: 9C Units: PE311, TW1</description>
-      <guid isPermaLink="false">2026-10-04 16:38:00</guid>
-      <pubDate>Sun, 04 Oct 2026 16:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
