@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 20:04:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:37:54 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 4:23 pm</title>
+      <description>100 BLOCK W SOUTH ST, Apt/Unit:410 Radio: 9C Units: HMSU33</description>
+      <guid isPermaLink="false">2026-10-06 16:23:00</guid>
+      <pubDate>Tue, 06 Oct 2026 16:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 4:19 pm</title>
+      <description>100 BLOCK W SOUTH ST, Apt/Unit:410 Radio: 9C Units: E33, HM33</description>
+      <guid isPermaLink="false">2026-10-06 16:19:00</guid>
+      <pubDate>Tue, 06 Oct 2026 16:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 3:06 pm</title>
       <description>500 BLOCK HIMES AVE, DUTCHS DAUGHTER RESTAURANT Radio: 9D Units: PE311, R3, A319, ALS4, EMS901</description>
@@ -294,18 +306,6 @@
       <description>500 BLOCK WASHINGTON AVE, STATION WCE004 - WESTERN ENTERPRISE FC Units: RE74</description>
       <guid isPermaLink="false">2026-10-04 17:18:00</guid>
       <pubDate>Sun, 04 Oct 2026 17:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 5:14 pm</title>
-      <description>10700 BLOCK KEYSVILLE RD Radio: 9D Units: E132, TW6, A69, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-10-04 17:14:00</guid>
-      <pubDate>Sun, 04 Oct 2026 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:11 pm</title>
-      <description>9200 BLOCK LIBERTY RD, Bldg:C Radio: 9B Units: A249</description>
-      <guid isPermaLink="false">2026-10-04 17:11:00</guid>
-      <pubDate>Sun, 04 Oct 2026 17:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
