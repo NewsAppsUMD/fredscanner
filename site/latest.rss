@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 16:39:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:03:36 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:50 pm</title>
+      <description>13100 BLOCK WOLFSVILLE RD Radio: 9C Units: BR216</description>
+      <guid isPermaLink="false">2026-10-06 12:50:00</guid>
+      <pubDate>Tue, 06 Oct 2026 12:50:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:55 am</title>
       <description>WORTHINGTON BLVD / URBANA PIKE Radio: 9B Units: A259, TT23</description>
@@ -300,12 +306,6 @@
       <description>URBANA PIKE / MOTT RD Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-04 15:08:00</guid>
       <pubDate>Sun, 04 Oct 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:03 pm</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST Radio: 9B Units: A38</description>
-      <guid isPermaLink="false">2026-10-04 15:03:00</guid>
-      <pubDate>Sun, 04 Oct 2026 15:03:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
