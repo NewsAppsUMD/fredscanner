@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 06 Oct 2026 17:34:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:05:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:59 pm</title>
+      <description>RT550 / RAILROAD (THURMONT), RT550 / RAILROAD Radio: 9D Units: A229, PE23</description>
+      <guid isPermaLink="false">2026-10-06 13:59:00</guid>
+      <pubDate>Tue, 06 Oct 2026 13:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 1:55 pm</title>
+      <description>RT550 / RAILROAD (THURMONT), RT550 / RAILROAD Radio: 9D Units: PE102, R10, A307, ALS30, EMS901</description>
+      <guid isPermaLink="false">2026-10-06 13:55:00</guid>
+      <pubDate>Tue, 06 Oct 2026 13:55:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:50 pm</title>
       <description>13100 BLOCK WOLFSVILLE RD Radio: 9C Units: BR216</description>
@@ -294,18 +306,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, TW1</description>
       <guid isPermaLink="false">2026-10-04 15:59:00</guid>
       <pubDate>Sun, 04 Oct 2026 15:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 3:20 pm</title>
-      <description>RT15NB / 27MM Radio: 9C Units: PE102, E61, E221</description>
-      <guid isPermaLink="false">2026-10-04 15:20:00</guid>
-      <pubDate>Sun, 04 Oct 2026 15:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
-      <description>URBANA PIKE / MOTT RD Radio: 9D Units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-10-04 15:08:00</guid>
-      <pubDate>Sun, 04 Oct 2026 15:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
