@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Oct 2026 17:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 18:05:49 +0000</lastBuildDate>
+    <item>
+      <title>SHOOTING - ALS: 1:55 pm</title>
+      <description>1900 BLOCK BELFORD DR Radio: 9D Units: ALS2</description>
+      <guid isPermaLink="false">2026-10-07 13:55:00</guid>
+      <pubDate>Wed, 07 Oct 2026 13:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 1:54 pm</title>
+      <description>1900 BLOCK BELFORD DR Radio: 9D Units: A29, ALS29, E291, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-10-07 13:54:00</guid>
+      <pubDate>Wed, 07 Oct 2026 13:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
       <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK W PATRICK ST, FREDERICK COUNTY COURTHOUSE Radio: 9B Units: A38, ALS4, TT4, EMS902</description>
       <guid isPermaLink="false">2026-10-05 12:17:00</guid>
       <pubDate>Mon, 05 Oct 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 10:50 am</title>
-      <description>100 BLOCK S MARKET ST, STATION 3 Units: A319</description>
-      <guid isPermaLink="false">2026-10-05 10:50:00</guid>
-      <pubDate>Mon, 05 Oct 2026 10:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:41 am</title>
-      <description>200 BLOCK E SECOND ST Radio: 9C Units: PE23</description>
-      <guid isPermaLink="false">2026-10-05 09:41:00</guid>
-      <pubDate>Mon, 05 Oct 2026 09:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
