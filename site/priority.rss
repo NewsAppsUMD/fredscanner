@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Oct 2026 20:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:04:18 +0000</lastBuildDate>
     <item>
       <title>BUILDING FIRE: 11:48 am</title>
       <description>7200 BLOCK BEECHTREE LN — units: E121, RE74, E11, E33, E201, R8, TW7, TT4, A129, ALS8, BC903, BC901, SAF901</description>
@@ -168,12 +168,6 @@
       <description>RT15 / 7MM, RT15 / 7MM — units: E201, R20, A209, ALS20, EMS902</description>
       <guid isPermaLink="false">2026-09-30 08:38:00|RT15 / 7MM, RT15 / 7MM</guid>
       <pubDate>Wed, 30 Sep 2026 08:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:56 am</title>
-      <description>I70WB / MOUNT TABOR RD — units: E82, RE74, A89, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-09-30 06:56:00|I70WB / MOUNT TABOR RD</guid>
-      <pubDate>Wed, 30 Sep 2026 06:56:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
