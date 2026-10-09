@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 15:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:37:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:26 am</title>
+      <description>STAUFFER RD / CRUM RD, IAO Radio: 9D Units: R3</description>
+      <guid isPermaLink="false">2026-10-09 11:26:00</guid>
+      <pubDate>Fri, 09 Oct 2026 11:26:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:22 am</title>
+      <description>STAUFFER RD / CRUM RD, IAO Radio: 9D Units: E111, R24, A247, ALS17, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-10-09 11:22:00</guid>
+      <pubDate>Fri, 09 Oct 2026 11:22:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:52 am</title>
       <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: RE74, E121, R8, A89, A78</description>
@@ -294,18 +306,6 @@
       <description>1900 BLOCK BELFORD DR Radio: 9D Units: A29, ALS29, E291, BC902, EMS902</description>
       <guid isPermaLink="false">2026-10-07 13:54:00</guid>
       <pubDate>Wed, 07 Oct 2026 13:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:09 pm</title>
-      <description>W PATRICK ST / BAUGHMANS LN Radio: 9B Units: A19, E11</description>
-      <guid isPermaLink="false">2026-10-07 13:09:00</guid>
-      <pubDate>Wed, 07 Oct 2026 13:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:41 am</title>
-      <description>10500 BLOCK EASTERDAY RD Units: A89, E212</description>
-      <guid isPermaLink="false">2026-10-07 09:41:00</guid>
-      <pubDate>Wed, 07 Oct 2026 09:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
