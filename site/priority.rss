@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 03:09:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 03:45:23 +0000</lastBuildDate>
+    <item>
+      <title>CO DET SOUNDING: 11:19 pm</title>
+      <description>5700 BLOCK DUKE CT — units: PE311</description>
+      <guid isPermaLink="false">2026-10-08 23:19:00|5700 BLOCK DUKE CT</guid>
+      <pubDate>Thu, 08 Oct 2026 23:19:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 11:48 am</title>
       <description>7200 BLOCK BEECHTREE LN — units: E121, RE74, E11, E33, E201, R8, TW7, TT4, A129, ALS8, BC903, BC901, SAF901</description>
@@ -162,12 +168,6 @@
       <description>6100 BLOCK SPRINGWATER PL, Apt/Unit:2201, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL — units: E331, E31, E153, E11, PE251, R3, T4, A339, ALS4, BC901, BC902, SAF900, A38, ALS31 (first reported 9:07 am)</description>
       <guid isPermaLink="false">2026-09-30 09:07:00|6100 BLOCK SPRINGWATER PL, Apt/Unit:2201, HAMPTON COURT CONDOS - 6100 BLOCK SPRINGWATER PL</guid>
       <pubDate>Wed, 30 Sep 2026 09:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 8:38 am</title>
-      <description>RT15 / 7MM, RT15 / 7MM — units: E201, R20, A209, ALS20, EMS902</description>
-      <guid isPermaLink="false">2026-09-30 08:38:00|RT15 / 7MM, RT15 / 7MM</guid>
-      <pubDate>Wed, 30 Sep 2026 08:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
