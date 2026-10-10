@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 20:36:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:03:43 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 5:00 pm</title>
+      <description>10000 BLOCK CLEMSONVILLE RD, Bldg:B Units: CAN1</description>
+      <guid isPermaLink="false">2026-10-10 17:00:00</guid>
+      <pubDate>Sat, 10 Oct 2026 17:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
+      <description>HAMBURG RD / FIRETOWER RD, IAO Units: A89, E212</description>
+      <guid isPermaLink="false">2026-10-10 16:54:00</guid>
+      <pubDate>Sat, 10 Oct 2026 16:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
+      <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Units: E11</description>
+      <guid isPermaLink="false">2026-10-10 16:52:00</guid>
+      <pubDate>Sat, 10 Oct 2026 16:52:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:37 pm</title>
+      <description>2100 BLOCK WHITTIER DR, Bldg:A, SOMERFORD HOUSE - WHITTIER Units: E11</description>
+      <guid isPermaLink="false">2026-10-10 16:37:00</guid>
+      <pubDate>Sat, 10 Oct 2026 16:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 3:57 pm</title>
       <description>12000 BLOCK SOUTH ST, STATION 17 Units: EK134</description>
@@ -282,30 +306,6 @@
       <description>STAUFFER RD / CRUM RD, IAO Radio: 9D Units: R3</description>
       <guid isPermaLink="false">2026-10-09 11:26:00</guid>
       <pubDate>Fri, 09 Oct 2026 11:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 11:22 am</title>
-      <description>STAUFFER RD / CRUM RD, IAO Radio: 9D Units: E111, R24, A247, ALS17, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-10-09 11:22:00</guid>
-      <pubDate>Fri, 09 Oct 2026 11:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:52 am</title>
-      <description>I70EB / RT17, I70EB / RT17 Radio: 9B Units: RE74, E121, R8, A89, A78</description>
-      <guid isPermaLink="false">2026-10-09 10:52:00</guid>
-      <pubDate>Fri, 09 Oct 2026 10:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:26 am</title>
-      <description>7900 BLOCK FINGERBOARD RD Radio: 9B Units: A239, TT23</description>
-      <guid isPermaLink="false">2026-10-09 10:26:00</guid>
-      <pubDate>Fri, 09 Oct 2026 10:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 10:16 am</title>
-      <description>5200 BLOCK WESTVIEW DR, GOLDS GYM Radio: 9D Units: PE311, R3, A318, ALS31, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-10-09 10:16:00</guid>
-      <pubDate>Fri, 09 Oct 2026 10:16:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
