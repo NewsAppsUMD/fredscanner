@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 06:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 06:50:11 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 2:33 am</title>
+      <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:107, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, E33, TW1</description>
+      <guid isPermaLink="false">2026-10-10 02:33:00</guid>
+      <pubDate>Sat, 10 Oct 2026 02:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:42 pm</title>
       <description>RT340EB / RT67 Units: PE52</description>
@@ -300,12 +306,6 @@
       <description>5300 BLOCK NEW DESIGN RD, GIANT FOOD - KINGSBROOK PLAZA Units: E141, PE311, E33, PE23, E331, R3, TT4, TW1, A319, ALS31, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2026-10-08 09:26:00</guid>
       <pubDate>Thu, 08 Oct 2026 09:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:02 am</title>
-      <description>100 BLOCK MERCER CT, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Radio: 9C Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-10-08 04:02:00</guid>
-      <pubDate>Thu, 08 Oct 2026 04:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
