@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 15:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:03:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 12:36 pm</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9I Units: HCE41, R8, A18, ALS31, EMS902</description>
+      <guid isPermaLink="false">2026-10-10 12:36:00</guid>
+      <pubDate>Sat, 10 Oct 2026 12:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SMALL AIRCRAFT ACCIDENT: 12:09 pm</title>
+      <description>FOUNTAIN ROCK RD / RETREAT RD Radio: 9I Units: E111, E162, R24, EMSUTV24, A247, A29, ALS29, BR16, BC903, SAF900, EMS902, A249</description>
+      <guid isPermaLink="false">2026-10-10 12:09:00</guid>
+      <pubDate>Sat, 10 Oct 2026 12:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 12:04 pm</title>
+      <description>2700 BLOCK ADAMS ST, STATION 14 Units: R8</description>
+      <guid isPermaLink="false">2026-10-10 12:04:00</guid>
+      <pubDate>Sat, 10 Oct 2026 12:04:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:38 am</title>
+      <description>7100 BLOCK STARMOUNT WAY Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-10-10 11:38:00</guid>
+      <pubDate>Sat, 10 Oct 2026 11:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 11:29 am</title>
       <description>3600 BLOCK SINGLETON TER Units: FTF2, E141, E23, R20, W23</description>
@@ -282,30 +306,6 @@
       <description>CLARKSBURG RD / RT80, CLARKSBURG RD / RT80 Radio: 9B Units: A259, PE251</description>
       <guid isPermaLink="false">2026-10-08 14:56:00</guid>
       <pubDate>Thu, 08 Oct 2026 14:56:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:30 pm</title>
-      <description>MONOCACY BLVD / MILL POND RD Radio: 9B Units: E291, R24, A299, ALS29, EMS902</description>
-      <guid isPermaLink="false">2026-10-08 14:30:00</guid>
-      <pubDate>Thu, 08 Oct 2026 14:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 2:20 pm</title>
-      <description>LIBERTY RD / DANCE HALL RD Radio: 9C Units: E172</description>
-      <guid isPermaLink="false">2026-10-08 14:20:00</guid>
-      <pubDate>Thu, 08 Oct 2026 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:21 pm</title>
-      <description>RT340 / SANDY HOOK Units: A196</description>
-      <guid isPermaLink="false">2026-10-08 13:21:00</guid>
-      <pubDate>Thu, 08 Oct 2026 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:55 pm</title>
-      <description>RT340EB / RT15 (JEFFERSON), RT340WB / RT15 Radio: 9B Units: E201, E11, R20, A209, A18</description>
-      <guid isPermaLink="false">2026-10-08 12:55:00</guid>
-      <pubDate>Thu, 08 Oct 2026 12:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

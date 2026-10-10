@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 15:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 17:03:23 +0000</lastBuildDate>
+    <item>
+      <title>SMALL AIRCRAFT ACCIDENT: 12:09 pm</title>
+      <description>FOUNTAIN ROCK RD / RETREAT RD — units: E111, E162, R24, EMSUTV24, A247, A29, ALS29, BR16, BC903, SAF900, EMS902, A249</description>
+      <guid isPermaLink="false">2026-10-10 12:09:00|FOUNTAIN ROCK RD / RETREAT RD</guid>
+      <pubDate>Sat, 10 Oct 2026 12:09:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 11:23 am (23 units, 3 updates)</title>
       <description>3600 BLOCK SINGLETON TER — units: E231, PE251, PE311, E33, E152, R15, TT4, A239, ALS23, BC901, BC902, SAF901, TT23, RID, E11, R3, A259, EMS901, FTF2, E141, E23, R20, W23 (first reported 11:23 am)</description>
@@ -162,12 +168,6 @@
       <description>CALICO ROCKS CAMPGROUND, CALICO ROCKS CAMPGROUND — units: E281, E201, R20, EMSUTV19, A149, ALS20, BC903, SAF901, EMS901, EMSUTV31 (first reported 11:43 am)</description>
       <guid isPermaLink="false">2026-10-01 11:43:00|CALICO ROCKS CAMPGROUND, CALICO ROCKS CAMPGROUND</guid>
       <pubDate>Thu, 01 Oct 2026 11:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 8:38 am</title>
-      <description>3600 BLOCK QUANTUM PL S — units: PE311, R14, A149, ALS20, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-10-01 08:38:00|3600 BLOCK QUANTUM PL S</guid>
-      <pubDate>Thu, 01 Oct 2026 08:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
