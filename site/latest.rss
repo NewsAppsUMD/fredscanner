@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 10 Oct 2026 09:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 09:36:59 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:25 am</title>
+      <description>2400 BLOCK MERCHANT ST Radio: 9C Units: E291, TW11</description>
+      <guid isPermaLink="false">2026-10-10 05:25:00</guid>
+      <pubDate>Sat, 10 Oct 2026 05:25:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 2:33 am</title>
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:107, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR Radio: 9C Units: PE311, E33, TW1</description>
@@ -300,12 +306,6 @@
       <description>BALL RD / REELS MILL RD Radio: 9I Units: E231, R15, A38, ALS23, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-08 09:28:00</guid>
       <pubDate>Thu, 08 Oct 2026 09:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 9:26 am</title>
-      <description>5300 BLOCK NEW DESIGN RD, GIANT FOOD - KINGSBROOK PLAZA Units: E141, PE311, E33, PE23, E331, R3, TT4, TW1, A319, ALS31, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-10-08 09:26:00</guid>
-      <pubDate>Thu, 08 Oct 2026 09:26:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
