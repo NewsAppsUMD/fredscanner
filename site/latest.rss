@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Oct 2026 23:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:12:28 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 7:56 pm</title>
+      <description>6100 BLOCK STONECAT CT Units: E331</description>
+      <guid isPermaLink="false">2026-10-09 19:56:00</guid>
+      <pubDate>Fri, 09 Oct 2026 19:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 7:34 pm</title>
+      <description>CRUM RD / STAUFFER RD Units: TW11</description>
+      <guid isPermaLink="false">2026-10-09 19:34:00</guid>
+      <pubDate>Fri, 09 Oct 2026 19:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 7:22 pm</title>
       <description>13600 BLOCK UNIONVILLE RD Units: E172, E152, E162, E111, R15, TW11, K17, ALS17, BC901, BC902, SAF900, CCK14</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK HORIZON DR Radio: 9B Units: A18, E11</description>
       <guid isPermaLink="false">2026-10-07 23:05:00</guid>
       <pubDate>Wed, 07 Oct 2026 23:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 11:02 pm</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 Radio: 9B Units: E231, PE251, R3, A239, A259, ALS23, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-10-07 23:02:00</guid>
-      <pubDate>Wed, 07 Oct 2026 23:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 8:31 pm</title>
-      <description>WAVERLEY DR / BICTON COMMONS DR Radio: 9B Units: E11</description>
-      <guid isPermaLink="false">2026-10-07 20:31:00</guid>
-      <pubDate>Wed, 07 Oct 2026 20:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
