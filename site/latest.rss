@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 22:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 23:04:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:01 pm</title>
+      <description>6400 BLOCK WALCOTT LN, Apt/Unit:HTTPS://A91.IO/TGL38 Radio: 9B Units: A149, PE311</description>
+      <guid isPermaLink="false">2026-10-11 19:01:00</guid>
+      <pubDate>Sun, 11 Oct 2026 19:01:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 6:31 pm</title>
       <description>100 BLOCK S BENTZ ST Radio: 9C Units: E33</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK HOLLING DR, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9C Units: E23, TT4</description>
       <guid isPermaLink="false">2026-10-10 17:58:00</guid>
       <pubDate>Sat, 10 Oct 2026 17:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:13 pm</title>
-      <description>KEY PKWY / WAVERLEY DR, ELMWOOD TERRACE SWIMMING POOL Radio: 9I Units: A18, ALS4, E11, EMS901</description>
-      <guid isPermaLink="false">2026-10-10 17:13:00</guid>
-      <pubDate>Sat, 10 Oct 2026 17:13:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
