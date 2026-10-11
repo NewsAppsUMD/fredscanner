@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 13:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:35:52 +0000</lastBuildDate>
+    <item>
+      <title>MOUNTAIN RESCUE: 9:16 am (10 units, 2 updates)</title>
+      <description>LAT: &lt;39.43038&gt; LONG: &lt;-77.63921&gt; — units: E281, PE52, E121, E201, RE74, TR29, BC903, SAF901, EMS901, A78 (first reported 9:16 am)</description>
+      <guid isPermaLink="false">2026-10-11 09:16:00|LAT: &lt;39.43038&gt; LONG: &lt;-77.63921&gt;</guid>
+      <pubDate>Sun, 11 Oct 2026 09:21:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 2:48 pm (17 units, 3 updates)</title>
       <description>10000 BLOCK CLEMSONVILLE RD, Bldg:B — units: E172, E162, E152, R15, TW11, R24, K17, A179, ALS17, BC902, BC903, SAF900, CCK14, E91, K9, CCK1, E111 (first reported 2:48 pm)</description>
