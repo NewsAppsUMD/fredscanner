@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 21:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:04:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:45 pm</title>
+      <description>100 BLOCK STEINER WAY Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-10-11 17:45:00</guid>
+      <pubDate>Sun, 11 Oct 2026 17:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:03 pm</title>
       <description>BALL RD / TABLER RD Radio: 9C Units: BR235</description>
@@ -300,12 +306,6 @@
       <description>HAMBURG RD / FIRETOWER RD, IAO Units: A89, E212</description>
       <guid isPermaLink="false">2026-10-10 16:54:00</guid>
       <pubDate>Sat, 10 Oct 2026 16:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:52 pm</title>
-      <description>2000 BLOCK WOOD HOLLOW PL, THE PARK AT WALNUT RIDGE COMMUNITY POOL Units: E11</description>
-      <guid isPermaLink="false">2026-10-10 16:52:00</guid>
-      <pubDate>Sat, 10 Oct 2026 16:52:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
