@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 09:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 10:04:07 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:56 am</title>
+      <description>I270NB / BAKER VALLEY RD, I270NB / BAKER VALLEY RD Radio: 9B Units: E231, PE311, R3, A239, A319, TT23</description>
+      <guid isPermaLink="false">2026-10-11 05:56:00</guid>
+      <pubDate>Sun, 11 Oct 2026 05:56:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:28 am</title>
       <description>I270SB / RT80(RT80), I270SB / RT80 Units: E231, PE251, R3, A239, A259, TT23</description>
@@ -300,12 +306,6 @@
       <description>W PATRICK ST / HILLCREST DR Units: A18, E11</description>
       <guid isPermaLink="false">2026-10-09 19:17:00</guid>
       <pubDate>Fri, 09 Oct 2026 19:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 7:02 pm</title>
-      <description>7900 BLOCK REICHS FORD RD, T &amp; S CUSTOMIZING Units: E33</description>
-      <guid isPermaLink="false">2026-10-09 19:02:00</guid>
-      <pubDate>Fri, 09 Oct 2026 19:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
