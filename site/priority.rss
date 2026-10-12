@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 02:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:00:51 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 10:42 pm (8 units, 2 updates)</title>
+      <description>I70EB / 65MM, I70EB / 65MM — units: E152, R15, A158, PE251, BC901, EMS901, E331, E172 (first reported 10:42 pm)</description>
+      <guid isPermaLink="false">2026-10-11 22:42:00|I70EB / 65MM, I70EB / 65MM</guid>
+      <pubDate>Sun, 11 Oct 2026 22:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>BUILDING FIRE: 4:14 pm</title>
       <description>12800 BLOCK OLD NATIONAL PIKE, DAMASCUS ROAD COMMUNITY CHURCH — units: E152, PE251, E172, E33, R15, TT4, K33, K17, A158, BC901, BC902, SAF900, CCK1</description>
@@ -150,12 +156,6 @@
       <description>URBANA PIKE / MOTT RD — units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-04 15:08:00|URBANA PIKE / MOTT RD</guid>
       <pubDate>Sun, 04 Oct 2026 15:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 11:34 am</title>
-      <description>FRY RD / LANDER RD — units: E201, R20, A209, ALS20, EMS901</description>
-      <guid isPermaLink="false">2026-10-04 11:34:00|FRY RD / LANDER RD</guid>
-      <pubDate>Sun, 04 Oct 2026 11:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
