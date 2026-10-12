@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 16:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:38:04 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:42 pm (8 units, 2 updates)</title>
       <description>I70EB / 65MM, I70EB / 65MM — units: E152, R15, A158, PE251, BC901, EMS901, E331, E172 (first reported 10:42 pm)</description>
@@ -144,12 +144,6 @@
       <description>W SECOND ST / N COURT ST, IAO 111 W SECOND — units: E33, R3, A38, ALS4, BC901, EMS902</description>
       <guid isPermaLink="false">2026-10-06 00:04:00|W SECOND ST / N COURT ST, IAO 111 W SECOND</guid>
       <pubDate>Tue, 06 Oct 2026 00:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ATV ACCIDENT: 5:14 pm</title>
-      <description>10700 BLOCK KEYSVILLE RD — units: E132, TW6, A69, ALS30, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-10-04 17:14:00|10700 BLOCK KEYSVILLE RD</guid>
-      <pubDate>Sun, 04 Oct 2026 17:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
