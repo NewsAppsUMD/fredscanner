@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 09:00:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:54:02 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:25 am</title>
+      <description>10200 BLOCK OLD FREDERICK RD, Bldg:B, UTICA DISTRICT PARK Radio: 9B Units: A18, E291, E221, A249</description>
+      <guid isPermaLink="false">2026-10-12 05:25:00</guid>
+      <pubDate>Mon, 12 Oct 2026 05:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:24 am</title>
+      <description>I270NB / RT80(RT80), I270NB / RT80 Radio: 9B Units: E231, PE251, R3, A239, A259, TT23</description>
+      <guid isPermaLink="false">2026-10-12 05:24:00</guid>
+      <pubDate>Mon, 12 Oct 2026 05:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:43 am</title>
       <description>6400 BLOCK WALCOTT LN, Apt/Unit:HTTPS://A91.IO/39ECD Radio: 9B Units: A319, PE311</description>
@@ -294,18 +306,6 @@
       <description>LAT: &lt;39.43038&gt; LONG: &lt;-77.63921&gt; Radio: 9D Units: E281, PE52, E121, E201, RE74, TR29, BC903, SAF901, EMS901</description>
       <guid isPermaLink="false">2026-10-11 09:16:00</guid>
       <pubDate>Sun, 11 Oct 2026 09:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:19 am</title>
-      <description>I70EB / EXIT 59 (RT144 NEWM), I70EB / EXIT 59 Radio: 9B Units: E331, E33, R3, A339, A158</description>
-      <guid isPermaLink="false">2026-10-11 08:19:00</guid>
-      <pubDate>Sun, 11 Oct 2026 08:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:58 am</title>
-      <description>8300 BLOCK BLACKS MILL RD Radio: 9B Units: A169, E162</description>
-      <guid isPermaLink="false">2026-10-11 07:58:00</guid>
-      <pubDate>Sun, 11 Oct 2026 07:58:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
