@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 16:38:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:04:02 +0000</lastBuildDate>
+    <item>
+      <title>RIVER RESCUE: 12:59 pm</title>
+      <description>MONOCACY RIVER / REICHS FORD RD Radio: 9D Units: E33, PE311, R3, R2, TR29, BT29, BT28, A339, A38, ALS4, BC901, SAF900, EMS902</description>
+      <guid isPermaLink="false">2026-10-12 12:59:00</guid>
+      <pubDate>Mon, 12 Oct 2026 12:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:54 pm</title>
+      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:NORTH, Apt/Unit:N208 LIVING ROOM, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, TT4</description>
+      <guid isPermaLink="false">2026-10-12 12:54:00</guid>
+      <pubDate>Mon, 12 Oct 2026 12:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 12:23 pm</title>
       <description>100 BLOCK HOLLING DR, Apt/Unit:207, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9C Units: PE23, E33, R3</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK HARLAN WAY, Apt/Unit:14-19, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-10-11 09:57:00</guid>
       <pubDate>Sun, 11 Oct 2026 09:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 9:53 am</title>
-      <description>7000 BLOCK WILLOW TREE DR S Radio: 9C Units: E82</description>
-      <guid isPermaLink="false">2026-10-11 09:53:00</guid>
-      <pubDate>Sun, 11 Oct 2026 09:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 9:48 am</title>
-      <description>4500 BLOCK WILLOW TREE DR Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-10-11 09:48:00</guid>
-      <pubDate>Sun, 11 Oct 2026 09:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
