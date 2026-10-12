@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 06:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:14:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:30 am</title>
+      <description>700 BLOCK E PATRICK ST Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-10-12 02:30:00</guid>
+      <pubDate>Mon, 12 Oct 2026 02:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 12:33 am</title>
       <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK Radio: 9B Units: E231, R3, A259, ALS31, BC901, EMS901, TT23</description>
@@ -300,12 +306,6 @@
       <description>I70WB / 67MM, I70WB / 67MM Radio: 9B Units: E152, A158</description>
       <guid isPermaLink="false">2026-10-11 07:49:00</guid>
       <pubDate>Sun, 11 Oct 2026 07:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 7:41 am</title>
-      <description>100 BLOCK S ROTARY RD Radio: UNK Units: M238</description>
-      <guid isPermaLink="false">2026-10-11 07:41:00</guid>
-      <pubDate>Sun, 11 Oct 2026 07:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

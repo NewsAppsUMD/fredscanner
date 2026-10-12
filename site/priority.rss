@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 12 Oct 2026 06:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:14:03 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - ROLLOVER: 10:42 pm (8 units, 2 updates)</title>
       <description>I70EB / 65MM, I70EB / 65MM — units: E152, R15, A158, PE251, BC901, EMS901, E331, E172 (first reported 10:42 pm)</description>
@@ -150,12 +150,6 @@
       <description>10700 BLOCK KEYSVILLE RD — units: E132, TW6, A69, ALS30, BC902, EMS902</description>
       <guid isPermaLink="false">2026-10-04 17:14:00|10700 BLOCK KEYSVILLE RD</guid>
       <pubDate>Sun, 04 Oct 2026 17:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:08 pm</title>
-      <description>URBANA PIKE / MOTT RD — units: E231, R15, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-10-04 15:08:00|URBANA PIKE / MOTT RD</guid>
-      <pubDate>Sun, 04 Oct 2026 15:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
