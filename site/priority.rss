@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 16:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 16:39:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 12:17 pm</title>
+      <description>LAWSON RD / GREEN VALLEY RD — units: PE251, RE171, A259, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-10-13 12:17:00|LAWSON RD / GREEN VALLEY RD</guid>
+      <pubDate>Tue, 13 Oct 2026 12:17:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 8:48 am</title>
       <description>5200 BLOCK KINGSBROOK DR, BALLENGER CREEK ELEMENTARY SCHOOL — units: A318, A38, PE311, ALS31, EMS901, EMS902</description>
@@ -156,12 +162,6 @@
       <description>RT550 / RAILROAD (THURMONT), RT550 / RAILROAD — units: PE102, R10, A307, ALS30, EMS901, A229, PE23, EMS902 (first reported 1:55 pm)</description>
       <guid isPermaLink="false">2026-10-06 13:55:00|RT550 / RAILROAD (THURMONT), RT550 / RAILROAD</guid>
       <pubDate>Tue, 06 Oct 2026 14:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 11:20 am</title>
-      <description>13700 BLOCK JACOBS RD — units: E152, BC901, EMS902</description>
-      <guid isPermaLink="false">2026-10-06 11:20:00|13700 BLOCK JACOBS RD</guid>
-      <pubDate>Tue, 06 Oct 2026 11:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
