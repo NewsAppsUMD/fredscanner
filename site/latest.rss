@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Oct 2026 20:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:03:44 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:45 pm</title>
+      <description>20000 BLOCK CRYSTAL ROCK DR STATION 729, STATION 729 Radio: 7A1 Units: A18</description>
+      <guid isPermaLink="false">2026-10-13 16:45:00</guid>
+      <pubDate>Tue, 13 Oct 2026 16:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:42 pm</title>
+      <description>20000 BLOCK CTYSTAL ROCK DR, STATION MC729 - GERMANTOWN Units: A18</description>
+      <guid isPermaLink="false">2026-10-13 16:42:00</guid>
+      <pubDate>Tue, 13 Oct 2026 16:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 4:36 pm</title>
+      <description>100 BLOCK W FREDERICK ST, Apt/Unit:105, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: R24</description>
+      <guid isPermaLink="false">2026-10-13 16:36:00</guid>
+      <pubDate>Tue, 13 Oct 2026 16:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - TORSO OR HEAD: 4:34 pm</title>
       <description>16400 BLOCK RAVEN ROCK RD Radio: 9D Units: BC903, SAF900, EMS902</description>
@@ -288,24 +306,6 @@
       <description>MONOCACY RIVER / REICHS FORD RD Radio: 9D Units: E33, PE311, R3, R2, TR29, BT29, BT28, A339, A38, ALS4, BC901, SAF900, EMS902</description>
       <guid isPermaLink="false">2026-10-12 12:59:00</guid>
       <pubDate>Mon, 12 Oct 2026 12:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:54 pm</title>
-      <description>5900 BLOCK QUINN ORCHARD RD, Bldg:NORTH, Apt/Unit:N208 LIVING ROOM, COUNTRY MEADOWS OF FREDERICK - 5900 BLOCK QUINN ORCHARD RD Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2026-10-12 12:54:00</guid>
-      <pubDate>Mon, 12 Oct 2026 12:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:23 pm</title>
-      <description>100 BLOCK HOLLING DR, Apt/Unit:207, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR Radio: 9C Units: PE23, E33, R3</description>
-      <guid isPermaLink="false">2026-10-12 12:23:00</guid>
-      <pubDate>Mon, 12 Oct 2026 12:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 12:17 pm</title>
-      <description>5300 BLOCK BALLENGER CREEK PIKE, TUSCARORA HIGH SCHOOL Radio: 9C Units: TW1, PE311</description>
-      <guid isPermaLink="false">2026-10-12 12:17:00</guid>
-      <pubDate>Mon, 12 Oct 2026 12:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
