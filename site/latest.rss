@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 15:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:04:31 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:00 pm</title>
+      <description>500 BLOCK COFFMAN CHAPEL DR, HOOD COLLEGE - MEMORIAL HALL Radio: 9C Units: PE23</description>
+      <guid isPermaLink="false">2026-10-14 12:00:00</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
+      <description>LIBERTY RD / ROUTZAHN WAY Radio: 9B Units: A248</description>
+      <guid isPermaLink="false">2026-10-14 11:39:00</guid>
+      <pubDate>Wed, 14 Oct 2026 11:39:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:37 am</title>
+      <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Radio: 9B Units: E111</description>
+      <guid isPermaLink="false">2026-10-14 11:37:00</guid>
+      <pubDate>Wed, 14 Oct 2026 11:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:32 am</title>
       <description>RT26EB / ROUTZAHN WAY, RT26EB / ROUTZAHN WAY Radio: 9B Units: A29, PE23</description>
@@ -288,24 +306,6 @@
       <description>8500 BLOCK PROGRESS DR, CARMAX Radio: 9C Units: E111, TW11</description>
       <guid isPermaLink="false">2026-10-13 07:36:00</guid>
       <pubDate>Tue, 13 Oct 2026 07:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:02 am</title>
-      <description>8400 BLOCK GAS HOUSE PIKE, CLUSTERED SPIRES GOLF COURSE Radio: 9C Units: PE23, TW11</description>
-      <guid isPermaLink="false">2026-10-13 07:02:00</guid>
-      <pubDate>Tue, 13 Oct 2026 07:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:00 am</title>
-      <description>RT340EB / RT180 (PETERSVILLE), RT340EB / RT180 Radio: 9B Units: PE52, E201, R20, A196, A209</description>
-      <guid isPermaLink="false">2026-10-13 07:00:00</guid>
-      <pubDate>Tue, 13 Oct 2026 07:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:39 am</title>
-      <description>500 BLOCK W SOUTH ST, THE JUNCTION APARTMENTS Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-10-13 00:39:00</guid>
-      <pubDate>Tue, 13 Oct 2026 00:39:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
