@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 04:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 04:39:01 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:20 am</title>
+      <description>500 BLOCK W SOUTH ST, Apt/Unit:216, THE JUNCTION APARTMENTS Radio: 9C Units: E33, TT4</description>
+      <guid isPermaLink="false">2026-10-14 00:20:00</guid>
+      <pubDate>Wed, 14 Oct 2026 00:20:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:54 pm</title>
       <description>100 BLOCK IVY HILL DR Radio: 9B Units: A79, RE74</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, WALKERSVILLE TOWN OFFICE Radio: 9I Units: A19, ALS17, PE311, E111, A249, EMS900</description>
       <guid isPermaLink="false">2026-10-12 15:02:00</guid>
       <pubDate>Mon, 12 Oct 2026 15:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:50 pm</title>
-      <description>MOUNTAINDALE RD / GAMBRILL PARK RD Radio: 9D Units: R2</description>
-      <guid isPermaLink="false">2026-10-12 14:50:00</guid>
-      <pubDate>Mon, 12 Oct 2026 14:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
