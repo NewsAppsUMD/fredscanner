@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 20:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:35:18 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 4:31 pm</title>
+      <description>13700 BLOCK BLYTHEDALE DR Radio: 9C Units: K17</description>
+      <guid isPermaLink="false">2026-10-14 16:31:00</guid>
+      <pubDate>Wed, 14 Oct 2026 16:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 4:25 pm</title>
+      <description>13700 BLOCK BLYTHEDALE DR Radio: 9C Units: E152, R15, CCK1</description>
+      <guid isPermaLink="false">2026-10-14 16:25:00</guid>
+      <pubDate>Wed, 14 Oct 2026 16:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:03 pm</title>
+      <description>RT194 / DEVILBISS BRIDGE RD, RT194 / DEVILBISS BRIDGE RD Radio: 9B Units: BC902</description>
+      <guid isPermaLink="false">2026-10-14 16:03:00</guid>
+      <pubDate>Wed, 14 Oct 2026 16:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:41 pm</title>
       <description>I70WB / 48MM, I70WB / 48MM Radio: 9B Units: E121, E82, R3, A129, A89</description>
@@ -288,24 +306,6 @@
       <description>LAWSON RD / GREEN VALLEY RD Radio: 9D Units: PE251, RE171, A259, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-13 12:17:00</guid>
       <pubDate>Tue, 13 Oct 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:15 pm</title>
-      <description>RT85 / GROVE RD, RT85 / GROVE RD Radio: 9B Units: A319, E311</description>
-      <guid isPermaLink="false">2026-10-13 12:15:00</guid>
-      <pubDate>Tue, 13 Oct 2026 12:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:44 am</title>
-      <description>MA WASHCO: I70EB / 37MM, MA WASHCO: I70EB / 37MM Radio: PS1 Units: E82</description>
-      <guid isPermaLink="false">2026-10-13 11:44:00</guid>
-      <pubDate>Tue, 13 Oct 2026 11:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:12 am</title>
-      <description>13400 BLOCK PETREL ST Radio: 7A1 Units: A239</description>
-      <guid isPermaLink="false">2026-10-13 10:12:00</guid>
-      <pubDate>Tue, 13 Oct 2026 10:12:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
