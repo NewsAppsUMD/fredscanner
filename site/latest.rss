@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 13:03:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:36:05 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 9:33 am</title>
+      <description>3500 BLOCK SUGARLOAF PKWY, GLAM NAILS &amp; SPA - URBANA TOWN CENTER Radio: 9C Units: PE251, PE311, TT23</description>
+      <guid isPermaLink="false">2026-10-14 09:33:00</guid>
+      <pubDate>Wed, 14 Oct 2026 09:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HELICOPTER LANDING ZONE: 9:33 am</title>
+      <description>100 BLOCK WOLFSVILLE RD, DOUBS MEADOW PARK Units: R8</description>
+      <guid isPermaLink="false">2026-10-14 09:33:00</guid>
+      <pubDate>Wed, 14 Oct 2026 09:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:31 am</title>
+      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: EMS902</description>
+      <guid isPermaLink="false">2026-10-14 09:31:00</guid>
+      <pubDate>Wed, 14 Oct 2026 09:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:24 am</title>
+      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: ALS8</description>
+      <guid isPermaLink="false">2026-10-14 09:24:00</guid>
+      <pubDate>Wed, 14 Oct 2026 09:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:06 am</title>
+      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: RE74, E121, R8, A89, A129</description>
+      <guid isPermaLink="false">2026-10-14 09:06:00</guid>
+      <pubDate>Wed, 14 Oct 2026 09:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:45 am</title>
       <description>600 BLOCK CANAL TOWN ST Radio: 9C Units: PE52</description>
@@ -276,36 +306,6 @@
       <description>8500 BLOCK INDIAN SPRINGS RD, Bldg:B Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-10-13 00:16:00</guid>
       <pubDate>Tue, 13 Oct 2026 00:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 10:23 pm</title>
-      <description>900 BLOCK W PATRICK ST, MOTEL 6 Radio: 9C Units: TW1</description>
-      <guid isPermaLink="false">2026-10-12 22:23:00</guid>
-      <pubDate>Mon, 12 Oct 2026 22:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 9:50 pm</title>
-      <description>7000 BLOCK RIDGE RD Radio: 9C Units: BR125</description>
-      <guid isPermaLink="false">2026-10-12 21:50:00</guid>
-      <pubDate>Mon, 12 Oct 2026 21:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL SPILL: 8:51 pm</title>
-      <description>12300 BLOCK PLEASANT WALK RD Radio: 9C Units: E82, E212</description>
-      <guid isPermaLink="false">2026-10-12 20:51:00</guid>
-      <pubDate>Mon, 12 Oct 2026 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 7:35 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-10-12 19:35:00</guid>
-      <pubDate>Mon, 12 Oct 2026 19:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:32 pm</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST Radio: 9B Units: E33, E11, R3, A38, A19</description>
-      <guid isPermaLink="false">2026-10-12 19:32:00</guid>
-      <pubDate>Mon, 12 Oct 2026 19:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
