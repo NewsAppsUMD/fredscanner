@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 18:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 18:40:21 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - EJECTION: 2:11 pm</title>
+      <description>S EAST ST / MONOCACY BLVD Units: BC903</description>
+      <guid isPermaLink="false">2026-10-15 14:11:00</guid>
+      <pubDate>Thu, 15 Oct 2026 14:11:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:10 pm</title>
+      <description>S EAST ST / MONOCACY BLVD Units: E33, R3, A38, ALS4, EMS901</description>
+      <guid isPermaLink="false">2026-10-15 14:10:00</guid>
+      <pubDate>Thu, 15 Oct 2026 14:10:00 -0400</pubDate>
+    </item>
     <item>
       <title>FIRE ALARM SPECIFY: 1:52 pm</title>
       <description>5300 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
@@ -294,18 +306,6 @@
       <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: EMS902</description>
       <guid isPermaLink="false">2026-10-14 09:31:00</guid>
       <pubDate>Wed, 14 Oct 2026 09:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:24 am</title>
-      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: ALS8</description>
-      <guid isPermaLink="false">2026-10-14 09:24:00</guid>
-      <pubDate>Wed, 14 Oct 2026 09:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:06 am</title>
-      <description>I70EB / HARMONY RD, I70EB / HARMONY RD Radio: 9B Units: RE74, E121, R8, A89, A129</description>
-      <guid isPermaLink="false">2026-10-14 09:06:00</guid>
-      <pubDate>Wed, 14 Oct 2026 09:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
