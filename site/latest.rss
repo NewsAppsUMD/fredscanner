@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 02:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 02:40:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:37 pm</title>
+      <description>5500 BLOCK FOXVILLE RD Radio: 9B Units: E61</description>
+      <guid isPermaLink="false">2026-10-14 22:37:00</guid>
+      <pubDate>Wed, 14 Oct 2026 22:37:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:32 pm</title>
+      <description>S EAST ST / MONOCACY BLVD, IN CIRCLE Radio: 9B Units: A38, E33</description>
+      <guid isPermaLink="false">2026-10-14 22:32:00</guid>
+      <pubDate>Wed, 14 Oct 2026 22:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:32 pm</title>
+      <description>5500 BLOCK FOXVILLE RD Radio: 9B Units: E212, A307</description>
+      <guid isPermaLink="false">2026-10-14 22:32:00</guid>
+      <pubDate>Wed, 14 Oct 2026 22:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 10:14 pm</title>
+      <description>9300 BLOCK HIGHLANDER BLVD Radio: 9C Units: R24</description>
+      <guid isPermaLink="false">2026-10-14 22:14:00</guid>
+      <pubDate>Wed, 14 Oct 2026 22:14:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 10:07 pm</title>
+      <description>9300 BLOCK HIGHLANDER BLVD Units: E111, E162, TW11</description>
+      <guid isPermaLink="false">2026-10-14 22:07:00</guid>
+      <pubDate>Wed, 14 Oct 2026 22:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:30 pm</title>
       <description>500 BLOCK COFFMAN CHAPEL DR, Apt/Unit:BLAZER HALL, HOOD COLLEGE - NEW RESIDENCE HALL Radio: 9C Units: PE23, TT4</description>
@@ -276,36 +306,6 @@
       <description>100 BLOCK W FREDERICK ST, Apt/Unit:105, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: TW11</description>
       <guid isPermaLink="false">2026-10-13 16:32:00</guid>
       <pubDate>Tue, 13 Oct 2026 16:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 4:31 pm</title>
-      <description>100 BLOCK W FREDERICK ST, Apt/Unit:105, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: R2</description>
-      <guid isPermaLink="false">2026-10-13 16:31:00</guid>
-      <pubDate>Tue, 13 Oct 2026 16:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 4:26 pm</title>
-      <description>100 BLOCK W FREDERICK ST, Apt/Unit:105, AUTUMN LAKE HEALTHCARE AT GLADE VALLEY Radio: 9C Units: E111, E162, TW11</description>
-      <guid isPermaLink="false">2026-10-13 16:26:00</guid>
-      <pubDate>Tue, 13 Oct 2026 16:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:06 pm</title>
-      <description>100 BLOCK E ALL SAINTS ST Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-10-13 16:06:00</guid>
-      <pubDate>Tue, 13 Oct 2026 16:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:00 pm</title>
-      <description>100 BLOCK BLK RAMP RT4100 BLOCKEB TO RT15SB RAMP Radio: 9B Units: ALS2</description>
-      <guid isPermaLink="false">2026-10-13 15:00:00</guid>
-      <pubDate>Tue, 13 Oct 2026 15:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:57 pm</title>
-      <description>100 BLOCK BLK RAMP RT4100 BLOCKEB TO RT15SB RAMP Radio: 9B Units: A29</description>
-      <guid isPermaLink="false">2026-10-13 14:57:00</guid>
-      <pubDate>Tue, 13 Oct 2026 14:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
