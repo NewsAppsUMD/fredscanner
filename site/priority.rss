@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Oct 2026 23:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:10:26 +0000</lastBuildDate>
     <item>
       <title>BUILDING FIRE: 6:49 pm</title>
       <description>100 BLOCK E EIGHTH ST — units: PE23, E33, E501, E11, E291, R3, TT4, A38, ALS4, BC903, BC902, SAF901</description>
@@ -156,12 +156,6 @@
       <description>5200 BLOCK WESTVIEW DR, GOLDS GYM — units: PE311, R3, A318, ALS31, BC903, EMS902</description>
       <guid isPermaLink="false">2026-10-09 10:16:00|5200 BLOCK WESTVIEW DR, GOLDS GYM</guid>
       <pubDate>Fri, 09 Oct 2026 10:16:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 11:19 pm</title>
-      <description>5700 BLOCK DUKE CT — units: PE311</description>
-      <guid isPermaLink="false">2026-10-08 23:19:00|5700 BLOCK DUKE CT</guid>
-      <pubDate>Thu, 08 Oct 2026 23:19:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
