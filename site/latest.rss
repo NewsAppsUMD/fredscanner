@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Oct 2026 11:35:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:06:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:56 am</title>
+      <description>MONOCACY BLVD / E SOUTH ST Radio: 9B Units: A38, E33</description>
+      <guid isPermaLink="false">2026-10-15 07:56:00</guid>
+      <pubDate>Thu, 15 Oct 2026 07:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:54 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 Radio: 7A1 Units: E231, A238</description>
+      <guid isPermaLink="false">2026-10-15 07:54:00</guid>
+      <pubDate>Thu, 15 Oct 2026 07:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 7:46 am</title>
+      <description>100 BLOCK W PATRICK ST, PATRICK CENTER Radio: 9B Units: E33</description>
+      <guid isPermaLink="false">2026-10-15 07:46:00</guid>
+      <pubDate>Thu, 15 Oct 2026 07:46:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:35 am</title>
+      <description>8400 BLOCK PROGRESS DR Radio: 9C Units: E111</description>
+      <guid isPermaLink="false">2026-10-15 07:35:00</guid>
+      <pubDate>Thu, 15 Oct 2026 07:35:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:31 am</title>
       <description>I270NB / MONOCACY RIVER, I270NB / MONOCACY RIVER Radio: 9D Units: ALS23</description>
@@ -282,30 +306,6 @@
       <description>5800 BLOCK NEW DESIGN RD Radio: 9D Units: A319, ALS31, E311, EMS902</description>
       <guid isPermaLink="false">2026-10-13 19:32:00</guid>
       <pubDate>Tue, 13 Oct 2026 19:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:07 pm</title>
-      <description>100 BLOCK MERCER CT, Apt/Unit:14-3, FAIRFIELD CONDOS - 100 BLOCK MERCER CT Radio: 9C Units: E11, TT4</description>
-      <guid isPermaLink="false">2026-10-13 18:07:00</guid>
-      <pubDate>Tue, 13 Oct 2026 18:07:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:11 pm</title>
-      <description>5400 BLOCK BALLENGER CREEK PIKE, BALLENGER CREEK DISTRICT PARK Radio: 9D Units: A318, PE311, EMS902</description>
-      <guid isPermaLink="false">2026-10-13 17:11:00</guid>
-      <pubDate>Tue, 13 Oct 2026 17:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 4:45 pm</title>
-      <description>20000 BLOCK CRYSTAL ROCK DR STATION 729, STATION 729 Radio: 7A1 Units: A18</description>
-      <guid isPermaLink="false">2026-10-13 16:45:00</guid>
-      <pubDate>Tue, 13 Oct 2026 16:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:42 pm</title>
-      <description>20000 BLOCK CTYSTAL ROCK DR, STATION MC729 - GERMANTOWN Units: A18</description>
-      <guid isPermaLink="false">2026-10-13 16:42:00</guid>
-      <pubDate>Tue, 13 Oct 2026 16:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
