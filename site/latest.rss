@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 16:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:03:32 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:44 pm</title>
+      <description>GREEN VALLEY RD / BENNETT CREEK XING Radio: 9B Units: A259, E251</description>
+      <guid isPermaLink="false">2026-10-16 12:44:00</guid>
+      <pubDate>Fri, 16 Oct 2026 12:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 11:51 am</title>
       <description>21000 BLOCK BIG WOODS RD Radio: 7A1 Units: R14</description>
@@ -300,12 +306,6 @@
       <description>5500 BLOCK FOXVILLE RD Radio: 9B Units: E212, A307</description>
       <guid isPermaLink="false">2026-10-14 22:32:00</guid>
       <pubDate>Wed, 14 Oct 2026 22:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 10:14 pm</title>
-      <description>9300 BLOCK HIGHLANDER BLVD Radio: 9C Units: R24</description>
-      <guid isPermaLink="false">2026-10-14 22:14:00</guid>
-      <pubDate>Wed, 14 Oct 2026 22:14:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
