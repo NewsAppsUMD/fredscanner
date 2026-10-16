@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 16 Oct 2026 17:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 18:05:00 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:36 pm</title>
+      <description>OAK DR / RIDGE RD Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-10-16 13:36:00</guid>
+      <pubDate>Fri, 16 Oct 2026 13:36:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:44 pm</title>
       <description>GREEN VALLEY RD / BENNETT CREEK XING Radio: 9B Units: A259, E251</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:32 pm</title>
       <description>S EAST ST / MONOCACY BLVD, IN CIRCLE Radio: 9B Units: A38, E33</description>
-      <guid isPermaLink="false">2026-10-14 22:32:00</guid>
-      <pubDate>Wed, 14 Oct 2026 22:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:32 pm</title>
-      <description>5500 BLOCK FOXVILLE RD Radio: 9B Units: E212, A307</description>
       <guid isPermaLink="false">2026-10-14 22:32:00</guid>
       <pubDate>Wed, 14 Oct 2026 22:32:00 -0400</pubDate>
     </item>
