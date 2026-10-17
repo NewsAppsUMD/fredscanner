@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 16:03:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 16:34:12 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 11:45 am</title>
+      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 Radio: 9C Units: R3, E11</description>
+      <guid isPermaLink="false">2026-10-17 11:45:00</guid>
+      <pubDate>Sat, 17 Oct 2026 11:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:42 am</title>
+      <description>5200 BLOCK WESTVIEW DR, RESIDENCE INN Radio: 9C Units: PE311, TT4</description>
+      <guid isPermaLink="false">2026-10-17 11:42:00</guid>
+      <pubDate>Sat, 17 Oct 2026 11:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 11:09 am</title>
+      <description>RT75 / NEW LONDON RD (N), RT75 / NEW LONDON RD Radio: 9B Units: A158, E152</description>
+      <guid isPermaLink="false">2026-10-17 11:09:00</guid>
+      <pubDate>Sat, 17 Oct 2026 11:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 10:51 am</title>
+      <description>28300 BLOCK HONEYSUCKLE DR Radio: 7A1 Units: A259</description>
+      <guid isPermaLink="false">2026-10-17 10:51:00</guid>
+      <pubDate>Sat, 17 Oct 2026 10:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAZARDOUS MATERIALS INCIDENT: 10:34 am</title>
+      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9D Units: PE23, E33, R3, HM33, HM50, E121, A29, A37, ALS31, BC902, SAF901, EMS901</description>
+      <guid isPermaLink="false">2026-10-17 10:34:00</guid>
+      <pubDate>Sat, 17 Oct 2026 10:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:01 am</title>
       <description>7900 BLOCK ROCKY RIDGE RD, THURMONT PRIMARY SCHOOL Radio: 9C Units: PE102, TW6</description>
@@ -276,36 +306,6 @@
       <description>6300 BLOCK MOUNT PHILLIP RD Units: E121, R3, A129</description>
       <guid isPermaLink="false">2026-10-15 14:52:00</guid>
       <pubDate>Thu, 15 Oct 2026 14:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - EJECTION: 2:11 pm</title>
-      <description>S EAST ST / MONOCACY BLVD Units: BC903</description>
-      <guid isPermaLink="false">2026-10-15 14:11:00</guid>
-      <pubDate>Thu, 15 Oct 2026 14:11:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 2:10 pm</title>
-      <description>S EAST ST / MONOCACY BLVD Units: E33, R3, A38, ALS4, EMS901</description>
-      <guid isPermaLink="false">2026-10-15 14:10:00</guid>
-      <pubDate>Thu, 15 Oct 2026 14:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FIRE ALARM SPECIFY: 1:52 pm</title>
-      <description>5300 BLOCK BUCKEYSTOWN PIKE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-10-15 13:52:00</guid>
-      <pubDate>Thu, 15 Oct 2026 13:52:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:51 pm</title>
-      <description>500 BLOCK HODSON DR, HOOD COLLEGE - HODSON SCIENCE CENTER Units: PE23, TT4</description>
-      <guid isPermaLink="false">2026-10-15 12:51:00</guid>
-      <pubDate>Thu, 15 Oct 2026 12:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:28 pm</title>
-      <description>8400 BLOCK PROGRESS DR, MATAN COMPANIES Units: TT4</description>
-      <guid isPermaLink="false">2026-10-15 12:28:00</guid>
-      <pubDate>Thu, 15 Oct 2026 12:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
