@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 18:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:02:53 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE - STRUCTURE THREATENED: 2:58 pm</title>
+      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA — units: E82, E72, E121</description>
+      <guid isPermaLink="false">2026-10-17 14:58:00|I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA</guid>
+      <pubDate>Sat, 17 Oct 2026 14:58:00 -0400</pubDate>
+    </item>
     <item>
       <title>HAZARDOUS MATERIALS INCIDENT: 10:34 am</title>
       <description>400 BLOCK W SEVENTH ST, FHH — units: PE23, E33, R3, HM33, HM50, E121, A29, A37, ALS31, BC902, SAF901, EMS901</description>
