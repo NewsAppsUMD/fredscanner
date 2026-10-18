@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 02:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:39:01 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:23 pm</title>
+      <description>100 BLOCK BLK RAMP RT15NB TO ROSEMONT AVE RAMP Radio: 9B Units: A19</description>
+      <guid isPermaLink="false">2026-10-17 22:23:00</guid>
+      <pubDate>Sat, 17 Oct 2026 22:23:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:13 pm</title>
+      <description>100 BLOCK BLK RAMP RT15NB TO ROSEMONT AVE RAMP Radio: 9B Units: A19, TT4</description>
+      <guid isPermaLink="false">2026-10-17 22:13:00</guid>
+      <pubDate>Sat, 17 Oct 2026 22:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 8:16 pm</title>
       <description>5700 BLOCK URBANA PIKE, DARCARS KIA Radio: 9C Units: BR35</description>
@@ -294,18 +306,6 @@
       <description>1800 BLOCK ROSEMONT AVE Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-10-16 10:57:00</guid>
       <pubDate>Fri, 16 Oct 2026 10:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:49 am</title>
-      <description>7700 BLOCK DANCE HALL RD, Apt/Unit:LOT 1 Radio: 9C Units: E111</description>
-      <guid isPermaLink="false">2026-10-16 10:49:00</guid>
-      <pubDate>Fri, 16 Oct 2026 10:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 10:00 am</title>
-      <description>400 BLOCK HARLAN WAY, Apt/Unit:104, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-10-16 10:00:00</guid>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
