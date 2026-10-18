@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Oct 2026 00:11:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:07:27 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 8:16 pm</title>
+      <description>5700 BLOCK URBANA PIKE, DARCARS KIA Radio: 9C Units: BR35</description>
+      <guid isPermaLink="false">2026-10-17 20:16:00</guid>
+      <pubDate>Sat, 17 Oct 2026 20:16:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:55 pm</title>
       <description>5400 BLOCK DOUBS RD Radio: 9C Units: E141</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK HARLAN WAY, Apt/Unit:104, THE FRED APARTMENTS - 400 BLOCK HARLAN WAY Radio: 9C Units: E11</description>
       <guid isPermaLink="false">2026-10-16 10:00:00</guid>
       <pubDate>Fri, 16 Oct 2026 10:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:38 am</title>
-      <description>URBANA PIKE / BUCKEYSTOWN PIKE, ENTERPRISE CAR RENTAL Radio: 9D Units: A38, ALS4, E291, EMS902</description>
-      <guid isPermaLink="false">2026-10-16 08:38:00</guid>
-      <pubDate>Fri, 16 Oct 2026 08:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
