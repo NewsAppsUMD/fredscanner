@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Oct 2026 23:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:11:34 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:55 pm</title>
+      <description>5400 BLOCK DOUBS RD Radio: 9C Units: E141</description>
+      <guid isPermaLink="false">2026-10-17 19:55:00</guid>
+      <pubDate>Sat, 17 Oct 2026 19:55:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 7:29 pm</title>
+      <description>CRESTWOOD BLVD / BURNING BUSH DR Radio: 9D Units: A319, PE311, EMS901</description>
+      <guid isPermaLink="false">2026-10-17 19:29:00</guid>
+      <pubDate>Sat, 17 Oct 2026 19:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 7:22 pm</title>
       <description>100 BLOCK KEY PKWY Radio: 9C Units: E11, PE23</description>
@@ -294,18 +306,6 @@
       <description>URBANA PIKE / BUCKEYSTOWN PIKE, ENTERPRISE CAR RENTAL Radio: 9D Units: A38, ALS4, E291, EMS902</description>
       <guid isPermaLink="false">2026-10-16 08:38:00</guid>
       <pubDate>Fri, 16 Oct 2026 08:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 6:58 am</title>
-      <description>2700 BLOCKC THURSTON RD Radio: 9C Units: BR235</description>
-      <guid isPermaLink="false">2026-10-16 06:58:00</guid>
-      <pubDate>Fri, 16 Oct 2026 06:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 4:22 am</title>
-      <description>5500 BLOCK UPPER MILL TER N Radio: 9C Units: E33</description>
-      <guid isPermaLink="false">2026-10-16 04:22:00</guid>
-      <pubDate>Fri, 16 Oct 2026 04:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
