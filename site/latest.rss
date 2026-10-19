@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 17:35:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:05:28 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:59 pm</title>
+      <description>5200 BLOCK MOUNTVILLE RD Radio: 9D Units: E281, R20, ALS31, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-10-19 13:59:00</guid>
+      <pubDate>Mon, 19 Oct 2026 13:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:54 pm</title>
+      <description>5200 BLOCK MOUNTVILLE RD Radio: 9B Units: A209, R14</description>
+      <guid isPermaLink="false">2026-10-19 13:54:00</guid>
+      <pubDate>Mon, 19 Oct 2026 13:54:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:32 pm</title>
       <description>14000 BLOCK FOX TOWER RD Radio: 9C Units: E212, TW6</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK KEY PKWY Radio: 9C Units: E11, PE23</description>
       <guid isPermaLink="false">2026-10-17 19:22:00</guid>
       <pubDate>Sat, 17 Oct 2026 19:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:19 pm</title>
-      <description>I70EB / MOUNT PHILLIP RD, I70EB / MOUNT PHILLIP RD Radio: 9B Units: E121, E33, R3, A129, A38</description>
-      <guid isPermaLink="false">2026-10-17 19:19:00</guid>
-      <pubDate>Sat, 17 Oct 2026 19:19:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:15 pm</title>
-      <description>8300 BLOCK PINECLIFF PARK RD, MAINTENANCE BUILDING AT PINECLIFF PARK Radio: 9C Units: E331, TT4</description>
-      <guid isPermaLink="false">2026-10-17 19:15:00</guid>
-      <pubDate>Sat, 17 Oct 2026 19:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
