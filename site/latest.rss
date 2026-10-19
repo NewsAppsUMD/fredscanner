@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 02:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 02:43:50 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:17 pm</title>
+      <description>11600 BLOCK MERRIFIELD CT Units: K23</description>
+      <guid isPermaLink="false">2026-10-18 22:17:00</guid>
+      <pubDate>Sun, 18 Oct 2026 22:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE: 10:11 pm</title>
+      <description>11600 BLOCK MERRIFIELD CT Units: PE251, E152, E331, E231, RE171, R15, K33, A259, BC901, BC902, SAF900, TT23, CCK1</description>
+      <guid isPermaLink="false">2026-10-18 22:11:00</guid>
+      <pubDate>Sun, 18 Oct 2026 22:11:00 -0400</pubDate>
+    </item>
     <item>
       <title>MUTUAL AID: 9:43 pm</title>
       <description>37100 BLOCK BUTTS LN Radio: 6B Units: ALS20</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH Radio: 9D Units: PE23, E33, R3, HM33, HM50, E121, A29, A37, ALS31, BC902, SAF901, EMS901</description>
       <guid isPermaLink="false">2026-10-17 10:34:00</guid>
       <pubDate>Sat, 17 Oct 2026 10:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:01 am</title>
-      <description>7900 BLOCK ROCKY RIDGE RD, THURMONT PRIMARY SCHOOL Radio: 9C Units: PE102, TW6</description>
-      <guid isPermaLink="false">2026-10-17 10:01:00</guid>
-      <pubDate>Sat, 17 Oct 2026 10:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:21 am</title>
-      <description>500 BLOCK W SOUTH ST, THE JUNCTION APARTMENTS Radio: 9C Units: E33, TT4</description>
-      <guid isPermaLink="false">2026-10-17 09:21:00</guid>
-      <pubDate>Sat, 17 Oct 2026 09:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
