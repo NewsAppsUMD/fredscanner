@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 03:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 03:42:06 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:29 pm</title>
+      <description>2400 BLOCK DOUBS CT Radio: 9C Units: TT23</description>
+      <guid isPermaLink="false">2026-10-18 23:29:00</guid>
+      <pubDate>Sun, 18 Oct 2026 23:29:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:24 pm</title>
+      <description>2400 BLOCK DOUBS CT Radio: 9C Units: E141, E281, R20, A149, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-10-18 23:24:00</guid>
+      <pubDate>Sun, 18 Oct 2026 23:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 10:17 pm</title>
       <description>11600 BLOCK MERRIFIELD CT Units: K23</description>
@@ -294,18 +306,6 @@
       <description>RT75 / NEW LONDON RD (N), RT75 / NEW LONDON RD Radio: 9B Units: A158, E152</description>
       <guid isPermaLink="false">2026-10-17 11:09:00</guid>
       <pubDate>Sat, 17 Oct 2026 11:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 10:51 am</title>
-      <description>28300 BLOCK HONEYSUCKLE DR Radio: 7A1 Units: A259</description>
-      <guid isPermaLink="false">2026-10-17 10:51:00</guid>
-      <pubDate>Sat, 17 Oct 2026 10:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HAZARDOUS MATERIALS INCIDENT: 10:34 am</title>
-      <description>400 BLOCK W SEVENTH ST, FHH Radio: 9D Units: PE23, E33, R3, HM33, HM50, E121, A29, A37, ALS31, BC902, SAF901, EMS901</description>
-      <guid isPermaLink="false">2026-10-17 10:34:00</guid>
-      <pubDate>Sat, 17 Oct 2026 10:34:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
