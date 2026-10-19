@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 19 Oct 2026 11:36:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:47:35 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 8:00 am</title>
+      <description>100 BLOCK HARPERS WAY — units: E111, R2, A299, ALS2, EMS902</description>
+      <guid isPermaLink="false">2026-10-19 08:00:00|100 BLOCK HARPERS WAY</guid>
+      <pubDate>Mon, 19 Oct 2026 08:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 11:43 pm (15 units, 3 updates)</title>
       <description>11200 BLOCK WOODLAND WAY RD — units: E82, E72, E121, TW7, K21, K7, A89, ALS8, E212, BC901, BC902, SAF901, R3, K1, E11 (first reported 11:43 pm)</description>
@@ -174,12 +180,6 @@
       <description>MONOCACY RIVER / REICHS FORD RD — units: E33, PE311, R3, R2, TR29, BT29, BT28, A339, A38, ALS4, BC901, SAF900, EMS902</description>
       <guid isPermaLink="false">2026-10-12 12:59:00|MONOCACY RIVER / REICHS FORD RD</guid>
       <pubDate>Mon, 12 Oct 2026 12:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 10:42 pm (8 units, 2 updates)</title>
-      <description>I70EB / 65MM, I70EB / 65MM — units: E152, R15, A158, PE251, BC901, EMS901, E331, E172 (first reported 10:42 pm)</description>
-      <guid isPermaLink="false">2026-10-11 22:42:00|I70EB / 65MM, I70EB / 65MM</guid>
-      <pubDate>Sun, 11 Oct 2026 22:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
