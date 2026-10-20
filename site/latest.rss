@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 18:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:03:48 +0000</lastBuildDate>
+    <item>
+      <title>BRUSH FIRE: 2:56 pm</title>
+      <description>2700 BLOCK PRICES DISTILLERY RD Units: PE251</description>
+      <guid isPermaLink="false">2026-10-20 14:56:00</guid>
+      <pubDate>Tue, 20 Oct 2026 14:56:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:50 pm</title>
+      <description>RT15 / BASFORD RD, RT15 / BASFORD RD Units: A149, E281</description>
+      <guid isPermaLink="false">2026-10-20 14:50:00</guid>
+      <pubDate>Tue, 20 Oct 2026 14:50:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 2:45 pm</title>
+      <description>9200 BLOCK DUBLIN RD Radio: 9C Units: E111, EK114, BR226</description>
+      <guid isPermaLink="false">2026-10-20 14:45:00</guid>
+      <pubDate>Tue, 20 Oct 2026 14:45:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:44 pm</title>
+      <description>6000 BLOCK JEFFERSON BLVD Units: E121, TT4</description>
+      <guid isPermaLink="false">2026-10-20 14:44:00</guid>
+      <pubDate>Tue, 20 Oct 2026 14:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 1:58 pm</title>
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE Units: E11, PE23, R3, A18, A29</description>
@@ -282,30 +306,6 @@
       <description>11200 BLOCK WOODLAND WAY RD Radio: 9D Units: E82, E72, E121, TW7, K21, K7, A89, ALS8, E212, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-10-18 23:43:00</guid>
       <pubDate>Sun, 18 Oct 2026 23:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:29 pm</title>
-      <description>2400 BLOCK DOUBS CT Radio: 9C Units: TT23</description>
-      <guid isPermaLink="false">2026-10-18 23:29:00</guid>
-      <pubDate>Sun, 18 Oct 2026 23:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:24 pm</title>
-      <description>2400 BLOCK DOUBS CT Radio: 9C Units: E141, E281, R20, A149, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-10-18 23:24:00</guid>
-      <pubDate>Sun, 18 Oct 2026 23:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:17 pm</title>
-      <description>11600 BLOCK MERRIFIELD CT Units: K23</description>
-      <guid isPermaLink="false">2026-10-18 22:17:00</guid>
-      <pubDate>Sun, 18 Oct 2026 22:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:11 pm</title>
-      <description>11600 BLOCK MERRIFIELD CT Units: PE251, E152, E331, E231, RE171, R15, K33, A259, BC901, BC902, SAF900, TT23, CCK1</description>
-      <guid isPermaLink="false">2026-10-18 22:11:00</guid>
-      <pubDate>Sun, 18 Oct 2026 22:11:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
