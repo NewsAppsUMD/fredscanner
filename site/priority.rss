@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Oct 2026 11:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:36:56 +0000</lastBuildDate>
     <item>
       <title>BARN FIRE: 10:10 pm (24 units, 2 updates)</title>
       <description>8900 BLOCK HAWBOTTOM RD — units: E82, E121, E72, E11, E33, E501, R3, TT4, R2, K7, K1, K21, A89, ALS8, E212, BC903, BC902, SAF901, TTF, E291, EK204, EK114, K33, W8 (first reported 10:10 pm)</description>
@@ -162,12 +162,6 @@
       <description>16400 BLOCK RAVEN ROCK RD — units: BC903, SAF900, EMS902</description>
       <guid isPermaLink="false">2026-10-13 16:34:00|16400 BLOCK RAVEN ROCK RD</guid>
       <pubDate>Tue, 13 Oct 2026 16:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:05 pm</title>
-      <description>ANDOVER LN / APPLE CREEK RD — units: E121, R3, A18, ALS2, EMS901</description>
-      <guid isPermaLink="false">2026-10-13 13:05:00|ANDOVER LN / APPLE CREEK RD</guid>
-      <pubDate>Tue, 13 Oct 2026 13:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
