@@ -6,12 +6,12 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Oct 2026 23:32:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:10:34 +0000</lastBuildDate>
     <item>
-      <title>BUILDING FIRE: 7:24 pm</title>
-      <description>200 BLOCK MAIN ST — units: E72, E121, E11, E33, PE311, RE74, TT4, A19, ALS8, E212, BC903, BC901, SAF901</description>
+      <title>BUILDING FIRE: 7:24 pm (19 units, 2 updates)</title>
+      <description>200 BLOCK MAIN ST — units: E72, E121, E11, E33, PE311, RE74, TT4, A19, ALS8, E212, BC903, BC901, SAF901, RID, E82, R3, A79, EMS901, W8 (first reported 7:24 pm)</description>
       <guid isPermaLink="false">2026-10-20 19:24:00|200 BLOCK MAIN ST</guid>
-      <pubDate>Tue, 20 Oct 2026 19:24:00 -0400</pubDate>
+      <pubDate>Tue, 20 Oct 2026 19:32:00 -0400</pubDate>
     </item>
     <item>
       <title>HOUSE FIRE: 10:47 am (14 units, 2 updates)</title>
@@ -168,12 +168,6 @@
       <description>LAWSON RD / GREEN VALLEY RD — units: PE251, RE171, A259, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-13 12:17:00|LAWSON RD / GREEN VALLEY RD</guid>
       <pubDate>Tue, 13 Oct 2026 12:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:48 am</title>
-      <description>5200 BLOCK KINGSBROOK DR, BALLENGER CREEK ELEMENTARY SCHOOL — units: A318, A38, PE311, ALS31, EMS901, EMS902</description>
-      <guid isPermaLink="false">2026-10-13 08:48:00|5200 BLOCK KINGSBROOK DR, BALLENGER CREEK ELEMENTARY SCHOOL</guid>
-      <pubDate>Tue, 13 Oct 2026 08:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
