@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 16:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 17:03:37 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 12:59 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, MARSHALLS - CLEMSON CORNER RADIO: 9C UNITS: EK114</description>
+      <guid isPermaLink="false">2026-10-22 12:59:00</guid>
+      <pubDate>Thu, 22 Oct 2026 12:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:45 pm</title>
+      <description>100 BLOCK E SECOND ST RADIO: 9C UNITS: E33, TT4</description>
+      <guid isPermaLink="false">2026-10-22 12:45:00</guid>
+      <pubDate>Thu, 22 Oct 2026 12:45:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:44 am</title>
       <description>9400 BLOCK CARRIAGE HILL ST RADIO: 9C UNITS: E231</description>
@@ -294,18 +306,6 @@
       <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Units: RE74</description>
       <guid isPermaLink="false">2026-10-21 12:21:00</guid>
       <pubDate>Wed, 21 Oct 2026 12:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:29 am</title>
-      <description>7300 BLOCK EXECUTIVE WAY Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-21 11:29:00</guid>
-      <pubDate>Wed, 21 Oct 2026 11:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:01 am</title>
-      <description>RT340EB FROM LANDER RD, RT340EB FROM LANDER RD Radio: 9B Units: PE52</description>
-      <guid isPermaLink="false">2026-10-21 09:01:00</guid>
-      <pubDate>Wed, 21 Oct 2026 09:01:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
