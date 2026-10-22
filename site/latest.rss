@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 03:40:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:05:14 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 11:53 pm</title>
+      <description>100 BLOCK FIONA WAY UNITS: E281, E201, R20, R19</description>
+      <guid isPermaLink="false">2026-10-21 23:53:00</guid>
+      <pubDate>Wed, 21 Oct 2026 23:53:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 10:42 pm</title>
       <description>3900 BLOCK SWEET BRIAR LN RADIO: 9C UNITS: PE251, TT23</description>
@@ -300,12 +306,6 @@
       <description>500 BLOCK N MARKET ST, STATION 2 Units: EK64</description>
       <guid isPermaLink="false">2026-10-20 22:29:00</guid>
       <pubDate>Tue, 20 Oct 2026 22:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:21 pm</title>
-      <description>8900 BLOCK HAWBOTTOM RD Units: TTF, E291, EK204, EK114, K33, W8</description>
-      <guid isPermaLink="false">2026-10-20 22:21:00</guid>
-      <pubDate>Tue, 20 Oct 2026 22:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
