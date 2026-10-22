@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 09:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:37:52 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:21 am</title>
+      <description>RT15-340WB / RT15 (FREDERICK), RT15-340WB / RT15 RADIO: 9B UNITS: ALS4, EMS901</description>
+      <guid isPermaLink="false">2026-10-22 05:21:00</guid>
+      <pubDate>Thu, 22 Oct 2026 05:21:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:18 am</title>
+      <description>RT15-340WB / RT15 (FREDERICK), RT15-340WB / RT15 RADIO: 9B UNITS: PE311, E33, R3, A319, A318</description>
+      <guid isPermaLink="false">2026-10-22 05:18:00</guid>
+      <pubDate>Thu, 22 Oct 2026 05:18:00 -0400</pubDate>
+    </item>
     <item>
       <title>CO DET SOUNDING: 3:02 am</title>
       <description>11600 BLOCK MERRIFIELD CT RADIO: 9C UNITS: PE251</description>
@@ -294,18 +306,6 @@
       <description>E MAIN ST / CONE BRANCH DR Radio: 9B Units: A79, RE74</description>
       <guid isPermaLink="false">2026-10-21 07:22:00</guid>
       <pubDate>Wed, 21 Oct 2026 07:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:23 am</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311</description>
-      <guid isPermaLink="false">2026-10-21 05:23:00</guid>
-      <pubDate>Wed, 21 Oct 2026 05:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:42 am</title>
-      <description>600 BLOCK RESEARCH CT, ASTRA ZENECA - 600 BLOCK RESEARCH CT - CENTERGATE Radio: 9C Units: PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-21 04:42:00</guid>
-      <pubDate>Wed, 21 Oct 2026 04:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
