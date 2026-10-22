@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 22:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 22:33:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 6:04 pm</title>
+      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA RADIO: 9C UNITS: E82</description>
+      <guid isPermaLink="false">2026-10-22 18:04:00</guid>
+      <pubDate>Thu, 22 Oct 2026 18:04:00 -0400</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 5:08 pm</title>
       <description>E SECOND ST / N EAST ST RADIO: 9D UNITS: A38</description>
@@ -300,12 +306,6 @@
       <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK RADIO: 9I UNITS: E61, E132, E212, R10, TR29, EMSUTV30, A307, PE102, E221, E511, BC902, SAF901, EMS902</description>
       <guid isPermaLink="false">2026-10-21 15:36:00</guid>
       <pubDate>Wed, 21 Oct 2026 15:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 3:31 pm</title>
-      <description>MICHAELS MILL RD / BUCKEYSTOWN PIKE RADIO: 9D UNITS: PE311, R14, A148, ALS31, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-10-21 15:31:00</guid>
-      <pubDate>Wed, 21 Oct 2026 15:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
