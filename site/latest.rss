@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 21:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 21:33:53 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:08 pm</title>
+      <description>E SECOND ST / N EAST ST RADIO: 9D UNITS: A38</description>
+      <guid isPermaLink="false">2026-10-22 17:08:00</guid>
+      <pubDate>Thu, 22 Oct 2026 17:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:07 pm</title>
+      <description>E SECOND ST / N EAST ST RADIO: 9D UNITS: A37, ALS2, R3, EMS901</description>
+      <guid isPermaLink="false">2026-10-22 17:07:00</guid>
+      <pubDate>Thu, 22 Oct 2026 17:07:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:22 pm</title>
       <description>300 BLOCK CATOCTIN AVE RADIO: 9B UNITS: A38, A37, TT4</description>
@@ -294,18 +306,6 @@
       <description>MICHAELS MILL RD / BUCKEYSTOWN PIKE RADIO: 9D UNITS: PE311, R14, A148, ALS31, BC901, EMS901</description>
       <guid isPermaLink="false">2026-10-21 15:31:00</guid>
       <pubDate>Wed, 21 Oct 2026 15:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:51 pm</title>
-      <description>6900 BLOCK HATFIELD CT, Apt/Unit:207, KINGSCREST APTS - 6900 BLOCK HATFIELD CT Radio: 9D Units: PE311, E231, E33, E11, PE23, R3, TT4, A318, ALS2, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-10-21 13:51:00</guid>
-      <pubDate>Wed, 21 Oct 2026 13:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 1:50 pm</title>
-      <description>6900 BLOCK HATFIELD CT, Apt/Unit:207, KINGSCREST APTS - 6900 BLOCK HATFIELD CT Radio: 9D Units: PE311, E231, E33, E11, PE23, R3, TT4, A318, ALS2, BC903, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-10-21 13:50:00</guid>
-      <pubDate>Wed, 21 Oct 2026 13:50:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
