@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 18:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:40:08 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:29 pm</title>
+      <description>SCHIFFERSTADT BLVD / STRATFORD WAY RADIO: 9B UNITS: A29, PE23</description>
+      <guid isPermaLink="false">2026-10-22 14:29:00</guid>
+      <pubDate>Thu, 22 Oct 2026 14:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:59 pm</title>
       <description>7800 BLOCK WORMANS MILL RD, MARSHALLS - CLEMSON CORNER RADIO: 9C UNITS: EK114</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Units: K33</description>
       <guid isPermaLink="false">2026-10-21 12:31:00</guid>
       <pubDate>Wed, 21 Oct 2026 12:31:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:21 pm</title>
-      <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Units: RE74</description>
-      <guid isPermaLink="false">2026-10-21 12:21:00</guid>
-      <pubDate>Wed, 21 Oct 2026 12:21:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
