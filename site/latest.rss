@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 19:03:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:33:35 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:22 pm</title>
+      <description>300 BLOCK CATOCTIN AVE RADIO: 9B UNITS: A38, A37, TT4</description>
+      <guid isPermaLink="false">2026-10-22 15:22:00</guid>
+      <pubDate>Thu, 22 Oct 2026 15:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:13 pm</title>
+      <description>100 BLOCK LIBERTY RD, WOODSBORO ELEMENTARY SCHOOL RADIO: 9B UNITS: E162</description>
+      <guid isPermaLink="false">2026-10-22 15:13:00</guid>
+      <pubDate>Thu, 22 Oct 2026 15:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:29 pm</title>
       <description>SCHIFFERSTADT BLVD / STRATFORD WAY RADIO: 9B UNITS: A29, PE23</description>
@@ -294,18 +306,6 @@
       <description>6900 BLOCK HATFIELD CT, Apt/Unit:207, KINGSCREST APTS - 6900 BLOCK HATFIELD CT Radio: 9D Units: PE311, E231, E33, E11, PE23, R3, TT4, A318, ALS2, BC903, BC901, SAF901</description>
       <guid isPermaLink="false">2026-10-21 13:50:00</guid>
       <pubDate>Wed, 21 Oct 2026 13:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:02 pm</title>
-      <description>1500 BLOCK FREEDMAN DR, FORT DETRICK - BLDG 1500 BLOCK Radio: 9C Units: E11</description>
-      <guid isPermaLink="false">2026-10-21 13:02:00</guid>
-      <pubDate>Wed, 21 Oct 2026 13:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 12:31 pm</title>
-      <description>100 BLOCK SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO Units: K33</description>
-      <guid isPermaLink="false">2026-10-21 12:31:00</guid>
-      <pubDate>Wed, 21 Oct 2026 12:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
