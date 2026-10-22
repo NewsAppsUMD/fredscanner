@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 22 Oct 2026 13:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:04:15 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD INSIDE: 9:43 am</title>
+      <description>1900 BLOCK GLADSTONE ST RADIO: 9C UNITS: E11, PE23</description>
+      <guid isPermaLink="false">2026-10-22 09:43:00</guid>
+      <pubDate>Thu, 22 Oct 2026 09:43:00 -0400</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:55 am</title>
       <description>7100 BLOCK COLLINSWORTH PL RADIO: 9C UNITS: PE311</description>
@@ -300,12 +306,6 @@
       <description>RT144 / QUINN ORCHARD RD, RT144 / QUINN ORCHARD RD Radio: 9B Units: A339, E331</description>
       <guid isPermaLink="false">2026-10-21 08:38:00</guid>
       <pubDate>Wed, 21 Oct 2026 08:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 8:37 am</title>
-      <description>700 BLOCK BOND ST Radio: 9C Units: R3</description>
-      <guid isPermaLink="false">2026-10-21 08:37:00</guid>
-      <pubDate>Wed, 21 Oct 2026 08:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
