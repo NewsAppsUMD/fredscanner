@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 23 Oct 2026 01:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:45:38 +0000</lastBuildDate>
+    <item>
+      <title>CO DET SOUNDING: 9:32 pm</title>
+      <description>5000 BLOCK JUDICIAL WAY RADIO: 9C UNITS: PE311</description>
+      <guid isPermaLink="false">2026-10-22 21:32:00</guid>
+      <pubDate>Thu, 22 Oct 2026 21:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:50 pm</title>
       <description>E SECOND ST / N MAXWELL AVE RADIO: 9C UNITS: BR35</description>
@@ -300,12 +306,6 @@
       <description>12400 BLOCK MOUNTAIN RD RADIO: 6B UNITS: T5</description>
       <guid isPermaLink="false">2026-10-21 15:42:00</guid>
       <pubDate>Wed, 21 Oct 2026 15:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 3:41 pm</title>
-      <description>6600 BLOCK FOXVILLE RD, PARK HEADQUARTERS - CATOCTIN MOUNTAIN PARK RADIO: 9I UNITS: ALS30</description>
-      <guid isPermaLink="false">2026-10-21 15:41:00</guid>
-      <pubDate>Wed, 21 Oct 2026 15:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
