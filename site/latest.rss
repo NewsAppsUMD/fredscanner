@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 17:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 17:32:09 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 1:28 pm</title>
+      <description>FRANCIS SCOTT KEY DR / RT85, FRANCIS SCOTT KEY DR / RT85 RADIO: 9B UNITS: A38, E33</description>
+      <guid isPermaLink="false">2026-10-24 13:28:00</guid>
+      <pubDate>Sat, 24 Oct 2026 13:28:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:25 am</title>
       <description>E FREDERICK ST / MAIN ST UNITS: A249, E111</description>
@@ -300,12 +306,6 @@
       <description>RT15-340WB / RT15 (FREDERICK), RT15-340WB / RT15 RADIO: 9B UNITS: PE311, E33, R3, A319, A318</description>
       <guid isPermaLink="false">2026-10-22 05:18:00</guid>
       <pubDate>Thu, 22 Oct 2026 05:18:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CO DET SOUNDING: 3:02 am</title>
-      <description>11600 BLOCK MERRIFIELD CT RADIO: 9C UNITS: PE251</description>
-      <guid isPermaLink="false">2026-10-22 03:02:00</guid>
-      <pubDate>Thu, 22 Oct 2026 03:02:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
