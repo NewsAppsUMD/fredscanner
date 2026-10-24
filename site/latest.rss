@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 20:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 20:34:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:13 pm</title>
+      <description>13100 BLOCK CREAGERSTOWN RD RADIO: 9B UNITS: A169, PE102, A309</description>
+      <guid isPermaLink="false">2026-10-24 16:13:00</guid>
+      <pubDate>Sat, 24 Oct 2026 16:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ODOR OF SMOKE INSIDE: 2:42 pm</title>
       <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: K7</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK E SECOND ST RADIO: 9C UNITS: E33, TT4</description>
       <guid isPermaLink="false">2026-10-22 12:45:00</guid>
       <pubDate>Thu, 22 Oct 2026 12:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:44 am</title>
-      <description>9400 BLOCK CARRIAGE HILL ST RADIO: 9C UNITS: E231</description>
-      <guid isPermaLink="false">2026-10-22 11:44:00</guid>
-      <pubDate>Thu, 22 Oct 2026 11:44:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
