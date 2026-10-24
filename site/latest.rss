@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 24 Oct 2026 18:37:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 19:02:57 +0000</lastBuildDate>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 2:42 pm</title>
+      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: K7</description>
+      <guid isPermaLink="false">2026-10-24 14:42:00</guid>
+      <pubDate>Sat, 24 Oct 2026 14:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 2:42 pm</title>
+      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: K1</description>
+      <guid isPermaLink="false">2026-10-24 14:42:00</guid>
+      <pubDate>Sat, 24 Oct 2026 14:42:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ODOR OF SMOKE INSIDE: 2:37 pm</title>
+      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: E82, E121, TW7, K7</description>
+      <guid isPermaLink="false">2026-10-24 14:37:00</guid>
+      <pubDate>Sat, 24 Oct 2026 14:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:43 pm</title>
       <description>10300 BLOCK CHURCH HILL RD RADIO: 9C UNITS: E82, TW7</description>
@@ -288,24 +306,6 @@
       <description>9400 BLOCK CARRIAGE HILL ST RADIO: 9C UNITS: E231</description>
       <guid isPermaLink="false">2026-10-22 11:44:00</guid>
       <pubDate>Thu, 22 Oct 2026 11:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:25 am</title>
-      <description>I70WB / EXIT 42 (RT17), I70WB / EXIT 42 RADIO: 9C UNITS: BR75, E72</description>
-      <guid isPermaLink="false">2026-10-22 11:25:00</guid>
-      <pubDate>Thu, 22 Oct 2026 11:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 9:43 am</title>
-      <description>1900 BLOCK GLADSTONE ST RADIO: 9C UNITS: E11, PE23</description>
-      <guid isPermaLink="false">2026-10-22 09:43:00</guid>
-      <pubDate>Thu, 22 Oct 2026 09:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:55 am</title>
-      <description>7100 BLOCK COLLINSWORTH PL RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-10-22 08:55:00</guid>
-      <pubDate>Thu, 22 Oct 2026 08:55:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
