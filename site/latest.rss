@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 18:37:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:03:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:49 pm</title>
+      <description>I270SB / 27MM, I270SB / 27MM (near MD 80 / Fingerboard Rd, Exit 26) RADIO: 9B UNITS: PE311, E231, R3, A318, A239, TT23</description>
+      <guid isPermaLink="false">2026-10-25 14:49:00</guid>
+      <pubDate>Sun, 25 Oct 2026 14:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:40 pm</title>
+      <description>8900 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: E82</description>
+      <guid isPermaLink="false">2026-10-25 14:40:00</guid>
+      <pubDate>Sun, 25 Oct 2026 14:40:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:37 pm</title>
+      <description>100 BLOCK WESTVIEW DR RADIO: 9C UNITS: PE102</description>
+      <guid isPermaLink="false">2026-10-25 14:37:00</guid>
+      <pubDate>Sun, 25 Oct 2026 14:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:20 pm</title>
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST RADIO: 9B UNITS: A18, E11</description>
@@ -288,24 +306,6 @@
       <description>8500 BLOCK WOODVILLE RD, FREY AGRICULTURAL RADIO: 9D UNITS: R15</description>
       <guid isPermaLink="false">2026-10-23 19:58:00</guid>
       <pubDate>Fri, 23 Oct 2026 19:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 7:57 pm</title>
-      <description>8500 BLOCK WOODVILLE RD, FREY AGRICULTURAL RADIO: 9D UNITS: R24, EK114, K9, K33</description>
-      <guid isPermaLink="false">2026-10-23 19:57:00</guid>
-      <pubDate>Fri, 23 Oct 2026 19:57:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 7:50 pm</title>
-      <description>8500 BLOCK WOODVILLE RD, FREY AGRICULTURAL RADIO: 9D UNITS: E172, E152, E162, E111, R15, A179, ALS17, BC901, BC902, SAF900, CCK14, CCK1</description>
-      <guid isPermaLink="false">2026-10-23 19:50:00</guid>
-      <pubDate>Fri, 23 Oct 2026 19:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SMOKE OR CO DETECTOR MALFUNCTION: 7:04 pm</title>
-      <description>1400 BLOCK CLINGMANS DOME DR RADIO: 9C UNITS: E11</description>
-      <guid isPermaLink="false">2026-10-23 19:04:00</guid>
-      <pubDate>Fri, 23 Oct 2026 19:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
