@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 09:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:03:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:54 am</title>
+      <description>I70EB / RIDGE RD (BRADDOCK), I70EB / RIDGE RD RADIO: 9B UNITS: E72, E121, R8, A89, A129</description>
+      <guid isPermaLink="false">2026-10-25 05:54:00</guid>
+      <pubDate>Sun, 25 Oct 2026 05:54:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 5:47 am</title>
+      <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK RADIO: 9C UNITS: R3, PE311</description>
+      <guid isPermaLink="false">2026-10-25 05:47:00</guid>
+      <pubDate>Sun, 25 Oct 2026 05:47:00 -0400</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 1:33 am</title>
       <description>8600 BLOCK CHESTNUT GROVE RD RADIO: 9C UNITS: BR175</description>
@@ -294,18 +306,6 @@
       <description>37200 BLOCK GRASS ROOTS LN RADIO: 6DTAC11 UNITS: T5</description>
       <guid isPermaLink="false">2026-10-23 11:10:00</guid>
       <pubDate>Fri, 23 Oct 2026 11:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:27 am</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST RADIO: 9B UNITS: E33, E11, R3, A37, A18</description>
-      <guid isPermaLink="false">2026-10-23 06:27:00</guid>
-      <pubDate>Fri, 23 Oct 2026 06:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:46 am</title>
-      <description>700 BLOCK HIGHLAND ST RADIO: 9B UNITS: A29, PE23</description>
-      <guid isPermaLink="false">2026-10-23 04:46:00</guid>
-      <pubDate>Fri, 23 Oct 2026 04:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
