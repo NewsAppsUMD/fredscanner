@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 01:43:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 02:07:11 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:01 pm</title>
+      <description>RT85 / RT355, RT85 / RT355 RADIO: 9B UNITS: A37, E33</description>
+      <guid isPermaLink="false">2026-10-24 22:01:00</guid>
+      <pubDate>Sat, 24 Oct 2026 22:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:01 pm</title>
+      <description>RT85 / RT355, RT85 / RT355 RADIO: 9B UNITS: EMS901</description>
+      <guid isPermaLink="false">2026-10-24 22:01:00</guid>
+      <pubDate>Sat, 24 Oct 2026 22:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>INVESTIGATION: 9:57 pm</title>
+      <description>200 BLOCK MOSER CIR UNITS: E101</description>
+      <guid isPermaLink="false">2026-10-24 21:57:00</guid>
+      <pubDate>Sat, 24 Oct 2026 21:57:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 9:27 pm</title>
       <description>100 BLOCK JENNIFER LYNNE DR RADIO: 9C UNITS: E52, E281, R20, R19</description>
@@ -288,24 +306,6 @@
       <description>E SECOND ST / N MAXWELL AVE RADIO: 9C UNITS: BR35</description>
       <guid isPermaLink="false">2026-10-22 18:50:00</guid>
       <pubDate>Thu, 22 Oct 2026 18:50:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 6:04 pm</title>
-      <description>I70EB / REST AREA (MYERSVILLE), I70EB / REST AREA RADIO: 9C UNITS: E82</description>
-      <guid isPermaLink="false">2026-10-22 18:04:00</guid>
-      <pubDate>Thu, 22 Oct 2026 18:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:08 pm</title>
-      <description>E SECOND ST / N EAST ST RADIO: 9D UNITS: A38</description>
-      <guid isPermaLink="false">2026-10-22 17:08:00</guid>
-      <pubDate>Thu, 22 Oct 2026 17:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:07 pm</title>
-      <description>E SECOND ST / N EAST ST RADIO: 9D UNITS: A37, ALS2, R3, EMS901</description>
-      <guid isPermaLink="false">2026-10-22 17:07:00</guid>
-      <pubDate>Thu, 22 Oct 2026 17:07:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
