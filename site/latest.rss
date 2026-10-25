@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 14:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:03:23 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 10:36 am</title>
+      <description>10000 BLOCK CLEMSONVILLE RD UNITS: R15, R24</description>
+      <guid isPermaLink="false">2026-10-25 10:36:00</guid>
+      <pubDate>Sun, 25 Oct 2026 10:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 10:36 am</title>
+      <description>10000 BLOCK CLEMSONVILLE RD UNITS: E91, E111, PE251, R2, EK114</description>
+      <guid isPermaLink="false">2026-10-25 10:36:00</guid>
+      <pubDate>Sun, 25 Oct 2026 10:36:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 10:33 am</title>
+      <description>10000 BLOCK CLEMSONVILLE RD UNITS: TW1</description>
+      <guid isPermaLink="false">2026-10-25 10:33:00</guid>
+      <pubDate>Sun, 25 Oct 2026 10:33:00 -0400</pubDate>
+    </item>
     <item>
       <title>BARN FIRE: 10:30 am</title>
       <description>10000 BLOCK CLEMSONVILLE RD UNITS: E172, E162, E153, R15, R24, K9, A179, ALS17, BC902, BC901, SAF900, CCK14</description>
@@ -288,24 +306,6 @@
       <description>700 BLOCK POTOMAC AVE, STATION WC75-3 UNITS: A196</description>
       <guid isPermaLink="false">2026-10-23 18:23:00</guid>
       <pubDate>Fri, 23 Oct 2026 18:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:54 pm</title>
-      <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: E132, R10, K10, EK224</description>
-      <guid isPermaLink="false">2026-10-23 17:54:00</guid>
-      <pubDate>Fri, 23 Oct 2026 17:54:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:53 pm</title>
-      <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: E11, R24, EK114, K1</description>
-      <guid isPermaLink="false">2026-10-23 17:53:00</guid>
-      <pubDate>Fri, 23 Oct 2026 17:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:49 pm</title>
-      <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: A309</description>
-      <guid isPermaLink="false">2026-10-23 17:49:00</guid>
-      <pubDate>Fri, 23 Oct 2026 17:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
