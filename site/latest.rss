@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 18:04:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 18:37:52 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:20 pm</title>
+      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST RADIO: 9B UNITS: A18, E11</description>
+      <guid isPermaLink="false">2026-10-25 14:20:00</guid>
+      <pubDate>Sun, 25 Oct 2026 14:20:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:00 pm</title>
+      <description>MONOCACY BLVD / RIVERBEND WAY RADIO: 9B UNITS: A249, E111</description>
+      <guid isPermaLink="false">2026-10-25 14:00:00</guid>
+      <pubDate>Sun, 25 Oct 2026 14:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 1:21 pm</title>
       <description>9900 BLOCK SOFIELD PL RADIO: 9C UNITS: R15, E331</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK CLINGMANS DOME DR RADIO: 9C UNITS: E11</description>
       <guid isPermaLink="false">2026-10-23 19:04:00</guid>
       <pubDate>Fri, 23 Oct 2026 19:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:48 pm</title>
-      <description>700 BLOCK ACROPOLIS WAY, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY RADIO: 9C UNITS: PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-23 18:48:00</guid>
-      <pubDate>Fri, 23 Oct 2026 18:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:35 pm</title>
-      <description>100 BLOCK S LOUDOUN ST, LOVETTSVILLE ES RADIO: 6B UNITS: T5</description>
-      <guid isPermaLink="false">2026-10-23 18:35:00</guid>
-      <pubDate>Fri, 23 Oct 2026 18:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
