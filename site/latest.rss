@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 12:05:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:41:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:29 am</title>
+      <description>6000 BLOCK JEFFERSON BLVD, AUTUMN LAKE AT BRADDOCK HEIGHTS RADIO: 9C UNITS: E121, TW7</description>
+      <guid isPermaLink="false">2026-10-25 08:29:00</guid>
+      <pubDate>Sun, 25 Oct 2026 08:29:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 7:02 am</title>
       <description>5300 BLOCK SPECTRUM DR, SLEEP INN &amp; SUITES - FREDERICK RADIO: 9C UNITS: R3, PE311</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: PE102, E291, E61, E132, E111, E162, R10, TW6, K10, EK224, EK64, ALS30, E221, K22, BC902, BC901, SAF901</description>
       <guid isPermaLink="false">2026-10-23 17:48:00</guid>
       <pubDate>Fri, 23 Oct 2026 17:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 3:08 pm</title>
-      <description>6100 BLOCK MURRAY TER RADIO: 9C UNITS: E11, PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-23 15:08:00</guid>
-      <pubDate>Fri, 23 Oct 2026 15:08:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
