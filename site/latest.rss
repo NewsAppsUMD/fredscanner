@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 25 Oct 2026 14:03:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:33:47 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 10:30 am</title>
+      <description>10000 BLOCK CLEMSONVILLE RD UNITS: E172, E162, E153, R15, R24, K9, A179, ALS17, BC902, BC901, SAF900, CCK14</description>
+      <guid isPermaLink="false">2026-10-25 10:30:00</guid>
+      <pubDate>Sun, 25 Oct 2026 10:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:29 am</title>
       <description>6000 BLOCK JEFFERSON BLVD, AUTUMN LAKE AT BRADDOCK HEIGHTS RADIO: 9C UNITS: E121, TW7</description>
@@ -300,12 +306,6 @@
       <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: A309</description>
       <guid isPermaLink="false">2026-10-23 17:49:00</guid>
       <pubDate>Fri, 23 Oct 2026 17:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 5:48 pm</title>
-      <description>13000 BLOCK CATOCTIN FURNACE RD, CATOCTIN WILDLIFE PRESERVE &amp; ZOO UNITS: PE102, E291, E61, E132, E111, E162, R10, TW6, K10, EK224, EK64, ALS30, E221, K22, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-10-23 17:48:00</guid>
-      <pubDate>Fri, 23 Oct 2026 17:48:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
