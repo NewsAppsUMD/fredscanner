@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 13:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:49:16 +0000</lastBuildDate>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE — units: </description>
@@ -90,12 +90,6 @@
       <description>5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR — units: PE311, E11, E33, PE23, E141, R3, TT4, A18, ALS4, BC901, BC902, SAF901</description>
       <guid isPermaLink="false">2026-10-18 17:13:00|5200 BLOCK BLACK LOCUST DR, Apt/Unit:201, ORCHARD PARK AT BALLENGER RUN - 5200 BLOCK BLACK LOCUST DR</guid>
       <pubDate>Sun, 18 Oct 2026 17:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 2:59 pm</title>
-      <description>1300 BLOCK TANEY AVE, Apt/Unit:103, POTOMAC COMMONS APTS - 1300 BLOCK TANEY AVE — units: E501, E11, PE23, E291, E33, R3, TT4, A18, ALS2, BC902, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-10-18 14:59:00|1300 BLOCK TANEY AVE, Apt/Unit:103, POTOMAC COMMONS APTS - 1300 BLOCK TANEY AVE</guid>
-      <pubDate>Sun, 18 Oct 2026 14:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

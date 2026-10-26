@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 13:27:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:49:16 +0000</lastBuildDate>
+    <item>
+      <title>BARN FIRE: 10:25 am</title>
+      <description>17650(16942) BLK FREDERICK RD UNITS: R15</description>
+      <guid isPermaLink="false">2026-10-26 10:25:00</guid>
+      <pubDate>Mon, 26 Oct 2026 10:25:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 10:12 am</title>
+      <description>1400 BLOCK PORTER ST RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-10-26 10:12:00</guid>
+      <pubDate>Mon, 26 Oct 2026 10:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 10:09 am</title>
+      <description>BLACKS MILL RD / LAYMAN RD RADIO: 9C UNITS: PE102, EK224, BR226</description>
+      <guid isPermaLink="false">2026-10-26 10:09:00</guid>
+      <pubDate>Mon, 26 Oct 2026 10:09:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:51 am</title>
+      <description>8300 BLOCK PINECLIFF PARK RD, MAINTENANCE BUILDING AT PINECLIFF PARK RADIO: 9C UNITS: E331, TT4</description>
+      <guid isPermaLink="false">2026-10-26 09:51:00</guid>
+      <pubDate>Mon, 26 Oct 2026 09:51:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE RADIO: 9D UNITS: E82, HM33, HM50, E121, A89, BC903, SAF901</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK JENNIFER LYNNE DR RADIO: 9C UNITS: E52, E281, R20, R19</description>
       <guid isPermaLink="false">2026-10-24 21:27:00</guid>
       <pubDate>Sat, 24 Oct 2026 21:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 9:25 pm</title>
-      <description>RT75 / OLD ANNAPOLIS RD, RT75 / OLD ANNAPOLIS RD RADIO: 9C UNITS: E172</description>
-      <guid isPermaLink="false">2026-10-24 21:25:00</guid>
-      <pubDate>Sat, 24 Oct 2026 21:25:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 7:41 pm</title>
-      <description>900 BLOCK W PATRICK ST, MOTEL 6 RADIO: 9C UNITS: TW1</description>
-      <guid isPermaLink="false">2026-10-24 19:41:00</guid>
-      <pubDate>Sat, 24 Oct 2026 19:41:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 7:15 pm</title>
-      <description>100 BLOCK W SOUTH ST RADIO: 9C UNITS: E33, PE23, TT4</description>
-      <guid isPermaLink="false">2026-10-24 19:15:00</guid>
-      <pubDate>Sat, 24 Oct 2026 19:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:04 pm</title>
-      <description>13100 BLOCK CREAGERSTOWN RD RADIO: 9B UNITS: A307, R10</description>
-      <guid isPermaLink="false">2026-10-24 17:04:00</guid>
-      <pubDate>Sat, 24 Oct 2026 17:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
