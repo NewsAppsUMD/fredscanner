@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 01:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:10:50 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:48 pm</title>
+      <description>1200 BLOCK DUTCHMANS CREEK DR, WEIS MARKET - BRUNSWICK CROSSING RADIO: 9C UNITS: PE52, TW7</description>
+      <guid isPermaLink="false">2026-10-25 21:48:00</guid>
+      <pubDate>Sun, 25 Oct 2026 21:48:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:24 pm</title>
       <description>9400 BLOCK PROSPECT HILL PL RADIO: 9C UNITS: E231, TT23</description>
@@ -300,12 +306,6 @@
       <description>FRANCIS SCOTT KEY DR / RT85, FRANCIS SCOTT KEY DR / RT85 RADIO: 9B UNITS: A38, E33</description>
       <guid isPermaLink="false">2026-10-24 13:28:00</guid>
       <pubDate>Sat, 24 Oct 2026 13:28:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:25 am</title>
-      <description>E FREDERICK ST / MAIN ST UNITS: A249, E111</description>
-      <guid isPermaLink="false">2026-10-24 10:25:00</guid>
-      <pubDate>Sat, 24 Oct 2026 10:25:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

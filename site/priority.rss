@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 01:47:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 02:10:50 +0000</lastBuildDate>
     <item>
       <title>APPLIANCE MALFUNCTION: 9:27 pm</title>
       <description>100 BLOCK JENNIFER LYNNE DR — units: </description>
@@ -96,12 +96,6 @@
       <description>FINGERBOARD RD / PARK MILLS RD — units: E231, R14, A239, ALS23, BC901, EMS901, TT23</description>
       <guid isPermaLink="false">2026-10-18 00:09:00|FINGERBOARD RD / PARK MILLS RD</guid>
       <pubDate>Sun, 18 Oct 2026 00:09:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 7:29 pm</title>
-      <description>CRESTWOOD BLVD / BURNING BUSH DR — units: A319, PE311, EMS901</description>
-      <guid isPermaLink="false">2026-10-17 19:29:00|CRESTWOOD BLVD / BURNING BUSH DR</guid>
-      <pubDate>Sat, 17 Oct 2026 19:29:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
