@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 11:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:27:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
+      <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE — units: </description>
+      <guid isPermaLink="false">2026-10-26 08:59:00|I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE</guid>
+      <pubDate>Mon, 26 Oct 2026 08:59:00 -0400</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 9:27 pm</title>
       <description>100 BLOCK JENNIFER LYNNE DR — units: </description>
@@ -90,12 +96,6 @@
       <description>1300 BLOCK TANEY AVE, Apt/Unit:103, POTOMAC COMMONS APTS - 1300 BLOCK TANEY AVE — units: E501, E11, PE23, E291, E33, R3, TT4, A18, ALS2, BC902, BC903, SAF901</description>
       <guid isPermaLink="false">2026-10-18 14:59:00|1300 BLOCK TANEY AVE, Apt/Unit:103, POTOMAC COMMONS APTS - 1300 BLOCK TANEY AVE</guid>
       <pubDate>Sun, 18 Oct 2026 14:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 12:09 am</title>
-      <description>FINGERBOARD RD / PARK MILLS RD — units: E231, R14, A239, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-10-18 00:09:00|FINGERBOARD RD / PARK MILLS RD</guid>
-      <pubDate>Sun, 18 Oct 2026 00:09:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 11:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:27:14 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
+      <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE RADIO: 9D UNITS: E82, HM33, HM50, E121, A89, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-10-26 08:59:00</guid>
+      <pubDate>Mon, 26 Oct 2026 08:59:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:49 am</title>
+      <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNEY - FRANCIS SCOTT KEY MALL RADIO: 9C UNITS: PE311, TT4</description>
+      <guid isPermaLink="false">2026-10-26 08:49:00</guid>
+      <pubDate>Mon, 26 Oct 2026 08:49:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:28 am</title>
+      <description>8300 BLOCK PINECLIFF PARK RD, MAINTENANCE BUILDING AT PINECLIFF PARK RADIO: 9C UNITS: E331, TT4</description>
+      <guid isPermaLink="false">2026-10-26 08:28:00</guid>
+      <pubDate>Mon, 26 Oct 2026 08:28:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:01 am</title>
+      <description>2400 BLOCK WHITTIER DR, WHITTIER ELEMENTARY SCHOOL RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-10-26 08:01:00</guid>
+      <pubDate>Mon, 26 Oct 2026 08:01:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:57 am</title>
+      <description>600 BLOCK E CHURCH ST, J&amp;J REAL ESTATE RADIO: 9B UNITS: PE23, TT4</description>
+      <guid isPermaLink="false">2026-10-26 07:57:00</guid>
+      <pubDate>Mon, 26 Oct 2026 07:57:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 7:44 am</title>
+      <description>100 BLOCK S COURT ST, COURT STREET PARKING DECK RADIO: 9C UNITS: TT4</description>
+      <guid isPermaLink="false">2026-10-26 07:44:00</guid>
+      <pubDate>Mon, 26 Oct 2026 07:44:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:13 am</title>
       <description>I270SB / MONOCACY RIVER, I270SB / MONOCACY RIVER RADIO: 9B UNITS: PE311, E231, R3, A318, A239</description>
@@ -270,42 +306,6 @@
       <description>13100 BLOCK CREAGERSTOWN RD RADIO: 9B UNITS: A307, R10</description>
       <guid isPermaLink="false">2026-10-24 17:04:00</guid>
       <pubDate>Sat, 24 Oct 2026 17:04:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:13 pm</title>
-      <description>13100 BLOCK CREAGERSTOWN RD RADIO: 9B UNITS: A169, PE102, A309</description>
-      <guid isPermaLink="false">2026-10-24 16:13:00</guid>
-      <pubDate>Sat, 24 Oct 2026 16:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:42 pm</title>
-      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: K7</description>
-      <guid isPermaLink="false">2026-10-24 14:42:00</guid>
-      <pubDate>Sat, 24 Oct 2026 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:42 pm</title>
-      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: K1</description>
-      <guid isPermaLink="false">2026-10-24 14:42:00</guid>
-      <pubDate>Sat, 24 Oct 2026 14:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ODOR OF SMOKE INSIDE: 2:37 pm</title>
-      <description>9000 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: E82, E121, TW7, K7</description>
-      <guid isPermaLink="false">2026-10-24 14:37:00</guid>
-      <pubDate>Sat, 24 Oct 2026 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:43 pm</title>
-      <description>10300 BLOCK CHURCH HILL RD RADIO: 9C UNITS: E82, TW7</description>
-      <guid isPermaLink="false">2026-10-24 13:43:00</guid>
-      <pubDate>Sat, 24 Oct 2026 13:43:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 1:42 pm</title>
-      <description>6300 BLOCK RUTHERFORD CT RADIO: 9C UNITS: PE311, E33, TW1</description>
-      <guid isPermaLink="false">2026-10-24 13:42:00</guid>
-      <pubDate>Sat, 24 Oct 2026 13:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
