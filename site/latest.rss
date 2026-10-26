@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 26 Oct 2026 10:07:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:38:44 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:13 am</title>
+      <description>I270SB / MONOCACY RIVER, I270SB / MONOCACY RIVER RADIO: 9B UNITS: PE311, E231, R3, A318, A239</description>
+      <guid isPermaLink="false">2026-10-26 06:13:00</guid>
+      <pubDate>Mon, 26 Oct 2026 06:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 10:49 pm</title>
       <description>200 BLOCK SAVAGE RD RADIO: 9C UNITS: E11</description>
@@ -300,12 +306,6 @@
       <description>6300 BLOCK RUTHERFORD CT RADIO: 9C UNITS: PE311, E33, TW1</description>
       <guid isPermaLink="false">2026-10-24 13:42:00</guid>
       <pubDate>Sat, 24 Oct 2026 13:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:41 pm</title>
-      <description>4000 BLOCK BILL MOXLEY RD RADIO: 9B UNITS: A259, PE251</description>
-      <guid isPermaLink="false">2026-10-24 13:41:00</guid>
-      <pubDate>Sat, 24 Oct 2026 13:41:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
