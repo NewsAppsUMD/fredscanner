@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 03:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:41:23 +0000</lastBuildDate>
+    <item>
+      <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:23 pm</title>
+      <description>1800 BLOCK N MARKET ST, DSS RADIO: 9C UNITS: PE23</description>
+      <guid isPermaLink="false">2026-10-26 23:23:00</guid>
+      <pubDate>Mon, 26 Oct 2026 23:23:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 9:02 pm</title>
       <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP RADIO: 9C UNITS: E141, TT23</description>
@@ -300,12 +306,6 @@
       <description>100 BLOCK WESTVIEW DR RADIO: 9C UNITS: PE102</description>
       <guid isPermaLink="false">2026-10-25 14:37:00</guid>
       <pubDate>Sun, 25 Oct 2026 14:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:20 pm</title>
-      <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST RADIO: 9B UNITS: A18, E11</description>
-      <guid isPermaLink="false">2026-10-25 14:20:00</guid>
-      <pubDate>Sun, 25 Oct 2026 14:20:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
