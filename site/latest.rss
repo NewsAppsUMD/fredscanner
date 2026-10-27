@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 15:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:38:04 +0000</lastBuildDate>
+    <item>
+      <title>SERVICE CALL: 11:30 am</title>
+      <description>100 BLOCK W FIFTH ST RADIO: 9C UNITS: E33</description>
+      <guid isPermaLink="false">2026-10-27 11:30:00</guid>
+      <pubDate>Tue, 27 Oct 2026 11:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:02 am</title>
+      <description>2200 BLOCK URBANA PIKE RADIO: 9B UNITS: A318, E231</description>
+      <guid isPermaLink="false">2026-10-27 11:02:00</guid>
+      <pubDate>Tue, 27 Oct 2026 11:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE FIRE: 11:00 am</title>
+      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE RADIO: 9C UNITS: E33</description>
+      <guid isPermaLink="false">2026-10-27 11:00:00</guid>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
       <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL UNITS: E11</description>
@@ -288,24 +306,6 @@
       <description>6600 BLOCK BLUE BEECH DR RADIO: 9C UNITS: PE311, TW1</description>
       <guid isPermaLink="false">2026-10-25 17:59:00</guid>
       <pubDate>Sun, 25 Oct 2026 17:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:26 pm</title>
-      <description>6200 BLOCK MARGARITA WAY RADIO: 9C UNITS: E11, TT4</description>
-      <guid isPermaLink="false">2026-10-25 17:26:00</guid>
-      <pubDate>Sun, 25 Oct 2026 17:26:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 4:53 pm</title>
-      <description>100 BLOCK W PATRICK ST, FRANCIS SCOTT KEY APTS UNITS: E33</description>
-      <guid isPermaLink="false">2026-10-25 16:53:00</guid>
-      <pubDate>Sun, 25 Oct 2026 16:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:31 pm</title>
-      <description>6400 BLOCK MERCANTILE DR E, CAMDEN CLEARBROOK APTS - 6400 BLOCK MERCANTILE DR RADIO: 9C UNITS: PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-25 16:31:00</guid>
-      <pubDate>Sun, 25 Oct 2026 16:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
