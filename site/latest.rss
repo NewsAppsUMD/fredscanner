@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 00:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:06:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:02 pm</title>
+      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP RADIO: 9C UNITS: E141, TT23</description>
+      <guid isPermaLink="false">2026-10-26 21:02:00</guid>
+      <pubDate>Mon, 26 Oct 2026 21:02:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>SERVICE CALL: 8:51 pm</title>
+      <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES RADIO: 9C UNITS: PE311</description>
+      <guid isPermaLink="false">2026-10-26 20:51:00</guid>
+      <pubDate>Mon, 26 Oct 2026 20:51:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 8:35 pm</title>
+      <description>7200 BLOCK BOWERS RD RADIO: 9D UNITS: A18, ALS4, E11, EMS902</description>
+      <guid isPermaLink="false">2026-10-26 20:35:00</guid>
+      <pubDate>Mon, 26 Oct 2026 20:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:06 pm</title>
+      <description>RT80 / I270 RADIO: 9B UNITS: A38</description>
+      <guid isPermaLink="false">2026-10-26 20:06:00</guid>
+      <pubDate>Mon, 26 Oct 2026 20:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:04 pm</title>
       <description>RT80 / I270, I270NB / RT80 RADIO: 9B UNITS: A339</description>
@@ -282,30 +306,6 @@
       <description>RT15SB / W PATRICK ST, RT15SB / W PATRICK ST RADIO: 9B UNITS: A18, E11</description>
       <guid isPermaLink="false">2026-10-25 14:20:00</guid>
       <pubDate>Sun, 25 Oct 2026 14:20:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:00 pm</title>
-      <description>MONOCACY BLVD / RIVERBEND WAY RADIO: 9B UNITS: A249, E111</description>
-      <guid isPermaLink="false">2026-10-25 14:00:00</guid>
-      <pubDate>Sun, 25 Oct 2026 14:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 1:21 pm</title>
-      <description>9900 BLOCK SOFIELD PL RADIO: 9C UNITS: R15, E331</description>
-      <guid isPermaLink="false">2026-10-25 13:21:00</guid>
-      <pubDate>Sun, 25 Oct 2026 13:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:36 am</title>
-      <description>10000 BLOCK CLEMSONVILLE RD UNITS: R15, R24</description>
-      <guid isPermaLink="false">2026-10-25 10:36:00</guid>
-      <pubDate>Sun, 25 Oct 2026 10:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 10:36 am</title>
-      <description>10000 BLOCK CLEMSONVILLE RD UNITS: E91, E111, PE251, R2, EK114</description>
-      <guid isPermaLink="false">2026-10-25 10:36:00</guid>
-      <pubDate>Sun, 25 Oct 2026 10:36:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
