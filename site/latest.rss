@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 27 Oct 2026 05:38:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:07:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:53 am</title>
+      <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL RADIO: 9C UNITS: E141, TT23</description>
+      <guid isPermaLink="false">2026-10-27 01:53:00</guid>
+      <pubDate>Tue, 27 Oct 2026 01:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 1:42 am</title>
+      <description>16900 BLOCK FREDERICK RD UNITS: R15</description>
+      <guid isPermaLink="false">2026-10-27 01:42:00</guid>
+      <pubDate>Tue, 27 Oct 2026 01:42:00 -0400</pubDate>
+    </item>
     <item>
       <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:23 pm</title>
       <description>1800 BLOCK N MARKET ST, DSS RADIO: 9C UNITS: PE23</description>
@@ -294,18 +306,6 @@
       <description>I270SB / 27MM, I270SB / 27MM (near MD 80 / Fingerboard Rd, Exit 26) RADIO: 9B UNITS: PE311, E231, R3, A318, A239, TT23</description>
       <guid isPermaLink="false">2026-10-25 14:49:00</guid>
       <pubDate>Sun, 25 Oct 2026 14:49:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 2:40 pm</title>
-      <description>8900 BLOCK HAWBOTTOM RD RADIO: 9C UNITS: E82</description>
-      <guid isPermaLink="false">2026-10-25 14:40:00</guid>
-      <pubDate>Sun, 25 Oct 2026 14:40:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:37 pm</title>
-      <description>100 BLOCK WESTVIEW DR RADIO: 9C UNITS: PE102</description>
-      <guid isPermaLink="false">2026-10-25 14:37:00</guid>
-      <pubDate>Sun, 25 Oct 2026 14:37:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
