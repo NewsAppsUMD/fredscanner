@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 20:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:02:30 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
+      <description>WORTHINGTON BLVD / SUGARLOAF PKWY RADIO: 9B UNITS: A239, TT23</description>
+      <guid isPermaLink="false">2026-10-28 16:38:00</guid>
+      <pubDate>Wed, 28 Oct 2026 16:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:17 pm</title>
       <description>BOYERS MILL RD / NIGHTINGALE PL RADIO: 9B UNITS: A158, E153</description>
@@ -300,12 +306,6 @@
       <description>11900 BLOCK SOUTH ST RADIO: 9B UNITS: A179, E172</description>
       <guid isPermaLink="false">2026-10-26 17:42:00</guid>
       <pubDate>Mon, 26 Oct 2026 17:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:47 pm</title>
-      <description>GEORGES MILL RD / TRITICUM LN RADIO: 6LTAC31 UNITS: PE52</description>
-      <guid isPermaLink="false">2026-10-26 16:47:00</guid>
-      <pubDate>Mon, 26 Oct 2026 16:47:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
