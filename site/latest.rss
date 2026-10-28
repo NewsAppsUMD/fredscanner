@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 21:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:02:54 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:35 pm</title>
+      <description>BURNING BUSH DR / WISTERIA WAY RADIO: 9D UNITS: A318</description>
+      <guid isPermaLink="false">2026-10-28 17:35:00</guid>
+      <pubDate>Wed, 28 Oct 2026 17:35:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:30 pm</title>
+      <description>BURNING BUSH DR / WISTERIA WAY RADIO: 9D UNITS: PE311, R3, A319, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-10-28 17:30:00</guid>
+      <pubDate>Wed, 28 Oct 2026 17:30:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
       <description>WORTHINGTON BLVD / SUGARLOAF PKWY RADIO: 9B UNITS: A239, TT23</description>
@@ -294,18 +306,6 @@
       <description>RT15SB / RT340 (FREDERICK), RT15SB / RT340 RADIO: 9B UNITS: A19, E11</description>
       <guid isPermaLink="false">2026-10-26 19:39:00</guid>
       <pubDate>Mon, 26 Oct 2026 19:39:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 7:06 pm</title>
-      <description>6100 BLOCK FIELDCREST DR UNITS: E33, E153, PE23, E311, E11, R3, TT4, R15, A339, ALS4, BC901, BC903, SAF901</description>
-      <guid isPermaLink="false">2026-10-26 19:06:00</guid>
-      <pubDate>Mon, 26 Oct 2026 19:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:42 pm</title>
-      <description>11900 BLOCK SOUTH ST RADIO: 9B UNITS: A179, E172</description>
-      <guid isPermaLink="false">2026-10-26 17:42:00</guid>
-      <pubDate>Mon, 26 Oct 2026 17:42:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
