@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 15:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:03:05 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:53 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, SAMS CLUB RADIO: 9C UNITS: PE311, TT23</description>
+      <guid isPermaLink="false">2026-10-28 11:53:00</guid>
+      <pubDate>Wed, 28 Oct 2026 11:53:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:32 am</title>
+      <description>I270NB / RT80(RT80), I270NB / RT80 RADIO: 9B UNITS: E231, E33, R3, A318</description>
+      <guid isPermaLink="false">2026-10-28 11:32:00</guid>
+      <pubDate>Wed, 28 Oct 2026 11:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 11:16 am</title>
       <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 UNITS: ALS30</description>
@@ -294,18 +306,6 @@
       <description>GEORGES MILL RD / TRITICUM LN RADIO: 6LTAC31 UNITS: A198, R20, E51</description>
       <guid isPermaLink="false">2026-10-26 16:36:00</guid>
       <pubDate>Mon, 26 Oct 2026 16:36:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 3:45 pm</title>
-      <description>GREEN VALLEY RD / ARTIE KEMP RD RADIO: 9B UNITS: A158, E172</description>
-      <guid isPermaLink="false">2026-10-26 15:45:00</guid>
-      <pubDate>Mon, 26 Oct 2026 15:45:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 3:15 pm</title>
-      <description>I270SB / RT85, I270SB / RT85 RADIO: 9C UNITS: BR16, BR235</description>
-      <guid isPermaLink="false">2026-10-26 15:15:00</guid>
-      <pubDate>Mon, 26 Oct 2026 15:15:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
