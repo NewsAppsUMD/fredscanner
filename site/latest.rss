@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 02:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:03:56 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE: 10:34 pm</title>
+      <description>4700 BLOCK RUGGLES RD UNITS: E61</description>
+      <guid isPermaLink="false">2026-10-27 22:34:00</guid>
+      <pubDate>Tue, 27 Oct 2026 22:34:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
       <description>1000 BLOCK W PATRICK ST, MIDAS MUFFLER RADIO: 9B UNITS: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>2400 BLOCK WHITTIER DR, WHITTIER ELEMENTARY SCHOOL RADIO: 9C UNITS: E11</description>
       <guid isPermaLink="false">2026-10-26 08:01:00</guid>
       <pubDate>Mon, 26 Oct 2026 08:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:57 am</title>
-      <description>600 BLOCK E CHURCH ST, J&amp;J REAL ESTATE RADIO: 9B UNITS: PE23, TT4</description>
-      <guid isPermaLink="false">2026-10-26 07:57:00</guid>
-      <pubDate>Mon, 26 Oct 2026 07:57:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
