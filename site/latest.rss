@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Oct 2026 08:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:33:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:03 am</title>
+      <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER RADIO: 9C UNITS: PE23, TT4</description>
+      <guid isPermaLink="false">2026-10-28 04:03:00</guid>
+      <pubDate>Wed, 28 Oct 2026 04:03:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 2:31 am</title>
       <description>300 BLOCK S SETON AVE, SETON VILLAGE APARTMENTS RADIO: 9C UNITS: E61, TW6</description>
@@ -300,12 +306,6 @@
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE RADIO: 9D UNITS: E82, HM33, HM50, E121, A89, BC903, SAF901</description>
       <guid isPermaLink="false">2026-10-26 08:59:00</guid>
       <pubDate>Mon, 26 Oct 2026 08:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:49 am</title>
-      <description>5500 BLOCK BUCKEYSTOWN PIKE, JC PENNEY - FRANCIS SCOTT KEY MALL RADIO: 9C UNITS: PE311, TT4</description>
-      <guid isPermaLink="false">2026-10-26 08:49:00</guid>
-      <pubDate>Mon, 26 Oct 2026 08:49:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
