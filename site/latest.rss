@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 21:02:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:31:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:24 pm</title>
+      <description>I70WB / 38MM UNITS: E82, ALS8, A89</description>
+      <guid isPermaLink="false">2026-10-29 17:24:00</guid>
+      <pubDate>Thu, 29 Oct 2026 17:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 5:22 pm</title>
+      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE RADIO: 9D UNITS: A37, ALS4, E33, EMS902</description>
+      <guid isPermaLink="false">2026-10-29 17:22:00</guid>
+      <pubDate>Thu, 29 Oct 2026 17:22:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 5:13 pm</title>
+      <description>100 BLOCK EASTERN BLVD N, STATION WC075 - COMMUNITY RESCUE SERVICE 75 UNITS: A196</description>
+      <guid isPermaLink="false">2026-10-29 17:13:00</guid>
+      <pubDate>Thu, 29 Oct 2026 17:13:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:54 pm</title>
       <description>I70EB / RT40 (FRED), I70EB / RT40 RADIO: 9B UNITS: E82, E121, RE74, A89, A129</description>
@@ -288,24 +306,6 @@
       <description>I70EB / 38MM UNITS: A89, E82</description>
       <guid isPermaLink="false">2026-10-27 23:00:00</guid>
       <pubDate>Tue, 27 Oct 2026 23:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE: 10:34 pm</title>
-      <description>4700 BLOCK RUGGLES RD UNITS: E61</description>
-      <guid isPermaLink="false">2026-10-27 22:34:00</guid>
-      <pubDate>Tue, 27 Oct 2026 22:34:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:14 pm</title>
-      <description>1000 BLOCK W PATRICK ST, MIDAS MUFFLER RADIO: 9B UNITS: A18, E11</description>
-      <guid isPermaLink="false">2026-10-27 18:14:00</guid>
-      <pubDate>Tue, 27 Oct 2026 18:14:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:35 pm</title>
-      <description>6100 BLOCK NEWPORT TER RADIO: 9C UNITS: E33</description>
-      <guid isPermaLink="false">2026-10-27 17:35:00</guid>
-      <pubDate>Tue, 27 Oct 2026 17:35:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
