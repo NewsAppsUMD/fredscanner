@@ -6,7 +6,61 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 00:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:50:42 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:33 pm</title>
+      <description>3600 BLOCK FLATWOODS DR RADIO: 9C UNITS: E231</description>
+      <guid isPermaLink="false">2026-10-28 20:33:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:33:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 8:32 pm</title>
+      <description>400 BLOCK CARROLLTON DR RADIO: 9C UNITS: E33</description>
+      <guid isPermaLink="false">2026-10-28 20:32:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:32:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN 12342 WARNER RD: 8:24 pm</title>
+      <description>RADIO: 9D UNITS: EK224</description>
+      <guid isPermaLink="false">2026-10-28 20:24:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN 12342 WARNER RD: 8:24 pm</title>
+      <description>RADIO: 9D UNITS: EK64</description>
+      <guid isPermaLink="false">2026-10-28 20:24:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN 12342 WARNER RD: 8:17 pm</title>
+      <description>RADIO: 9D UNITS: TTF, PE23, EK224, K10, K1, K22, W9</description>
+      <guid isPermaLink="false">2026-10-28 20:17:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:17:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 8:12 pm</title>
+      <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: K9</description>
+      <guid isPermaLink="false">2026-10-28 20:12:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 8:12 pm</title>
+      <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: E132</description>
+      <guid isPermaLink="false">2026-10-28 20:12:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 8:12 pm</title>
+      <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: PE102, E291, K17, EK224</description>
+      <guid isPermaLink="false">2026-10-28 20:12:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:12:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>BARN FIRE: 8:06 pm</title>
+      <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: E91, E162, E132, E111, E172, TW11, R24, K9, EK134, A169, BC902, BC901, SAF901</description>
+      <guid isPermaLink="false">2026-10-28 20:06:00</guid>
+      <pubDate>Wed, 28 Oct 2026 20:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:55 pm</title>
       <description>5500 BLOCK BUCKEYSTOWN PIKE, FRANCIS SCOTT KEY MALL RADIO: 9C UNITS: PE311, TT4</description>
@@ -252,60 +306,6 @@
       <description>16900 BLOCK FREDERICK RD UNITS: R15</description>
       <guid isPermaLink="false">2026-10-27 06:51:00</guid>
       <pubDate>Tue, 27 Oct 2026 06:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 6:08 am</title>
-      <description>900 BLOCK W PATRICK ST, MOTEL 6 RADIO: 9C UNITS: TW1</description>
-      <guid isPermaLink="false">2026-10-27 06:08:00</guid>
-      <pubDate>Tue, 27 Oct 2026 06:08:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:53 am</title>
-      <description>5600 BLOCK ADAMSTOWN RD, CARROLL MANOR ELEMENTARY SCHOOL RADIO: 9C UNITS: E141, TT23</description>
-      <guid isPermaLink="false">2026-10-27 01:53:00</guid>
-      <pubDate>Tue, 27 Oct 2026 01:53:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 1:42 am</title>
-      <description>16900 BLOCK FREDERICK RD UNITS: R15</description>
-      <guid isPermaLink="false">2026-10-27 01:42:00</guid>
-      <pubDate>Tue, 27 Oct 2026 01:42:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 11:23 pm</title>
-      <description>1800 BLOCK N MARKET ST, DSS RADIO: 9C UNITS: PE23</description>
-      <guid isPermaLink="false">2026-10-26 23:23:00</guid>
-      <pubDate>Mon, 26 Oct 2026 23:23:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:02 pm</title>
-      <description>2400 BLOCK PLEASANT VIEW RD, SHORESH DAY CAMP RADIO: 9C UNITS: E141, TT23</description>
-      <guid isPermaLink="false">2026-10-26 21:02:00</guid>
-      <pubDate>Mon, 26 Oct 2026 21:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 8:51 pm</title>
-      <description>5500 BLOCK SPECTRUM DR, COUNTRY INN AND SUITES RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-10-26 20:51:00</guid>
-      <pubDate>Mon, 26 Oct 2026 20:51:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 8:35 pm</title>
-      <description>7200 BLOCK BOWERS RD RADIO: 9D UNITS: A18, ALS4, E11, EMS902</description>
-      <guid isPermaLink="false">2026-10-26 20:35:00</guid>
-      <pubDate>Mon, 26 Oct 2026 20:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:06 pm</title>
-      <description>RT80 / I270 RADIO: 9B UNITS: A38</description>
-      <guid isPermaLink="false">2026-10-26 20:06:00</guid>
-      <pubDate>Mon, 26 Oct 2026 20:06:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:04 pm</title>
-      <description>RT80 / I270, I270NB / RT80 RADIO: 9B UNITS: A339</description>
-      <guid isPermaLink="false">2026-10-26 20:04:00</guid>
-      <pubDate>Mon, 26 Oct 2026 20:04:00 -0400</pubDate>
     </item>
   </channel>
 </rss>

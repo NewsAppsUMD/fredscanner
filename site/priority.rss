@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 00:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:50:42 +0000</lastBuildDate>
+    <item>
+      <title>BARN 12342 WARNER RD: 8:17 pm (0 units, 3 updates)</title>
+      <description>RADIO: 9D — units:  (first reported 8:17 pm)</description>
+      <guid isPermaLink="false">2026-10-28 20:17:00|RADIO: 9D</guid>
+      <pubDate>Wed, 28 Oct 2026 20:24:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
       <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE — units: </description>
@@ -42,12 +48,6 @@
       <description>8900 BLOCK HAWBOTTOM RD — units: E82, E121, E72, E11, E33, E501, R3, TT4, R2, K7, K1, K21, A89, ALS8, E212, BC903, BC902, SAF901, TTF, E291, EK204, EK114, K33, W8 (first reported 10:10 pm)</description>
       <guid isPermaLink="false">2026-10-20 22:10:00|8900 BLOCK HAWBOTTOM RD</guid>
       <pubDate>Tue, 20 Oct 2026 22:21:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 7:24 pm (19 units, 2 updates)</title>
-      <description>200 BLOCK MAIN ST — units: E72, E121, E11, E33, PE311, RE74, TT4, A19, ALS8, E212, BC903, BC901, SAF901, RID, E82, R3, A79, EMS901, W8 (first reported 7:24 pm)</description>
-      <guid isPermaLink="false">2026-10-20 19:24:00|200 BLOCK MAIN ST</guid>
-      <pubDate>Tue, 20 Oct 2026 19:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
