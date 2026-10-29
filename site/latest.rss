@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 29 Oct 2026 12:04:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:37:21 +0000</lastBuildDate>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 8:31 am</title>
+      <description>1800 BLOCK MASON-DIXON RD UNITS: EK64</description>
+      <guid isPermaLink="false">2026-10-29 08:31:00</guid>
+      <pubDate>Thu, 29 Oct 2026 08:31:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>FARM /CONST/EXCAVATION MACHINERY ON FIRE: 8:30 am</title>
+      <description>1800 BLOCK MASON-DIXON RD UNITS: E61</description>
+      <guid isPermaLink="false">2026-10-29 08:30:00</guid>
+      <pubDate>Thu, 29 Oct 2026 08:30:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:24 am</title>
+      <description>I70WB / RT180, I70WB / RT180 RADIO: 9B UNITS: A38, E33</description>
+      <guid isPermaLink="false">2026-10-29 08:24:00</guid>
+      <pubDate>Thu, 29 Oct 2026 08:24:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
+      <description>MONOCACY BLVD / RAMP MONOCACY BLVD TO RT15NB RAMP RADIO: 9B UNITS: A318, E11</description>
+      <guid isPermaLink="false">2026-10-29 08:08:00</guid>
+      <pubDate>Thu, 29 Oct 2026 08:08:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:06 am</title>
+      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER RADIO: 9C UNITS: PE23, TW11</description>
+      <guid isPermaLink="false">2026-10-29 08:06:00</guid>
+      <pubDate>Thu, 29 Oct 2026 08:06:00 -0400</pubDate>
+    </item>
     <item>
       <title>ELEVATOR MALFUNCTION: 6:49 am</title>
       <description>100 BLOCK S COURT ST RADIO: 9C UNITS: TT4</description>
@@ -276,36 +306,6 @@
       <description>7900 BLOCK LONGMEADOW DR RADIO: 9C UNITS: E111</description>
       <guid isPermaLink="false">2026-10-27 13:10:00</guid>
       <pubDate>Tue, 27 Oct 2026 13:10:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD INSIDE: 12:00 pm</title>
-      <description>6200 BLOCK HASTINGS CT RADIO: 9C UNITS: PE311, E33, TW1</description>
-      <guid isPermaLink="false">2026-10-27 12:00:00</guid>
-      <pubDate>Tue, 27 Oct 2026 12:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 11:30 am</title>
-      <description>100 BLOCK W FIFTH ST RADIO: 9C UNITS: E33</description>
-      <guid isPermaLink="false">2026-10-27 11:30:00</guid>
-      <pubDate>Tue, 27 Oct 2026 11:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:02 am</title>
-      <description>2200 BLOCK URBANA PIKE RADIO: 9B UNITS: A318, E231</description>
-      <guid isPermaLink="false">2026-10-27 11:02:00</guid>
-      <pubDate>Tue, 27 Oct 2026 11:02:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 11:00 am</title>
-      <description>100 BLOCK MONOCACY BLVD, COSTCO STORE RADIO: 9C UNITS: E33</description>
-      <guid isPermaLink="false">2026-10-27 11:00:00</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:28 am</title>
-      <description>200 BLOCK WAVERLEY DR, WAVERLEY ELEMENTARY SCHOOL UNITS: E11</description>
-      <guid isPermaLink="false">2026-10-27 10:28:00</guid>
-      <pubDate>Tue, 27 Oct 2026 10:28:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
