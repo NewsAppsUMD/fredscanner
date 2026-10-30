@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 19:01:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 19:31:12 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:00 pm</title>
+      <description>GREEN VALLEY RD / RENNER RD RADIO: 9B UNITS: E172</description>
+      <guid isPermaLink="false">2026-10-30 15:00:00</guid>
+      <pubDate>Fri, 30 Oct 2026 15:00:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 2:52 pm</title>
       <description>9500 BLOCK EYLER CT RADIO: 9C UNITS: E111</description>
@@ -300,12 +306,6 @@
       <description>WORTHINGTON BLVD / SUGARLOAF PKWY RADIO: 9B UNITS: A239, TT23</description>
       <guid isPermaLink="false">2026-10-28 16:38:00</guid>
       <pubDate>Wed, 28 Oct 2026 16:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:17 pm</title>
-      <description>BOYERS MILL RD / NIGHTINGALE PL RADIO: 9B UNITS: A158, E153</description>
-      <guid isPermaLink="false">2026-10-28 14:17:00</guid>
-      <pubDate>Wed, 28 Oct 2026 14:17:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
