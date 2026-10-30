@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 14:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:02:42 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:44 am</title>
+      <description>GRANT PL / ROSEMONT AVE RADIO: 9B UNITS: A19, E11</description>
+      <guid isPermaLink="false">2026-10-30 10:44:00</guid>
+      <pubDate>Fri, 30 Oct 2026 10:44:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:37 am</title>
+      <description>4600 BLOCK FELDSPAR RD RADIO: 9C UNITS: E121</description>
+      <guid isPermaLink="false">2026-10-30 10:37:00</guid>
+      <pubDate>Fri, 30 Oct 2026 10:37:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 8:01 am</title>
       <description>800 BLOCK EDEN CT RADIO: 9C UNITS: PE23, E33, R3</description>
@@ -294,18 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH RADIO: 9C UNITS: R2</description>
       <guid isPermaLink="false">2026-10-28 08:29:00</guid>
       <pubDate>Wed, 28 Oct 2026 08:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:59 am</title>
-      <description>5500 BLOCK MOUNTVILLE RD, STUPS MARKET RADIO: 9C UNITS: E281, TT4</description>
-      <guid isPermaLink="false">2026-10-28 07:59:00</guid>
-      <pubDate>Wed, 28 Oct 2026 07:59:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 7:46 am</title>
-      <description>6300 BLOCK FORD RD RADIO: 9C UNITS: E11, PE23, EK224</description>
-      <guid isPermaLink="false">2026-10-28 07:46:00</guid>
-      <pubDate>Wed, 28 Oct 2026 07:46:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
