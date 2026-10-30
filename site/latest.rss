@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 20:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:02:23 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 4:41 pm</title>
+      <description>RT15SB / W SEVENTH ST, RT15SB / W SEVENTH ST RADIO: 9C UNITS: PE23, E33</description>
+      <guid isPermaLink="false">2026-10-30 16:41:00</guid>
+      <pubDate>Fri, 30 Oct 2026 16:41:00 -0400</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:32 pm</title>
+      <description>1100 BLOCK ROSEMONT AVE, SCHIFFERSTADT MUSEUM RADIO: 9B UNITS: A38, E11</description>
+      <guid isPermaLink="false">2026-10-30 16:32:00</guid>
+      <pubDate>Fri, 30 Oct 2026 16:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 3:00 pm</title>
       <description>GREEN VALLEY RD / RENNER RD RADIO: 9B UNITS: E172</description>
@@ -294,18 +306,6 @@
       <description>BURNING BUSH DR / WISTERIA WAY RADIO: 9D UNITS: A318</description>
       <guid isPermaLink="false">2026-10-28 17:35:00</guid>
       <pubDate>Wed, 28 Oct 2026 17:35:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:30 pm</title>
-      <description>BURNING BUSH DR / WISTERIA WAY RADIO: 9D UNITS: PE311, R3, A319, ALS31, EMS901</description>
-      <guid isPermaLink="false">2026-10-28 17:30:00</guid>
-      <pubDate>Wed, 28 Oct 2026 17:30:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 4:38 pm</title>
-      <description>WORTHINGTON BLVD / SUGARLOAF PKWY RADIO: 9B UNITS: A239, TT23</description>
-      <guid isPermaLink="false">2026-10-28 16:38:00</guid>
-      <pubDate>Wed, 28 Oct 2026 16:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
