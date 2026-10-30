@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 22:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 23:02:31 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 6:32 pm</title>
+      <description>26300 BLOCK RIDGE RD SAFEWAY GAS RIDGE, SAFEWAY GAS RIDGE RADIO: 7A1 UNITS: A259</description>
+      <guid isPermaLink="false">2026-10-30 18:32:00</guid>
+      <pubDate>Fri, 30 Oct 2026 18:32:00 -0400</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:22 pm</title>
       <description>0(21445) BLK KEADLE RD UNITS: K21</description>
@@ -300,12 +306,6 @@
       <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: PE102, E291, K17, EK224</description>
       <guid isPermaLink="false">2026-10-28 20:12:00</guid>
       <pubDate>Wed, 28 Oct 2026 20:12:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN FIRE: 8:06 pm</title>
-      <description>12300 BLOCK WARNER RD RADIO: 9D UNITS: E91, E162, E132, E111, E172, TW11, R24, K9, EK134, A169, BC902, BC901, SAF901</description>
-      <guid isPermaLink="false">2026-10-28 20:06:00</guid>
-      <pubDate>Wed, 28 Oct 2026 20:06:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
