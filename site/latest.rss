@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Oct 2026 01:04:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:32:21 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 9:27 pm</title>
+      <description>100 BLOCK W B ST RADIO: 9C UNITS: BR55</description>
+      <guid isPermaLink="false">2026-10-29 21:27:00</guid>
+      <pubDate>Thu, 29 Oct 2026 21:27:00 -0400</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:32 pm</title>
       <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA RADIO: 9B UNITS: E121, RE74, A78</description>
@@ -300,12 +306,6 @@
       <description>600 BLOCK E CHURCH ST, FHH MATERIALS CENTER RADIO: 9C UNITS: PE23, TT4</description>
       <guid isPermaLink="false">2026-10-28 04:03:00</guid>
       <pubDate>Wed, 28 Oct 2026 04:03:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:31 am</title>
-      <description>300 BLOCK S SETON AVE, SETON VILLAGE APARTMENTS RADIO: 9C UNITS: E61, TW6</description>
-      <guid isPermaLink="false">2026-10-28 02:31:00</guid>
-      <pubDate>Wed, 28 Oct 2026 02:31:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
