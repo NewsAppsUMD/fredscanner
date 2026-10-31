@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 31 Oct 2026 11:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:03:04 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 7:38 am</title>
+      <description>100 BLOCK HOLLING DR, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR RADIO: 9C UNITS: PE23, E33, R3</description>
+      <guid isPermaLink="false">2026-10-31 07:38:00</guid>
+      <pubDate>Sat, 31 Oct 2026 07:38:00 -0400</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 5:58 am</title>
       <description>200 BLOCK CITIZENS WAY, STATION JC002 - CITIZENS FC UNITS: A196</description>
@@ -300,12 +306,6 @@
       <description>400 BLOCK CARROLLTON DR RADIO: 9C UNITS: E33</description>
       <guid isPermaLink="false">2026-10-28 20:32:00</guid>
       <pubDate>Wed, 28 Oct 2026 20:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BARN 12342 WARNER RD: 8:24 pm</title>
-      <description>RADIO: 9D UNITS: EK224</description>
-      <guid isPermaLink="false">2026-10-28 20:24:00</guid>
-      <pubDate>Wed, 28 Oct 2026 20:24:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
