@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 22:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:02:31 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 5:54 pm</title>
+      <description>FIRST BLOCK OF WOODMERE CIR RADIO: 9C UNITS: RE74</description>
+      <guid isPermaLink="false">2026-11-01 17:54:00</guid>
+      <pubDate>Sun, 01 Nov 2026 17:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:32 pm</title>
+      <description>100 BLOCK HEATHFIELD DR RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-11-01 17:32:00</guid>
+      <pubDate>Sun, 01 Nov 2026 17:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOTORCYCLE ACCIDENT: 3:14 pm</title>
       <description>RT15 @ POTOMAC RIVER BRDGE HWY / POTOMAC RIVER RADIO: 9I UNITS: A149</description>
@@ -294,18 +306,6 @@
       <description>FINGERBOARD RD / URBANA CHURCH PASS RADIO: 9B UNITS: E231</description>
       <guid isPermaLink="false">2026-10-31 02:58:00</guid>
       <pubDate>Sat, 31 Oct 2026 02:58:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:48 am</title>
-      <description>FINGERBOARD RD / URBANA CHURCH PASS RADIO: 9B UNITS: A239, TT23</description>
-      <guid isPermaLink="false">2026-10-31 02:48:00</guid>
-      <pubDate>Sat, 31 Oct 2026 02:48:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 12:00 am</title>
-      <description>6300 BLOCK SPRINGWATER TER, HAMPTON COURT CONDOS - 6300 BLOCK SPRINGWATER TER RADIO: 9C UNITS: E331, E33, R3</description>
-      <guid isPermaLink="false">2026-10-31 00:00:00</guid>
-      <pubDate>Sat, 31 Oct 2026 00:00:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
