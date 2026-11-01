@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 19:01:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 19:31:17 +0000</lastBuildDate>
+    <item>
+      <title>MOTORCYCLE ACCIDENT: 2:23 pm</title>
+      <description>RT15 @ POTOMAC RIVER BRDGE HWY / POTOMAC RIVER RADIO: 9I UNITS: E281, R14, A209, ALS4, R19, EMS901</description>
+      <guid isPermaLink="false">2026-11-01 14:23:00</guid>
+      <pubDate>Sun, 01 Nov 2026 14:23:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:18 pm</title>
+      <description>100 BLOCK W MAIN ST, ACROSS THE STREET FROM RADIO: 9C UNITS: RE74, TW7</description>
+      <guid isPermaLink="false">2026-11-01 14:18:00</guid>
+      <pubDate>Sun, 01 Nov 2026 14:18:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 2:02 pm</title>
+      <description>RT340EB / RT17, RT340EB / RT17 RADIO: 9D UNITS: PE52, E201, R20, A198, A209, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-11-01 14:02:00</guid>
+      <pubDate>Sun, 01 Nov 2026 14:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 1:52 pm</title>
       <description>400 BLOCK CENTER ST RADIO: 9C UNITS: BR35</description>
@@ -288,24 +306,6 @@
       <description>3700 BLOCK SINGLETON TER RADIO: 9C UNITS: PE251, TT23</description>
       <guid isPermaLink="false">2026-10-30 19:17:00</guid>
       <pubDate>Fri, 30 Oct 2026 19:17:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 6:32 pm</title>
-      <description>26300 BLOCK RIDGE RD SAFEWAY GAS RIDGE, SAFEWAY GAS RIDGE RADIO: 7A1 UNITS: A259</description>
-      <guid isPermaLink="false">2026-10-30 18:32:00</guid>
-      <pubDate>Fri, 30 Oct 2026 18:32:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:22 pm</title>
-      <description>0(21445) BLK KEADLE RD UNITS: K21</description>
-      <guid isPermaLink="false">2026-10-30 18:22:00</guid>
-      <pubDate>Fri, 30 Oct 2026 18:22:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:22 pm</title>
-      <description>0(21445) BLK KEADLE RD UNITS: E82, BR85</description>
-      <guid isPermaLink="false">2026-10-30 18:22:00</guid>
-      <pubDate>Fri, 30 Oct 2026 18:22:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
