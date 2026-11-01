@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 01 Nov 2026 09:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 10:02:32 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 4:53 am</title>
+      <description>9800 BLOCK HAMBURG RD RADIO: 9C UNITS: BR226</description>
+      <guid isPermaLink="false">2026-11-01 04:53:00</guid>
+      <pubDate>Sun, 01 Nov 2026 04:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:53 am</title>
+      <description>9800 BLOCK HAMBURG RD RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-01 04:53:00</guid>
+      <pubDate>Sun, 01 Nov 2026 04:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:49 am</title>
+      <description>9800 BLOCK HAMBURG RD RADIO: 9C UNITS: A19</description>
+      <guid isPermaLink="false">2026-11-01 04:49:00</guid>
+      <pubDate>Sun, 01 Nov 2026 04:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>OUTSIDE FIRE: 4:48 am</title>
+      <description>9800 BLOCK HAMBURG RD RADIO: 9C UNITS: BR16, BR226</description>
+      <guid isPermaLink="false">2026-11-01 04:48:00</guid>
+      <pubDate>Sun, 01 Nov 2026 04:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 4:33 am</title>
+      <description>I270NB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD RADIO: 9D UNITS: E231, R3, A239, ALS23, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-11-01 04:33:00</guid>
+      <pubDate>Sun, 01 Nov 2026 04:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 4:26 am</title>
       <description>9800 BLOCK HAMBURG RD RADIO: 9C UNITS: E11</description>
@@ -276,36 +306,6 @@
       <description>GRANT PL / ROSEMONT AVE RADIO: 9B UNITS: A19, E11</description>
       <guid isPermaLink="false">2026-10-30 10:44:00</guid>
       <pubDate>Fri, 30 Oct 2026 10:44:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:37 am</title>
-      <description>4600 BLOCK FELDSPAR RD RADIO: 9C UNITS: E121</description>
-      <guid isPermaLink="false">2026-10-30 10:37:00</guid>
-      <pubDate>Fri, 30 Oct 2026 10:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 8:01 am</title>
-      <description>800 BLOCK EDEN CT RADIO: 9C UNITS: PE23, E33, R3</description>
-      <guid isPermaLink="false">2026-10-30 08:01:00</guid>
-      <pubDate>Fri, 30 Oct 2026 08:01:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:46 am</title>
-      <description>MONTEVUE LN / ROSEMONT AVE RADIO: 9B UNITS: A18, E11</description>
-      <guid isPermaLink="false">2026-10-30 01:46:00</guid>
-      <pubDate>Fri, 30 Oct 2026 01:46:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 9:27 pm</title>
-      <description>100 BLOCK W B ST RADIO: 9C UNITS: BR55</description>
-      <guid isPermaLink="false">2026-10-29 21:27:00</guid>
-      <pubDate>Thu, 29 Oct 2026 21:27:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:32 pm</title>
-      <description>I70WB / REST AREA (MYERSVILLE), I70WB / REST AREA RADIO: 9B UNITS: E121, RE74, A78</description>
-      <guid isPermaLink="false">2026-10-29 17:32:00</guid>
-      <pubDate>Thu, 29 Oct 2026 17:32:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
