@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 16:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:02:30 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:56 am</title>
+      <description>FIRST BLOCK OF GOLF COURSE LN RADIO: 9C UNITS: E102</description>
+      <guid isPermaLink="false">2026-11-02 11:56:00</guid>
+      <pubDate>Mon, 02 Nov 2026 11:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:48 am</title>
+      <description>5000 BLOCK WESTVIEW DR, TOWNEPLACE SUITES BY MARRIOTT RADIO: 9C UNITS: PE311, TT4</description>
+      <guid isPermaLink="false">2026-11-02 11:48:00</guid>
+      <pubDate>Mon, 02 Nov 2026 11:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:34 am</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 RADIO: 7A1 UNITS: E231</description>
@@ -294,18 +306,6 @@
       <description>200 BLOCK W POTOMAC ST, KINGS PIZZA UNITS: E52, A197</description>
       <guid isPermaLink="false">2026-10-31 19:38:00</guid>
       <pubDate>Sat, 31 Oct 2026 19:38:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 6:37 pm</title>
-      <description>3700 BLOCK SINGLETON TER RADIO: 9C UNITS: E231</description>
-      <guid isPermaLink="false">2026-10-31 18:37:00</guid>
-      <pubDate>Sat, 31 Oct 2026 18:37:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:05 pm</title>
-      <description>1700 BLOCK WHEYFIELD DR RADIO: 9C UNITS: E111</description>
-      <guid isPermaLink="false">2026-10-31 18:05:00</guid>
-      <pubDate>Sat, 31 Oct 2026 18:05:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
