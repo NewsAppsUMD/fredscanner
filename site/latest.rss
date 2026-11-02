@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 15:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:03:02 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:34 am</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109, N270U RT121 - RT109 RADIO: 7A1 UNITS: E231</description>
+      <guid isPermaLink="false">2026-11-02 10:34:00</guid>
+      <pubDate>Mon, 02 Nov 2026 10:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:08 am</title>
       <description>MOTTERS STATION RD / MUMMA FORD RD RADIO: 9B UNITS: PE102</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK WHEYFIELD DR RADIO: 9C UNITS: E111</description>
       <guid isPermaLink="false">2026-10-31 18:05:00</guid>
       <pubDate>Sat, 31 Oct 2026 18:05:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:33 pm</title>
-      <description>500 BLOCK TEAL CT RADIO: 9C UNITS: E121</description>
-      <guid isPermaLink="false">2026-10-31 17:33:00</guid>
-      <pubDate>Sat, 31 Oct 2026 17:33:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
