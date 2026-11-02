@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 23:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:31:17 +0000</lastBuildDate>
+    <item>
+      <title>OUTSIDE FIRE: 6:08 pm</title>
+      <description>7400 BLOCK WESTVALE CT RADIO: 9C UNITS: BR176</description>
+      <guid isPermaLink="false">2026-11-02 18:08:00</guid>
+      <pubDate>Mon, 02 Nov 2026 18:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 6:00 pm</title>
+      <description>800 BLOCK HIGHLAND ST, VINNYS TOWING AND RECOVERY RADIO: 9I UNITS: E33, R3, A38, ALS2, BC901, EMS901</description>
+      <guid isPermaLink="false">2026-11-02 18:00:00</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>SHOOTING - ALS: 5:50 pm</title>
       <description>500 BLOCK KLINEHARTS ALY RADIO: 9D UNITS: A29, PE23, BC902, EMS902</description>
@@ -294,18 +306,6 @@
       <description>5300 BLOCK SIRI CT UNITS: PE311</description>
       <guid isPermaLink="false">2026-11-01 08:56:00</guid>
       <pubDate>Sun, 01 Nov 2026 08:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 8:30 am</title>
-      <description>HAMBURG RD / FIRETOWER RD RADIO: 9C UNITS: E11, K1</description>
-      <guid isPermaLink="false">2026-11-01 08:30:00</guid>
-      <pubDate>Sun, 01 Nov 2026 08:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 8:11 am</title>
-      <description>HAMBURG RD / GAMBRILL PARK RD, ON HAMBURG BTWN GAMBRILL PARK AND BETHEL RADIO: 9C UNITS: BR85</description>
-      <guid isPermaLink="false">2026-11-01 08:11:00</guid>
-      <pubDate>Sun, 01 Nov 2026 08:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
