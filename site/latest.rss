@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 02 Nov 2026 01:02:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 01:31:50 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 8:22 pm</title>
+      <description>200 BLOCK POLARIS DR RADIO: 9C UNITS: TW1</description>
+      <guid isPermaLink="false">2026-11-01 20:22:00</guid>
+      <pubDate>Sun, 01 Nov 2026 20:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 8:17 pm</title>
+      <description>200 BLOCK POLARIS DR RADIO: 9C UNITS: E111, E162, Q11</description>
+      <guid isPermaLink="false">2026-11-01 20:17:00</guid>
+      <pubDate>Sun, 01 Nov 2026 20:17:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:08 pm</title>
+      <description>1200 BLOCK BASE RD RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-11-01 20:08:00</guid>
+      <pubDate>Sun, 01 Nov 2026 20:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:58 pm</title>
       <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE RADIO: 9B UNITS: E111, Q11</description>
@@ -288,24 +306,6 @@
       <description>5300 BLOCK SPECTRUM DR, GARNER HOTEL FREDERICK SOUTHEAST BY IHG RADIO: 9C UNITS: PE311, TT4</description>
       <guid isPermaLink="false">2026-10-31 10:29:00</guid>
       <pubDate>Sat, 31 Oct 2026 10:29:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:15 am</title>
-      <description>9200 BLOCK LIBERTY RD RADIO: 9B UNITS: A299, A248</description>
-      <guid isPermaLink="false">2026-10-31 09:15:00</guid>
-      <pubDate>Sat, 31 Oct 2026 09:15:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:13 am</title>
-      <description>9200 BLOCK LIBERTY RD RADIO: 9B UNITS: A249, E111</description>
-      <guid isPermaLink="false">2026-10-31 09:13:00</guid>
-      <pubDate>Sat, 31 Oct 2026 09:13:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 7:38 am</title>
-      <description>100 BLOCK HOLLING DR, EAST OF MARKET APARTMENTS - 100 BLOCK HOLLING DR RADIO: 9C UNITS: PE23, E33, R3</description>
-      <guid isPermaLink="false">2026-10-31 07:38:00</guid>
-      <pubDate>Sat, 31 Oct 2026 07:38:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
