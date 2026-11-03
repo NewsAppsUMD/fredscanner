@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 21:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:02:35 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:50 pm</title>
+      <description>11100 BLOCK HESSONG BRIDGE RD, STATION 22 UNITS: TW6</description>
+      <guid isPermaLink="false">2026-11-03 16:50:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:41 pm</title>
+      <description>FIRST BLOCK OF THIRD ST, STATION 16 UNITS: A37</description>
+      <guid isPermaLink="false">2026-11-03 16:41:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 4:33 pm</title>
+      <description>7900 BLOCK JACKSON MOUNTAIN CT RADIO: 9C UNITS: E11, E121, TW7, K1</description>
+      <guid isPermaLink="false">2026-11-03 16:33:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT-RID HOUSE FIRE - ENTRAPMENT: 4:32 pm</title>
+      <description>10700 BLOCK ETZLER MILL RD RADIO: 9D UNITS: RID, PE23, R15, A249, EMS901, W16</description>
+      <guid isPermaLink="false">2026-11-03 16:32:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:32:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 4:30 pm</title>
+      <description>10700 BLOCK ETZLER MILL RD UNITS: EK134</description>
+      <guid isPermaLink="false">2026-11-03 16:30:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:30:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT: 4:27 pm</title>
+      <description>10700 BLOCK ETZLER MILL RD UNITS: A179, EMS902</description>
+      <guid isPermaLink="false">2026-11-03 16:27:00</guid>
+      <pubDate>Tue, 03 Nov 2026 16:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE: 4:24 pm</title>
       <description>10700 BLOCK ETZLER MILL RD UNITS: E162, E91, E111, E132, E153, E102, R24, Q11, K17, K9, A169, ALS17, E221, BC902, BC903, SAF901</description>
@@ -270,42 +306,6 @@
       <description>GREEN VALLEY RD / FOX REST CT RADIO: 9B UNITS: A339, ALS17</description>
       <guid isPermaLink="false">2026-11-02 14:45:00</guid>
       <pubDate>Mon, 02 Nov 2026 14:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:36 pm</title>
-      <description>GREEN VALLEY RD / FOX REST CT RADIO: 9B UNITS: A158, A179, E153</description>
-      <guid isPermaLink="false">2026-11-02 14:36:00</guid>
-      <pubDate>Mon, 02 Nov 2026 14:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:17 pm</title>
-      <description>FIRST BLOCK OF THURMONT BLVD, KFC TACO BELL - THURMONT RADIO: 9B UNITS: A229, PE102</description>
-      <guid isPermaLink="false">2026-11-02 14:17:00</guid>
-      <pubDate>Mon, 02 Nov 2026 14:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 12:21 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, MARSHALLS - CLEMSON CORNER RADIO: 9C UNITS: PE23, Q11</description>
-      <guid isPermaLink="false">2026-11-02 12:21:00</guid>
-      <pubDate>Mon, 02 Nov 2026 12:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 12:19 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, MARSHALLS - CLEMSON CORNER RADIO: 9C UNITS: E111</description>
-      <guid isPermaLink="false">2026-11-02 12:19:00</guid>
-      <pubDate>Mon, 02 Nov 2026 12:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:01 pm</title>
-      <description>5000 BLOCK WESTVIEW DR, TOWNEPLACE SUITES BY MARRIOTT RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-11-02 12:01:00</guid>
-      <pubDate>Mon, 02 Nov 2026 12:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:56 am</title>
-      <description>FIRST BLOCK OF GOLF COURSE LN RADIO: 9C UNITS: E102</description>
-      <guid isPermaLink="false">2026-11-02 11:56:00</guid>
-      <pubDate>Mon, 02 Nov 2026 11:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
