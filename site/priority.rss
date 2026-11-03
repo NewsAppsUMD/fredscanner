@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 22:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:31:27 +0000</lastBuildDate>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT-RID HOUSE FIRE - ENTRAPMENT: 4:24 pm (0 units, 4 updates)</title>
       <description>10700 BLOCK ETZLER MILL RD — units:  (first reported 4:24 pm)</description>
@@ -24,12 +24,6 @@
       <description>RADIO: 9D — units:  (first reported 8:17 pm)</description>
       <guid isPermaLink="false">2026-10-28 20:17:00|RADIO: 9D</guid>
       <pubDate>Wed, 28 Oct 2026 20:24:00 -0400</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HAZMAT: 8:59 am</title>
-      <description>I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE — units: </description>
-      <guid isPermaLink="false">2026-10-26 08:59:00|I70EB / WASHINGTON COUNTY LINE, I70EB / WASHINGTON COUNTY LINE</guid>
-      <pubDate>Mon, 26 Oct 2026 08:59:00 -0400</pubDate>
     </item>
   </channel>
 </rss>
