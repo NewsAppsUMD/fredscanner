@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 12:32:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:02:46 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:50 am</title>
+      <description>7000 BLOCK WILLOW TREE DR S RADIO: 9C UNITS: E121</description>
+      <guid isPermaLink="false">2026-11-03 07:50:00</guid>
+      <pubDate>Tue, 03 Nov 2026 07:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:34 am</title>
+      <description>800 BLOCK E SOUTH ST, FARMERS COOP RADIO: 9C UNITS: E33, TT4</description>
+      <guid isPermaLink="false">2026-11-03 07:34:00</guid>
+      <pubDate>Tue, 03 Nov 2026 07:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:26 am</title>
       <description>FIRST BLOCK OF WOODMERE CIR RADIO: 9C UNITS: RE74</description>
@@ -294,18 +306,6 @@
       <description>RT15 @ POTOMAC RIVER BRDGE HWY / POTOMAC RIVER RADIO: 9I UNITS: E281, R14, A209, ALS4, R19, EMS901</description>
       <guid isPermaLink="false">2026-11-01 14:23:00</guid>
       <pubDate>Sun, 01 Nov 2026 14:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:18 pm</title>
-      <description>100 BLOCK W MAIN ST, ACROSS THE STREET FROM RADIO: 9C UNITS: RE74, TW7</description>
-      <guid isPermaLink="false">2026-11-01 14:18:00</guid>
-      <pubDate>Sun, 01 Nov 2026 14:18:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 2:02 pm</title>
-      <description>RT340EB / RT17, RT340EB / RT17 RADIO: 9D UNITS: PE52, E201, R20, A198, A209, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-11-01 14:02:00</guid>
-      <pubDate>Sun, 01 Nov 2026 14:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
