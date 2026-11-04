@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 03 Nov 2026 23:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:07:31 +0000</lastBuildDate>
+    <item>
+      <title>HOUSE FIRE - ENTRAPMENT-RID HOUSE FIRE - ENTRAPMENT: 6:49 pm</title>
+      <description>10700 BLOCK ETZLER MILL RD — units: </description>
+      <guid isPermaLink="false">2026-11-03 18:49:00|10700 BLOCK ETZLER MILL RD</guid>
+      <pubDate>Tue, 03 Nov 2026 18:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE FIRE - ENTRAPMENT-RID HOUSE FIRE - ENTRAPMENT: 4:24 pm (0 units, 4 updates)</title>
       <description>10700 BLOCK ETZLER MILL RD — units:  (first reported 4:24 pm)</description>
