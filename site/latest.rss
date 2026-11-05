@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 11:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:03:35 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:41 am</title>
+      <description>I70EB / EXIT 54 (RT85), I70EB / EXIT 54 RADIO: 9B UNITS: A319, PE311</description>
+      <guid isPermaLink="false">2026-11-05 06:41:00</guid>
+      <pubDate>Thu, 05 Nov 2026 06:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:40 am</title>
+      <description>I70EB / 47MM RADIO: 9B UNITS: RE74, E121, R8, A89, A129</description>
+      <guid isPermaLink="false">2026-11-05 06:40:00</guid>
+      <pubDate>Thu, 05 Nov 2026 06:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:22 am</title>
       <description>2900 BLOCK PRICES DISTILLERY RD, GREEN VALLEY ANIMAL HOSPITAL RADIO: 9B UNITS: A259, PE251</description>
@@ -294,18 +306,6 @@
       <description>9000 BLOCK HARRIS ST, VILLAGES OF URBANA COMMUNITY ASSOCIATION RADIO: 9C UNITS: BR235</description>
       <guid isPermaLink="false">2026-11-03 14:38:00</guid>
       <pubDate>Tue, 03 Nov 2026 14:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 1:49 pm</title>
-      <description>2500 BLOCK IRON SPRINGS RD RADIO: ACOPS4 UNITS: EK64</description>
-      <guid isPermaLink="false">2026-11-03 13:49:00</guid>
-      <pubDate>Tue, 03 Nov 2026 13:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:46 pm</title>
-      <description>BALLENGER CREEK PIKE / SOLAREX CT RADIO: 9D UNITS: A319, BC901</description>
-      <guid isPermaLink="false">2026-11-03 13:46:00</guid>
-      <pubDate>Tue, 03 Nov 2026 13:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
