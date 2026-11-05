@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 00:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 00:42:43 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 7:36 pm</title>
+      <description>4300 BLOCK CAP STINE RD RADIO: 9C UNITS: E141, E201, R20, EK204</description>
+      <guid isPermaLink="false">2026-11-04 19:36:00</guid>
+      <pubDate>Wed, 04 Nov 2026 19:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:54 pm</title>
       <description>W PATRICK ST / HOKE PL RADIO: 9B UNITS: A19, E11, OPSDC900</description>
@@ -300,12 +306,6 @@
       <description>7200 BLOCK HOLLOW RD, MIDDLETOWN POST OFFICE RADIO: 9C UNITS: E121, RE74, R20, K7</description>
       <guid isPermaLink="false">2026-11-03 11:26:00</guid>
       <pubDate>Tue, 03 Nov 2026 11:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:42 am</title>
-      <description>RAMP FROM I70WB TO RT40-A RADIO: 9B UNITS: A19</description>
-      <guid isPermaLink="false">2026-11-03 10:42:00</guid>
-      <pubDate>Tue, 03 Nov 2026 10:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
