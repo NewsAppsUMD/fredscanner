@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 07:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:03:28 +0000</lastBuildDate>
+    <item>
+      <title>BUILDING FIRE: 2:46 am</title>
+      <description>6500 BLOCK BALLENGER RUN BLVD UNITS: PE311, E11, E33, PE23, E501, R3, TW1, TT4, A319, ALS31, BC902, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-11-05 02:46:00</guid>
+      <pubDate>Thu, 05 Nov 2026 02:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR INSIDE: 10:36 pm</title>
       <description>1900 BLOCK BELFORD CT RADIO: 91C UNITS: E291, E501, R2</description>
@@ -300,12 +306,6 @@
       <description>2500 BLOCK IRON SPRINGS RD RADIO: ACOPS4 UNITS: BR65</description>
       <guid isPermaLink="false">2026-11-03 12:44:00</guid>
       <pubDate>Tue, 03 Nov 2026 12:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:48 am</title>
-      <description>10800 BLOCK GAS HOUSE PIKE RADIO: 9C UNITS: E111</description>
-      <guid isPermaLink="false">2026-11-03 11:48:00</guid>
-      <pubDate>Tue, 03 Nov 2026 11:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
