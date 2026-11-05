@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 05 Nov 2026 15:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:02:03 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
+      <description>3500 BLOCK SUGARLOAF PKWY, TRUIST - URBANA TOWN CENTER RADIO: 9D UNITS: PE251, R3, A238, ALS23, BC901, EMS901, TT23</description>
+      <guid isPermaLink="false">2026-11-05 10:56:00</guid>
+      <pubDate>Thu, 05 Nov 2026 10:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 am</title>
+      <description>4100 BLOCK BRUSHFIELD DR RADIO: 9C UNITS: E231</description>
+      <guid isPermaLink="false">2026-11-05 10:39:00</guid>
+      <pubDate>Thu, 05 Nov 2026 10:39:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:54 am</title>
       <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST RADIO: 9B UNITS: A37</description>
@@ -294,18 +306,6 @@
       <description>FIRST BLOCK OF THIRD ST, STATION 16 UNITS: A37</description>
       <guid isPermaLink="false">2026-11-03 16:41:00</guid>
       <pubDate>Tue, 03 Nov 2026 16:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:33 pm</title>
-      <description>7900 BLOCK JACKSON MOUNTAIN CT RADIO: 9C UNITS: E11, E121, TW7, K1</description>
-      <guid isPermaLink="false">2026-11-03 16:33:00</guid>
-      <pubDate>Tue, 03 Nov 2026 16:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE FIRE - ENTRAPMENT-RID HOUSE FIRE - ENTRAPMENT: 4:32 pm</title>
-      <description>10700 BLOCK ETZLER MILL RD RADIO: 9D UNITS: RID, PE23, R15, A249, EMS901, W16</description>
-      <guid isPermaLink="false">2026-11-03 16:32:00</guid>
-      <pubDate>Tue, 03 Nov 2026 16:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
