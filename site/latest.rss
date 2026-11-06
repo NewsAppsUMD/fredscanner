@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 23:02:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:31:18 +0000</lastBuildDate>
+    <item>
+      <title>FIRE REPORTED OUT: 6:26 pm</title>
+      <description>FIRST BLOCK OF GEORGETOWN RD RADIO: 9C UNITS: E111, E162, Q11</description>
+      <guid isPermaLink="false">2026-11-06 18:26:00</guid>
+      <pubDate>Fri, 06 Nov 2026 18:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>TRANSFORMER FIRE: 5:50 pm</title>
       <description>ARABY CHURCH RD / BAKER VALLEY RD RADIO: 9C UNITS: BR235</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST RADIO: 9B UNITS: A38, E33</description>
       <guid isPermaLink="false">2026-11-05 09:44:00</guid>
       <pubDate>Thu, 05 Nov 2026 09:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:11 am</title>
-      <description>BURKITTSVILLE RD / RAMP RT17 TO RT340WB RAMP RADIO: 9B UNITS: A196, PE52</description>
-      <guid isPermaLink="false">2026-11-05 09:11:00</guid>
-      <pubDate>Thu, 05 Nov 2026 09:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
