@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 22:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:02:21 +0000</lastBuildDate>
+    <item>
+      <title>TRANSFORMER FIRE: 5:50 pm</title>
+      <description>ARABY CHURCH RD / BAKER VALLEY RD RADIO: 9C UNITS: BR235</description>
+      <guid isPermaLink="false">2026-11-06 17:50:00</guid>
+      <pubDate>Fri, 06 Nov 2026 17:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:44 pm</title>
+      <description>500 BLOCK COACHMAN CT RADIO: 9C UNITS: BR125</description>
+      <guid isPermaLink="false">2026-11-06 17:44:00</guid>
+      <pubDate>Fri, 06 Nov 2026 17:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:29 pm</title>
       <description>700 BLOCK ACROPOLIS WAY, BLDG:762, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY RADIO: 9C UNITS: PE311, TW1</description>
@@ -294,18 +306,6 @@
       <description>BURKITTSVILLE RD / RAMP RT17 TO RT340WB RAMP RADIO: 9B UNITS: A196, PE52</description>
       <guid isPermaLink="false">2026-11-05 09:11:00</guid>
       <pubDate>Thu, 05 Nov 2026 09:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 9:11 am</title>
-      <description>RT340EB / 12MM, RT340EB / 12MM RADIO: 9B UNITS: E201, E11, R20, A209, A18</description>
-      <guid isPermaLink="false">2026-11-05 09:11:00</guid>
-      <pubDate>Thu, 05 Nov 2026 09:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:38 am</title>
-      <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE RADIO: 9C UNITS: E162</description>
-      <guid isPermaLink="false">2026-11-05 08:38:00</guid>
-      <pubDate>Thu, 05 Nov 2026 08:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
