@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 17:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:03:48 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 12:42 pm</title>
+      <description>I70WB / RT340-15, I70WB / RT340-15 RADIO: 9B UNITS: E33, E121, R3, A38, A129</description>
+      <guid isPermaLink="false">2026-11-06 12:42:00</guid>
+      <pubDate>Fri, 06 Nov 2026 12:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 12:24 pm</title>
       <description>W SEVENTH ST / TOLL HOUSE AVE RADIO: 9D UNITS: A247</description>
@@ -300,12 +306,6 @@
       <description>I70EB / NEW DESIGN RD RADIO: 9B UNITS: E11, E33, R3, A19, A38</description>
       <guid isPermaLink="false">2026-11-05 06:10:00</guid>
       <pubDate>Thu, 05 Nov 2026 06:10:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MUTUAL AID: 5:33 am</title>
-      <description>DARNESTOWN RD / MARTINSBURG RD RADIO: 7A1 UNITS: A149</description>
-      <guid isPermaLink="false">2026-11-05 05:33:00</guid>
-      <pubDate>Thu, 05 Nov 2026 05:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
