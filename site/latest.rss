@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 20:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 21:02:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:54 pm</title>
+      <description>I270NB / BENNETT CREEK, I270NB / BENNETT CREEK RADIO: 9B UNITS: E231, R3, A18, TT23</description>
+      <guid isPermaLink="false">2026-11-06 15:54:00</guid>
+      <pubDate>Fri, 06 Nov 2026 15:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 3:04 pm</title>
       <description>KEY PKWY / WILLOWDALE DR UNITS: E11, A19, ALS4</description>
@@ -300,12 +306,6 @@
       <description>8800 BLOCK BIGGS FORD RD, LONZA BIOSCIENCE RADIO: 9C UNITS: E162, Q11</description>
       <guid isPermaLink="false">2026-11-05 08:24:00</guid>
       <pubDate>Thu, 05 Nov 2026 08:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:17 am</title>
-      <description>7500 BLOCK GREEN VALLEY RD RADIO: 9B UNITS: E172</description>
-      <guid isPermaLink="false">2026-11-05 08:17:00</guid>
-      <pubDate>Thu, 05 Nov 2026 08:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
