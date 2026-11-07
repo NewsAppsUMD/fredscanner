@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 14:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 14:31:13 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:12 am</title>
+      <description>600 BLOCK NEIMAN ST, FORT DETRICK - BLDG 693 - MED LOG BLDG UNITS: E501, TT4</description>
+      <guid isPermaLink="false">2026-11-07 09:12:00</guid>
+      <pubDate>Sat, 07 Nov 2026 09:12:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 8:49 am</title>
       <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD UNITS: A229, E111, E221</description>
@@ -300,12 +306,6 @@
       <description>200 BLOCK LINDBERGH AVE RADIO: 9C UNITS: E11</description>
       <guid isPermaLink="false">2026-11-06 00:25:00</guid>
       <pubDate>Fri, 06 Nov 2026 00:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 10:59 pm</title>
-      <description>W FOURTH ST / N MARKET ST RADIO: 9D UNITS: A38, ALS4, E33, EMS901</description>
-      <guid isPermaLink="false">2026-11-05 22:59:00</guid>
-      <pubDate>Thu, 05 Nov 2026 22:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
