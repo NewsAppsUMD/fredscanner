@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 02:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:02:47 +0000</lastBuildDate>
+    <item>
+      <title>EXPLOSION - MISCELLANEOUS: 9:57 pm</title>
+      <description>21300 BLOCK KEADLE RD UNITS: E82</description>
+      <guid isPermaLink="false">2026-11-06 21:57:00</guid>
+      <pubDate>Fri, 06 Nov 2026 21:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:56 pm</title>
+      <description>JEFFERSON PIKE / HIMES AVE RADIO: 9I UNITS: A19</description>
+      <guid isPermaLink="false">2026-11-06 21:56:00</guid>
+      <pubDate>Fri, 06 Nov 2026 21:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 9:51 pm</title>
+      <description>JEFFERSON PIKE / HIMES AVE RADIO: 9I UNITS: PE311, R20, A319, ALS31, EMS901</description>
+      <guid isPermaLink="false">2026-11-06 21:51:00</guid>
+      <pubDate>Fri, 06 Nov 2026 21:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE 406 E NINTH ST: 8:48 pm</title>
       <description>RADIO: 9D UNITS: PE311, TT23</description>
@@ -288,24 +306,6 @@
       <description>FIRST BLOCK OF TRITAPOE PL RADIO: 6B UNITS: A196</description>
       <guid isPermaLink="false">2026-11-05 18:34:00</guid>
       <pubDate>Thu, 05 Nov 2026 18:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:03 pm</title>
-      <description>3300 BLOCK SAMS CREEK RD RADIO: 9C UNITS: CCBR105</description>
-      <guid isPermaLink="false">2026-11-05 18:03:00</guid>
-      <pubDate>Thu, 05 Nov 2026 18:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:01 pm</title>
-      <description>FINGERBOARD RD / SUGARLOAF PKWY RADIO: 9B UNITS: A238, TT23</description>
-      <guid isPermaLink="false">2026-11-05 18:01:00</guid>
-      <pubDate>Thu, 05 Nov 2026 18:01:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:41 pm</title>
-      <description>4600 BLOCK ARBORETUM DR RADIO: 9C UNITS: PE251</description>
-      <guid isPermaLink="false">2026-11-05 17:41:00</guid>
-      <pubDate>Thu, 05 Nov 2026 17:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
