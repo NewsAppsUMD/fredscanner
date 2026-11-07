@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 03:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:02:57 +0000</lastBuildDate>
+    <item>
+      <title>FLOODING CONDITION: 10:30 pm</title>
+      <description>10700 BLOCK LAMOKA LN RADIO: 9C UNITS: E153</description>
+      <guid isPermaLink="false">2026-11-06 22:30:00</guid>
+      <pubDate>Fri, 06 Nov 2026 22:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>EXPLOSION - MISCELLANEOUS: 9:57 pm</title>
       <description>21300 BLOCK KEADLE RD UNITS: E82</description>
@@ -300,12 +306,6 @@
       <description>4600 BLOCK ARBORETUM DR RADIO: 9C UNITS: E231</description>
       <guid isPermaLink="false">2026-11-05 18:40:00</guid>
       <pubDate>Thu, 05 Nov 2026 18:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 6:34 pm</title>
-      <description>FIRST BLOCK OF TRITAPOE PL RADIO: 6B UNITS: A196</description>
-      <guid isPermaLink="false">2026-11-05 18:34:00</guid>
-      <pubDate>Thu, 05 Nov 2026 18:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
