@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 22:02:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:31:09 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:24 pm</title>
+      <description>20200 BLOCK DARNESTOWN RD RADIO: 7A1 UNITS: R14</description>
+      <guid isPermaLink="false">2026-11-07 17:24:00</guid>
+      <pubDate>Sat, 07 Nov 2026 17:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>BRUSH FIRE THREATENING A STRUCTURE: 5:10 pm</title>
+      <description>1600 BLOCK MISTY MEADOW CIR UNITS: E11, E501, TT4, K1, A129, BC903, SAF901, DNR</description>
+      <guid isPermaLink="false">2026-11-07 17:10:00</guid>
+      <pubDate>Sat, 07 Nov 2026 17:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:20 pm</title>
       <description>20000 BLOCK S270 X22 TO X18 HWY L SHOULDER CLOSE TO MM 21, L SHOULDER CLOSE TO MM 21 RADIO: 7A1 UNITS: E231</description>
@@ -294,18 +306,6 @@
       <description>1700 BLOCK ALGONQUIN RD RADIO: 9C UNITS: SUPDC900</description>
       <guid isPermaLink="false">2026-11-06 08:32:00</guid>
       <pubDate>Fri, 06 Nov 2026 08:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:31 am</title>
-      <description>100 BLOCK WILLOWDALE DR, BLDG:D, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR RADIO: 9D UNITS: TW7</description>
-      <guid isPermaLink="false">2026-11-06 08:31:00</guid>
-      <pubDate>Fri, 06 Nov 2026 08:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BUILDING FIRE: 8:30 am</title>
-      <description>100 BLOCK WILLOWDALE DR, BLDG:D, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR RADIO: 9D UNITS: Q11</description>
-      <guid isPermaLink="false">2026-11-06 08:30:00</guid>
-      <pubDate>Fri, 06 Nov 2026 08:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
