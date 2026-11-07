@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Nov 2026 23:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:06:31 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:03 pm</title>
+      <description>6700 BLOCK JEFFERSON BLVD, STATION 12 UNITS: ALS8</description>
+      <guid isPermaLink="false">2026-11-06 19:03:00</guid>
+      <pubDate>Fri, 06 Nov 2026 19:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 7:03 pm</title>
+      <description>FIRST BLOCK OF W FREDERICK ST, STATION 24 UNITS: ALS17</description>
+      <guid isPermaLink="false">2026-11-06 19:03:00</guid>
+      <pubDate>Fri, 06 Nov 2026 19:03:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 6:41 pm</title>
+      <description>FIRST BLOCK OF THOMAS JOHNSON DR, STATION 29 UNITS: ALS30</description>
+      <guid isPermaLink="false">2026-11-06 18:41:00</guid>
+      <pubDate>Fri, 06 Nov 2026 18:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 6:33 pm</title>
+      <description>FIRST BLOCK OF GEORGETOWN RD RADIO: 9C UNITS: E111</description>
+      <guid isPermaLink="false">2026-11-06 18:33:00</guid>
+      <pubDate>Fri, 06 Nov 2026 18:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FIRE REPORTED OUT: 6:33 pm</title>
+      <description>FIRST BLOCK OF GEORGETOWN RD RADIO: 9C UNITS: E91</description>
+      <guid isPermaLink="false">2026-11-06 18:33:00</guid>
+      <pubDate>Fri, 06 Nov 2026 18:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>FIRE REPORTED OUT: 6:26 pm</title>
       <description>FIRST BLOCK OF GEORGETOWN RD RADIO: 9C UNITS: E111, E162, Q11</description>
@@ -276,36 +306,6 @@
       <description>BUCKEYSTOWN PIKE / ENGLISH MUFFIN WAY RADIO: 9B UNITS: A318, E33</description>
       <guid isPermaLink="false">2026-11-05 12:39:00</guid>
       <pubDate>Thu, 05 Nov 2026 12:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 12:23 pm</title>
-      <description>1200 BLOCK OAKWOOD DR RADIO: 9C UNITS: E33</description>
-      <guid isPermaLink="false">2026-11-05 12:23:00</guid>
-      <pubDate>Thu, 05 Nov 2026 12:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 10:56 am</title>
-      <description>3500 BLOCK SUGARLOAF PKWY, TRUIST - URBANA TOWN CENTER RADIO: 9D UNITS: PE251, R3, A238, ALS23, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-11-05 10:56:00</guid>
-      <pubDate>Thu, 05 Nov 2026 10:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:39 am</title>
-      <description>4100 BLOCK BRUSHFIELD DR RADIO: 9C UNITS: E231</description>
-      <guid isPermaLink="false">2026-11-05 10:39:00</guid>
-      <pubDate>Thu, 05 Nov 2026 10:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:54 am</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST RADIO: 9B UNITS: A37</description>
-      <guid isPermaLink="false">2026-11-05 09:54:00</guid>
-      <pubDate>Thu, 05 Nov 2026 09:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 9:44 am</title>
-      <description>RT15NB / S JEFFERSON ST, RT15NB / S JEFFERSON ST RADIO: 9B UNITS: A38, E33</description>
-      <guid isPermaLink="false">2026-11-05 09:44:00</guid>
-      <pubDate>Thu, 05 Nov 2026 09:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
