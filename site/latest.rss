@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 07 Nov 2026 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 10:31:14 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 5:09 am</title>
+      <description>100 BLOCK W PATRICK ST, ANNEX PARKING DECK RADIO: 9C UNITS: R3</description>
+      <guid isPermaLink="false">2026-11-07 05:09:00</guid>
+      <pubDate>Sat, 07 Nov 2026 05:09:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 5:06 am</title>
+      <description>12400 BLOCK RENNER RD, BLDG:D RADIO: 9C UNITS: E132, EK134</description>
+      <guid isPermaLink="false">2026-11-07 05:06:00</guid>
+      <pubDate>Sat, 07 Nov 2026 05:06:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 5:01 am</title>
+      <description>12400 BLOCK RENNER RD, BLDG:D RADIO: 9C UNITS: E91, E162, Q11, K9</description>
+      <guid isPermaLink="false">2026-11-07 05:01:00</guid>
+      <pubDate>Sat, 07 Nov 2026 05:01:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:48 am</title>
       <description>4900 BLOCK NEW DESIGN RD, MATTRESS WAREHOUSE - NEW DESIGN RD RADIO: 9C UNITS: PE311, TT4</description>
@@ -288,24 +306,6 @@
       <description>RT77 / TOWER RD, RT77 / TOWER RD / PAST SHARP TURN / TAKES UP WHOLE LANE TOWARD SMITHSBURG RADIO: 9C UNITS: A307</description>
       <guid isPermaLink="false">2026-11-05 22:52:00</guid>
       <pubDate>Thu, 05 Nov 2026 22:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 10:51 pm</title>
-      <description>RT77 / TOWER RD, RT77 / TOWER RD / PAST SHARP TURN / TAKES UP WHOLE LANE TOWARD SMITHSBURG RADIO: 9C UNITS: PE102, E212</description>
-      <guid isPermaLink="false">2026-11-05 22:51:00</guid>
-      <pubDate>Thu, 05 Nov 2026 22:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:26 pm</title>
-      <description>100 BLOCK FAIRVIEW AVE RADIO: 9C UNITS: E11</description>
-      <guid isPermaLink="false">2026-11-05 22:26:00</guid>
-      <pubDate>Thu, 05 Nov 2026 22:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:46 pm</title>
-      <description>RAMP FROM RT15SB TO RT40WB RADIO: 9B UNITS: A19, E11</description>
-      <guid isPermaLink="false">2026-11-05 19:46:00</guid>
-      <pubDate>Thu, 05 Nov 2026 19:46:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
