@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 15:02:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:31:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:27 am</title>
+      <description>7300 BLOCK CRESTWOOD BLVD UNITS: A18, PE311</description>
+      <guid isPermaLink="false">2026-11-08 10:27:00</guid>
+      <pubDate>Sun, 08 Nov 2026 10:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:00 am</title>
+      <description>WAYNESBORO PIKE / RANCH TRL UNITS: A68, TW6</description>
+      <guid isPermaLink="false">2026-11-08 10:00:00</guid>
+      <pubDate>Sun, 08 Nov 2026 10:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 9:34 am</title>
       <description>I70EB / EXIT 54 (RT85), I70EB / EXIT 54 UNITS: R3</description>
@@ -294,18 +306,6 @@
       <description>ARABY CHURCH RD / BAKER VALLEY RD RADIO: 9C UNITS: BR235</description>
       <guid isPermaLink="false">2026-11-06 17:50:00</guid>
       <pubDate>Fri, 06 Nov 2026 17:50:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:44 pm</title>
-      <description>500 BLOCK COACHMAN CT RADIO: 9C UNITS: BR125</description>
-      <guid isPermaLink="false">2026-11-06 17:44:00</guid>
-      <pubDate>Fri, 06 Nov 2026 17:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:29 pm</title>
-      <description>700 BLOCK ACROPOLIS WAY, BLDG:762, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY RADIO: 9C UNITS: PE311, TW1</description>
-      <guid isPermaLink="false">2026-11-06 17:29:00</guid>
-      <pubDate>Fri, 06 Nov 2026 17:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
