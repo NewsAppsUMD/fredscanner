@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Nov 2026 15:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 16:02:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 10:45 am</title>
+      <description>RT340EB / ELMER RD, RT340EB / ELMER RD UNITS: A18, E11, R20</description>
+      <guid isPermaLink="false">2026-11-08 10:45:00</guid>
+      <pubDate>Sun, 08 Nov 2026 10:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:27 am</title>
       <description>7300 BLOCK CRESTWOOD BLVD UNITS: A18, PE311</description>
@@ -300,12 +306,6 @@
       <description>FIRST BLOCK OF GEORGETOWN RD RADIO: 9C UNITS: E111, E162, Q11</description>
       <guid isPermaLink="false">2026-11-06 18:26:00</guid>
       <pubDate>Fri, 06 Nov 2026 18:26:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 5:50 pm</title>
-      <description>ARABY CHURCH RD / BAKER VALLEY RD RADIO: 9C UNITS: BR235</description>
-      <guid isPermaLink="false">2026-11-06 17:50:00</guid>
-      <pubDate>Fri, 06 Nov 2026 17:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
