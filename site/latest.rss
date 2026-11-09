@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 15:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:31:16 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:27 am</title>
+      <description>300 BLOCK MAGNOLIA AVE RADIO: 9C UNITS: E33, R2</description>
+      <guid isPermaLink="false">2026-11-09 10:27:00</guid>
+      <pubDate>Mon, 09 Nov 2026 10:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 8:11 am</title>
       <description>9800 BLOCK OLD NATIONAL PIKE UNITS: A339, E331</description>
@@ -300,12 +306,6 @@
       <description>4900 BLOCK NEW DESIGN RD, MATTRESS WAREHOUSE - NEW DESIGN RD RADIO: 9C UNITS: PE311, TT4</description>
       <guid isPermaLink="false">2026-11-07 04:48:00</guid>
       <pubDate>Sat, 07 Nov 2026 04:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:41 am</title>
-      <description>RT15NB / W PATRICK ST, RT15NB / W PATRICK ST RADIO: 9B UNITS: E33, E11, R3, A37, A19</description>
-      <guid isPermaLink="false">2026-11-07 01:41:00</guid>
-      <pubDate>Sat, 07 Nov 2026 01:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
