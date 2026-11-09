@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 10:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:02:38 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:51 am</title>
+      <description>11700 BLOCK OLD ANNAPOLIS RD UNITS: E172</description>
+      <guid isPermaLink="false">2026-11-09 05:51:00</guid>
+      <pubDate>Mon, 09 Nov 2026 05:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:05 am</title>
       <description>500 BLOCK HIGHLAND ST, HIGHLAND TECHNOLOGY PARK RADIO: 9C UNITS: PE23, TT4</description>
@@ -300,12 +306,6 @@
       <description>21300 BLOCK KEADLE RD UNITS: E82</description>
       <guid isPermaLink="false">2026-11-06 21:57:00</guid>
       <pubDate>Fri, 06 Nov 2026 21:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 9:56 pm</title>
-      <description>JEFFERSON PIKE / HIMES AVE RADIO: 9I UNITS: A19</description>
-      <guid isPermaLink="false">2026-11-06 21:56:00</guid>
-      <pubDate>Fri, 06 Nov 2026 21:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
