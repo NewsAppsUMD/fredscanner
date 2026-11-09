@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 20:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 20:31:17 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:23 pm</title>
+      <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD UNITS: TW6</description>
+      <guid isPermaLink="false">2026-11-09 15:23:00</guid>
+      <pubDate>Mon, 09 Nov 2026 15:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 1:37 pm</title>
       <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 UNITS: E11</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / MONOCACY BLVD, RT15SB / MONOCACY BLVD UNITS: A229, E111, E221</description>
       <guid isPermaLink="false">2026-11-07 08:49:00</guid>
       <pubDate>Sat, 07 Nov 2026 08:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELEVATOR MALFUNCTION: 5:09 am</title>
-      <description>100 BLOCK W PATRICK ST, ANNEX PARKING DECK RADIO: 9C UNITS: R3</description>
-      <guid isPermaLink="false">2026-11-07 05:09:00</guid>
-      <pubDate>Sat, 07 Nov 2026 05:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
