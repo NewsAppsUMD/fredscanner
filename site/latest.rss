@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 00:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:02:50 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:45 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM (near US 40, Exit 48) RADIO: 9B UNITS: A129, E121</description>
+      <guid isPermaLink="false">2026-11-09 19:45:00</guid>
+      <pubDate>Mon, 09 Nov 2026 19:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:54 pm</title>
       <description>9400 BLOCK DOCTOR PERRY RD RADIO: 9B UNITS: A238, TT23</description>
@@ -300,12 +306,6 @@
       <description>6900 BLOCK FOX CHASE RD RADIO: 9C UNITS: E153, E331, R15</description>
       <guid isPermaLink="false">2026-11-07 22:59:00</guid>
       <pubDate>Sat, 07 Nov 2026 22:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:51 pm</title>
-      <description>9000 BLOCK SPRING VALLEY DR RADIO: 9C UNITS: E331</description>
-      <guid isPermaLink="false">2026-11-07 20:51:00</guid>
-      <pubDate>Sat, 07 Nov 2026 20:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
