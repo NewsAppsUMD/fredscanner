@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 19:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:31:21 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 2:24 pm</title>
+      <description>100 BLOCK CREAMERY CT, EMMITSBURG GLASS CO RADIO: 9C UNITS: E61, TW6</description>
+      <guid isPermaLink="false">2026-11-10 14:24:00</guid>
+      <pubDate>Tue, 10 Nov 2026 14:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 2:20 pm</title>
+      <description>E MAIN ST / WESTVIEW DR RADIO: 9B UNITS: A229, R10, A307</description>
+      <guid isPermaLink="false">2026-11-10 14:20:00</guid>
+      <pubDate>Tue, 10 Nov 2026 14:20:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 10:46 am</title>
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE RADIO: 9B UNITS: A19, E11</description>
@@ -294,18 +306,6 @@
       <description>7300 BLOCK CRESTWOOD BLVD UNITS: A18, PE311</description>
       <guid isPermaLink="false">2026-11-08 10:27:00</guid>
       <pubDate>Sun, 08 Nov 2026 10:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 10:00 am</title>
-      <description>WAYNESBORO PIKE / RANCH TRL UNITS: A68, TW6</description>
-      <guid isPermaLink="false">2026-11-08 10:00:00</guid>
-      <pubDate>Sun, 08 Nov 2026 10:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 9:34 am</title>
-      <description>I70EB / EXIT 54 (RT85), I70EB / EXIT 54 UNITS: R3</description>
-      <guid isPermaLink="false">2026-11-08 09:34:00</guid>
-      <pubDate>Sun, 08 Nov 2026 09:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
