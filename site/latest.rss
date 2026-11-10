@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 09 Nov 2026 23:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 00:06:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:54 pm</title>
+      <description>9400 BLOCK DOCTOR PERRY RD RADIO: 9B UNITS: A238, TT23</description>
+      <guid isPermaLink="false">2026-11-09 18:54:00</guid>
+      <pubDate>Mon, 09 Nov 2026 18:54:00 -0500</pubDate>
+    </item>
     <item>
       <title>ENTRAPMENT - PERIPHERAL: 6:09 pm</title>
       <description>6800 BLOCK WOODRIDGE RD RADIO: 9B UNITS: R24</description>
@@ -300,12 +306,6 @@
       <description>9000 BLOCK SPRING VALLEY DR RADIO: 9C UNITS: E331</description>
       <guid isPermaLink="false">2026-11-07 20:51:00</guid>
       <pubDate>Sat, 07 Nov 2026 20:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:00 pm</title>
-      <description>WAYSIDE DR / COACH HOUSE WAY, ECHO GLEN CONDOS - 2100 BLOCK WAYSIDE DR RADIO: 9B UNITS: A19, E11</description>
-      <guid isPermaLink="false">2026-11-07 19:00:00</guid>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
