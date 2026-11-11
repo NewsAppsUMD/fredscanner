@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 15:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:31:25 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR INSIDE: 10:08 am</title>
+      <description>100 BLOCK DORSEYS CHANCE N RADIO: 9C UNITS: E153, PE251</description>
+      <guid isPermaLink="false">2026-11-11 10:08:00</guid>
+      <pubDate>Wed, 11 Nov 2026 10:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 9:26 am</title>
       <description>10400 BLOCK REGINA CT RADIO: 9C UNITS: E231</description>
@@ -300,12 +306,6 @@
       <description>FIRST BLOCK OF ROUZER CT UNITS: BR106</description>
       <guid isPermaLink="false">2026-11-09 16:11:00</guid>
       <pubDate>Mon, 09 Nov 2026 16:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:23 pm</title>
-      <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD UNITS: TW6</description>
-      <guid isPermaLink="false">2026-11-09 15:23:00</guid>
-      <pubDate>Mon, 09 Nov 2026 15:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
