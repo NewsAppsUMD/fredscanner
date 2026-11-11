@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 21:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 22:02:37 +0000</lastBuildDate>
+    <item>
+      <title>MUTUAL AID: 4:58 pm</title>
+      <description>26300 BLOCK RIDGE RD STATION 713 RADIO: 7A1 UNITS: E153</description>
+      <guid isPermaLink="false">2026-11-11 16:58:00</guid>
+      <pubDate>Wed, 11 Nov 2026 16:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:46 pm</title>
+      <description>I270NB / 24MM, I270NB / 24MM RADIO: 9B UNITS: E231, PE251, R14, A238, A259, TT23</description>
+      <guid isPermaLink="false">2026-11-11 16:46:00</guid>
+      <pubDate>Wed, 11 Nov 2026 16:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:42 pm</title>
+      <description>TATUM CT / WAVERLEY DR RADIO: 9B UNITS: A38</description>
+      <guid isPermaLink="false">2026-11-11 16:42:00</guid>
+      <pubDate>Wed, 11 Nov 2026 16:42:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:29 pm</title>
       <description>TATUM CT / WAVERLEY DR RADIO: 9B UNITS: ALS4, EMS902</description>
@@ -288,24 +306,6 @@
       <description>RT15SB / 2.7MM UNITS: A68, TW6, E61</description>
       <guid isPermaLink="false">2026-11-10 08:15:00</guid>
       <pubDate>Tue, 10 Nov 2026 08:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 8:14 pm</title>
-      <description>6000 BLOCK GARDENIA MEWS RADIO: 9C UNITS: E11</description>
-      <guid isPermaLink="false">2026-11-09 20:14:00</guid>
-      <pubDate>Mon, 09 Nov 2026 20:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:45 pm</title>
-      <description>I70WB / 48MM, I70WB / 48MM (near US 40, Exit 48) RADIO: 9B UNITS: A129, E121</description>
-      <guid isPermaLink="false">2026-11-09 19:45:00</guid>
-      <pubDate>Mon, 09 Nov 2026 19:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:54 pm</title>
-      <description>9400 BLOCK DOCTOR PERRY RD RADIO: 9B UNITS: A238, TT23</description>
-      <guid isPermaLink="false">2026-11-09 18:54:00</guid>
-      <pubDate>Mon, 09 Nov 2026 18:54:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
