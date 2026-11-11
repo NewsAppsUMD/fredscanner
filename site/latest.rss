@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 14:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:31:09 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 9:26 am</title>
+      <description>10400 BLOCK REGINA CT RADIO: 9C UNITS: E231</description>
+      <guid isPermaLink="false">2026-11-11 09:26:00</guid>
+      <pubDate>Wed, 11 Nov 2026 09:26:00 -0500</pubDate>
+    </item>
     <item>
       <title>SMALL FUEL SPILL (50-200 GAL): 8:46 am</title>
       <description>OLD NATIONAL PIKE / BYE ALY UNITS: E153, HM33</description>
@@ -300,12 +306,6 @@
       <description>WAYNESBORO PIKE / HARBAUGH VALLEY RD UNITS: TW6</description>
       <guid isPermaLink="false">2026-11-09 15:23:00</guid>
       <pubDate>Mon, 09 Nov 2026 15:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 1:37 pm</title>
-      <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 UNITS: E11</description>
-      <guid isPermaLink="false">2026-11-09 13:37:00</guid>
-      <pubDate>Mon, 09 Nov 2026 13:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
