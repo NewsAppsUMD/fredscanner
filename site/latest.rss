@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 10 Nov 2026 23:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:07:27 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 7:04 pm</title>
+      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109 RADIO: 7A1 UNITS: E231, A259</description>
+      <guid isPermaLink="false">2026-11-10 19:04:00</guid>
+      <pubDate>Tue, 10 Nov 2026 19:04:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:43 pm</title>
+      <description>6100 BLOCK HEATHMEADOW DR RADIO: 9C UNITS: E331</description>
+      <guid isPermaLink="false">2026-11-10 18:43:00</guid>
+      <pubDate>Tue, 10 Nov 2026 18:43:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 6:17 pm</title>
       <description>6700 BLOCK BRACE CT RADIO: 9C UNITS: PE311, TT4</description>
@@ -294,18 +306,6 @@
       <description>FIRST BLOCK OF S MARKET ST, STATION 3 UNITS: RE74</description>
       <guid isPermaLink="false">2026-11-08 23:30:00</guid>
       <pubDate>Sun, 08 Nov 2026 23:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE 9129 TRAVENER CIR: 11:17 pm</title>
-      <description>RADIO: 9D UNITS: FTF3, E11, PE23, R14, CAN1, W23</description>
-      <guid isPermaLink="false">2026-11-08 23:17:00</guid>
-      <pubDate>Sun, 08 Nov 2026 23:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE 9129 TRAVENER CIR: 11:09 pm</title>
-      <description>RADIO: 9D UNITS: RID, E153, R15, A319, EMS901</description>
-      <guid isPermaLink="false">2026-11-08 23:09:00</guid>
-      <pubDate>Sun, 08 Nov 2026 23:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
