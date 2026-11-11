@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 13:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:02:56 +0000</lastBuildDate>
+    <item>
+      <title>SMALL FUEL SPILL (50-200 GAL): 8:46 am</title>
+      <description>OLD NATIONAL PIKE / BYE ALY UNITS: E153, HM33</description>
+      <guid isPermaLink="false">2026-11-11 08:46:00</guid>
+      <pubDate>Wed, 11 Nov 2026 08:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 8:45 am</title>
+      <description>1600 BLOCK ROSEMONT AVE, SHEETZ - ROSEMONT RADIO: 9D UNITS: E501, R24, A19, ALS2, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-11-11 08:45:00</guid>
+      <pubDate>Wed, 11 Nov 2026 08:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 8:32 am</title>
+      <description>8300 BLOCK JORDAN VALLEY WAY RADIO: 9C UNITS: E291, E11, R2</description>
+      <guid isPermaLink="false">2026-11-11 08:32:00</guid>
+      <pubDate>Wed, 11 Nov 2026 08:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:26 am</title>
       <description>WOODSBORO PIKE / GLADE BLVD RADIO: 9B UNITS: A169</description>
@@ -288,24 +306,6 @@
       <description>1300 BLOCK W PATRICK ST, BOSCOVS - FREDERICK TOWNE MALL / DISTRICT 40 UNITS: E11</description>
       <guid isPermaLink="false">2026-11-09 13:37:00</guid>
       <pubDate>Mon, 09 Nov 2026 13:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:12 pm</title>
-      <description>14800 BLOCK BLACK ANKLE RD RADIO: 9C UNITS: BR175</description>
-      <guid isPermaLink="false">2026-11-09 12:12:00</guid>
-      <pubDate>Mon, 09 Nov 2026 12:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:05 pm</title>
-      <description>400 BLOCK N MARKET ST, CUSTOM IMPRINTS RADIO: 9C UNITS: E33, TT4</description>
-      <guid isPermaLink="false">2026-11-09 12:05:00</guid>
-      <pubDate>Mon, 09 Nov 2026 12:05:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:27 am</title>
-      <description>300 BLOCK MAGNOLIA AVE RADIO: 9C UNITS: E33, R2</description>
-      <guid isPermaLink="false">2026-11-09 10:27:00</guid>
-      <pubDate>Mon, 09 Nov 2026 10:27:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
