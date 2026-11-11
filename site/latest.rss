@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 11 Nov 2026 08:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:31:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 3:27 am</title>
+      <description>700 BLOCK ACROPOLIS WAY, PROSPECT HALL APARTMENTS - 700 BLOCK ACROPOLIS WAY UNITS: PE311, TW1</description>
+      <guid isPermaLink="false">2026-11-11 03:27:00</guid>
+      <pubDate>Wed, 11 Nov 2026 03:27:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:35 am</title>
       <description>LIME KILN WAY / LIME KILN RD UNITS: A319, PE311</description>
@@ -300,12 +306,6 @@
       <description>FIRST BLOCK OF GEORGE ST UNITS: E61, TW6</description>
       <guid isPermaLink="false">2026-11-09 06:34:00</guid>
       <pubDate>Mon, 09 Nov 2026 06:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:51 am</title>
-      <description>11700 BLOCK OLD ANNAPOLIS RD UNITS: E172</description>
-      <guid isPermaLink="false">2026-11-09 05:51:00</guid>
-      <pubDate>Mon, 09 Nov 2026 05:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
