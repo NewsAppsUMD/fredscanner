@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 20:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:02:33 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 2:57 pm</title>
+      <description>17300 BLOCK N SETON AVE RADIO: 9C UNITS: E61</description>
+      <guid isPermaLink="false">2026-11-12 14:57:00</guid>
+      <pubDate>Thu, 12 Nov 2026 14:57:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 2:13 pm</title>
       <description>8200 BLOCK ROCKY RIDGE RD RADIO: 9C UNITS: PE102, E132, R10, K10</description>
@@ -300,12 +306,6 @@
       <description>FIRST BLOCK OF E MAIN ST RADIO: 9D UNITS: PE52, RE74, A196, BC903, EMS901</description>
       <guid isPermaLink="false">2026-11-10 18:04:00</guid>
       <pubDate>Tue, 10 Nov 2026 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 5:59 pm</title>
-      <description>KEMP LN / SONOMA CT RADIO: 9D UNITS: A19</description>
-      <guid isPermaLink="false">2026-11-10 17:59:00</guid>
-      <pubDate>Tue, 10 Nov 2026 17:59:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
