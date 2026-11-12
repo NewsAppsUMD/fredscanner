@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 05:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:31:35 +0000</lastBuildDate>
+    <item>
+      <title>UNKNOWN ODOR INSIDE: 12:06 am</title>
+      <description>100 BLOCK E SOUTH ST RADIO: 9C UNITS: E33, PE23, TW4</description>
+      <guid isPermaLink="false">2026-11-12 00:06:00</guid>
+      <pubDate>Thu, 12 Nov 2026 00:06:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 11:37 pm</title>
       <description>3400 BLOCK FLATWOODS DR RADIO: 9C UNITS: E231, PE251, TT23</description>
@@ -300,12 +306,6 @@
       <description>RT15NB / ROSEMONT AVE, RT15NB / ROSEMONT AVE RADIO: 9B UNITS: A19, E11</description>
       <guid isPermaLink="false">2026-11-10 10:46:00</guid>
       <pubDate>Tue, 10 Nov 2026 10:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:34 am</title>
-      <description>1000 BLOCK CLARENDON FARM LN RADIO: 9C UNITS: PE52</description>
-      <guid isPermaLink="false">2026-11-10 10:34:00</guid>
-      <pubDate>Tue, 10 Nov 2026 10:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
