@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 12 Nov 2026 22:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:02:04 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:44 pm</title>
+      <description>I70WB / EXIT 53 (RT15), I70WB / EXIT 53 RADIO: 9B UNITS: ALS31</description>
+      <guid isPermaLink="false">2026-11-12 17:44:00</guid>
+      <pubDate>Thu, 12 Nov 2026 17:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:35 pm</title>
+      <description>I70WB / EXIT 53 (RT15), I70WB / EXIT 53 RADIO: 9B UNITS: A38, E33</description>
+      <guid isPermaLink="false">2026-11-12 17:35:00</guid>
+      <pubDate>Thu, 12 Nov 2026 17:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:23 pm</title>
+      <description>12800 BLOCK JAMES MONROE HWY RADIO: 6B UNITS: E281</description>
+      <guid isPermaLink="false">2026-11-12 16:23:00</guid>
+      <pubDate>Thu, 12 Nov 2026 16:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 2:59 pm</title>
       <description>FIRST BLOCK OF THOMAS JOHNSON DR, STATION 29 UNITS: ALS30</description>
@@ -288,24 +306,6 @@
       <description>2300 BLOCK HUMPHREYS PEAK CT RADIO: 9C UNITS: E11</description>
       <guid isPermaLink="false">2026-11-10 21:11:00</guid>
       <pubDate>Tue, 10 Nov 2026 21:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:04 pm</title>
-      <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109 RADIO: 7A1 UNITS: E231, A259</description>
-      <guid isPermaLink="false">2026-11-10 19:04:00</guid>
-      <pubDate>Tue, 10 Nov 2026 19:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:43 pm</title>
-      <description>6100 BLOCK HEATHMEADOW DR RADIO: 9C UNITS: E331</description>
-      <guid isPermaLink="false">2026-11-10 18:43:00</guid>
-      <pubDate>Tue, 10 Nov 2026 18:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:17 pm</title>
-      <description>6700 BLOCK BRACE CT RADIO: 9C UNITS: PE311, TT4</description>
-      <guid isPermaLink="false">2026-11-10 18:17:00</guid>
-      <pubDate>Tue, 10 Nov 2026 18:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
