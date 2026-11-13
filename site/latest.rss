@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 13 Nov 2026 22:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 23:02:35 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:54 pm</title>
+      <description>BAUGHMANS LN / W PATRICK ST RADIO: 9B UNITS: A19, E11</description>
+      <guid isPermaLink="false">2026-11-13 17:54:00</guid>
+      <pubDate>Fri, 13 Nov 2026 17:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:33 pm</title>
+      <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD RADIO: 9B UNITS: E231, R2, A238, TT23</description>
+      <guid isPermaLink="false">2026-11-13 17:33:00</guid>
+      <pubDate>Fri, 13 Nov 2026 17:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
       <description>RT15NB / TOMS CREEK, RT15NB / TOMS CREEK RADIO: 9B UNITS: A69, E61</description>
@@ -294,18 +306,6 @@
       <description>I270NB / 24MM, I270NB / 24MM RADIO: 9B UNITS: E231, PE251, R14, A238, A259, TT23</description>
       <guid isPermaLink="false">2026-11-11 16:46:00</guid>
       <pubDate>Wed, 11 Nov 2026 16:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:42 pm</title>
-      <description>TATUM CT / WAVERLEY DR RADIO: 9B UNITS: A38</description>
-      <guid isPermaLink="false">2026-11-11 16:42:00</guid>
-      <pubDate>Wed, 11 Nov 2026 16:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:29 pm</title>
-      <description>TATUM CT / WAVERLEY DR RADIO: 9B UNITS: ALS4, EMS902</description>
-      <guid isPermaLink="false">2026-11-11 16:29:00</guid>
-      <pubDate>Wed, 11 Nov 2026 16:29:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
