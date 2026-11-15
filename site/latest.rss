@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 15 Nov 2026 16:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:02:09 +0000</lastBuildDate>
+    <item>
+      <title>CHIMNEY FIRE: 11:55 am</title>
+      <description>8400 BLOCK ROCKY SPRINGS RD RADIO: 9C UNITS: TW7</description>
+      <guid isPermaLink="false">2026-11-15 11:55:00</guid>
+      <pubDate>Sun, 15 Nov 2026 11:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 11:55 am</title>
+      <description>8400 BLOCK ROCKY SPRINGS RD RADIO: 9C UNITS: TW4</description>
+      <guid isPermaLink="false">2026-11-15 11:55:00</guid>
+      <pubDate>Sun, 15 Nov 2026 11:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHIMNEY FIRE: 11:50 am</title>
+      <description>8400 BLOCK ROCKY SPRINGS RD RADIO: 9C UNITS: E11, E291, TW7, K1, A19</description>
+      <guid isPermaLink="false">2026-11-15 11:50:00</guid>
+      <pubDate>Sun, 15 Nov 2026 11:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:39 am</title>
+      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC RADIO: 9C UNITS: PE311, TW4</description>
+      <guid isPermaLink="false">2026-11-15 11:39:00</guid>
+      <pubDate>Sun, 15 Nov 2026 11:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:37 am</title>
+      <description>7000 BLOCK RIDGE RD RADIO: 9B UNITS: A129, RE74</description>
+      <guid isPermaLink="false">2026-11-15 11:37:00</guid>
+      <pubDate>Sun, 15 Nov 2026 11:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 10:42 am</title>
       <description>FIRST BLOCK OF SAINT PAUL ST, STATION WC006 - THE 1ST HOSE COMPANY OF BOONSBORO UNITS: E121</description>
@@ -276,36 +306,6 @@
       <description>12900 BLOCK WOODSBORO PIKE RADIO: 9I UNITS: E111, EK134, BR136</description>
       <guid isPermaLink="false">2026-11-13 13:56:00</guid>
       <pubDate>Fri, 13 Nov 2026 13:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE THREATENING A STRUCTURE: 1:51 pm</title>
-      <description>12900 BLOCK WOODSBORO PIKE RADIO: 9I UNITS: E91, E162, E132, K9, A169, BR96, BC902, SAF900</description>
-      <guid isPermaLink="false">2026-11-13 13:51:00</guid>
-      <pubDate>Fri, 13 Nov 2026 13:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FIRE REPORTED OUT: 1:44 pm</title>
-      <description>1500 BLOCK N MARKET ST, THOMAS JOHNSON HIGH SCHOOL RADIO: 9C UNITS: PE23, E33, TW4</description>
-      <guid isPermaLink="false">2026-11-13 13:44:00</guid>
-      <pubDate>Fri, 13 Nov 2026 13:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:43 pm</title>
-      <description>N COURT ST / W PATRICK ST RADIO: 9B UNITS: TW4</description>
-      <guid isPermaLink="false">2026-11-13 13:43:00</guid>
-      <pubDate>Fri, 13 Nov 2026 13:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:43 pm</title>
-      <description>N COURT ST / W PATRICK ST RADIO: 9B UNITS: A38</description>
-      <guid isPermaLink="false">2026-11-13 13:43:00</guid>
-      <pubDate>Fri, 13 Nov 2026 13:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 1:30 pm</title>
-      <description>I270SB 26.5 MM CROSSOVER, I270SB 26.5 MM CROSSOVER RADIO: 9I UNITS: E231, PE311, R2, A319, A238, ALS23, EMS902, TT23</description>
-      <guid isPermaLink="false">2026-11-13 13:30:00</guid>
-      <pubDate>Fri, 13 Nov 2026 13:30:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
