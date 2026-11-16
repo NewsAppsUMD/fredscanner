@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 01:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:04:03 +0000</lastBuildDate>
+    <item>
+      <title>HAZMAT - INVESTIGATION OR SMALL SPILL: 8:35 pm</title>
+      <description>5200 BLOCK EARLES CT — units: </description>
+      <guid isPermaLink="false">2026-11-15 20:35:00|5200 BLOCK EARLES CT</guid>
+      <pubDate>Sun, 15 Nov 2026 20:35:00 -0500</pubDate>
+    </item>
     <item>
       <title>HOUSE 9129 TRAVENER CIR: 11:09 pm (0 units, 2 updates)</title>
       <description>RADIO: 9D — units:  (first reported 11:09 pm)</description>
