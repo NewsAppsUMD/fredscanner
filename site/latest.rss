@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 23:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:31:09 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:03 pm</title>
+      <description>WOODSBORO PIKE / CHALLEDON DR RADIO: 9B UNITS: E111, A247, ALS29</description>
+      <guid isPermaLink="false">2026-11-16 18:03:00</guid>
+      <pubDate>Mon, 16 Nov 2026 18:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:24 pm</title>
       <description>4800 BLOCK OLD BARTHOLOWS RD RADIO: 9B UNITS: A159, E153</description>
@@ -300,12 +306,6 @@
       <description>26100 BLOCK RUDALE DR RADIO: 7A1 UNITS: A259</description>
       <guid isPermaLink="false">2026-11-14 16:54:00</guid>
       <pubDate>Sat, 14 Nov 2026 16:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:07 pm</title>
-      <description>I270SB / RT80, I270SB / RT80 RADIO: 9B UNITS: E231, PE251, R2, A238, A259, TT23</description>
-      <guid isPermaLink="false">2026-11-14 15:07:00</guid>
-      <pubDate>Sat, 14 Nov 2026 15:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
