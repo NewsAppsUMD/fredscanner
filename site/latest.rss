@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 16 Nov 2026 19:02:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:31:15 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:24 pm</title>
+      <description>7800 BLOCK WORMANS MILL RD, LOWES - CLEMSON CORNER RADIO: 9B UNITS: A247, E111</description>
+      <guid isPermaLink="false">2026-11-16 14:24:00</guid>
+      <pubDate>Mon, 16 Nov 2026 14:24:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
       <description>1100 BLOCK YOUNG PL RADIO: 9C UNITS: E291, TW4</description>
@@ -300,12 +306,6 @@
       <description>3300 BLOCK CANARY CT RADIO: 9C UNITS: PE251, K23, BR156</description>
       <guid isPermaLink="false">2026-11-14 12:21:00</guid>
       <pubDate>Sat, 14 Nov 2026 12:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:09 am</title>
-      <description>1400 BLOCK KEY PKWY, ELMWOOD TERRACE SWIMMING POOL RADIO: 9C UNITS: E11, TW4</description>
-      <guid isPermaLink="false">2026-11-14 09:09:00</guid>
-      <pubDate>Sat, 14 Nov 2026 09:09:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
