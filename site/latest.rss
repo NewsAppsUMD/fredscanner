@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 11:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:03:28 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:46 am</title>
+      <description>1500 BLOCK W PATRICK ST(P), USA SMOKE RADIO: 9C UNITS: BR125</description>
+      <guid isPermaLink="false">2026-11-17 06:46:00</guid>
+      <pubDate>Tue, 17 Nov 2026 06:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:17 am</title>
       <description>I70WB / 65MM, I70WB / 65MM RADIO: 9B UNITS: PE251, E153, A159</description>
@@ -298,12 +304,6 @@
     <item>
       <title>VEHICLE ACCIDENT - BLS: 2:02 am</title>
       <description>500 BLOCK W MAIN ST RADIO: 9B UNITS: A69, E61</description>
-      <guid isPermaLink="false">2026-11-15 02:02:00</guid>
-      <pubDate>Sun, 15 Nov 2026 02:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 2:02 am</title>
-      <description>500 BLOCK HEATHER RIDGE DR, AMBERTOWN CONDOS - 500 BLOCK HEATHER RIDGE DR RADIO: 9C UNITS: E501, TW1</description>
       <guid isPermaLink="false">2026-11-15 02:02:00</guid>
       <pubDate>Sun, 15 Nov 2026 02:02:00 -0500</pubDate>
     </item>
