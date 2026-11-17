@@ -6,7 +6,13 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 22:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:31:26 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL VEHICLE FIRE: 5:17 pm</title>
+      <description>5300 BLOCK CORONET CT — units: </description>
+      <guid isPermaLink="false">2026-11-17 17:17:00|5300 BLOCK CORONET CT</guid>
+      <pubDate>Tue, 17 Nov 2026 17:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE MALFUNCTION: 7:35 pm</title>
       <description>5900 BLOCK KRANTZ DR — units: </description>
