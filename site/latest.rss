@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 17 Nov 2026 12:33:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:02:43 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:48 am</title>
+      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT RADIO: 9C UNITS: PE311, TW4</description>
+      <guid isPermaLink="false">2026-11-17 07:48:00</guid>
+      <pubDate>Tue, 17 Nov 2026 07:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:46 am</title>
       <description>1500 BLOCK W PATRICK ST(P), USA SMOKE RADIO: 9C UNITS: BR125</description>
@@ -300,12 +306,6 @@
       <description>43000 BLOCK KATES CT RADIO: 6DTAC11 UNITS: R20, E281</description>
       <guid isPermaLink="false">2026-11-15 05:22:00</guid>
       <pubDate>Sun, 15 Nov 2026 05:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:02 am</title>
-      <description>500 BLOCK W MAIN ST RADIO: 9B UNITS: A69, E61</description>
-      <guid isPermaLink="false">2026-11-15 02:02:00</guid>
-      <pubDate>Sun, 15 Nov 2026 02:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
