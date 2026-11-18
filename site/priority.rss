@@ -6,7 +6,7 @@
     <description>Large responses, working fires, and rare incident types from Frederick County Fire &amp; Rescue.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 16:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:02:34 +0000</lastBuildDate>
     <item>
       <title>ELECTRICAL VEHICLE FIRE: 5:17 pm</title>
       <description>5300 BLOCK CORONET CT — units: </description>
@@ -24,12 +24,6 @@
       <description>5200 BLOCK EARLES CT — units: </description>
       <guid isPermaLink="false">2026-11-15 20:35:00|5200 BLOCK EARLES CT</guid>
       <pubDate>Sun, 15 Nov 2026 20:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HOUSE 9129 TRAVENER CIR: 11:09 pm (0 units, 2 updates)</title>
-      <description>RADIO: 9D — units:  (first reported 11:09 pm)</description>
-      <guid isPermaLink="false">2026-11-08 23:09:00|RADIO: 9D</guid>
-      <pubDate>Sun, 08 Nov 2026 23:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
