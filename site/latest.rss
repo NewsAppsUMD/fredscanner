@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 22:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:02:30 +0000</lastBuildDate>
+    <item>
+      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:44 pm</title>
+      <description>UTICA MILLS CIR / OLD FREDERICK RD RADIO: 9C UNITS: E111</description>
+      <guid isPermaLink="false">2026-11-18 17:44:00</guid>
+      <pubDate>Wed, 18 Nov 2026 17:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:40 pm</title>
+      <description>3500 BLOCK SUGARLOAF PKWY, GIANT FOOD - URBANA TOWN CENTER RADIO: 9C UNITS: E231, TT23</description>
+      <guid isPermaLink="false">2026-11-18 17:40:00</guid>
+      <pubDate>Wed, 18 Nov 2026 17:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNIT TRANSFER TO OTHER STATION: 4:27 pm</title>
       <description>FIRST BLOCK OF W MAIN ST, STATION 6 UNITS: E111</description>
@@ -294,18 +306,6 @@
       <description>3500 BLOCK SUGARLOAF PKWY, ATLANTIC GRILL RADIO: 9C UNITS: E231</description>
       <guid isPermaLink="false">2026-11-17 10:11:00</guid>
       <pubDate>Tue, 17 Nov 2026 10:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:29 am</title>
-      <description>5100 BLOCK PEGASUS CT, BRIGHT EYES DAYCARE - CENTER AT MONOCACY RADIO: 9C UNITS: PE311, TW4</description>
-      <guid isPermaLink="false">2026-11-17 09:29:00</guid>
-      <pubDate>Tue, 17 Nov 2026 09:29:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 7:48 am</title>
-      <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT RADIO: 9C UNITS: PE311, TW4</description>
-      <guid isPermaLink="false">2026-11-17 07:48:00</guid>
-      <pubDate>Tue, 17 Nov 2026 07:48:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
