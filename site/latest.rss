@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 17:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:02:56 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 12:57 pm</title>
+      <description>200 BLOCK W PATRICK ST, WAY STATION RADIO: 9C UNITS: PE23</description>
+      <guid isPermaLink="false">2026-11-18 12:57:00</guid>
+      <pubDate>Wed, 18 Nov 2026 12:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:55 pm</title>
+      <description>8400 BLOCK PROGRESS DR RADIO: 9C UNITS: E111, Q11</description>
+      <guid isPermaLink="false">2026-11-18 12:55:00</guid>
+      <pubDate>Wed, 18 Nov 2026 12:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 12:49 pm</title>
+      <description>4900 BLOCK CLARENDON TER RADIO: 9C UNITS: PE311, E141, TW4</description>
+      <guid isPermaLink="false">2026-11-18 12:49:00</guid>
+      <pubDate>Wed, 18 Nov 2026 12:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:45 pm</title>
+      <description>5600 BLOCK URBANA PIKE, CARMAX RADIO: 9C UNITS: E33, TT23</description>
+      <guid isPermaLink="false">2026-11-18 12:45:00</guid>
+      <pubDate>Wed, 18 Nov 2026 12:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>OUTSIDE FIRE: 12:18 pm</title>
       <description>300 BLOCK S SETON AVE, BLDG:A, EMMITSBURG COMMUNITY CENTER RADIO: 9C UNITS: BR65</description>
@@ -282,30 +306,6 @@
       <description>4800 BLOCK OLD BARTHOLOWS RD RADIO: 9B UNITS: A159, E153</description>
       <guid isPermaLink="false">2026-11-16 16:24:00</guid>
       <pubDate>Mon, 16 Nov 2026 16:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 3:00 pm</title>
-      <description>N BENTZ ST / W SECOND ST RADIO: 9D UNITS: A28, ALS4, E23, EMS901</description>
-      <guid isPermaLink="false">2026-11-16 15:00:00</guid>
-      <pubDate>Mon, 16 Nov 2026 15:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 2:33 pm</title>
-      <description>2100 BLOCK WAYSIDE DR, ECHO GLEN CONDOS - 2100 BLOCK WAYSIDE DR RADIO: 9C UNITS: E11</description>
-      <guid isPermaLink="false">2026-11-16 14:33:00</guid>
-      <pubDate>Mon, 16 Nov 2026 14:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 2:24 pm</title>
-      <description>7800 BLOCK WORMANS MILL RD, LOWES - CLEMSON CORNER RADIO: 9B UNITS: A247, E111</description>
-      <guid isPermaLink="false">2026-11-16 14:24:00</guid>
-      <pubDate>Mon, 16 Nov 2026 14:24:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 1:38 pm</title>
-      <description>1100 BLOCK YOUNG PL RADIO: 9C UNITS: E291, TW4</description>
-      <guid isPermaLink="false">2026-11-16 13:38:00</guid>
-      <pubDate>Mon, 16 Nov 2026 13:38:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
