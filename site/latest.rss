@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 21:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:31:21 +0000</lastBuildDate>
+    <item>
+      <title>UNIT TRANSFER TO OTHER STATION: 4:27 pm</title>
+      <description>FIRST BLOCK OF W MAIN ST, STATION 6 UNITS: E111</description>
+      <guid isPermaLink="false">2026-11-18 16:27:00</guid>
+      <pubDate>Wed, 18 Nov 2026 16:27:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:24 pm</title>
+      <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: EMSUTV24</description>
+      <guid isPermaLink="false">2026-11-18 16:24:00</guid>
+      <pubDate>Wed, 18 Nov 2026 16:24:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:22 pm</title>
+      <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: EMSUTV31</description>
+      <guid isPermaLink="false">2026-11-18 16:22:00</guid>
+      <pubDate>Wed, 18 Nov 2026 16:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 4:02 pm</title>
+      <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: ALS30</description>
+      <guid isPermaLink="false">2026-11-18 16:02:00</guid>
+      <pubDate>Wed, 18 Nov 2026 16:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>MOUNTAIN RESCUE: 3:58 pm</title>
       <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: E61, E132, TW6, TR29, EMSUTV30, A69, PE102, ACE23, BC902, SAF901, EMS902</description>
@@ -282,30 +306,6 @@
       <description>5600 BLOCK BUCKEYSTOWN PIKE, LOWES EVERGREEN POINT RADIO: 9C UNITS: PE311, TW4</description>
       <guid isPermaLink="false">2026-11-17 07:48:00</guid>
       <pubDate>Tue, 17 Nov 2026 07:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 6:46 am</title>
-      <description>1500 BLOCK W PATRICK ST(P), USA SMOKE RADIO: 9C UNITS: BR125</description>
-      <guid isPermaLink="false">2026-11-17 06:46:00</guid>
-      <pubDate>Tue, 17 Nov 2026 06:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:17 am</title>
-      <description>I70WB / 65MM, I70WB / 65MM RADIO: 9B UNITS: PE251, E153, A159</description>
-      <guid isPermaLink="false">2026-11-17 06:17:00</guid>
-      <pubDate>Tue, 17 Nov 2026 06:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:04 am</title>
-      <description>COPPERMINE RD / NEW WINDSOR RD RADIO: 9B UNITS: A179, E172</description>
-      <guid isPermaLink="false">2026-11-17 06:04:00</guid>
-      <pubDate>Tue, 17 Nov 2026 06:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 10:56 pm</title>
-      <description>9900 BLOCK WOODSBORO PIKE RADIO: 9D UNITS: E162, R24, A169, ALS17, EMS902</description>
-      <guid isPermaLink="false">2026-11-16 22:56:00</guid>
-      <pubDate>Mon, 16 Nov 2026 22:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
