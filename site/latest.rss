@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 18 Nov 2026 19:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:31:16 +0000</lastBuildDate>
+    <item>
+      <title>FUEL ODOR INSIDE: 2:28 pm</title>
+      <description>8700 BLOCK PETE WILES RD RADIO: 9C UNITS: TW7, K7</description>
+      <guid isPermaLink="false">2026-11-18 14:28:00</guid>
+      <pubDate>Wed, 18 Nov 2026 14:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 2:28 pm</title>
+      <description>8700 BLOCK PETE WILES RD RADIO: 9C UNITS: TW4, K21</description>
+      <guid isPermaLink="false">2026-11-18 14:28:00</guid>
+      <pubDate>Wed, 18 Nov 2026 14:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>FUEL ODOR INSIDE: 2:23 pm</title>
+      <description>8700 BLOCK PETE WILES RD RADIO: 9C UNITS: E82, E73, TW7, K7</description>
+      <guid isPermaLink="false">2026-11-18 14:23:00</guid>
+      <pubDate>Wed, 18 Nov 2026 14:23:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 1:47 pm</title>
       <description>5600 BLOCK BUCKEYSTOWN PIKE, BLDG:A, SAMS CLUB GAS STATION RADIO: 9C UNITS: PE311, TW4</description>
@@ -288,24 +306,6 @@
       <description>400 BLOCK W SEVENTH ST, FHH RADIO: 9C UNITS: R2, PE23</description>
       <guid isPermaLink="false">2026-11-16 21:14:00</guid>
       <pubDate>Mon, 16 Nov 2026 21:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 9:06 pm</title>
-      <description>4000 BLOCK LOMAR DR RADIO: 9C UNITS: E153</description>
-      <guid isPermaLink="false">2026-11-16 21:06:00</guid>
-      <pubDate>Mon, 16 Nov 2026 21:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>APPLIANCE MALFUNCTION: 7:35 pm</title>
-      <description>5900 BLOCK KRANTZ DR RADIO: 9C UNITS: PE311, E11, TW1</description>
-      <guid isPermaLink="false">2026-11-16 19:35:00</guid>
-      <pubDate>Mon, 16 Nov 2026 19:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 6:03 pm</title>
-      <description>WOODSBORO PIKE / CHALLEDON DR RADIO: 9B UNITS: E111, A247, ALS29</description>
-      <guid isPermaLink="false">2026-11-16 18:03:00</guid>
-      <pubDate>Mon, 16 Nov 2026 18:03:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
