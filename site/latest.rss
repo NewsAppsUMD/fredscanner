@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 14:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:31:20 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:19 am</title>
+      <description>OPOSSUMTOWN PIKE / CHRISTOPHERS XING RADIO: 9B UNITS: A28, E291</description>
+      <guid isPermaLink="false">2026-11-19 09:19:00</guid>
+      <pubDate>Thu, 19 Nov 2026 09:19:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 12:31 am</title>
       <description>BAUGHMANS LN / SHOOKSTOWN RD UNITS: A19, E11</description>
@@ -300,12 +306,6 @@
       <description>SAINT ANTHONY RD / MOTTERS STATION RD UNITS: A229, E61, A308</description>
       <guid isPermaLink="false">2026-11-17 13:47:00</guid>
       <pubDate>Tue, 17 Nov 2026 13:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FLOODING CONDITION: 12:51 pm</title>
-      <description>7400 BLOCK SHOCKLEY DR, SHOCKLEY HONDA RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-11-17 12:51:00</guid>
-      <pubDate>Tue, 17 Nov 2026 12:51:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
