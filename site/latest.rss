@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 14:31:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:02:39 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE: 10:00 am</title>
+      <description>I70EB / RT85, I70EB / RT85 RADIO: 9C UNITS: E11, E33</description>
+      <guid isPermaLink="false">2026-11-19 10:00:00</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:19 am</title>
       <description>OPOSSUMTOWN PIKE / CHRISTOPHERS XING RADIO: 9B UNITS: A28, E291</description>
@@ -300,12 +306,6 @@
       <description>I70WB / EXIT 59 (RT144 NEWM)(RT144 NEWM), I70WB / EXIT 59 UNITS: E33, PE311, E153, R2, A339, A38, ALS4, BC902, EMS901</description>
       <guid isPermaLink="false">2026-11-17 13:51:00</guid>
       <pubDate>Tue, 17 Nov 2026 13:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 1:47 pm</title>
-      <description>SAINT ANTHONY RD / MOTTERS STATION RD UNITS: A229, E61, A308</description>
-      <guid isPermaLink="false">2026-11-17 13:47:00</guid>
-      <pubDate>Tue, 17 Nov 2026 13:47:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
