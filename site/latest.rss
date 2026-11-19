@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 18:32:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:01:43 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 1:55 pm</title>
+      <description>2300 BLOCK NEW DESIGN RD RADIO: 9B UNITS: A149, R14</description>
+      <guid isPermaLink="false">2026-11-19 13:55:00</guid>
+      <pubDate>Thu, 19 Nov 2026 13:55:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS LEAK OUTSIDE: 1:01 pm</title>
       <description>100 BLOCK E A ST RADIO: 9C UNITS: HM33</description>
@@ -300,12 +306,6 @@
       <description>I270SB / 25MM, I270SB / 25MM RADIO: 9B UNITS: E231, R2, A259, TT23</description>
       <guid isPermaLink="false">2026-11-17 17:08:00</guid>
       <pubDate>Tue, 17 Nov 2026 17:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOTORCYCLE ACCIDENT: 4:40 pm</title>
-      <description>FINGERBOARD RD / WORTHINGTON BLVD RADIO: 9D UNITS: E231, R2, A238, ALS23, EMS902, TT23</description>
-      <guid isPermaLink="false">2026-11-17 16:40:00</guid>
-      <pubDate>Tue, 17 Nov 2026 16:40:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
