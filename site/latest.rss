@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 17:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:02:53 +0000</lastBuildDate>
+    <item>
+      <title>GAS LEAK OUTSIDE: 1:01 pm</title>
+      <description>100 BLOCK E A ST RADIO: 9C UNITS: HM33</description>
+      <guid isPermaLink="false">2026-11-19 13:01:00</guid>
+      <pubDate>Thu, 19 Nov 2026 13:01:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS LEAK OUTSIDE: 12:40 pm</title>
+      <description>100 BLOCK E A ST RADIO: 9C UNITS: PE52</description>
+      <guid isPermaLink="false">2026-11-19 12:40:00</guid>
+      <pubDate>Thu, 19 Nov 2026 12:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 12:10 pm</title>
       <description>RT15 / BASFORD RD, RT15 / BASFORD RD RADIO: 9C UNITS: BR285</description>
@@ -294,18 +306,6 @@
       <description>FINGERBOARD RD / WORTHINGTON BLVD RADIO: 9D UNITS: E231, R2, A238, ALS23, EMS902, TT23</description>
       <guid isPermaLink="false">2026-11-17 16:40:00</guid>
       <pubDate>Tue, 17 Nov 2026 16:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>OUTSIDE FIRE: 4:25 pm</title>
-      <description>OLD BARTHOLOWS RD / LYNN BURKE RD, IAO RADIO: 9B UNITS: PE251</description>
-      <guid isPermaLink="false">2026-11-17 16:25:00</guid>
-      <pubDate>Tue, 17 Nov 2026 16:25:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 4:17 pm</title>
-      <description>RT15NB / RT77, RT15NB / RT77 RADIO: 9C UNITS: BR106</description>
-      <guid isPermaLink="false">2026-11-17 16:17:00</guid>
-      <pubDate>Tue, 17 Nov 2026 16:17:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
