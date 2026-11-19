@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 19:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:02:57 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE FIRE - STRUCTURE THREATENED: 2:53 pm</title>
+      <description>11700 BLOCK ROWE RD RADIO: 9C UNITS: PE251, E153, E231, K23, A259, BC903, SAF901</description>
+      <guid isPermaLink="false">2026-11-19 14:53:00</guid>
+      <pubDate>Thu, 19 Nov 2026 14:53:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 2:28 pm</title>
       <description>9200 BLOCK FINGERBOARD RD, SHEETZ - URBANA RADIO: 9D UNITS: A238, ALS23, EMS902, TT23</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / 3.2MM UNITS: E61, A68</description>
       <guid isPermaLink="false">2026-11-17 17:31:00</guid>
       <pubDate>Tue, 17 Nov 2026 17:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 5:18 pm</title>
-      <description>15800 BLOCK EYLERS VALLEY RD, EYLERS VALLEY FISHERIES RADIO: 9D UNITS: A229, ALS30, PE102, EMS902</description>
-      <guid isPermaLink="false">2026-11-17 17:18:00</guid>
-      <pubDate>Tue, 17 Nov 2026 17:18:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
