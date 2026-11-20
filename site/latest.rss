@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 12:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:02:49 +0000</lastBuildDate>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 7:56 am</title>
+      <description>200 BLOCK BAUGHMANS LN RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-11-20 07:56:00</guid>
+      <pubDate>Fri, 20 Nov 2026 07:56:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 7:44 am</title>
+      <description>9800 BLOCK MAIN ST SAFEWAY MAIN ST RADIO: 7A1 UNITS: A259</description>
+      <guid isPermaLink="false">2026-11-20 07:44:00</guid>
+      <pubDate>Fri, 20 Nov 2026 07:44:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 7:41 am</title>
+      <description>WALNUT ST / SOUTH ST RADIO: 9B UNITS: A169, ALS17</description>
+      <guid isPermaLink="false">2026-11-20 07:41:00</guid>
+      <pubDate>Fri, 20 Nov 2026 07:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:37 am</title>
+      <description>WALNUT ST / SOUTH ST RADIO: 9B UNITS: A179, E172</description>
+      <guid isPermaLink="false">2026-11-20 07:37:00</guid>
+      <pubDate>Fri, 20 Nov 2026 07:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:40 am</title>
       <description>20000 BLOCK N270 X18 TO X22 HWY N270U RT121 - RT109 RADIO: 7A1 UNITS: A238, E231</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK SMITHFIELD DR UNITS: E73</description>
       <guid isPermaLink="false">2026-11-18 08:58:00</guid>
       <pubDate>Wed, 18 Nov 2026 08:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:40 am</title>
-      <description>100 BLOCK S MARKET ST, COMMUNITY ACTION CENTER RADIO: 9C UNITS: E33, TW4</description>
-      <guid isPermaLink="false">2026-11-18 08:40:00</guid>
-      <pubDate>Wed, 18 Nov 2026 08:40:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:57 am</title>
-      <description>I70WB / EXIT 52 (RT340), I70WB / EXIT 52 RADIO: 9B UNITS: E33, E121, R2, A38, A129</description>
-      <guid isPermaLink="false">2026-11-18 07:57:00</guid>
-      <pubDate>Wed, 18 Nov 2026 07:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WASHDOWN - NON EMERGENCY RESPONSE: 7:16 am</title>
-      <description>RT194 / GLADE BLVD, RT194 / GLADE BLVD RADIO: 9C UNITS: E111</description>
-      <guid isPermaLink="false">2026-11-18 07:16:00</guid>
-      <pubDate>Wed, 18 Nov 2026 07:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:16 am</title>
-      <description>8400 BLOCK PROGRESS DR, WELCOX IN RADIO: 9C UNITS: TW4</description>
-      <guid isPermaLink="false">2026-11-18 06:16:00</guid>
-      <pubDate>Wed, 18 Nov 2026 06:16:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
