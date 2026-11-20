@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 04:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:03:03 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:58 pm</title>
+      <description>1800 BLOCK MURDOCK CT UNITS: E11, TW4</description>
+      <guid isPermaLink="false">2026-11-19 23:58:00</guid>
+      <pubDate>Thu, 19 Nov 2026 23:58:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 7:20 pm</title>
       <description>RAMP FROM RT85 TO I70WB UNITS: A38, E33</description>
@@ -300,12 +306,6 @@
       <description>8400 BLOCK PROGRESS DR, WELCOX IN RADIO: 9C UNITS: E111, Q11</description>
       <guid isPermaLink="false">2026-11-18 06:11:00</guid>
       <pubDate>Wed, 18 Nov 2026 06:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 6:10 am</title>
-      <description>I270SB / RT80(RT80), I270SB / RT80 UNITS: ALS23, EMS901</description>
-      <guid isPermaLink="false">2026-11-18 06:10:00</guid>
-      <pubDate>Wed, 18 Nov 2026 06:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
