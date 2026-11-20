@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 18:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:02:24 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 1:50 pm</title>
+      <description>200 BLOCK MADISON ST, LINCOLN ELEMENTARY SCHOOL RADIO: 9C UNITS: E33, TW4</description>
+      <guid isPermaLink="false">2026-11-20 13:50:00</guid>
+      <pubDate>Fri, 20 Nov 2026 13:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:46 pm</title>
+      <description>6600 BLOCK CORBEL WAY RADIO: 9C UNITS: PE311</description>
+      <guid isPermaLink="false">2026-11-20 13:46:00</guid>
+      <pubDate>Fri, 20 Nov 2026 13:46:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 12:56 pm</title>
       <description>5300 BLOCK GOLD MINE RD UNITS: E121, TW4</description>
@@ -294,18 +306,6 @@
       <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: ALS30</description>
       <guid isPermaLink="false">2026-11-18 16:02:00</guid>
       <pubDate>Wed, 18 Nov 2026 16:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 3:58 pm</title>
-      <description>8800 BLOCK CRYSTAL FOUNTAIN RD RADIO: 9D UNITS: E61, E132, TW6, TR29, EMSUTV30, A69, PE102, ACE23, BC902, SAF901, EMS902</description>
-      <guid isPermaLink="false">2026-11-18 15:58:00</guid>
-      <pubDate>Wed, 18 Nov 2026 15:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>FUEL ODOR INSIDE: 2:28 pm</title>
-      <description>8700 BLOCK PETE WILES RD RADIO: 9C UNITS: TW7, K7</description>
-      <guid isPermaLink="false">2026-11-18 14:28:00</guid>
-      <pubDate>Wed, 18 Nov 2026 14:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
