@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 21:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:31:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 4:17 pm</title>
+      <description>1200 BLOCK RIVERWALK PL, FAIRWAY VISTA CLUBHOUSE &amp; POOL RADIO: 9C UNITS: PE23, Q11</description>
+      <guid isPermaLink="false">2026-11-20 16:17:00</guid>
+      <pubDate>Fri, 20 Nov 2026 16:17:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:01 pm</title>
       <description>RT15-340WB / I70, RT15-340WB / I70 RADIO: 9B UNITS: E33, E201, R2, A38, A209</description>
@@ -300,12 +306,6 @@
       <description>9800 BLOCK GAS HOUSE PIKE RADIO: 9B UNITS: Q11</description>
       <guid isPermaLink="false">2026-11-18 18:11:00</guid>
       <pubDate>Wed, 18 Nov 2026 18:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:10 pm</title>
-      <description>9800 BLOCK GAS HOUSE PIKE RADIO: 9B UNITS: A247, E111</description>
-      <guid isPermaLink="false">2026-11-18 18:10:00</guid>
-      <pubDate>Wed, 18 Nov 2026 18:10:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
