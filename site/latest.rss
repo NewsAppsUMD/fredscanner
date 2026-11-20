@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 20 Nov 2026 21:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:02:36 +0000</lastBuildDate>
+    <item>
+      <title>ELEVATOR MALFUNCTION: 4:43 pm</title>
+      <description>400 BLOCK W SEVENTH ST, FHH RADIO: 9C UNITS: R2, PE23</description>
+      <guid isPermaLink="false">2026-11-20 16:43:00</guid>
+      <pubDate>Fri, 20 Nov 2026 16:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR OUTSIDE: 4:40 pm</title>
+      <description>11400 BLOCK ARCHER CIR RADIO: 9C UNITS: PE251</description>
+      <guid isPermaLink="false">2026-11-20 16:40:00</guid>
+      <pubDate>Fri, 20 Nov 2026 16:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 4:17 pm</title>
       <description>1200 BLOCK RIVERWALK PL, FAIRWAY VISTA CLUBHOUSE &amp; POOL RADIO: 9C UNITS: PE23, Q11</description>
@@ -294,18 +306,6 @@
       <description>SHOOKSTOWN RD / BAUGHMANS LN, IAO RADIO: 9B UNITS: A19, E11</description>
       <guid isPermaLink="false">2026-11-18 23:49:00</guid>
       <pubDate>Wed, 18 Nov 2026 23:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 7:23 pm</title>
-      <description>RAMP FROM RT15SB TO RT77 RADIO: 9B UNITS: A229, PE102, A308</description>
-      <guid isPermaLink="false">2026-11-18 19:23:00</guid>
-      <pubDate>Wed, 18 Nov 2026 19:23:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:11 pm</title>
-      <description>9800 BLOCK GAS HOUSE PIKE RADIO: 9B UNITS: Q11</description>
-      <guid isPermaLink="false">2026-11-18 18:11:00</guid>
-      <pubDate>Wed, 18 Nov 2026 18:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
