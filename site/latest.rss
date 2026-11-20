@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 19 Nov 2026 23:31:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:06:35 +0000</lastBuildDate>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 6:59 pm</title>
+      <description>8200 BLOCK PEMBROOK CT UNITS: E331</description>
+      <guid isPermaLink="false">2026-11-19 18:59:00</guid>
+      <pubDate>Thu, 19 Nov 2026 18:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 6:30 pm</title>
+      <description>2000 BLOCK WILLIAM FRANKLIN DR UNITS: E291, E501, R2</description>
+      <guid isPermaLink="false">2026-11-19 18:30:00</guid>
+      <pubDate>Thu, 19 Nov 2026 18:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:45 pm</title>
       <description>THOMAS AVE / BARBARA ST RADIO: 9B UNITS: A38, TW4</description>
@@ -294,18 +306,6 @@
       <description>I270SB / RT80(RT80), I270SB / RT80 UNITS: E231, PE251, R2, A238, A259, TT23</description>
       <guid isPermaLink="false">2026-11-18 06:09:00</guid>
       <pubDate>Wed, 18 Nov 2026 06:09:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE FIRE: 12:44 am</title>
-      <description>RT15NB / RT26(RT26), RT15NB / RT26 UNITS: PE23, E291</description>
-      <guid isPermaLink="false">2026-11-18 00:44:00</guid>
-      <pubDate>Wed, 18 Nov 2026 00:44:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HIGH MECHANISM - ALS: 11:15 pm</title>
-      <description>6000 BLOCK GREENFIELD DR RADIO: 9B UNITS: E11, R2, A19, PE311, BC903, EMS901</description>
-      <guid isPermaLink="false">2026-11-17 23:15:00</guid>
-      <pubDate>Tue, 17 Nov 2026 23:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
