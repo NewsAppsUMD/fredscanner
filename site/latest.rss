@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 22:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 23:02:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
+      <description>MOUNTVILLE RD / BALLENGER CREEK PIKE RADIO: 9B UNITS: A149, R14</description>
+      <guid isPermaLink="false">2026-11-21 17:57:00</guid>
+      <pubDate>Sat, 21 Nov 2026 17:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 5:41 pm</title>
+      <description>LAT: &lt; 39.6237&gt; LONG: &lt; -77.4545&gt;, CUNNINGHAM FALLS PARK RD / RT15 RADIO: 9D UNITS: E162, E91</description>
+      <guid isPermaLink="false">2026-11-21 17:41:00</guid>
+      <pubDate>Sat, 21 Nov 2026 17:41:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 5:39 pm</title>
+      <description>LAT: &lt; 39.6237&gt; LONG: &lt; -77.4545&gt;, CUNNINGHAM FALLS PARK RD / RT15 RADIO: 9D UNITS: BC902</description>
+      <guid isPermaLink="false">2026-11-21 17:39:00</guid>
+      <pubDate>Sat, 21 Nov 2026 17:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:36 pm</title>
+      <description>3300 BLOCK PURPLE SAGE MEWS RADIO: 9C UNITS: E231</description>
+      <guid isPermaLink="false">2026-11-21 17:36:00</guid>
+      <pubDate>Sat, 21 Nov 2026 17:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MOUNTAIN RESCUE: 5:34 pm</title>
+      <description>LAT: &lt; 39.6237&gt; LONG: &lt; -77.4545&gt;, CUNNINGHAM FALLS PARK RD / RT15 RADIO: 9D UNITS: E61, E132, R10, TR29, EMSUTV30, A309, ALS30, E221, E511, BC901, SAF901, EMS902</description>
+      <guid isPermaLink="false">2026-11-21 17:34:00</guid>
+      <pubDate>Sat, 21 Nov 2026 17:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:27 pm</title>
       <description>RAMP FROM RT85 TO I270SB RADIO: 9B UNITS: A37, PE311</description>
@@ -276,36 +306,6 @@
       <description>8000 BLOCK DUSTIN DR RADIO: 9C UNITS: E111</description>
       <guid isPermaLink="false">2026-11-20 11:57:00</guid>
       <pubDate>Fri, 20 Nov 2026 11:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:51 am</title>
-      <description>8000 BLOCK DUSTIN DR RADIO: 9C UNITS: K17</description>
-      <guid isPermaLink="false">2026-11-20 11:51:00</guid>
-      <pubDate>Fri, 20 Nov 2026 11:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:51 am</title>
-      <description>8000 BLOCK DUSTIN DR RADIO: 9C UNITS: EK114</description>
-      <guid isPermaLink="false">2026-11-20 11:51:00</guid>
-      <pubDate>Fri, 20 Nov 2026 11:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:47 am</title>
-      <description>8000 BLOCK DUSTIN DR RADIO: 9C UNITS: BR156</description>
-      <guid isPermaLink="false">2026-11-20 11:47:00</guid>
-      <pubDate>Fri, 20 Nov 2026 11:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 11:45 am</title>
-      <description>8000 BLOCK DUSTIN DR RADIO: 9C UNITS: K17, BR175</description>
-      <guid isPermaLink="false">2026-11-20 11:45:00</guid>
-      <pubDate>Fri, 20 Nov 2026 11:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:44 am</title>
-      <description>2400 BLOCK WATERSIDE DR, VILLAGE CROSSING AT WORMANS MILL RADIO: 9C UNITS: E291, Q11</description>
-      <guid isPermaLink="false">2026-11-20 11:44:00</guid>
-      <pubDate>Fri, 20 Nov 2026 11:44:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
