@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 21 Nov 2026 13:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:02:37 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:00 am</title>
+      <description>7000 BLOCK BALTIMORE NATIONAL PIKE, MOUNTAIN MOTORS UNITS: A129, E121</description>
+      <guid isPermaLink="false">2026-11-21 09:00:00</guid>
+      <pubDate>Sat, 21 Nov 2026 09:00:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 10:32 pm</title>
       <description>I70WB / I270-RT15, I70WB / I270-RT15 RADIO: 9B UNITS: E33, E121, R2, A38, A129</description>
@@ -300,12 +306,6 @@
       <description>11700 BLOCK ROWE RD RADIO: 9C UNITS: PE251, E153, E231, K23, A259, BC903, SAF901</description>
       <guid isPermaLink="false">2026-11-19 14:53:00</guid>
       <pubDate>Thu, 19 Nov 2026 14:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 2:28 pm</title>
-      <description>9200 BLOCK FINGERBOARD RD, SHEETZ - URBANA RADIO: 9D UNITS: A238, ALS23, EMS902, TT23</description>
-      <guid isPermaLink="false">2026-11-19 14:28:00</guid>
-      <pubDate>Thu, 19 Nov 2026 14:28:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
