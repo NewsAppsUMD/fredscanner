@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 22:31:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 23:02:25 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:45 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9D UNITS: W22</description>
+      <guid isPermaLink="false">2026-11-22 17:45:00</guid>
+      <pubDate>Sun, 22 Nov 2026 17:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:39 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9B UNITS: A28, A19</description>
+      <guid isPermaLink="false">2026-11-22 17:39:00</guid>
+      <pubDate>Sun, 22 Nov 2026 17:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:36 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9B UNITS: E221</description>
+      <guid isPermaLink="false">2026-11-22 17:36:00</guid>
+      <pubDate>Sun, 22 Nov 2026 17:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 5:34 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9B UNITS: ALS29, EMS902</description>
+      <guid isPermaLink="false">2026-11-22 17:34:00</guid>
+      <pubDate>Sun, 22 Nov 2026 17:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 5:30 pm</title>
+      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9B UNITS: E291, E111, R24, A299, A229, E221</description>
+      <guid isPermaLink="false">2026-11-22 17:30:00</guid>
+      <pubDate>Sun, 22 Nov 2026 17:30:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ALS: 5:03 pm</title>
       <description>12000 BLOCK TANEYTOWN PIKE RADIO: 9B UNITS: EMS902</description>
@@ -276,36 +306,6 @@
       <description>14000 BLOCK TOWER RD, BLDG:A, TOWER ROAD RADIO TOWER RADIO: 9C UNITS: PE102, K21, BR216, E212</description>
       <guid isPermaLink="false">2026-11-21 16:37:00</guid>
       <pubDate>Sat, 21 Nov 2026 16:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 4:35 pm</title>
-      <description>FIRST BLOCK OF WAVERLEY DR RADIO: 9C UNITS: E11, E121, TT4</description>
-      <guid isPermaLink="false">2026-11-21 16:35:00</guid>
-      <pubDate>Sat, 21 Nov 2026 16:35:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>INVESTIGATION: 2:52 pm</title>
-      <description>JIMTOWN RD / LONG RD UNITS: PE102</description>
-      <guid isPermaLink="false">2026-11-21 14:52:00</guid>
-      <pubDate>Sat, 21 Nov 2026 14:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:48 pm</title>
-      <description>7800 BLOCK EMERSON BURRIER RD RADIO: 9D UNITS: K17</description>
-      <guid isPermaLink="false">2026-11-21 14:48:00</guid>
-      <pubDate>Sat, 21 Nov 2026 14:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:47 pm</title>
-      <description>7800 BLOCK EMERSON BURRIER RD RADIO: 9D UNITS: CCK1</description>
-      <guid isPermaLink="false">2026-11-21 14:47:00</guid>
-      <pubDate>Sat, 21 Nov 2026 14:47:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHIMNEY FIRE: 2:42 pm</title>
-      <description>7800 BLOCK EMERSON BURRIER RD RADIO: 9D UNITS: RE171, E153, K17, A179, E152</description>
-      <guid isPermaLink="false">2026-11-21 14:42:00</guid>
-      <pubDate>Sat, 21 Nov 2026 14:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
