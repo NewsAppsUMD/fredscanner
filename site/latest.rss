@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 11:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 12:03:04 +0000</lastBuildDate>
+    <item>
+      <title>LARGE BRUSH FIRE: 6:42 am</title>
+      <description>9000 BLOCK TWIN PONDS LN RADIO: 9C UNITS: BR35</description>
+      <guid isPermaLink="false">2026-11-22 06:42:00</guid>
+      <pubDate>Sun, 22 Nov 2026 06:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>LARGE BRUSH FIRE: 6:37 am</title>
+      <description>9000 BLOCK TWIN PONDS LN RADIO: 9C UNITS: K1, BR16, BR226</description>
+      <guid isPermaLink="false">2026-11-22 06:37:00</guid>
+      <pubDate>Sun, 22 Nov 2026 06:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 5:44 am</title>
       <description>5800 BLOCK MARY LOU LN RADIO: 9C UNITS: E11</description>
@@ -294,18 +306,6 @@
       <description>FIRST BLOCK OF WAVERLEY DR, BLDG:X, ELMWOOD TERRACE APTS - BLDG X RADIO: 9C UNITS: E33, E121, TT4</description>
       <guid isPermaLink="false">2026-11-20 18:54:00</guid>
       <pubDate>Fri, 20 Nov 2026 18:54:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 6:04 pm</title>
-      <description>7900 BLOCK OLD RECEIVER RD RADIO: 9C UNITS: K7</description>
-      <guid isPermaLink="false">2026-11-20 18:04:00</guid>
-      <pubDate>Fri, 20 Nov 2026 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ILLEGAL OPEN BURNING - NON EMERGENCY RESPONSE: 5:58 pm</title>
-      <description>7900 BLOCK OLD RECEIVER RD RADIO: 9C UNITS: K1</description>
-      <guid isPermaLink="false">2026-11-20 17:58:00</guid>
-      <pubDate>Fri, 20 Nov 2026 17:58:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
