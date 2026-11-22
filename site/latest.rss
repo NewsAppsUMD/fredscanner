@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 22 Nov 2026 10:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:02:23 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:44 am</title>
+      <description>5800 BLOCK MARY LOU LN RADIO: 9C UNITS: E11</description>
+      <guid isPermaLink="false">2026-11-22 05:44:00</guid>
+      <pubDate>Sun, 22 Nov 2026 05:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - ENTRAPMENT: 4:55 am</title>
       <description>7800 BLOCK BALTIMORE NATIONAL PIKE RADIO: 9D UNITS: E121, R8, A129, ALS8, BC903, EMS902</description>
@@ -300,12 +306,6 @@
       <description>7900 BLOCK OLD RECEIVER RD RADIO: 9C UNITS: K1</description>
       <guid isPermaLink="false">2026-11-20 17:58:00</guid>
       <pubDate>Fri, 20 Nov 2026 17:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 5:15 pm</title>
-      <description>5600 BLOCK NEW DESIGN RD, BLDG:B, CRESTWOOD MANOR - 5600 BLOCK NEW DESIGN RD RADIO: 9C UNITS: PE311, TT4</description>
-      <guid isPermaLink="false">2026-11-20 17:15:00</guid>
-      <pubDate>Fri, 20 Nov 2026 17:15:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
