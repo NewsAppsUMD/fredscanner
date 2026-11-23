@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 00:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 01:02:48 +0000</lastBuildDate>
+    <item>
+      <title>APPLIANCE FIRE CONTAINED: 7:51 pm</title>
+      <description>5900 BLOCK JEFFERSON COMMONS WAY RADIO: 9C UNITS: E11, PE311, TT4</description>
+      <guid isPermaLink="false">2026-11-22 19:51:00</guid>
+      <pubDate>Sun, 22 Nov 2026 19:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>BRUSH FIRE: 6:56 pm</title>
       <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET RADIO: 6B UNITS: BR285</description>
@@ -298,12 +304,6 @@
     <item>
       <title>LARGE OUTSIDE FIRE: 4:43 pm</title>
       <description>14000 BLOCK TOWER RD, BLDG:A, TOWER ROAD RADIO TOWER RADIO: 9C UNITS: K21</description>
-      <guid isPermaLink="false">2026-11-21 16:43:00</guid>
-      <pubDate>Sat, 21 Nov 2026 16:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LARGE OUTSIDE FIRE: 4:43 pm</title>
-      <description>14000 BLOCK TOWER RD, BLDG:A, TOWER ROAD RADIO TOWER RADIO: 9C UNITS: K10, BR106</description>
       <guid isPermaLink="false">2026-11-21 16:43:00</guid>
       <pubDate>Sat, 21 Nov 2026 16:43:00 -0500</pubDate>
     </item>
