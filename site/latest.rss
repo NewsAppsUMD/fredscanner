@@ -6,7 +6,49 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 16:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:02:41 +0000</lastBuildDate>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 12:00 pm</title>
+      <description>10500 BLOCK WHISKEY RD, WHISKEY CREEK GOLF MAINTENANCE BLDG RADIO: 9D UNITS: A259, PE251, EMS901, E251</description>
+      <guid isPermaLink="false">2026-11-23 12:00:00</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 11:42 am</title>
+      <description>FIRST BLOCK OF S CHURCH ST, CHRIST REFORMED CHURCH RADIO: 9C UNITS: E73, TW7</description>
+      <guid isPermaLink="false">2026-11-23 11:42:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: R24</description>
+      <guid isPermaLink="false">2026-11-23 11:39:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: R2</description>
+      <guid isPermaLink="false">2026-11-23 11:39:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:39:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>GAS ODOR INSIDE: 11:37 am</title>
+      <description>1300 BLOCK W PATRICK ST, STERLING OPTICAL - FREDERICK TOWNE MALL / DISTRICT 40 RADIO: 9C UNITS: E11, E33, TT4</description>
+      <guid isPermaLink="false">2026-11-23 11:37:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:37:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 11:33 am</title>
+      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: E291, E111, R24, A299, A229, E221</description>
+      <guid isPermaLink="false">2026-11-23 11:33:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:33:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SMOKE OR CO DETECTOR MALFUNCTION: 11:31 am</title>
+      <description>FIRST BLOCK OF E FIFTH ST RADIO: 9C UNITS: PE23</description>
+      <guid isPermaLink="false">2026-11-23 11:31:00</guid>
+      <pubDate>Mon, 23 Nov 2026 11:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 10:06 am</title>
       <description>1200 BLOCK BEECHWOOD DR RADIO: 9C UNITS: PE23</description>
@@ -264,48 +306,6 @@
       <description>8000 BLOCK LIBERTY RD, BLDG:D, POPEYES - LIBERTY RD RADIO: 9B UNITS: A247, E111</description>
       <guid isPermaLink="false">2026-11-21 18:33:00</guid>
       <pubDate>Sat, 21 Nov 2026 18:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:22 pm</title>
-      <description>3800 BLOCK BUCKEYSTOWN PIKE, BUCKEYSTOWN VET CLINIC RADIO: 9C UNITS: E33, TT4</description>
-      <guid isPermaLink="false">2026-11-21 18:22:00</guid>
-      <pubDate>Sat, 21 Nov 2026 18:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 6:07 pm</title>
-      <description>1300 BLOCK TANEY AVE, POTOMAC COMMONS APTS - 1300 BLOCK TANEY AVE RADIO: 9C UNITS: E501, PE23, TW1</description>
-      <guid isPermaLink="false">2026-11-21 18:07:00</guid>
-      <pubDate>Sat, 21 Nov 2026 18:07:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:04 pm</title>
-      <description>MOUNTVILLE RD / BALLENGER CREEK PIKE RADIO: 9B UNITS: A18</description>
-      <guid isPermaLink="false">2026-11-21 18:04:00</guid>
-      <pubDate>Sat, 21 Nov 2026 18:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
-      <description>MOUNTVILLE RD / BALLENGER CREEK PIKE RADIO: 9B UNITS: A149, R14</description>
-      <guid isPermaLink="false">2026-11-21 17:57:00</guid>
-      <pubDate>Sat, 21 Nov 2026 17:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 5:41 pm</title>
-      <description>LAT: &lt; 39.6237&gt; LONG: &lt; -77.4545&gt;, CUNNINGHAM FALLS PARK RD / RT15 RADIO: 9D UNITS: E162, E91</description>
-      <guid isPermaLink="false">2026-11-21 17:41:00</guid>
-      <pubDate>Sat, 21 Nov 2026 17:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>MOUNTAIN RESCUE: 5:39 pm</title>
-      <description>LAT: &lt; 39.6237&gt; LONG: &lt; -77.4545&gt;, CUNNINGHAM FALLS PARK RD / RT15 RADIO: 9D UNITS: BC902</description>
-      <guid isPermaLink="false">2026-11-21 17:39:00</guid>
-      <pubDate>Sat, 21 Nov 2026 17:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 5:36 pm</title>
-      <description>3300 BLOCK PURPLE SAGE MEWS RADIO: 9C UNITS: E231</description>
-      <guid isPermaLink="false">2026-11-21 17:36:00</guid>
-      <pubDate>Sat, 21 Nov 2026 17:36:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
