@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 22:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:02:45 +0000</lastBuildDate>
+    <item>
+      <title>LIGHT SMOKE CONDITIONS: 5:59 pm</title>
+      <description>200 BLOCK HARPERS WAY RADIO: 9C UNITS: E291, E501, TW1</description>
+      <guid isPermaLink="false">2026-11-23 17:59:00</guid>
+      <pubDate>Mon, 23 Nov 2026 17:59:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 5:44 pm</title>
+      <description>1200 BLOCK MAPLE TERRACE LN, MAPLE TERRACE APTS RADIO: 9C UNITS: PE52</description>
+      <guid isPermaLink="false">2026-11-23 17:44:00</guid>
+      <pubDate>Mon, 23 Nov 2026 17:44:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 3:50 pm</title>
       <description>FIRST BLOCK OF N MARKET ST, ISABELLAS TAVERNA &amp; TAPAS BAR RADIO: 9C UNITS: E33, TT4</description>
@@ -294,18 +306,6 @@
       <description>3500 BLOCK BRETHREN CHURCH RD RADIO: 9C UNITS: BR85</description>
       <guid isPermaLink="false">2026-11-22 02:28:00</guid>
       <pubDate>Sun, 22 Nov 2026 02:28:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>HELICOPTER LANDING ZONE: 12:46 am</title>
-      <description>10100 BLOCK HANSONVILLE RD, FREDERICK CHRISTIAN FELLOWSHIP - 10100 BLOCK HANSONVILLE RD RADIO: 9D UNITS: E111, E221</description>
-      <guid isPermaLink="false">2026-11-22 00:46:00</guid>
-      <pubDate>Sun, 22 Nov 2026 00:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 12:23 am</title>
-      <description>MONTEVUE LN / ROSEMONT AVE RADIO: 9B UNITS: A19, E11</description>
-      <guid isPermaLink="false">2026-11-22 00:23:00</guid>
-      <pubDate>Sun, 22 Nov 2026 00:23:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
