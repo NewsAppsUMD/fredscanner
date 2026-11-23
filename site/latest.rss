@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 17:02:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:31:22 +0000</lastBuildDate>
+    <item>
+      <title>SMALL BUILDING FIRE: 12:15 pm</title>
+      <description>5600 BLOCK MANOR WOODS RD RADIO: 9C UNITS: E141, PE311, R20, EK204, A149</description>
+      <guid isPermaLink="false">2026-11-23 12:15:00</guid>
+      <pubDate>Mon, 23 Nov 2026 12:15:00 -0500</pubDate>
+    </item>
     <item>
       <title>PEDESTRIAN STRUCK - ALS: 12:00 pm</title>
       <description>10500 BLOCK WHISKEY RD, WHISKEY CREEK GOLF MAINTENANCE BLDG RADIO: 9D UNITS: A259, PE251, EMS901, E251</description>
@@ -300,12 +306,6 @@
       <description>I270SB / DOCTOR PERRY RD, I270SB / DOCTOR PERRY RD RADIO: 9B UNITS: A238, TT23</description>
       <guid isPermaLink="false">2026-11-21 18:59:00</guid>
       <pubDate>Sat, 21 Nov 2026 18:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:33 pm</title>
-      <description>8000 BLOCK LIBERTY RD, BLDG:D, POPEYES - LIBERTY RD RADIO: 9B UNITS: A247, E111</description>
-      <guid isPermaLink="false">2026-11-21 18:33:00</guid>
-      <pubDate>Sat, 21 Nov 2026 18:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
