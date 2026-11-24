@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 20:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:31:16 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:19 pm</title>
+      <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD UNITS: PE102, E291, R10, A308, A248, E221</description>
+      <guid isPermaLink="false">2026-11-24 15:19:00</guid>
+      <pubDate>Tue, 24 Nov 2026 15:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ENTRAPMENT - PERIPHERAL: 3:02 pm</title>
+      <description>1000 BLOCK N MARKET ST, YMCA FREDERICK UNITS: E23, R2, A28</description>
+      <guid isPermaLink="false">2026-11-24 15:02:00</guid>
+      <pubDate>Tue, 24 Nov 2026 15:02:00 -0500</pubDate>
+    </item>
     <item>
       <title>INVESTIGATION: 2:47 pm</title>
       <description>300 BLOCK W PATRICK ST, IAO UNITS: BR35</description>
@@ -294,18 +306,6 @@
       <description>1400 BLOCK CHESSIE CT UNITS: TT23</description>
       <guid isPermaLink="false">2026-11-22 14:30:00</guid>
       <pubDate>Sun, 22 Nov 2026 14:30:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>LIGHT SMOKE CONDITIONS: 12:59 pm</title>
-      <description>5700 BLOCK BELLS LN RADIO: 9C UNITS: E331, E153, TT4, K22</description>
-      <guid isPermaLink="false">2026-11-22 12:59:00</guid>
-      <pubDate>Sun, 22 Nov 2026 12:59:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SERVICE CALL: 12:34 pm</title>
-      <description>5300 BLOCK NEW DESIGN RD, CHICK-FIL-A RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-11-22 12:34:00</guid>
-      <pubDate>Sun, 22 Nov 2026 12:34:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
