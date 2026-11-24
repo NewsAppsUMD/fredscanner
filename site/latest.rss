@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 23:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:31:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:21 pm</title>
+      <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK RADIO: 9B UNITS: A18, E11</description>
+      <guid isPermaLink="false">2026-11-24 18:21:00</guid>
+      <pubDate>Tue, 24 Nov 2026 18:21:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 6:16 pm</title>
+      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE RADIO: 9B UNITS: A69, E61</description>
+      <guid isPermaLink="false">2026-11-24 18:16:00</guid>
+      <pubDate>Tue, 24 Nov 2026 18:16:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
       <description>I70WB / HARMONY RD, I70WB / HARMONY RD RADIO: 9B UNITS: E121, E73, R8, A129, A89</description>
@@ -294,18 +306,6 @@
       <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET RADIO: 6B UNITS: BR285</description>
       <guid isPermaLink="false">2026-11-22 18:56:00</guid>
       <pubDate>Sun, 22 Nov 2026 18:56:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:52 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET RADIO: 6B UNITS: E281</description>
-      <guid isPermaLink="false">2026-11-22 18:52:00</guid>
-      <pubDate>Sun, 22 Nov 2026 18:52:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:45 pm</title>
-      <description>RT15NB / OLD FREDERICK RD (HANSONVILLE), RT15NB / OLD FREDERICK RD RADIO: 9D UNITS: W22</description>
-      <guid isPermaLink="false">2026-11-22 17:45:00</guid>
-      <pubDate>Sun, 22 Nov 2026 17:45:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
