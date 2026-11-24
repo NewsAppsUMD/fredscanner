@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 23 Nov 2026 23:31:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:06:58 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:49 pm</title>
+      <description>2100 BLOCK PAXTON TER RADIO: 9C UNITS: E11, TT4</description>
+      <guid isPermaLink="false">2026-11-23 18:49:00</guid>
+      <pubDate>Mon, 23 Nov 2026 18:49:00 -0500</pubDate>
+    </item>
     <item>
       <title>LIGHT SMOKE CONDITIONS: 6:05 pm</title>
       <description>200 BLOCK HARPERS WAY RADIO: 9C UNITS: A18</description>
@@ -300,12 +306,6 @@
       <description>5800 BLOCK MARY LOU LN RADIO: 9C UNITS: E11, TT4</description>
       <guid isPermaLink="false">2026-11-22 04:48:00</guid>
       <pubDate>Sun, 22 Nov 2026 04:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:19 am</title>
-      <description>5800 BLOCK MARY LOU LN RADIO: 9C UNITS: E11, TT4</description>
-      <guid isPermaLink="false">2026-11-22 04:19:00</guid>
-      <pubDate>Sun, 22 Nov 2026 04:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
