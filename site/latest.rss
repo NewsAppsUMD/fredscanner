@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 24 Nov 2026 23:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:07:16 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 6:31 pm</title>
+      <description>100 BLOCK WILLOWDALE DR, BLDG:C, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR RADIO: 9C UNITS: E11, TT4</description>
+      <guid isPermaLink="false">2026-11-24 18:31:00</guid>
+      <pubDate>Tue, 24 Nov 2026 18:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 6:21 pm</title>
       <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK RADIO: 9B UNITS: A18, E11</description>
@@ -300,12 +306,6 @@
       <description>5900 BLOCK JEFFERSON COMMONS WAY RADIO: 9C UNITS: E11, PE311, TT4</description>
       <guid isPermaLink="false">2026-11-22 19:51:00</guid>
       <pubDate>Sun, 22 Nov 2026 19:51:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>BRUSH FIRE: 6:56 pm</title>
-      <description>12700 BLOCK JAMES MONROE HWY SUNOCO GAS MART CIGARETTE OUTLET RADIO: 6B UNITS: BR285</description>
-      <guid isPermaLink="false">2026-11-22 18:56:00</guid>
-      <pubDate>Sun, 22 Nov 2026 18:56:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
