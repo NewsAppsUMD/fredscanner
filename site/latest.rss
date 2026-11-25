@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 22:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 22:31:16 +0000</lastBuildDate>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:10 pm</title>
+      <description>S JEFF ST @ RT15 HWY / CATOCTIN MOUNTAIN HWY RADIO: 9B UNITS: A38, E33</description>
+      <guid isPermaLink="false">2026-11-25 17:10:00</guid>
+      <pubDate>Wed, 25 Nov 2026 17:10:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:24 pm</title>
       <description>5500 BLOCK MOUNTVILLE RD RADIO: 9B UNITS: A319, R14</description>
@@ -300,12 +306,6 @@
       <description>I70EB / BLACKROCK RD UNITS: E82</description>
       <guid isPermaLink="false">2026-11-24 08:37:00</guid>
       <pubDate>Tue, 24 Nov 2026 08:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:19 pm</title>
-      <description>500 BLOCK PATTON CIR, BUCKINGHAM CONDOS - 500 BLOCK PATTON CIR RADIO: 9C UNITS: PE311, TW1</description>
-      <guid isPermaLink="false">2026-11-23 23:19:00</guid>
-      <pubDate>Mon, 23 Nov 2026 23:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
