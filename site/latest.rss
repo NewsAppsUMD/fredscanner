@@ -6,7 +6,37 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 08:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:02:58 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 3:58 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: HMSU33</description>
+      <guid isPermaLink="false">2026-11-25 03:58:00</guid>
+      <pubDate>Wed, 25 Nov 2026 03:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:55 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: ALS2</description>
+      <guid isPermaLink="false">2026-11-25 03:55:00</guid>
+      <pubDate>Wed, 25 Nov 2026 03:55:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - HAZMAT: 3:50 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: HM33</description>
+      <guid isPermaLink="false">2026-11-25 03:50:00</guid>
+      <pubDate>Wed, 25 Nov 2026 03:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:35 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST UNITS: ALS4, EMS901</description>
+      <guid isPermaLink="false">2026-11-25 03:35:00</guid>
+      <pubDate>Wed, 25 Nov 2026 03:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ALS: 3:34 am</title>
+      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST UNITS: E11, E33, R2, A19, A38</description>
+      <guid isPermaLink="false">2026-11-25 03:34:00</guid>
+      <pubDate>Wed, 25 Nov 2026 03:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>UNKNOWN ODOR INSIDE: 2:19 am</title>
       <description>9800 BLOCK CROSSFIELD RD RADIO: TAC1OPS UNITS: R8</description>
@@ -276,36 +306,6 @@
       <description>10500 BLOCK WHISKEY RD, WHISKEY CREEK GOLF MAINTENANCE BLDG RADIO: 9D UNITS: A259, PE251, EMS901, E251</description>
       <guid isPermaLink="false">2026-11-23 12:00:00</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 11:42 am</title>
-      <description>FIRST BLOCK OF S CHURCH ST, CHRIST REFORMED CHURCH RADIO: 9C UNITS: E73, TW7</description>
-      <guid isPermaLink="false">2026-11-23 11:42:00</guid>
-      <pubDate>Mon, 23 Nov 2026 11:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: R24</description>
-      <guid isPermaLink="false">2026-11-23 11:39:00</guid>
-      <pubDate>Mon, 23 Nov 2026 11:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:39 am</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: R2</description>
-      <guid isPermaLink="false">2026-11-23 11:39:00</guid>
-      <pubDate>Mon, 23 Nov 2026 11:39:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 11:37 am</title>
-      <description>1300 BLOCK W PATRICK ST, STERLING OPTICAL - FREDERICK TOWNE MALL / DISTRICT 40 RADIO: 9C UNITS: E11, E33, TT4</description>
-      <guid isPermaLink="false">2026-11-23 11:37:00</guid>
-      <pubDate>Mon, 23 Nov 2026 11:37:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 11:33 am</title>
-      <description>RT15NB / SUNDAYS LN, RT15NB / SUNDAYS LN RADIO: 9B UNITS: E291, E111, R24, A299, A229, E221</description>
-      <guid isPermaLink="false">2026-11-23 11:33:00</guid>
-      <pubDate>Mon, 23 Nov 2026 11:33:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
