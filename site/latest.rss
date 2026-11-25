@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 12:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:35:42 +0000</lastBuildDate>
+    <item>
+      <title>GAS ODOR OUTSIDE: 7:14 am</title>
+      <description>7800 BLOCK OAK LEAF CT RADIO: 9C UNITS: E172</description>
+      <guid isPermaLink="false">2026-11-25 07:14:00</guid>
+      <pubDate>Wed, 25 Nov 2026 07:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:03 am</title>
+      <description>1200 BLOCK STALEY AVE RADIO: 9B UNITS: A28, E23</description>
+      <guid isPermaLink="false">2026-11-25 07:03:00</guid>
+      <pubDate>Wed, 25 Nov 2026 07:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - HAZMAT: 3:58 am</title>
       <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: HMSU33</description>
@@ -294,18 +306,6 @@
       <description>6800 BLOCK PICNIC WOODS RD RADIO: 9C UNITS: E73</description>
       <guid isPermaLink="false">2026-11-23 12:49:00</guid>
       <pubDate>Mon, 23 Nov 2026 12:49:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMALL BUILDING FIRE: 12:15 pm</title>
-      <description>5600 BLOCK MANOR WOODS RD RADIO: 9C UNITS: E141, PE311, R20, EK204, A149</description>
-      <guid isPermaLink="false">2026-11-23 12:15:00</guid>
-      <pubDate>Mon, 23 Nov 2026 12:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>PEDESTRIAN STRUCK - ALS: 12:00 pm</title>
-      <description>10500 BLOCK WHISKEY RD, WHISKEY CREEK GOLF MAINTENANCE BLDG RADIO: 9D UNITS: A259, PE251, EMS901, E251</description>
-      <guid isPermaLink="false">2026-11-23 12:00:00</guid>
-      <pubDate>Mon, 23 Nov 2026 12:00:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
