@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Nov 2026 14:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 15:02:51 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:53 am</title>
+      <description>8400 BLOCK PROGRESS DR RADIO: 9C UNITS: TT4</description>
+      <guid isPermaLink="false">2026-11-25 09:53:00</guid>
+      <pubDate>Wed, 25 Nov 2026 09:53:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
+      <description>8400 BLOCK PROGRESS DR RADIO: 9C UNITS: E111, Q11</description>
+      <guid isPermaLink="false">2026-11-25 09:48:00</guid>
+      <pubDate>Wed, 25 Nov 2026 09:48:00 -0500</pubDate>
+    </item>
     <item>
       <title>GAS ODOR OUTSIDE: 7:14 am</title>
       <description>7800 BLOCK OAK LEAF CT RADIO: 9C UNITS: E172</description>
@@ -294,18 +306,6 @@
       <description>PRESIDENTS CT / CORPORATE DR RADIO: 9D UNITS: BC903</description>
       <guid isPermaLink="false">2026-11-23 13:33:00</guid>
       <pubDate>Mon, 23 Nov 2026 13:33:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 1:31 pm</title>
-      <description>PRESIDENTS CT / CORPORATE DR UNITS: E33, R2, A37, ALS4, BC901, EMS901</description>
-      <guid isPermaLink="false">2026-11-23 13:31:00</guid>
-      <pubDate>Mon, 23 Nov 2026 13:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 12:49 pm</title>
-      <description>6800 BLOCK PICNIC WOODS RD RADIO: 9C UNITS: E73</description>
-      <guid isPermaLink="false">2026-11-23 12:49:00</guid>
-      <pubDate>Mon, 23 Nov 2026 12:49:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
