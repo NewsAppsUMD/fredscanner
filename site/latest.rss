@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 15:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:02:52 +0000</lastBuildDate>
+    <item>
+      <title>INVESTIGATION: 10:45 am</title>
+      <description>6900 BLOCK LORDS CT, KINGSCREST APTS - 6900 BLOCK LORDS CT RADIO: 9C UNITS: PE311</description>
+      <guid isPermaLink="false">2026-11-26 10:45:00</guid>
+      <pubDate>Thu, 26 Nov 2026 10:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 10:41 am</title>
+      <description>TENTH AVE / LOCOMOTIVE ALY RADIO: 9C UNITS: BR55</description>
+      <guid isPermaLink="false">2026-11-26 10:41:00</guid>
+      <pubDate>Thu, 26 Nov 2026 10:41:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 10:29 am</title>
       <description>8200 BLOCK GAMBRILL PARK RD RADIO: 9C UNITS: BR125</description>
@@ -294,18 +306,6 @@
       <description>10200 BLOCK OLD FREDERICK RD, BLDG:B, UTICA DISTRICT PARK RADIO: 9D UNITS: E291, R24, A229, PE23, E221, BC902, EMS902</description>
       <guid isPermaLink="false">2026-11-24 21:42:00</guid>
       <pubDate>Tue, 24 Nov 2026 21:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ENTRAPMENT: 9:08 pm</title>
-      <description>100 BLOCK THOMAS JOHNSON DR, ROY ROGERS - AMBER MEADOWS RADIO: 9D UNITS: E291, R2, A299, ALS29, BC902, EMS902</description>
-      <guid isPermaLink="false">2026-11-24 21:08:00</guid>
-      <pubDate>Tue, 24 Nov 2026 21:08:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:07 pm</title>
-      <description>100 BLOCK MERCER CT, FAIRFIELD CONDOS - 100 BLOCK MERCER CT RADIO: 9C UNITS: E11, TT4</description>
-      <guid isPermaLink="false">2026-11-24 21:07:00</guid>
-      <pubDate>Tue, 24 Nov 2026 21:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
