@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 11:31:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:51 am</title>
+      <description>13600 BLOCK WOLFSVILLE RD RADIO: 9C UNITS: BR216</description>
+      <guid isPermaLink="false">2026-11-26 06:51:00</guid>
+      <pubDate>Thu, 26 Nov 2026 06:51:00 -0500</pubDate>
+    </item>
     <item>
       <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 6:26 am</title>
       <description>8800 BLOCK LONGS MILL RD RADIO: 9C UNITS: E162</description>
@@ -300,12 +306,6 @@
       <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD UNITS: PE102, E291, R10, A308, A248, E221</description>
       <guid isPermaLink="false">2026-11-24 15:19:00</guid>
       <pubDate>Tue, 24 Nov 2026 15:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ENTRAPMENT - PERIPHERAL: 3:02 pm</title>
-      <description>1000 BLOCK N MARKET ST, YMCA FREDERICK UNITS: E23, R2, A28</description>
-      <guid isPermaLink="false">2026-11-24 15:02:00</guid>
-      <pubDate>Tue, 24 Nov 2026 15:02:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
