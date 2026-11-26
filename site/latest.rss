@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 13:31:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:02:53 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:36 am</title>
+      <description>STOTTLEMYER RD / FOXVILLE RD RADIO: 9C UNITS: BR106</description>
+      <guid isPermaLink="false">2026-11-26 08:36:00</guid>
+      <pubDate>Thu, 26 Nov 2026 08:36:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS RADIO: 9C UNITS: PE23</description>
@@ -300,12 +306,6 @@
       <description>1700 BLOCK CASTLE ROCK RD UNITS: E111</description>
       <guid isPermaLink="false">2026-11-24 17:42:00</guid>
       <pubDate>Tue, 24 Nov 2026 17:42:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:22 pm</title>
-      <description>RT80 / RT75, RT80 / RT75 UNITS: A259, PE251</description>
-      <guid isPermaLink="false">2026-11-24 17:22:00</guid>
-      <pubDate>Tue, 24 Nov 2026 17:22:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
