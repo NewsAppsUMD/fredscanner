@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 16:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 17:02:25 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:38 am</title>
+      <description>7600 BLOCK PICNIC WOODS RD RADIO: 9C UNITS: BR75</description>
+      <guid isPermaLink="false">2026-11-26 11:38:00</guid>
+      <pubDate>Thu, 26 Nov 2026 11:38:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 11:36 am</title>
+      <description>3000 BLOCK LOCKWOOD DR RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-26 11:36:00</guid>
+      <pubDate>Thu, 26 Nov 2026 11:36:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:32 am</title>
+      <description>1100 BLOCK MARTHAS CT E RADIO: 9C UNITS: PE52</description>
+      <guid isPermaLink="false">2026-11-26 11:32:00</guid>
+      <pubDate>Thu, 26 Nov 2026 11:32:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 11:25 am</title>
       <description>100 BLOCK LINDEN BLVD RADIO: 9C UNITS: BR75</description>
@@ -288,24 +306,6 @@
       <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST UNITS: E11, E33, R2, A19, A38</description>
       <guid isPermaLink="false">2026-11-25 03:34:00</guid>
       <pubDate>Wed, 25 Nov 2026 03:34:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNKNOWN ODOR INSIDE: 2:19 am</title>
-      <description>9800 BLOCK CROSSFIELD RD RADIO: TAC1OPS UNITS: R8</description>
-      <guid isPermaLink="false">2026-11-25 02:19:00</guid>
-      <pubDate>Wed, 25 Nov 2026 02:19:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:45 am</title>
-      <description>11200 BLOCK COUNTRY CLUB RD RADIO: 9C UNITS: E153</description>
-      <guid isPermaLink="false">2026-11-25 01:45:00</guid>
-      <pubDate>Wed, 25 Nov 2026 01:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 10:41 pm</title>
-      <description>8700 BLOCK GAS HOUSE PIKE, ALDI FOODS DISTRIBUTION CENTER RADIO: 9C UNITS: E23</description>
-      <guid isPermaLink="false">2026-11-24 22:41:00</guid>
-      <pubDate>Tue, 24 Nov 2026 22:41:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
