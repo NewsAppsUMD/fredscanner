@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 13:02:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:31:15 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 8:22 am</title>
+      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS RADIO: 9C UNITS: PE23</description>
+      <guid isPermaLink="false">2026-11-26 08:22:00</guid>
+      <pubDate>Thu, 26 Nov 2026 08:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 8:08 am</title>
+      <description>8600 BLOCK HOLLOW RD RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-26 08:08:00</guid>
+      <pubDate>Thu, 26 Nov 2026 08:08:00 -0500</pubDate>
+    </item>
     <item>
       <title>COMMERCIAL FIRE ALARM: 7:52 am</title>
       <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS RADIO: 9C UNITS: PE23</description>
@@ -294,18 +306,6 @@
       <description>RT80 / RT75, RT80 / RT75 UNITS: A259, PE251</description>
       <guid isPermaLink="false">2026-11-24 17:22:00</guid>
       <pubDate>Tue, 24 Nov 2026 17:22:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR INSIDE: 5:15 pm</title>
-      <description>9500 BLOCK BELLHAVEN CT RADIO: 9C UNITS: E331, E153, TT4</description>
-      <guid isPermaLink="false">2026-11-24 17:15:00</guid>
-      <pubDate>Tue, 24 Nov 2026 17:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 5:07 pm</title>
-      <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD UNITS: ALS20, EMS901</description>
-      <guid isPermaLink="false">2026-11-24 17:07:00</guid>
-      <pubDate>Tue, 24 Nov 2026 17:07:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
