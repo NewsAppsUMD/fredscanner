@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 12:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:35:56 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 7:22 am</title>
+      <description>900 BLOCK TOLL HOUSE AVE, FREDERICK SURGIAL BLDG QUEST DIAGNOSTICS RADIO: 9C UNITS: PE23, TT4</description>
+      <guid isPermaLink="false">2026-11-26 07:22:00</guid>
+      <pubDate>Thu, 26 Nov 2026 07:22:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:14 am</title>
+      <description>MARKER RD / OLD NATIONAL PIKE RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-26 07:14:00</guid>
+      <pubDate>Thu, 26 Nov 2026 07:14:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 7:03 am</title>
+      <description>6800 BLOCK RED BIRD LN RADIO: 9C UNITS: BR106</description>
+      <guid isPermaLink="false">2026-11-26 07:03:00</guid>
+      <pubDate>Thu, 26 Nov 2026 07:03:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:51 am</title>
       <description>13600 BLOCK WOLFSVILLE RD RADIO: 9C UNITS: BR216</description>
@@ -288,24 +306,6 @@
       <description>RT340EB / MOUNT ZION RD, RT340EB / MOUNT ZION RD UNITS: E201, E11, R2, A209, A37</description>
       <guid isPermaLink="false">2026-11-24 17:04:00</guid>
       <pubDate>Tue, 24 Nov 2026 17:04:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 4:53 pm</title>
-      <description>4900 BLOCK NEW DESIGN RD, TEXCELL RADIO: 9C UNITS: E311, TT4</description>
-      <guid isPermaLink="false">2026-11-24 16:53:00</guid>
-      <pubDate>Tue, 24 Nov 2026 16:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>UNIT TRANSFER TO OTHER STATION: 4:02 pm</title>
-      <description>FIRST BLOCK OF W FREDERICK ST, STATION 24 UNITS: ALS17</description>
-      <guid isPermaLink="false">2026-11-24 16:02:00</guid>
-      <pubDate>Tue, 24 Nov 2026 16:02:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 3:19 pm</title>
-      <description>RT15SB / ANGLEBERGER RD, RT15SB / ANGLEBERGER RD UNITS: PE102, E291, R10, A308, A248, E221</description>
-      <guid isPermaLink="false">2026-11-24 15:19:00</guid>
-      <pubDate>Tue, 24 Nov 2026 15:19:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
