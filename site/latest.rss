@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 01:32:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:32:15 +0000</lastBuildDate>
+    <item>
+      <title>SMALL BUILDING FIRE: 9:15 pm</title>
+      <description>14600 BLOCK STOTTLEMYER RD RADIO: 9C UNITS: K10</description>
+      <guid isPermaLink="false">2026-11-25 21:15:00</guid>
+      <pubDate>Wed, 25 Nov 2026 21:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SMALL BUILDING FIRE: 9:09 pm</title>
+      <description>14600 BLOCK STOTTLEMYER RD RADIO: 9C UNITS: PE102, R10, K21, E212, E511, A309</description>
+      <guid isPermaLink="false">2026-11-25 21:09:00</guid>
+      <pubDate>Wed, 25 Nov 2026 21:09:00 -0500</pubDate>
+    </item>
     <item>
       <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 5:10 pm</title>
       <description>S JEFF ST @ RT15 HWY / CATOCTIN MOUNTAIN HWY RADIO: 9B UNITS: A38, E33</description>
@@ -294,18 +306,6 @@
       <description>I70EB / RT340-15(RT15-340), I70EB / RT340-15 RADIO: 9B UNITS: E121, E33, R2, A129, A319</description>
       <guid isPermaLink="false">2026-11-24 09:06:00</guid>
       <pubDate>Tue, 24 Nov 2026 09:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 8:46 am</title>
-      <description>8000 BLOCK OPOSSUMTOWN PIKE, MONOCACY MIDDLE SCHOOL RADIO: 9C UNITS: E501, TW1</description>
-      <guid isPermaLink="false">2026-11-24 08:46:00</guid>
-      <pubDate>Tue, 24 Nov 2026 08:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 8:37 am</title>
-      <description>I70EB / BLACKROCK RD UNITS: E82</description>
-      <guid isPermaLink="false">2026-11-24 08:37:00</guid>
-      <pubDate>Tue, 24 Nov 2026 08:37:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
