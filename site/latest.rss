@@ -6,7 +6,43 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 17:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:03:00 +0000</lastBuildDate>
+    <item>
+      <title>SMALL STRUCTURAL COLLAPSE: 12:50 pm</title>
+      <description>3100 BLOCK PHEASANT RUN RADIO: 9D UNITS: E153, E152, HM33, TR29, A238, BC901, SAF901, EMS902, TT23</description>
+      <guid isPermaLink="false">2026-11-26 12:50:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:50:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 12:48 pm</title>
+      <description>OLD ANNAPOLIS RD / CHESTNUT GROVE RD RADIO: 9C UNITS: BR176</description>
+      <guid isPermaLink="false">2026-11-26 12:48:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:48:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:46 pm</title>
+      <description>800 BLOCK KNOXVILLE RD RADIO: 9C UNITS: BR55</description>
+      <guid isPermaLink="false">2026-11-26 12:46:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:46:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>ELECTRICAL HAZARD - INVESTIGATION: 12:45 pm</title>
+      <description>200 BLOCK IVY HILL DR RADIO: 9C UNITS: E73</description>
+      <guid isPermaLink="false">2026-11-26 12:45:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:42 pm</title>
+      <description>200 BLOCK E FIFTH ST UNITS: PE23, TT4</description>
+      <guid isPermaLink="false">2026-11-26 12:42:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:42:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>MUTUAL AID: 12:37 pm</title>
+      <description>20800 BLOCK BIG WOODS RD RADIO: 7A1 UNITS: E281</description>
+      <guid isPermaLink="false">2026-11-26 12:37:00</guid>
+      <pubDate>Thu, 26 Nov 2026 12:37:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 12:22 pm</title>
       <description>I70WB / 37MM UNITS: A89, E82</description>
@@ -270,42 +306,6 @@
       <description>8400 BLOCK PROGRESS DR RADIO: 9C UNITS: TT4</description>
       <guid isPermaLink="false">2026-11-25 09:53:00</guid>
       <pubDate>Wed, 25 Nov 2026 09:53:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 9:48 am</title>
-      <description>8400 BLOCK PROGRESS DR RADIO: 9C UNITS: E111, Q11</description>
-      <guid isPermaLink="false">2026-11-25 09:48:00</guid>
-      <pubDate>Wed, 25 Nov 2026 09:48:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 7:14 am</title>
-      <description>7800 BLOCK OAK LEAF CT RADIO: 9C UNITS: E172</description>
-      <guid isPermaLink="false">2026-11-25 07:14:00</guid>
-      <pubDate>Wed, 25 Nov 2026 07:14:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 7:03 am</title>
-      <description>1200 BLOCK STALEY AVE RADIO: 9B UNITS: A28, E23</description>
-      <guid isPermaLink="false">2026-11-25 07:03:00</guid>
-      <pubDate>Wed, 25 Nov 2026 07:03:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HAZMAT: 3:58 am</title>
-      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: HMSU33</description>
-      <guid isPermaLink="false">2026-11-25 03:58:00</guid>
-      <pubDate>Wed, 25 Nov 2026 03:58:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ALS: 3:55 am</title>
-      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: ALS2</description>
-      <guid isPermaLink="false">2026-11-25 03:55:00</guid>
-      <pubDate>Wed, 25 Nov 2026 03:55:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - HAZMAT: 3:50 am</title>
-      <description>RT15SB / S JEFFERSON ST, RT15SB / S JEFFERSON ST RADIO: 9B UNITS: HM33</description>
-      <guid isPermaLink="false">2026-11-25 03:50:00</guid>
-      <pubDate>Wed, 25 Nov 2026 03:50:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
