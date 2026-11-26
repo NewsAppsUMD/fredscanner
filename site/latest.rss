@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 20:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:31:12 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:15 pm</title>
+      <description>RT340 / ROHRERSVILLE RD UNITS: E52</description>
+      <guid isPermaLink="false">2026-11-26 15:15:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:15:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 3:10 pm</title>
+      <description>RT340 / ROHRERSVILLE RD UNITS: R19</description>
+      <guid isPermaLink="false">2026-11-26 15:10:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:10:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 3:08 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM (near US 40, Exit 48) RADIO: 9D UNITS: A89, E82</description>
+      <guid isPermaLink="false">2026-11-26 15:08:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:08:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>PEDESTRIAN STRUCK - ALS: 3:05 pm</title>
+      <description>I70WB / 48MM, I70WB / 48MM (near US 40, Exit 48) RADIO: 9D UNITS: A129, ALS31, E121, EMS901</description>
+      <guid isPermaLink="false">2026-11-26 15:05:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:05:00 -0500</pubDate>
+    </item>
     <item>
       <title>APPLIANCE FIRE CONTAINED: 2:56 pm</title>
       <description>7100 BLOCK MCHENRY MEWS RADIO: 9C UNITS: PE23, E501, TT23</description>
@@ -282,30 +306,6 @@
       <description>I70WB / 46MM, I70WB / 46MM RADIO: 9D UNITS: E11, E73, R8, A19, A89, ALS8, BC903, EMS902</description>
       <guid isPermaLink="false">2026-11-26 05:11:00</guid>
       <pubDate>Thu, 26 Nov 2026 05:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 4:32 am</title>
-      <description>I270SB / 29MM, I270SB / 29MM RADIO: 9D UNITS: PE311, E231, R2, A38, A238, BC901, EMS901, TT23</description>
-      <guid isPermaLink="false">2026-11-26 04:32:00</guid>
-      <pubDate>Thu, 26 Nov 2026 04:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:41 am</title>
-      <description>FIRST BLOCK OF E FREDERICK ST, AMERICAN RED CROSS - WALKERSVILLE RADIO: 9C UNITS: E111, Q11</description>
-      <guid isPermaLink="false">2026-11-26 00:41:00</guid>
-      <pubDate>Thu, 26 Nov 2026 00:41:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>TRANSFORMER FIRE: 11:12 pm</title>
-      <description>400 BLOCK BIGGS AVE RADIO: 9C UNITS: E11</description>
-      <guid isPermaLink="false">2026-11-25 23:12:00</guid>
-      <pubDate>Wed, 25 Nov 2026 23:12:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 10:11 pm</title>
-      <description>3400 BLOCK WORTHINGTON BLVD, FHH IMMEDIATE CARE - URBANA RADIO: 9C UNITS: E231, TT23</description>
-      <guid isPermaLink="false">2026-11-25 22:11:00</guid>
-      <pubDate>Wed, 25 Nov 2026 22:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
