@@ -6,7 +6,31 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 14:02:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:31:19 +0000</lastBuildDate>
+    <item>
+      <title>VEHICLE ACCIDENT - ROLLOVER: 9:28 am</title>
+      <description>6200 BLOCK DICKERSON RD RADIO: 9B UNITS: E281, R20, BC902, EMS902</description>
+      <guid isPermaLink="false">2026-11-26 09:28:00</guid>
+      <pubDate>Thu, 26 Nov 2026 09:28:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 9:26 am</title>
+      <description>6200 BLOCK DICKERSON RD RADIO: 9B UNITS: A149, R14</description>
+      <guid isPermaLink="false">2026-11-26 09:26:00</guid>
+      <pubDate>Thu, 26 Nov 2026 09:26:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:19 am</title>
+      <description>2600 BLOCK S EVERLY DR RADIO: 9C UNITS: E291, Q11</description>
+      <guid isPermaLink="false">2026-11-26 09:19:00</guid>
+      <pubDate>Thu, 26 Nov 2026 09:19:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>TRANSFORMER FIRE: 9:18 am</title>
+      <description>2700 BLOCK THURSTON RD, ACROSS FROM LOCATION RADIO: 9C UNITS: BR235</description>
+      <guid isPermaLink="false">2026-11-26 09:18:00</guid>
+      <pubDate>Thu, 26 Nov 2026 09:18:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 8:36 am</title>
       <description>STOTTLEMYER RD / FOXVILLE RD RADIO: 9C UNITS: BR106</description>
@@ -282,30 +306,6 @@
       <description>100 BLOCK WILLOWDALE DR, BLDG:C, WILLOWDALE CROSSING APTS - 100 BLOCK WILLOWDALE DR RADIO: 9C UNITS: E11, TT4</description>
       <guid isPermaLink="false">2026-11-24 18:31:00</guid>
       <pubDate>Tue, 24 Nov 2026 18:31:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:21 pm</title>
-      <description>400 BLOCK S JEFFERSON ST, CVS PHARMACY - S JEFFERSON ST - FREDERICK RADIO: 9B UNITS: A18, E11</description>
-      <guid isPermaLink="false">2026-11-24 18:21:00</guid>
-      <pubDate>Tue, 24 Nov 2026 18:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 6:16 pm</title>
-      <description>RT15SB / N SETON AVE, RT15SB / N SETON AVE RADIO: 9B UNITS: A69, E61</description>
-      <guid isPermaLink="false">2026-11-24 18:16:00</guid>
-      <pubDate>Tue, 24 Nov 2026 18:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 5:57 pm</title>
-      <description>I70WB / HARMONY RD, I70WB / HARMONY RD RADIO: 9B UNITS: E121, E73, R8, A129, A89</description>
-      <guid isPermaLink="false">2026-11-24 17:57:00</guid>
-      <pubDate>Tue, 24 Nov 2026 17:57:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>GAS ODOR OUTSIDE: 5:42 pm</title>
-      <description>1700 BLOCK CASTLE ROCK RD UNITS: E111</description>
-      <guid isPermaLink="false">2026-11-24 17:42:00</guid>
-      <pubDate>Tue, 24 Nov 2026 17:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
