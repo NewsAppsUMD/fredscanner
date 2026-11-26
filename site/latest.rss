@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 26 Nov 2026 20:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 21:02:27 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 3:58 pm</title>
+      <description>8300 BLOCK PALMER RD RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-26 15:58:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:58:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 3:35 pm</title>
+      <description>6500 BLOCK CARRIE LYNN CT RADIO: 9B UNITS: E172</description>
+      <guid isPermaLink="false">2026-11-26 15:35:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:35:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - ENTRAPMENT: 3:31 pm</title>
+      <description>I70EB / RT144 (FRED), I70EB / RT144 RADIO: 9D UNITS: E33, E331, R2, A38, A339, ALS31, BC903, EMS901</description>
+      <guid isPermaLink="false">2026-11-26 15:31:00</guid>
+      <pubDate>Thu, 26 Nov 2026 15:31:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 3:15 pm</title>
       <description>RT340 / ROHRERSVILLE RD UNITS: E52</description>
@@ -288,24 +306,6 @@
       <description>8800 BLOCK LONGS MILL RD RADIO: 9C UNITS: E132</description>
       <guid isPermaLink="false">2026-11-26 06:21:00</guid>
       <pubDate>Thu, 26 Nov 2026 06:21:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 6:00 am</title>
-      <description>900 BLOCK TOLL HOUSE AVE, QUEST DIAGNOSTICS RADIO: 9C UNITS: PE23, TT4</description>
-      <guid isPermaLink="false">2026-11-26 06:00:00</guid>
-      <pubDate>Thu, 26 Nov 2026 06:00:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:17 am</title>
-      <description>I70WB / 46MM, I70WB / 46MM RADIO: 9D UNITS: A18</description>
-      <guid isPermaLink="false">2026-11-26 05:17:00</guid>
-      <pubDate>Thu, 26 Nov 2026 05:17:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - ROLLOVER: 5:11 am</title>
-      <description>I70WB / 46MM, I70WB / 46MM RADIO: 9D UNITS: E11, E73, R8, A19, A89, ALS8, BC903, EMS902</description>
-      <guid isPermaLink="false">2026-11-26 05:11:00</guid>
-      <pubDate>Thu, 26 Nov 2026 05:11:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
