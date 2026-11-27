@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 21:31:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 22:02:29 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 4:57 pm</title>
+      <description>3000 BLOCK LOCKWOOD DR RADIO: 9C UNITS: BR85</description>
+      <guid isPermaLink="false">2026-11-27 16:57:00</guid>
+      <pubDate>Fri, 27 Nov 2026 16:57:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>VEHICLE ACCIDENT - BLS: 4:34 pm</title>
+      <description>6400 BLOCK CHRISTOPHERS XING, HIGHGLEN RADIO: 9B UNITS: A18, E11</description>
+      <guid isPermaLink="false">2026-11-27 16:34:00</guid>
+      <pubDate>Fri, 27 Nov 2026 16:34:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>CHECK UP AFTER ACCIDENT - POLICE ON SCENE: 4:33 pm</title>
+      <description>100 BLOCK S SETON AVE RADIO: 9B UNITS: A68, E61</description>
+      <guid isPermaLink="false">2026-11-27 16:33:00</guid>
+      <pubDate>Fri, 27 Nov 2026 16:33:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 4:09 pm</title>
       <description>FOXVILLE RD / CATOCTIN HOLLOW RD RADIO: 9B UNITS: A229, R10, A309</description>
@@ -288,24 +306,6 @@
       <description>WIGVILLE RD / CATOCTIN HOLLOW RD RADIO: 9C UNITS: BR106</description>
       <guid isPermaLink="false">2026-11-26 13:43:00</guid>
       <pubDate>Thu, 26 Nov 2026 13:43:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 1:16 pm</title>
-      <description>10400 BLOCK CHURCH HILL RD UNITS: BR85</description>
-      <guid isPermaLink="false">2026-11-26 13:16:00</guid>
-      <pubDate>Thu, 26 Nov 2026 13:16:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 1:06 pm</title>
-      <description>3500 BLOCK WORTHINGTON BLVD RADIO: 9C UNITS: PE311</description>
-      <guid isPermaLink="false">2026-11-26 13:06:00</guid>
-      <pubDate>Thu, 26 Nov 2026 13:06:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WOODS FIRE: 1:05 pm</title>
-      <description>GARFIELD RD / BRANDENBURG HOLLOW RD RADIO: 9C UNITS: E212, K21, BR216</description>
-      <guid isPermaLink="false">2026-11-26 13:05:00</guid>
-      <pubDate>Thu, 26 Nov 2026 13:05:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
