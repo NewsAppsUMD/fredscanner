@@ -6,7 +6,25 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 11:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:03:39 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:49 am</title>
+      <description>CATOCTIN HOLLOW RD / MINK FARM RD RADIO: 9C UNITS: PE102</description>
+      <guid isPermaLink="false">2026-11-27 06:49:00</guid>
+      <pubDate>Fri, 27 Nov 2026 06:49:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:45 am</title>
+      <description>PRYOR RD / RT15, PRYOR RD / RT15 RADIO: 9C UNITS: BR106</description>
+      <guid isPermaLink="false">2026-11-27 06:45:00</guid>
+      <pubDate>Fri, 27 Nov 2026 06:45:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:45 am</title>
+      <description>REELS MILL RD / RAILROAD XING RADIO: 9C UNITS: BR235</description>
+      <guid isPermaLink="false">2026-11-27 06:45:00</guid>
+      <pubDate>Fri, 27 Nov 2026 06:45:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 6:21 am</title>
       <description>STOTTLEMYER RD / RIDENOUR RD, NORTH OF RADIO: 9C UNITS: BR216</description>
@@ -288,24 +306,6 @@
       <description>200 BLOCK S JEFFERSON ST RADIO: 9C UNITS: E33, TT4</description>
       <guid isPermaLink="false">2026-11-26 12:15:00</guid>
       <pubDate>Thu, 26 Nov 2026 12:15:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:38 am</title>
-      <description>7600 BLOCK PICNIC WOODS RD RADIO: 9C UNITS: BR75</description>
-      <guid isPermaLink="false">2026-11-26 11:38:00</guid>
-      <pubDate>Thu, 26 Nov 2026 11:38:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:36 am</title>
-      <description>3000 BLOCK LOCKWOOD DR RADIO: 9C UNITS: BR85</description>
-      <guid isPermaLink="false">2026-11-26 11:36:00</guid>
-      <pubDate>Thu, 26 Nov 2026 11:36:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>RESIDENTIAL FIRE ALARM (SINGLE FAMILY RESD/ MOBILE HOME): 11:32 am</title>
-      <description>1100 BLOCK MARTHAS CT E RADIO: 9C UNITS: PE52</description>
-      <guid isPermaLink="false">2026-11-26 11:32:00</guid>
-      <pubDate>Thu, 26 Nov 2026 11:32:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
