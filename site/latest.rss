@@ -6,7 +6,13 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 11:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:31:55 +0000</lastBuildDate>
+    <item>
+      <title>WIRES DOWN OR ARCING: 6:21 am</title>
+      <description>STOTTLEMYER RD / RIDENOUR RD, NORTH OF RADIO: 9C UNITS: BR216</description>
+      <guid isPermaLink="false">2026-11-27 06:21:00</guid>
+      <pubDate>Fri, 27 Nov 2026 06:21:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 5:35 am</title>
       <description>RT15SB / PRYOR RD (S), RT15SB / PRYOR RD RADIO: 9C UNITS: BR106, BR226</description>
@@ -300,12 +306,6 @@
       <description>1100 BLOCK MARTHAS CT E RADIO: 9C UNITS: PE52</description>
       <guid isPermaLink="false">2026-11-26 11:32:00</guid>
       <pubDate>Thu, 26 Nov 2026 11:32:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>WIRES DOWN OR ARCING: 11:25 am</title>
-      <description>100 BLOCK LINDEN BLVD RADIO: 9C UNITS: BR75</description>
-      <guid isPermaLink="false">2026-11-26 11:25:00</guid>
-      <pubDate>Thu, 26 Nov 2026 11:25:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
