@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 27 Nov 2026 17:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 18:02:54 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 12:43 pm</title>
+      <description>3300 BLOCK WORTHINGTON BLVD, LEDO PIZZA RADIO: 9C UNITS: E231, TT23</description>
+      <guid isPermaLink="false">2026-11-27 12:43:00</guid>
+      <pubDate>Fri, 27 Nov 2026 12:43:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>WIRES DOWN OR ARCING: 12:40 pm</title>
+      <description>6800 BLOCK RED BIRD LN RADIO: 9C UNITS: BR106</description>
+      <guid isPermaLink="false">2026-11-27 12:40:00</guid>
+      <pubDate>Fri, 27 Nov 2026 12:40:00 -0500</pubDate>
+    </item>
     <item>
       <title>WIRES DOWN OR ARCING: 12:04 pm</title>
       <description>13000 BLOCK MARTIN RD RADIO: 9C UNITS: BR216</description>
@@ -294,18 +306,6 @@
       <description>800 BLOCK KNOXVILLE RD RADIO: 9C UNITS: BR55</description>
       <guid isPermaLink="false">2026-11-26 12:46:00</guid>
       <pubDate>Thu, 26 Nov 2026 12:46:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>ELECTRICAL HAZARD - INVESTIGATION: 12:45 pm</title>
-      <description>200 BLOCK IVY HILL DR RADIO: 9C UNITS: E73</description>
-      <guid isPermaLink="false">2026-11-26 12:45:00</guid>
-      <pubDate>Thu, 26 Nov 2026 12:45:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>COMMERCIAL FIRE ALARM: 12:42 pm</title>
-      <description>200 BLOCK E FIFTH ST UNITS: PE23, TT4</description>
-      <guid isPermaLink="false">2026-11-26 12:42:00</guid>
-      <pubDate>Thu, 26 Nov 2026 12:42:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
