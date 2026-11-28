@@ -6,7 +6,19 @@
     <description>An unofficial feed created by Derek Willis.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Nov 2026 02:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 03:02:45 +0000</lastBuildDate>
+    <item>
+      <title>COMMERCIAL FIRE ALARM: 9:54 pm</title>
+      <description>13200 BLOCK MOLASSES RD UNITS: E172, Q11</description>
+      <guid isPermaLink="false">2026-11-27 21:54:00</guid>
+      <pubDate>Fri, 27 Nov 2026 21:54:00 -0500</pubDate>
+    </item>
+    <item>
+      <title>SHOOTING - ALS: 9:34 pm</title>
+      <description>6900 BLOCK FOX CHASE RD UNITS: A339, ALS17, E153, BC901, EMS902</description>
+      <guid isPermaLink="false">2026-11-27 21:34:00</guid>
+      <pubDate>Fri, 27 Nov 2026 21:34:00 -0500</pubDate>
+    </item>
     <item>
       <title>VEHICLE ACCIDENT - BLS: 9:09 pm</title>
       <description>RAMP RT15NB TO MOTTER AVE RAMP / MOTTER AVE UNITS: A28, PE23</description>
@@ -294,18 +306,6 @@
       <description>I70WB / RIDGE RD (BRADDOCK), I70WB / RIDGE RD RADIO: 9B UNITS: E121, E73, R8, A129, A89</description>
       <guid isPermaLink="false">2026-11-26 14:27:00</guid>
       <pubDate>Thu, 26 Nov 2026 14:27:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>VEHICLE ACCIDENT - BLS: 2:11 pm</title>
-      <description>RT340EB / S MOUNTAIN RD, RT340EB / S MOUNTAIN RD RADIO: 9D UNITS: E201, R20, A196, A209, PE52</description>
-      <guid isPermaLink="false">2026-11-26 14:11:00</guid>
-      <pubDate>Thu, 26 Nov 2026 14:11:00 -0500</pubDate>
-    </item>
-    <item>
-      <title>SMALL STRUCTURAL COLLAPSE: 2:01 pm</title>
-      <description>17600 BLOCK OLD SABILLASVILLE RD UNITS: PE102, E61</description>
-      <guid isPermaLink="false">2026-11-26 14:01:00</guid>
-      <pubDate>Thu, 26 Nov 2026 14:01:00 -0500</pubDate>
     </item>
   </channel>
 </rss>
